@@ -1,1 +1,5 @@
-exclude: [ README.md update.sh deploy.sh ]
+#
+# _config.yml for HackerLogos
+#
+
+exclude: [ "deploy.sh", "README.md", "update.sh" ]
