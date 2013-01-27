@@ -1,0 +1,10 @@
+#
+# robots.txt for HackerLogos.org
+#
+
+#LATER: Sitemap: http://www.hackerlogos.org/sitemap.xml
+
+User-agent: *
+Disallow: /css
+Disallow: /honeypot.txt
+Disallow: /js
