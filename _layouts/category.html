@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>{{ page.title }}</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link href="/css/bootstrap.css" rel="stylesheet">
+	<style type="text/css">
+	.breadcrumb {
+		margin-top:10px;
+	}
+	</style>
+	<link rel="shortcut icon" href="/favicon.ico">
+</head>
+<body>
+	<div class="container-fluid">
+		<div class="row-fluid">
+			<div class="span12">
+				<ul class="breadcrumb pull-right well">
+					<li><a href="/index.html">HackerLogos</a> <span class="divider">&gt;</span></li>
+					<li>{{ page.slug|capitalize }}</li>
+				</ul>
+				<h1>{{ page.title }}</h1>
+				{% include google-adsense.html %}
+				{{ content }}
+				{% for other in site.pages %}
+					{% if other.category  == page.slug %}
+					<p><a href="{{ other.url }}">{{ other.title }}</a></p>
+					{% endif %}
+				{% endfor %}
+				{% include google-adsense.html %}
+			</div><!--/span-->
+		</div><!--/row-->
+		<hr>
+		<footer>
+			{% include footer.html %}
+		</footer>
+	</div><!--/.fluid-container-->
+<script src="http://code.jquery.com/jquery-latest.js"></script>
+<script src="/js/bootstrap.js"></script>
+{% include google-analytics.html %}
+</body>
+</html>
+
