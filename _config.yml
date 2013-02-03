@@ -2,7 +2,6 @@
 # _config.yml for HackerLogos
 #
 
-auto: true
-exclude: [ "deploy.sh", "README.md", "update.sh" ]
+exclude: [ "deploy.sh", "README.md", "run.sh", "tmp", "todo.txt" ]
 production_url: http://www.hackerlogos.org
 title : Hacker Logos
