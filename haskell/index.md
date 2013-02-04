@@ -1,11 +1,8 @@
 ---
-layout: post
 title: Haskell Logos
-tags: language
+category: language
+layout: logo
 ---
-
-# Haskell Logos
-
 
 ## Sources
 
