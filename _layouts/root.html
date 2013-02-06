@@ -4,18 +4,9 @@
 	<meta charset="utf-8">
 	<title>{{ page.title }}</title>
 	{% if page.url == '/index.html'%}{% include meta-home.html %}{% endif %}
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<link href="/css/bootstrap.css" rel="stylesheet">
-	<style type="text/css">
-	.sidebar-nav {
-		padding: 9px 0;
-		margin-top:20px;
-	}
-	</style>
-	<link rel="shortcut icon" href="/favicon.ico">
+{% include meta.html %}
 {% include google-analytics.html %}
 </head>
-
 <body>
 	<div class="container-fluid">
 		<div class="row-fluid">
