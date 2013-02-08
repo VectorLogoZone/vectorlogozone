@@ -15,9 +15,10 @@
 					<li class="active">{% assign pathparts = page.url|split:'/'%}{{ pathparts[1]|capitalize }}</li>
 				</ul>
 				<h1>{{ page.title }}</h1>
+				<div class="logo-container">
 				{{ content }}
+				</div>
 				{% include google-adsense.html %}
-				{% include disqus.html %}
 			</div><!--/span-->
 		</div><!--/row-->
 		<hr>
