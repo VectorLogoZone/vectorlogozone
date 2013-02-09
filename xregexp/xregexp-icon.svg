@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,21 +55,13 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-1020.3622)">
-    <text
-       xml:space="preserve"
-       style="font-size:44.94856261999999703px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.18493129000000000px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#999999;stroke-width:1.84899999999999998;stroke-opacity:1;font-family:Cambria;-inkscape-font-specification:Cambria;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square"
-       x="2.5530729"
-       y="1051.3586"
-       id="text2995"
-       sodipodi:linespacing="125%"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
-         sodipodi:role="line"
-         id="tspan2997"
-         x="2.5530729"
-         y="1051.3586"
-         style="font-size:44.94856261999999703px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;stroke:#999999;stroke-width:1.84899999999999998;stroke-opacity:1;font-family:Cambria;-inkscape-font-specification:Cambria;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square"><tspan
-           style="fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1.84899999999999998;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-linecap:square"
-           id="tspan4376">X</tspan></tspan></text>
+    <g
+       style="font-size:44.94856262px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:-0.18493129px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:#999999;stroke-width:1.84899998;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;font-family:Cambria;-inkscape-font-specification:Cambria"
+       id="text2995">
+      <path
+         d="m 13.10984,1021.4003 0,1.0754 c -0.702331,0.1024 -1.207124,0.2926 -1.51438,0.5706 -0.307275,0.278 -0.460907,0.6585 -0.460899,1.1413 -8e-6,0.4097 0.138993,0.9218 0.417003,1.5363 0.277993,0.6146 0.673049,1.3462 1.185168,2.1948 l 3.182393,5.3332 3.138498,-5.0699 c 0.468197,-0.7608 0.819358,-1.368 1.053482,-1.8216 0.23409,-0.4536 0.395038,-0.834 0.482846,-1.1413 0.102404,-0.3072 0.153615,-0.6218 0.153633,-0.9437 -1.8e-5,-0.4536 -0.131703,-0.834 -0.395056,-1.1413 -0.263388,-0.3219 -0.702338,-0.5413 -1.316852,-0.6584 l 0,-1.0754 8.142537,0 0,1.0754 c -0.541397,0.1756 -1.031558,0.4316 -1.470485,0.7681 -0.424342,0.3366 -0.88524,0.8268 -1.382695,1.4705 -0.482867,0.6438 -1.177872,1.6608 -2.085016,3.0507 l -4.960145,7.6817 5.574676,9.174 c 0.79009,1.3023 1.35341,2.2168 1.68996,2.7435 0.351139,0.5121 0.673036,0.9511 0.965692,1.3168 0.307242,0.3512 0.629139,0.6585 0.965692,0.9218 0.351136,0.2634 0.782771,0.4902 1.294905,0.6804 l 0,1.0754 -9.63497,0 0,-1.0754 c 0.673041,-0.117 1.170518,-0.2999 1.492432,-0.5487 0.32188,-0.2633 0.482829,-0.6511 0.482846,-1.1632 -1.7e-5,-0.4097 -0.109755,-0.8633 -0.329213,-1.3607 -0.204861,-0.4975 -0.526758,-1.112 -0.965692,-1.8436 l -3.972504,-6.6282 -4.191981,6.8696 c -0.7023284,1.1559 -1.0534887,2.107 -1.0534816,2.8532 -7.1e-6,0.4828 0.131678,0.8779 0.3950557,1.1851 0.2633629,0.3073 0.7023129,0.5195 1.3168529,0.6365 l 0,1.0754 -8.2961707,0 0,-1.0754 c 0.5413716,-0.1609 0.9876378,-0.3511 1.3387999,-0.5706 0.3511585,-0.2341 0.6876871,-0.5268 1.0095869,-0.8779 0.3218941,-0.3512 0.6803703,-0.7974 1.0754295,-1.3388 0.3950514,-0.5414 1.0242136,-1.4851 1.8874884,-2.8313 l 5.17962,-8.0767 -6.1892068,-10.1836 c -0.5852719,-0.9364 -1.0315381,-1.6168 -1.3388,-2.0411 -0.292637,-0.4243 -0.5706389,-0.7682 -0.8340065,-1.0316 -0.2487411,-0.2633 -0.4755322,-0.4462 -0.6803738,-0.5487 -0.2048454,-0.117 -0.4389522,-0.2194 -0.7023213,-0.3072 l 0,-1.0754 9.3496524,0"
+         style="fill:#999999;fill-opacity:1;stroke:#999999"
+         id="path2986" />
+    </g>
   </g>
 </svg>
