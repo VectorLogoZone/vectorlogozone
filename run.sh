@@ -1,2 +1,5 @@
 #!/bin/bash
-jekyll --auto --server 5000
+#
+# run locally
+#
+jekyll serve --drafts --watch --source www --port 5000
