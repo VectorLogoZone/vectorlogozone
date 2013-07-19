@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="hackerlogos-icon.svg"
+   inkscape:export-filename="/home/amarcuse/site/hackerlogos/hackerlogos/hackerlogos-32.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="25.65625"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1348"
+     inkscape:window-height="1000"
+     inkscape:window-x="67"
+     inkscape:window-y="80"
+     inkscape:window-maximized="0"
+     gridtolerance="10">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3809"
+       empspacing="4"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       dotted="false" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-34.09375,-340.5625)">
+    <g
+       transform="matrix(0.42795547,0,0,0.47054803,5.3046827,276.59812)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-0.1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
+       id="flowRoot2985">
+      <path
+         d="m 92.974784,152.93737 11.683456,0 0,4.25037 -2.33669,0 0,21.25181 2.33669,0 0,4.25037 -11.683456,0 0,-4.25037 2.336692,0 0,-8.50072 -9.346767,0 0,8.50072 2.336691,0 0,4.25037 -11.813119,-1e-5 0.129661,-4.25036 2.336692,0 0,-21.25181 -2.336692,0 0,-4.25037 11.683458,0 0,4.25037 -2.336691,0 0,7.41623 9.346767,0.0129 0,-7.42917 -2.336692,0 0,-4.25037"
+         style="font-weight:bold;-inkscape-font-specification:Arvo Bold"
+         id="path3812"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccc" />
+    </g>
+    <g
+       transform="matrix(0.42757433,0,0,0.47012896,7.0001472,320.92557)"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-0.1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
+       id="flowRoot2993">
+      <path
+         d="m 117.15765,58.785849 0,4.254152 -2.33878,0 0,21.270759 5.66868,0.01162 c 0.16925,5e-6 0.33201,-0.04557 0.48828,-0.136719 0.16925,-0.104161 0.31248,-0.234369 0.42968,-0.390625 0.13019,-0.156244 0.23436,-0.325514 0.3125,-0.507812 0.0781,-0.182285 0.11717,-0.358066 0.11719,-0.527344 l 0,-2.703268 7.01632,0 0.15239,8.508302 -23.67188,0 0.13174,-4.25415 2.33878,0 0,-21.270759 -2.33878,0 0,-4.254152 z"
+         style="font-weight:bold;-inkscape-font-specification:Arvo Bold"
+         id="path3815"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccc" />
+    </g>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:2.01534319;stroke-linecap:square;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="rect3001"
+       width="29.999998"
+       height="19.999989"
+       x="35.09375"
+       y="345.5625"
+       ry="1.6782906" />
+  </g>
+</svg>
