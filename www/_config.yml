@@ -2,6 +2,6 @@
 # _config.yml for HackerLogos
 #
 
-exclude: [ "bin", "*.sh", "README.md", "tmp", "todo.txt" ]
+exclude: [ "**/*_src*" ]
 production_url: http://www.hackerlogos.org
 title : Hacker Logos
