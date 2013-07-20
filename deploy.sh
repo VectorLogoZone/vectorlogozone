@@ -9,6 +9,8 @@ rsync \
 	--archive \
 	--compress \
 	--delete \
+	--exclude '*_src*' \
+	--exclude '*.sh' \
 	--ignore-times \
 	--itemize-changes \
 	--rsh "ssh -i /etc/fileformatnet/nfsnet.pem" \
