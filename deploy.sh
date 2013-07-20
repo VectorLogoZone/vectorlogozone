@@ -2,7 +2,9 @@
 #
 # deploy to NearlyFreeSpeech.net
 #
-jekyll
+
+jekyll build --source www 
+
 rsync \
 	--archive \
 	--compress \
