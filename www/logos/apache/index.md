@@ -1,6 +1,12 @@
 ---
 title: Apache Software Foundation
+layout: default
 ---
 
 
-Source: http://apache.org/foundation/press/kit/#links
+[Official logos](http://apache.org/foundation/press/kit/#links)
+
+[Format trademark policy](http://www.apache.org/foundation/marks/)
+
+Font is Verdana Bold
+
