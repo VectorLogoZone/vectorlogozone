@@ -1,7 +1,7 @@
 ---
 title: NearlyFreeSpeech.Net Logos
 category: hosting
-layout: logo
+layout: default
 ---
 The font is [Trebuchet Bold](http://www.myfonts.com/fonts/ascender/trebuchet/bold/?ref=hackerlogos).
 

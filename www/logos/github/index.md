@@ -1,6 +1,6 @@
 ---
 title: Github Logos
-layout: logo
+layout: default
 category: services
 ---
 

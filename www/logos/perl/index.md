@@ -1,6 +1,6 @@
 ---
 title: Perl Logos
-layout: logo
+layout: default
 category: language
 ---
 

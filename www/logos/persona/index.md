@@ -1,6 +1,6 @@
 ---
 title: Mozilla Persona Logos
-layout: logo
+layout: default
 category: services
 ---
 

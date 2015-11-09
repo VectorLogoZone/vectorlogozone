@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>{{ site.title }} - {{ page.title }}</title>
+	{% if page.url == '/index.html'%}{% include meta-home.html %}{% endif %}
+{% include meta.html %}
+</head>
+<body>
+{% include navbar.html %}
+	<div class="container">
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+				<h1>{% if page.h1 %}{{ page.h1 }}{% else %}{{ page.title }}{% endif %}{% if page.subtitle %} <small> - {{ page.subtitle }}</small>{% endif %}</h1>
+				{{ content }}
+			</div><!--/col-->
+		</div><!--/row-->
+		<hr>
+		{% include footer.html %}
+	</div><!--/container-->
+{% include google-analytics.html %}
+</body>
+</html>

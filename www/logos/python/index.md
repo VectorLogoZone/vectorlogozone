@@ -1,6 +1,6 @@
 ---
 title: Python Logos
-layout: logo
+layout: default
 category: language
 ---
 

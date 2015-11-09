@@ -1,6 +1,6 @@
 ---
 title: Digital Ocean Logos
-layout: logo
+layout: default
 category: service
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Ingress Logos
 category: game
-layout: logo
+layout: default
 ---
 
 The font is [Coda](http://code.newtypography.co.uk/coda-font-ingress/) and is available on [Google Fonts](http://www.google.com/fonts/specimen/Coda).

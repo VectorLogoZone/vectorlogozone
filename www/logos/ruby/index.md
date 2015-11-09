@@ -1,7 +1,7 @@
 ---
 title: Ruby Logos
 category: language
-layout: logo
+layout: default
 ---
 
 Ruby is really on the ball.  They have their own [Visual Identity Team](http://rubyidentity.org/) with a downloadable logo kit!

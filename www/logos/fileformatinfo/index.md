@@ -1,6 +1,6 @@
 ---
 title: FileFormat.Info Logos
-layout: logo
+layout: default
 category: service
 ---
 

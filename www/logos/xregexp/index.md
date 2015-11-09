@@ -1,7 +1,7 @@
 ---
 title: XRegexp Logos
 category: library
-layout: logo
+layout: default
 ---
 
 The font is [Cambria Regular](http://www.myfonts.com/fonts/ascender/cambria/regular/?refby=hackerlogos).
