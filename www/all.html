@@ -1,0 +1,13 @@
+---
+title: Available Logos
+layout: default
+---
+{% assign sorted_pages = site.pages | sort:'title' %}
+<div class="logo-container">
+	<p>
+{% for other in sorted_pages %}{% assign otherpage = other.url|split:'/'|last %}{% assign otherslug = other.url|split:'/' %}{% if otherpage  == 'index.html' %}{% if otherslug[1] == 'logos' %}
+		<a href="{{other.url}}"><img alt="{{other.title}}" src="/logos/{{otherslug[2]}}/{{otherslug[2]}}-120x60.png" /></a>
+{% endif %}{% endif %}{% endfor %}
+	</p>
+</div>
+
