@@ -5,3 +5,5 @@
 exclude: [ "*.sh", "**/*_src*" ]
 production_url: http://www.hackerlogos.org
 title : Hacker Logos
+gems:
+  - jekyll-redirect-from
