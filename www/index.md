@@ -4,10 +4,11 @@ title: Logos for Hackers
 ---
 
 I needed consistantly sized logos for one of [my recent projects](http://www.regexplanet.com/).  While Google Image Search is really quite good, I still had a lot of trouble finding images that were:
-* consistently sized (or vector)
-* transparent background
-* look good on a variety of light backgrounds
-* with type in the correct layout
+
+ * consistently sized (or vector)
+ * transparent background
+ * look good on a variety of light backgrounds
+ * with type in the correct layout
 
 I ended having to do a fair bit of work to get them looking okay, and figured others might benefit as well.
 
