@@ -1,0 +1,27 @@
+---
+layout: default
+title: Credits
+---
+
+<p>These are the things that I used to make and run this website</p>
+
+<p></p>
+
+<div class="row">
+	<table class="table table-striped">
+<!--		<thead>
+			<tr>
+				<th>Item</th>
+				<th>Description</th>
+			</tr>
+		</thead>-->
+		<tbody>	
+{% for credit in site.data.credits %}
+			<tr>
+				<td><a href="{{ credit.url }}"><img src="/logos/{{ credit.id }}/{{credit.id}}-ar21.svg" alt=""></a></td>
+				<td><a href="{{ credit.url }}">{{ credit.name }}</a> - {{ credit.description }}</td>
+			</tr>
+{% endfor %}
+		</tbody>
+	</table>
+</div>
