@@ -1,0 +1,50 @@
+- name: Jekyll
+  description: Static site generator
+  url: https://jekyllrb.com/
+  id: jekyllrb
+
+- name: Bootstrap
+  description: HTML/CSS Framework
+  url: http://getbootstrap.com/
+  id: getbootstrap
+
+- name: Bootswatch
+
+- name: Gimp
+
+- name: Google Analytics
+  description: Privacy violations
+  url: http://www.google.com/analytics/
+  id: google_analytics
+
+- name: git
+  description: Version control
+  url: https://git-scm.com/
+  id: git-scm
+
+- name: Github
+  description: git hosting
+  url: https://www.github.com/
+  id: github
+
+- name: Inkscape
+  description: SVG Editor
+  url: https://inkscape.org/
+  id: inkscape
+
+- name: W3C CSS Validation Service
+  description: CSS file validation
+  url: http://jigsaw.w3.org/css-validator/
+  id: w3c_cssvalidator
+
+- name: W3C Markup Validation Service
+  description: HTML file validation
+  url: https://validator.w3.org/
+  id: w3c_htmlvalidator
+
+- name: Wufoo
+  description: Contact form
+  url: http://www.wufoo.com/
+  id: wufoo
+  
+
