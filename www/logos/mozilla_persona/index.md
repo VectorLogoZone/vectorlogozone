@@ -2,6 +2,7 @@
 title: Mozilla Persona Logos
 layout: default
 category: services
+redirect_from: /logos/persona/index.html
 ---
 
 Sean Martell has a [style primer](http://people.mozilla.org/~smartell/persona/), with vector versions in Adobe Illustrator \(.ai\) format.
