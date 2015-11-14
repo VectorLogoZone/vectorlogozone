@@ -9,8 +9,14 @@
   id: getbootstrap
 
 - name: Bootswatch
+  description: Themes for Bootstrap
+  url: http://www.bootswatch.com/
+  id: bootswatch
 
 - name: Gimp
+  description: Raster graphics editor
+  url: http://www.gimp.org/
+  id: gimp
 
 - name: Google Analytics
   description: Privacy violations
@@ -32,15 +38,10 @@
   url: https://inkscape.org/
   id: inkscape
 
-- name: W3C CSS Validation Service
-  description: CSS file validation
-  url: http://jigsaw.w3.org/css-validator/
-  id: w3c_cssvalidator
-
 - name: W3C Markup Validation Service
   description: HTML file validation
   url: https://validator.w3.org/
-  id: w3c_htmlvalidator
+  id: w3c_validator
 
 - name: Wufoo
   description: Contact form
