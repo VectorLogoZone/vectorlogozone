@@ -1,5 +1,5 @@
 ---
-title: XRegexp Logos
+title: XRegexp
 category: library
 layout: default
 ---

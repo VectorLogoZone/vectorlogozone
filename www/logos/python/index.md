@@ -1,5 +1,5 @@
 ---
-title: Python Logos
+title: Python
 layout: default
 category: language
 ---

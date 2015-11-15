@@ -1,5 +1,5 @@
 ---
-title: Mozilla Persona Logos
+title: Mozilla Persona
 layout: default
 category: services
 redirect_from: /logos/persona/index.html

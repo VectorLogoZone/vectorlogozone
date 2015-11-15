@@ -1,0 +1,18 @@
+<div class="row"><div class="col-md-10 col-md-offset-1">
+<table class="table table-striped">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Image</th>
+		</tr>
+	</thead>
+	<tbody>
+{% for image in page.images %}
+		<tr>
+			<td><a href="{{image}}">{{ image }}</a></td>
+			<td><img src="{{image}}" style="max-height:120px" /></td>
+		</tr>
+{% endfor %}
+	</tbody>
+</table>
+</div></div>

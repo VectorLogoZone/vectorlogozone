@@ -1,5 +1,5 @@
 ---
-title: Github Logos
+title: Github
 layout: default
 category: services
 ---

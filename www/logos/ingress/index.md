@@ -1,5 +1,5 @@
 ---
-title: Ingress Logos
+title: Ingress
 category: game
 layout: default
 ---

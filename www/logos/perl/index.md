@@ -1,5 +1,5 @@
 ---
-title: Perl Logos
+title: Perl
 layout: default
 category: language
 ---

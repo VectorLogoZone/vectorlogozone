@@ -1,5 +1,5 @@
 ---
-title: Haskell Logos
+title: Haskell
 category: default
 layout: default
 ---

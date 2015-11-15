@@ -1,5 +1,5 @@
 ---
-title: NearlyFreeSpeech.Net Logos
+title: NearlyFreeSpeech.Net
 category: hosting
 layout: default
 ---

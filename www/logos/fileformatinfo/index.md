@@ -1,5 +1,5 @@
 ---
-title: FileFormat.Info Logos
+title: FileFormat.Info
 layout: default
 category: service
 ---

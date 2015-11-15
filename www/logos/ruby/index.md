@@ -1,5 +1,5 @@
 ---
-title: Ruby Logos
+title: Ruby
 category: language
 layout: default
 ---

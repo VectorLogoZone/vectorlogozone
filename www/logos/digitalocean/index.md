@@ -1,5 +1,5 @@
 ---
-title: Digital Ocean Logos
+title: Digital Ocean
 layout: default
 category: service
 ---

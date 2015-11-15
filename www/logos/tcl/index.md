@@ -1,5 +1,5 @@
 ---
-title: Tcl Logos
+title: Tcl
 category: language
 layout: default
 ---
