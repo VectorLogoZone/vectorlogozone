@@ -1,6 +1,9 @@
 ---
-title: Git
+images:
+- git-scm-120x60.png
+- git-scm-ar21.svg
 layout: default
+title: Git
 ---
 
 [Official Logos](http://git-scm.com/downloads/logos) Page

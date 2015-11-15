@@ -1,7 +1,16 @@
 ---
-title: Python
-layout: default
 category: language
+images:
+- python-vertical.svg
+- python-32.png
+- python-icon.svg
+- python-horizontal.png
+- python-horizontal.svg
+- python-120x60.png
+- python-ar21.svg
+- python-vertical.png
+layout: default
+title: Python
 ---
 
 [official Python Logos](http://www.python.org/community/logos/).

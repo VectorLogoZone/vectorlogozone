@@ -1,10 +1,15 @@
 ---
-title: Bootswatch
+images:
+- bootswatch-ar21.png
+- bootswatch-120x60.png
+- bootswatch-ar21.svg
+- bootswatch-icon.png
+- bootswatch-icon.svg
 layout: default
-website: http://bootswatch.com/
+title: Bootswatch
 twitter: bootswatch
+website: http://bootswatch.com/
 ---
-
 
 [Github Repository](https://github.com/thomaspark/bootswatch/blob/gh-pages/assets/img/logo.png)
 

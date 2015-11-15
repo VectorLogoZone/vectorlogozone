@@ -1,7 +1,12 @@
 ---
-title: Digital Ocean
-layout: default
 category: service
+images:
+- digitalocean-ar21.svg
+- digitalocean-horizontal.svg
+- digitalocean-120x60.png
+- digitalocean-horizontal.png
+layout: default
+title: Digital Ocean
 ---
 
 DigitalOcean has a page with [various logos](https://www.digitalocean.com/badges-and-logos), but the vector links are broken as of 19-July-2013.
