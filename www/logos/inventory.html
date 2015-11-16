@@ -5,23 +5,25 @@ layout: default
 {% assign sorted_pages = site.pages | sort:'title' %}
 {% capture checkon %}<i class="fa fa-check"></i>{% endcapture %}
 {% capture checkoff %}<i class="fa fa-fw"></i>{% endcapture %}
+{% assign logocount = 0 %}
 
 <table class="table table-striped table-bordered">
 	<thead>
 		<tr>
-			<th>ID</th>
+			<!--<th>ID</th>-->
 			<th>Name</th>
 			<th>2:1</th>
 			<th>Icon</th>
 			<th>Vertical</th>
 			<th>Horizontal</th>
+			<th>Wordmark</th>
 			<th>Official</th>
 			<th>Other</th>
 		</tr>
 	</thead>
-	<tbody>{% for other in sorted_pages %}{% assign otherpage = other.url|split:'/'|last %}{% assign otherslug = other.url|split:'/' %}{% if otherpage  == 'index.html' %}{% if otherslug[1] == 'logos' %}{% if other.url != '/logos/index.html' %}{% if other.title.size > 0 %}{% assign logohandle = otherslug[2] %}{% assign count = other.images.size %}
+	<tbody>{% for other in sorted_pages %}{% assign otherpage = other.url|split:'/'|last %}{% assign otherslug = other.url|split:'/' %}{% if otherpage  == 'index.html' %}{% if otherslug[1] == 'logos' %}{% if other.url != '/logos/index.html' %}{% if other.title.size > 0 %}{% assign logohandle = otherslug[2] %}{% assign logocount = logocount | plus:1 %}{% assign count = other.images.size %}
 		<tr>
-			<td>[{{ logohandle }}]</td>
+			<!--<td>[{{ logohandle }}]</td>-->
 			<td><a href="{{other.url}}">{{other.title}}</a></td>
 			<td class="text-center">
 				    {% capture logofile %}{{ logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
@@ -40,6 +42,10 @@ layout: default
 				/ {% capture logofile %}{{ logohandle }}{{ '-horizontal.png' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
 			</td>
 			<td class="text-center">
+				{% capture logofile %}{{ logohandle }}{{ '-wordmark.svg' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
+				/ {% capture logofile %}{{ logohandle }}{{ '-wordmark.png' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
+			</td>
+			<td class="text-center">
 				{% capture logofile %}{{ logohandle }}{{ '-official.svg' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
 				/ {% capture logofile %}{{ logohandle }}{{ '-official.png' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
 			</td>
@@ -50,3 +56,5 @@ layout: default
 {% endif %}{% endif %}{% endif %}{% endif %}{% endfor %}
 	</tbody>
 </table>
+
+<p>{{ logocount }} logos</p>
