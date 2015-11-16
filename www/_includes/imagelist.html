@@ -7,7 +7,7 @@
 		</tr>
 	</thead>
 	<tbody>
-{% for image in page.images %}
+{% assign sorted_images = page.images | sort %}{% for image in sorted_images %}
 		<tr>
 			<td><a href="{{image}}">{{ image }}</a></td>
 			<td><img src="{{image}}" style="max-height:120px" /></td>
