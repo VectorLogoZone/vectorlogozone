@@ -4,6 +4,8 @@ images:
 - font-awesome-ar21.svg
 - font-awesome-120x60.png
 layout: default
+logohandle: font-awesome
+sort: font awesome
 title: Font Awesome
 website: https://fortawesome.github.io/Font-Awesome/
 ---

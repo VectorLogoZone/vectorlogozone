@@ -5,5 +5,7 @@ images:
 - gimp-120x60.png
 - gimp-wordmark.svg
 layout: default
+logohandle: gimp
+sort: gimp
 title: Gimp
 ---

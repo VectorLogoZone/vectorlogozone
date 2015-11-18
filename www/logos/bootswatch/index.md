@@ -5,6 +5,8 @@ images:
 - bootswatch-icon.png
 - bootswatch-icon.svg
 layout: default
+logohandle: bootswatch
+sort: bootswatch
 title: Bootswatch
 twitter: bootswatch
 website: http://bootswatch.com/

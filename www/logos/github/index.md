@@ -4,6 +4,8 @@ images:
 - github-120x60.png
 - github-ar21.svg
 layout: default
+logohandle: github
+sort: github
 title: Github
 ---
 

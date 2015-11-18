@@ -10,6 +10,8 @@ images:
 - ruby-32.png
 - ruby-icon.svg
 layout: default
+logohandle: ruby
+sort: ruby
 title: Ruby
 ---
 

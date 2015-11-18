@@ -4,6 +4,8 @@ images:
 - perl-ar21.svg
 - perl-120x60.png
 layout: default
+logohandle: perl
+sort: perl
 title: Perl
 ---
 

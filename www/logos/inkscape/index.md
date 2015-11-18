@@ -4,6 +4,8 @@ images:
 - inkscape-ar21.svg
 - inkscape-120x60.png
 layout: default
+logohandle: inkscape
+sort: inkscape
 title: Inkscape
 ---
 

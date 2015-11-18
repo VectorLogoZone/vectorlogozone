@@ -10,6 +10,8 @@ images:
 - python-ar21.svg
 - python-vertical.png
 layout: default
+logohandle: python
+sort: python
 title: Python
 ---
 

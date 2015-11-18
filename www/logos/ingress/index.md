@@ -4,6 +4,8 @@ images:
 - ingress-120x60.png
 - ingress-ar21.svg
 layout: default
+logohandle: ingress
+sort: ingress
 title: Ingress
 ---
 

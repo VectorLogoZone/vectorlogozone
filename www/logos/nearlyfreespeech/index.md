@@ -8,6 +8,8 @@ images:
 - nearlyfreespeech-ar21.svg
 - nearlyfreespeech-horizontal.svg
 layout: default
+logohandle: nearlyfreespeech
+sort: nearlyfreespeech.net
 title: NearlyFreeSpeech.Net
 ---
 

@@ -3,6 +3,8 @@ images:
 - git-scm-120x60.png
 - git-scm-ar21.svg
 layout: default
+logohandle: git-scm
+sort: git
 title: Git
 ---
 

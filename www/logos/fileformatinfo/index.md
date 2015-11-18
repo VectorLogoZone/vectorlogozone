@@ -10,6 +10,8 @@ images:
 - fileformatinfo-icon.svg
 - fileformatinfo-horizontal.png
 layout: default
+logohandle: fileformatinfo
+sort: fileformat.info
 title: FileFormat.Info
 ---
 

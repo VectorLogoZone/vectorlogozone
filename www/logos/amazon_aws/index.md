@@ -4,5 +4,7 @@ images:
 - amazon_aws-ar21.svg
 - amazon_aws-120x60.png
 layout: default
+logohandle: amazon_aws
+sort: amazon web services
 title: Amazon Web Services
 ---

@@ -6,6 +6,8 @@ images:
 - digitalocean-120x60.png
 - digitalocean-horizontal.png
 layout: default
+logohandle: digitalocean
+sort: digital ocean
 title: Digital Ocean
 ---
 

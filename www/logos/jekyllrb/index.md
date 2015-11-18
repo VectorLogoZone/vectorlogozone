@@ -4,6 +4,8 @@ images:
 - jekyllrb-120x60.png
 - jekyllrb-icon.svg
 layout: default
+logohandle: jekyllrb
+sort: jekyll
 title: Jekyll
 ---
 

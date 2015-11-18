@@ -33,11 +33,20 @@ def process(options, dirparam):
 	indexfn = os.path.join(logodir, "index.md")
 	if os.path.exists(indexfn) == False:
 		print("WARNING: no index.md for %s" % logohandle)
-		indexmd = frontmatter.loads("")
+		indexmd = frontmatter.loads("---\n---\n")
 	else:
 		indexmd = frontmatter.load(indexfn)
 
 	indexmd['images'] = images
+
+	if "logohandle" not in indexmd.keys():
+		indexmd["logohandle"] = logohandle
+
+	if "title" not in indexmd.keys():
+		indexmd["title"] = logohandle.capitalize()
+
+	if "sort" not in indexmd.keys():
+		indexmd["sort"] = indexmd["title"].lower()
 
 	f = open(indexfn, 'w')
 	frontmatter.dump(indexmd, f)

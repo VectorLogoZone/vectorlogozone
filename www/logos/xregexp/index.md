@@ -10,6 +10,8 @@ images:
 - xregexp-horizontal.png
 - xregexp-120x60.png
 layout: default
+logohandle: xregexp
+sort: xregexp
 title: XRegexp
 ---
 

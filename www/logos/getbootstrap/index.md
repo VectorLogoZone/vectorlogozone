@@ -4,6 +4,8 @@ images:
 - getbootstrap-ar21.svg
 - getbootstrap-120x60.png
 layout: default
+logohandle: getbootstrap
+sort: bootstrap
 title: Bootstrap
 website: http://getbootstrap.com/
 ---

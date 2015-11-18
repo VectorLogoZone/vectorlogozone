@@ -4,6 +4,8 @@ images:
 - apache-120x60.png
 - apache-icon.svg
 layout: default
+logohandle: apache
+sort: apache software foundation
 title: Apache Software Foundation
 ---
 

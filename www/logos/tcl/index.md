@@ -10,6 +10,8 @@ images:
 - tcl-vertical.png
 - tcl-32.png
 layout: default
+logohandle: tcl
+sort: tcl
 title: Tcl
 ---
 

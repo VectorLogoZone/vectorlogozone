@@ -10,6 +10,8 @@ images:
 - haskell-icon.svg
 - haskell-horizontal.svg
 layout: default
+logohandle: haskell
+sort: haskell
 title: Haskell
 ---
 

@@ -5,6 +5,8 @@ images:
 - linode-ar21.svg
 - linode-120x60.png
 layout: default
+logohandle: linode
+sort: linode
 title: Linode
 ---
 

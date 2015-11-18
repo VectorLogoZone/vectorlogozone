@@ -6,6 +6,8 @@ images:
 - wikimedia_commons-icon.svg
 - wikimedia_commons-vertical.svg
 layout: default
+logohandle: wikimedia_commons
+sort: wikimedia commons
 title: Wikimedia Commons
 ---
 
