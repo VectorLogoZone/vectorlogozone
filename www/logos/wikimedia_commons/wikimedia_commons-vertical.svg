@@ -10,11 +10,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="Wikimedia_Logo"
-   viewBox="-400 -525 798 1050"
-   width="608"
-   height="800"
+   viewBox="-400 -525 94.5 123.375"
+   width="72"
+   height="94"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="wikimedia_commons_src.svg">
+   sodipodi:docname="wikimedia_commons-vertical.svg">
   <metadata
      id="metadata3203">
     <rdf:RDF>
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -40,9 +40,9 @@
      inkscape:window-height="992"
      id="namedview3201"
      showgrid="false"
-     inkscape:zoom="0.295"
-     inkscape:cx="304"
-     inkscape:cy="400"
+     inkscape:zoom="8.4468085"
+     inkscape:cx="36"
+     inkscape:cy="47"
      inkscape:window-x="75"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
@@ -53,174 +53,266 @@
        id="boundary">
       <circle
          r="298"
-         id="circle3126" />
+         id="circle3126"
+         cx="0"
+         cy="0"
+         sodipodi:cx="0"
+         sodipodi:cy="0"
+         sodipodi:rx="298"
+         sodipodi:ry="298" />
     </clipPath>
   </defs>
   <circle
      r="100"
-     fill="rgb(151,0,0)"
-     stroke="none"
-     id="circle3128" />
+     id="circle3128"
+     cx="0"
+     cy="0"
+     sodipodi:cx="0"
+     sodipodi:cy="0"
+     sodipodi:rx="100"
+     sodipodi:ry="100"
+     style="fill:#970000;stroke:none"
+     transform="matrix(0.1140754,0,0,0.1140754,-353.51639,-462.80534)" />
   <g
-     fill="rgb(0,100,153)"
-     stroke="rgb(0,100,153)"
-     id="g3130">
+     id="g3130"
+     style="fill:#006499;stroke:#006499"
+     transform="matrix(0.1140754,0,0,0.1140754,-353.51639,-462.80534)">
     <g
        clip-path="url(#boundary)"
        id="g3132">
       <g
          id="arrow">
         <line
-           stroke-width="22"
            x1="0"
            y1="300"
            x2="0"
            y2="180"
-           id="line3135" />
+           id="line3135"
+           style="stroke-width:22" />
         <path
-           stroke="none"
-           d="M -43,185 L 0,110 L 43,185 Z"
-           id="path3137" />
+           d="M -43,185 0,110 43,185 z"
+           id="path3137"
+           inkscape:connector-curvature="0"
+           style="stroke:none" />
       </g>
       <g
          id="three_arrows_lhs">
         <use
            xlink:href="#arrow"
-           transform="rotate(45)"
-           id="use3140" />
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+           id="use3140"
+           x="0"
+           y="0"
+           width="798"
+           height="1050" />
         <use
            xlink:href="#arrow"
-           transform="rotate(90)"
-           id="use3142" />
+           transform="matrix(0,1,-1,0,0,0)"
+           id="use3142"
+           x="0"
+           y="0"
+           width="798"
+           height="1050" />
         <use
            xlink:href="#arrow"
-           transform="rotate(135)"
-           id="use3144" />
+           transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
+           id="use3144"
+           x="0"
+           y="0"
+           width="798"
+           height="1050" />
       </g>
       <use
          xlink:href="#three_arrows_lhs"
-         transform="scale(-1 1)"
-         id="use3146" />
+         transform="scale(-1,1)"
+         id="use3146"
+         x="0"
+         y="0"
+         width="798"
+         height="1050" />
     </g>
     <path
        id="blue_path"
-       transform="rotate(-45)"
-       stroke-width="84"
-       fill="none"
-       d="M 0,-256 A 256 256 0 1 0 256,0 C 256,-100 155,-150 250,-275" />
+       transform="matrix(0.70710678,-0.70710678,0.70710678,0.70710678,0,0)"
+       d="M 0,-256 A 256,256 0 1 0 256,0 c 0,-100 -101,-150 -6,-275"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke-width:84" />
     <path
        id="arrow_top"
-       stroke="none"
-       d="M -23,-515 C -23,-515 -59,-380 -103,-330 S 13,-392 67,-335 S -23,-515 -23,-515 Z" />
+       d="m -23,-515 c 0,0 -36,135 -80,185 -44,50 116,-62 170,-5 54,57 -90,-180 -90,-180 z"
+       inkscape:connector-curvature="0"
+       style="stroke:none" />
   </g>
   <defs
      id="defs3150">
     <path
        id="W"
-       d="M 0,720 L 320,0 h 144 l 195,438.75 l 195,-438.75 h 144 l 320,720 h -197 l -195,-438.75 l -195,438.75 h -144 l -195,-438.75 l -195,438.75 z" />
+       d="M 0,720 320,0 H 464 L 659,438.75 854,0 h 144 l 320,720 H 1121 L 926,281.25 731,720 H 587 L 392,281.25 197,720 z"
+       inkscape:connector-curvature="0" />
     <path
        id="I"
-       d="M 0,0 h 180 v 720 h -180 z" />
+       d="M 0,0 H 180 V 720 H 0 z"
+       inkscape:connector-curvature="0" />
     <path
        id="K"
-       d="M  0,0 h 180 v 720 h -180 z M 90,360 l 360,-360 h 255 l -360,360 l 360,360 h -255 z" />
+       d="M 0,0 H 180 V 720 H 0 z M 90,360 450,0 H 705 L 345,360 705,720 H 450 z"
+       inkscape:connector-curvature="0" />
     <path
        id="M"
-       d="M 0,0 h 180 v 466 l 220,-220 l 220,220 V 0 h 180 v 720 h -180 l -220,-220 l -220,220 h -180 z" />
+       d="M 0,0 H 180 V 466 L 400,246 620,466 V 0 H 800 V 720 H 620 L 400,500 180,720 H 0 z"
+       inkscape:connector-curvature="0" />
     <path
        id="E"
-       d="M 0,0 h 520 v 150 h -340 v 150 h 340 v150 h -340 v 120 h 340 v 150 h -520 z" />
+       d="M 0,0 H 520 V 150 H 180 V 300 H 520 V 450 H 180 V 570 H 520 V 720 H 0 z"
+       inkscape:connector-curvature="0" />
     <path
        id="D"
-       d="M 0,0 h 360 a 360,360,0 0,1 0,720 h -360 z M 180,150 v 420 h 120 a 210,210,0 0,0 0,-420 z" />
+       d="m 0,0 h 360 a 360,360 0 0 1 0,720 H 0 z m 180,150 v 420 h 120 a 210,210 0 0 0 0,-420 z"
+       inkscape:connector-curvature="0" />
     <path
        id="A"
-       d="M 0,0 h 196 l 194,453 l 194,-453 h 196 l -300,720 h -180 z M 180,120 h 450 v 120 h -450z" />
+       d="M 0,0 H 196 L 390,453 584,0 H 780 L 480,720 H 300 z M 180,120 H 630 V 240 H 180 z"
+       inkscape:connector-curvature="0" />
     <path
        id="C"
-       d="M 684,504 a 276,204,0 1,1 0,-288 V 60 a 432,360,0 1,0 0 600 z" />
+       d="m 684,504 a 276,204 0 1 1 0,-288 V 60 a 432,360 0 1 0 0,600 z"
+       inkscape:connector-curvature="0" />
     <path
        id="O"
-       d="M 0 360 a 408,360,0 0,0 816,0 a 408,360,0 0,0 -816,0 M 204,360 a 204,204,0 0,1 408,0 a 204,204,0 0,1 -408,0" />
+       d="m 0,360 a 408,360 0 0 0 816,0 408,360 0 0 0 -816,0 m 204,0 a 204,204 0 0 1 408,0 204,204 0 0 1 -408,0"
+       inkscape:connector-curvature="0" />
     <path
        id="N"
-       d="M 0,0 h 180 v 434 L 504,0 h 180 v 720 h -180 v -434 L 180 720 h -180 z" />
+       d="M 0,0 H 180 V 434 L 504,0 H 684 V 720 H 504 V 286 L 180,720 H 0 z"
+       inkscape:connector-curvature="0" />
     <path
        id="S"
-       d="M 15,83 C 93,14 186,0 265,0 C 425,0 545,156 485,292 S 190,445 190,525 S 370,610 490,505 V 655 C 435,690 370,720 260,720 S -35,615 30,460 S 330,300 330,220 S 150,120 15,245 z" />
+       d="M 15,83 C 93,14 186,0 265,0 425,0 545,156 485,292 425,428 190,445 190,525 c 0,80 180,85 300,-20 V 655 C 435,690 370,720 260,720 150,720 -35,615 30,460 95,305 330,300 330,220 330,140 150,120 15,245 z"
+       inkscape:connector-curvature="0" />
   </defs>
   <g
-     fill="#666"
-     id="g3163">
+     id="g3163"
+     style="fill:#666666"
+     transform="matrix(0.1140754,0,0,0.1140754,-353.51639,-462.80534)">
     <g
-       transform="translate(0 415) scale(.111111111 -.111111111) translate(-3335)"
+       transform="matrix(0.11111111,0,0,-0.11111111,-370.55556,415)"
        id="g3165">
       <use
          xlink:href="#W"
-         id="use3167" />
+         id="use3167"
+         x="0"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#I"
          x="1440"
-         id="use3169" />
+         id="use3169"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#K"
          x="1860"
-         id="use3171" />
+         id="use3171"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#I"
          x="2680"
-         id="use3173" />
+         id="use3173"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#M"
          x="3100"
-         id="use3175" />
+         id="use3175"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#E"
          x="4080"
-         id="use3177" />
+         id="use3177"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#D"
          x="4780"
-         id="use3179" />
+         id="use3179"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#I"
          x="5610"
-         id="use3181" />
+         id="use3181"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#A"
          x="5890"
-         id="use3183" />
+         id="use3183"
+         y="0"
+         width="798"
+         height="1050" />
     </g>
     <g
-       transform="translate(0 515) scale(.111111111 -.111111111) translate(-2930)"
+       transform="matrix(0.11111111,0,0,-0.11111111,-325.55556,515)"
        id="g3185">
       <use
          xlink:href="#C"
-         id="use3187" />
+         id="use3187"
+         x="0"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#O"
          x="768"
-         id="use3189" />
+         id="use3189"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#M"
          x="1686"
-         id="use3191" />
+         id="use3191"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#M"
          x="2666"
-         id="use3193" />
+         id="use3193"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#O"
          x="3574"
-         id="use3195" />
+         id="use3195"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#N"
          x="4492"
-         id="use3197" />
+         id="use3197"
+         y="0"
+         width="798"
+         height="1050" />
       <use
          xlink:href="#S"
          x="5357"
-         id="use3199" />
+         id="use3199"
+         y="0"
+         width="798"
+         height="1050" />
     </g>
   </g>
 </svg>
