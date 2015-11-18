@@ -18,3 +18,18 @@
   height: 94
   rastersuffix: vertical
 
+- id: horizontal
+  title: Horizontal Badge
+  description: Horizontal badge with logo on left, text on right
+  rastersuffix: horizontal
+
+- id: official
+  title: Official Logo
+  description: Official Logo
+  rastersuffix: official
+
+- id: wordmark
+  title: Wordmark
+  description: Just the name in the appropriate font in black and white
+  rastersuffix: official
+
