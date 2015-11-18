@@ -1,0 +1,20 @@
+- id: ar21
+  title: 2:1 Aspect Ratio
+  description: 2:1 Aspect Ratio with logo and text
+  height: 120
+  width: 60
+  rastersuffix: 120x60
+
+- id: icon
+  title: Icon
+  description: Icon with just logo, no text
+  height: 32
+  width: 32
+  rastersuffix: 32
+
+- id: vertical
+  title: Vertical Badge
+  description: Vertical badge with logo above text
+  height: 94
+  rastersuffix: vertical
+

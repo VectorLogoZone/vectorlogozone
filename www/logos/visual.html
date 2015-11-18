@@ -1,0 +1,52 @@
+---
+title: Visual Logo Inventory
+layout: default
+---
+{% assign sorted_pages = site.pages | sort:'title' %}
+{% capture checkon %}<i class="fa fa-check"></i>{% endcapture %}
+{% capture checkoff %}<i class="fa fa-fw"></i>{% endcapture %}
+
+<ul class="nav nav-tabs" role="tablist">
+{% for imagetype in site.data.imagetype %}
+	<li role="presentation"{% if forloop.first %} class="active"{% endif %}><a href="#{{ imagetype.id }}" aria-controls="{{ imagetype.id }}" role="tab" data-toggle="tab">{{ imagetype.title}}</a></li>
+{% endfor %}
+</ul>
+
+<div class="tab-content">
+{% for imagetype in site.data.imagetype %}
+	{% assign logocount = 0 %}
+	<div role="tabpanel" class="tab-pane {% if forloop.first %}active{% endif %} logo-container" id="{{ imagetype.id }}">
+
+		<p></p>
+
+		<div class="alert alert-info">{{ imagetype.description }}</div>
+
+		<div id="vector{{ imagetype.id }}">
+
+		{% for logopage in sorted_pages %}{% if logopage.logohandle %}
+			{% capture logofile %}{{ logopage.logohandle }}-{{ imagetype.id }}.svg{% endcapture %}{% if logopage.images contains logofile %}
+				<a href="{{ logopage.url }}"><img src="{{ logopage.logohandle }}/{{ logofile }}" /></a>
+				{% assign logocount = logocount | plus:1 %}
+			{% endif %}
+		{% endif %}{% endfor %}
+		<p>{{ logocount }} vector logos for {{ imagetype.title }}</p>
+		</div>
+
+
+		{% assign logocount = 0 %}
+		<div id="raster{{ imagetype.id }}">
+
+		{% for logopage in sorted_pages %}{% if logopage.logohandle %}
+			{% capture logofile %}{{ logopage.logohandle }}-{{ imagetype.rastersuffix }}.png{% endcapture %}{% if logopage.images contains logofile %}
+				<a href="{{ logopage.url }}"><img src="{{ logopage.logohandle }}/{{ logofile }}" /></a>
+				{% assign logocount = logocount | plus:1 %}
+			{% endif %}
+		{% endif %}{% endfor %}
+		<p>{{ logocount }} raster logos for {{ imagetype.title }}</p>
+		</div>
+
+	</div>
+{% endfor %}
+</div>
+
+
