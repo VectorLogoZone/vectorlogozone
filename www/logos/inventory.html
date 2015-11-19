@@ -12,12 +12,9 @@ layout: default
 		<tr>
 			<!--<th>ID</th>-->
 			<th>Name</th>
-			<th>2:1</th>
-			<th>Icon</th>
-			<th>Vertical</th>
-			<th>Horizontal</th>
-			<th>Wordmark</th>
-			<th>Official</th>
+{% for imagetype in site.data.imagetype %}
+			<th><a href="visual.html#{{imagetype.id}}">{{ imagetype.title }}</a></th>
+{% endfor %}
 			<th>Other</th>
 		</tr>
 	</thead>
@@ -25,30 +22,12 @@ layout: default
 		<tr>
 			<!--<td>[{{ logohandle }}]</td>-->
 			<td><a href="{{other.url}}">{{other.title}}</a></td>
+{% for imagetype in site.data.imagetype %}
 			<td class="text-center">
-				    {% capture logofile %}{{ logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-				/ {% capture logofile %}{{ logohandle }}{{ '-120x60.png' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
+				    {% capture logofile %}{{ logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
+				/ {% capture logofile %}{{ logohandle }}-{{imagetype.rastersuffix}}.png{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
 			</td>
-			<td class="text-center">
-				{% capture logofile %}{{ logohandle }}{{ '-icon.svg' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-				/ {% capture logofile %}{{ logohandle }}{{ '-32.png' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-			</td>
-			<td class="text-center">
-				{% capture logofile %}{{ logohandle }}{{ '-vertical.svg' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-				/ {% capture logofile %}{{ logohandle }}{{ '-vertical.png' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-			</td>
-			<td class="text-center">
-				{% capture logofile %}{{ logohandle }}{{ '-horizontal.svg' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-				/ {% capture logofile %}{{ logohandle }}{{ '-horizontal.png' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-			</td>
-			<td class="text-center">
-				{% capture logofile %}{{ logohandle }}{{ '-wordmark.svg' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-				/ {% capture logofile %}{{ logohandle }}{{ '-wordmark.png' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-			</td>
-			<td class="text-center">
-				{% capture logofile %}{{ logohandle }}{{ '-official.svg' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-				/ {% capture logofile %}{{ logohandle }}{{ '-official.png' }}{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-			</td>
+{% endfor %}
 			<td class="text-center">
 				{{ count }}
 			</td>
