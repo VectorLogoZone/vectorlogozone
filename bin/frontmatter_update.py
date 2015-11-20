@@ -33,7 +33,8 @@ def process(options, dirparam):
 	indexfn = os.path.join(logodir, "index.md")
 	if os.path.exists(indexfn) == False:
 		print("WARNING: no index.md for %s" % logohandle)
-		indexmd = frontmatter.loads("---\n---\n")
+		return
+		#indexmd = frontmatter.loads("---\n---\n")
 	else:
 		indexmd = frontmatter.load(indexfn)
 
