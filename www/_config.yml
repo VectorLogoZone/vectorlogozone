@@ -3,7 +3,8 @@
 #
 
 exclude: [ "*.sh", "**/*_src*" ]
-production_url: http://www.hackerlogos.org
-title : Hacker Logos
+production_url: http://www.vectorlogo.zone
+title : Vector Logo Zone
+title_short: VLZ
 gems:
   - jekyll-redirect-from
