@@ -2,7 +2,7 @@
 title: Logo Inventory
 layout: default
 ---
-{% assign sorted_pages = site.pages | sort:'title' %}
+{% assign sorted_pages = site.pages | sort:'sort' %}
 {% capture checkon %}<i class="fa fa-check"></i>{% endcapture %}
 {% capture checkoff %}<i class="fa fa-fw"></i>{% endcapture %}
 {% assign logocount = 0 %}

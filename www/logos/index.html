@@ -3,7 +3,7 @@ title: Available Logos
 layout: default
 redirect_from: /all.html
 ---
-{% assign sorted_pages = site.pages | sort:'title' %}
+{% assign sorted_pages = site.pages | sort:'sort' %}
 <div class="logo-container">
 	<p>
 {% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}

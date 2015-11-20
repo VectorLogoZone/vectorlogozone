@@ -5,7 +5,7 @@ images:
 layout: default
 logohandle: git-scm
 sort: git
-title: Git
+title: git
 ---
 
 [Official Logos](http://git-scm.com/downloads/logos) Page
