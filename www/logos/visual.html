@@ -2,20 +2,21 @@
 title: Visual Logo Inventory
 layout: default
 ---
-{% assign sorted_pages = site.pages | sort:'title' %}
+{% assign sorted_pages = site.pages | sort:'sort' %}
 {% capture checkon %}<i class="fa fa-check"></i>{% endcapture %}
 {% capture checkoff %}<i class="fa fa-fw"></i>{% endcapture %}
 
-<ul class="nav nav-tabs" role="tablist">
+<ul class="nav nav-tabs" id="vlz-tabs" role="tablist">
 {% for imagetype in site.data.imagetype %}
-	<li role="presentation"{% if forloop.first %} class="active"{% endif %}><a href="#{{ imagetype.id }}" aria-controls="{{ imagetype.id }}" role="tab" data-toggle="tab">{{ imagetype.title}}</a></li>
+	<li role="presentation"{% if forloop.first %} class="active"{% endif %} id="tab-{{imagetype.id}}"><a href="#{{ imagetype.id }}" aria-controls="{{ imagetype.id }}" role="tab">{{ imagetype.title}}</a></li>
 {% endfor %}
 </ul>
+<p id="focustarget"></p>
 
 <div class="tab-content">
 {% for imagetype in site.data.imagetype %}
 	{% assign logocount = 0 %}
-	<div role="tabpanel" class="tab-pane {% if forloop.first %}active{% endif %} logo-container" id="{{ imagetype.id }}">
+	<div role="tabpanel" class="tab-pane logo-container vlz-tab-data" id="tab-data-{{ imagetype.id }}" {% if forloop.first %}{% else %}style="display:hidden;"{% endif %} >
 
 		<p></p>
 
@@ -48,5 +49,32 @@ layout: default
 	</div>
 {% endfor %}
 </div>
+<script type="text/javascript">
+
+	function switchTabs()
+	{
+		$("#vlz-tabs > li").removeClass("active");
+		var hash = window.location.hash;
+		console.log("hash=" + hash);
+		if (!hash || hash == '#')
+		{
+			$("#tab-ar21").addClass("active");
+			$("#tab-data-ar21").show();
+		}
+		else
+		{
+			$(".vlz-tab-data").hide();
+			$("#tab-data-" + hash.substring(1)).show();
+			$("#tab-" + hash.substring(1)).addClass("active");
+			$("#focustarget").focus();
+		}
+	}
+
+	$(document).ready(function() {
+		switchTabs();
+		$(window).bind('hashchange', switchTabs);
+	});
+
+</script>
 
 
