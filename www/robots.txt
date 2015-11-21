@@ -1,10 +1,11 @@
 #
-# robots.txt for HackerLogos.org
+# robots.txt for VectorLogoZone
 #
 
-Sitemap: http://www.hackerlogos.org/sitemap.txt
+Sitemap: http://www.vectorlogo.zone/sitemap.xml
 
 User-agent: *
 Disallow: /css
 Disallow: /honeypot.txt
 Disallow: /js
+Disallow: /util
