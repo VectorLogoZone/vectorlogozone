@@ -1,55 +1,34 @@
-# HackerLogos
+# Vector Logo Zone
 
-
-This is the github pages source for [HackerLogos](http://www.hackerlogos.com/).
+This is the github pages source for the [Vector Logo Zone](http://www.vectorlogo.zone/).
 
 ## Running
 
-It is a static website built with Jekyll and can run anywhere.  However, I made an Apache
-.htaccess file to prevent hotlinking.
+It is a static website built with Jekyll and can run anywhere.  The default deploy script uses s3cmd to copy to Amazon S3.
 
+In order to run the python auto-update utilities, you need to `pip install python-frontmatter`
 
 ## To Do
 
-license
-/_includes/footer.html - Legal - CC0?  CC-BY-SA?
+ * fill in FAQs
+ * more detail on contribute page
+ * alternatives page: /support/alternative.html
+ * /404.html page
+ * wordmark:
+	/template/wordmark.svg
+	use wordmark in H1 if available
+ * /_includes/footer.html - Legal - CC0?  CC-BY-SA?
+ * discus: remove or make it work
+ * new favicon
+ * svg metadata
+ * categories for each /logos/*/index.md
+ * verify bing
+ * verify google webmastertools
+ * humans.txt
+ * pngcrush
+ * more frontmatter in /logos/*/index.md: website, twitter, facebook
 
-sitemap.txt -> sitemap.xml
-
-credits: finish icons
-	bootswatch
-	gimp
-	google_analytics
-	git
-
-discus: remove or make it work
-
-new favicon
-
-/support/alternative.html
-
-new image type: wordmark
-
-new image type: original (=as specified by the company)
-
-Cloudflare
-
-svg metadata
-
-categories for each logo
-
-verify bing
-verify google webmastertools
-
-custom 404 page
-
-humans.txt
-
-pngcrush
-
-meta2png -> use external source for text
-
-More Logos
+## Logos
 
  * appharbor
  * erlang
@@ -57,7 +36,6 @@ More Logos
  * javascript
  * nodejs
  * php
- * wufoo
  * Perl
  * JavaScript
  * AWK
