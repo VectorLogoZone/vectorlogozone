@@ -1,4 +1,6 @@
 ---
+facebook: https://www.facebook.com/amazonwebservices/
+github: aws
 images:
 - amazon_aws-32.png
 - amazon_aws-icon.svg
@@ -8,4 +10,6 @@ layout: default
 logohandle: amazon_aws
 sort: amazon web services
 title: Amazon Web Services
+twitter: awscloud
+website: https://aws.amazon.com/
 ---
