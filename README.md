@@ -1,6 +1,6 @@
 # Vector Logo Zone
 
-This is the github pages source for the [Vector Logo Zone](http://www.vectorlogo.zone/).
+This is the source for the [Vector Logo Zone](http://www.vectorlogo.zone/) website.
 
 ## Running
 
@@ -27,6 +27,11 @@ In order to run the python auto-update utilities, you need to `pip install pytho
  * humans.txt
  * pngcrush
  * more frontmatter in /logos/*/index.md: website, twitter, facebook
+ * /util/research.html
+	- get favicon/apple icons/etc from webpage
+	- get twitter logo
+	- get facebook logo
+	- get all images from homepage
 
 ## Logos
 
