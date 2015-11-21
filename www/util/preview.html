@@ -5,7 +5,9 @@ noindex: true
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="utf-8">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>{{ page.title }}</title>
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 	<link href="/css/font-awesome.css" rel="stylesheet" type="text/css" />
@@ -31,7 +33,7 @@ noindex: true
 <body>
 	<nav class="navbar navbar-default navbar-fixed-top">
 		<div class="container">
-<p class="navbar-text" href="/">Image Preview</p>
+<p class="navbar-text hidden-xs hidden-sm" href="/">Image Preview</p>
 <div class="btn-group" role="group" aria-label="Background">
   <button class="btn btn-default navbar-btn background-btn" data-background="grid" title="Checkboard background" type="button"><i class="fa fa-th-large"></i></button>
   <button class="btn btn-default navbar-btn background-btn" data-background="dark" title="Dark background" type="button"><i class="fa fa-stop"></i></button>
@@ -51,10 +53,10 @@ noindex: true
   <button type="button" class="btn btn-default navbar-btn border-btn" data-border="4" title="Thick border">Thick</button>
 </div>
 
-<a class="btn btn-default navbar-btn" id="btn-download" title="Download"><i class="fa fa-download"></i></a>
-<a class="btn btn-default navbar-btn" id="btn-exit" title="Exit Preview"><i class="fa fa-sign-out"></i></a>
+<a class="btn btn-default navbar-btn hidden-xs" id="btn-download" title="Download"><i class="fa fa-download"></i></a>
+<a class="btn btn-default navbar-btn" href="/" id="btn-exit" title="Exit Preview"><i class="fa fa-sign-out"></i></a>
 			
-			<p class="navbar-text navbar-right"><a href="/index.html" class="navbar-link">Vector Logo Zone</a></p>
+			<p class="navbar-text navbar-right hidden-xs"><a href="/index.html" class="navbar-link">Vector Logo Zone</a></p>
 		</div>
 	</nav>
 	<div id="preview-container">
@@ -76,9 +78,9 @@ noindex: true
 	}
 
 	$(document).ready(function() {
-		imgUrl = qsParam("image");
 		resizeBody();
-		
+
+		var imgUrl = qsParam("image");
 		if (imgUrl)
 		{
 			console.log(imgUrl);
@@ -86,6 +88,12 @@ noindex: true
 			$("#btn-download").attr("href", imgUrl).attr("download", imgUrl.substring(imgUrl.lastIndexOf('/')+1, imgUrl.length));
 			$("#btn-exit").attr("href", imgUrl.substring(0, imgUrl.lastIndexOf('/')));
 			$("#preview-image").css("border-width", "1px");
+		}
+
+		var next = qsParam("next");
+		if (next)
+		{
+			$("#btn-exit").attr("href", next);
 		}
 
 		$(".background-btn").bind('click', function(e) {
