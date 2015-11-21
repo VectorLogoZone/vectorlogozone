@@ -9,6 +9,11 @@
 	<tbody>
 {% assign sorted_images = page.images | sort %}{% for image in sorted_images %}
 		<tr>
+			<td>
+				<a class="btn btn-default btn-sm" href="/util/preview.html?image={{image}}" rel="nofollow"><i class="fa fa-search"></i></a>
+				<a class="btn btn-default btn-sm" download="{{image}}" href="{{image}}"><i class="fa fa-download"></i></a>
+				<a class="btn btn-default btn-sm" href="https://github.com/fileformat/vectorlogozone/commits/gh-pages/www/logos/{{page.logohandle}}/{{image}}" rel="nofollow"><i class="fa fa-history"></i></a>
+			</td>
 			<td><a href="{{image}}">{{ image }}</a></td>
 			<td><img src="{{image}}" style="max-height:120px" /></td>
 		</tr>
