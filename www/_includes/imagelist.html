@@ -2,6 +2,7 @@
 <table class="table table-striped">
 	<thead>
 		<tr>
+			<th>&nbsp;</th>
 			<th>Name</th>
 			<th>Image</th>
 		</tr>
@@ -9,13 +10,25 @@
 	<tbody>
 {% assign sorted_images = page.images | sort %}{% for image in sorted_images %}
 		<tr>
-			<td>
-				<a class="btn btn-default btn-sm" href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" rel="nofollow"><i class="fa fa-search"></i></a>
-				<a class="btn btn-default btn-sm" download="{{image}}" href="{{image}}"><i class="fa fa-download"></i></a>
-				<a class="btn btn-default btn-sm" href="https://github.com/fileformat/vectorlogozone/commits/gh-pages/www/logos/{{page.logohandle}}/{{image}}" rel="nofollow"><i class="fa fa-history"></i></a>
+			<td style="white-space:nowrap;vertical-align:middle;">
+				<a class="btn btn-default btn-sm" href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" title="preview" rel="nofollow"><i class="fa fa-search"></i></a>
+				<a class="btn btn-default btn-sm" download="{{image}}" href="{{image}}" title="Download"><i class="fa fa-download"></i></a>
+				<a class="btn btn-default btn-sm" href="https://github.com/fileformat/vectorlogozone/commits/gh-pages/www/logos/{{page.logohandle}}/{{image}}" title="revision history" rel="nofollow"><i class="fa fa-history"></i></a>
 			</td>
-			<td><a href="{{image}}">{{ image }}</a></td>
-			<td><img src="{{image}}" style="max-height:120px" /></td>
+			<td style="white-space:nowrap;vertical-align:middle;">
+			{% capture imagetype %}{{image|split:'-'|last|split:'.'|first}}{% endcapture %}
+			{% assign standard = false %}
+			{% for standardtype in site.data.imagetype %}
+				{% if standardtype.id == imagetype %}
+					{{standardtype.title}}
+					{% assign standard = true %}
+				{% endif %}
+			{% endfor %}
+			{% if standard == false %}
+				{{imagetype}}
+			{% endif %}
+			</td>
+			<td><a href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" rel="nofollow"><img src="{{image}}" style="max-height:120px; max-width:50%;" /></a></td>
 		</tr>
 {% endfor %}
 	</tbody>
