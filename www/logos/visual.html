@@ -30,10 +30,10 @@ layout: default
 				{% assign logocount = logocount | plus:1 %}
 			{% endif %}
 		{% endif %}{% endfor %}
-		<p>{{ logocount }} vector logos for {{ imagetype.title }}</p>
+		<p>Count: {{ logocount }}</p>
 		</div>
 
-
+<!--
 		{% assign logocount = 0 %}
 		<div id="raster{{ imagetype.id }}">
 
@@ -45,7 +45,7 @@ layout: default
 		{% endif %}{% endfor %}
 		<p>{{ logocount }} raster logos for {{ imagetype.title }}</p>
 		</div>
-
+-->
 	</div>
 {% endfor %}
 </div>

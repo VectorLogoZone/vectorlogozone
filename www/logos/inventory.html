@@ -25,7 +25,7 @@ layout: default
 {% for imagetype in site.data.imagetype %}
 			<td class="text-center">
 				    {% capture logofile %}{{ logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-				/ {% capture logofile %}{{ logohandle }}-{{imagetype.rastersuffix}}.png{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
+				<!-- / {% capture logofile %}{{ logohandle }}-{{imagetype.rastersuffix}}.png{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}-->
 			</td>
 {% endfor %}
 			<td class="text-center">
