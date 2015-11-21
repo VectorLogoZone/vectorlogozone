@@ -12,10 +12,10 @@
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
 				<div class="pull-right icon-link-header">
-					{% if page.website %}<a href="{{ page.website }}"><i class="fa fa-globe icon-link"></i></a>{% endif %}
-					{% if page.facebook %}<a href="{{ page.facebook }}"><i class="fa fa-facebook icon-link"></i></a>{% endif %}
-					{% if page.twitter %}<a href="https://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter icon-link"></i></a>{% endif %}
-					{% if page.github %}<a href="https://github.com/{{ page.github }}"><i class="fa fa-github icon-link"></i></a>{% endif %}
+					{% if page.website %}<a title="Website" href="{{ page.website }}"><i class="fa fa-globe icon-link"></i></a>{% endif %}
+					{% if page.facebook %}<a title="Facebook" href="{{ page.facebook }}"><i class="fa fa-facebook icon-link"></i></a>{% endif %}
+					{% if page.twitter %}<a title="Twitter" href="https://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter icon-link"></i></a>{% endif %}
+					{% if page.github %}<a title="Github" href="https://github.com/{{ page.github }}"><i class="fa fa-github icon-link"></i></a>{% endif %}
 				</div>
 				<h1>{% if page.h1 %}{{ page.h1 }}{% else %}{{ page.title }}{% endif %}{% if page.subtitle %} <small> - {{ page.subtitle }}</small>{% endif %}</h1>
 				{{ content }}
