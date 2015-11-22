@@ -2,6 +2,7 @@
 # Remember to set production_url in your _config.yml file!
 title : Sitemap
 noindex: true
+layout: none
 ---
 {% assign sorted_pages = site.pages | sort:'url' %}<urlset
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
