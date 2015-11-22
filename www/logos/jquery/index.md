@@ -4,6 +4,7 @@ images:
 - jquery-ar21.svg
 - jquery-icon.svg
 - jquery-vertical.svg
+- jquery-horizontal.svg
 layout: default
 logohandle: jquery
 sort: jquery
