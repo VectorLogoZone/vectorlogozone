@@ -1,7 +1,7 @@
-- name: Jekyll
-  description: Static site generator
-  url: https://jekyllrb.com/
-  id: jekyllrb
+- name: AWS S3
+  description: Hosting
+  url: https://aws.amazon.com/
+  id: amazon_aws
 
 - name: Bootstrap
   description: HTML/CSS Framework
@@ -12,6 +12,11 @@
   description: Themes for Bootstrap
   url: http://www.bootswatch.com/
   id: bootswatch
+
+- name: CloudFlare
+  description: CDN
+  url: https://www.cloudflare.com/
+  id: cloudflare
 
 - name: Gimp
   description: Raster graphics editor
@@ -37,6 +42,16 @@
   description: SVG Editor
   url: https://inkscape.org/
   id: inkscape
+
+- name: Jekyll
+  description: Static site generator
+  url: https://jekyllrb.com/
+  id: jekyllrb
+
+- name: jQuery
+  description: JavaScript library
+  url: https://jquery.com/
+  id: jquery
 
 - name: W3C Markup Validation Service
   description: HTML file validation
