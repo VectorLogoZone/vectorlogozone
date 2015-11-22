@@ -8,3 +8,10 @@ title : Vector Logo Zone
 title_short: VLZ
 gems:
   - jekyll-redirect-from
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
