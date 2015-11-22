@@ -27,6 +27,7 @@ In order to run the python auto-update utilities, you need to `pip install pytho
  * humans.txt
  * pngcrush
  * more frontmatter in /logos/*/index.md: website, twitter, facebook
+ * search engine
  * /util/research.html
 	- get favicon/apple icons/etc from webpage
 	- get twitter logo
