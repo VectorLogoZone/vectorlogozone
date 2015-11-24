@@ -33,4 +33,7 @@
 {% endfor %}
 	</tbody>
 </table>
+{% if page.skipped %}
+<p><a href="https://github.com/fileformat/vectorlogozone/commits/gh-pages/www/logos/{{page.logohandle}}" style="btn btn-default">More...</a></p>
+{% endif %}
 </div></div>
