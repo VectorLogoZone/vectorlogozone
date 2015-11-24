@@ -6,7 +6,7 @@
 
 - id: icon
   title: Icon
-  description: Icon with just logo, no text.  Image should go all the way to the edge.
+  description: Icon, no text.  
   height: 32
   width: 32
 

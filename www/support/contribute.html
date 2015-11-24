@@ -6,18 +6,32 @@ redirect_from:
 ---
 
 
-<h2>Image Specifications</h2>
+<h2>Guidelines</h2>
 
 <p>One of the key reasons for HackerLogos is a visually consistant look.  These are the guidelines for making images.</p>
 
-<p>General guidelines:</p>
+<p>General rules:</p>
 <ul>
-	<li>Save bitmaps in <code>.png</code> format.</li>
 	<li>Do not reference external fonts in <code>.svg</code> files: convert to curves.  However, document the name (and url) of the font.</li>
 	<li>Add a shadow or outline if there are white elements/edges so logos look good on a light background.</li>
 	<li>Make the background transparent.</li>
 	<li>Include the original file with <code>_src</code> suffix (if legally possible).  Document the url where you found it.</li>
 </ul>
+
+<h2>Image Specifications</h2>
+	<hr/>
+{% for imagetype in site.data.imagetype %}
+	<h3>{{imagetype.title}}</h3>
+	<p>{{imagetype.description}}</p>
+
+	{% if imagetype.id == 'icon' %}
+	<p>Image should go all the way to the edge: no extra whitespace/padding.</p>
+	{% endif %}
+
+
+	<p><a href="/logos/visual.html#{{imagetype.id}}" style="btn btn-default btn-xs">View all</a></p>
+	<hr/>
+{% endfor %}
 
 <table class="table table-bordered table-striped">
 	<thead>
