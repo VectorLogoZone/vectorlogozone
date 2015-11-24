@@ -26,6 +26,8 @@ redirect_from:
 
 	{% if imagetype.id == 'icon' %}
 	<p>Image should go all the way to the edge: no extra whitespace/padding.</p>
+	{% elsif imagetype.id == 'wordmark'%}
+	<p>Leave the appropriate padding if the characters do not have ascenders or descenders.</p>
 	{% endif %}
 
 
