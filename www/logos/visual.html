@@ -8,7 +8,7 @@ layout: default
 
 <ul class="nav nav-tabs" id="vlz-tabs" role="tablist">
 {% for imagetype in site.data.imagetype %}
-	<li role="presentation"{% if forloop.first %} class="active"{% endif %} id="tab-{{imagetype.id}}"><a href="#{{ imagetype.id }}" aria-controls="{{ imagetype.id }}" role="tab">{{ imagetype.title}}</a></li>
+	<li role="presentation"{% if forloop.first %} class="active"{% endif %} id="tab-{{imagetype.id}}"><a href="#{{ imagetype.id }}" aria-controls="tab-data-{{ imagetype.id }}" role="tab">{{ imagetype.title}}</a></li>
 {% endfor %}
 </ul>
 <p id="focustarget"></p>
