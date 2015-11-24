@@ -3,36 +3,30 @@
   description: 2:1 Aspect Ratio with logo and text.  Image should include some padding.
   height: 120
   width: 60
-  rastersuffix: 120x60
 
 - id: icon
   title: Icon
   description: Icon with just logo, no text.  Image should go all the way to the edge.
   height: 32
   width: 32
-  rastersuffix: 32
 
 - id: vertical
   title: Vertical Badge
   description: Vertical badge with logo above text
   height: 94
-  rastersuffix: vertical
 
 - id: horizontal
   title: Horizontal Badge
   description: Horizontal badge with logo on left, text on right
   height: 64
-  rastersuffix: horizontal
 
 - id: official
   title: Official Logo
   description: Official Logo, with tagline/copyright/etc
   height: 128
-  rastersuffix: official
 
 - id: wordmark
   title: Wordmark
   description: Just the name in the appropriate font in black at 64 pt.  Leave the appropriate padding if the characters do not have ascenders or descenders.
   height: 64
-  rastersuffix: official
 
