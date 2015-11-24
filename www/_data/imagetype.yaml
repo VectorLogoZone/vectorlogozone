@@ -27,6 +27,6 @@
 
 - id: wordmark
   title: Wordmark
-  description: Just the name in the appropriate font in black at 64 pt.  Leave the appropriate padding if the characters do not have ascenders or descenders.
+  description: Just the name in the appropriate font in black at 64 pt.
   height: 64
 
