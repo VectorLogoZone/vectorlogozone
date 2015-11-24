@@ -16,11 +16,18 @@ def process(options, dirparam):
 	files = [f for f in os.listdir(logodir) if os.path.isfile(os.path.join(logodir, f))]
 
 	images = []
+	skipped = 0
 
 	for f in files:
-		if f.startswith(logohandle + '-') == False:
-			continue
 		if f.endswith(".svg") == False and f.endswith(".png") == False:
+			if f.endswith(".ai") or f.endswith(".pdf"):
+				skipped = skipped + 1
+			continue
+		if f.endswith("_src.svg") or f.endswith("_src.png"):
+			skipped = skipped + 1
+			continue
+		if f.startswith(logohandle + '-') == False:
+			skipped = skipped + 1
 			continue
 
 		images.append(f)
@@ -39,6 +46,7 @@ def process(options, dirparam):
 		indexmd = frontmatter.load(indexfn)
 
 	indexmd['images'] = images
+	indexmd['skipped'] = skipped
 
 	if "logohandle" not in indexmd.keys():
 		indexmd["logohandle"] = logohandle
