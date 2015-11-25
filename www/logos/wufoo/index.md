@@ -5,6 +5,7 @@ images:
 - wufoo-ar21.svg
 layout: default
 logohandle: wufoo
+skipped: 1
 sort: wufoo
 title: Wufoo
 ---

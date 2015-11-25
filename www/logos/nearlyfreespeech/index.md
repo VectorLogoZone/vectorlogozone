@@ -9,6 +9,7 @@ images:
 - nearlyfreespeech-horizontal.svg
 layout: default
 logohandle: nearlyfreespeech
+skipped: 1
 sort: nearlyfreespeech.net
 title: NearlyFreeSpeech.Net
 ---

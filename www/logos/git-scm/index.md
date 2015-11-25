@@ -4,6 +4,7 @@ images:
 - git-scm-ar21.svg
 layout: default
 logohandle: git-scm
+skipped: 0
 sort: git
 title: git
 ---

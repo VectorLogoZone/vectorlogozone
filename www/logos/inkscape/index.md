@@ -5,6 +5,7 @@ images:
 - inkscape-120x60.png
 layout: default
 logohandle: inkscape
+skipped: 0
 sort: inkscape
 title: Inkscape
 ---

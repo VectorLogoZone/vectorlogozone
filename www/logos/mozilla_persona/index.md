@@ -9,6 +9,7 @@ images:
 layout: default
 logohandle: mozilla_persona
 redirect_from: /logos/persona/index.html
+skipped: 2
 sort: mozilla persona
 title: Mozilla Persona
 ---

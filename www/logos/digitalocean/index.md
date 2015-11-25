@@ -7,6 +7,7 @@ images:
 - digitalocean-horizontal.png
 layout: default
 logohandle: digitalocean
+skipped: 1
 sort: digital ocean
 title: Digital Ocean
 ---

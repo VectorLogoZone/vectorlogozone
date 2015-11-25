@@ -6,6 +6,7 @@ images:
 - gimp-wordmark.svg
 layout: default
 logohandle: gimp
+skipped: 0
 sort: gimp
 title: Gimp
 ---

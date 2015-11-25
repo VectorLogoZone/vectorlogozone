@@ -5,6 +5,7 @@ images:
 - jekyllrb-icon.svg
 layout: default
 logohandle: jekyllrb
+skipped: 0
 sort: jekyll
 title: Jekyll
 ---

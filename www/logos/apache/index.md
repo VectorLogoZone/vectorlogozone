@@ -5,6 +5,7 @@ images:
 - apache-icon.svg
 layout: default
 logohandle: apache
+skipped: 1
 sort: apache software foundation
 title: Apache Software Foundation
 ---

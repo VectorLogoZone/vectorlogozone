@@ -11,6 +11,7 @@ images:
 - tcl-32.png
 layout: default
 logohandle: tcl
+skipped: 1
 sort: tcl
 title: Tcl
 ---

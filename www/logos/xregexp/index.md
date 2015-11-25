@@ -1,6 +1,7 @@
 ---
 category: library
 images:
+- xregexp-wordmark.svg
 - xregexp-horizontal.svg
 - xregexp-ar21.svg
 - xregexp-vertical.svg
@@ -11,6 +12,7 @@ images:
 - xregexp-120x60.png
 layout: default
 logohandle: xregexp
+skipped: 0
 sort: xregexp
 title: XRegexp
 ---

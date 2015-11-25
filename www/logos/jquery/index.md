@@ -5,8 +5,10 @@ images:
 - jquery-icon.svg
 - jquery-vertical.svg
 - jquery-horizontal.svg
+- jquery-workmark.svg
 layout: default
 logohandle: jquery
+skipped: 1
 sort: jquery
 title: jQuery
 website: https://jquery.com/

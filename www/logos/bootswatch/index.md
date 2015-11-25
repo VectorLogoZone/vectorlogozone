@@ -6,6 +6,7 @@ images:
 - bootswatch-icon.svg
 layout: default
 logohandle: bootswatch
+skipped: 0
 sort: bootswatch
 title: Bootswatch
 twitter: bootswatch

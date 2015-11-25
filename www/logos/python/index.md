@@ -11,6 +11,7 @@ images:
 - python-vertical.png
 layout: default
 logohandle: python
+skipped: 1
 sort: python
 title: Python
 ---

@@ -11,6 +11,7 @@ images:
 - ruby-icon.svg
 layout: default
 logohandle: ruby
+skipped: 0
 sort: ruby
 title: Ruby
 ---

@@ -7,6 +7,7 @@ images:
 - wikimedia_commons-vertical.svg
 layout: default
 logohandle: wikimedia_commons
+skipped: 1
 sort: wikimedia commons
 title: Wikimedia Commons
 ---

@@ -11,6 +11,7 @@ images:
 - haskell-horizontal.svg
 layout: default
 logohandle: haskell
+skipped: 0
 sort: haskell
 title: Haskell
 ---
