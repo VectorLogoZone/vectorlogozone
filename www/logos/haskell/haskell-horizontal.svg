@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="143.07507"
-   height="26.586365"
-   viewBox="0 0 114.46005 21.269091"
+   width="270"
+   height="64"
+   viewBox="0 0 215.99998 51.199998"
    version="1.1"
    id="svg2"
-   inkscape:version="0.48.3.1 r9886"
+   inkscape:version="0.48.4 r9939"
    sodipodi:docname="haskell-horizontal.svg"
    inkscape:export-filename="/home/amarcuse/site/hackerlogos/haskell/haskell-horizontal.png"
    inkscape:export-xdpi="90"
@@ -25,7 +25,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,9 +42,9 @@
      inkscape:window-height="947"
      id="namedview20"
      showgrid="false"
-     inkscape:zoom="6.8829787"
-     inkscape:cx="89.030314"
-     inkscape:cy="29.351825"
+     inkscape:zoom="3.7378917"
+     inkscape:cx="175.5"
+     inkscape:cy="32"
      inkscape:window-x="65"
      inkscape:window-y="24"
      inkscape:window-maximized="0"
@@ -65,7 +65,7 @@
   </defs>
   <g
      id="g3037"
-     transform="matrix(0.45087087,0,0,0.54297413,-2.1634926,12.021462)">
+     transform="matrix(0.84763594,0,0,1.0207899,-3.9803463,22.581721)">
     <g
        transform="matrix(0.1128941,0,0,0.1128941,4.7984736,-22.140027)"
        id="surface0">
@@ -98,7 +98,7 @@
   </g>
   <g
      id="g3027"
-     transform="matrix(1.3676064,0,0,1.3501817,27.026549,-32.96251)">
+     transform="matrix(2.597004,0,0,2.5167012,49.460599,-61.886203)">
     <g
        id="flowRoot2999"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:-7.87314034px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Sans"
