@@ -1,5 +1,6 @@
 ---
 images:
+- microsoft_dotnet-icon.svg
 - microsoft_dotnet-vertical.png
 - microsoft_dotnet-vertical.svg
 - microsoft_dotnet-horizontal.svg
