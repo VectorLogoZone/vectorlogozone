@@ -2,6 +2,7 @@
 images:
 - microsoft_dotnet-icon.svg
 - microsoft_dotnet-vertical.png
+- microsoft_dotnet-ar21.svg
 - microsoft_dotnet-vertical.svg
 - microsoft_dotnet-horizontal.svg
 - microsoft_dotnet-horizontal.png
