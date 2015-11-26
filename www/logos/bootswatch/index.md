@@ -1,6 +1,6 @@
 ---
 images:
-- bootswatch-120x60.png
+- bootswatch-ar21.png
 - bootswatch-ar21.svg
 - bootswatch-icon.png
 - bootswatch-icon.svg

@@ -5,7 +5,7 @@ images:
 - jquery-icon.svg
 - jquery-vertical.svg
 - jquery-horizontal.svg
-- jquery-workmark.svg
+- jquery-wordmark.svg
 layout: default
 logohandle: jquery
 skipped: 1

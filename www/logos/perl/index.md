@@ -2,7 +2,7 @@
 category: language
 images:
 - perl-ar21.svg
-- perl-120x60.png
+- perl-ar21.png
 layout: default
 logohandle: perl
 skipped: 0

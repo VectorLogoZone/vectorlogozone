@@ -1,8 +1,8 @@
 ---
 images:
 - jekyllrb-ar21.svg
-- jekyllrb-120x60.png
 - jekyllrb-icon.svg
+- jekyllrb-ar21.png
 layout: default
 logohandle: jekyllrb
 skipped: 0

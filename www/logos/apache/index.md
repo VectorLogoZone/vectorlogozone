@@ -1,7 +1,7 @@
 ---
 images:
 - apache-ar21.svg
-- apache-120x60.png
+- apache-ar21.png
 - apache-icon.svg
 layout: default
 logohandle: apache

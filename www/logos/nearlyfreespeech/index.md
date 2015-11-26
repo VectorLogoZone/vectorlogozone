@@ -1,9 +1,9 @@
 ---
 category: hosting
 images:
-- nearlyfreespeech-120x60.png
 - nearlyfreespeech-vertical.png
 - nearlyfreespeech-vertical.svg
+- nearlyfreespeech-ar21.png
 - nearlyfreespeech-horizontal.png
 - nearlyfreespeech-ar21.svg
 - nearlyfreespeech-horizontal.svg

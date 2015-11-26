@@ -2,12 +2,12 @@
 category: language
 images:
 - ruby-horizontal.png
-- ruby-120x60.png
+- ruby-icon.png
 - ruby-horizontal.svg
 - ruby-ar21.svg
 - ruby-vertical.png
 - ruby-vertical.svg
-- ruby-32.png
+- ruby-ar21.png
 - ruby-icon.svg
 layout: default
 logohandle: ruby

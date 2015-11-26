@@ -1,7 +1,7 @@
 ---
 images:
-- labelmakr-120x60.png
 - labelmakr-ar21.svg
+- labelmakr-ar21.png
 layout: default
 logohandle: labelmakr
 skipped: 0

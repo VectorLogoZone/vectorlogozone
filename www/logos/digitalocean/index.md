@@ -2,8 +2,8 @@
 category: service
 images:
 - digitalocean-ar21.svg
+- digitalocean-ar21.png
 - digitalocean-horizontal.svg
-- digitalocean-120x60.png
 - digitalocean-horizontal.png
 layout: default
 logohandle: digitalocean

@@ -4,11 +4,11 @@ images:
 - tcl-icon.svg
 - tcl-horizontal.png
 - tcl-horizontal.svg
-- tcl-120x60.png
+- tcl-icon.png
 - tcl-vertical.svg
 - tcl-ar21.svg
+- tcl-ar21.png
 - tcl-vertical.png
-- tcl-32.png
 layout: default
 logohandle: tcl
 skipped: 1

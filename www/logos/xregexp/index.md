@@ -6,10 +6,10 @@ images:
 - xregexp-ar21.svg
 - xregexp-vertical.svg
 - xregexp-icon.svg
-- xregexp-32.png
+- xregexp-ar21.png
 - xregexp-vertical.png
+- xregexp-icon.png
 - xregexp-horizontal.png
-- xregexp-120x60.png
 layout: default
 logohandle: xregexp
 skipped: 0

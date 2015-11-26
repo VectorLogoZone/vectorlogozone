@@ -1,9 +1,9 @@
 ---
 images:
-- linode-32.png
+- linode-icon.png
 - linode-icon.svg
 - linode-ar21.svg
-- linode-120x60.png
+- linode-ar21.png
 layout: default
 logohandle: linode
 skipped: 0

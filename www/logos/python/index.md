@@ -2,11 +2,11 @@
 category: language
 images:
 - python-vertical.svg
-- python-32.png
 - python-icon.svg
 - python-horizontal.png
+- python-ar21.png
 - python-horizontal.svg
-- python-120x60.png
+- python-icon.png
 - python-ar21.svg
 - python-vertical.png
 layout: default
