@@ -8,6 +8,7 @@ logohandle: inkscape
 skipped: 0
 sort: inkscape
 title: Inkscape
+website: https://inkscape.org/
 ---
 
 Font is [Calluna Regular](http://www.exljbris.com/calluna.html)

@@ -8,6 +8,7 @@ logohandle: perl
 skipped: 0
 sort: perl
 title: Perl
+website: https://www.perl.org/
 ---
 
 The [offical Perl trademark](http://www.perlfoundation.org/perl_trademark) is an onion.  I have never seen this in the wild: everyone uses the camel, so that's what I used too.

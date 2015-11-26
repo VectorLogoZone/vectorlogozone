@@ -8,6 +8,7 @@ logohandle: jekyllrb
 skipped: 0
 sort: jekyll
 title: Jekyll
+website: https://jekyllrb.com/
 ---
 
 Official [brand images repository](https://github.com/jekyll/brand)

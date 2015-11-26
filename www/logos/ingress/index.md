@@ -8,6 +8,7 @@ logohandle: ingress
 skipped: 3
 sort: ingress
 title: Ingress
+website: https://www.ingress.com/
 ---
 
 The font is [Coda](http://code.newtypography.co.uk/coda-font-ingress/) and is available on [Google Fonts](http://www.google.com/fonts/specimen/Coda).

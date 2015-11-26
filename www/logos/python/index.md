@@ -14,6 +14,7 @@ logohandle: python
 skipped: 1
 sort: python
 title: Python
+website: https://www.python.org/
 ---
 
 [official Python Logos](http://www.python.org/community/logos/).

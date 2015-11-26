@@ -15,6 +15,7 @@ logohandle: xregexp
 skipped: 0
 sort: xregexp
 title: XRegexp
+website: http://xregexp.com/
 ---
 
 The font is [Cambria Regular](http://www.myfonts.com/fonts/ascender/cambria/regular/?refby=hackerlogos).

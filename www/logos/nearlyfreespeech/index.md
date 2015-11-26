@@ -12,6 +12,7 @@ logohandle: nearlyfreespeech
 skipped: 1
 sort: nearlyfreespeech.net
 title: NearlyFreeSpeech.Net
+website: https://www.nearlyfreespeech.net/
 ---
 
 The font is [Trebuchet Bold](http://www.myfonts.com/fonts/ascender/trebuchet/bold/?ref=hackerlogos).

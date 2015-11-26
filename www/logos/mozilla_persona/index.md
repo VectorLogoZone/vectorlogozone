@@ -12,6 +12,7 @@ redirect_from: /logos/persona/index.html
 skipped: 2
 sort: mozilla persona
 title: Mozilla Persona
+website: https://www.mozilla.org/en-US/persona/
 ---
 
 Sean Martell has a [style primer](http://people.mozilla.org/~smartell/persona/), with vector versions in Adobe Illustrator \(.ai\) format.

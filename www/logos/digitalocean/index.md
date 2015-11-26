@@ -10,6 +10,7 @@ logohandle: digitalocean
 skipped: 1
 sort: digital ocean
 title: Digital Ocean
+website: https://www.cloudflare.com/
 ---
 
 DigitalOcean has a page with [various logos](https://www.digitalocean.com/badges-and-logos), but the vector links are broken as of 19-July-2013.

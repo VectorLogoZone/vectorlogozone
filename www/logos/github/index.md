@@ -8,6 +8,7 @@ logohandle: github
 skipped: 1
 sort: github
 title: Github
+website: https://github.com/
 ---
 
 Github has a [media repository](https://github.com/github/media), natch, with vector version in Adobe Illustrator \(.ai\) format.

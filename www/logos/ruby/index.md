@@ -14,6 +14,7 @@ logohandle: ruby
 skipped: 0
 sort: ruby
 title: Ruby
+website: https://www.ruby-lang.org/en/
 ---
 
 Ruby is really on the ball.  They have their own [Visual Identity Team](http://rubyidentity.org/) with a downloadable logo kit!

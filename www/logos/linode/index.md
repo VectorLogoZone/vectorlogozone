@@ -9,6 +9,7 @@ logohandle: linode
 skipped: 0
 sort: linode
 title: Linode
+website: https://www.linode.com/
 ---
 
 [Official Logos](https://www.linode.com/logos)

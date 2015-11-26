@@ -7,6 +7,7 @@ logohandle: git-scm
 skipped: 0
 sort: git
 title: git
+website: https://git-scm.com/
 ---
 
 [Official Logos](http://git-scm.com/downloads/logos) Page

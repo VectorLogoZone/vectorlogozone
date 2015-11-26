@@ -8,6 +8,7 @@ logohandle: apache
 skipped: 1
 sort: apache software foundation
 title: Apache Software Foundation
+website: http://apache.org/
 ---
 
 [Official logos](http://apache.org/foundation/press/kit/#links)

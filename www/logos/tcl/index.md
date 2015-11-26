@@ -14,6 +14,7 @@ logohandle: tcl
 skipped: 1
 sort: tcl
 title: Tcl
+website: https://www.tcl.tk/
 ---
 
 These logos are adapted from the files on the [TCL logos wiki page](http://wiki.tcl.tk/854).

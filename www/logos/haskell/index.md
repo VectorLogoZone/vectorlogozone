@@ -14,6 +14,7 @@ logohandle: haskell
 skipped: 0
 sort: haskell
 title: Haskell
+website: https://www.haskell.org/
 ---
 
 This is the [Thompson-Wheeler logo](http://www.haskell.org/haskellwiki/Thompson-Wheeler_logo) from the Haskell wiki.

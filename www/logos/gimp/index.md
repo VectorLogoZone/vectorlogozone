@@ -9,4 +9,5 @@ logohandle: gimp
 skipped: 0
 sort: gimp
 title: Gimp
+website: https://www.gimp.org/
 ---
