@@ -1,4 +1,10 @@
 ---
+images:
+- postgresql-icon.svg
+- postgresql-ar21.svg
+logohandle: postgresql
+skipped: 3
+sort: postgresql
 title: PostgreSQL
 website: http://www.postgresql.org/
 ---
