@@ -5,12 +5,18 @@ redirect_from:
   - /support/specification.html
 ---
 
+<h2>File/Directory naming guidelines</h2>
 
-<h2>Guidelines</h2>
+<p>Use the base domain name without the top-level domain.  For example: Bootstrap's website is <code>www.getbootstrap.com</code>, so the 
+directory and logo handle should be <code>getbootstrap</code>.</p>
+
+<p>If the home page is a subdirectory or subdomain, put an underscore and then the subdirectory/subdomain.</p>
+
+<h2>Image guidelines</h2>
 
 <p>One of the key reasons for HackerLogos is a visually consistant look.  These are the guidelines for making images.</p>
 
-<p>General rules:</p>
+<p>Detailed rules:</p>
 <ul>
 	<li>Do not reference external fonts in <code>.svg</code> files: convert to curves.  However, document the name (and url) of the font.</li>
 	<li>Add a shadow or outline if there are white elements/edges so logos look good on a light background.</li>
@@ -18,16 +24,29 @@ redirect_from:
 	<li>Include the original file with <code>_src</code> suffix (if legally possible).  Document the url where you found it.</li>
 </ul>
 
-<h2>Image Specifications</h2>
+<h2>Images to make</h2>
 	<hr/>
 {% for imagetype in site.data.imagetype %}
 	<h3>{{imagetype.title}}</h3>
 	<p>{{imagetype.description}}</p>
 
-	{% if imagetype.id == 'icon' %}
+	{% if imagetype.id == 'ar21' %}
+	<p>Image should have padding</p>
+	<p>Image must be 120px wide by 60px tall</p>
+
+	{% elsif imagetype.id == 'horizontal' %}
 	<p>Image should go all the way to the edge: no extra whitespace/padding.</p>
+
+	{% elsif imagetype.id == 'icon' %}
+	<p>Image should go all the way to the edge: no extra whitespace/padding.</p>
+	<p>Image should be 32px square</p>
+
 	{% elsif imagetype.id == 'wordmark'%}
 	<p>Leave the appropriate padding if the characters do not have ascenders or descenders.</p>
+	<p>Text font size should be 64px.  See the 
+
+	{% elsif imagetype.id == 'vertical'%}
+	<p>The image can be wider or narrower.  Image should be padded and centered.  Logo and text should be properly proportioned.</p>
 	{% endif %}
 
 
@@ -35,48 +54,75 @@ redirect_from:
 	<hr/>
 {% endfor %}
 
+<h2>Metadata</h2>
+
+<p>Each directory needs to have an <code>index.md</code> file with front matter metadata.  The metadata is used by Jekyll when building indexes and lists.</p>
+
+<p>The following items need to be filled in:</p>
+
 <table class="table table-bordered table-striped">
 	<thead>
 		<tr>
-			<th>Image&nbsp;suffix</th>
-			<th>Size&nbsp;(w&nbsp;x&nbsp;h)</th>
-			<th>Source&nbsp;<code>.svg</code></th>
+			<th>Key</th>
+			<th>Value</th>
 			<th>Details</th>
 		</tr>
 	</thead>
 	<tbody>
 		<tr>
-			<td>vertical</td>
-			<td>~64 x 94</td>
-			<td>vertical</td>
-			<td>Logo above styled &amp; colored text.  Can be wider or narrower.  No padding necessary, but should be centered.  Logo and text should be properly proportioned.</td>
+			<td>facebook</td>
+			<td>url</td>
+			<td>Facebook page url</td>
 		</tr>
 		<tr>
-			<td>32</td>
-			<td>32 x 32</td>
-			<td>icon</td>
-			<td>Logo only, no text.  Image should go all the way to the border.</td>
+			<td>github</td>
+			<td>string</td>
+			<td>Github ID, <i>not</i> the url</td>
 		</tr>
 		<tr>
-			<td>horizontal</td>
-			<td>~120 x ~40</td>
-			<td>horizontal</td>
-			<td>Logo next to text.  Text should be 20 to 25 pixels high. Image should go all the way to the border.</td>
+			<td>images</td>
+			<td>list of images</td>
+			<td>This will be automatically filled in by <code>bin/frontmatter_update.py</code></td>
 		</tr>
 		<tr>
-			<td>120x60</td>
-			<td>120 x ~40</td>
-			<td>ar21</td>
-			<td>Logo next to text.  Image can have padding as much padding as necessary, but at least 1px on all sides.</td>
+			<td>logohandle</td>
+			<td>directory name</td>
+			<td>Just to make life easier in the Jekyll scripts.  It will be automatically filled in by <code>bin/frontmatter_update.py</code></td>
 		</tr>
+		<tr>
+			<td>skipped</td>
+			<td>integer</td>
+			<td>Number of images other than the standard ones.  If there are any, there will be a <code>more</code> link 
+			    to github to view them.</td>
+		</tr>
+		<tr>
+			<td>sort</td>
+			<td>string</td>
+			<td>Normally just the lowercase logohandle.  However, if the logohandle is not what people expect, you can override
+			    it.  It will be automatically populated by <code>frontmatter_update.py</code> but it will not overwrite.
+			</td>
+		</tr>
+		<tr>
+			<td>title</td>
+			<td>string</td>
+			<td>Title used on the page and in listings.  Required.</td>
+		</tr>
+		<tr>
+			<td>twitter</td>
+			<td>string</td>
+			<td>Twitter ID, <i>not</i> the url.</td>
+		</tr>
+		<tr>
+			<td>website</td>
+			<td>url</td>
+			<td>complete url, including http/https</td>
+		</tr>
+<!--
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+-->
 	</tbody>
 </table>
-<!--
-## File Specifications
-
-* XXX-vertical.png - 94 px high, logo (roughly 64px) on top of styled text
-* XXX-32.png - 32 x 32 px, no text
-* XXX-horizontal.png - logo next to styled text.  Exact dimensions are not required, but the images' visual "weight" on the page should be roughly similar. Text should be between 21 and 24 px high. Logo can be up to 40 px high.  Ideal width is 120 px, but can range from 88 to 150 px.
-
-Whenever possible, I include the original file with the \_src before the extension (i.e. XXX-vertical_src.png)
--->
