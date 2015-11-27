@@ -1,6 +1,0 @@
-RewriteEngine on
-RewriteCond %{HTTP_REFERER} !^$
-RewriteCond %{HTTP_REFERER} !^http://www\.hackerlogos\.org/.*$ [NC]
-RewriteCond %{HTTP_REFERER} !^http://www\.google\.com/.*$ [NC]
-RewriteCond %{REQUEST_URI} !^/images/hotlink.png$
-RewriteRule \.(gif|jpg|png|svg)$ /images/hotlink.png [R,L]
