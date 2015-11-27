@@ -9,6 +9,7 @@
   description: Icon, no text.  
   height: 32
   width: 32
+  padding: 5px;
 
 - id: vertical
   title: Vertical Badge
@@ -19,6 +20,7 @@
   title: Horizontal Badge
   description: Horizontal badge with logo on left, text on right
   height: 64
+  padding: 4px;
 
 - id: official
   title: Official Logo
@@ -29,4 +31,5 @@
   title: Wordmark
   description: Just the name in the appropriate font in black at 64 pt.
   height: 64
+  padding: 4px;
 
