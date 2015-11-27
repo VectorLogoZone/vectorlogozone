@@ -19,4 +19,4 @@ website: https://www.haskell.org/
 
 This is the [Thompson-Wheeler logo](http://www.haskell.org/haskellwiki/Thompson-Wheeler_logo) from the Haskell wiki.
 
-The font is [Helvetica](http://www.myfonts.com/fonts/linotype/helvetica/bold/?refby=hackerlogos).  I used the free [Swansea font](http://www.fontspace.com/roger-white/swansea).
+The font is [Helvetica](http://www.myfonts.com/fonts/linotype/helvetica/bold/?refby=vectorlogozone).  I used the free [Swansea font](http://www.fontspace.com/roger-white/swansea).

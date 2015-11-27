@@ -19,4 +19,4 @@ website: https://www.tcl.tk/
 
 These logos are adapted from the files on the [TCL logos wiki page](http://wiki.tcl.tk/854).
 
-The font is [Bodoni Book](http://www.myfonts.com/fonts/bitstream/atf-bodoni/bodoni-book/?refby=hackerlogos).
+The font is [Bodoni Book](http://www.myfonts.com/fonts/bitstream/atf-bodoni/bodoni-book/?refby=vectorlogozone).

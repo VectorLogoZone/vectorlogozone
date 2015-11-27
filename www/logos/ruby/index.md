@@ -21,4 +21,4 @@ Ruby is really on the ball.  They have their own [Visual Identity Team](http://r
 
 It looks like they were created with Adobe Illustrator on a Mac, but the authors included a PDF that I imported into Inkscape.
 
-The font is [Georgia](http://www.myfonts.com/fonts/ascender/georgia/regular/?refby=hackerlogos).
+The font is [Georgia](http://www.myfonts.com/fonts/ascender/georgia/regular/?refby=vectorlogozone).

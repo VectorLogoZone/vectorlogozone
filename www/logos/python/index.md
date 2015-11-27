@@ -21,4 +21,4 @@ website: https://www.python.org/
 
 [Python trademark policy](http://www.python.org/psf/trademarks/).
 
-The font is [Flux Regular](http://www.myfonts.com/fonts/t26/flux/regular/?refby=hackerlogos).
+The font is [Flux Regular](http://www.myfonts.com/fonts/t26/flux/regular/?refby=vectorlogozone).
