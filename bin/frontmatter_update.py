@@ -59,6 +59,7 @@ def process(options, dirparam):
 
 	f = open(indexfn, 'w')
 	frontmatter.dump(indexmd, f)
+	f.write('\n')
 	f.close()
 	#print("%s" % frontmatter.dumps(indexmd))
 
