@@ -5,7 +5,7 @@ images:
 - perl-ar21.png
 layout: default
 logohandle: perl
-skipped: 0
+skipped: 1
 sort: perl
 title: Perl
 website: https://www.perl.org/

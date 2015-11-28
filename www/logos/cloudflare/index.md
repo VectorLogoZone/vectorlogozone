@@ -4,7 +4,7 @@ images:
 - cloudflare-official.svg
 - cloudflare-icon.svg
 logohandle: cloudflare
-skipped: 1
+skipped: 2
 sort: cloudflare
 title: CloudFlare
 website: https://www.cloudflare.com/

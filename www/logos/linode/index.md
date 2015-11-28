@@ -6,7 +6,7 @@ images:
 - linode-ar21.png
 layout: default
 logohandle: linode
-skipped: 0
+skipped: 1
 sort: linode
 title: Linode
 website: https://www.linode.com/
