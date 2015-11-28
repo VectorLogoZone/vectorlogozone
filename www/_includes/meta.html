@@ -22,4 +22,7 @@
 	<script>if (window.top.location != window.location) { window.top.location.href = document.location.href; }</script>
 	<script src="/js/jquery-2.1.4.js"></script>
 	<script src="/js/bootstrap.js"></script>
+{% include nextprev.html %}
+	{% if prev_page %}<link rel="prev" href="{{prev_page}}" />{% endif %}
+	{% if next_page %}<link rel="next" href="{{next_page}}" />{% endif %}
 
