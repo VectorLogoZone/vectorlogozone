@@ -9,7 +9,7 @@
   id: getbootstrap
 
 - name: Bootswatch
-  description: Themes for Bootstrap
+  description: Flatly theme for Bootstrap
   url: http://www.bootswatch.com/
   id: bootswatch
 
@@ -17,6 +17,11 @@
   description: CDN
   url: https://www.cloudflare.com/
   id: cloudflare
+
+- name: Font Awesome
+  description: Icon font
+  url: https://fortawesome.github.io/Font-Awesome/
+  id: font-awesome
 
 - name: Gimp
   description: Raster graphics editor
