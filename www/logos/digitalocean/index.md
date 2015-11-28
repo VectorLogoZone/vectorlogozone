@@ -1,9 +1,12 @@
 ---
 category: service
 images:
+- digitalocean-icon.svg
 - digitalocean-ar21.svg
+- digitalocean-icon.png
 - digitalocean-ar21.png
 - digitalocean-horizontal.svg
+- digitalocean-wordmark.svg
 - digitalocean-horizontal.png
 layout: default
 logohandle: digitalocean

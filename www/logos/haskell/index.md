@@ -5,6 +5,7 @@ images:
 - haskell-icon.png
 - haskell-vertical.svg
 - haskell-vertical.png
+- haskell-wordmark.svg
 - haskell-ar21.svg
 - haskell-horizontal.png
 - haskell-icon.svg

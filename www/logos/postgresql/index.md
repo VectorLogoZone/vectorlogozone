@@ -2,6 +2,10 @@
 images:
 - postgresql-icon.svg
 - postgresql-ar21.svg
+- postgresql-wordmark.png
+- postgresql-horizontal.png
+- postgresql-horizontal.svg
+- postgresql-wordmark.svg
 logohandle: postgresql
 skipped: 3
 sort: postgresql
