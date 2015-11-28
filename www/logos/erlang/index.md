@@ -15,4 +15,6 @@ title: Erlang
 website: http://www.erlang.org/
 ---
 
-[source](http://telegraphics.com.au/~toby/erlang-logo.svg) [via](http://erlang.org/pipermail/erlang-questions/2010-October/053985.html)
+Font is [Futura SC Demi](http://www.myfonts.com/fonts/urw/futura/sctdem/?refby=vectorlogozone)
+
+[source](http://telegraphics.com.au/~toby/erlang-logo.svg) ([via](http://erlang.org/pipermail/erlang-questions/2010-October/053985.html))
