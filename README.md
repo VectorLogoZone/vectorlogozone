@@ -10,13 +10,11 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 
 ## To Do
 
+ * ruby to ruby-lang
  * fill in FAQs
- * more detail on contribute page
+ * Windows 8.1 Tiles
  * alternatives page: /support/alternative.html
- * /404.html page
- * wordmark:
-	/template/wordmark.svg
-	use wordmark in H1 if available
+ * link to template
  * /_includes/footer.html - Legal - CC0?  CC-BY-SA?
  * discus: remove or make it work
  * new favicon
@@ -26,7 +24,7 @@ In order to run the python auto-update utilities, you need to `pip install pytho
  * verify google webmastertools
  * humans.txt
  * pngcrush
- * more frontmatter in /logos/*/index.md: website, twitter, facebook
+ * more frontmatter in /logos/*/index.md: twitter, facebook
  * search engine
  * /util/research.html
 	- get favicon/apple icons/etc from webpage
@@ -37,15 +35,26 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 ## Logos
 
  * appharbor
- * erlang
- * golang
- * javascript
- * nodejs
- * php
- * Perl
- * JavaScript
  * AWK
- * Microsoft - Segoe
+ * disqus
+ * fugue icons
+ * godaddy
+ * golang
+ * google AppEngine
  * Heroku - logos.heroku.com Hybrea
- * dotNet
+ * iText
  * Java
+ * Jetty
+ * Libreoffice
+ * Microsoft - Segoe
+ * OpenOffice
+ * php
+ * pinboard
+ * s3cmd
+ * styleshout
+ * tango icons
+ * ubuntu
+ * unicode
+ * urlrewritefilter
+ * 1and1
+
