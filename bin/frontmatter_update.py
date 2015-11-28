@@ -20,13 +20,16 @@ def process(options, dirparam):
 
 	for f in files:
 		if f.endswith(".svg") == False and f.endswith(".png") == False:
-			if f.endswith(".ai") or f.endswith(".pdf"):
+			if f.endswith(".ai") or f.endswith(".pdf") or f.endswith(".eps"):
+				print("INFO: skipping " + f)
 				skipped = skipped + 1
 			continue
 		if f.endswith("_src.svg") or f.endswith("_src.png"):
+			print("INFO: skipping " + f)
 			skipped = skipped + 1
 			continue
 		if f.startswith(logohandle + '-') == False:
+			print("INFO: skipping " + f)
 			skipped = skipped + 1
 			continue
 
