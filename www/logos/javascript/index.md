@@ -9,4 +9,6 @@ sort: javascript
 title: JavaScript
 ---
 
-Font is Droid Sans
+There isn't really an organization that owns JavaScript per se, so there isn't an official logo, so I made one up.
+
+The font is [Droid Sans Bold](https://www.google.com/fonts/specimen/Droid+Sans?refby=vectorlogozone)
