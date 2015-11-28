@@ -4,19 +4,32 @@
 	<link href='https://fonts.googleapis.com/css?family=Lato:400,300,400italic,700,700italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
 	<style type="text/css">
+
+	/* faded border around logos in lists */
 	.logo-container img {
 		box-shadow: 0 0 5px #1d1d1d;
 		border: solid #ccc 1px;
 		margin: 10px;
 	}
+
+	/* hide outline on a clicked tab */
 	.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
 		outline: 0;
 	}
+
+	/* external nav links on logo pages */
 	.icon-link {
 	color: #888;
 	margin-top: 10px;
 	padding: 8px;
 	}
+
+	/* seems like a Bootstrap bug (or incompatibility with FontAwesome) */
+	.carousel-control { padding-top: 25%; } 
+
+	/* bootswatch ugliness */
+	.alert-info a { color: white; text-decoration: underline; }
+
 	</style>
 	<link rel="shortcut icon" href="/favicon.ico">
 	<script>if (window.top.location != window.location) { window.top.location.href = document.location.href; }</script>

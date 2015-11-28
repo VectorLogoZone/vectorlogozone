@@ -22,6 +22,35 @@ title: Consistant Vector Logos
     </div>
 </div>
 
+{% assign sorted_pages = site.pages | sort:'sort' %}
+
+<div id="carousel-logos" class="carousel slide" data-ride="carousel">
+	<!-- Indicators -->
+		<ol class="carousel-indicators">
+{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
+			<li data-target="#carousel-{{logopage.logohandle}}" data-slide-to="{{forloop.index0}}" {% if logopage.logohandle == 'amazon_aws' %}class="active"{% endif %}></li>
+{% endif %}{% endif %}{% endfor %}
+	</ol>
+
+	<!-- Wrapper for slides -->
+	<div class="carousel-inner" role="listbox">
+{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
+		<div class="item{% if logopage.logohandle == 'amazon_aws' %} active{% endif %}">
+			<a href="/logos/{{logopage.logohandle}}/index.html"><img src="/logos/{{logopage.logohandle}}/{{logopage.logohandle}}-ar21.svg" style="width:100%;" alt="{{logopage.title}}" /></a>
+		</div>
+{% endif %}{% endif %}{% endfor %}
+	</div>
+
+	<!-- Controls -->
+	<a class="left carousel-control" href="#carousel-logos" role="button" data-slide="prev">
+		<span class="fa fa-chevron-left" aria-hidden="true"></span>
+		<span class="sr-only">Previous</span>
+	</a>
+	<a class="right carousel-control" href="#carousel-logos" role="button" data-slide="next">
+		<span class="fa fa-chevron-right" aria-hidden="true"></span>
+		<span class="sr-only">Next</span>
+	</a>
+</div>
 <style scoped="scoped" type="text/css">
 .pin-title { font-size:1em;text-decoration:none;color:#00a}
 .pin-description { color:#555; }
