@@ -38,7 +38,8 @@ directory and logo handle should be <code>getbootstrap</code>.</p>
 	<p>Image must be 120px wide by 60px tall</p>
 
 	{% elsif imagetype.id == 'horizontal' %}
-	<p>Image should go all the way to the edge: no extra whitespace/padding.</p>
+	<p>Leave the appropriate padding if the characters do not have ascenders or descenders.</p>
+	<p>Text font size should be 64px.  See the <a href="#template">template</a> below.</p>
 
 	{% elsif imagetype.id == 'icon' %}
 	<p>Image should go all the way to the edge: no extra whitespace/padding.</p>
@@ -46,7 +47,7 @@ directory and logo handle should be <code>getbootstrap</code>.</p>
 
 	{% elsif imagetype.id == 'wordmark'%}
 	<p>Leave the appropriate padding if the characters do not have ascenders or descenders.</p>
-	<p>Text font size should be 64px.  See the 
+	<p>Text font size should be 64px.  See the <a href="#template">template</a> below.</p>
 
 	{% elsif imagetype.id == 'vertical'%}
 	<p>The image can be wider or narrower.  Image should be padded and centered.  Logo and text should be properly proportioned.</p>
@@ -56,6 +57,20 @@ directory and logo handle should be <code>getbootstrap</code>.</p>
 	<p><a href="/logos/visual.html#{{imagetype.id}}" style="btn btn-default btn-xs">View all</a></p>
 	<hr/>
 {% endfor %}
+
+<h2><a name="template">Template</a></h2>
+
+<p>The text in the horizontal and wordmark versions should be 64px high.</p>
+
+<p>If the text does not have any letters with descenders, the bottom of the text should be at 16px.  I.e. 15px of whitespace below the text.</p>
+
+<p>If the text does not have any letters with ascenders, the top of the text should be at 50px.  I.e. 14px of whitespace above the text.</p>
+
+<p>If the logo is bigger than the text, the image can be bigger as well.</p>
+
+<p>If the font has strange proportions (or is too light or dark), the size can be adjusted so it is visually similar to the guidelines.</p>
+
+<p class="text-center"><a href="/util/preview.html?image=/template/64point.svg&amp;next={{page.url}}%23template"><img alt="template for horizontal and wordmark" src="/template/64point.svg" style="border:1px solid black" /></a></p>
 
 <h2>Metadata</h2>
 
