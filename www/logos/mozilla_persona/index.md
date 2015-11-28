@@ -10,7 +10,7 @@ layout: default
 logohandle: mozilla_persona
 redirect_from: /logos/persona/index.html
 skipped: 2
-sort: mozilla persona
+sort: persona
 title: Mozilla Persona
 website: https://www.mozilla.org/en-US/persona/
 ---
