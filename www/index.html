@@ -25,14 +25,14 @@ redirect_from:
 </div>
 
 <div class="row">&nbsp;</div>
-{% assign sorted_pages = site.pages | sort:'sort' %}
+{% assign sorted_pages = site.pages | sort:'sort' %}{% assign current_slide = 0 %}
 <div class="row">
 <div id="carousel-logos" class="carousel slide" data-ride="carousel">
 	<!-- Indicators -->
 		<ol class="carousel-indicators">
 {% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
-			<li data-target="#carousel-{{logopage.logohandle}}" data-slide-to="{{forloop.index0}}" {% if logopage.logohandle == 'amazon_aws' %}class="active"{% endif %}></li>
-{% endif %}{% endif %}{% endfor %}
+			<li style="background:#ccc;" data-target="#carousel-logos" data-slide-to="{{current_slide}}" {% if logopage.logohandle == 'amazon_aws' %}class="active"{% endif %}></li>
+{% assign current_slide = current_slide|plus:1 %}{% endif %}{% endif %}{% endfor %}
 	</ol>
 
 	<!-- Wrapper for slides -->
