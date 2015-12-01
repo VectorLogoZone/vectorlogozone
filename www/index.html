@@ -29,9 +29,9 @@ redirect_from:
 <div class="row">
 <div id="carousel-logos" class="carousel slide" data-ride="carousel">
 	<!-- Indicators -->
-		<ol class="carousel-indicators">
+		<ol class="carousel-indicators visible-lg-block">
 {% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
-			<li style="background:#ccc;" data-target="#carousel-logos" data-slide-to="{{current_slide}}" {% if logopage.logohandle == 'amazon_aws' %}class="active"{% endif %}></li>
+			<li data-target="#carousel-logos" data-slide-to="{{current_slide}}" {% if logopage.logohandle == 'amazon_aws' %}class="active"{% endif %}></li>
 {% assign current_slide = current_slide|plus:1 %}{% endif %}{% endif %}{% endfor %}
 	</ol>
 
@@ -56,11 +56,6 @@ redirect_from:
 </div>
 </div>
 <div class="row">&nbsp;</div>
-<style scoped="scoped" type="text/css">
-.pin-title { font-size:1em;text-decoration:none;color:#00a}
-.pin-description { color:#555; }
-.pin-tag { display:none; }
-</style>
 <div class="row">
 <div class="panel panel-default">
 	<div class="panel-heading"><i class="fa fa-thumb-tack"></i> Recently Bookmarked</div>
