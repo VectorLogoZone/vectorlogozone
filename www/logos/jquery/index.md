@@ -10,6 +10,9 @@ layout: default
 logohandle: jquery
 skipped: 1
 sort: jquery
+tags:
+- programming_library
+- javascript
 title: jQuery
 website: https://jquery.com/
 ---

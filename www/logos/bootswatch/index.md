@@ -8,6 +8,8 @@ layout: default
 logohandle: bootswatch
 skipped: 0
 sort: bootswatch
+tags:
+- webdesign
 title: Bootswatch
 twitter: bootswatch
 website: http://bootswatch.com/

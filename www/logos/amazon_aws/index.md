@@ -10,6 +10,9 @@ layout: default
 logohandle: amazon_aws
 skipped: 0
 sort: amazon web services
+tags:
+- hosting
+- paas
 title: Amazon Web Services
 twitter: awscloud
 website: https://aws.amazon.com/

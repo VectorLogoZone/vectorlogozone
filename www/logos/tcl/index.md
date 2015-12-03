@@ -13,6 +13,8 @@ layout: default
 logohandle: tcl
 skipped: 1
 sort: tcl
+tags:
+- programming_language
 title: Tcl
 website: https://www.tcl.tk/
 ---

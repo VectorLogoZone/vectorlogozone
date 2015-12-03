@@ -8,6 +8,9 @@ layout: default
 logohandle: gimp
 skipped: 0
 sort: gimp
+tags:
+- graphics
+- software
 title: Gimp
 website: https://www.gimp.org/
 ---

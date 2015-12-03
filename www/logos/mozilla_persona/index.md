@@ -11,6 +11,9 @@ logohandle: mozilla_persona
 redirect_from: /logos/persona/index.html
 skipped: 2
 sort: persona
+tags:
+- security
+- authentication
 title: Mozilla Persona
 website: https://www.mozilla.org/en-US/persona/
 ---

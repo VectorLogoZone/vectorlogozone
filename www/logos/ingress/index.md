@@ -7,6 +7,8 @@ layout: default
 logohandle: ingress
 skipped: 3
 sort: ingress
+tags:
+- game
 title: Ingress
 website: https://www.ingress.com/
 ---

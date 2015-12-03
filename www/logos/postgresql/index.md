@@ -9,6 +9,8 @@ images:
 logohandle: postgresql
 skipped: 3
 sort: postgresql
+tags:
+- database
 title: PostgreSQL
 website: http://www.postgresql.org/
 ---

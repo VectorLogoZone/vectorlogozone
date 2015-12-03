@@ -1,5 +1,7 @@
 ---
 sort: openoffice
+tags:
+- software
 title: Apache OpenOffice
 ---
 

@@ -11,6 +11,8 @@ images:
 logohandle: erlang
 skipped: 1
 sort: erlang
+tags:
+- programming_language
 title: Erlang
 website: http://www.erlang.org/
 ---

@@ -9,6 +9,9 @@ images:
 logohandle: microsoft_dotnet
 skipped: 2
 sort: microsoft_dotnet
+tags:
+- programming_language
+- programming_library
 title: Microsoft .Net
 website: http://www.microsoft.com/net
 ---

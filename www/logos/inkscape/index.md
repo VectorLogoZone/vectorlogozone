@@ -7,6 +7,9 @@ layout: default
 logohandle: inkscape
 skipped: 0
 sort: inkscape
+tags:
+- graphics
+- software
 title: Inkscape
 website: https://inkscape.org/
 ---

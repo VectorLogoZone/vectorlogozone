@@ -13,6 +13,8 @@ layout: default
 logohandle: python
 skipped: 1
 sort: python
+tags:
+- programming_language
 title: Python
 website: https://www.python.org/
 ---

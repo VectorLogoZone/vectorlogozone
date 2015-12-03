@@ -9,6 +9,9 @@ images:
 logohandle: vectorlogozone
 skipped: 0
 sort: vectorlogozone
+tags:
+- reference
+- graphics
 title: VectorLogo.Zone
 website: https://www.vectorlogo.zone/
 ---

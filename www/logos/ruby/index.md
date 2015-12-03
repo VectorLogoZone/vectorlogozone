@@ -13,6 +13,8 @@ layout: default
 logohandle: ruby
 skipped: 0
 sort: ruby
+tags:
+- programming_language
 title: Ruby
 website: https://www.ruby-lang.org/en/
 ---

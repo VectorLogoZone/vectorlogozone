@@ -6,6 +6,8 @@ layout: default
 logohandle: labelmakr
 skipped: 0
 sort: labelmakr
+tags:
+- service
 title: LabelMakr
 website: http://www.labelmakr.com/
 ---

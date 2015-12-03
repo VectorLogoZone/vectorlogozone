@@ -11,6 +11,8 @@ layout: default
 logohandle: nearlyfreespeech
 skipped: 1
 sort: nearlyfreespeech.net
+tags:
+- hosting
 title: NearlyFreeSpeech.Net
 website: https://www.nearlyfreespeech.net/
 ---

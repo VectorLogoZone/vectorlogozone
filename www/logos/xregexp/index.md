@@ -14,6 +14,9 @@ layout: default
 logohandle: xregexp
 skipped: 0
 sort: xregexp
+tags:
+- javascript
+- programming_library
 title: XRegexp
 website: http://xregexp.com/
 ---

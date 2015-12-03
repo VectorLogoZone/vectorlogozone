@@ -8,6 +8,8 @@ layout: default
 logohandle: linode
 skipped: 1
 sort: linode
+tags:
+- hosting
 title: Linode
 website: https://www.linode.com/
 ---

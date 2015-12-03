@@ -9,6 +9,9 @@ layout: default
 logohandle: wikimedia_commons
 skipped: 1
 sort: wikimedia commons
+tags:
+- graphics
+- reference
 title: Wikimedia Commons
 website: https://commons.wikimedia.org/wiki/Main_Page
 ---

@@ -6,6 +6,9 @@ images:
 logohandle: cloudflare
 skipped: 2
 sort: cloudflare
+tags:
+- cdn
+- service
 title: CloudFlare
 website: https://www.cloudflare.com/
 ---

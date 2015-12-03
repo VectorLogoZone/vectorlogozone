@@ -7,6 +7,8 @@ layout: default
 logohandle: wufoo
 skipped: 1
 sort: wufoo
+tags:
+- service
 title: Wufoo
 website: http://www.wufoo.com/
 ---

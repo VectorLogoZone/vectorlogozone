@@ -1,0 +1,58 @@
+analytics:
+  count: 1
+  title: Analytics
+authentication:
+  count: 1
+  title: Authentication
+cdn:
+  count: 1
+  title: CDN
+database:
+  count: 1
+  title: Databases
+font:
+  count: 1
+  title: Fonts
+game:
+  count: 1
+  title: Games
+graphics:
+  count: 4
+  title: Graphics
+hosting:
+  count: 4
+  title: Hosting
+javascript:
+  count: 3
+  title: JavaScript
+paas:
+  count: 1
+  description: Platform as a Service
+  title: PaaS
+programming_language:
+  count: 9
+  title: Programming Languages
+programming_library:
+  count: 5
+  title: Programming Libraries
+reference:
+  count: 4
+  title: Reference
+security:
+  count: 1
+  title: Security
+service:
+  count: 5
+  title: Service
+software:
+  count: 3
+  title: Software
+static_website:
+  count: 1
+  title: Static Website Builders
+version_control:
+  count: 2
+  title: Version Control
+webdesign:
+  count: 2
+  title: Web Design

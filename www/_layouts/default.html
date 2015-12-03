@@ -24,6 +24,13 @@
 			</div><!--/col-->
 		</div><!--/row-->
 		{% if page.images.size > 0 %}{% include imagelist.html %}{% endif %}
+		{% if page.tags %}
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+				<p> Tags: {% for tag in page.tags %}<a href="/logos/tags.html#{{tag}}">{{site.data.tags[tag].title}}</a> {% if forloop.last %}{% else %}| {% endif %}{% endfor %}</p>
+			</div>
+		</div>
+		{% endif %}
 		<hr>
 		{% include footer.html %}
 	</div><!--/container-->

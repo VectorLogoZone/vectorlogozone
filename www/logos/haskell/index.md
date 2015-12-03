@@ -14,6 +14,8 @@ layout: default
 logohandle: haskell
 skipped: 0
 sort: haskell
+tags:
+- programming_language
 title: Haskell
 website: https://www.haskell.org/
 ---

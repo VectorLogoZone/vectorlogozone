@@ -4,8 +4,10 @@ images:
 - golang-ar21.svg
 - golang-ar21.png
 logohandle: golang
-skipped: 4
+skipped: 3
 sort: go language
+tags:
+- programming_language
 title: Go Language
 website: https://golang.org/
 ---

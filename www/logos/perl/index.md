@@ -7,6 +7,8 @@ layout: default
 logohandle: perl
 skipped: 1
 sort: perl
+tags:
+- programming_language
 title: Perl
 website: https://www.perl.org/
 ---

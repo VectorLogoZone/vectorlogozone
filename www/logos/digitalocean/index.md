@@ -12,6 +12,8 @@ layout: default
 logohandle: digitalocean
 skipped: 1
 sort: digital ocean
+tags:
+- hosting
 title: Digital Ocean
 website: https://www.cloudflare.com/
 ---

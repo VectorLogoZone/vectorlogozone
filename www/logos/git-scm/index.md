@@ -6,6 +6,8 @@ layout: default
 logohandle: git-scm
 skipped: 1
 sort: git
+tags:
+- version_control
 title: git
 website: https://git-scm.com/
 ---

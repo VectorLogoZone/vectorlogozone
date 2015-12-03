@@ -6,6 +6,8 @@ images:
 logohandle: javascript
 skipped: 0
 sort: javascript
+tags:
+- programming_language
 title: JavaScript
 ---
 

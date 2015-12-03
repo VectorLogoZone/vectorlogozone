@@ -7,6 +7,8 @@ layout: default
 logohandle: jekyllrb
 skipped: 0
 sort: jekyll
+tags:
+- static_website
 title: Jekyll
 website: https://jekyllrb.com/
 ---

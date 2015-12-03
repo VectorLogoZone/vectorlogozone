@@ -13,6 +13,8 @@ layout: default
 logohandle: fileformatinfo
 skipped: 0
 sort: fileformat.info
+tags:
+- reference
 title: FileFormat.Info
 website: https://www.fileformat.info/
 ---
