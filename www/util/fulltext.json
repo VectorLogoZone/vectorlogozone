@@ -1,5 +1,6 @@
 ---
 layout: none
+noindex: true
 ---
 {% assign sorted_pages = site.pages | sort:'sort' %}
 {
