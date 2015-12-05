@@ -6,9 +6,9 @@ layout: default
     <div class="col-md-6 col-md-offset-3 column">
         <form action="get" class="form-inline" id="site_search">
             <div class="form-group">
-                 <label class="sr-only" for="q">Email address</label><input class="form-control" id="q" name="q" type="text">
+                 <label class="sr-only" for="q">Search query</label><input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search terms" type="text">
             </div>
-		<button type="submit" class="btn btn-default">Submit</button>
+		<button type="submit" class="btn btn-default">Search</button>
         </form>
     </div>
 </div>
@@ -23,12 +23,14 @@ layout: default
 $(function() {
 	// Initalize lunr with the fields it will be searching on. I've given title
 	// a boost of 10 to indicate matches on this field are more important.
+	lunr.tokenizer.seperator = /[\s\-_\.]+/
 	window.idx = lunr(function () {
 			this.field('id');
 			this.field('title', { boost: 10 });
-			this.field('author');
+			this.field('website');
 			this.field('category');
 		});
+	window.idx.pipeline.remove(lunr.stopWordFilter);
 
 	// Download the data from the JSON file we generated
 	window.data = $.getJSON('/util/fulltext.json');
@@ -38,6 +40,7 @@ $(function() {
 		$.each(loaded_data, function(index, value){
 			window.idx.add($.extend({ "id": index }, value));
 		});
+		console.log("data loaded");
 	});
 
 	var doSearch = function(query)
@@ -95,8 +98,11 @@ $(function() {
 	var query = getParameterByName("q");
 	if (query && query.length)
 	{
-		$("q").val(query);
-		doSearch(query);
+		window.data.then(function() {
+			console.log("initial query");
+			$("#q").val(query);
+			doSearch(query);
+		});
 	}
 
 

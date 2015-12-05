@@ -4,5 +4,5 @@ noindex: true
 ---
 {% assign sorted_pages = site.pages | sort:'sort' %}
 {
-{% for logopage in sorted_pages %}{% if logopage.logohandle %}    "{{ logopage.logohandle }}": { "title": "{{ logopage.title | xml_escape }}", "content": "{{ logopage.tags | xml_escape }}"}{% unless forloop.last %},{% endunless %}
+{% for logopage in sorted_pages %}{% if logopage.logohandle %}    "{{ logopage.logohandle }}": { "title": "{{ logopage.title | xml_escape }}", "website": "{{ logopage.website | xml_escape }}"}{% unless forloop.last %},{% endunless %}
 {% endif %}{% endfor %}}
