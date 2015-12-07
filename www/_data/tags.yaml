@@ -23,7 +23,7 @@ hosting:
   count: 4
   title: Hosting
 javascript:
-  count: 3
+  count: 4
   title: JavaScript
 paas:
   count: 1
@@ -33,7 +33,7 @@ programming_language:
   count: 9
   title: Programming Languages
 programming_library:
-  count: 5
+  count: 6
   title: Programming Libraries
 reference:
   count: 4

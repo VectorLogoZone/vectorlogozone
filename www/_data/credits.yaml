@@ -58,6 +58,11 @@
   url: https://jquery.com/
   id: jquery
 
+- name: lunr.js
+  description: Client-side search
+  url: http://lunjs.org/
+  id: lunrjs
+
 - name: W3C Markup Validation Service
   description: HTML file validation
   url: https://validator.w3.org/
