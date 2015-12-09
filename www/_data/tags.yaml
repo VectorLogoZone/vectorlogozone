@@ -45,7 +45,7 @@ service:
   count: 5
   title: Service
 software:
-  count: 3
+  count: 4
   title: Software
 static_website:
   count: 1
