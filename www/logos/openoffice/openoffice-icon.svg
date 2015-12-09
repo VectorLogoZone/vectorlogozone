@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   id="svg3396"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="openoffice-icon.svg">
+  <title
+     id="title3513">Apache OpenOffice Logo 2013</title>
+  <defs
+     id="defs3398" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="25.178781"
+     inkscape:cx="17.940251"
+     inkscape:cy="17.225561"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1290"
+     inkscape:window-height="799"
+     inkscape:window-x="170"
+     inkscape:window-y="258"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata3401">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Apache OpenOffice Logo 2013</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Chris Rottensteiner</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:date>2013-06-07</dc:date>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>2013 Apache OpenOffice project / various</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:source>previous logo</dc:source>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>Kevin Grignon, Rob Weir, AOO community</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="" />
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>logo</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-1020.3622)">
+    <g
+       id="g3128"
+       font-style="normal"
+       font-variant="normal"
+       font-size="28.42124176px"
+       line-height="125%"
+       font-stretch="normal"
+       transform="matrix(0.19747357,0,0,0.19756623,-68.001802,975.77347)"
+       font-weight="normal"
+       style="font-size:28.42124176px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill-rule:evenodd;font-family:'M+ 1p'">
+      <path
+         style="fill:#0e85cd"
+         inkscape:connector-curvature="0"
+         id="path3130"
+         d="m 425.38,225.69 c -44.75,0 -81.021,36.251 -81.021,80.98 0,5.697 0.595,11.254 1.715,16.62 7.119,-1.935 14.609,-2.97 22.342,-2.97 12.394,0 24.163,2.65 34.783,7.418 13.9,-9.91 30.93,-15.74 49.31,-15.74 11.508,0 22.484,2.29 32.488,6.434 0.053,0.02 0.102,0.041 0.154,0.062 0.414,0.204 0.705,0.628 0.705,1.129 0,0.692 -0.564,1.258 -1.264,1.258 -0.025,0 -1.23,-0.093 -1.807,-0.131 -1.992,-0.143 -4.018,-0.219 -6.043,-0.219 -28.408,0 -53.935,10.432 -69.416,31.594 -0.247,0.335 -0.732,1.018 -0.738,1.018 -0.226,0.285 -0.578,0.468 -0.968,0.468 -0.32,0 -0.604,-0.118 -0.821,-0.318 -0.039,-0.024 -0.076,-0.061 -0.108,-0.096 -14.688,-13.81 -34.036,-19.276 -55.753,-19.657 11.088,31.517 41.113,54.121 76.437,54.121 44.75,0 81.031,-36.262 81.031,-80.986 10e-4,-44.732 -36.28,-80.983 -81.03,-80.983 z m 63.436,48.465 c -0.283,-0.029 -0.768,-0.108 -1.082,-0.15 -0.9,-0.142 -1.814,-0.257 -2.732,-0.345 -16.525,-1.558 -31.9,3.03 -41.934,14.653 -0.42,0.43 -0.789,0.45 -1.203,0.022 -7.977,-9.045 -19.337,-13.059 -32.375,-14.294 -4.645,-0.441 -9.208,-0.211 -13.578,0.602 -0.017,0 -0.037,0 -0.057,0.009 -0.042,0 -0.088,0.011 -0.138,0.011 -0.467,0 -0.84,-0.379 -0.84,-0.845 0,-0.271 0.134,-0.509 0.328,-0.659 0.08,-0.045 0.16,-0.096 0.238,-0.133 8.134,-4.256 17.536,-6.293 27.349,-5.363 7.117,0.674 13.738,2.832 19.574,6.145 8.525,-4.939 18.623,-7.363 29.18,-6.366 5.977,0.566 11.602,2.187 16.711,4.645 0.312,0.16 0.637,0.313 0.951,0.484 0.312,0.155 0.453,0.423 0.453,0.747 0,0.464 -0.299,0.903 -0.845,0.837 z" />
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         id="path3132"
+         d="m 489.2,272.57 c -0.314,-0.171 -0.639,-0.324 -0.951,-0.484 -5.109,-2.458 -10.734,-4.078 -16.711,-4.645 -10.557,-0.997 -20.654,1.427 -29.18,6.366 -5.836,-3.312 -12.457,-5.471 -19.574,-6.145 -9.813,-0.93 -19.215,1.107 -27.349,5.363 -0.078,0.037 -0.159,0.088 -0.238,0.133 -0.194,0.15 -0.328,0.389 -0.328,0.659 0,0.466 0.373,0.845 0.84,0.845 0.049,0 0.095,-0.011 0.138,-0.011 0.02,-0.009 0.04,-0.009 0.057,-0.009 4.37,-0.812 8.933,-1.043 13.578,-0.602 13.039,1.235 24.399,5.249 32.375,14.294 0.414,0.428 0.783,0.407 1.203,-0.022 10.033,-11.623 25.408,-16.211 41.934,-14.653 0.918,0.088 1.832,0.203 2.732,0.345 0.314,0.042 0.799,0.121 1.082,0.15 0.547,0.065 0.846,-0.373 0.846,-0.838 -10e-4,-0.323 -0.141,-0.591 -0.454,-0.746 z" />
+      <path
+         style="fill:#ffffff"
+         inkscape:connector-curvature="0"
+         id="path3134"
+         d="m 404.8,353.29 c 0.217,0.2 0.501,0.318 0.821,0.318 0.39,0 0.742,-0.183 0.968,-0.468 0.006,0 0.491,-0.683 0.738,-1.018 15.481,-21.162 41.007,-31.594 69.416,-31.594 2.025,0 4.051,0.076 6.043,0.219 0.576,0.038 1.781,0.131 1.807,0.131 0.699,0 1.264,-0.565 1.264,-1.258 0,-0.501 -0.291,-0.925 -0.705,-1.129 -0.053,-0.021 -0.102,-0.042 -0.154,-0.062 -10.004,-4.144 -20.98,-6.434 -32.488,-6.434 -18.382,0 -35.405,5.83 -49.314,15.743 -10.62,-4.768 -22.389,-7.418 -34.783,-7.418 -7.733,0 -15.223,1.035 -22.342,2.97 0.731,3.505 1.701,6.922 2.87,10.245 21.718,0.381 41.065,5.848 55.753,19.657 0.03,0.037 0.067,0.074 0.106,0.098 z" />
+    </g>
+  </g>
+</svg>

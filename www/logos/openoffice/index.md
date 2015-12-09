@@ -1,4 +1,9 @@
 ---
+images:
+- openoffice-icon.svg
+- openoffice-ar21.svg
+logohandle: openoffice
+skipped: 1
 sort: openoffice
 tags:
 - software
