@@ -10,22 +10,32 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 
 ## To Do
 
+ * /search.html: comment code
+ * /search.html: btn-info 
+ * new favicon
+ * use wordmark.svg in navbar
  * ruby to ruby-lang
+ * navbar: icons when small, text when medium, both when large
+ * navbar: "VLZ" when tiny
+ * advertising
  * fill in FAQs
+ * /index.html - only a subset of logos
+ * /index.html - last slide is custom svg w/count, mini logos, etc
  * Windows 8.1 Tiles
  * alternatives page: /support/alternative.html
  * link to template
  * /_includes/footer.html - Legal - CC0?  CC-BY-SA?
  * discus: remove or make it work
- * new favicon
+ * /util/inventory - toggle for png
  * svg metadata
  * categories for each /logos/*/index.md
  * verify bing
  * verify google webmastertools
  * humans.txt
+ * generate pngs if missing
  * pngcrush
  * more frontmatter in /logos/*/index.md: twitter, facebook
- * search engine
+ * /util/fulltext - {{content}}
  * /util/research.html
 	- get favicon/apple icons/etc from webpage
 	- get twitter logo
@@ -36,6 +46,7 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 
  * appharbor
  * AWK
+ * common lisp
  * disqus
  * fugue icons
  * godaddy
