@@ -15,6 +15,7 @@ skipped: 1
 sort: python
 tags:
 - programming_language
+- python
 title: Python
 website: https://www.python.org/
 ---

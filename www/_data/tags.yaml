@@ -35,6 +35,9 @@ programming_language:
 programming_library:
   count: 7
   title: Programming Libraries
+python:
+  count: 2
+  title: python
 reference:
   count: 4
   title: Reference
