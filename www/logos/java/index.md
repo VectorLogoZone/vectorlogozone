@@ -1,0 +1,17 @@
+---
+images:
+- java-vertical.svg
+- java-icon.svg
+- java-ar21.svg
+logohandle: java
+skipped: 1
+sort: java
+title: Java
+tags:
+- java
+- programming_language
+---
+
+[Official Branding Guidelines](http://www.oracle.com/us/technologies/java/java-licensing-logo-guidelines-1908204.pdf)
+
+[Source](https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg)
