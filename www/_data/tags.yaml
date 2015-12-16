@@ -23,7 +23,7 @@ hosting:
   count: 4
   title: Hosting
 java:
-  count: 1
+  count: 2
   title: java
 javascript:
   count: 5

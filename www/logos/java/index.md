@@ -6,10 +6,10 @@ images:
 logohandle: java
 skipped: 1
 sort: java
-title: Java
 tags:
 - java
 - programming_language
+title: Java
 ---
 
 [Official Branding Guidelines](http://www.oracle.com/us/technologies/java/java-licensing-logo-guidelines-1908204.pdf)
