@@ -16,7 +16,6 @@ deploy:
     secure: WLbdklZak6WFUUXeVtBwM9KwHlhlqcxhIZBimhYLr0bTohCCmxgPRR2QoCf3Hey6SSKxBasJd+pyaPb9sjhhpXo/NIEvlbaamPm6bkj1ZErX/Ej4kIPJaA/wA0C7uQKJ0vBcj/dsTVHhRl0pikQ9XeU2gTs/H5M3/vcv/PRkMO7s/0M0Tas+vE+KcvWD7KgrE8H2hGH/1xB5I5iz92Qc3H3Jt7ccstfAG1mq5qQe5GSDDRZWwC2s9U56S6OVAiKcQVtDg/jBP3520ukR4xJZ3/gfag0NKAOen3WV5Wjh6WXlKESc8vWI6CLheI3oRyDT1l24QDcUwvRWFug/XVs0xIW9wwlZEE86gVTxRRgJLgSMYjySaznmkEb45L0pqymsDVzr7KeK2biLgPylog44gG+vzXO7wUaEOdI5YcsFWJHsYEfAf95JphyU6/aBVYXbexEa8nW5/0PatBmDQnXQwmZGNcDFzKuKf0wNvEdmca8Itg2saNaTErKpvMmXv1f1jCKI4WCpTM+/zpatSPYykxXxeQ/M93F/RU8zHmODi+SB49hUWzXAYpJGww7PkZy07FY1GrhLf6ROYFTYrNAEGTSy5LRkgrmJ1QVCJUfeXfxLD3PPqz3guwoQFkFIPHcwmssZeTu8Wy8C6I73pMMl58knGt3GIgNxV1JqE2oy61U=
   bucket: www.vectorlogo.zone
   local-dir: _site
-  acl: ''
   on:
     repo: fileformat/vectorlogozone
     branch: gh-pages
