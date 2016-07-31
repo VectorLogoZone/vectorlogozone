@@ -1,11 +1,15 @@
 ---
 images:
+- apache_kafka-icon.svg
+- apache_kafka-ar21.svg
+- apache_kafka-vertical.svg
+- apache_kafka-wordmark.svg
 layout: default
 logohandle: apache_kafka
-skipped: 0
+skipped: 1
 sort: kafka
 tags:
-- Software
+- software
 title: Apache Kafka
 website: http://kafka.apache.org/
 ---
