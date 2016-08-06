@@ -2,7 +2,7 @@
 # robots.txt for VectorLogoZone
 #
 
-Sitemap: http://www.vectorlogo.zone/sitemap.xml
+Sitemap: {{ site.production_url }}/sitemap.xml
 
 User-agent: *
 Disallow: /honeypot.txt
