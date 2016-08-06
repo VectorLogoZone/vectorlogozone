@@ -18,21 +18,21 @@ layout: default
 			<th>Other</th>
 		</tr>
 	</thead>
-	<tbody>{% for other in sorted_pages %}{% assign otherpage = other.url|split:'/'|last %}{% assign otherslug = other.url|split:'/' %}{% if otherpage  == 'index.html' %}{% if otherslug[1] == 'logos' %}{% if other.url != '/logos/index.html' %}{% if other.title.size > 0 %}{% assign logohandle = otherslug[2] %}{% assign logocount = logocount | plus:1 %}{% assign count = other.images.size %}
+	<tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% assign count = logopage.images.size %}
 		<tr>
-			<!--<td>[{{ logohandle }}]</td>-->
-			<td><a href="{{other.url}}">{{other.title}}</a></td>
+			<!--<td>[{{ logopage.logohandle }}]</td>-->
+			<td><a href="{{logopage.url}}">{{logopage.title}}</a></td>
 {% for imagetype in site.data.imagetype %}
 			<td class="text-center">
-				    {% capture logofile %}{{ logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
-				<!-- / {% capture logofile %}{{ logohandle }}-{{imagetype.rastersuffix}}.png{% endcapture %}{% if other.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}-->
+				    {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
+				<!-- / {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.rastersuffix}}.png{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}-->
 			</td>
 {% endfor %}
 			<td class="text-center">
 				{{ count }}
 			</td>
 		</tr>
-{% endif %}{% endif %}{% endif %}{% endif %}{% endfor %}
+{% endif %}{% endfor %}
 	</tbody>
 </table>
 
