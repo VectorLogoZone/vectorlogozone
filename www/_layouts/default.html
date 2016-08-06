@@ -23,7 +23,13 @@
 				{{ content }}
 			</div><!--/col-->
 		</div><!--/row-->
-		{% if page.images.size > 0 %}{% include imagelist.html %}{% endif %}
+		{% if page.images.size > 0 %}{% include imagelist.html %}
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+				{% include share.html %}
+			</div>
+		</div>
+		{% endif %}
 		{% if page.tags %}
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">

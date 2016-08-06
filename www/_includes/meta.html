@@ -3,6 +3,7 @@
 	<link href="/css/font-awesome.css" rel="stylesheet" type="text/css" />
 	<link href='https://fonts.googleapis.com/css?family=Lato:400,300,400italic,700,700italic' rel='stylesheet' type='text/css'>
 	<link href='https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+	{% if page.images.size > 0 %}<meta property="og:image" content="{{ site.production_url }}/logos/{{ page.logohandle }}-ar21.svg" />{% endif %}
 	<style type="text/css">
 
 	/* faded border around logos in lists */
@@ -32,6 +33,15 @@
 
 	/* bootswatch ugliness */
 	.alert-info a { color: white; text-decoration: underline; }
+
+	/* share buttons need plain backgrounds */
+	.btn-share {
+	background-color: #fff;
+	border-color: #ccc;
+	border-width: 1px;
+	padding: 4px 4px 0 4px;
+	margin-left: 5px;
+	}
 
 	</style>
 	<link rel="shortcut icon" href="/favicon.ico">
