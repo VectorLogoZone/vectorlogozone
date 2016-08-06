@@ -10,6 +10,7 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 
 ## To Do
 
+ * travis should run bin/ scripts
  * /search.html: comment code
  * /search.html: btn-info 
  * new favicon
