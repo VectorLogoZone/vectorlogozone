@@ -1,11 +1,9 @@
 ---
 images:
-- microsoft_dotnet-horizontal.png
-- microsoft_dotnet-vertical.svg
-- microsoft_dotnet-horizontal.svg
-- microsoft_dotnet-vertical.png
-- microsoft_dotnet-ar21.svg
-- microsoft_dotnet-icon.svg
+- dotnet-vertical.svg
+- dotnet-horizontal.svg
+- dotnet-ar21.svg
+- dotnet-icon.svg
 logohandle: microsoft_dotnet
 skipped: 2
 sort: microsoft_dotnet
