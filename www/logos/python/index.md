@@ -1,14 +1,14 @@
 ---
 category: language
 images:
-- python-vertical.svg
-- python-icon.svg
-- python-horizontal.png
-- python-ar21.png
-- python-horizontal.svg
-- python-icon.png
 - python-ar21.svg
+- python-icon.png
+- python-icon.svg
 - python-vertical.png
+- python-horizontal.svg
+- python-ar21.png
+- python-vertical.svg
+- python-horizontal.png
 layout: default
 logohandle: python
 skipped: 1

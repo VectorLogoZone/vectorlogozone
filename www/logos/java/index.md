@@ -1,8 +1,10 @@
 ---
 images:
-- java-vertical.svg
+- java-horizontal.svg
+- java-wordmark.svg
 - java-icon.svg
 - java-ar21.svg
+- java-vertical.svg
 logohandle: java
 skipped: 1
 sort: java

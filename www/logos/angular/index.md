@@ -1,7 +1,7 @@
 ---
 images:
-- angular-ar21.svg
 - angular-icon.svg
+- angular-ar21.svg
 logohandle: angular
 skipped: 1
 sort: angular.js

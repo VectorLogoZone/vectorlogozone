@@ -1,8 +1,8 @@
 ---
 images:
-- wufoo-icon.svg
 - wufoo-ar21.png
 - wufoo-ar21.svg
+- wufoo-icon.svg
 layout: default
 logohandle: wufoo
 skipped: 1

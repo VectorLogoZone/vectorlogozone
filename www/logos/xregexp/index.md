@@ -1,15 +1,15 @@
 ---
 category: library
 images:
-- xregexp-wordmark.svg
-- xregexp-horizontal.svg
-- xregexp-ar21.svg
+- xregexp-icon.png
 - xregexp-vertical.svg
+- xregexp-horizontal.png
+- xregexp-ar21.svg
+- xregexp-vertical.png
+- xregexp-wordmark.svg
 - xregexp-icon.svg
 - xregexp-ar21.png
-- xregexp-vertical.png
-- xregexp-icon.png
-- xregexp-horizontal.png
+- xregexp-horizontal.svg
 layout: default
 logohandle: xregexp
 skipped: 0

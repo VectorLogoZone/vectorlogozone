@@ -1,8 +1,8 @@
 ---
 images:
+- thenounproject-icon.svg
 - thenounproject-ar21.svg
 - thenounproject-wordmark.svg
-- thenounproject-icon.svg
 layout: default
 logohandle: thenounproject
 skipped: 1

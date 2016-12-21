@@ -1,8 +1,8 @@
 ---
 images:
-- cloudflare-ar21.svg
 - cloudflare-official.svg
 - cloudflare-icon.svg
+- cloudflare-ar21.svg
 logohandle: cloudflare
 skipped: 2
 sort: cloudflare

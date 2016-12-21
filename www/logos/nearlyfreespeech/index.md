@@ -3,10 +3,10 @@ category: hosting
 images:
 - nearlyfreespeech-vertical.png
 - nearlyfreespeech-vertical.svg
-- nearlyfreespeech-ar21.png
-- nearlyfreespeech-horizontal.png
 - nearlyfreespeech-ar21.svg
+- nearlyfreespeech-horizontal.png
 - nearlyfreespeech-horizontal.svg
+- nearlyfreespeech-ar21.png
 layout: default
 logohandle: nearlyfreespeech
 skipped: 1

@@ -1,13 +1,14 @@
 ---
 images:
-- postgresql-icon.svg
 - postgresql-ar21.svg
-- postgresql-wordmark.png
-- postgresql-horizontal.png
 - postgresql-horizontal.svg
+- postgresql-wordmark.png
 - postgresql-wordmark.svg
+- postgresql-horizontal.png
+- postgresql-icon.svg
+- postgresql-vertical.svg
 logohandle: postgresql
-skipped: 3
+skipped: 2
 sort: postgresql
 tags:
 - database

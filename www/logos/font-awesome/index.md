@@ -1,8 +1,8 @@
 ---
 images:
-- font-awesome-icon.svg
 - font-awesome-ar21.svg
 - font-awesome-ar21.png
+- font-awesome-icon.svg
 layout: default
 logohandle: font-awesome
 skipped: 0

@@ -1,7 +1,7 @@
 ---
 images:
-- git-scm-ar21.png
 - git-scm-ar21.svg
+- git-scm-ar21.png
 layout: default
 logohandle: git-scm
 skipped: 1

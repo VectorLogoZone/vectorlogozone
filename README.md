@@ -10,6 +10,9 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 
 ## To Do
 
+ - [ ] padding on select vertical logos
+ - [ ] consistent sizing/placement on horizontal logos
+
  * travis should run bin/ scripts
  * /search.html: comment code
  * /search.html: btn-info 

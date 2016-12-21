@@ -1,9 +1,9 @@
 ---
 images:
-- apache_kafka-icon.svg
-- apache_kafka-ar21.svg
-- apache_kafka-vertical.svg
 - apache_kafka-wordmark.svg
+- apache_kafka-vertical.svg
+- apache_kafka-ar21.svg
+- apache_kafka-icon.svg
 layout: default
 logohandle: apache_kafka
 skipped: 1

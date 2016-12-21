@@ -1,14 +1,14 @@
 ---
 category: language
 images:
-- ruby-horizontal.png
-- ruby-icon.png
-- ruby-horizontal.svg
-- ruby-ar21.svg
 - ruby-vertical.png
 - ruby-vertical.svg
-- ruby-ar21.png
 - ruby-icon.svg
+- ruby-horizontal.png
+- ruby-ar21.png
+- ruby-horizontal.svg
+- ruby-ar21.svg
+- ruby-icon.png
 layout: default
 logohandle: ruby
 skipped: 0

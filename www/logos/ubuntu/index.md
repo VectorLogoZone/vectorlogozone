@@ -1,7 +1,7 @@
 ---
 images:
-- ubuntu-icon.svg
 - ubuntu-ar21.svg
+- ubuntu-icon.svg
 logohandle: ubuntu
 skipped: 1
 sort: ubuntu

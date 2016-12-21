@@ -1,15 +1,15 @@
 ---
 category: default
 images:
+- haskell-horizontal.png
+- haskell-ar21.svg
 - haskell-ar21.png
-- haskell-icon.png
-- haskell-vertical.svg
 - haskell-vertical.png
 - haskell-wordmark.svg
-- haskell-ar21.svg
-- haskell-horizontal.png
-- haskell-icon.svg
+- haskell-vertical.svg
+- haskell-icon.png
 - haskell-horizontal.svg
+- haskell-icon.svg
 layout: default
 logohandle: haskell
 skipped: 0

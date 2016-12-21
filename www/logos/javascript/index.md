@@ -1,8 +1,8 @@
 ---
 images:
 - javascript-vertical.svg
-- javascript-ar21.svg
 - javascript-icon.svg
+- javascript-ar21.svg
 logohandle: javascript
 skipped: 0
 sort: javascript

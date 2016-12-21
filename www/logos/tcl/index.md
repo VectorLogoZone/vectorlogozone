@@ -1,14 +1,14 @@
 ---
 category: language
 images:
-- tcl-icon.svg
-- tcl-horizontal.png
-- tcl-horizontal.svg
 - tcl-icon.png
-- tcl-vertical.svg
 - tcl-ar21.svg
-- tcl-ar21.png
 - tcl-vertical.png
+- tcl-horizontal.svg
+- tcl-vertical.svg
+- tcl-horizontal.png
+- tcl-icon.svg
+- tcl-ar21.png
 layout: default
 logohandle: tcl
 skipped: 1

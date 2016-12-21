@@ -1,9 +1,9 @@
 ---
 images:
-- bootswatch-ar21.png
-- bootswatch-ar21.svg
-- bootswatch-icon.png
 - bootswatch-icon.svg
+- bootswatch-ar21.png
+- bootswatch-icon.png
+- bootswatch-ar21.svg
 layout: default
 logohandle: bootswatch
 skipped: 0

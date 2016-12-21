@@ -1,12 +1,12 @@
 ---
 images:
-- erlang-vertical.png
-- erlang-ar21.svg
-- erlang-horizontal.png
-- erlang-horizontal.svg
-- erlang-icon.svg
-- erlang-vertical.svg
 - erlang-ar21.png
+- erlang-vertical.svg
+- erlang-vertical.png
+- erlang-horizontal.svg
+- erlang-horizontal.png
+- erlang-ar21.svg
+- erlang-icon.svg
 - erlang-icon.png
 logohandle: erlang
 skipped: 1

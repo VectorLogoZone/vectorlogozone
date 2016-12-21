@@ -1,7 +1,7 @@
 ---
 images:
-- jekyllrb-ar21.svg
 - jekyllrb-icon.svg
+- jekyllrb-ar21.svg
 - jekyllrb-ar21.png
 layout: default
 logohandle: jekyllrb

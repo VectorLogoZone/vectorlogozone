@@ -1,8 +1,8 @@
 ---
 images:
+- inkscape-ar21.png
 - inkscape-icon.svg
 - inkscape-ar21.svg
-- inkscape-ar21.png
 layout: default
 logohandle: inkscape
 skipped: 0
