@@ -1,3 +1,9 @@
+---
+# Remember to set production_url in your _config.yml file!
+title : Sitemap
+noindex: true
+layout: none
+---
 #
 # robots.txt for VectorLogoZone
 #
