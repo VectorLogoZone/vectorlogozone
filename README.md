@@ -9,9 +9,10 @@ It is a static website built with Jekyll and can run anywhere.  The default depl
 In order to run the python auto-update utilities, you need to `pip install python-frontmatter`
 
 ## To Do
-
+ - [ ] perl: delete white background in embedded gif
  - [ ] padding on select vertical logos
  - [ ] consistent sizing/placement on horizontal logos
+ - [ ] viewer: custom background color (and save to cookie)
 
  * travis should run bin/ scripts
  * /search.html: comment code
