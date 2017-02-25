@@ -2,9 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>{{ site.title }} - {{ page.title }}{% if page.images.size > 0 %} Vector Logos{% endif %}</title>
+	<title>{{ page.title }}{% if page.images.size > 0 %} Vector Logos{% endif %} - {{ site.title }}</title>
 {% include meta.html %}
-{% if page.url == '/index.html'%}{% include meta-home.html %}{% endif %}
 </head>
 <body>
 {% include navbar.html %}

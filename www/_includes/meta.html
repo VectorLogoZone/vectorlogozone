@@ -51,4 +51,18 @@
 {% include nextprev.html %}
 	{% if prev_page %}<link rel="prev" href="{{prev_page}}" />{% endif %}
 	{% if next_page %}<link rel="next" href="{{next_page}}" />{% endif %}
+	{% if page.url == '/index.html'%}{% include meta-home.html %}{% endif %}
+	{% if page.images.size > 0 %}
 
+	<meta property="description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
+
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="{{page.title}} Vector (SVG) Logos">
+	<meta property="og:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
+	<meta property="og:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-card.png">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:title" content="{{page.title}} Vector (SVG) Logos">
+	<meta name="twitter:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
+	<meta name="twitter:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-card.png">
+	{% endif %}
