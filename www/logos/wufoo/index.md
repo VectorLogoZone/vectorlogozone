@@ -1,5 +1,6 @@
 ---
 images:
+- wufoo-card.png
 - wufoo-ar21.png
 - wufoo-ar21.svg
 - wufoo-icon.svg

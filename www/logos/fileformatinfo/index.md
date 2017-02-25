@@ -4,6 +4,7 @@ images:
 - fileformatinfo-vertical.svg
 - fileformatinfo-vertical.png
 - fileformatinfo-horizontal.svg
+- fileformatinfo-card.png
 - fileformatinfo-horizontal.png
 - fileformatinfo-ar21.svg
 - fileformatinfo-ar21.png

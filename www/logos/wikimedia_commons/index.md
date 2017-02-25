@@ -3,6 +3,7 @@ images:
 - wikimedia_commons-icon.svg
 - wikimedia_commons-ar21.svg
 - wikimedia_commons-vertical.svg
+- wikimedia_commons-card.png
 - wikimedia_commons-ar21.png
 - wikimedia_commons-icon.png
 layout: default

@@ -6,6 +6,7 @@ images:
 - postgresql-wordmark.svg
 - postgresql-horizontal.png
 - postgresql-icon.svg
+- postgresql-card.png
 - postgresql-vertical.svg
 logohandle: postgresql
 skipped: 2

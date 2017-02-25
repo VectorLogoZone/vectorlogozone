@@ -6,6 +6,7 @@ images:
 - tcl-vertical.png
 - tcl-horizontal.svg
 - tcl-vertical.svg
+- tcl-card.png
 - tcl-horizontal.png
 - tcl-icon.svg
 - tcl-ar21.png

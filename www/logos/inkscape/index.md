@@ -1,5 +1,6 @@
 ---
 images:
+- inkscape-card.png
 - inkscape-ar21.png
 - inkscape-icon.svg
 - inkscape-ar21.svg

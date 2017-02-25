@@ -2,6 +2,7 @@
 images:
 - golang-horizontal.svg
 - golang-vertical.svg
+- golang-card.png
 - golang-icon.svg
 - golang-ar21.svg
 - golang-ar21.png

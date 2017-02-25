@@ -3,6 +3,7 @@ category: language
 images:
 - ruby-vertical.png
 - ruby-vertical.svg
+- ruby-card.png
 - ruby-icon.svg
 - ruby-horizontal.png
 - ruby-ar21.png

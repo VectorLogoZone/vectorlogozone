@@ -20,7 +20,7 @@ graphics:
   count: 4
   title: Graphics
 hosting:
-  count: 5
+  count: 4
   title: Hosting
 java:
   count: 2
@@ -29,11 +29,14 @@ javascript:
   count: 5
   title: JavaScript
 paas:
-  count: 2
+  count: 1
   description: Platform as a Service
   title: PaaS
+php:
+  count: 1
+  title: php
 programming_language:
-  count: 10
+  count: 11
   title: Programming Languages
 programming_library:
   count: 7

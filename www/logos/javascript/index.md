@@ -2,6 +2,7 @@
 images:
 - javascript-vertical.svg
 - javascript-icon.svg
+- javascript-card.png
 - javascript-ar21.svg
 logohandle: javascript
 skipped: 0

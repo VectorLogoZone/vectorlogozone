@@ -2,6 +2,7 @@
 images:
 - openoffice-ar21.svg
 - openoffice-icon.svg
+- openoffice-card.png
 logohandle: openoffice
 skipped: 1
 sort: openoffice

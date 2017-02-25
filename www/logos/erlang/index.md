@@ -6,6 +6,7 @@ images:
 - erlang-horizontal.svg
 - erlang-horizontal.png
 - erlang-ar21.svg
+- erlang-card.png
 - erlang-icon.svg
 - erlang-icon.png
 logohandle: erlang

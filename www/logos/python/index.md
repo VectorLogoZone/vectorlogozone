@@ -8,6 +8,7 @@ images:
 - python-horizontal.svg
 - python-ar21.png
 - python-vertical.svg
+- python-card.png
 - python-horizontal.png
 layout: default
 logohandle: python

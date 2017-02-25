@@ -1,6 +1,7 @@
 ---
 images:
 - thenounproject-icon.svg
+- thenounproject-card.png
 - thenounproject-ar21.svg
 - thenounproject-wordmark.svg
 layout: default

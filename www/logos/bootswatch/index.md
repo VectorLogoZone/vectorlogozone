@@ -1,6 +1,7 @@
 ---
 images:
 - bootswatch-icon.svg
+- bootswatch-card.png
 - bootswatch-ar21.png
 - bootswatch-icon.png
 - bootswatch-ar21.svg

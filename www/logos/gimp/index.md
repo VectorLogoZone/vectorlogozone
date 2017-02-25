@@ -1,6 +1,7 @@
 ---
 images:
 - gimp-wordmark.svg
+- gimp-card.png
 - gimp-ar21.png
 - gimp-ar21.svg
 - gimp-icon.svg

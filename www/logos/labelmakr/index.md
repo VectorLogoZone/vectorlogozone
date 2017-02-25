@@ -1,5 +1,6 @@
 ---
 images:
+- labelmakr-card.png
 - labelmakr-ar21.svg
 - labelmakr-ar21.png
 layout: default

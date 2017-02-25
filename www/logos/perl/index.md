@@ -5,6 +5,7 @@ images:
 - perl-ar21.png
 - perl-vertical.svg
 - perl-icon.svg
+- perl-card.png
 - perl-horizontal.svg
 layout: default
 logohandle: perl

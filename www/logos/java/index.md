@@ -1,6 +1,7 @@
 ---
 images:
 - java-horizontal.svg
+- java-card.png
 - java-wordmark.svg
 - java-icon.svg
 - java-ar21.svg

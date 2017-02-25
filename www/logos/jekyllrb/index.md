@@ -1,6 +1,7 @@
 ---
 images:
 - jekyllrb-icon.svg
+- jekyllrb-card.png
 - jekyllrb-ar21.svg
 - jekyllrb-ar21.png
 layout: default

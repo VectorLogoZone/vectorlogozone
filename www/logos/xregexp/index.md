@@ -2,6 +2,7 @@
 category: library
 images:
 - xregexp-icon.png
+- xregexp-card.png
 - xregexp-vertical.svg
 - xregexp-horizontal.png
 - xregexp-ar21.svg

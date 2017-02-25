@@ -1,6 +1,7 @@
 ---
 images:
 - getbootstrap-icon.svg
+- getbootstrap-card.png
 - getbootstrap-ar21.svg
 - getbootstrap-ar21.png
 layout: default

@@ -1,6 +1,7 @@
 ---
 images:
 - linode-icon.svg
+- linode-card.png
 - linode-ar21.png
 - linode-icon.png
 - linode-ar21.svg

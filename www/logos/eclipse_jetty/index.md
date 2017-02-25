@@ -1,5 +1,6 @@
 ---
 images:
+- eclipse_jetty-card.png
 - eclipse_jetty-ar21.svg
 - eclipse_jetty-icon.svg
 logohandle: eclipse_jetty

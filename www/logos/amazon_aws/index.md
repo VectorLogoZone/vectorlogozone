@@ -5,6 +5,7 @@ images:
 - amazon_aws-icon.svg
 - amazon_aws-icon.png
 - amazon_aws-ar21.png
+- amazon_aws-card.png
 - amazon_aws-ar21.svg
 layout: default
 logohandle: amazon_aws

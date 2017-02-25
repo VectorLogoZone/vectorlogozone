@@ -1,5 +1,6 @@
 ---
 images:
+- vectorlogozone-card.png
 - vectorlogozone-ar21.png
 - vectorlogozone-icon.svg
 - vectorlogozone-tile.svg

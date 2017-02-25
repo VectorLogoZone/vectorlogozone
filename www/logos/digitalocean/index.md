@@ -6,6 +6,7 @@ images:
 - digitalocean-horizontal.png
 - digitalocean-wordmark.svg
 - digitalocean-horizontal.svg
+- digitalocean-card.png
 - digitalocean-icon.svg
 - digitalocean-ar21.svg
 layout: default

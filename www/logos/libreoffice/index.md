@@ -3,6 +3,7 @@ images:
 - libreoffice-ar21.svg
 - libreoffice-official.svg
 - libreoffice-icon.svg
+- libreoffice-card.png
 logohandle: libreoffice
 skipped: 1
 sort: libreoffice

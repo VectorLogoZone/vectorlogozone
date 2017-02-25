@@ -1,5 +1,6 @@
 ---
 images:
+- w3c_validator-card.png
 - w3c_validator-ar21.svg
 - w3c_validator-ar21.png
 layout: default
