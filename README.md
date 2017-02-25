@@ -6,15 +6,22 @@ This is the source for the [Vector Logo Zone](http://www.vectorlogo.zone/) websi
 
 It is a static website built with Jekyll and can run anywhere.  The default deploy script uses s3cmd to copy to Amazon S3.
 
-In order to run the python auto-update utilities, you need to `pip install python-frontmatter`
+In order to run the python auto-update utilities, you need to `pip install python-frontmatter`.
+
+The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg2-bin imagemagick`.
 
 ## To Do
  - [ ] perl: delete white background in embedded gif
  - [ ] padding on select vertical logos
  - [ ] consistent sizing/placement on horizontal logos
  - [ ] viewer: custom background color (and save to cookie)
+ - [ ] credits: rsvg
+ - [ ] credits: ImageMagick
+ - [ ] /logos/missing.html: report of logos without icon or ar21
+ - [ ] VLZ ar21 image: image should have "VLZ", not just "V"
+ - [ ] 404 page should have link to search
 
- * travis should run bin/ scripts
+ * travis should run bin/ scripts and do the deploy
  * /search.html: comment code
  * /search.html: btn-info 
  * new favicon
