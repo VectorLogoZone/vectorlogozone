@@ -13,7 +13,7 @@
    height="60"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="font-awesome-ar21.svg"
    inkscape:export-filename="/home/amarcuse/site/hackerlogos/www/logos/font-awesome/fontawesome-120x60.png"
    inkscape:export-xdpi="90"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.5186925"
-     inkscape:cx="122.15923"
+     inkscape:cx="83.873819"
      inkscape:cy="32.762823"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
@@ -50,7 +50,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,17 +59,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-75.709821,-192.37053)">
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot2985"
-       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-0.1px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"><flowRegion
-         id="flowRegion2987"><rect
-           id="rect2989"
-           width="537.14288"
-           height="451.42856"
-           x="97.14286"
-           y="209.50504" /></flowRegion><flowPara
-         id="flowPara2991" /></flowRoot>    <g
+    <g
        style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:-0.1px;word-spacing:0px;fill:#1fa67a;fill-opacity:1;stroke:none;font-family:Arvo;-inkscape-font-specification:Arvo"
        id="flowRoot2993"
        transform="matrix(0.51746099,0,0,0.61917456,41.844213,64.825751)">
