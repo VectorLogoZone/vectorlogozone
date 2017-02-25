@@ -4,7 +4,7 @@ images:
 - dotnet-horizontal.svg
 - dotnet-ar21.svg
 - dotnet-icon.svg
-logohandle: microsoft_dotnet
+logohandle: dotnet
 skipped: 2
 sort: microsoft_dotnet
 tags:
