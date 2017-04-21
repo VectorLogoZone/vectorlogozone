@@ -4,6 +4,7 @@ images:
 - nearlyfreespeech-card.png
 - nearlyfreespeech-vertical.png
 - nearlyfreespeech-vertical.svg
+- nearlyfreespeech-icon.svg
 - nearlyfreespeech-ar21.svg
 - nearlyfreespeech-horizontal.png
 - nearlyfreespeech-horizontal.svg

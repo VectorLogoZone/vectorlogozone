@@ -1,6 +1,7 @@
 ---
 images:
 - git-scm-ar21.svg
+- git-scm-icon.svg
 - git-scm-ar21.png
 - git-scm-card.png
 layout: default

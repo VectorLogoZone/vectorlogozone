@@ -4,6 +4,7 @@ images:
 - mozilla_persona-glyph-white.svg
 - mozilla_persona-horizontal.png
 - mozilla_persona-horizontal.svg
+- mozilla_persona-icon.svg
 - mozilla_persona-ar21.png
 - mozilla_persona-card.png
 - mozilla_persona-ar21.svg

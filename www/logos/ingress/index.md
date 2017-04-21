@@ -2,6 +2,7 @@
 category: game
 images:
 - ingress-ar21.png
+- ingress-icon.svg
 - ingress-card.png
 - ingress-ar21.svg
 layout: default
