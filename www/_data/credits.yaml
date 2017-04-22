@@ -60,7 +60,7 @@
 
 - name: lunr.js
   description: Client-side search
-  url: http://lunjs.org/
+  url: https://lunrjs.com/
   id: lunrjs
 
 - name: W3C Markup Validation Service
