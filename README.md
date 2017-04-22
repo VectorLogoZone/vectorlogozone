@@ -53,31 +53,48 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
 	- get twitter logo
 	- get facebook logo
 	- get all images from homepage
+	
+## Logos that need work
+ - [ ] golang (
+ - [ ] nearlyfreespeech (icon reformat)
+ 0 [ ] labelmakr (icon reformat)
+ - [ ] perl (remove bitmap camel)
+ - [ ] bootswatch (icon blends with white, no graphic on ar21)
 
 ## Logos
 
- * appharbor
+ - [ ] appharbor
+ - [ ] godaddy
+ - [ ] Heroku
+ - [ ] iText
+ - [ ] Unicode
+ - [ ] 1and1
+ - [ ] urlrewritefilter
+ 
+ * adobe flex
+ * apache batik (new?)
+ * apache POI (new?)
+ * apache tomcat
+ * ATOM
  * AWK
  * common lisp
+ * debian
  * disqus
- * fugue icons
- * godaddy
- * golang
+ * fugue icons (new?)
+ * google adsense
  * google AppEngine
- * Heroku - logos.heroku.com Hybrea
- * iText
- * Java
- * Jetty
- * Libreoffice
+ * google guava (new)
+ * icondrawer
  * Microsoft - Segoe
- * OpenOffice
- * php
+ * MySQL
+ * nodeping
  * pinboard
- * s3cmd
+ * RSS
+ * s3cmd (new?)
  * styleshout
  * tango icons
- * ubuntu
- * unicode
- * urlrewritefilter
- * 1and1
+ * twitter
+ * wordpress
+
+
 
