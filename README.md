@@ -71,7 +71,9 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] 1and1
  - [ ] urlrewritefilter
  
+ * addthis
  * adobe flex
+ * apache ant
  * apache batik (new?)
  * apache POI (new?)
  * apache tomcat
@@ -94,6 +96,7 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * styleshout
  * tango icons
  * twitter
+ * US Census Burean (census.gov)
  * wordpress
 
 

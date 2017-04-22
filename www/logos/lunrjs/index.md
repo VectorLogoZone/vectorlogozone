@@ -1,4 +1,5 @@
 ---
+github: olivernn/lunr.js
 images:
 - lunrjs-icon.svg
 - lunrjs-card.png
