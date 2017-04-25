@@ -1,6 +1,6 @@
 # Vector Logo Zone
 
-This is the source for the [Vector Logo Zone](http://www.vectorlogo.zone/) website.
+This is the source for the [Vector Logo Zone](https://www.vectorlogo.zone/) website.
 
 ## Running
 
@@ -11,24 +11,18 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg2-bin imagemagick`.
 
 ## To Do
- - [ ] perl: delete white background in embedded gif
- - [ ] padding on select vertical logos
- - [ ] consistent sizing/placement on horizontal logos
  - [ ] viewer: custom background color (and save to cookie)
  - [ ] credits: rsvg
  - [ ] credits: ImageMagick
- - [ ] /logos/missing.html: report of logos without icon or ar21
- - [ ] VLZ ar21 image: image should have "VLZ", not just "V"
  - [ ] 404 page should have link to search
 
  * travis should run bin/ scripts and do the deploy
  * /search.html: comment code
- * /search.html: btn-info 
+ * /search.html: btn-info
  * new favicon
  * use wordmark.svg in navbar
  * ruby to ruby-lang
- * navbar: icons when small, text when medium, both when large
- * navbar: "VLZ" when tiny
+ * navbar: icons when small, text when medium/large
  * advertising
  * fill in FAQs
  * /index.html - only a subset of logos
@@ -41,28 +35,28 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * /util/inventory - toggle for png
  * svg metadata
  * categories for each /logos/*/index.md
- * verify bing
- * verify google webmastertools
  * humans.txt
  * generate pngs if missing
  * pngcrush
- * more frontmatter in /logos/*/index.md: twitter, facebook
+ * report of missing frontmatter: twitter, facebook, github, website
  * /util/fulltext - {{content}}
  * /util/research.html
-	- get favicon/apple icons/etc from webpage
+	- get favicon/apple icons/etc from homepage
 	- get twitter logo
 	- get facebook logo
 	- get all images from homepage
-	
+
 ## Logos that need work
- - [ ] golang (
+ - [ ] padding on select vertical logos
+ - [ ] golang (outline of gopher is too thin, doesn't scale)
  - [ ] nearlyfreespeech (icon reformat)
- 0 [ ] labelmakr (icon reformat)
+ - [ ] labelmakr (icon reformat)
  - [ ] perl (remove bitmap camel)
  - [ ] bootswatch (icon blends with white, no graphic on ar21)
+ - [ ] VLZ ar21 image: image should have "VLZ", not just "V"
+ - [ ] consistent sizing/placement on horizontal logos
 
 ## Logos
-
  - [ ] appharbor
  - [ ] godaddy
  - [ ] Heroku
@@ -70,7 +64,8 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] Unicode
  - [ ] 1and1
  - [ ] urlrewritefilter
- 
+
+ * Rust
  * addthis
  * adobe flex
  * apache ant
@@ -87,17 +82,16 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * google AppEngine
  * google guava (new)
  * icondrawer
+ * ImageMagick
  * Microsoft - Segoe
  * MySQL
  * nodeping
  * pinboard
  * RSS
+ * rsvg
  * s3cmd (new?)
  * styleshout
  * tango icons
  * twitter
  * US Census Burean (census.gov)
  * wordpress
-
-
-
