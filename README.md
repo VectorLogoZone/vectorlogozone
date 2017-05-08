@@ -19,6 +19,7 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * travis should run bin/ scripts and do the deploy
  * /search.html: comment code
  * /search.html: btn-info
+ * /search.html: skip if no ar21 (or use icon?)
  * new favicon
  * use wordmark.svg in navbar
  * ruby to ruby-lang
@@ -57,15 +58,12 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] consistent sizing/placement on horizontal logos
 
 ## Logos
- - [ ] appharbor
- - [ ] godaddy
- - [ ] Heroku
+ - [ ] appharbor (ar21)
  - [ ] iText
+ - [ ] Rust
  - [ ] Unicode
- - [ ] 1and1
  - [ ] urlrewritefilter
-
- * Rust
+ 
  * addthis
  * adobe flex
  * apache ant
@@ -89,6 +87,7 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * pinboard
  * RSS
  * rsvg
+ * [svg](https://www.w3.org/2009/08/svg-logos.html)
  * s3cmd (new?)
  * styleshout
  * tango icons
