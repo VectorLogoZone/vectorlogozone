@@ -2,7 +2,7 @@
 facebook: http://www.facebook.com/pages/Friends-of-Unicode/127785250588285
 images:
 - unicode-icon.svg
-- unicode-ar1.svg
+- unicode-ar21.svg
 layout: default
 logohandle: unicode
 skipped: 0

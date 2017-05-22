@@ -1,7 +1,7 @@
 ---
 images:
 - w3c-icon.svg
-- w3c-ar1.svg
+- w3c-ar21.svg
 logohandle: w3c
 skipped: 0
 sort: w3c
