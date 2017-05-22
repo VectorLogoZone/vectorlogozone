@@ -1,8 +1,11 @@
 ---
 facebook: http://www.facebook.com/pages/Friends-of-Unicode/127785250588285
-#github: aws
+images:
+- unicode-icon.svg
+- unicode-ar1.svg
 layout: default
 logohandle: unicode
+skipped: 0
 sort: unicode
 tags:
 - reference

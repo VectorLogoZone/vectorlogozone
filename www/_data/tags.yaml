@@ -10,6 +10,12 @@ cdn:
 database:
   count: 1
   title: Databases
+domains:
+  count: 2
+  title: domains
+dotnet:
+  count: 1
+  title: dotnet
 font:
   count: 1
   title: Fonts
@@ -20,10 +26,10 @@ graphics:
   count: 4
   title: Graphics
 hosting:
-  count: 4
+  count: 8
   title: Hosting
 java:
-  count: 2
+  count: 3
   title: java
 javascript:
   count: 5
@@ -32,20 +38,23 @@ paas:
   count: 1
   description: Platform as a Service
   title: PaaS
+pdf:
+  count: 1
+  title: pdf
 php:
   count: 1
   title: php
 programming_language:
-  count: 11
+  count: 12
   title: Programming Languages
 programming_library:
-  count: 7
+  count: 9
   title: Programming Libraries
 python:
   count: 2
   title: python
 reference:
-  count: 4
+  count: 5
   title: Reference
 security:
   count: 1
