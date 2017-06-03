@@ -63,10 +63,15 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] Rust
  - [ ] Unicode
  - [ ] urlrewritefilter
+ - [ ] apache ant
+ - [ ] docker
+ - [ ] jenkins
+ - [ ] travis
+ - [ ] vagrant
+ - [ ] xcode
  
  * addthis
  * adobe flex
- * apache ant
  * apache batik (new?)
  * apache POI (new?)
  * apache tomcat
