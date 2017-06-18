@@ -12,9 +12,12 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
 
 ## To Do
  - [ ] viewer: custom background color (and save to cookie)
+ - [ ] viewer: double-click to zoom/shift double-click to unzoom
+ - [ ] viewer: drag to move around
  - [ ] credits: rsvg
  - [ ] credits: ImageMagick
  - [ ] 404 page should have link to search
+ - [ ] redo favicon to just be "V"
 
  * travis should run bin/ scripts and do the deploy
  * /search.html: comment code
@@ -48,23 +51,13 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
 	- get all images from homepage
 
 ## Logos that need work
- - [ ] padding on select vertical logos
  - [ ] golang (outline of gopher is too thin, doesn't scale)
- - [ ] nearlyfreespeech (icon reformat)
- - [ ] labelmakr (icon reformat)
  - [ ] perl (remove bitmap camel)
  - [ ] bootswatch (icon blends with white, no graphic on ar21)
- - [ ] VLZ ar21 image: image should have "VLZ", not just "V"
  - [ ] consistent sizing/placement on horizontal logos
 
 ## Logos
- - [ ] appharbor (ar21)
  - [ ] iText
- - [ ] Rust
- - [ ] Unicode
- - [ ] urlrewritefilter
- - [ ] apache ant
- - [ ] docker
  - [ ] jenkins
  - [ ] travis
  - [ ] vagrant
