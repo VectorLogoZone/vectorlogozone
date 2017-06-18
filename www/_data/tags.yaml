@@ -63,7 +63,7 @@ service:
   count: 5
   title: Service
 software:
-  count: 6
+  count: 8
   title: Software
 static_website:
   count: 1

@@ -1,8 +1,13 @@
 ---
 facebook: https://www.facebook.com/docker.run
 github: https://github.com/docker/docker
+images:
+- docker-official.svg
+- docker-icon.svg
+- docker-ar21.svg
 layout: default
 logohandle: docker
+skipped: 0
 sort: docker
 tags:
 - software
