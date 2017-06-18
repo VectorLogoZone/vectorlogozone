@@ -7,6 +7,9 @@ authentication:
 cdn:
   count: 1
   title: CDN
+continuous_integration:
+  count: 1
+  title: Continuous Integration (CI)
 database:
   count: 1
   title: Databases
