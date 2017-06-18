@@ -1,0 +1,12 @@
+---
+facebook: https://www.facebook.com/GandiBar
+github: Gandi
+layout: default
+logohandle: gandi
+sort: gandi
+tags:
+- domains
+title: Gandi.net
+twitter: gandibar
+website: https://www.gandi.net/
+---

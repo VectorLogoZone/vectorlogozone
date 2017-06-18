@@ -1,5 +1,5 @@
 ---
-github: https://github.com/jenkinsci
+github: jenkinsci
 layout: default
 logohandle: jenkins
 sort: jenkins

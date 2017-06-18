@@ -1,5 +1,5 @@
 ---
-github: https://github.com/mitchellh/vagrant
+github: mitchellh/vagrant
 layout: default
 logohandle: vagrantup
 sort: vagrant

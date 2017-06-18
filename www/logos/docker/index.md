@@ -1,6 +1,6 @@
 ---
 facebook: https://www.facebook.com/docker.run
-github: https://github.com/docker/docker
+github: docker/docker
 images:
 - docker-official.svg
 - docker-icon.svg
