@@ -11,19 +11,20 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg2-bin imagemagick`.
 
 ## To Do
+ - [ ] report of missing frontmatter: twitter, facebook, github, website, wikipedia
  - [ ] viewer: custom background color (and save to cookie)
  - [ ] viewer: double-click to zoom/shift double-click to unzoom
  - [ ] viewer: drag to move around
  - [ ] credits: rsvg
  - [ ] credits: ImageMagick
- - [ ] 404 page should have link to search
- - [ ] redo favicon to just be "V"
+ - [ ] credits: icotool from icoutils
+ - [ ] 404 page should have link to search (or redirect to search with flash message)
+ - [ ] fill in more metadata links (see the [https://www.vectorlogo.zone/logos/links.html](links report))
 
  * travis should run bin/ scripts and do the deploy
  * /search.html: comment code
  * /search.html: btn-info
  * /search.html: skip if no ar21 (or use icon?)
- * new favicon
  * use wordmark.svg in navbar
  * ruby to ruby-lang
  * navbar: icons when small, text when medium/large
@@ -35,14 +36,10 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * alternatives page: /support/alternative.html
  * link to template
  * /_includes/footer.html - Legal - CC0?  CC-BY-SA?
- * discus: remove or make it work
  * /util/inventory - toggle for png
  * svg metadata
- * categories for each /logos/*/index.md
+ * tags for each /logos/*/index.md
  * humans.txt
- * generate pngs if missing
- * pngcrush
- * report of missing frontmatter: twitter, facebook, github, website
  * /util/fulltext - {{content}}
  * /util/research.html
 	- get favicon/apple icons/etc from homepage
@@ -55,18 +52,14 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] perl (remove bitmap camel)
  - [ ] bootswatch (icon blends with white, no graphic on ar21)
  - [ ] consistent sizing/placement on horizontal logos
+ - [ ] CloudFlare redid their logo
 
 ## Logos
- - [ ] iText
- - [ ] jenkins
- - [ ] travis
- - [ ] vagrant
- - [ ] xcode
+ - see the [http://www.vectorlogo.zone/logos/missing.html](missing logos report)
  
  * addthis
  * adobe flex
  * apache batik (new?)
- * apache POI (new?)
  * apache tomcat
  * ATOM
  * AWK
@@ -80,7 +73,6 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * icondrawer
  * ImageMagick
  * Microsoft - Segoe
- * MySQL
  * nodeping
  * pinboard
  * RSS
