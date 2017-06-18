@@ -1,0 +1,36 @@
+---
+title: Links
+layout: default
+noindex: true
+---
+<p>I try to include links to the various websites for each logo.  This is a report of those links</p>
+
+{% assign sorted_pages = site.pages | sort:'sort' %}
+<table class="table table-striped table-bordered">
+  	<thead>
+		    <tr>
+			       <th>ID</th>
+             <th>Name</th>
+             <th>Facebook</th>
+             <th>Github</th>
+             <th>Twitter</th>
+             <th>Website</th>
+             <th>Wikipedia</th>
+        </tr>
+    </thead>
+    <tbody>
+{% for logopage in sorted_pages %}
+    {% if logopage.logohandle %}
+        <tr>
+            <td><a href="{{logopage.url}}">{{logopage.logohandle}}</a></td>
+            <td>{{logopage.title}}</td>
+			<td>{% if logopage.facebook %}<a title="Facebook" href="{{ logopage.facebook }}"><i class="fa fa-facebook icon-link"></i></a>{% endif %}</td>
+			<td>{% if logopage.github %}<a title="Github" href="https://github.com/{{ logopage.github }}"><i class="fa fa-github icon-link"></i></a>{% endif %}</td>
+			<td>{% if logopage.twitter %}<a title="Twitter" href="https://twitter.com/{{ logopage.twitter }}"><i class="fa fa-twitter icon-link"></i></a>{% endif %}</td>
+ 			<td>{% if logopage.website %}<a title="Website" href="{{ logopage.website }}"><i class="fa fa-globe icon-link"></i></a>{% endif %}</td>
+			<td>{% if logopage.wikipedia %}<a title="Wikipedia" href="{{ logopage.wikipedia }}"><i class="fa fa-wikipedia-w icon-link"></i></a>{% endif %}</td>
+        </tr>
+    {% endif %}
+{% endfor %}
+    </tbody>
+</table>
