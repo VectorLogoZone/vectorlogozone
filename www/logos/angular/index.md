@@ -1,4 +1,5 @@
 ---
+github: angular/angular
 images:
 - angular-icon.svg
 - angular-ar21.svg
@@ -10,5 +11,6 @@ tags:
 - programming_library
 - javascript
 title: Angular.JS
+twitter: angular
 website: https://angular.io/
 ---
