@@ -22,6 +22,6 @@ find ${ROOT} -name '*-ar21.svg' -print0 |
             echo "INFO: creating new card ${CARD}"
             #NO: (crops images): convert -density 1200 -resize 480x240 ${SVG} ${CARD}
             rsvg --dpi-x=1200 --dpi-y=1200 --width=480 --height=240 --format=png ${SVG} ${CARD}
-            mogrify -comment "This image is from [VectorLogoZone](http://www.vectorlogo.zone/).  Enjoy!" ${CARD}
+            mogrify -comment "This image is from [VectorLogoZone](https://www.vectorlogo.zone/).  Enjoy!" ${CARD}
         fi
     done
