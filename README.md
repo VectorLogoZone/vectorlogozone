@@ -19,7 +19,7 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] credits: ImageMagick
  - [ ] credits: icotool from icoutils
  - [ ] 404 page should have link to search (or redirect to search with flash message)
- - [ ] fill in more metadata links (see the [https://www.vectorlogo.zone/logos/links.html](links report))
+ - [ ] fill in more metadata links (see the [links report](https://www.vectorlogo.zone/logos/links.html))
 
  * travis should run bin/ scripts and do the deploy
  * /search.html: comment code
@@ -55,7 +55,7 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] CloudFlare redid their logo
 
 ## Logos
- - see the [http://www.vectorlogo.zone/logos/missing.html](missing logos report)
+ - see the [missing logos report](https://www.vectorlogo.zone/logos/missing.html)
  
  * addthis
  * adobe flex
