@@ -7,7 +7,7 @@ sort: travis ci
 tags:
 - continuous_integration
 title: Travis CI
-twitter: travis-ci
+twitter: travisci
 website: https://travis-ci.org/
 ---
 
