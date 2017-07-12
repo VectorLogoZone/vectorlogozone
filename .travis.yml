@@ -1,7 +1,9 @@
 language: ruby
 rvm:
 - 2.1
-install: gem install jekyll jekyll-redirect-from
+install: 
+  - gem install jekyll -v 3.4.5
+  - gem install jekyll-redirect-from
 script: jekyll build --source www
 branches:
   only:
