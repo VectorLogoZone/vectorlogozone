@@ -3,6 +3,7 @@ github: heroku
 images:
 - heroku-icon.svg
 - heroku-ar21.svg
+- heroku-card.png
 layout: default
 logohandle: heroku
 skipped: 0

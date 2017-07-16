@@ -9,8 +9,9 @@ images:
 - erlang-card.png
 - erlang-icon.svg
 - erlang-icon.png
+- erlang-official.svg
 logohandle: erlang
-skipped: 1
+skipped: 0
 sort: erlang
 tags:
 - programming_language

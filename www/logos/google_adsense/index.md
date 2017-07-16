@@ -1,6 +1,11 @@
 ---
+images:
+- google_adsense-card.png
+- google_adsense-icon.svg
+- google_adsense-ar21.svg
 layout: default
 logohandle: google_adsense
+skipped: 0
 sort: adsense
 tags:
 - advertising

@@ -3,6 +3,7 @@ facebook: http://www.facebook.com/pages/Friends-of-Unicode/127785250588285
 images:
 - unicode-icon.svg
 - unicode-ar21.svg
+- unicode-card.png
 layout: default
 logohandle: unicode
 skipped: 0

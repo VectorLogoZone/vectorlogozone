@@ -4,6 +4,7 @@ github: docker/docker
 images:
 - docker-official.svg
 - docker-icon.svg
+- docker-card.png
 - docker-ar21.svg
 layout: default
 logohandle: docker

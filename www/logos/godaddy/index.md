@@ -3,6 +3,7 @@ facebook: https://www.facebook.com/godaddy/
 github: godaddy
 images:
 - godaddy-ar21.svg
+- godaddy-card.png
 - godaddy-icon.svg
 layout: default
 logohandle: godaddy

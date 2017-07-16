@@ -1,6 +1,7 @@
 ---
 github: paultuckey/urlrewritefilter
 images:
+- tuckey_urlrewrite-card.png
 - tuckey_urlrewrite-ar21.svg
 - tuckey_urlrewrite-icon.svg
 layout: default
