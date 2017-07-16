@@ -1,9 +1,6 @@
 ---
 category: service
 images:
-- digitalocean-icon.png
-- digitalocean-ar21.png
-- digitalocean-horizontal.png
 - digitalocean-wordmark.svg
 - digitalocean-horizontal.svg
 - digitalocean-card.png

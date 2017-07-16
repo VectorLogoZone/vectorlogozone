@@ -5,7 +5,6 @@ images:
 - golang-card.png
 - golang-icon.svg
 - golang-ar21.svg
-- golang-ar21.png
 logohandle: golang
 skipped: 3
 sort: go language

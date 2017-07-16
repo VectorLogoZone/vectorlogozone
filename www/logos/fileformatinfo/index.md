@@ -2,14 +2,10 @@
 category: service
 images:
 - fileformatinfo-vertical.svg
-- fileformatinfo-vertical.png
 - fileformatinfo-horizontal.svg
 - fileformatinfo-card.png
-- fileformatinfo-horizontal.png
 - fileformatinfo-ar21.svg
-- fileformatinfo-ar21.png
 - fileformatinfo-icon.svg
-- fileformatinfo-icon.png
 layout: default
 logohandle: fileformatinfo
 skipped: 0

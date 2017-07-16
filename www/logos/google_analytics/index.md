@@ -1,7 +1,6 @@
 ---
 images:
 - google_analytics-ar21.svg
-- google_analytics-ar21.png
 - google_analytics-official.svg
 - google_analytics-icon.svg
 - google_analytics-card.png

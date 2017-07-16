@@ -2,7 +2,6 @@
 category: language
 images:
 - perl-ar21.svg
-- perl-ar21.png
 - perl-vertical.svg
 - perl-icon.svg
 - perl-card.png

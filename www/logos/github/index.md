@@ -2,7 +2,6 @@
 category: services
 images:
 - github-ar21.svg
-- github-ar21.png
 - github-icon.svg
 - github-card.png
 layout: default

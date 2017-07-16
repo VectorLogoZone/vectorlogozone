@@ -1,14 +1,10 @@
 ---
 category: default
 images:
-- haskell-horizontal.png
 - haskell-ar21.svg
-- haskell-ar21.png
-- haskell-vertical.png
 - haskell-card.png
 - haskell-wordmark.svg
 - haskell-vertical.svg
-- haskell-icon.png
 - haskell-horizontal.svg
 - haskell-icon.svg
 layout: default

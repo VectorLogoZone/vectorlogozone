@@ -2,9 +2,7 @@
 images:
 - postgresql-ar21.svg
 - postgresql-horizontal.svg
-- postgresql-wordmark.png
 - postgresql-wordmark.svg
-- postgresql-horizontal.png
 - postgresql-icon.svg
 - postgresql-card.png
 - postgresql-vertical.svg

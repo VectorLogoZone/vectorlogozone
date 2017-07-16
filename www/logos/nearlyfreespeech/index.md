@@ -2,16 +2,13 @@
 category: hosting
 images:
 - nearlyfreespeech-card.png
-- nearlyfreespeech-vertical.png
 - nearlyfreespeech-vertical.svg
 - nearlyfreespeech-icon.svg
 - nearlyfreespeech-ar21.svg
-- nearlyfreespeech-horizontal.png
 - nearlyfreespeech-horizontal.svg
-- nearlyfreespeech-ar21.png
 layout: default
 logohandle: nearlyfreespeech
-skipped: 1
+skipped: 0
 sort: nearlyfreespeech.net
 tags:
 - hosting

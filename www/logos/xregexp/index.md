@@ -1,15 +1,11 @@
 ---
 category: library
 images:
-- xregexp-icon.png
 - xregexp-card.png
 - xregexp-vertical.svg
-- xregexp-horizontal.png
 - xregexp-ar21.svg
-- xregexp-vertical.png
 - xregexp-wordmark.svg
 - xregexp-icon.svg
-- xregexp-ar21.png
 - xregexp-horizontal.svg
 layout: default
 logohandle: xregexp
