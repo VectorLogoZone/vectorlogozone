@@ -12,6 +12,7 @@ tags:
 - php
 - programming_language
 title: PHP
+website: http://www.php.net/
 ---
 
 [Official Downloads](http://php.net/download-logos.php)

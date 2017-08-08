@@ -59,7 +59,6 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  
  * addthis
  * adobe flex
- * apache batik (new?)
  * apache tomcat
  * ATOM
  * AWK
@@ -67,8 +66,6 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * debian
  * disqus
  * fugue icons (new?)
- * google adsense
- * google AppEngine
  * google guava (new)
  * icondrawer
  * ImageMagick

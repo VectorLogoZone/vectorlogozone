@@ -10,6 +10,7 @@ sort: libreoffice
 tags:
 - software
 title: LibreOffice
+website: http://www.libreoffice.org/
 ---
 
 [Official Logo Gallery](https://wiki.documentfoundation.org/Gallery_Logos)

@@ -14,4 +14,5 @@ tags:
 - domains
 title: GoDaddy
 twitter: godaddy
+website: https://www.godaddy.com/
 ---
