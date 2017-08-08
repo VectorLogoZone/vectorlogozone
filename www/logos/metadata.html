@@ -12,6 +12,7 @@ layout: default
 		<tr>
 			<!--<th>ID</th>-->
 			<th>Name</th>
+			<th style="text-align:center">Blog</th>
 			<th style="text-align:center">Facebook</th>
 			<th style="text-align:center">Github</th>
 			<th>Twitter</th>
@@ -23,6 +24,9 @@ layout: default
 		<tr>
 			<!--<td>[{{ logopage.logohandle }}]</td>-->
 			<td><a href="{{logopage.url}}">{{logopage.title}}</a></td>
+			<td class="text-center">
+				{% if logopage.blog %}<a href="{{logopage.blog}}">{{ checkon }}</a>{% else %}{{ checkoff }}{% endif %}
+			</td>
 			<td class="text-center">
 				    {% if logopage.facebook %}<a href="{{logopage.facebook}}">{{ checkon }}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
