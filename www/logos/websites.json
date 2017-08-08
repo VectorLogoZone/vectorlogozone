@@ -1,0 +1,9 @@
+---
+title: Websites for go.vlz
+layout: none
+noindex: true
+---
+{% assign sorted_pages = site.pages | sort:'sort' %}{
+{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% if logopage.website %}    "{{logopage.logohandle}}": "{{logopage.website}}",{% endif %}{% endif %}
+{% endfor %}    "NULL": null
+}
