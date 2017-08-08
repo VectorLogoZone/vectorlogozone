@@ -11,7 +11,6 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg2-bin imagemagick`.
 
 ## To Do
- - [ ] report of missing frontmatter: twitter, facebook, github, website, wikipedia
  - [ ] viewer: custom background color (and save to cookie)
  - [ ] viewer: double-click to zoom/shift double-click to unzoom
  - [ ] viewer: drag to move around
@@ -21,7 +20,6 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] 404 page should have link to search (or redirect to search with flash message)
  - [ ] fill in more metadata links (see the [links report](https://www.vectorlogo.zone/logos/links.html))
 
- * travis should run bin/ scripts and do the deploy
  * /search.html: comment code
  * /search.html: btn-info
  * /search.html: skip if no ar21 (or use icon?)
