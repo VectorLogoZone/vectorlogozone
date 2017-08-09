@@ -117,6 +117,10 @@ $(function() {
 			{
 				$search_results.empty(); // Clear any old results
 
+                if (results.length > 30) {
+                    results.length = 30;
+                }
+
 				// Iterate over the results
 				results.forEach(function(result) {
 						var item = loaded_data[result.ref];
