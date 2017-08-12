@@ -66,11 +66,9 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  
  * addthis
  * adobe flex
- * apache tomcat
  * ATOM
  * chrome
  * common lisp
- * debian
  * disqus
  * firefox
  * fugue icons (new?)
