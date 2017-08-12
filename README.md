@@ -14,11 +14,15 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] viewer: custom background color (and save to cookie)
  - [ ] viewer: double-click to zoom/shift double-click to unzoom
  - [ ] viewer: drag to move around
- - [ ] credits: rsvg
- - [ ] credits: ImageMagick
- - [ ] credits: icotool from icoutils
  - [ ] 404 page should have link to search (or redirect to search with flash message)
- - [ ] fill in more metadata links (see the [links report](https://www.vectorlogo.zone/logos/links.html))
+ - [ ] fill in more metadata links (see the [links report](https://www.vectorlogo.zone/logos/metadata.html))
+ - [ ] convert logos/index.html tabs based on first letter
+ - [ ] expose template.md as /request.txt, note about adding new logos
+ - [ ] inventory to skip ones with 0 images
+ - [ ] png's (embedded in svg) for ar21, icon for hard ones
+ - [ ] travis: run subprograms
+ - [ ] redirect for 404 in /logos/
+ - [ ] separate site w/dynamic svg's based on parameters
 
  * /search.html: comment code
  * /search.html: btn-info
@@ -45,6 +49,11 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
 	- get facebook logo
 	- get all images from homepage
 
+## More metadata
+ * Instagram
+ * Google+
+ * Youtube
+
 ## Logos that need work
  - [ ] golang (outline of gopher is too thin, doesn't scale)
  - [ ] perl (remove bitmap camel)
@@ -59,23 +68,35 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * adobe flex
  * apache tomcat
  * ATOM
- * AWK
+ * chrome
  * common lisp
  * debian
  * disqus
+ * firefox
  * fugue icons (new?)
+ * Glitch/Gomix
  * google guava (new)
+ * gnome
+ * hyper.sh
  * icondrawer
- * ImageMagick
+ * Let's Encrypt
+ * macosx
  * Microsoft - Segoe
+ * Mozilla
  * nodeping
- * pinboard
+ * Postman
+ * Pusher
+ * react.js
  * RSS
  * rsvg
+ * safari
  * [svg](https://www.w3.org/2009/08/svg-logos.html)
+ * slack
  * s3cmd (new?)
+ * Stripe
  * styleshout
  * tango icons
  * twitter
  * US Census Burean (census.gov)
  * wordpress
+
