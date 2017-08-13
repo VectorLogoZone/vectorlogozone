@@ -12,9 +12,9 @@ install:
   - gem install jekyll -v 3.4.5
   - gem install jekyll-redirect-from
 script:
-  - python3 bin/frontmatter_update.py
-  - python3 bin/fm2tag.py
-  - bin/mkcard.sh
+  - cd bin && python3 frontmatter_update.py
+  - cd bin && python3 fm2tag.py
+  - cd bin && ./mkcard.sh
   - jekyll build --source www
 branches:
   only:
