@@ -6,6 +6,7 @@ rvm:
 before_install:
   - sudo apt-get -qq update
   - sudo apt-get install -y librsvg2-bin imagemagick
+  - sudo apt-get install python3-pip
 install:
   - sudo python3 -m pip install python-frontmatter
   - gem install jekyll -v 3.4.5
