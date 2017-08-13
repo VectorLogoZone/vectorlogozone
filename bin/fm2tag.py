@@ -10,14 +10,14 @@ import yaml
 tagfn = '../www/_data/tags.yaml'
 
 
-stream = file(tagfn, 'r')
+stream = open(tagfn, 'r')
 tags = yaml.load(stream)
 stream.close()
 
 for tag in tags.keys():
 	tags[tag]["count"] = 0
 
-print yaml.dump(tags, default_flow_style=False)
+print(yaml.dump(tags, default_flow_style=False))
 
 logoroot = '../www/logos'
 dirs = [f for f in os.listdir(logoroot) if os.path.isdir(os.path.join(logoroot, f))]
@@ -44,6 +44,6 @@ for logodir in dirs:
 			print("WARNING: new tag %s" % tag)
 			tags[tag] = {"count": 1, "title": tag }
 
-stream = file(tagfn, 'w')
+stream = open(tagfn, 'w')
 stream.write(yaml.dump(tags, default_flow_style=False))
 stream.close()

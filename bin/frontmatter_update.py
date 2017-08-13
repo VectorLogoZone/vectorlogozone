@@ -61,7 +61,7 @@ def process(options, dirparam):
 		indexmd["sort"] = indexmd["title"].lower()
 
 	f = open(indexfn, 'w')
-	frontmatter.dump(indexmd, f)
+	f.write(frontmatter.dumps(indexmd))
 	f.write('\n')
 	f.close()
 	#print("%s" % frontmatter.dumps(indexmd))
