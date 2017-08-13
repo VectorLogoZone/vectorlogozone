@@ -7,7 +7,7 @@ before_install:
   - sudo apt-get -qq update
   - sudo apt-get install -y librsvg2-bin imagemagick
 install:
-  - sudo pip3 install python-frontmatter
+  - sudo python3 -m pip install python-frontmatter
   - gem install jekyll -v 3.4.5
   - gem install jekyll-redirect-from
 script:
