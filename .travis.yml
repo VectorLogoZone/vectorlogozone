@@ -1,11 +1,14 @@
 language: ruby
 rvm:
 - 2.1
+python:
+  - "3.5"
 before_install:
   - sudo apt-get -qq update
   - sudo apt-get install -y librsvg2-bin imagemagick
+  - sudo apt-get install -y python3-pip python-dev
 install:
-  - pip install python-frontmatter
+  - sudo pip3 install python-frontmatter
   - gem install jekyll -v 3.4.5
   - gem install jekyll-redirect-from
 script:
