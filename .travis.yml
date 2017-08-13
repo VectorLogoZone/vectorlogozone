@@ -16,6 +16,7 @@ before_script:
   - python3 frontmatter_update.py
   - python3 fm2tag.py
   - ./mkcard.sh
+  - cd ..
 script:
   - jekyll build --source www
 branches:
