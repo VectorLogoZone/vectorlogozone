@@ -5,16 +5,18 @@ rvm:
 - 2.1
 before_install:
   - sudo apt-get -qq update
+install:
   - sudo apt-get install -y librsvg2-bin imagemagick
   - sudo apt-get install python3-pip
-install:
   - sudo python3 -m pip install python-frontmatter
   - gem install jekyll -v 3.4.5
   - gem install jekyll-redirect-from
+before_script:
+  - cd bin
+  - python3 frontmatter_update.py
+  - python3 fm2tag.py
+  - ./mkcard.sh
 script:
-  - cd bin && python3 frontmatter_update.py
-  - cd bin && python3 fm2tag.py
-  - cd bin && ./mkcard.sh
   - jekyll build --source www
 branches:
   only:
