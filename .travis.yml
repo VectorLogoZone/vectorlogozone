@@ -1,6 +1,6 @@
 dist: trusty
 sudo: true
-language: ruby
+language: python3
 rvm:
 - 2.1
 before_install:
