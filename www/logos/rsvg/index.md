@@ -8,7 +8,6 @@ tags:
 - svg
 - graphics
 title: rsvg
-twitter: blahhandle
 website: https://wiki.gnome.org/Projects/LibRsvg
 wikipedia: https://en.wikipedia.org/wiki/Librsvg
 ---
