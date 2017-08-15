@@ -81,7 +81,7 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * macosx
  * Microsoft - Segoe
  * Mozilla
- * nodeping
+ * npm
  * Postman
  * Pusher
  * react.js
@@ -91,7 +91,6 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * [svg](https://www.w3.org/2009/08/svg-logos.html)
  * slack
  * s3cmd (new?)
- * Stripe
  * styleshout
  * tango icons
  * twitter
