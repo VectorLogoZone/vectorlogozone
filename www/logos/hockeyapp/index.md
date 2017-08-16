@@ -1,8 +1,11 @@
 ---
 facebook: https://facebook.com/hockeyapp
-#github: blahhandle
+images:
+- hockeyapp-ar21.svg
+- hockeyapp-icon.svg
 layout: default
 logohandle: hockeyapp
+skipped: 0
 sort: hockeyapp
 tags:
 - new

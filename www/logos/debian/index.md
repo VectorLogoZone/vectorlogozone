@@ -1,9 +1,12 @@
 ---
 blog: https://bits.debian.org/
-#facebook: https://www.facebook.com/blah
 github: Debian
+images:
+- debian-ar21.svg
+- debian-icon.svg
 layout: default
 logohandle: debian
+skipped: 0
 sort: debian
 tags:
 - new

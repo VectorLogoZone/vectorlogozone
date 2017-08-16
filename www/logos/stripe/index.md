@@ -1,7 +1,11 @@
 ---
 github: stripe
+images:
+- stripe-ar21.svg
+- stripe-icon.svg
 layout: default
 logohandle: stripe
+skipped: 0
 sort: stripe
 tags:
 - payments

@@ -1,6 +1,15 @@
+advertising:
+  count: 1
+  title: advertising
 analytics:
   count: 1
   title: Analytics
+answers:
+  count: 1
+  title: answers
+appserver:
+  count: 1
+  title: appserver
 authentication:
   count: 1
   title: Authentication
@@ -8,10 +17,10 @@ cdn:
   count: 1
   title: CDN
 continuous_integration:
-  count: 1
+  count: 2
   title: Continuous Integration (CI)
 database:
-  count: 1
+  count: 2
   title: Databases
 domains:
   count: 2
@@ -19,6 +28,9 @@ domains:
 dotnet:
   count: 1
   title: dotnet
+ecommerce:
+  count: 1
+  title: ecommerce
 font:
   count: 1
   title: Fonts
@@ -26,21 +38,45 @@ game:
   count: 1
   title: Games
 graphics:
-  count: 4
+  count: 7
   title: Graphics
+hardware:
+  count: 1
+  title: hardware
 hosting:
   count: 8
   title: Hosting
+icons:
+  count: 1
+  title: icons
+ide:
+  count: 2
+  title: ide
 java:
-  count: 3
+  count: 4
   title: java
 javascript:
   count: 5
   title: JavaScript
-paas:
+library:
   count: 1
+  title: library
+monetization:
+  count: 1
+  title: monetization
+monitoring:
+  count: 1
+  title: monitoring
+new:
+  count: 8
+  title: new
+paas:
+  count: 2
   description: Platform as a Service
   title: PaaS
+payments:
+  count: 1
+  title: payments
 pdf:
   count: 1
   title: pdf
@@ -48,10 +84,10 @@ php:
   count: 1
   title: php
 programming_language:
-  count: 12
+  count: 13
   title: Programming Languages
 programming_library:
-  count: 9
+  count: 10
   title: Programming Libraries
 python:
   count: 2
@@ -59,6 +95,9 @@ python:
 reference:
   count: 5
   title: Reference
+search:
+  count: 1
+  title: search
 security:
   count: 1
   title: Security
@@ -66,14 +105,23 @@ service:
   count: 5
   title: Service
 software:
-  count: 8
+  count: 9
   title: Software
 static_website:
   count: 1
   title: Static Website Builders
+svg:
+  count: 1
+  title: svg
 version_control:
   count: 2
   title: Version Control
+videoconference:
+  count: 1
+  title: videoconference
 webdesign:
   count: 2
   title: Web Design
+webdev:
+  count: 1
+  title: webdev

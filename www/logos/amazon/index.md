@@ -1,8 +1,12 @@
 ---
 facebook: https://www.facebook.com/amazon
 github: amzn
+images:
+- amazon-icon.svg
+- amazon-ar21.svg
 layout: default
 logohandle: amazon
+skipped: 0
 sort: amazon
 tags:
 - ecommerce

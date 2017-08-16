@@ -66,10 +66,12 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  
  * addthis
  * adobe flex
+ * async.js
  * ATOM
  * chrome
  * common lisp
  * disqus
+ * Federal Reserve
  * firefox
  * fugue icons (new?)
  * Glitch/Gomix
@@ -79,6 +81,8 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * icondrawer
  * Let's Encrypt
  * macosx
+ * MapQuest
+ * marcuse.org (at least icon)
  * Microsoft - Segoe
  * Mozilla
  * npm
