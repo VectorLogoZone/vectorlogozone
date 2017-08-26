@@ -60,6 +60,7 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] bootswatch (icon blends with white, no graphic on ar21)
  - [ ] consistent sizing/placement on horizontal logos
  - [ ] CloudFlare redid their logo
+ - [ ] Apache: redid the feather
 
 ## Logos
  - see the [missing logos report](https://www.vectorlogo.zone/logos/missing.html)
@@ -95,6 +96,7 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * [svg](https://www.w3.org/2009/08/svg-logos.html)
  * slack
  * s3cmd (new?)
+ * stackoverflow
  * styleshout
  * tango icons
  * twitter
