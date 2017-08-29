@@ -11,6 +11,8 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg2-bin imagemagick`.
 
 ## To Do
+ - [ ] manifest.json (for offline support)
+ - [ ] don't include card in count of other images (in logos/inventory.html)
  - [ ] viewer: custom background color (and save to cookie)
  - [ ] viewer: double-click to zoom/shift double-click to unzoom
  - [ ] viewer: drag to move around
@@ -53,6 +55,7 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * Instagram
  * Google+
  * Youtube
+ * LinkedIn
 
 ## Logos that need work
  - [ ] golang (outline of gopher is too thin, doesn't scale)
@@ -94,6 +97,7 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * rsvg
  * safari
  * [svg](https://www.w3.org/2009/08/svg-logos.html)
+ * SEPTA
  * slack
  * s3cmd (new?)
  * stackoverflow
