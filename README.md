@@ -67,6 +67,16 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
 
 ## Logos
  - see the [missing logos report](https://www.vectorlogo.zone/logos/missing.html)
+
+ * Twitter
+ * Reddit
+ * YCombinator
+ * StumbleUpon
+ * Tumbler
+ * Facebook
+ * Pinterest
+ * LinkedIn
+ * json.org
  
  * addthis
  * adobe flex
