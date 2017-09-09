@@ -84,21 +84,30 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * ATOM
  * chrome
  * common lisp
+ * daynightoverlay (new)
  * disqus
+ * expressjs
  * Federal Reserve
  * firefox
  * fugue icons (new?)
  * Glitch/Gomix
  * google guava (new)
+ * google maps
  * gnome
+ * handlebars
+ * haproxy
  * hyper.sh
  * icondrawer
+ * ietf
+ * json-schema.org
  * Let's Encrypt
  * macosx
  * MapQuest
  * marcuse.org (at least icon)
  * Microsoft - Segoe
+ * momentjs
  * Mozilla
+ * nginx
  * npm
  * Postman
  * Pusher
@@ -115,5 +124,6 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * tango icons
  * twitter
  * US Census Burean (census.gov)
+ * varnish
  * wordpress
 
