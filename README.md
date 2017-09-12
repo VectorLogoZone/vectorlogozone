@@ -58,12 +58,14 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * LinkedIn
 
 ## Logos that need work
+ - [ ] itext logo has a bit of white (on top of the 'x' and right of the 2nd 't')
  - [ ] golang (outline of gopher is too thin, doesn't scale)
  - [ ] perl (remove bitmap camel)
  - [ ] bootswatch (icon blends with white, no graphic on ar21)
  - [ ] consistent sizing/placement on horizontal logos
  - [ ] CloudFlare redid their logo
  - [ ] Apache: redid the feather
+ - [ ] Google Analytics: "Google" should be bolder than "Analytics"
 
 ## Logos
  - see the [missing logos report](https://www.vectorlogo.zone/logos/missing.html)
