@@ -1,15 +1,14 @@
 ---
+blog: https://blog.jetbrains.com/
 facebook: https://www.facebook.com/JetBrains
 github: JetBrains
-layout: default
 logohandle: jetbrains
 sort: jetbrains
 tags:
 - ide
 title: JetBrains
-twitter: jetbrains
-website: https://www.jetbrains.com/
-#wikipedia: https://en.wikipedia.org/wiki/JetBrains
+twitter: https://twitter.com/jetbrains
+website: http://www.jetbrains.com/
 ---
 
 Official [branding guidelines](https://www.jetbrains.com/company/brand/#section=images-logos)
