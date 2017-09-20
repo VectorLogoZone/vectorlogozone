@@ -10,7 +10,7 @@ import sys
 import tarfile
 import time
 
-default_input = "/home/amarcuse/site/vectorlogozone/todo-2017-09-20_022053.tgz"
+default_input = "./vlz-todo-2017-09-20_023857.tgz"
 default_output = "/home/amarcuse/site/vectorlogozone/www/logos"
 
 parser = argparse.ArgumentParser()
@@ -39,20 +39,25 @@ for member in tar.getmembers():
 
     content = str(f.read(), "utf-8")
     f.close()
+    if args.verbose:
+        sys.stdout.write("INFO: read %d chars\n" % len(content))
 
     dirname = os.path.join(args.output, filename[:-4])
 
     if os.path.exists(dirname):
-        sys.stdout.write("INFO: using existing directory '%s'\n" % dirname)
+        if args.verbose:
+            sys.stdout.write("INFO: using existing directory '%s'\n" % dirname)
     else:
-        sys.stdout.write("INFO: creating directory '%s'\n" % dirname)
+        if args.verbose:
+            sys.stdout.write("INFO: creating directory '%s'\n" % dirname)
         os.makedirs(dirname)
 
     indexname = os.path.join(dirname, "index.md")
     if os.path.exists(indexname):
         sys.stdout.write("WARNING: existing file not overwritten '%s'\n" % indexname)
     else:
-        sys.stdout.write("INFO: creating file '%s'\n" % indexname)
+        if args.verbose:
+            sys.stdout.write("INFO: creating file '%s'\n" % indexname)
         f = open(indexname, "w")
         f.write(content)
         f.close()
