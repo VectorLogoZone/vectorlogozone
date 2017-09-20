@@ -5,7 +5,7 @@ github: tumblr
 logohandle: tumblr
 sort: tumblr
 title: tumblr.
-twitter: https://twitter.com/tumblr
+twitter: tumblr
 website: https://www.tumblr.com/
 wikipedia: https://en.wikipedia.org/wiki/Tumblr
 ---

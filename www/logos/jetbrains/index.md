@@ -7,7 +7,7 @@ sort: jetbrains
 tags:
 - ide
 title: JetBrains
-twitter: https://twitter.com/jetbrains
+twitter: jetbrains
 website: http://www.jetbrains.com/
 ---
 

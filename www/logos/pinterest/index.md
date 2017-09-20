@@ -5,7 +5,7 @@ github: pinterest
 logohandle: pinterest
 sort: pinterest
 title: Pinterest
-twitter: https://twitter.com/Pinterest
+twitter: Pinterest
 website: https://www.pinterest.com/
 wikipedia: https://en.wikipedia.org/wiki/Pinterest
 ---

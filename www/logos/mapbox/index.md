@@ -5,7 +5,7 @@ github: mapbox
 logohandle: mapbox
 sort: mapbox
 title: mapbox
-twitter: https://twitter.com/mapbox
+twitter: mapbox
 website: https://www.mapbox.com/
 wikipedia: https://en.wikipedia.org/wiki/Mapbox
 ---

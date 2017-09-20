@@ -5,7 +5,7 @@ github: linkedin
 logohandle: linkedin
 sort: linkedin
 title: LinkedIn
-twitter: https://twitter.com/linkedin
+twitter: linkedin
 website: https://www.linkedin.com/
 wikipedia: https://en.wikipedia.org/wiki/LinkedIn
 ---

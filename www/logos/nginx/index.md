@@ -5,7 +5,7 @@ github: nginx
 logohandle: nginx
 sort: nginx
 title: NGINX
-twitter: https://twitter.com/nginx
+twitter: nginx
 website: https://www.nginx.com/
 wikipedia: https://en.wikipedia.org/wiki/Nginx
 ---

@@ -5,7 +5,7 @@ github: slackhq
 logohandle: slack
 sort: slack
 title: Slack
-twitter: https://twitter.com/slackhq
+twitter: slackhq
 website: https://slack.com/
 wikipedia: https://en.wikipedia.org/wiki/Slack_(software)
 ---

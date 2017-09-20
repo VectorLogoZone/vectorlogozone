@@ -5,7 +5,7 @@ github: StackExchange
 logohandle: stackoverflow
 sort: stackoverflow
 title: Stack Overflow
-twitter: https://twitter.com/stackoverflow
+twitter: stackoverflow
 website: https://stackoverflow.com/
 wikipedia: https://en.wikipedia.org/wiki/Stack_Overflow
 ---

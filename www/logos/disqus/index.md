@@ -5,7 +5,7 @@ github: disqus
 logohandle: disqus
 sort: disqus
 title: Disqus
-twitter: https://twitter.com/disqus
+twitter: disqus
 website: https://disqus.com/
 wikipedia: https://en.wikipedia.org/wiki/Disqus
 ---

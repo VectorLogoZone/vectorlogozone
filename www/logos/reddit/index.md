@@ -5,7 +5,7 @@ github: reddit
 logohandle: reddit
 sort: reddit
 title: Reddit
-twitter: https://www.twitter.com/reddit
+twitter: reddit
 website: https://www.reddit.com/
 wikipedia: https://en.wikipedia.org/wiki/Reddit
 ---

@@ -5,7 +5,7 @@ github: superfly
 logohandle: flyio
 sort: flyio
 title: Fly.io
-twitter: https://twitter.com/flydotio
+twitter: flydotio
 website: https://fly.io/
 wikipedia: https://en.wikipedia.org/wiki/blah
 ---

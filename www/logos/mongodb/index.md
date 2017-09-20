@@ -5,7 +5,7 @@ github: mongodb
 logohandle: mongodb
 sort: mongodb
 title: MongoDB
-twitter: https://twitter.com/MongoDB
+twitter: MongoDB
 website: https://www.mongodb.com/
 wikipedia: https://en.wikipedia.org/wiki/MongoDB
 ---

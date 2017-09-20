@@ -5,7 +5,7 @@ github: twitter
 logohandle: twitter
 sort: twitter
 title: Twitter
-twitter: https://twitter.com/twitter
+twitter: twitter
 website: https://twitter.com/
 wikipedia: https://en.wikipedia.org/wiki/Twitter
 ---

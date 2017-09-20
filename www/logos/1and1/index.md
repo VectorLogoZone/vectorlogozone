@@ -9,7 +9,7 @@ logohandle: 1and1
 skipped: 0
 sort: 1and1
 title: 1and1
-twitter: https://twitter.com/1and1
+twitter: 1and1
 website: https://www.1and1.com/
 wikipedia: https://en.wikipedia.org/wiki/1%261_Internet
 ---
