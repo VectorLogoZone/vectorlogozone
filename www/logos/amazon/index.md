@@ -12,6 +12,7 @@ tags:
 - ecommerce
 title: Amazon.com
 twitter: amazon
+pinterest: amazon
 website: https://www.amazon.com/
 wikipedia: https://en.wikipedia.org/wiki/Amazon.com
 ---
