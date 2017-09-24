@@ -11,11 +11,10 @@ In order to run the python auto-update utilities, you need to `pip install pytho
 The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg2-bin imagemagick`.
 
 ## To Do
+ - [ ] CORS support
+ - [ ] display favicon.svg in header bar
  - [ ] manifest.json (for offline support)
  - [ ] don't include card in count of other images (in logos/inventory.html)
- - [ ] viewer: custom background color (and save to cookie)
- - [ ] viewer: double-click to zoom/shift double-click to unzoom
- - [ ] viewer: drag to move around
  - [ ] 404 page should have link to search (or redirect to search with flash message)
  - [ ] fill in more metadata links (see the [links report](https://www.vectorlogo.zone/logos/metadata.html))
  - [ ] convert logos/index.html tabs based on first letter
@@ -25,6 +24,20 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] travis: run subprograms
  - [ ] redirect for 404 in /logos/
  - [ ] separate site w/dynamic svg's based on parameters
+
+## Continuous Integration Checks
+ - [ ] no embedded rasters
+ - [ ] no embedded fonts
+ - [ ] handle vs directory vs filename mismatch
+ - [ ] extra files that aren't _src
+ - [ ] files over a certain size
+ - [ ] run scour on all
+
+## Viewer To Do
+ - [ ] custom background color (and save to cookie)
+ - [ ] double-click to zoom/shift double-click to unzoom
+ - [ ] drag to move around
+ - [ ] color analysis
 
  * /search.html: comment code
  * /search.html: btn-info
@@ -66,20 +79,12 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] CloudFlare redid their logo
  - [ ] Apache: redid the feather
  - [ ] Google Analytics: "Google" should be bolder than "Analytics"
+ - [ ] lunr.js redid their website & logo
 
 ## Logos
  - see the [missing logos report](https://www.vectorlogo.zone/logos/missing.html)
 
- * Twitter
- * Reddit
- * YCombinator
- * StumbleUpon
- * Tumbler
- * Facebook
- * Pinterest
- * LinkedIn
- * json.org
- 
+
  * addthis
  * adobe flex
  * async.js
@@ -87,44 +92,29 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * chrome
  * common lisp
  * daynightoverlay (new)
- * disqus
- * expressjs
  * Federal Reserve
  * firefox
  * fugue icons (new?)
- * Glitch/Gomix
  * google guava (new)
- * google maps
  * gnome
- * handlebars
  * haproxy
  * hyper.sh
  * icondrawer
  * ietf
- * json-schema.org
- * Let's Encrypt
  * macosx
  * MapQuest
  * marcuse.org (at least icon)
  * Microsoft - Segoe
- * momentjs
  * Mozilla
- * nginx
- * npm
  * Postman
  * Pusher
- * react.js
- * RSS
  * rsvg
  * safari
  * [svg](https://www.w3.org/2009/08/svg-logos.html)
  * SEPTA
- * slack
  * s3cmd (new?)
- * stackoverflow
  * styleshout
  * tango icons
- * twitter
  * US Census Burean (census.gov)
  * varnish
  * wordpress

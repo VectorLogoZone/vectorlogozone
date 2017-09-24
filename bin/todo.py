@@ -10,7 +10,7 @@ import sys
 import tarfile
 import time
 
-default_input = "./vlz-todo-2017-09-20_023857.tgz"
+default_input = "./vlz-todo.tgz"
 default_output = "/home/amarcuse/site/vectorlogozone/www/logos"
 
 parser = argparse.ArgumentParser()
