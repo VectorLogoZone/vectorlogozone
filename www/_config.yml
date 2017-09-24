@@ -6,7 +6,7 @@ exclude: [ "*.sh", "**/*_src*" ]
 production_url: https://www.vectorlogo.zone
 title : Vector Logo Zone
 title_short: VLZ
-plugins:
+plugins_dir:
   - jekyll-redirect-from
 defaults:
   -
