@@ -14,10 +14,12 @@ layout: none
 	<link href="/css/font-awesome.css" rel="stylesheet" type="text/css" />
 	<script src="/js/jquery-2.1.4.js"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js" integrity="sha512-K1qjQ+NcF2TYO/eI3M6v8EiNYZfA95pQumfvcVrTHtwQVDG+aHRqLi/ETn2uB+1JqwYqVG3LIvdm9lj6imS/pQ==" crossorigin="anonymous"></script>
+    <script src="/js/Vibrant.js"></script>
 	<style type="text/css">
 	html, body { width: 100%; height: 100% }
 	#preview-container { width: 100%; height:100%;background-image: url("/images/preview/background_light.png"); background-repeat: repeat-x repeat-y;}
 	#xpreview-image { display: block; margin: auto;vertical-align: middle; width:24px; height:24px;}
+    .color-block { display: inline-block; width: 18px; height: 18px; margin-right: 5px; margin-top: 3px; vertical-align: text-bottom;}
 #preview-container { position: relative;}
 #preview-image {
     position: absolute;
@@ -54,6 +56,7 @@ layout: none
   <button type="button" class="btn btn-default navbar-btn border-btn" data-border="4" title="Thick border">Thick</button>
 </div>
 
+<a class="btn btn-default navbar-btn hidden-xs" id="color_analysis" title="Color Analysis" data-toggle="popover" data-title="Color Analysis" data-html="true" data-placement="auto bottom"><i class="fa fa-eyedropper"></i></a>
 <a class="btn btn-default navbar-btn hidden-xs" id="btn-download" title="Download"><i class="fa fa-download"></i></a>
 <a class="btn btn-default navbar-btn" href="/" id="btn-exit" title="Exit Preview"><i class="fa fa-sign-out"></i></a>
 			
@@ -61,7 +64,7 @@ layout: none
 		</div>
 	</nav>
 	<div id="preview-container">
-		<img id="preview-image" src="/images/preview/loading.gif" />
+		<img id="preview-image" src="/images/preview/loading.gif" crossorigin="anonymous" />
 	</div><!--/container-->
 {% include google-analytics.html %}
 <script type="text/javascript">
@@ -84,8 +87,27 @@ layout: none
 		var imgUrl = qsParam("image");
 		if (imgUrl)
 		{
-			console.log(imgUrl);
-			$("#preview-image").attr("src", imgUrl)
+			console.log("INFO: loading image " + imgUrl);
+			$("#preview-image").bind('load', function(e) {
+			    console.log("INFO: image loaded");
+                var img = $("#preview-image")[0];
+                var vibrant = new Vibrant(img);
+                var swatches = vibrant.swatches();
+                var content = $("<div>");
+                for (var swatch in swatches) {
+                    if (swatches.hasOwnProperty(swatch) && swatches[swatch]) {
+                        console.log(swatch, swatches[swatch].getHex());
+                        content.append($("<div>").attr("class", "color-block").css("background-color", swatches[swatch].getHex()));
+                        content.append($("<span>").text(swatches[swatch].getHex() + " - " + swatch));
+                        content.append($("<br>"));
+                    }
+                }
+                content.append($("<small>").text("Powered by ").append($("<a>").attr("href", "http://jariz.github.io/vibrant.js/").text("Vibrant.js")));
+                $("#color_analysis").attr("data-content", content.html());
+                console.log("INFO: color analysis complete");
+
+            });
+			$("#preview-image").attr("src", imgUrl);
 			$("#btn-download").attr("href", imgUrl).attr("download", imgUrl.substring(imgUrl.lastIndexOf('/')+1, imgUrl.length));
 			$("#btn-exit").attr("href", imgUrl.substring(0, imgUrl.lastIndexOf('/')));
 			$("#preview-image").css("border-width", "1px");
@@ -143,6 +165,18 @@ layout: none
 			img.width = img.naturalWidth * newZoom;
 			img.height = img.naturalHeight * newZoom;
 		});
+
+        $("#color_analysis").popover();
+        /*
+		$("#color_analysis").bind('click', function(e) {
+		    console.log("DEBUG: popover");
+            $('#color_analysis').popover({
+                html: true,
+                placement: 'auto bottom',
+                title: 'Color Analysis'
+            });
+        });
+        */
 		$(window).bind('resize', resizeBody);
 	});
 
