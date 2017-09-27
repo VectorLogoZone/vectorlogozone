@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="new"
+   x="0px"
+   y="0px"
+   viewBox="0 0 32 32"
+   xml:space="preserve"
+   sodipodi:docname="mapbox-icon.svg"
+   width="32"
+   height="32"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><metadata
+     id="metadata33"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Mapbox_Logo_08</dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs31" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="3.39"
+     inkscape:cx="72.49652"
+     inkscape:cy="22.062795"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="new" /><style
+     type="text/css"
+     id="style2">
+	.st0{fill:#4264FB;}
+</style><title
+     id="title4">Mapbox_Logo_08</title><g
+     id="g24"
+     transform="matrix(0.1799775,0,0,0.1799775,-0.89988725,-0.197975)"><path
+       style="fill:#4264fb"
+       inkscape:connector-curvature="0"
+       id="path20"
+       d="M 93.9,1.1 C 44.8,1.1 5,40.9 5,90 c 0,49.1 39.8,88.9 88.9,88.9 49.1,0 88.9,-39.8 88.9,-88.9 C 182.8,40.9 143,1.1 93.9,1.1 Z m 42.2,110.7 c -30.4,30.4 -84.7,20.7 -84.7,20.7 0,0 -9.8,-54.2 20.7,-84.7 16.9,-16.9 44.9,-16.2 62.6,1.4 17.7,17.6 18.3,45.7 1.4,62.6 z"
+       class="st0" /><polygon
+       style="fill:#4264fb"
+       id="polygon22"
+       points="104.1,106.4 112.8,88.5 130.7,79.8 112.8,71.1 104.1,53.2 95.4,71.1 77.5,79.8 95.4,88.5 "
+       class="st0" /></g></svg>
