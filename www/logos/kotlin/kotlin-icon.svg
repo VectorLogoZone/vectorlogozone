@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   data-name="Layer 1"
+   viewBox="0 0 8.64 8.6330933"
+   width="32"
+   height="32"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="kotlin-icon.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo_Kotlin</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="4.3392"
+     inkscape:cx="71.562872"
+     inkscape:cy="40.761559"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39" />
+  <defs
+     id="defs21">
+    <linearGradient
+       id="b"
+       x1="-23.82"
+       y1="136.073"
+       x2="107.837"
+       y2="4.415"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06008637,0,0,0.06008637,3.4705947,3.4827677)">
+      <stop
+         offset=".108"
+         stop-color="#c757bc"
+         id="stop2" />
+      <stop
+         offset=".173"
+         stop-color="#cd5ca9"
+         id="stop4" />
+      <stop
+         offset=".492"
+         stop-color="#e8744f"
+         id="stop6" />
+      <stop
+         offset=".716"
+         stop-color="#f88316"
+         id="stop8" />
+      <stop
+         offset=".823"
+         stop-color="#ff8900"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="a"
+       x1="45.153999"
+       y1="173.00301"
+       x2="109.326"
+       y2="108.83"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".296"
+         stop-color="#00afff"
+         id="stop13" />
+      <stop
+         offset=".694"
+         stop-color="#5282ff"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#945dff"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       x1="-1.699"
+       y1="45.043999"
+       x2="43.319"
+       y2="0.026000001"
+       xlink:href="#a"
+       gradientTransform="matrix(0.06008637,0,0,0.06008637,3.4705947,3.4827677)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient850"
+       gradientUnits="userSpaceOnUse"
+       x1="45.153999"
+       y1="173.00301"
+       x2="109.326"
+       y2="108.83"
+       gradientTransform="matrix(0.06008637,0,0,0.06008637,3.4705947,3.4827677)" />
+  </defs>
+  <title
+     id="title23">logo_Kotlin</title>
+  <g
+     id="g880"
+     transform="matrix(1.0163272,0,0,1.0163272,-3.5272598,-3.909123)">
+    <path
+       style="fill:url(#b);stroke-width:0.06008637"
+       inkscape:connector-curvature="0"
+       id="path33"
+       d="M 7.7388303,3.8429251 3.4705947,8.3314987 V 12.344125 L 7.732641,8.074567 11.971794,3.8429251 Z" />
+    <path
+       style="fill:url(#linearGradient850);stroke-width:0.06008637"
+       inkscape:connector-curvature="0"
+       id="path35"
+       d="M 3.4705947,12.344125 7.732641,8.074567 11.971794,12.344125 Z"
+       data-name="&lt;Path&gt;" />
+    <path
+       style="fill:url(#c);stroke-width:0.06008637"
+       inkscape:connector-curvature="0"
+       id="path37"
+       d="M 3.4705947,3.8429251 H 7.7388303 L 3.4705947,8.3314987 Z" />
+  </g>
+</svg>

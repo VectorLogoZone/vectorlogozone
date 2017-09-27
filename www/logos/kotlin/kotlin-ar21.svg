@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   data-name="Layer 1"
+   viewBox="0 0 32.4 16.18705"
+   width="120"
+   height="60"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="kotlin-ar21.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo_Kotlin</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="4.3392"
+     inkscape:cx="71.562872"
+     inkscape:cy="40.761559"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39" />
+  <defs
+     id="defs21">
+    <linearGradient
+       id="b"
+       x1="-23.82"
+       y1="136.073"
+       x2="107.837"
+       y2="4.415"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.06008637,0,0,0.06008637,3.3411753,3.4827677)">
+      <stop
+         offset=".108"
+         stop-color="#c757bc"
+         id="stop2" />
+      <stop
+         offset=".173"
+         stop-color="#cd5ca9"
+         id="stop4" />
+      <stop
+         offset=".492"
+         stop-color="#e8744f"
+         id="stop6" />
+      <stop
+         offset=".716"
+         stop-color="#f88316"
+         id="stop8" />
+      <stop
+         offset=".823"
+         stop-color="#ff8900"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="a"
+       x1="45.153999"
+       y1="173.00301"
+       x2="109.326"
+       y2="108.83"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".296"
+         stop-color="#00afff"
+         id="stop13" />
+      <stop
+         offset=".694"
+         stop-color="#5282ff"
+         id="stop15" />
+      <stop
+         offset="1"
+         stop-color="#945dff"
+         id="stop17" />
+    </linearGradient>
+    <linearGradient
+       id="c"
+       x1="-1.699"
+       y1="45.043999"
+       x2="43.319"
+       y2="0.026000001"
+       xlink:href="#a"
+       gradientTransform="matrix(0.06008637,0,0,0.06008637,3.3411753,3.4827677)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#a"
+       id="linearGradient850"
+       gradientUnits="userSpaceOnUse"
+       x1="45.153999"
+       y1="173.00301"
+       x2="109.326"
+       y2="108.83"
+       gradientTransform="matrix(0.06008637,0,0,0.06008637,3.3411753,3.4827677)" />
+  </defs>
+  <title
+     id="title23">logo_Kotlin</title>
+  <g
+     id="g869"
+     transform="translate(0.12941935)">
+    <path
+       data-name="&lt;Compound Path&gt;"
+       d="m 13.235795,5.8917742 h 0.994341 v 1.9757787 l 1.833712,-1.9757787 h 1.200958 l -1.840164,1.9176488 1.924101,2.602113 h -1.194506 l -1.401091,-1.9241009 -0.52301,0.542333 v 1.3817359 h -0.994341 z"
+       id="path25"
+       inkscape:connector-curvature="0"
+       style="fill:#000400;stroke-width:0.03193952" />
+    <path
+       data-name="&lt;Compound Path&gt;"
+       d="m 16.820304,8.7004398 v -0.01284 c 0,-0.9943731 0.800659,-1.8014848 1.878938,-1.8014848 1.071826,0 1.866034,0.7942081 1.866034,1.7885493 v 0.012935 c 0,0.9943411 -0.80066,1.8013887 -1.878938,1.8013887 -1.071826,0 -1.866034,-0.794176 -1.866034,-1.7885482 z m 2.776438,0 v -0.01284 c 0,-0.510138 -0.368039,-0.9556305 -0.910404,-0.9556305 -0.561752,0 -0.8975,0.432557 -0.8975,0.942695 v 0.012935 c 0,0.5100741 0.368039,0.9555665 0.910404,0.9555665 0.561752,0 0.8975,-0.4325888 0.8975,-0.942726 z"
+       id="path27"
+       inkscape:connector-curvature="0"
+       style="fill:#000400;stroke-width:0.03193952" />
+    <path
+       data-name="&lt;Compound Path&gt;"
+       d="M 20.836187,9.4300981 V 7.7900676 H 20.422954 V 6.950729 h 0.413233 V 6.0661001 h 0.981438 V 6.950697 h 0.813563 v 0.8393706 h -0.813563 v 1.4786401 c 0,0.2259402 0.09684,0.3357482 0.316393,0.3357482 a 0.99753509,0.99753509 0 0 0 0.484235,-0.1227435 v 0.7877566 c -0.206617,0.122679 -0.445493,0.200165 -0.774789,0.200165 -0.600463,0 -1.007277,-0.238908 -1.007277,-1.0395359 z M 22.912895,5.698061 h 0.981437 v 4.713443 h -0.981437 z m 1.33619,0 h 1.033051 v 0.8716614 h -1.033051 z m 0.02587,1.252636 h 0.981405 v 3.460807 h -0.981437 z m 1.354746,0 h 0.981438 v 0.4906869 c 0.226004,-0.2905538 0.516558,-0.5552686 1.013696,-0.5552686 0.742562,0 1.175151,0.4907188 1.175151,1.2849269 V 10.411504 H 27.81855 V 8.4809514 c 0,-0.4648797 -0.219553,-0.7037873 -0.594044,-0.7037873 -0.374522,0 -0.613366,0.2389076 -0.613366,0.7037873 v 1.9305526 h -0.98147 z"
+       id="path29"
+       inkscape:connector-curvature="0"
+       style="fill:#000400;stroke-width:0.03193952" />
+    <path
+       style="fill:url(#b);stroke-width:0.06008637"
+       inkscape:connector-curvature="0"
+       id="path33"
+       d="M 7.6094109,3.8429251 3.3411753,8.3314987 V 12.344125 L 7.6032216,8.074567 11.842375,3.8429251 Z" />
+    <path
+       style="fill:url(#linearGradient850);stroke-width:0.06008637"
+       inkscape:connector-curvature="0"
+       id="path35"
+       d="M 3.3411753,12.344125 7.6032216,8.074567 11.842375,12.344125 Z"
+       data-name="&lt;Path&gt;" />
+    <path
+       style="fill:url(#c);stroke-width:0.06008637"
+       inkscape:connector-curvature="0"
+       id="path37"
+       d="M 3.3411753,3.8429251 H 7.6094109 L 3.3411753,8.3314987 Z" />
+  </g>
+</svg>
