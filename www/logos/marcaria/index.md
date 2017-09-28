@@ -1,6 +1,5 @@
 ---
 facebook: https://www.facebook.com/marcariacom/
-#github: blahhandle
 layout: default
 logohandle: marcaria
 sort: marcaria
@@ -9,5 +8,4 @@ tags:
 title: Marcaria
 twitter: marcaria
 website: https://www.marcaria.com/
-#wikipedia: https://wikipedia/blah
 ---

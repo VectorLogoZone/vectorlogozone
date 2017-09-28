@@ -1,6 +1,5 @@
 ---
 blog: http://blogs.apache.org/tomcat/
-#facebook: https://www.facebook.com/blah
 github: apache/tomcat
 layout: default
 logohandle: apache_tomcat

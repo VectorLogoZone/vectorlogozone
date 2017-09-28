@@ -1,5 +1,4 @@
 ---
-blog: https://blog.blah.com/
 github: d3/d3
 logohandle: d3js
 sort: d3

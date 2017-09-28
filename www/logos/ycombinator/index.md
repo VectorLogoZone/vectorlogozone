@@ -1,6 +1,5 @@
 ---
 blog: http://www.ycombinator.com/resources/
-facebook: https://www.facebook.com/blah
 github: HackerNews
 logohandle: ycombinator
 sort: ycombinator

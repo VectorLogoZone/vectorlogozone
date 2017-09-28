@@ -1,5 +1,5 @@
 ---
-blog: https://blog.blah.com/
+blog: https://blog.roku.com/index
 facebook: https://www.facebook.com/roku
 github: rokudev
 logohandle: roku

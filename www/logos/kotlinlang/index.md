@@ -1,5 +1,5 @@
 ---
-blog: https://blog.blah.com/
+blog: http://blog.jetbrains.com/kotlin
 github: JetBrains/kotlin
 logohandle: kotlinlang
 sort: kotlin

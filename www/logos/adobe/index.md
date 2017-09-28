@@ -1,7 +1,7 @@
 ---
 blog: https://blogs.adobe.com/
 facebook: https://www.facebook.com/adobe
-github: blah
+github: adobe
 logohandle: adobe
 sort: adobe
 title: Adobe

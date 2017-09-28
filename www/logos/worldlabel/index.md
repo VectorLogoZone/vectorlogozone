@@ -9,5 +9,4 @@ tags:
 title: WorldLabel
 twitter: worldlabel
 website: http://www.worldlabel.com/
-#wikipedia: https://wikipedia/blah
 ---

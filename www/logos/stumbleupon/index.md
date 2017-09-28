@@ -1,6 +1,5 @@
 ---
-blog: https://blog.blah.com/
-facebook: https://www.facebook.com/blah
+blog: http://www.stumbleupon.com/blog
 github: stumbleupon
 logohandle: stumbleupon
 sort: stumbleupon

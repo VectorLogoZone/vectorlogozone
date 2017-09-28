@@ -1,5 +1,4 @@
 ---
-#facebook: https://www.facebook.com/blah
 github: ImageMagick
 layout: default
 logohandle: imagemagick

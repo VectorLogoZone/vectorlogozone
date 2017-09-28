@@ -1,7 +1,5 @@
 ---
 blog: http://blog.pinboard.in/
-#facebook: https://www.facebook.com/blah
-#github: blahhandle
 layout: default
 logohandle: pinboard
 sort: pinboard

@@ -7,5 +7,4 @@ sort: flyio
 title: Fly.io
 twitter: flydotio
 website: https://fly.io/
-wikipedia: https://en.wikipedia.org/wiki/blah
 ---

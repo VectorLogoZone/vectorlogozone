@@ -7,5 +7,5 @@ sort: cloud9
 title: Cloud9
 twitter: cloud9ide
 website: https://c9.io/
-wikipedia: https://en.wikipedia.org/wiki/blah
+wikipedia: https://en.wikipedia.org/wiki/Cloud9_IDE
 ---

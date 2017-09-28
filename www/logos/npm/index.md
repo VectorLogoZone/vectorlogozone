@@ -1,6 +1,5 @@
 ---
 blog: https://blog.npmjs.com/
-facebook: https://www.facebook.com/blah
 github: npm
 logohandle: npmjs
 sort: npmjs

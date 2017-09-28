@@ -8,9 +8,9 @@ logohandle: hockeyapp
 skipped: 0
 sort: hockeyapp
 tags:
-- new
+- mobile
+- saas
 title: HockeyApp
 twitter: mobilecenter
 website: https://hockeyapp.net/
-wikipedia: https://wikipedia/blah
 ---
