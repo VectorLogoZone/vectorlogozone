@@ -63,6 +63,11 @@
   url: https://lunrjs.com/
   id: lunrjs
 
+- name: Travis CI
+  description: Continuous integration and deployment
+  url: https://travis-ci.org/
+  id: travis-ci
+
 - name: W3C Markup Validation Service
   description: HTML file validation
   url: https://validator.w3.org/
