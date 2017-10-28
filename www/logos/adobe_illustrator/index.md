@@ -5,6 +5,6 @@ logohandle: adobe_illustrator
 sort: illustrator
 title: Adobe Illustrator
 twitter: Illustrator
-website: www.adobe.com/products/illustrator.html
+website: https://www.adobe.com/products/illustrator.html
 wikipedia: https://en.wikipedia.org/wiki/Adobe_Illustrator
 ---
