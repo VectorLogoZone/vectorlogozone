@@ -14,3 +14,5 @@ title: HockeyApp
 twitter: mobilecenter
 website: https://hockeyapp.net/
 ---
+
+[Brand Guidelines](https://www.hockeyapp.net/brand-guidelines/)

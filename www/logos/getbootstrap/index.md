@@ -1,4 +1,6 @@
 ---
+blog: https://blog.getbootstrap.com/
+github: twbs/bootstrap
 images:
 - getbootstrap-icon.svg
 - getbootstrap-card.png
@@ -10,5 +12,6 @@ sort: bootstrap
 tags:
 - webdesign
 title: Bootstrap
+twitter: getbootstrap
 website: http://getbootstrap.com/
 ---

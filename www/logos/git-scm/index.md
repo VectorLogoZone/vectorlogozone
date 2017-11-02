@@ -1,4 +1,6 @@
 ---
+blog: https://git-scm.com/blog
+github: git
 images:
 - git-scm-ar21.svg
 - git-scm-icon.svg
@@ -11,6 +13,7 @@ tags:
 - version_control
 title: git
 website: https://git-scm.com/
+wikipedia: https://en.wikipedia.org/wiki/Git
 ---
 
 [Official Logos](http://git-scm.com/downloads/logos) Page

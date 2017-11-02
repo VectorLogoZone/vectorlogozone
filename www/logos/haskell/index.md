@@ -1,5 +1,6 @@
 ---
 category: default
+github: haskell-infra/hl
 images:
 - haskell-ar21.svg
 - haskell-card.png
@@ -15,6 +16,7 @@ tags:
 - programming_language
 title: Haskell
 website: https://www.haskell.org/
+wikipedia: https://en.wikipedia.org/wiki/Haskell_(programming_language)
 ---
 
 This is the [Thompson-Wheeler logo](http://www.haskell.org/haskellwiki/Thompson-Wheeler_logo) from the Haskell wiki.

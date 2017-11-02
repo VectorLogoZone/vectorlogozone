@@ -1,4 +1,5 @@
 ---
+blog: https://blogs.apache.org/
 images:
 - apache-ar21.svg
 - apache-card.png
@@ -10,6 +11,7 @@ sort: apache software foundation
 tags:
 - programming_library
 title: Apache Software Foundation
+twitter: TheASF
 website: http://apache.org/
 ---
 

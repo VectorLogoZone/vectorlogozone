@@ -18,10 +18,10 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  - [ ] 404 page should have link to search (or redirect to search with flash message)
  - [ ] fill in more metadata links (see the [links report](https://www.vectorlogo.zone/logos/metadata.html))
  - [ ] convert logos/index.html tabs based on first letter
- - [ ] expose template.md as /request.txt, note about adding new logos
- - [ ] inventory to skip ones with 0 images
+ - [ ] /templates/ directory with image (and index.md) templates
+ - [ ] credit: ImageMagick (when logo done)
+ - [ ] credit: rsvg (when logo done)
  - [ ] png's (embedded in svg) for ar21, icon for hard ones
- - [ ] travis: run subprograms
  - [ ] redirect for 404 in /logos/
  - [ ] separate site w/dynamic svg's based on parameters
 
@@ -69,6 +69,8 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * Google+
  * Youtube
  * LinkedIn
+ * Flickr
+ * Slack
 
 ## Logos that need work
  - [ ] itext logo has a bit of white (on top of the 'x' and right of the 2nd 't')
@@ -88,34 +90,19 @@ The `mkcard.sh` script needs rsvg and imagemagick: `sudo apt-get install librsvg
  * addthis
  * adobe flex
  * async.js
- * ATOM
- * chrome
  * common lisp
  * daynightoverlay (new)
- * Federal Reserve
- * firefox
  * fugue icons (new?)
  * google guava (new)
  * gnome
  * haproxy
  * hyper.sh
  * icondrawer
- * ietf
  * macosx
- * MapQuest
- * marcuse.org (at least icon)
- * Microsoft - Segoe
- * Mozilla
- * Postman
- * Pusher
- * rsvg
- * safari
- * [svg](https://www.w3.org/2009/08/svg-logos.html)
  * SEPTA
  * s3cmd (new?)
  * styleshout
  * tango icons
  * US Census Burean (census.gov)
  * varnish
- * wordpress
 

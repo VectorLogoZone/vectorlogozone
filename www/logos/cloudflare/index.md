@@ -1,4 +1,7 @@
 ---
+blog: https://blog.cloudflare.com/
+facebook: https://www.facebook.com/Cloudflare/
+github: cloudflare
 images:
 - cloudflare-official.svg
 - cloudflare-card.png
@@ -10,6 +13,8 @@ sort: cloudflare
 tags:
 - cdn
 - service
-title: CloudFlare
+title: Cloudflare
+twitter: Cloudflare
 website: https://www.cloudflare.com/
+wikipedia: https://en.wikipedia.org/wiki/Cloudflare
 ---

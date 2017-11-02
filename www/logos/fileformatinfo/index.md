@@ -1,4 +1,5 @@
 ---
+blog: http://blog.fileformat.info/
 category: service
 images:
 - fileformatinfo-vertical.svg

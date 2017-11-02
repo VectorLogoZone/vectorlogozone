@@ -1,5 +1,8 @@
 ---
+blog: https://blog.digitalocean.com/
 category: service
+facebook: https://www.facebook.com/DigitalOceanCloudHosting
+github: digitalocean
 images:
 - digitalocean-wordmark.svg
 - digitalocean-horizontal.svg
@@ -13,7 +16,9 @@ sort: digital ocean
 tags:
 - hosting
 title: Digital Ocean
-website: https://www.cloudflare.com/
+twitter: digitalocean
+website: https://www.digitalocean.com/
+wikipedia: https://en.wikipedia.org/wiki/DigitalOcean
 ---
 
 DigitalOcean has a page with [various logos](https://www.digitalocean.com/badges-and-logos), but the vector links are broken as of 19-July-2013.

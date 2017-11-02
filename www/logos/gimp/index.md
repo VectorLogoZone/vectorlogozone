@@ -1,4 +1,6 @@
 ---
+blog: https://www.gimp.org/news/
+facebook: https://www.facebook.com/gimpofficial/
 images:
 - gimp-wordmark.svg
 - gimp-card.png
@@ -12,5 +14,7 @@ tags:
 - graphics
 - software
 title: Gimp
+twitter: gimp_official
 website: https://www.gimp.org/
+wikipedia: https://en.wikipedia.org/wiki/GIMP
 ---

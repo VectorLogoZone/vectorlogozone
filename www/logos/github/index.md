@@ -1,5 +1,7 @@
 ---
+blog: https://github.com/blog
 category: services
+github: github
 images:
 - github-ar21.svg
 - github-icon.svg
@@ -11,7 +13,9 @@ sort: github
 tags:
 - version_control
 title: Github
+twitter: github
 website: https://github.com/
+wikipedia: https://en.wikipedia.org/wiki/GitHub
 ---
 
 Github has a [media repository](https://github.com/github/media), natch, with vector version in Adobe Illustrator \(.ai\) format.
