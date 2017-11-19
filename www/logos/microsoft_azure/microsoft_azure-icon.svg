@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 31.999997 31.999999"
+   version="1.1"
+   sodipodi:docname="microsoft_azure-icon.svg"
+   width="32"
+   height="32"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>azurelogostacked</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="2.3126513"
+     inkscape:cx="65.137005"
+     inkscape:cy="43.526848"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#29a5de;}</style>
+  </defs>
+  <title
+     id="title6">azurelogostacked</title>
+  <g
+     id="g851"
+     transform="matrix(0.08063656,0,0,0.08063656,50.398095,41.188501)"
+     style="fill:#035bda;fill-opacity:1">
+    <path
+       sodipodi:nodetypes="cccccc"
+       inkscape:connector-curvature="0"
+       id="path7291"
+       d="m -378.62991,-420.48098 -58.69951,118.22096 103.3448,119.77796 -191.80783,21.77515 297.63174,3.11402 z"
+       style="fill:#035bda;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.77952766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path7293"
+       d="m -390.20501,-467.14856 -134.75989,112.77802 -100.03813,168.77774 85.15636,-8.55693 z"
+       style="fill:#035bda;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.77952766px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+</svg>
