@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg2"
-   height="32mm"
-   width="32mm"
+   height="32"
+   width="32"
    version="1.1"
-   viewBox="0 0 113.38366 113.38472"
-   sodipodi:docname="graphQL-icon.svg"
+   viewBox="0 0 29.999424 29.999704"
+   sodipodi:docname="graphql-icon.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <defs
      id="defs24" />
@@ -31,13 +31,14 @@
      inkscape:window-height="1001"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="0.75690928"
-     inkscape:cx="62.755209"
-     inkscape:cy="64.000631"
+     inkscape:zoom="6.0552742"
+     inkscape:cx="-18.970809"
+     inkscape:cy="21.27073"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
+     inkscape:current-layer="svg2"
+     units="px" />
   <metadata
      id="metadata7">
     <rdf:RDF>
@@ -53,7 +54,7 @@
   <g
      style="fill:#e10098"
      id="g5464"
-     transform="matrix(0.29747296,0,0,0.29747296,-2.8027636,-2.8022336)">
+     transform="matrix(0.07660803,0,0,0.07660803,-0.321894,-0.321754)">
     <path
        id="path5444"
        d="m 57.468,302.66 -14.376,-8.3 160.15,-277.38 14.376,8.3 z"

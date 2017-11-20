@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg12"
+   sodipodi:docname="js_webpack-icon.svg"
+   width="32"
+   height="32"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo-on-white-bg</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs16" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview14"
+     showgrid="false"
+     inkscape:zoom="2.7701736"
+     inkscape:cx="159.94447"
+     inkscape:cy="25.11724"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12" />
+  <title
+     id="title2">logo-on-white-bg</title>
+  <g
+     id="g912"
+     transform="matrix(0.98024356,0,0,0.98024356,-4.6143452,-13.407307)">
+    <path
+       id="path6-0"
+       d="M 34.841486,38.837727 21.610907,46.322474 V 40.494257 L 29.854533,35.95831 Z M 35.7478,38.018135 V 22.367812 l -4.839495,2.797023 V 35.225447 Z M 7.2181628,38.837727 20.448731,46.322474 V 40.494257 L 12.20077,35.95831 Z M 6.3118392,38.018135 V 22.367812 l 4.8395038,2.797023 V 35.225447 Z M 6.8799235,21.353079 20.448731,13.677526 v 5.633076 l -8.694624,4.783126 -0.0694,0.03904 z m 28.2998015,0 -13.568818,-7.675553 v 5.633076 l 8.694625,4.77879 0.0694,0.03903 z"
+       inkscape:connector-curvature="0"
+       style="fill:#8ed6fb;stroke-width:0.0433647" />
+    <path
+       id="path8-8"
+       d="m 20.448731,39.42315 -8.135212,-4.475237 v -8.85941 l 8.135212,4.696398 z m 1.162176,0 8.135222,-4.470901 v -8.863746 l -8.135222,4.696398 z m -0.581083,-8.976492 z m -8.165584,-5.381562 8.165584,-4.488247 8.165575,4.488247 -8.165575,4.713745 z"
+       inkscape:connector-curvature="0"
+       style="fill:#1c78c0;stroke-width:0.0433647" />
+  </g>
+</svg>
