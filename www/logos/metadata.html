@@ -8,6 +8,12 @@ layout: default
 {% capture checkon %}<i class="fa fa-check"></i>{% endcapture %}
 {% capture checkoff %}<i class="fa fa-fw"></i>{% endcapture %}
 {% assign logocount = 0 %}
+{% assign blogcount = 0 %}
+{% assign facebookcount = 0 %}
+{% assign githubcount = 0 %}
+{% assign twittercount = 0 %}
+{% assign websitecount = 0 %}
+{% assign wikipediacount = 0 %}
 
 <table class="table table-striped table-bordered">
 	<thead>
@@ -27,25 +33,45 @@ layout: default
 			<!--<td>[{{ logopage.logohandle }}]</td>-->
 			<td><a href="{{logopage.url}}">{{logopage.title}}</a></td>
 			<td class="text-center">
-				{% if logopage.blog %}<a href="{{logopage.blog}}">{{ checkon }}</a>{% else %}{{ checkoff }}{% endif %}
+				{% if logopage.blog %}<a href="{{logopage.blog}}">{{ checkon }}{% assign blogcount = blogcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
 			<td class="text-center">
-				    {% if logopage.facebook %}<a href="{{logopage.facebook}}">{{ checkon }}</a>{% else %}{{ checkoff }}{% endif %}
+				    {% if logopage.facebook %}<a href="{{logopage.facebook}}">{{ checkon }}{% assign facebookcount = facebookcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
 			<td class="text-center">
-				    {% if logopage.github %}<a href="https://www.github.com/{{logopage.github}}">{{ checkon }}</a>{% else %}{{ checkoff }}{% endif %}
+				    {% if logopage.github %}<a href="https://www.github.com/{{logopage.github}}">{{ checkon }}{% assign githubcount = githubcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
 			<td class="text-center">
-				    {% if logopage.twitter %}<a href="https://www.twitter.com/{{logopage.twitter}}">{{ checkon }}</a>{% else %}{{ checkoff }}{% endif %}
+				    {% if logopage.twitter %}<a href="https://www.twitter.com/{{logopage.twitter}}">{{ checkon }}{% assign twittercount = twittercount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
 			<td class="text-center">
-				    {% if logopage.website %}<a href="{{logopage.website}}">{{ checkon }}</a>{% else %}{{ checkoff }}{% endif %}
+				    {% if logopage.website %}<a href="{{logopage.website}}">{{ checkon }}{% assign websitecount = websitecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
 			<td class="text-center">
-				    {% if logopage.wikipedia %}<a href="{{logopage.wikipedia}}">{{ checkon }}</a>{% else %}{{ checkoff }}{% endif %}
+				    {% if logopage.wikipedia %}<a href="{{logopage.wikipedia}}">{{ checkon }}{% assign wikipediacount = wikipediacount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
 		</tr>
 {% endif %}{% endfor %}
+    <tr>
+        <!--<td>[{{ logopage.logohandle }}]</td>-->
+        <td>&nbsp;</td>
+        <td class="text-center">{{blogcount}} ({{ blogcount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{facebookcount}} ({{ facebookcount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{githubcount}} ({{ githubcount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{twittercount}} ({{ twittercount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{websitecount}} ({{ websitecount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{wikipediacount}} ({{ wikipediacount | times:100 | divided_by: logocount}}%)</td>
+    </tr>
+    <tr>
+        <!--<th>ID</th>-->
+        <th>&nbsp;</th>
+        <th style="text-align:center">Blog</th>
+        <th style="text-align:center">Facebook</th>
+        <th style="text-align:center">Github</th>
+        <th style="text-align:center">Twitter</th>
+        <th style="text-align:center">Website</th>
+        <th style="text-align:center">Wikipedia</th>
+    </tr>
 	</tbody>
 </table>
 
