@@ -28,17 +28,11 @@ redirect_from:
 {% assign sorted_pages = site.pages | sort:'sort' %}{% assign current_slide = 0 %}
 <div class="row">
 <div id="carousel-logos" class="carousel slide" data-ride="carousel">
-	<!-- Indicators -->
-		<ol class="carousel-indicators visible-lg-block">
-{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
-			<li data-target="#carousel-logos" data-slide-to="{{current_slide}}" {% if logopage.logohandle == 'amazon_aws' %}class="active"{% endif %}></li>
-{% assign current_slide = current_slide|plus:1 %}{% endif %}{% endif %}{% endfor %}
-	</ol>
 
 	<!-- Wrapper for slides -->
 	<div class="carousel-inner" role="listbox">
 {% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
-		<div class="item{% if logopage.logohandle == 'amazon_aws' %} active{% endif %}">
+		<div class="item{% if logopage.logohandle == '1and1' %} active{% endif %}">
 			<a href="/logos/{{logopage.logohandle}}/index.html"><img src="/logos/{{logopage.logohandle}}/{{logopage.logohandle}}-ar21.svg" style="width:100%;" alt="{{logopage.title}}" /></a>
 		</div>
 {% endif %}{% endif %}{% endfor %}
