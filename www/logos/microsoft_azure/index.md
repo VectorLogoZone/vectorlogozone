@@ -7,5 +7,5 @@ sort: azure
 title: Microsoft Azure
 twitter: azure
 website: https://azure.microsoft.com/en-us/
-wikipedia: https://en.wikipedia.org/wiki/blah
+wikipedia: https://en.wikipedia.org/wiki/Microsoft_Azure
 ---

@@ -6,5 +6,5 @@ sort: wikisource
 title: Wikisource
 twitter: wikisource
 website: https://en.wikisource.org/wiki/Main_Page
-wikipedia: https://en.wikipedia.org/wiki/blah
+wikipedia: https://en.wikipedia.org/wiki/Wikisource
 ---

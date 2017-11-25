@@ -2,3 +2,6 @@ _site/
 tmp/
 *~
 .idea/
+work-in-progress/
+bin/vlz-todo.tgz
+.jekyll-metadata
