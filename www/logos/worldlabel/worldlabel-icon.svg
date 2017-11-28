@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 32 32"
+   xml:space="preserve"
+   sodipodi:docname="worldlabel-icon.svg"
+   width="32"
+   height="32"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><metadata
+     id="metadata55"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs53" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview51"
+     showgrid="false"
+     inkscape:zoom="3.761995"
+     inkscape:cx="4.0160059"
+     inkscape:cy="68.203315"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" /><style
+     type="text/css"
+     id="style2">
+	.st0{fill:#3A3A3A;}
+	.st1{fill:#D12027;}
+	.st2{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st3{fill:#FFFFFF;}
+</style><g
+     id="g915"
+     transform="matrix(0.56046494,0,0,0.56046494,-17.559811,4.3885547)"><polygon
+       transform="matrix(0.14291728,0,0,0.14291728,19.625868,-5.600694)"
+       style="fill:#d12027"
+       id="polygon40"
+       points="481.4,184.5 281.6,268.8 81.9,184.5 282.4,99.5 "
+       class="st1" /><polygon
+       transform="matrix(0.14291728,0,0,0.14291728,19.625868,-5.600694)"
+       style="fill:#3a3a3a"
+       id="polygon42"
+       points="81.9,184.5 281.6,268.8 339.7,244.3 "
+       class="st0" /><path
+       style="fill:none;stroke:#000000;stroke-width:0.14291728;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path44"
+       d="M 67.260197,21.968049"
+       class="st2" /><path
+       style="fill:none;stroke:#000000;stroke-width:0.14291728;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path46"
+       d="M 39.362744,9.8200806"
+       class="st2" /><path
+       style="fill:#ffffff;stroke-width:0.14291728"
+       inkscape:connector-curvature="0"
+       id="path48"
+       d="m 68.131993,29.342581 c 0,0 -5.859609,-2.272385 -0.871796,-7.374532 L 31.345085,20.767544 Z"
+       class="st3" /></g></svg>
