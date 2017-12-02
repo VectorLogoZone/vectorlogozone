@@ -1,7 +1,11 @@
 ---
 blog: http://cordova.apache.org/blog
 github: apache/cordova-js
+images:
+- apache_cordova-icon.svg
+- apache_cordova-ar21.svg
 logohandle: apache_cordova
+skipped: 0
 sort: cordova
 title: Apache Cordova
 website: hhttps://cordova.apache.org/

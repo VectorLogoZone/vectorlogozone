@@ -1,7 +1,11 @@
 ---
 blog: https://blog.wikimedia.org/c/wikisource/
 github: wikisource
+images:
+- wikisource-icon.svg
+- wikisource-ar21.svg
 logohandle: wikisource
+skipped: 0
 sort: wikisource
 title: Wikisource
 twitter: wikisource

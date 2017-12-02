@@ -2,7 +2,11 @@
 blog: https://www.mongodb.com/blog
 facebook: https://facebook.com/mongodb
 github: mongodb
+images:
+- mongodb-icon.svg
+- mongodb-ar21.svg
 logohandle: mongodb
+skipped: 0
 sort: mongodb
 title: MongoDB
 twitter: MongoDB

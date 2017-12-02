@@ -1,6 +1,10 @@
 ---
 github: letsencrypt
+images:
+- letsencrypt-icon.svg
+- letsencrypt-ar21.svg
 logohandle: letsencrypt
+skipped: 0
 sort: letsencrypt
 title: Let's Encrypt
 twitter: letsencrypt

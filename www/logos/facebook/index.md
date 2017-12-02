@@ -1,7 +1,12 @@
 ---
 facebook: https://www.facebook.com/facebook
 github: facebook
+images:
+- facebook-icon.svg
+- facebook-tile.svg
+- facebook-ar21.svg
 logohandle: facebook
+skipped: 0
 sort: facebook
 title: Facebook
 twitter: facebook

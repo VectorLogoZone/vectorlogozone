@@ -2,7 +2,12 @@
 blog: https://blog.linkedin.com/
 facebook: https://www.facebook.com/LinkedIn/
 github: linkedin
+images:
+- linkedin-icon.svg
+- linkedin-tile.svg
+- linkedin-ar21.svg
 logohandle: linkedin
+skipped: 0
 sort: linkedin
 title: LinkedIn
 twitter: linkedin

@@ -2,7 +2,11 @@
 blog: https://www.raspberrypi.org/blog/
 facebook: https://www.facebook.com/raspberrypi
 github: raspberrypi
+images:
+- raspberrypi-ar21.svg
+- raspberrypi-icon.svg
 logohandle: raspberrypi
+skipped: 0
 sort: raspberrypi
 title: Raspberry Pi
 twitter: Raspberry_Pi

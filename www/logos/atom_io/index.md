@@ -1,7 +1,11 @@
 ---
 blog: http://blog.atom.io/
 github: atom/atom
+images:
+- atom_io-icon.svg
+- atom_io-ar21.svg
 logohandle: atom_io
+skipped: 0
 sort: atomeditor
 title: Atom Editor
 twitter: AtomEditor

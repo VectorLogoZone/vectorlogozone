@@ -2,6 +2,7 @@
 facebook: https://www.facebook.com/google
 github: google
 images:
+- google-tile.svg
 - google-icon.svg
 - google-ar21.svg
 layout: default

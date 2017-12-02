@@ -1,7 +1,11 @@
 ---
 blog: http://blog.pinboard.in/
+images:
+- pinboard-icon.svg
+- pinboard-ar21.svg
 layout: default
 logohandle: pinboard
+skipped: 0
 sort: pinboard
 tags:
 - new

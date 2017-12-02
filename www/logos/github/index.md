@@ -4,6 +4,7 @@ category: services
 github: github
 images:
 - github-ar21.svg
+- github-tile.svg
 - github-icon.svg
 - github-card.png
 layout: default

@@ -1,7 +1,11 @@
 ---
 blog: https://www.linux.com/news
 github: torvalds/linux
+images:
+- linux-icon.svg
+- linux-ar21.svg
 logohandle: linux
+skipped: 0
 sort: linux
 title: Linux
 twitter: linus__torvalds

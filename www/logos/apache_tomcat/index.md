@@ -1,8 +1,12 @@
 ---
 blog: http://blogs.apache.org/tomcat/
 github: apache/tomcat
+images:
+- apache_tomcat-icon.svg
+- apache_tomcat-ar21.svg
 layout: default
 logohandle: apache_tomcat
+skipped: 1
 sort: tomcat
 tags:
 - java

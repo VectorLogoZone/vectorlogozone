@@ -1,6 +1,7 @@
 ---
 images:
 - ubuntu-card.png
+- ubuntu-tile.svg
 - ubuntu-ar21.svg
 - ubuntu-icon.svg
 logohandle: ubuntu

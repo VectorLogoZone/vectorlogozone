@@ -4,6 +4,7 @@ category: service
 facebook: https://www.facebook.com/DigitalOceanCloudHosting
 github: digitalocean
 images:
+- digitalocean-tile.svg
 - digitalocean-wordmark.svg
 - digitalocean-horizontal.svg
 - digitalocean-card.png

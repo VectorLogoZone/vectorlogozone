@@ -2,7 +2,11 @@
 blog: https://firebase.googleblog.com/
 facebook: https://www.facebook.com/Firebase/
 github: firebase
+images:
+- firebase-ar21.svg
+- firebase-icon.svg
 logohandle: firebase
+skipped: 0
 sort: firebase
 title: Firebase
 twitter: Firebase

@@ -1,6 +1,10 @@
 ---
 github: antirez/redis
+images:
+- redis-ar21.svg
+- redis-icon.svg
 logohandle: redis
+skipped: 0
 sort: redis
 title: Redis
 twitter: redisfeed

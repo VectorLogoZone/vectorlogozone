@@ -2,7 +2,11 @@
 blog: https://slackhq.com/
 facebook: https://www.facebook.com/slackhq
 github: slackhq
+images:
+- slack-icon.svg
+- slack-ar21.svg
 logohandle: slack
+skipped: 0
 sort: slack
 title: Slack
 twitter: slackhq

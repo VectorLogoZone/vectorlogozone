@@ -5,6 +5,7 @@ github: cloudflare
 images:
 - cloudflare-official.svg
 - cloudflare-card.png
+- cloudflare-tile.svg
 - cloudflare-icon.svg
 - cloudflare-ar21.svg
 logohandle: cloudflare
