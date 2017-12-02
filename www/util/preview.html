@@ -91,6 +91,8 @@ layout: none
 			$("#preview-image").bind('load', function(e) {
 			    console.log("INFO: image loaded");
                 var img = $("#preview-image")[0];
+                img.width = img.naturalWidth;
+                img.height = img.naturalHeight;
                 var vibrant = new Vibrant(img);
                 var swatches = vibrant.swatches();
                 var content = $("<div>");
