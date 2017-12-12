@@ -20,7 +20,7 @@
 
 - id: tile
   title: Tile
-  description: Larget tile with background (to look good with any background color)
+  description: Large tile with background (to look good with any background color)
   height: 512
   width: 512
   padding: false
