@@ -34,6 +34,19 @@ layout: default
 		</tr>
 {% endif %}{% endfor %}
 	</tbody>
+    <tfoot>
+        <tr>
+            <td style="text-align:right;">Total:</td>
+            {% for imagetype in site.data.imagetype %}
+                {% assign typecount = 0 %}
+                {% for logopage in sorted_pages %}{% if logopage.logohandle %}
+                    {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if logopage.images contains logofile %}{% assign typecount = typecount | plus:1 %}{% endif %}
+                {% endif %}{% endfor %}
+                <td style="text-align:center;">{{typecount}}</td>
+            {% endfor %}
+            <td>&nbsp;</td>
+        </tr>
+    </tfoot>
 </table>
 
 <p>{{ logocount }} logos</p>
