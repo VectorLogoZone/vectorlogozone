@@ -1,4 +1,5 @@
 ---
+guide: http://www.oracle.com/us/technologies/java/java-licensing-logo-guidelines-1908204.pdf
 images:
 - java-horizontal.svg
 - java-card.png
@@ -15,7 +16,4 @@ tags:
 title: Java
 website: https://www.java.com/
 ---
-
-[Official Branding Guidelines](http://www.oracle.com/us/technologies/java/java-licensing-logo-guidelines-1908204.pdf)
-
 [Source](https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg)

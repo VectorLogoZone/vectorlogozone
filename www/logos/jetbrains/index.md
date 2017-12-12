@@ -2,6 +2,7 @@
 blog: https://blog.jetbrains.com/
 facebook: https://www.facebook.com/JetBrains
 github: JetBrains
+guide: https://www.jetbrains.com/company/brand/#section=images-logos
 logohandle: jetbrains
 sort: jetbrains
 tags:
@@ -10,5 +11,3 @@ title: JetBrains
 twitter: jetbrains
 website: http://www.jetbrains.com/
 ---
-
-Official [branding guidelines](https://www.jetbrains.com/company/brand/#section=images-logos)

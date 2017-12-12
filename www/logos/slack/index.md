@@ -2,6 +2,7 @@
 blog: https://slackhq.com/
 facebook: https://www.facebook.com/slackhq
 github: slackhq
+guide: https://slack.com/brand-guidelines
 images:
 - slack-icon.svg
 - slack-ar21.svg
@@ -13,5 +14,3 @@ twitter: slackhq
 website: https://slack.com/
 wikipedia: https://en.wikipedia.org/wiki/Slack_(software)
 ---
-
-[Brand Guidelines](https://slack.com/brand-guidelines)

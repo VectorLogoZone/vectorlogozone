@@ -1,5 +1,6 @@
 ---
 facebook: https://facebook.com/hockeyapp
+guide: https://www.hockeyapp.net/brand-guidelines/
 images:
 - hockeyapp-ar21.svg
 - hockeyapp-icon.svg
@@ -14,5 +15,3 @@ title: HockeyApp
 twitter: mobilecenter
 website: https://hockeyapp.net/
 ---
-
-[Brand Guidelines](https://www.hockeyapp.net/brand-guidelines/)

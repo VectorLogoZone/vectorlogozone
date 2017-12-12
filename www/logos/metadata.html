@@ -11,6 +11,7 @@ layout: default
 {% assign blogcount = 0 %}
 {% assign facebookcount = 0 %}
 {% assign githubcount = 0 %}
+{% assign guidecount = 0 %}
 {% assign twittercount = 0 %}
 {% assign websitecount = 0 %}
 {% assign wikipediacount = 0 %}
@@ -23,6 +24,7 @@ layout: default
 			<th style="text-align:center">Blog</th>
 			<th style="text-align:center">Facebook</th>
 			<th style="text-align:center">Github</th>
+            <th style="text-align:center">Guidelines</th>
 			<th style="text-align:center">Twitter</th>
 			<th style="text-align:center">Website</th>
 			<th style="text-align:center">Wikipedia</th>
@@ -41,6 +43,9 @@ layout: default
 			<td class="text-center">
 				    {% if logopage.github %}<a href="https://www.github.com/{{logopage.github}}">{{ checkon }}{% assign githubcount = githubcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
+            <td class="text-center">
+                {% if logopage.guide %}<a href="{{logopage.guide}}">{{ checkon }}{% assign guidecount = guidecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
 			<td class="text-center">
 				    {% if logopage.twitter %}<a href="https://www.twitter.com/{{logopage.twitter}}">{{ checkon }}{% assign twittercount = twittercount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
@@ -58,6 +63,7 @@ layout: default
         <td class="text-center">{{blogcount}} ({{ blogcount | times:100 | divided_by: logocount}}%)</td>
         <td class="text-center">{{facebookcount}} ({{ facebookcount | times:100 | divided_by: logocount}}%)</td>
         <td class="text-center">{{githubcount}} ({{ githubcount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{guidecount}} ({{ guidecount | times:100 | divided_by: logocount}}%)</td>
         <td class="text-center">{{twittercount}} ({{ twittercount | times:100 | divided_by: logocount}}%)</td>
         <td class="text-center">{{websitecount}} ({{ websitecount | times:100 | divided_by: logocount}}%)</td>
         <td class="text-center">{{wikipediacount}} ({{ wikipediacount | times:100 | divided_by: logocount}}%)</td>
@@ -68,6 +74,7 @@ layout: default
         <th style="text-align:center">Blog</th>
         <th style="text-align:center">Facebook</th>
         <th style="text-align:center">Github</th>
+        <th style="text-align:center">Guidelines</th>
         <th style="text-align:center">Twitter</th>
         <th style="text-align:center">Website</th>
         <th style="text-align:center">Wikipedia</th>

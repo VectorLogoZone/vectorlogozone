@@ -1,6 +1,7 @@
 ---
 facebook: https://www.facebook.com/patreon
 github: patreon
+guide: https://www.patreon.com/brand/guidelines
 images:
 - patreon-ar21.svg
 - patreon-icon.svg
@@ -16,5 +17,3 @@ twitter: patreon
 website: https://www.patreon.com/
 wikipedia: https://en.wikipedia.org/wiki/Patreon
 ---
-
-(Brand guidelines)[https://www.patreon.com/brand/guidelines]
