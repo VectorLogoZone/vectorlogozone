@@ -9,6 +9,7 @@ install:
   - sudo apt-get install -y librsvg2-bin imagemagick
   - sudo apt-get install python3-pip
   - sudo python3 -m pip install python-frontmatter
+  - gem install ruby_dep -v 1.3.1
   - gem install jekyll
   - gem install jekyll-redirect-from
 before_script:
