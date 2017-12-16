@@ -1,4 +1,7 @@
 ---
+blog: https://blogs.msdn.microsoft.com/dotnet/
+facebook: https://www.facebook.com/Dotnet
+github: dotnet
 images:
 - dotnet-vertical.svg
 - dotnet-card.png
@@ -12,5 +15,7 @@ tags:
 - programming_language
 - programming_library
 title: Microsoft .Net
+twitter: dotnet
 website: http://www.microsoft.com/net
+wikipedia: https://en.wikipedia.org/wiki/.NET_Framework
 ---

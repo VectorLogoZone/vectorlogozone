@@ -1,4 +1,6 @@
 ---
+blog: http://blog.jquery.com/
+github: jquery
 images:
 - jquery-wordmark.svg
 - jquery-vertical.svg
@@ -15,7 +17,9 @@ tags:
 - programming_library
 - javascript
 title: jQuery
+twitter: jquery
 website: https://jquery.com/
+wikipedia: https://en.wikipedia.org/wiki/JQuery
 ---
 
 Original logo from [Wikipedia](https://en.wikipedia.org/wiki/File:JQuery_logo.svg)

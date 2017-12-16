@@ -15,5 +15,6 @@ tags:
 - programming_language
 title: Java
 website: https://www.java.com/
+wikipedia: https://en.wikipedia.org/wiki/Java_(programming_language)
 ---
 [Source](https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg)

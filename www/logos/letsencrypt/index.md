@@ -1,4 +1,5 @@
 ---
+blog: https://letsencrypt.org/blog/
 github: letsencrypt
 images:
 - letsencrypt-icon.svg

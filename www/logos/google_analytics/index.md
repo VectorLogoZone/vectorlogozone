@@ -1,4 +1,5 @@
 ---
+blog: https://analytics.googleblog.com/
 images:
 - google_analytics-ar21.svg
 - google_analytics-official.svg
@@ -12,5 +13,6 @@ tags:
 - service
 - analytics
 title: Google Analytics
+twitter: googleanalytics
 website: https://www.google.com/analytics/
 ---

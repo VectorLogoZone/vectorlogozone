@@ -1,4 +1,5 @@
 ---
+blog: https://www.haskell.org/news
 category: default
 github: haskell-infra/hl
 images:

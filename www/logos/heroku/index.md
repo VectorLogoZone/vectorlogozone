@@ -1,5 +1,8 @@
 ---
+blog: https://blog.heroku.com/feed
+facebook: https://facebook.com/heroku
 github: heroku
+guide: https://brand.heroku.com/
 images:
 - heroku-icon.svg
 - heroku-ar21.svg
@@ -13,6 +16,7 @@ tags:
 title: Heroku
 twitter: heroku
 website: https://www.heroku.com/
+wikipedia: https://en.wikipedia.org/wiki/Heroku
 ---
 
 They have a [brand design doc](https://logo.heroku.com/).

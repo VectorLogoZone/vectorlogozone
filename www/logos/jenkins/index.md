@@ -1,5 +1,6 @@
 ---
 github: jenkinsci
+guide: https://wiki.jenkins-ci.org/display/JENKINS/Logo
 images:
 - jenkins-official.svg
 - jenkins-ar21.svg
@@ -15,6 +16,5 @@ tags:
 title: The Jenkins Project
 twitter: jenkinsci
 website: https://jenkins.io/
+wikipedia: https://en.wikipedia.org/wiki/Jenkins_(software)
 ---
-
-[https://wiki.jenkins-ci.org/display/JENKINS/Logo](Official logo page)

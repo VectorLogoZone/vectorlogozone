@@ -1,4 +1,5 @@
 ---
+blog: https://blog.patreon.com/
 facebook: https://www.facebook.com/patreon
 github: patreon
 guide: https://www.patreon.com/brand/guidelines

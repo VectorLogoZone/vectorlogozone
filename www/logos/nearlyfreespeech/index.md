@@ -1,4 +1,5 @@
 ---
+blog: http://blog.nearlyfreespeech.net/
 category: hosting
 images:
 - nearlyfreespeech-card.png

@@ -1,4 +1,6 @@
 ---
+blog: http://www.erlang.org/news
+github: erlang
 images:
 - erlang-vertical.svg
 - erlang-horizontal.svg
@@ -7,12 +9,15 @@ images:
 - erlang-icon.svg
 - erlang-official.svg
 logohandle: erlang
+legal: https://bugs.erlang.org/browse/ERL-41
 skipped: 0
 sort: erlang
 tags:
 - programming_language
 title: Erlang
+twitter: erlang_org
 website: http://www.erlang.org/
+wikipedia: https://en.wikipedia.org/wiki/Erlang_(programming_language)
 ---
 
 Font is [Futura SC Demi](http://www.myfonts.com/fonts/urw/futura/sctdem/?refby=vectorlogozone)

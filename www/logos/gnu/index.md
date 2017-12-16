@@ -1,4 +1,6 @@
 ---
+blog: http://planet.gnu.org/
+guide: https://www.gnu.org/graphics/heckert_gnu.html
 images:
 - gnu-icon.svg
 - gnu-ar21.svg

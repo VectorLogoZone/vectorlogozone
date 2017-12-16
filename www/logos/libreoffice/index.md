@@ -1,4 +1,6 @@
 ---
+facebook: https://www.facebook.com/libreoffice.org
+guide: https://wiki.documentfoundation.org/Marketing/Branding
 images:
 - libreoffice-ar21.svg
 - libreoffice-official.svg
@@ -10,11 +12,11 @@ sort: libreoffice
 tags:
 - software
 title: LibreOffice
+twitter: libreoffice
 website: http://www.libreoffice.org/
+wikipedia: https://en.wikipedia.org/wiki/LibreOffice
 ---
 
 [Official Logo Gallery](https://wiki.documentfoundation.org/Gallery_Logos)
-
-[Official Branding Guidelines](https://wiki.documentfoundation.org/Marketing/Branding)
 
 Font is [Vegur](http://www.fontspace.com/arro/vegur)
