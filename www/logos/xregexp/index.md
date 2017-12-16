@@ -1,5 +1,6 @@
 ---
 category: library
+github: slevithan/xregexp
 images:
 - xregexp-card.png
 - xregexp-vertical.svg

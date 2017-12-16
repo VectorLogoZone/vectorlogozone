@@ -1,4 +1,5 @@
 ---
+github: php
 images:
 - php-card.png
 - php-icon.svg
@@ -12,7 +13,9 @@ tags:
 - php
 - programming_language
 title: PHP
+twitter: official_php
 website: http://www.php.net/
+wikipedia: https://en.wikipedia.org/wiki/PHP
 ---
 
 [Official Downloads](http://php.net/download-logos.php)

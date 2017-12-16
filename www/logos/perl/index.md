@@ -1,5 +1,7 @@
 ---
+blog: http://blogs.perl.org/
 category: language
+github: Perl
 images:
 - perl-ar21.svg
 - perl-vertical.svg
@@ -14,6 +16,7 @@ tags:
 - programming_language
 title: Perl
 website: https://www.perl.org/
+wikipedia: https://en.wikipedia.org/wiki/Perl
 ---
 
 The [offical Perl trademark](http://www.perlfoundation.org/perl_trademark) is an onion.  I have never seen this in the wild: everyone uses the camel, so that's what I used too.

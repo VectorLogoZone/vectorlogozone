@@ -1,4 +1,5 @@
 ---
+blog: https://stripe.com/blog
 github: stripe
 images:
 - stripe-ar21.svg

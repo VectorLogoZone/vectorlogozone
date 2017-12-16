@@ -1,4 +1,6 @@
 ---
+facebook: https://www.facebook.com/VectorLogoZone/
+github: fileformat/vectorlogozone
 images:
 - vectorlogozone-card.png
 - vectorlogozone-icon.svg
@@ -12,5 +14,6 @@ tags:
 - reference
 - graphics
 title: VectorLogo.Zone
+twitter: VectorLogoZone
 website: https://www.vectorlogo.zone/
 ---

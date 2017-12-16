@@ -1,4 +1,7 @@
 ---
+blog: https://www.postgresql.org/about/newsarchive/
+github: postgres
+guide: https://wiki.postgresql.org/wiki/Identity_Guidelines
 images:
 - postgresql-ar21.svg
 - postgresql-horizontal.svg
@@ -13,9 +16,8 @@ tags:
 - database
 title: PostgreSQL
 website: http://www.postgresql.org/
+wikipedia: https://en.wikipedia.org/wiki/PostgreSQL
 ---
-
-Official [Identity Guidelines](https://wiki.postgresql.org/wiki/Identity_Guidelines)
 
 Icon from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg)
 
