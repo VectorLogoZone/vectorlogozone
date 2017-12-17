@@ -1,4 +1,5 @@
 ---
+blog: http://blog.nodeping.com/
 facebook: https://www.facebook.com/nodeping
 github: nodeping
 layout: default

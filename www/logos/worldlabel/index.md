@@ -1,4 +1,5 @@
 ---
+blog: https://blog.worldlabel.com/
 facebook: http://www.facebook.com/pages/Worldlabelcom/128417713844953
 github: worldlabel
 images:

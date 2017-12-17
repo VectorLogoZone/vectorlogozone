@@ -1,4 +1,5 @@
 ---
+blog: https://blog.docker.com/
 facebook: https://www.facebook.com/docker.run
 github: docker/docker
 guide: https://www.docker.com/brand-guidelines

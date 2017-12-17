@@ -1,4 +1,5 @@
 ---
+blog: https://blog.rust-lang.org/
 github: rust-lang
 images:
 - rust-lang-icon.svg

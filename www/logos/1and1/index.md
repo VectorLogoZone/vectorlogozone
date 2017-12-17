@@ -1,4 +1,5 @@
 ---
+blog: http://newsroom.1and1.com/
 facebook: https://www.facebook.com/1and1
 github: 1and1
 images:

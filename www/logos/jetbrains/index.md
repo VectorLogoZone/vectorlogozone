@@ -10,4 +10,5 @@ tags:
 title: JetBrains
 twitter: jetbrains
 website: http://www.jetbrains.com/
+wikipedia: https://en.wikipedia.org/wiki/JetBrains
 ---

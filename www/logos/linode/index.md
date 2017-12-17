@@ -1,4 +1,5 @@
 ---
+blog: https://blog.linode.com/
 facebook: https://facebook.com/linode
 github: linode
 images:

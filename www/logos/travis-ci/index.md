@@ -1,4 +1,5 @@
 ---
+blog: https://blog.travis-ci.com/
 github: aws
 images:
 - travis-ci-ar21.svg

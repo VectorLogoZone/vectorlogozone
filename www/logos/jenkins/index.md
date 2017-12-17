@@ -1,4 +1,5 @@
 ---
+blog: https://jenkins.io/node
 github: jenkinsci
 guide: https://wiki.jenkins-ci.org/display/JENKINS/Logo
 images:

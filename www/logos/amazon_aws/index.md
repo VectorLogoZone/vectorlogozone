@@ -1,4 +1,5 @@
 ---
+blog: https://aws.amazon.com/blogs/
 facebook: https://www.facebook.com/amazonwebservices/
 github: aws
 images:

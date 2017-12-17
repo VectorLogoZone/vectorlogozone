@@ -1,4 +1,5 @@
 ---
+blog: https://www.godaddy.com/blog/
 facebook: https://www.facebook.com/godaddy/
 github: godaddy
 images:

@@ -1,4 +1,5 @@
 ---
+blog: https://redis.io/buzz
 github: antirez/redis
 images:
 - redis-ar21.svg

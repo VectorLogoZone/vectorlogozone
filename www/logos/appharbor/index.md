@@ -1,4 +1,5 @@
 ---
+blog: http://blog.appharbor.com/
 github: appharbor
 images:
 - appharbor-card.png

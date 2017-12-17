@@ -1,4 +1,5 @@
 ---
+blog: https://www.blog.google/
 facebook: https://www.facebook.com/google
 github: google
 guide: https://developers.google.com/identity/branding-guidelines
