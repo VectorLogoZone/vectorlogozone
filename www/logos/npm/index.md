@@ -1,6 +1,7 @@
 ---
 blog: https://blog.npmjs.com/
 github: npm
+guide: https://github.com/npm/logos
 images:
 - npm-tile.svg
 logohandle: npmjs

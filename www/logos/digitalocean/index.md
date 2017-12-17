@@ -3,6 +3,7 @@ blog: https://blog.digitalocean.com/
 category: service
 facebook: https://www.facebook.com/DigitalOceanCloudHosting
 github: digitalocean
+guide: https://www.digitalocean.com/company/logos-and-badges/
 images:
 - digitalocean-tile.svg
 - digitalocean-wordmark.svg

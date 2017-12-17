@@ -1,6 +1,7 @@
 ---
 facebook: https://www.facebook.com/docker.run
 github: docker/docker
+guide: https://www.docker.com/brand-guidelines
 images:
 - docker-official.svg
 - docker-icon.svg

@@ -2,6 +2,7 @@
 blog: http://www.ebay.com/stories/
 facebook: https://www.facebook.com/eBay
 github: ebay
+guide: https://go.developer.ebay.com/logos
 images:
 - ebay-ar21.svg
 - ebay-icon.svg

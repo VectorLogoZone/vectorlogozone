@@ -1,5 +1,6 @@
 ---
 github: h5bp/html5-boilerplate
+guide: https://www.w3.org/html/logo/
 logohandle: html5
 sort: html5
 title: HTML5

@@ -1,6 +1,7 @@
 ---
 facebook: https://www.facebook.com/google
 github: google
+guide: https://developers.google.com/identity/branding-guidelines
 images:
 - google-tile.svg
 - google-icon.svg

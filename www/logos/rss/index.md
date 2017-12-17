@@ -1,4 +1,5 @@
 ---
+guide: http://www.feedicons.com/
 images:
 - rss-ar21.svg
 - rss-tile.svg

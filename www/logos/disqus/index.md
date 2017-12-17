@@ -2,6 +2,7 @@
 blog: https://blog.disqus.com/
 facebook: https://www.facebook.com/disqus/
 github: disqus
+guide: https://disqus.com/brand/
 images:
 - disqus-ar21.svg
 - disqus-tile.svg

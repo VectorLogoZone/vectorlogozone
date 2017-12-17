@@ -1,6 +1,7 @@
 ---
 blog: https://blog.twitter.com/
 github: twitter
+guide: https://about.twitter.com/en_us/company/brand-resources.html
 images:
 - twitter-icon.svg
 - twitter-tile.svg

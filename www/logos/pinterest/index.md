@@ -2,6 +2,7 @@
 blog: https://blog.pinterest.com/en
 facebook: https://www.facebook.com/pinterest/
 github: pinterest
+guide: https://business.pinterest.com/en-gb/brand-guidelines
 images:
 - pinterest-icon.svg
 - pinterest-ar21.svg

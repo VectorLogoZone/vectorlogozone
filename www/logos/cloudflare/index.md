@@ -2,6 +2,7 @@
 blog: https://blog.cloudflare.com/
 facebook: https://www.facebook.com/Cloudflare/
 github: cloudflare
+guide: https://www.cloudflare.com/logo/
 images:
 - cloudflare-official.svg
 - cloudflare-card.png

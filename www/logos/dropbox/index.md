@@ -2,6 +2,7 @@
 blog: https://blog.dropbox.com/
 facebook: https://www.facebook.com/Dropbox
 github: dropbox
+guide: https://www.dropbox.com/branding
 images:
 - dropbox-ar21.svg
 - dropbox-icon.svg

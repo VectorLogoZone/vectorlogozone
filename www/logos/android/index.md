@@ -2,6 +2,7 @@
 blog: https://officialandroid.blogspot.com/
 facebook: https://www.facebook.com/AndroidOfficial
 github: android
+guide: https://developer.android.com/distribute/marketing-tools/brand-guidelines.html
 images:
 - android-ar21.svg
 - android-icon.svg

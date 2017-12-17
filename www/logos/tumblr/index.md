@@ -1,6 +1,7 @@
 ---
 facebook: https://www.facebook.com/tumblr/
 github: tumblr
+guide: https://www.tumblr.com/logo
 images:
 - tumblr-ar21.svg
 - tumblr-tile.svg

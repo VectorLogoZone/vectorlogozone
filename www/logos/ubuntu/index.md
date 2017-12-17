@@ -2,6 +2,7 @@
 blog: https://community.ubuntu.com/c/announcements
 facebook: https://www.facebook.com/ubuntulinux/
 github: ubuntu
+guide: https://design.ubuntu.com/brand/ubuntu-logo/
 images:
 - ubuntu-card.png
 - ubuntu-tile.svg

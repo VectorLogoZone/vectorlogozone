@@ -2,6 +2,7 @@
 blog: https://blog.linkedin.com/
 facebook: https://www.facebook.com/LinkedIn/
 github: linkedin
+guide: https://brand.linkedin.com/
 images:
 - linkedin-icon.svg
 - linkedin-tile.svg

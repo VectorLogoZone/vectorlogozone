@@ -2,6 +2,7 @@
 blog: https://github.com/blog
 category: services
 github: github
+guide: https://github.com/logos
 images:
 - github-ar21.svg
 - github-tile.svg

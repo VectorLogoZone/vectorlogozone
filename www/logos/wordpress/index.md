@@ -2,6 +2,7 @@
 blog: https://en.blog.wordpress.com/
 facebook: https://www.facebook.com/WordPress/
 github: WordPress
+guide: https://wordpress.org/about/logos/
 images:
 - wordpress-ar21.svg
 - wordpress-icon.svg
