@@ -1,0 +1,11 @@
+---
+blog: https://opensource.org/blog
+github: OpenSourceOrg
+guide: https://opensource.org/logo-usage-guidelines
+logohandle: opensource
+sort: opensource
+title: Open Source Initiative
+twitter: OpenSourceOrg
+website: https://opensource.org/
+wikipedia: https://en.wikipedia.org/wiki/Open_Source_Initiative
+---
