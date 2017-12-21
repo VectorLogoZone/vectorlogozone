@@ -18,6 +18,11 @@ layout: default
 	<div class="logo-container" id="search_results"></div>
 </div>
 
+<div class="row clearfix">
+    <p id="pending-tip" style="display:none;">The following logos are on the &quot;To Do&quot; list and should be ready shortly.</p>
+    <ul id="pending"></ul>
+</div>
+
 <script src="/js/lunr.min.js"></script>
 <script type="text/javascript">
 $(function() {
@@ -108,6 +113,8 @@ $(function() {
 
 	function display_search_results(query, results) {
 		var $search_results = $("#search_results");
+		var $pending = $("#pending");
+		$pending.empty();
 
 		// Wait for data to load
 		window.data.then(function(loaded_data) {
@@ -125,12 +132,18 @@ $(function() {
 				results.forEach(function(result) {
 						var item = loaded_data[result.ref];
 
-						// Build a snippet of HTML for this result
-						var appendString = '<a href="/logos/' + result.ref + '/index.html"><img title="' + item.title + '" src="/logos/' + result.ref + '/' + result.ref + '-ar21.svg" /></a></li>';
+						if (item.haslogo) {
+                            // Build a snippet of HTML for this result
+                            var appendString = '<a href="/logos/' + result.ref + '/index.html"><img title="' + item.title + '" src="/logos/' + result.ref + '/' + result.ref + '-ar21.svg" /></a></li>';
 
-						// Add it to the results
-						$search_results.append(appendString);
+                            // Add it to the results
+                            $search_results.append(appendString);
+                        }
+                        else {
+						    $pending.append($("<li>").append($("<a>").text(item.title).attr("href", "/logos/" + result.ref + "/index.html")));
+                        }
 					});
+                $("#pending-tip").css("display", $pending.children().length > 0 ? "block" : "none");
 			} 
 			else 
 			{

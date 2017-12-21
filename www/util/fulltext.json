@@ -4,5 +4,5 @@ noindex: true
 ---
 {% assign sorted_pages = site.pages | sort:'sort' %}
 {
-{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}    "{{ logopage.logohandle }}": { "title": "{{ logopage.title | xml_escape }}", "haslogo": {% if logopage.images contains logofile %}true{% else %}false%{% endif %}, "website": "{{ logopage.website | xml_escape }}"}{% unless forloop.last %},{% endunless %}
+{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}    "{{ logopage.logohandle }}": { "title": "{{ logopage.title | xml_escape }}", "haslogo": {% if logopage.images contains logofile %}true{% else %}false{% endif %}, "website": "{{ logopage.website | xml_escape }}"}{% unless forloop.last %},{% endunless %}
 {% endif %}{% endfor %}}
