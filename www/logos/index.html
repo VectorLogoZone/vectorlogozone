@@ -7,7 +7,7 @@ redirect_from: /all.html
 <div class="logo-container">
 	<p>
 {% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
-		<a href="{{logopage.url}}"><img alt="{{logopage.title}}" src="{{logopage.logohandle}}/{{logofile}}" onerror="this.src='{{logopage.logohandle}}/{{logofile|split:"."|first}}.png';this.onerror=null;" style="width:120px;height:60px;"/></a>
+		<a href="{{logopage.url}}"><img alt="{{logopage.title}}" src="{{logopage.logohandle}}/{{logofile}}" title="{{logopage.title}}" onerror="this.src='{{logopage.logohandle}}/{{logofile|split:"."|first}}.png';this.onerror=null;" style="width:120px;height:60px;"/></a>
 {% endif %}{% endif %}{% endfor %}
 	</p>
 </div>
