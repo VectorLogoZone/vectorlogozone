@@ -1,8 +1,10 @@
 ---
-github: fileformat/rosetta-www
+facebook: https://www.facebook.com/DigitalRosetta
+github: digitalrosetta
 logohandle: digitalrosetta
 sort: digitalrosetta
 title: Digital Rosetta
+twitter: DigitalRosetta
 website: https://www.digitalrosetta.org/
 ---
 
