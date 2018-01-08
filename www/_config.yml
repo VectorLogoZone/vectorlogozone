@@ -4,6 +4,7 @@
 
 exclude: [ "*.sh", "**/*_src*" ]
 production_url: https://www.vectorlogo.zone
+sharing_targets: [ "facebook", "twitter", "pinterest", "tumblr", "reddit" ]
 title : Vector Logo Zone
 title_short: VLZ
 plugins_dir:
