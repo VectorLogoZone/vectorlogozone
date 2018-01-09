@@ -1,5 +1,5 @@
 <p>Share: {% for target in site.sharing_targets %}
-    <a href="https://simpleshare.io/go?site={{target}}&amp;url={{ site.production_url | cgi_escape }}{{ page.url | cgi_escape }}&amp;text={{ page.title | cgi_escape }}+Logo"
+    <a href="https://simpleshare.io/go?site={{target}}&amp;url={{ site.production_url | cgi_escape }}{{ page.url | cgi_escape }}&amp;text={{ page.title | cgi_escape }}+Logo&amp;ga={{site.google_analytics_id}}"
        rel="nofollow"
     ><img class="sharelogo" src="/logos/{{target}}/{{target}}-tile.svg" /></a>
 {% endfor %}
