@@ -1,0 +1,20 @@
+<ul class="nav nav-tabs">
+{% if page.url == '/search.html' %}
+    <li role="presentation" class="active"><a href="/search.html">VectorLogoZone</a></li>
+{% else %}
+    <li role="presentation"><a class="addparams" href="/search.html">VectorLogoZone</a></li>
+{% endif %}
+{% if page.url == '/search-github.html' %}
+    <li role="presentation" class="active"><a href="/search-github.html">Github</a></li>
+{% else %}
+    <li role="presentation"><a class="addparams" href="/search-github.html">Github</a></li>
+{% endif %}
+    <!--<li role="presentation"><a href="/search-ghicons.html">Github Icons</a></li>-->
+</ul>
+<p>&nbsp;</p>
+<script>
+    $(".addparams").click(function(e) {
+        window.location = e.target.href + window.location.search;
+        return false;
+    });
+</script>

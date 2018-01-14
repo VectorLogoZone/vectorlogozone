@@ -2,7 +2,7 @@
 layout: default
 title: Search Github
 ---
-
+{% include searchtab.html %}
 <div class="row clearfix" style="padding-bottom:20px;">
     <div class="col-md-6 col-md-offset-3 column">
         <form action="get" class="form-inline" id="site_search">
@@ -45,7 +45,6 @@ $(function() {
 	// Wait for the data to load and add it to lunr
 	window.data.then(function(loaded_data){
 		$.each(loaded_data, function(index, value){
-		    console.log("Indexing " + JSON.stringify(value));
 			window.idx.add($.extend({ "id": index }, value));
 		});
 		console.log("data loaded");
