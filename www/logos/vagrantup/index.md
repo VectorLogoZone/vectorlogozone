@@ -14,4 +14,4 @@ title: Vagrant
 website: https://www.vagrantup.com/
 ---
 
-[https://www.hashicorp.com/blog/a-new-look-for-vagrant/](Blog post on most recent logo redesign)
+[Blog post on most recent logo redesign](https://www.hashicorp.com/blog/a-new-look-for-vagrant/)

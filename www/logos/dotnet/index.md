@@ -18,4 +18,5 @@ title: Microsoft .Net
 twitter: dotnet
 website: http://www.microsoft.com/net
 wikipedia: https://en.wikipedia.org/wiki/.NET_Framework
+redirect_from: /logos/microsoft_dotnet/index.html
 ---

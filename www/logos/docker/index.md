@@ -21,4 +21,4 @@ website: https://www.docker.com/
 wikipedia: https://en.wikipedia.org/wiki/Docker_(software)
 ---
 
-[https://commons.wikimedia.org/wiki/File:Docker_(container_engine)_logo.svg](Wikimedia Commons)
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Docker_(container_engine)_logo.svg)

@@ -15,4 +15,4 @@ website: http://ant.apache.org/
 wikipedia: https://en.wikipedia.org/wiki/Apache_Ant
 ---
 
-[https://commons.wikimedia.org/wiki/File:Apache-Ant-logo.svg](Wikimedia Commons)
+[Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Apache-Ant-logo.svg)
