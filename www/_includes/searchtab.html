@@ -9,7 +9,11 @@
 {% else %}
     <li role="presentation"><a class="addparams" href="/search-github.html">Github</a></li>
 {% endif %}
-    <!--<li role="presentation"><a href="/search-ghicons.html">Github Icons</a></li>-->
+{% if page.url == '/search-other.html' %}
+    <li role="presentation" class="active"><a href="/search-other.html">Others</a></li>
+{% else %}
+    <li role="presentation"><a class="addparams" href="/search-other.html">Others</a></li>
+{% endif %}
 </ul>
 <p>&nbsp;</p>
 <script>

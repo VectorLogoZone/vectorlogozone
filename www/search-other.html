@@ -1,0 +1,24 @@
+---
+layout: default
+title: Search Other Websites
+---
+{% include searchtab.html %}
+
+{% for alternative in site.data.alternatives %}{% if alternative.enabled %}
+<p><a class="altlink" href="{{alternative.url}}">{{alternative.id}}</a></p>
+{% endif %}{% endfor %}
+<script>
+    function getParameterByName(name) {
+        var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+        return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+    }
+
+    $(".altlink").click(function(e) {
+        var link = e.target.href;
+        var query = encodeURIComponent(getParameterByName("q"));
+        link = link.replace("{query}", query);
+        link = link.replace("%7Bquery%7D", query);
+        window.location = link;
+        return false;
+    });
+</script>

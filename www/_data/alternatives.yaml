@@ -1,0 +1,28 @@
+- id: worldvectorlogo
+  url: https://worldvectorlogo.com/search/{query}
+  enabled: true
+
+- id: seeklogocom
+  url: https://seeklogo.com/search?q={query}
+  note: not recommended due to popup and interstitial ads, plus a wierd downloader
+  enabled: false
+
+- id: freepik
+  url: https://www.freepik.com/index.php?goto=2&searchform=1&k={query}
+  enabled: true
+
+- id: seeklogonet
+  url: https://www.seeklogo.net/?s={query}
+  enabled: true
+
+- id: freevectorlogo
+  url: http://freevectorlogo.net/?s={query}
+  enabled: true
+
+- id: brandeps
+  url: https://www.brandeps.com/search?s={query}
+  enabled: true
+
+- id: brandsoftheworld
+  url: http://www.brandsoftheworld.com/search/logo?search_api_views_fulltext={query}
+  enabled: true
