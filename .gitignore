@@ -5,3 +5,4 @@ tmp/
 work-in-progress/
 bin/vlz-todo.tgz
 .jekyll-metadata
+*.amp.html
