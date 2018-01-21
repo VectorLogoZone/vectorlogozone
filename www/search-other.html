@@ -14,10 +14,10 @@ title: Search Other Websites
     }
 
     $(".altlink").click(function(e) {
-        var link = e.target["data-search"];
+        var link = $(e.target).attr("data-search");
         var query = encodeURIComponent(getParameterByName("q"));
         link = link.replace("{query}", query);
-        link = link.replace("%7Bquery%7D", query);
+        //only needed for Jekyll with href, not data-search  link = link.replace("%7Bquery%7D", query);
         window.location = link;
         return false;
     });
