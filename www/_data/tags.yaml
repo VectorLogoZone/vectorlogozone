@@ -61,6 +61,9 @@ javascript:
 library:
   count: 1
   title: library
+messaging:
+  count: 0
+  title: Messaging
 monetization:
   count: 1
   title: monetization
@@ -89,6 +92,9 @@ programming_language:
 programming_library:
   count: 10
   title: Programming Libraries
+programming_tool:
+  count: 0
+  title: Programming Tools
 python:
   count: 2
   title: python
@@ -104,6 +110,12 @@ security:
 service:
   count: 5
   title: Service
+shopping:
+  count: 0
+  title: Shopping
+social:
+  count: 0
+  title: Social Networking
 software:
   count: 9
   title: Software
@@ -113,6 +125,9 @@ static_website:
 svg:
   count: 1
   title: svg
+travel:
+  count: 0
+  title: Travel
 version_control:
   count: 2
   title: Version Control
