@@ -17,6 +17,7 @@ before_script:
   - cd bin
   - python3 frontmatter_update.py
   - python3 fm2tag.py
+  - python3 mkamp.py
   - ./mkcard.sh
   - cd ..
 script:
