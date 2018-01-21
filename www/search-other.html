@@ -5,7 +5,7 @@ title: Search Other Websites
 {% include searchtab.html %}
 
 {% for alternative in site.data.alternatives %}{% if alternative.enabled %}
-<p><a class="altlink" href="{{alternative.url}}">{{alternative.id}}</a></p>
+<p><a class="altlink" data-search="{{alternative.search}}" href="{{alternative.url}}" rel="nofollow,noindex">{{alternative.name | default: alternative.id}}</a></p>
 {% endif %}{% endfor %}
 <script>
     function getParameterByName(name) {
@@ -14,7 +14,7 @@ title: Search Other Websites
     }
 
     $(".altlink").click(function(e) {
-        var link = e.target.href;
+        var link = e.target["data-search"];
         var query = encodeURIComponent(getParameterByName("q"));
         link = link.replace("{query}", query);
         link = link.replace("%7Bquery%7D", query);

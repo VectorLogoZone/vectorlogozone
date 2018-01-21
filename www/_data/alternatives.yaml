@@ -1,28 +1,50 @@
+- id: wikipedia
+  name: Wikipedia
+  search: https://commons.wikimedia.org/w/index.php?search={query}+filemime%3Asvg
+  url: https://commons.wikimedia.org/w/index.php?search=
+  enabled: true
+
+- id: google
+  name: Google Image Search
+  search: https://www.google.com/search?tbm=isch&tbs=ift:svg&q={query}
+  url: https://www.google.com/search?tbm=isch
+  enabled: true
+
 - id: worldvectorlogo
-  url: https://worldvectorlogo.com/search/{query}
+  name: WorldVectorLogo
+  search: https://worldvectorlogo.com/search/{query}
+  url: https://worldvectorlogo.com/
   enabled: true
 
 - id: seeklogocom
-  url: https://seeklogo.com/search?q={query}
+  search: https://seeklogo.com/search?q={query}
+  url: https://seeklogo.com/
   note: not recommended due to popup and interstitial ads, plus a wierd downloader
   enabled: false
 
 - id: freepik
-  url: https://www.freepik.com/index.php?goto=2&searchform=1&k={query}
+  search: https://www.freepik.com/index.php?goto=2&searchform=1&k={query}
+  url: https://www.freepik.com/
   enabled: true
 
 - id: seeklogonet
-  url: https://www.seeklogo.net/?s={query}
+  search: https://www.seeklogo.net/?s={query}
+  url: https://www.seeklogo.net/
   enabled: true
 
 - id: freevectorlogo
-  url: http://freevectorlogo.net/?s={query}
+  search: http://freevectorlogo.net/?s={query}
+  url: http://freevectorlogo.net/
   enabled: true
 
 - id: brandeps
-  url: https://www.brandeps.com/search?s={query}
+  name: BrandEPS
+  search: https://www.brandeps.com/search?s={query}
+  url: https://www.brandeps.com/
   enabled: true
 
 - id: brandsoftheworld
-  url: http://www.brandsoftheworld.com/search/logo?search_api_views_fulltext={query}
+  name: Brands of the World
+  search: http://www.brandsoftheworld.com/search/logo?search_api_views_fulltext={query}
+  url: http://www.brandsoftheworld.com/
   enabled: true
