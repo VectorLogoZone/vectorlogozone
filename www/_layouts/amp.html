@@ -7,58 +7,45 @@
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <style amp-custom>
 
-        .icon > svg { display: inline-block; width: 16px; height: 16px; vertical-align: middle; }
-        .icon > svg path { fill: #828282; }
+        body {
+            font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+        }
 
-        main { display: block; }
+        .navbar {
+            background-color: #2c3e50;
+            color: #fff;
+            padding: 6pt 8pt 4pt 8pt;
+        }
 
-        body { font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; margin: 0; padding: 0; text-rendering: optimizeLegibility; -webkit-font-smoothing: antialiased; -moz-font-feature-settings: "liga=1, dlig=1"; -ms-font-feature-settings: "liga", "dlig"; -webkit-font-feature-settings: "liga", "dlig"; -o-font-feature-settings: "liga", "dlig"; font-feature-settings: "liga", "dlig"; }
+        .navbar a {
+            font-size: 18pt;
+            font-weight: bold;
+            color: #fff;
+            text-decoration: none;
+        }
 
-        .site-header { position: relative; width: 100%; max-width: 700px; margin: 16px auto 0 auto; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-        @media only screen and (max-width: 800px) { .site-header { padding: 0 16px; } }
-        .site-header .page-links { display: block; position: absolute; top: 10px; right: 16px; font-weight: 200; font-style: normal; font-size: 18px; line-height: 30px; }
-        .site-header .page-links a { text-decoration: none; color: #999999; }
-        .site-header .page-links a:hover { color: #333333; }
+        a.search-link {
+            float: right;
+            font-weight: normal;
+            font-size: 14pt;
+            margin-top: 2pt;
+        }
 
-        .blog-header { width: 100%; max-width: 700px; margin: 0 auto; position: relative; padding: 0; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-        .blog-header .blog-title { margin-bottom: 8px; font-size: 50px; font-weight: 700; letter-spacing: -2px; outline: 0; line-height: 50px; word-break: break-word; color: #333333; }
-        .blog-header .blog-description { font-size: 28px; margin: 0 0 20px; padding: 0; line-height: 1.2; color: #666666; font-weight: 300; }
+        .content {
+            padding: 0 8pt 0 8pt;
+        }
 
-        .content { width: 100%; max-width: 700px; margin: 25px auto 0 auto; -webkit-box-sizing: border-box; -moz-box-sizing: border-box; box-sizing: border-box; }
-        @media only screen and (max-width: 800px) { .content { padding: 0 16px; } }
-        .content article { padding: 20px 0; border-bottom: 1px solid #f2f2f0; }
-        .content article:last-child { border-bottom: 0px; }
-        .content article .post-title { letter-spacing: -0.02em; font-weight: 700; font-style: normal; display: block; font-size: 36px; line-height: 1.15; margin: 0 0; }
-        .content article .post-title a { text-decoration: none; color: #333332; }
-        .content article .post-title a:hover { text-decoration: none; }
-        .content article .post-excerpt { letter-spacing: -0.02em; font-weight: 300; font-style: normal; font-size: 20px; line-height: 1.59; color: #666665; }
-        .content article .post-meta { font-size: 14px; color: #b3b3b1; line-height: 30px; }
-        .content article .post-meta a { color: #b3b3b1; text-decoration: none; }
-        .content article .post-meta a:hover { text-decoration: underline; }
+        h1 {
+            margin-top: 4pt
+        }
 
-        .post-template .content { max-width: 700px; }
-
-        .index-headline { border-top: 1px solid #dededc; margin: 0; padding: 16px 0; }
-        .index-headline span { color: #b3b3b1; font-size: 10px; text-transform: uppercase; letter-spacing: 1px; }
-
-        .pagination { text-align: center; padding: 16px 0 0; font-size: 12px; }
-        .pagination a { color: #999999; text-decoration: none; }
-        .pagination a:hover { color: #333333; }
-
-        .site-footer { margin: 0 auto; padding: 48px 0; width: 100%; max-width: 700px; font-size: 12px; text-align: center; color: #999999; line-height: 17.6px; }
-        .site-footer a { color: #666666; text-decoration: none; }
-        .site-footer a:hover { color: #333333; }
-
-        .post .post-meta { font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; }
-        .post .post-title { font-weight: 700; font-style: normal; letter-spacing: -0.04em; font-size: 50px; line-height: 1.1; color: #333332; margin-bottom: 50px; }
-        .post .author-image { background-image: url(/amplify//assets/images/author.jpg); display: inline-block; width: 30px; height: 30px; line-height: 30px; margin-right: 8px; margin-bottom: -10px; float: left; background-size: cover; border-radius: 100%; text-indent: -9999px; }
-        .post .post-meta-text { color: #b3b3b1; letter-spacing: -0.02em; font-weight: 400; font-style: normal; font-size: 14px; overflow: hidden; font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; white-space: nowrap; text-overflow: ellipsis; }
-        .post .post-content { width: 100%; font-family: Georgia, Cambria, "Times New Roman", Times, "Lora", serif; color: #333333; }
-        .post .post-content h1, .post .post-content h2, .post .post-content h3 { font-family: "Helvetica Neue", "Open Sans", Arial, Helvetica, sans-serif; }
         .logoimage {
             box-shadow: 0 0 5px #1d1d1d;
             border: solid #ccc 1px;
             margin: 10px;
+        }
+        .footer {
+            padding: 0 8pt 0 8pt;
         }
     </style>
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
@@ -66,32 +53,23 @@
     <script async src="https://cdn.ampproject.org/v0.js"></script>
 </head>
 <body>
-    <header class="site-header">
-        <a href="/index.html" class="navbar-brand"><amp-img src="/favicon.svg" width="48" height="48" /> VectorLogoZone</a>
-        <div class="page-links">
-            <a class="page-link" href="/search.html">Search</a>
-        </div>
-    </header>
-    <main class="content" role="main">
-        <article class="post">
-            <div class="post-meta">
-                <h1 class="post-title">{{page.title}} Logos</h1>
-            </div>
-            <section class="post-content">
+    <div class="navbar">
+        <a class="home-link" href="/index.html" class="navbar-brand"><!--<amp-img src="https://www.vectorlogo.zone/favicon.svg" width="24" height="24" /> -->VectorLogoZone</a>
+        {% assign without_logos = page.title | split: ' ' | size | minus: 1 %}
+        <a class="search-link" href="/search.html?q={{page.title | split: ' ' | slice: 0, without_logos | join: ' '}}">Search</a>
+    </div>
+    <div class="content">
+        <h1>{{page.title}}</h1>
+        {% if page.ar21 %}
+        <p><amp-img class="logoimage" src="{{page.ar21}}" width="240" height="120"></amp-img></p>
+        {% endif %}
 
-                {% if page.ar21 %}
-                <p><amp-img class="logoimage" src="{{page.ar21}}" width="240" height="120"></amp-img></p>
-                {% endif %}
-
-                {% if page.icon %}
-                <p><amp-img class="logoimage" src="{{page.icon}}" width="180" height="180"></amp-img></p>
-                {% endif %}
-
-            </section>
-            <footer>
-                <a href="{{page.canonical}}">More</a>
-            </footer>
-        </article>
-    </main>
+        {% if page.icon %}
+        <p><amp-img class="logoimage" src="{{page.icon}}" width="180" height="180"></amp-img></p>
+        {% endif %}
+    </div>
+    <div class="footer">
+        <a href="{{page.canonical}}">Other versions</a>
+    </div>
 </body>
 </html>
