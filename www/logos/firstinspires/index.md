@@ -6,5 +6,5 @@ sort: first
 title: FIRST
 twitter: firstweets
 website: https://www.firstinspires.org/
-https://en.wikipedia.org/wiki/FIRST_Robotics_Competition
+wikipedia: https://en.wikipedia.org/wiki/FIRST_Robotics_Competition
 ---
