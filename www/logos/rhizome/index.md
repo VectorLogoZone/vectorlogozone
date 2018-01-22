@@ -2,7 +2,6 @@
 blog: https://rhizome.org/editorial/
 facebook: https://www.facebook.com/Rhizomedotorg/
 github: rhizomedotorg
-guide: https://www.blah.com/official
 logohandle: rhizome
 sort: rhizome
 title: Rhizome

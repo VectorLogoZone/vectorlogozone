@@ -1,5 +1,4 @@
 ---
-blog: https://blog.blah.com/
 facebook: https://facebook.com/formspree
 github: formspree
 logohandle: formspree

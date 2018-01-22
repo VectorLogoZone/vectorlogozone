@@ -2,7 +2,7 @@
 blog: https://blog.ecosia.org/
 facebook: https://www.facebook.com/ecosia
 github: ecosia
-guide: https://www.blah.com/official
+guide: http://documents.ecosia.org/467523/10551325
 logohandle: ecosia
 sort: ecosia
 title: ecosia

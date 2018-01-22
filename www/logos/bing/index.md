@@ -2,7 +2,7 @@
 logohandle: bing
 sort: bing
 title: bing
-twitter: blah
+twitter: bing
 website: https://www.bing.com/
 wikipedia: https://en.wikipedia.org/wiki/Bing_(search_engine)
 ---

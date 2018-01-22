@@ -1,7 +1,6 @@
 ---
 blog: https://www.nist.gov/news-events/
 facebook: https://www.facebook.com/USNISTGOV
-guide: https://www.blah.com/official
 logohandle: nist
 sort: nist
 title: nist

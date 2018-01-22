@@ -1,5 +1,5 @@
 ---
-blog: https://blog.blah.com/
+blog: https://blog.edx.org/
 facebook: http://www.facebook.com/EdxOnline
 github: edx
 guide: https://www.edx.org/media-kit

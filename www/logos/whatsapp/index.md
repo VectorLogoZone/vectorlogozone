@@ -1,5 +1,5 @@
 ---
-facebook: https://www.facebook.com/blah
+facebook: https://www.facebook.com/WhatsApp
 github: WhatsApp
 guide: https://www.whatsappbrand.com/
 logohandle: whatsapp

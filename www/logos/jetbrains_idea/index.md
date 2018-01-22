@@ -1,5 +1,4 @@
 ---
-blog: https://blog.blah.com/
 facebook: https://facebook.com/IntelliJIDEA
 logohandle: jetbrains_idea
 sort: intellij
