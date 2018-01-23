@@ -1,5 +1,4 @@
 ---
-guide: https://www.blah.com/official
 logohandle: virtualbox
 sort: virtualbox
 title: VirtualBox
