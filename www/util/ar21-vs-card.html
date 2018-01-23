@@ -1,0 +1,32 @@
+---
+title: Compare ar21 vs card
+layout: default
+noindex: true
+---
+<p>This is a test page to make sure the <a href="https://github.com/fileformat/vectorlogozone/blob/gh-pages/bin/mkcard.sh">script</a>
+    that creates the raster <code>-card.png</code> images is working correctly.</p>
+
+{% assign sorted_pages = site.pages | sort:'sort' %}
+<div class="logo-container">
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>2:1</th>
+            <th>Card</th>
+            <th>Name</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for logopage in sorted_pages %}{% if logopage.logohandle %}
+        {% capture ar21file %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}
+        {% capture cardfile %}{{ logopage.logohandle }}{{ '-card.png' }}{% endcapture %}
+        {% if logopage.images contains ar21file and logopage.images contains cardfile %}
+        <tr>
+            <td><img alt="2:1 of {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{ar21file}}" style="height: 120px; width: 240px;"/></td>
+            <td><img alt="card of {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{cardfile}}" style="height: 120px; width: 240px;" /></td>
+            <td><a href="{{logopage.url}}">{{logopage.title}}</a></td>
+        </tr>
+        {% endif %}{% endif %}{% endfor %}
+        </tbody>
+    </table>
+</div>

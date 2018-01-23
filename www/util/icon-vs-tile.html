@@ -1,0 +1,31 @@
+---
+title: Compare icons to tiles
+layout: default
+noindex: true
+---
+<p>This is a page to compare the icons with the tiles.</p>
+
+{% assign sorted_pages = site.pages | sort:'sort' %}
+<div class="logo-container">
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>Icon</th>
+            <th>Tile</th>
+            <th>Name</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for logopage in sorted_pages %}{% if logopage.logohandle %}
+        {% capture iconfile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture %}
+        {% capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture %}
+        {% if logopage.images contains iconfile and logopage.images contains tilefile %}
+        <tr>
+            <td><img alt="icon of {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{iconfile}}" style="height: 128px; width: 128px; padding: 10px;" /></td>
+            <td><img alt="tile of {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{tilefile}}" style="height: 128px; width: 128px; padding: 10px;" /></td>
+            <td><a href="{{logopage.url}}">{{logopage.title}}</a></td>
+        </tr>
+        {% endif %}{% endif %}{% endfor %}
+        </tbody>
+    </table>
+</div>
