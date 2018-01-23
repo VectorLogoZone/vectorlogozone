@@ -18,3 +18,5 @@ twitter: google
 website: https://www.google.com/
 wikipedia: https://en.wikipedia.org/wiki/Google
 ---
+
+[Logo History](https://design.google/library/evolving-google-identity/)
