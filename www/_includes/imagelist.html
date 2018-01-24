@@ -2,20 +2,20 @@
 <table class="table table-striped">
 	<thead>
 		<tr>
-			<th>&nbsp;</th>
-			<th>Name</th>
+			<th class="hidden-xs hidden-sm">&nbsp;</th>
+			<th class="hidden-xs">Name</th>
 			<th>Image</th>
 		</tr>
 	</thead>
 	<tbody>
 {% assign sorted_images = page.images | sort %}{% for image in sorted_images %}
 		<tr>
-			<td style="white-space:nowrap;vertical-align:middle;">
+			<td class="hidden-xs hidden-sm" style="white-space:nowrap;vertical-align:middle;">
 				<a class="btn btn-default btn-sm" href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" title="preview" rel="nofollow"><i class="fa fa-search"></i></a>
 				<a class="btn btn-default btn-sm" download="{{image}}" href="{{image}}" title="Download"><i class="fa fa-download"></i></a>
 				<a class="btn btn-default btn-sm" href="https://github.com/fileformat/vectorlogozone/commits/gh-pages/www/logos/{{page.logohandle}}/{{image}}" title="revision history" rel="nofollow"><i class="fa fa-history"></i></a>
 			</td>
-			<td style="white-space:nowrap;vertical-align:middle;">
+			<td class="hidden-xs" style="white-space:nowrap;vertical-align:middle;">
 			{% capture imagetype %}{{image|split:'-'|last|split:'.'|first}}{% endcapture %}
 			{% assign standard = false %}
 			{% capture alt_text %}Alternate image for {{page.title}}{% endcapture %}
@@ -34,7 +34,7 @@
 				(Raster)
 			{% endif %}
 			</td>
-			<td><a href="/logos/{{page.logohandle}}/{{image}}"><img alt="{{alt_text}}" src="{{image}}" style="height:120px;" /></a></td>
+			<td><a href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}"><img alt="{{alt_text}}" src="{{image}}" style="height:120px;" /></a></td>
 		</tr>
 {% endfor %}
 	</tbody>
