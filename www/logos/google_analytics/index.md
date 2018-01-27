@@ -1,5 +1,6 @@
 ---
 blog: https://analytics.googleblog.com/
+github: googleanalytics
 images:
 - google_analytics-ar21.svg
 - google_analytics-official.svg
