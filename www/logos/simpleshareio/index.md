@@ -1,4 +1,6 @@
 ---
+font:
+  name: Lato Heavy
 github: fileformat/simpleshare
 logohandle: simpleshareio
 sort: simpleshare
