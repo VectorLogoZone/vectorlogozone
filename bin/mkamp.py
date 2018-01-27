@@ -30,6 +30,7 @@ def process(logohandle, logodir):
     if logohandle + "-ar21.svg" in fmsrc["images"]:
         fmdst["ar21"] = logohandle + "-ar21.svg"
     fmdst["canonical"] = "/logos/" + logohandle + "/index.html"
+    fmdst.content = fmsrc.content
 
     dstfile = os.path.join(logodir, "index.amp.html")
 
