@@ -1,6 +1,9 @@
 ---
 blog: https://blogs.adobe.com/
 facebook: https://www.facebook.com/adobe
+font:
+  name: Myriad Condensed Bold
+  url: http://www.myfonts.com/fonts/adobe/myriad/
 github: adobe
 guide: https://www.adobe.com/content/dam/acom/en/legal/documents/Adobe_Trademark_Guidelines_11012014.pdf
 images:

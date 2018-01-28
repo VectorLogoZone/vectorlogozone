@@ -1,6 +1,9 @@
 ---
 blog: https://www.ibm.com/blogs/
 facebook: https://www.facebook.com/IBM/
+font:
+  freename: MeninBlue
+  freeurl: https://www.ffonts.net/MeninBlue.font
 github: ibm
 images:
 - ibm-icon.svg

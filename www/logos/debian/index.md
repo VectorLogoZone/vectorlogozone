@@ -1,5 +1,8 @@
 ---
 blog: https://bits.debian.org/
+font:
+  name: Laudatio Pro Condensed Medium
+  myfonts: http://www.myfonts.com/fonts/berthold/laudatio-pro/med-cnd/
 github: Debian
 images:
 - debian-ar21.svg

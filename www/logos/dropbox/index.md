@@ -1,6 +1,9 @@
 ---
 blog: https://blog.dropbox.com/
 facebook: https://www.facebook.com/Dropbox
+font:
+  name: ITC Franklin Std Narrow Bold
+  myfonts: http://www.myfonts.com/fonts/itc/franklin/std-narrow-bold/
 github: dropbox
 guide: https://www.dropbox.com/branding
 images:

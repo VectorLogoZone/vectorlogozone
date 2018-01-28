@@ -7,5 +7,5 @@ sort: pocket
 title: Pocket
 twitter: pocket
 website: https://getpocket.com/
-wikipedia: https://en.wikipedia.org/wiki/blah
+wikipedia: https://en.wikipedia.org/wiki/Pocket_(service)
 ---

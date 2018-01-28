@@ -1,6 +1,9 @@
 ---
 blog: https://community.ubuntu.com/c/announcements
 facebook: https://www.facebook.com/ubuntulinux/
+font:
+  name: Corisande Regular
+  myfonts: http://www.myfonts.com/fonts/nm-concept-ltd/corisande/regular/
 github: ubuntu
 guide: https://design.ubuntu.com/brand/ubuntu-logo/
 images:

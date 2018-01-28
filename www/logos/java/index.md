@@ -1,4 +1,7 @@
 ---
+font:
+  name: Sun Semi Bold
+  url: http://www.lucasfonts.com/fonts/sun/sun/styles/
 guide: http://www.oracle.com/us/technologies/java/java-licensing-logo-guidelines-1908204.pdf
 images:
 - java-horizontal.svg

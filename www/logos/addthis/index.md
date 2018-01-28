@@ -1,5 +1,8 @@
 ---
 blog: https://www.addthis.com/blog/
+font:
+  name: Helvetica Neue LT Std 65 Medium
+  myfonts: http://www.myfonts.com/fonts/adobe/helvetica-neue/helveticaneue-medium/
 github: addthis
 logohandle: addthis
 sort: addthis

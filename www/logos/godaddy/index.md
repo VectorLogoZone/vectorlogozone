@@ -1,6 +1,9 @@
 ---
 blog: https://www.godaddy.com/blog/
 facebook: https://www.facebook.com/godaddy/
+font:
+  name: Good Dog Plain
+  myfonts: http://www.myfonts.com/fonts/fonthead/good-dog/
 github: godaddy
 images:
 - godaddy-ar21.svg

@@ -1,6 +1,9 @@
 ---
 blog: https://blog.archive.org/
 facebook: https://www.facebook.com/internetnetarchive/
+font:
+  name: Rotis Semi Serif Bold 65
+  myfonts: http://www.myfonts.com/fonts/mti/rotis-semi-serif/bold-65/
 github: internetarchive
 logohandle: archive
 sort: internet_archive
