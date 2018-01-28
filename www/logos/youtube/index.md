@@ -1,6 +1,8 @@
 ---
 blog: https://youtube.googleblog.com/
 facebook: https://www.facebook.com/youtube/
+font:
+  name: Alternate Gothic No. 2
 github: youtube
 guide: https://www.youtube.com/yt/about/brand-resources/
 logohandle: youtube

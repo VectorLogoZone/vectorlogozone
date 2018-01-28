@@ -1,6 +1,8 @@
 ---
 blog: https://blog.linkedin.com/
 facebook: https://www.facebook.com/LinkedIn/
+font:
+  name: Myriad Pro Bold
 github: linkedin
 guide: https://brand.linkedin.com/
 images:

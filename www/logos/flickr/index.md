@@ -1,5 +1,7 @@
 ---
 blog: hhttps://blog.flickr.net/en
+font:
+  name: Frutiger
 github: flickr
 logohandle: flickr
 sort: flickr

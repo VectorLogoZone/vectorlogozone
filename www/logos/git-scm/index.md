@@ -1,6 +1,11 @@
 ---
 blog: https://git-scm.com/blog
+font:
+  name: Adelle
+  url: http://www.type-together.com/Adelle
+  myfonts: https://www.myfonts.com/fonts/type-together/adelle/
 github: git
+guide: http://git-scm.com/downloads/logos
 images:
 - git-scm-ar21.svg
 - git-scm-icon.svg
@@ -16,6 +21,4 @@ website: https://git-scm.com/
 wikipedia: https://en.wikipedia.org/wiki/Git
 ---
 
-[Official Logos](http://git-scm.com/downloads/logos) Page
-
-Font is [Adell](http://www.type-together.com/Adelle) - [free download](http://www.type-together.com/index.php?action=carro/getFreeFont) with code 872821f, though registration is required.
+[Adell free download](http://www.type-together.com/index.php?action=carro/getFreeFont) with code 872821f, though registration is required.

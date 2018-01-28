@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/facebook
+font:
+  name: Klavika
+  url: https://processtypefoundry.com/fonts/klavika/
 github: facebook
 guide: https://en.facebookbrand.com/guidelines/brand
 images:
@@ -15,3 +18,4 @@ website: https://www.facebook.com/
 wikipedia: https://en.wikipedia.org/wiki/Facebook
 ---
 
+[font mention](https://fontsinuse.com/uses/9/the-social-network)

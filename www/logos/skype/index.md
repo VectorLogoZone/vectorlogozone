@@ -1,6 +1,8 @@
 ---
 blog: https://blogs.skype.com/
 facebook: https://www.facebook.com/Skype
+font:
+  name: Helvetica Rounded Bold
 logohandle: skype
 sort: skype
 title: Skype
