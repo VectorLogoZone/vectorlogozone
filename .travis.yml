@@ -8,7 +8,7 @@ before_install:
 install:
   - sudo apt-get install -y librsvg2-bin imagemagick
   - sudo apt-get install python3-pip
-  - sudo python3 -m pip install python-frontmatter
+  - sudo python3 -m pip install python-frontmatter commonmark
   - gem install ruby_dep -v 1.3.1
   - gem install listen -v 3.0.8
   - gem install jekyll
