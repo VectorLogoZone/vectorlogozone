@@ -3,7 +3,7 @@
 # utility to update frontmatter with list of available images
 #
 
-
+import CommonMark
 import frontmatter
 import os
 
@@ -30,7 +30,7 @@ def process(logohandle, logodir):
     if logohandle + "-ar21.svg" in fmsrc["images"]:
         fmdst["ar21"] = logohandle + "-ar21.svg"
     fmdst["canonical"] = "/logos/" + logohandle + "/index.html"
-    fmdst.content = fmsrc.content
+    fmdst.content = CommonMark.commonmark(fmsrc.content)
 
     dstfile = os.path.join(logodir, "index.amp.html")
 
