@@ -15,10 +15,10 @@ install:
   - gem install jekyll-redirect-from
 before_script:
   - cd bin
+  - ./mkcard.sh
   - python3 frontmatter_update.py
   - python3 fm2tag.py
   - python3 mkamp.py
-  - ./mkcard.sh
   - cd ..
 script:
   - jekyll build --source www
