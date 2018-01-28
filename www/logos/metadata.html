@@ -10,6 +10,7 @@ layout: default
 {% assign logocount = 0 %}
 {% assign blogcount = 0 %}
 {% assign facebookcount = 0 %}
+{% assign fontcount = 0 %}
 {% assign githubcount = 0 %}
 {% assign guidecount = 0 %}
 {% assign twittercount = 0 %}
@@ -23,6 +24,7 @@ layout: default
 			<th>Name</th>
 			<th style="text-align:center">Blog</th>
 			<th style="text-align:center">Facebook</th>
+            <th style="text-align:center">Font</th>
 			<th style="text-align:center">Github</th>
             <th style="text-align:center">Guidelines</th>
 			<th style="text-align:center">Twitter</th>
@@ -40,6 +42,9 @@ layout: default
 			<td class="text-center">
 				    {% if logopage.facebook %}<a href="{{logopage.facebook}}">{{ checkon }}{% assign facebookcount = facebookcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
+            <td class="text-center">
+                {% if logopage.font %}{{ checkon }}{% assign fontcount = fontcount | plus:1 %}{% else %}{{ checkoff }}{% endif %}
+            </td>
 			<td class="text-center">
 				    {% if logopage.github %}<a href="https://www.github.com/{{logopage.github}}">{{ checkon }}{% assign githubcount = githubcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>
@@ -62,6 +67,7 @@ layout: default
         <td>&nbsp;</td>
         <td class="text-center">{{blogcount}} ({{ blogcount | times:100 | divided_by: logocount}}%)</td>
         <td class="text-center">{{facebookcount}} ({{ facebookcount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{fontcount}} ({{ fontcount | times:100 | divided_by: logocount}}%)</td>
         <td class="text-center">{{githubcount}} ({{ githubcount | times:100 | divided_by: logocount}}%)</td>
         <td class="text-center">{{guidecount}} ({{ guidecount | times:100 | divided_by: logocount}}%)</td>
         <td class="text-center">{{twittercount}} ({{ twittercount | times:100 | divided_by: logocount}}%)</td>
@@ -73,6 +79,7 @@ layout: default
         <th>&nbsp;</th>
         <th style="text-align:center">Blog</th>
         <th style="text-align:center">Facebook</th>
+        <th style="text-align:center">Font</th>
         <th style="text-align:center">Github</th>
         <th style="text-align:center">Guidelines</th>
         <th style="text-align:center">Twitter</th>
