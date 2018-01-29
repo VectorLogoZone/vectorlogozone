@@ -51,6 +51,7 @@
     <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 
     <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
 </head>
 <body>
     <div class="navbar">
@@ -60,6 +61,15 @@
     </div>
     <div class="content">
         <h1>{{page.title}}</h1>
+
+        <amp-ad
+            layout="fixed-height"
+            height=100
+            type="adsense"
+            data-ad-client="ca-pub-6975096118196151"
+            data-ad-slot="1537213079">
+        </amp-ad>
+
         {{ content }}
         {% if page.ar21 %}
         <p><amp-img class="logoimage" src="{{page.ar21}}" width="240" height="120"></amp-img></p>
@@ -68,6 +78,16 @@
         {% if page.icon %}
         <p><amp-img class="logoimage" src="{{page.icon}}" width="180" height="180"></amp-img></p>
         {% endif %}
+
+        <amp-ad
+            layout="responsive"
+            width=300
+            height=250
+            type="adsense"
+            data-ad-client="ca-pub-6975096118196151"
+            data-ad-slot="1537213079">
+        </amp-ad>
+
     </div>
     <div class="footer">
         <a href="{{page.canonical}}">Other versions</a>
