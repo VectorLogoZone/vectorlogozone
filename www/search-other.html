@@ -5,7 +5,7 @@ title: Search Other Websites
 {% include searchtab.html %}
 
 {% for alternative in site.data.alternatives %}{% if alternative.enabled %}
-<p><a class="altlink" data-search="{{alternative.search}}" href="{{alternative.url}}" rel="nofollow,noindex">{{alternative.name | default: alternative.id}}</a></p>
+<p><a class="altlink" data-search="{{alternative.search}}" href="{{alternative.url}}" rel="nofollow,noindex,noopener" target="_blank">{{alternative.name | default: alternative.id}}</a></p>
 {% endif %}{% endfor %}
 <script>
     function getParameterByName(name) {
