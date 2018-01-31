@@ -11,8 +11,10 @@ logohandle: vectorlogozone
 skipped: 0
 sort: vectorlogozone
 tags:
-- reference
+- andrew_marcuse
 - graphics
+- logos
+- reference
 title: VectorLogo.Zone
 twitter: VectorLogoZone
 website: https://www.vectorlogo.zone/

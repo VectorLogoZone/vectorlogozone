@@ -8,7 +8,9 @@ logohandle: heatmaptv
 skipped: 0
 sort: heatmaptv
 tags:
-- new
+- andrew_marcuse
+- analytics
+- noah_marcuse
 title: Heatmap.TV
 website: https://www.heatmap.tv/
 ---

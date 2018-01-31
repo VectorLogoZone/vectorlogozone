@@ -8,7 +8,8 @@ logohandle: labelmakr
 skipped: 0
 sort: labelmakr
 tags:
-- service
+- andrew_marcuse
+- saas
 title: LabelMakr
 website: http://www.labelmakr.com/
 ---

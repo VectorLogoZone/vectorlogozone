@@ -6,6 +6,9 @@ font:
 github: fileformat/simpleshare
 logohandle: simpleshareio
 sort: simpleshare
+tags:
+- andrew_marcuse
+- saas
 title: SimpleShare.IO
 website: https://simpleshare.io/
 ---

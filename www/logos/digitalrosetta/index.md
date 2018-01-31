@@ -6,6 +6,10 @@ font:
 github: digitalrosetta
 logohandle: digitalrosetta
 sort: digitalrosetta
+tags:
+- andrew_marcuse
+- digital_preservation
+- noah_marcuse
 title: Digital Rosetta
 twitter: DigitalRosetta
 website: https://www.digitalrosetta.org/
