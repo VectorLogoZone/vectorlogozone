@@ -23,7 +23,7 @@ def process(logohandle, logodir):
         print("WARNING: no images, skipping")
         return
 
-    fmdst = frontmatter.loads("---\nlayout: amp\n---")
+    fmdst = frontmatter.loads("---\nlayout: amp\nnoindex: true\n---")
     fmdst["title"] = fmsrc["title"] + " Logos"
     if logohandle + "-icon.svg" in fmsrc["images"]:
         fmdst["icon"] = logohandle + "-icon.svg"
