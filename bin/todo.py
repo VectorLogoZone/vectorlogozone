@@ -22,7 +22,7 @@ parser.add_argument("--nocleanup", help="do not erase temporary files", default=
 args = parser.parse_args()
 
 if args.verbose:
-    sys.stdout.write("INFO: update starting at %s" % datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S'))
+    sys.stdout.write("INFO: update starting at %s\n" % datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S'))
 
 tar = tarfile.open(args.input, "r:gz")
 for member in tar.getmembers():
