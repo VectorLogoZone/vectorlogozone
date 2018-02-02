@@ -9,7 +9,9 @@ logohandle: unicode
 skipped: 0
 sort: unicode
 tags:
+- file_format
 - reference
+- standards_body
 title: Unicode
 twitter: unicode
 website: http://www.unicode.org/

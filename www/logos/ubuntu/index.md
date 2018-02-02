@@ -14,6 +14,9 @@ images:
 logohandle: ubuntu
 skipped: 1
 sort: ubuntu
+tag:
+- linux
+- operating_system
 title: Ubuntu
 twitter: Ubuntu
 website: https://www.ubuntu.com/
