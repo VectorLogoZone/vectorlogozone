@@ -4,13 +4,14 @@ category: language
 github: ruby
 guide: http://rubyidentity.org/
 images:
-- ruby-vertical.svg
-- ruby-card.png
-- ruby-icon.svg
-- ruby-horizontal.svg
-- ruby-ar21.svg
+- ruby-lang-vertical.svg
+- ruby-lang-card.png
+- ruby-lang-icon.svg
+- ruby-lang-horizontal.svg
+- ruby-lang-ar21.svg
 layout: default
-logohandle: ruby
+logohandle: ruby-lang
+redirect_from: /logos/ruby/index.html
 skipped: 0
 sort: ruby
 tags:

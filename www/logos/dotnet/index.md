@@ -9,6 +9,7 @@ images:
 - dotnet-ar21.svg
 - dotnet-icon.svg
 logohandle: dotnet
+redirect_from: /logos/microsoft_dotnet/index.html
 skipped: 2
 sort: microsoft_dotnet
 tags:
