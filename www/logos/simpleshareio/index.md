@@ -6,6 +6,7 @@ font:
 github: fileformat/simpleshare
 logohandle: simpleshareio
 sort: simpleshare
+supertinyicon: '-'
 tags:
 - andrew_marcuse
 - saas
