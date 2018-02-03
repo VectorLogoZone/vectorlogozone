@@ -14,7 +14,6 @@ sort: fileformat.info
 tags:
 - andrew_marcuse
 - digital_preservation
-- noah_marcuse
 - reference
 title: FileFormat.Info
 website: https://www.fileformat.info/
