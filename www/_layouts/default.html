@@ -44,7 +44,7 @@
 		{% if page.tags %}
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
-				<p> Tags: {% for tag in page.tags %}<a href="/logos/tags.html#{{tag}}">{{site.data.tags[tag].title}}</a> {% if forloop.last %}{% else %}| {% endif %}{% endfor %}</p>
+				<p> Tags:{% for tag in page.tags %} <a class="btn btn-default btn-xs" href="/logos/tags.html#{{tag}}">{{site.data.tags[tag].title}}</a>{% endfor %}</p>
 			</div>
 		</div>
 		{% endif %}
