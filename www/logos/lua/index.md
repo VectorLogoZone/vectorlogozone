@@ -1,6 +1,5 @@
 ---
 blog: https://www.lua.org/news.html
-facebook: https://www.facebook.com/blah
 github: lua
 guide: https://www.lua.org/images/
 logohandle: lua

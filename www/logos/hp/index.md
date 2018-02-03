@@ -6,7 +6,6 @@ font:
   url: https://www.dafont.com/printed-circuit-board.font
   myfonts:
 github: hp-hq
-guide: https://www.blah.com/official
 logohandle: hp
 sort: hp
 title: Hewlett Packard

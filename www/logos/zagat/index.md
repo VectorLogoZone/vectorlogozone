@@ -1,7 +1,6 @@
 ---
 blog: https://zagat.googleblog.com/
 facebook: https://www.facebook.com/zagat
-guide: https://www.blah.com/official
 logohandle: zagat
 sort: zagat
 title: Zagat

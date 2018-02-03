@@ -1,5 +1,4 @@
 ---
-blog: https://blog.blah.com/
 facebook: https://www.facebook.com/SoftBank
 logohandle: softbank
 sort: softbank
