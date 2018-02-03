@@ -1,8 +1,8 @@
 - id: ar21
   title: 2:1 Aspect Ratio
   description: 2:1 Aspect Ratio with logo and text.  Image should include some padding.
-  height: 120
-  width: 60
+  height: 60
+  width: 120
   padding: true
 
 - id: icon
