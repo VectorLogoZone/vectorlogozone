@@ -6,6 +6,7 @@ font:
 github: digitalrosetta
 logohandle: digitalrosetta
 sort: digitalrosetta
+supertinyicon: '-'
 tags:
 - andrew_marcuse
 - digital_preservation

@@ -7,6 +7,7 @@ images:
 logohandle: npmjs
 skipped: 0
 sort: npmjs
+supertinyicon: npm
 title: npm
 twitter: npmjs
 website: https://www.npmjs.com/
