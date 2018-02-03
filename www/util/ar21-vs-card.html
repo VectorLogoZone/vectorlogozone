@@ -24,7 +24,7 @@ noindex: true
         <tr>
             <td><img alt="2:1 of {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{ar21file}}" style="height: 120px; width: 240px;"/></td>
             <td><img alt="card of {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{cardfile}}" style="height: 120px; width: 240px;" /></td>
-            <td><a href="{{logopage.url}}">{{logopage.title}}</a></td>
+            <td><a href="{{ logopage.url }}{{site.indexpage}}">{{logopage.title}}</a></td>
         </tr>
         {% endif %}{% endif %}{% endfor %}
         </tbody>

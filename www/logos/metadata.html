@@ -35,7 +35,7 @@ layout: default
 	<tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% assign count = logopage.images.size %}
 		<tr>
 			<!--<td>[{{ logopage.logohandle }}]</td>-->
-			<td><a href="{{logopage.url}}">{{logopage.title}}</a></td>
+			<td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
 			<td class="text-center">
 				{% if logopage.blog %}<a href="{{logopage.blog}}">{{ checkon }}{% assign blogcount = blogcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
 			</td>

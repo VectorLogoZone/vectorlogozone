@@ -2,14 +2,14 @@
 {% for logopage in sorted_pages %}
 	{% if logopage.logohandle %}
 		{% if get_next %}
-			{% assign next_page = logopage.url %}
+			{% assign next_page = logopage.url | append: site.indexpage %}
 			{% assign get_next = false %}
 		{% endif %}
 		{% if page.logohandle == logopage.logohandle %}
 			{% assign prev_page = candidate %}
 			{% assign get_next = true %}
 		{% endif %}
-		{% assign candidate = logopage.url %}
+		{% assign candidate = logopage.url | append: site.indexpage %}
 	{% endif %}
 {% endfor %}
 

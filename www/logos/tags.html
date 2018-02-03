@@ -17,7 +17,7 @@ title: Logos by Tag
     <div id="collapse{{tag[0]}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{tag[0]}}">
       <div class="panel-body logo-container">
 	{% for logopage in sorted_pages %}{% if logopage.tags contains tag[0] %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}-ar21.svg{% endcapture %}{% if logopage.images contains logofile %}
-					<a href="{{ logopage.url }}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}" /></a>
+					<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}" /></a>
 	{% endif %}{% endif %}{% endif %}{% endfor %}
       </div>
     </div>

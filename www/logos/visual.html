@@ -34,26 +34,12 @@ layout: default
 
 		{% for logopage in sorted_pages %}{% if logopage.logohandle %}
 			{% capture logofile %}{{ logopage.logohandle }}-{{ imagetype.id }}.svg{% endcapture %}{% if logopage.images contains logofile %}
-				<a href="{{ logopage.url }}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}{% if imagetype.maxpreviewsize %} maxsize{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}"/></a>
+				<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}{% if imagetype.maxpreviewsize %} maxsize{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}"/></a>
 				{% assign logocount = logocount | plus:1 %}
 			{% endif %}
 		{% endif %}{% endfor %}
 		<p>Count: {{ logocount }}</p>
 		</div>
-
-<!--
-		{% assign logocount = 0 %}
-		<div id="raster{{ imagetype.id }}">
-
-		{% for logopage in sorted_pages %}{% if logopage.logohandle %}
-			{% capture logofile %}{{ logopage.logohandle }}-{{ imagetype.rastersuffix }}.png{% endcapture %}{% if logopage.images contains logofile %}
-				<a href="{{ logopage.url }}"><img src="{{ logopage.logohandle }}/{{ logofile }}" /></a>
-				{% assign logocount = logocount | plus:1 %}
-			{% endif %}
-		{% endif %}{% endfor %}
-		<p>{{ logocount }} raster logos for {{ imagetype.title }}</p>
-		</div>
--->
 	</div>
 {% endfor %}
 </div>

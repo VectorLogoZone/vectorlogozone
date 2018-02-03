@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>{{page.title}}</title>
-    <link rel="canonical" href="{{page.canonical}}">
+    <link rel="canonical" href="/logos/{{page.amphandle}}/index.html" />
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <style amp-custom>
 
@@ -71,13 +71,10 @@
         </amp-ad>
 
         {{ content }}
-        {% if page.ar21 %}
-        <p><amp-img class="logoimage" src="{{page.ar21}}" width="240" height="120"></amp-img></p>
-        {% endif %}
 
-        {% if page.icon %}
-        <p><amp-img class="logoimage" src="{{page.icon}}" width="180" height="180"></amp-img></p>
-        {% endif %}
+        {% assign sorted_images = page.images | sort %}{% for image in sorted_images %}
+        <p><amp-img class="logoimage" src="{{image}}" style="max-height: 120px; max-width:240px;"></amp-img></p>
+        {% endfor %}
 
         <amp-ad
             layout="responsive"
@@ -90,7 +87,7 @@
 
     </div>
     <div class="footer">
-        <a href="{{page.canonical}}">Other versions</a>
+        <a href="index.html">Other versions</a>
     </div>
 </body>
 </html>

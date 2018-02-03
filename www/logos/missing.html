@@ -25,7 +25,7 @@ noindex: true
         {% if logopage.images contains logoar21 and logopage.images contains logoicon %}
         {% else %}{% assign logocount = logocount | plus:1 %}
         <tr>
-            <td><a href="{{logopage.url}}">{{logopage.logohandle}}</a></td>
+            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.logohandle}}</a></td>
             <td>{{logopage.title}}</td>
             <td>{% unless logopage.images contains logoicon %}MISSING{% endunless %}</td>
             <td>{% unless logopage.images contains logoar21 %}MISSING{% endunless %}</td>

@@ -25,12 +25,10 @@ def process(logohandle, logodir):
 
     fmdst = frontmatter.loads("---\nlayout: amp\nnoindex: true\n---")
     fmdst["title"] = fmsrc["title"] + " Logos"
-    if logohandle + "-icon.svg" in fmsrc["images"]:
-        fmdst["icon"] = logohandle + "-icon.svg"
-    if logohandle + "-ar21.svg" in fmsrc["images"]:
-        fmdst["ar21"] = logohandle + "-ar21.svg"
-    fmdst["canonical"] = "/logos/" + logohandle + "/index.html"
+    fmdst["amphandle"] = fmsrc["logohandle"]
+    fmdst["images"] = fmsrc["images"]
     fmdst.content = CommonMark.commonmark(fmsrc.content)
+    fmdst["amp"] = True
 
     dstfile = os.path.join(logodir, "index.amp.html")
 

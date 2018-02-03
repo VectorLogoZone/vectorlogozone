@@ -66,7 +66,10 @@
 	{% if prev_page %}<link rel="prev" href="{{prev_page}}" />{% endif %}
 	{% if next_page %}<link rel="next" href="{{next_page}}" />{% endif %}
 	{% if page.url == '/index.html' or page.url == '/' %}{% include meta-home.html %}{% endif %}
-	{% if page.images.size > 0 %}
+    {% if page.logohandle %}
+    <link rel="canonical" href="{{site.production_url}}/logos/{{page.logohandle}}/index.html" />
+    {% endif %}
+    {% if page.images.size > 0 %}
     <link rel="amphtml" href="{{site.production_url}}/logos/{{page.logohandle}}/index.amp.html" />
 	<meta property="description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
 
