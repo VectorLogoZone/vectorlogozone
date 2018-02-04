@@ -4,6 +4,7 @@ facebook: https://facebook.com/pocket
 github: pocket
 logohandle: getpocket
 sort: pocket
+supertinyicon: pocket
 title: Pocket
 twitter: pocket
 website: https://getpocket.com/

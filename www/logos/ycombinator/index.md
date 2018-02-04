@@ -7,6 +7,7 @@ images:
 logohandle: ycombinator
 skipped: 1
 sort: ycombinator
+supertinyicon: hackernews
 title: Y Combinator
 twitter: ycombinator
 website: http://www.ycombinator.com/
