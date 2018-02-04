@@ -3,10 +3,38 @@ title: Compare tiles with SuperTinyIcons
 layout: default
 noindex: true
 ---
+<style>
+    /* Container needed to position the overlay */
+    .img-container {
+        position: relative;
+        height: 128px;
+        width: 128px;
+    }
+
+    .img-preview {
+        width: 128px;
+        height: 128px;
+    }
+
+    .overlay {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 128px;
+        height: 128px;
+    }
+
+    img-overlay {
+        width: 128px;
+        height: 128px;
+    }
+
+
+</style>
 <p>This is a page to compare the tiles with the ones from <a href="https://github.com/edent/SuperTinyIcons">SuperTinyIcons</a>.</p>
 
 {% assign sorted_pages = site.pages | sort:'sort' %}
-<div class="logo-container">
+<div>
     <table class="table table-bordered" style="width:inherit;">
         <thead>
         <tr>
@@ -21,8 +49,20 @@ noindex: true
         {% capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture %}
         {% if logopage.images contains tilefile and sti_file != '-' %}
         <tr>
-            <td><img alt="tile of {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{tilefile}}" style="height: 128px; width: 128px; padding: 10px;" /></td>
-            <td><img alt="icon of {{logopage.title}}" src="https://github-logos.vectorlogo.zone/super-tiny-icons/{{sti_file}}.svg" style="height: 128px; width: 128px; padding: 10px;" /></td>
+            <td>
+                <div class="img-container"><img alt="tile of {{logopage.title}}" class="img-preview" src="{{site.production_url}}/logos/{{logopage.logohandle}}/{{tilefile}}" />
+                    <div class="overlay">
+                        <img class="img-overlay" src="tile-hollow.svg" />
+                    </div>
+                </div>
+            </td>
+            <td>
+                <div class="img-container"><img alt="SuperTinyIcon version of {{logopage.title}}" class="img-preview" src="https://github-logos.vectorlogo.zone/super-tiny-icons/{{sti_file}}.svg" />
+                    <div class="overlay">
+                        <img class="img-overlay" src="tile-hollow.svg" />
+                    </div>
+                </div>
+            </td>
             <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
         </tr>
         {% endif %}{% endif %}{% endfor %}
