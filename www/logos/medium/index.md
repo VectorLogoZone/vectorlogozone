@@ -1,6 +1,7 @@
 ---
 blog: https://medium.com/3minread
 facebook: https://www.facebook.com/medium
+guide: https://medium.design/logos-and-brand-guidelines-f1a01a733592
 github: medium
 logohandle: medium
 sort: medium
