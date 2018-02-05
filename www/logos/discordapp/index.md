@@ -9,6 +9,7 @@ github: discordapp
 guide: https://discordapp.com/branding
 logohandle: discordapp
 sort: discordapp
+supertinyicon: discord
 title: Discord
 twitter: discordapp
 website: https://discordapp.com/
