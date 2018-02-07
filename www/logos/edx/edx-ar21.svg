@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 120.00001 59.999998"
+   version="1.1"
+   sodipodi:docname="edx-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>edx-logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="1.6435043"
+     inkscape:cx="131.73019"
+     inkscape:cy="39.632906"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs7">
+    <style
+       id="style2">.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:#209fda;}.cls-4{fill:#026ba4;}.cls-5{fill:#78212e;}.cls-6{fill:#8a8c8f;}.cls-7{fill:#b72768;}</style>
+    <clipPath
+       id="clip-path"
+       transform="translate(-3.47 -3.13)">
+      <rect
+         class="cls-1"
+         x="3.47"
+         y="3.1300001"
+         width="583.40997"
+         height="269.82001"
+         id="rect4"
+         style="fill:none" />
+    </clipPath>
+  </defs>
+  <title
+     id="title9">edx-logo</title>
+  <g
+     class="cls-2"
+     clip-path="url(#clip-path)"
+     id="g25"
+     transform="matrix(0.13394379,0,0,0.13394379,20.695534,11.716673)">
+    <polygon
+       class="cls-3"
+       points="359.46,226.01 392.25,226.01 392.25,269.82 439.05,269.82 439.05,226.01 411.96,226.01 457.96,169.26 457.97,169.26 504.02,226.01 476.88,226.01 476.88,269.82 583.41,269.82 583.41,226.01 563.43,226.01 487.66,132.63 560.51,42.75 583.41,42.75 583.41,0 476.88,0 476.88,42.75 501.09,42.75 457.93,95.99 414.73,42.75 439.05,42.75 439.05,0 359.46,0 359.46,47.86 428.24,132.63 359.46,217.48 "
+       id="polygon11"
+       style="fill:#209fda" />
+    <polygon
+       class="cls-4"
+       points="359.46,47.86 359.46,0 332.01,0 332.01,42.75 355.31,42.75 "
+       id="polygon13"
+       style="fill:#026ba4" />
+    <polygon
+       class="cls-4"
+       points="392.25,226.01 359.46,226.01 359.46,217.48 352.54,226.01 332.01,226.01 332.01,269.82 392.25,269.82 "
+       id="polygon15"
+       style="fill:#026ba4" />
+    <path
+       class="cls-5"
+       d="m 164.47,209.06 h 37.83 a 103.67,103.67 0 0 1 -18.55,30 104.5,104.5 0 0 1 -19.28,-30"
+       transform="translate(-3.47,-3.13)"
+       id="path17"
+       inkscape:connector-curvature="0"
+       style="fill:#78212e" />
+    <path
+       class="cls-5"
+       d="m 183.75,97.77 a 104.3,104.3 0 0 0 -23.48,41.93 61.47,61.47 0 0 1 4.29,10.78 H 202 a 60.16,60.16 0 0 1 4.4,-10.62 104.39,104.39 0 0 0 -22.65,-42.09 z m -19.19,52.71 a 64.26,64.26 0 0 1 0.28,34.84 h 36.83 a 61.34,61.34 0 0 1 0.3,-34.84 z m 0,0 h -6.75 a 105.56,105.56 0 0 0 -0.17,34.84 h 7.2 a 64.27,64.27 0 0 0 -0.28,-34.84 z"
+       transform="translate(-3.47,-3.13)"
+       id="path19"
+       inkscape:connector-curvature="0"
+       style="fill:#78212e" />
+    <path
+       class="cls-6"
+       d="m 358.78,45.88 h -23.3 V 3.14 h -44 v 42.74 h 28.42 v 36.85 a 100.53,100.53 0 0 0 -59.1,-18.86 104.24,104.24 0 0 0 -77.06,33.9 104.38,104.38 0 0 1 22.62,42.09 61,61 0 0 1 53.94,-32.47 c 33.7,0 59.61,27.32 59.61,61 v 0.33 c -0.17,33.54 -26,60.68 -59.61,60.68 a 61,61 0 0 1 -53.94,-32.47 v 0 a 60.54,60.54 0 0 1 -4.7,-11.62 h -44 a 104.18,104.18 0 0 0 6.83,23.73 h 37.81 a 103.67,103.67 0 0 1 -18.55,30 104.24,104.24 0 0 0 77.06,33.9 100.44,100.44 0 0 0 74.68,-32.71 V 229.15 H 356 l 6.92,-8.54 V 51 Z m -38.87,208.2 V 273 h 15.58 v -32.78 a 101.37,101.37 0 0 1 -15.58,13.86 z M 160.27,139.7 a 101.58,101.58 0 0 0 -2.46,10.78 h 6.75 a 61.48,61.48 0 0 0 -4.29,-10.78 z"
+       transform="translate(-3.47,-3.13)"
+       id="path21"
+       inkscape:connector-curvature="0"
+       style="fill:#8a8c8f" />
+    <path
+       class="cls-7"
+       d="m 208.67,150.48 a 107.36,107.36 0 0 0 -2.3,-10.62 60.16,60.16 0 0 0 -4.4,10.62 61.34,61.34 0 0 0 -0.3,34.84 h 7.16 a 111,111 0 0 0 -0.16,-34.84 z M 108,63.87 A 104.55,104.55 0 0 0 5,150.48 H 49.17 A 61,61 0 0 1 107.5,107.39 58.84,58.84 0 0 1 160.26,139.7 104.29,104.29 0 0 1 183.74,97.77 100.35,100.35 0 0 0 108,63.87 Z m 44.21,145.19 A 58.59,58.59 0 0 1 107.5,229.42 61,61 0 0 1 48.87,185.33 h 108.77 a 105.56,105.56 0 0 1 0.17,-34.84 H 5 a 105.56,105.56 0 0 0 -0.17,34.84 v 0 A 104.56,104.56 0 0 0 108,272.93 100.35,100.35 0 0 0 183.75,239 104.5,104.5 0 0 1 164.47,209 h -12.26 z"
+       transform="translate(-3.47,-3.13)"
+       id="path23"
+       inkscape:connector-curvature="0"
+       style="fill:#b72768" />
+  </g>
+  <rect
+     class="cls-1"
+     width="62.549465"
+     height="28.928366"
+     id="rect27"
+     x="0"
+     y="31.116264"
+     style="fill:none;stroke-width:0.10721356" />
+</svg>
