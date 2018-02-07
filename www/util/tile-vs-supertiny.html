@@ -41,6 +41,7 @@ noindex: true
     <button class="btn" id="btn-red">red</button>
     <button class="btn" id="btn-black">black</button>
     <button class="btn" id="btn-hollow">lines</button>
+    <button class="btn" id="btn-white">white lines</button>
 </div>
 <div>
     Overlay opacity:
@@ -100,6 +101,9 @@ noindex: true
         });
         $("#btn-hollow").click(function() {
             $(".img-overlay").attr("src", "tile-hollow.svg").css("width", "128px").css("height", "128px");
+        });
+        $("#btn-white").click(function() {
+            $(".img-overlay").attr("src", "tile-white.svg").css("width", "128px").css("height", "128px");
         });
         $("#btn-opacity10").click(function() {
             $(".img-overlay").css("opacity", "0.1");
