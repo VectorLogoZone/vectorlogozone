@@ -7,6 +7,7 @@ font:
 github: internetarchive
 logohandle: archive
 sort: internet_archive
+supertinyicon: internet_archive
 title: Internet Archive
 twitter: internetarchive
 website: https://archive.org/
