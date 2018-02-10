@@ -2,6 +2,7 @@
 title: Compare tiles with SuperTinyIcons
 layout: default
 noindex: true
+redirect_from: /util/tile-vs-supertiny.html
 ---
 <style>
     /* Container needed to position the overlay */
@@ -11,9 +12,18 @@ noindex: true
         width: 128px;
     }
 
+    .img-container-icon {
+        padding: 15px;
+    }
+
     .img-preview {
         width: 128px;
         height: 128px;
+    }
+
+    .img-preview-icon {
+        width: 98px;
+        height: 98px;
     }
 
     .overlay {
@@ -33,14 +43,14 @@ noindex: true
 </style>
 <p>This is a page to compare the tiles with the ones from <a href="https://github.com/edent/SuperTinyIcons">SuperTinyIcons</a>.</p>
 
-{% assign sorted_pages = site.pages | sort:'sort' %}
+{%- assign sorted_pages = site.pages | sort:'sort' -%}
 <div>
     Overlay image:
     <button class="btn" id="btn-none">none</button>
     <button class="btn" id="btn-yellow">yellow</button>
     <button class="btn" id="btn-red">red</button>
     <button class="btn" id="btn-black">black</button>
-    <button class="btn" id="btn-hollow">lines</button>
+    <button class="btn" id="btn-hollow">black lines</button>
     <button class="btn" id="btn-white">white lines</button>
 </div>
 <div>
@@ -54,56 +64,56 @@ noindex: true
     <table class="table table-bordered" style="width:inherit;">
         <thead>
         <tr>
-            <th>VLZ</th>
+            <th>VLZ Tile</th>
             <th>STI</th>
             <th>Name</th>
         </tr>
         </thead>
         <tbody>
-        {% for logopage in sorted_pages %}{% if logopage.logohandle %}
-        {% capture sti_file %}{{ logopage.supertinyicon | default: logopage.logohandle }}{% endcapture %}
-        {% capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture %}
-        {% if logopage.images contains tilefile and sti_file != '-' %}
+        {%- for logopage in sorted_pages %}{% if logopage.logohandle -%}
+        {%- capture sti_file %}{{ logopage.supertinyicon | default: logopage.logohandle }}{% endcapture -%}
+        {%- capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture -%}
+        {%- if logopage.images contains tilefile and sti_file != '-' -%}
         <tr>
             <td>
                 <div class="img-container"><img alt="tile of {{logopage.title}}" class="img-preview" src="{{site.production_url}}/logos/{{logopage.logohandle}}/{{tilefile}}" />
                     <div class="overlay">
-                        <img class="img-overlay" src="tile-hollow.svg" />
+                        <img class="img-overlay" src="/images/overlay/tile-hollow.svg" />
                     </div>
                 </div>
             </td>
             <td>
                 <div class="img-container"><img alt="SuperTinyIcon version of {{logopage.title}}" class="img-preview" src="https://github-logos.vectorlogo.zone/super-tiny-icons/{{sti_file}}.svg" />
                     <div class="overlay">
-                        <img class="img-overlay" src="tile-hollow.svg" />
+                        <img class="img-overlay" src="/images/overlay/tile-hollow.svg" />
                     </div>
                 </div>
             </td>
             <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
         </tr>
-        {% endif %}{% endif %}{% endfor %}
+        {%- endif %}{% endif %}{% endfor -%}
         </tbody>
     </table>
 </div>
 <script>
     $(document).ready(function() {
         $("#btn-none").click(function() {
-            $(".img-overlay").attr("src", "tile-none.svg").css("width", "128px").css("height", "128px");
+            $(".img-overlay").attr("src", "/images/overlay/tile-none.svg").css("width", "128px").css("height", "128px");
         });
         $("#btn-yellow").click(function() {
-            $(".img-overlay").attr("src", "tile-yellow.svg").css("width", "128px").css("height", "128px");
+            $(".img-overlay").attr("src", "/images/overlay/tile-yellow.svg").css("width", "128px").css("height", "128px");
         });
         $("#btn-red").click(function() {
-            $(".img-overlay").attr("src", "tile-red.svg").css("width", "128px").css("height", "128px");
+            $(".img-overlay").attr("src", "/images/overlay/tile-red.svg").css("width", "128px").css("height", "128px");
         });
         $("#btn-black").click(function() {
-            $(".img-overlay").attr("src", "tile-black.svg").css("width", "128px").css("height", "128px");
+            $(".img-overlay").attr("src", "/images/overlay/tile-black.svg").css("width", "128px").css("height", "128px");
         });
         $("#btn-hollow").click(function() {
-            $(".img-overlay").attr("src", "tile-hollow.svg").css("width", "128px").css("height", "128px");
+            $(".img-overlay").attr("src", "/images/overlay/tile-hollow.svg").css("width", "128px").css("height", "128px");
         });
         $("#btn-white").click(function() {
-            $(".img-overlay").attr("src", "tile-white.svg").css("width", "128px").css("height", "128px");
+            $(".img-overlay").attr("src", "/images/overlay/tile-white.svg").css("width", "128px").css("height", "128px");
         });
         $("#btn-opacity10").click(function() {
             $(".img-overlay").css("opacity", "0.1");
@@ -118,6 +128,4 @@ noindex: true
             $(".img-overlay").css("opacity", "1.0");
         });
     });
-
-
 </script>
