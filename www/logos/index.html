@@ -1,19 +1,88 @@
 ---
-title: Available Logos
+title: Complete list of SVG Logos
+h1: Logos
 layout: default
-redirect_from: /all.html
 ---
-{% assign sorted_pages = site.pages | sort:'sort' %}
-<div class="logo-container">
-	<p>
-{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
-		<a href="{{logopage.url}}{{site.indexpage}}"><img alt="{{logopage.title}}" src="{{logopage.logohandle}}/{{logofile}}" title="{{logopage.title}}" style="width:120px;height:60px;"/></a>
-{% endif %}{% endif %}{% endfor %}
-	</p>
-</div>
+{%- assign sorted_pages = site.pages | sort:'sort' -%}
+{%- capture checkon %}<i class="fa fa-check"></i>{% endcapture -%}
+{%-capture checkoff %}<i class="fa fa-fw"></i>{% endcapture -%}
 
-<div class="row">
-	<div class="col-md-12">
-		<div class="alert alert-info">More <a href="links.html">lists of logos</a> available here, including the <a href="visual.html">complete visual inventory of available logos</a> (WARNING: lots of images).</div>
-	</div>
+<ul class="nav nav-tabs" id="vlz-tabs" role="tablist">
+{%- for imagetype in site.data.imagetype %}{% if imagetype.tab -%}
+	<li role="presentation"{% if forloop.first %} class="active"{% endif %} id="tab-{{imagetype.id}}"><a href="#{{ imagetype.id }}" aria-controls="tab-data-{{ imagetype.id }}" role="tab">{{ imagetype.title}}</a></li>
+{%- endif %}{% endfor -%}
+</ul>
+<p id="focustarget"></p>
+
+<div class="tab-content">
+{%- for imagetype in site.data.imagetype %}{% if imagetype.tab -%}
+	{%- assign logocount = 0 -%}
+	<div role="tabpanel" class="tab-pane vlz-tab-data" id="tab-data-{{ imagetype.id }}" {% if forloop.first %}{% else %}style="display:hidden;"{% endif %} >
+
+		<p></p>
+
+		<div class="alert alert-info">{{ imagetype.description }}
+			<div class="pull-right">
+
+<div class="btn-group pull-right" role="group" aria-label="Border">
+  <button type="button" class="btn btn-default btn-xs paddingbtn {% if imagetype.padding %}active{% endif %}" data-option="0" data-target="vector{{ imagetype.id }}" title="No padding"><img alt="" src="/images/visual/nopadding.svg" style="background-color:white;" /></button>
+  <button type="button" class="btn btn-default btn-xs paddingbtn {% if imagetype.padding == false %}active{% endif %}" data-option="1" data-target="vector{{ imagetype.id }}" title="Padding"><img alt="" src="/images/visual/padding.svg" style="background-color:white;" /></button>
 </div>
+			</div>
+		</div>
+
+		<div class="logo-container" id="vector{{ imagetype.id }}">
+
+		{%- for logopage in sorted_pages %}{% if logopage.logohandle -%}
+			{%- capture logofile %}{{ logopage.logohandle }}-{{ imagetype.id }}.svg{% endcapture %}{% if logopage.images contains logofile -%}
+				<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}{% if imagetype.maxpreviewsize %} maxsize{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}"/></a>
+				{% assign logocount = logocount | plus:1 %}
+			{%- endif -%}
+		{%- endif %}{% endfor -%}
+		<p>Count: {{ logocount }}</p>
+		</div>
+	</div>
+    {%- endif %}{% endfor -%}
+</div>
+<script>
+
+	function switchTabs()
+	{
+		$("#vlz-tabs > li").removeClass("active");
+		var hash = window.location.hash;
+		console.log("hash=" + hash);
+		if (!hash || hash == '#')
+		{
+			$("#tab-ar21").addClass("active");
+			$("#tab-data-ar21").show();
+		}
+		else
+		{
+			$(".vlz-tab-data").hide();
+			$("#tab-data-" + hash.substring(1)).show();
+			$("#tab-" + hash.substring(1)).addClass("active");
+			$("#focustarget").focus();
+		}
+	}
+
+	$(document).ready(function() {
+		switchTabs();
+		$(window).bind('hashchange', switchTabs);
+		$(".paddingbtn").click( function() {
+			console.log($("#" + $(this).attr("data-target") + " img"));
+			if ($(this).attr("data-option") == 0)
+			{
+				$("#" + $(this).attr("data-target") + " img").removeClass("padded");
+			}
+			else
+			{
+				$("#" + $(this).attr("data-target") + " img").addClass("padded");
+			}
+			$(this).siblings().removeClass("active");
+			$(this).addClass("active");
+		});
+	});
+
+</script>
+
+
