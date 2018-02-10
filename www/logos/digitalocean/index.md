@@ -1,6 +1,6 @@
 ---
 blog: https://blog.digitalocean.com/
-category: service
+colors: "#0080FF"
 facebook: https://www.facebook.com/DigitalOceanCloudHosting
 font:
   name: Lato Bold

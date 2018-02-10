@@ -1,5 +1,6 @@
 ---
 blog: https://blog.discordapp.com/
+colors: [ "#7289DA", "#FFFFFF", "#99AAB5", "#2C2F33", "#23272A"]
 facebook: https://www.facebook.com/discordapp
 font:
   name: Uni Sans

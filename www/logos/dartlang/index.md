@@ -1,5 +1,6 @@
 ---
 blog: http://news.dartlang.org/
+colors: [ "#22D3C5", "#0075C9", "#00A8E1", "#00C4B3" ]
 font:
   name: Montserrat
   google: https://fonts.google.com/specimen/Montserrat

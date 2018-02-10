@@ -1,5 +1,6 @@
 ---
 blog: https://blog.dell.com/
+colors: "#007DB8"
 facebook: http://www.facebook.com/dell
 font:
   name: Replica

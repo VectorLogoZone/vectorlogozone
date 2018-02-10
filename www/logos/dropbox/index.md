@@ -1,5 +1,6 @@
 ---
 blog: https://blog.dropbox.com/
+colors: "#0061FE"
 facebook: https://www.facebook.com/Dropbox
 font:
   name: ITC Franklin Std Narrow Bold
