@@ -4,7 +4,6 @@ facebook: http://www.facebook.com/dell
 font:
   name: Replica
   url: https://lineto.com/The+Fonts/Font+Categories/Text+Fonts/Replica/
-  myfonts:
 github: dell
 guide: http://brand.delltechnologies.com/dell/logo-library/
 logohandle: dell

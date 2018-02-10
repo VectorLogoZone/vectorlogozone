@@ -1,6 +1,11 @@
 ---
 blog: http://blogs.perl.org/
 category: language
+font:
+  name: ITC Garamond
+  myfonts: http://www.myfonts.com/fonts/itc/garamond/lit/
+  freename: Guru by Bhikkhu Pesala
+  freeurl: http://www.softerviews.org/Fonts.html
 github: Perl
 images:
 - perl-ar21.svg
@@ -26,5 +31,3 @@ The use of the camel image in association with the Perl language is a trademark 
 O'Reilly has a [usage overview](http://onlamp.com/pub/a/oreilly/perl/usage/) and [FAQ](http://www.oreillynet.com/lpt/a/3157) that you need to read before using the camel.
 
 [Camel source](https://github.com/dnmfarrell/Perl-Icons)
-
-The font is [ITC Garamond](http://www.myfonts.com/fonts/itc/garamond/lit/?refby=vectorlogozone).  I used a similar free font [Guru](http://www.softerviews.org/Fonts.html) by Bhikkhu Pesala.

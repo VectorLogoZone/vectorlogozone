@@ -3,7 +3,7 @@ blog: http://www.ebay.com/stories/
 facebook: https://www.facebook.com/eBay
 font:
   name: Univers 53 Extended
-  myfonts: http://www.myfonts.com/fonts/linotype/univers/53-extended/
+  myfonts: https://www.myfonts.com/fonts/linotype/univers/53-extended/
 github: ebay
 guide: https://go.developer.ebay.com/logos
 images:

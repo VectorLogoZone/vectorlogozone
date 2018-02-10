@@ -1,5 +1,6 @@
 ---
 blog: https://officialandroid.blogspot.com/
+colors: ["#A4C639"]
 facebook: https://www.facebook.com/AndroidOfficial
 github: android
 guide: https://developer.android.com/distribute/marketing-tools/brand-guidelines.html

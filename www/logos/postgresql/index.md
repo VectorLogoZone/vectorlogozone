@@ -1,5 +1,8 @@
 ---
 blog: https://www.postgresql.org/about/newsarchive/
+font:
+  name: Strait
+  google: https://www.google.com/fonts/specimen/Strait
 github: postgres
 guide: https://wiki.postgresql.org/wiki/Identity_Guidelines
 images:
@@ -21,6 +24,5 @@ wikipedia: https://en.wikipedia.org/wiki/PostgreSQL
 
 Icon from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Postgresql_elephant.svg)
 
-Font is [Strait](https://www.google.com/fonts/specimen/Strait)
 
 The [Story of Slonik](http://www.vertabelo.com/blog/notes-from-the-lab/the-history-of-slonik-the-postgresql-elephant-logo), the PostgreSQL mascot.

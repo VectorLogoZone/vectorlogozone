@@ -1,5 +1,11 @@
 ---
 blog: https://blogs.apache.org/
+font:
+  name: Verdana Bold
+  url:
+  myfonts: https://www.myfonts.com/fonts/ascender/verdana/bold/
+  microsoft: https://www.microsoft.com/typography/fonts/font.aspx?FMID=1818
+guide: http://apache.org/foundation/press/kit/#links
 images:
 - apache-ar21.svg
 - apache-card.png
@@ -15,8 +21,5 @@ twitter: TheASF
 website: http://apache.org/
 ---
 
-[Official logos](http://apache.org/foundation/press/kit/#links)
-
 [Format trademark policy](http://www.apache.org/foundation/marks/)
 
-Font is Verdana Bold

@@ -3,7 +3,7 @@ blog: https://blogs.nasa.gov/
 facebook: https://www.facebook.com/nasa
 font:
   name: Nasalization Medium
-  myfonts: http://www.myfonts.com/fonts/typodermic/nasalization/
+  myfonts: https://www.myfonts.com/fonts/typodermic/nasalization/
 github: nasa
 logohandle: nasa
 sort: nasa

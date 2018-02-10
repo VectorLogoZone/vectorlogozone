@@ -1,6 +1,9 @@
 ---
 blog: https://www.python.org/blogs/
 category: language
+font:
+  name: Flux Regular
+  myfonts: http://www.myfonts.com/fonts/t26/flux/regular/
 github: python
 guide: https://www.python.org/community/logos/
 images:
@@ -25,5 +28,3 @@ wikipedia: https://en.wikipedia.org/wiki/Python_(programming_language)
 [official Python Logos](http://www.python.org/community/logos/).
 
 [Python trademark policy](http://www.python.org/psf/trademarks/).
-
-The font is [Flux Regular](http://www.myfonts.com/fonts/t26/flux/regular/?refby=vectorlogozone).

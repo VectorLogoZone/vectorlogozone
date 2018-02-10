@@ -1,6 +1,10 @@
 ---
 blog: http://blog.nearlyfreespeech.net/
 category: hosting
+font:
+  name: Trebuchet Bold
+  myfonts: http://www.myfonts.com/fonts/ascender/trebuchet/bold/
+  microsoft: https://www.microsoft.com/typography/fonts/font.aspx?FMID=785
 images:
 - nearlyfreespeech-card.png
 - nearlyfreespeech-vertical.svg
@@ -17,4 +21,3 @@ title: NearlyFreeSpeech.Net
 website: https://www.nearlyfreespeech.net/
 ---
 
-The font is [Trebuchet Bold](http://www.myfonts.com/fonts/ascender/trebuchet/bold/?ref=vectorlogozone).

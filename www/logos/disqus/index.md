@@ -1,9 +1,10 @@
 ---
 blog: https://blog.disqus.com/
+colors: ["#2E9FFF"]
 facebook: https://www.facebook.com/disqus/
 font:
   name:  Museo Sans Cyrl-900
-  myfonts: http://www.myfonts.com/fonts/exljbris/museo-sans-cyrillic/900/
+  myfonts: https://www.myfonts.com/fonts/exljbris/museo-sans-cyrillic/900/
 github: disqus
 guide: https://disqus.com/brand/
 images:

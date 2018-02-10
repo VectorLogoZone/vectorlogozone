@@ -1,6 +1,12 @@
 ---
 blog: https://www.haskell.org/news
 category: default
+font:
+  name: Helvetica
+  myfonts: http://www.myfonts.com/fonts/linotype/helvetica/bold/
+  freename: Swansea
+  freeurl: http://www.fontspace.com/roger-white/swansea
+
 github: haskell-infra/hl
 images:
 - haskell-ar21.svg
@@ -22,4 +28,3 @@ wikipedia: https://en.wikipedia.org/wiki/Haskell_(programming_language)
 
 This is the [Thompson-Wheeler logo](http://www.haskell.org/haskellwiki/Thompson-Wheeler_logo) from the Haskell wiki.
 
-The font is [Helvetica](http://www.myfonts.com/fonts/linotype/helvetica/bold/?refby=vectorlogozone).  I used the free [Swansea font](http://www.fontspace.com/roger-white/swansea).

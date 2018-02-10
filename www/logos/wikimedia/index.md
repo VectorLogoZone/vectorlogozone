@@ -2,7 +2,7 @@
 blog: https://blog.wikimedia.org/
 font:
   name:  Gill Sans Bold
-  myfonts: http://www.myfonts.com/fonts/adobe/gill-sans/bold/
+  myfonts: https://www.myfonts.com/fonts/adobe/gill-sans/bold/
 github: wikimedia
 guide: https://wikimediafoundation.org/wiki/Visual_identity_guidelines
 logohandle: wikimedia

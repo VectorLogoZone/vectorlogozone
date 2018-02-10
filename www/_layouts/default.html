@@ -10,24 +10,33 @@
 	<div class="container">
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
+                {%- if page.logohandle -%}
 				<div class="pull-right icon-link-header" style="padding-top:20px;">
-                    {% if page.guide %}<a title="Official Guidelines" href="{{ page.guide }}"><i class="fa fa-certificate icon-link"></i></a>{% endif %}
-					{% if page.website %}<a title="Website" href="{{ page.website }}"><i class="fa fa-globe icon-link"></i></a>{% endif %}
-					{% if page.blog %}<a title="Blog" href="{{ page.blog }}"><i class="fa fa-rss-square icon-link"></i></a>{% endif %}
-					{% if page.facebook %}<a title="Facebook" href="{{ page.facebook }}"><i class="fa fa-facebook icon-link"></i></a>{% endif %}
-					{% if page.twitter %}<a title="Twitter" href="https://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter icon-link"></i></a>{% endif %}
-					{% if page.github %}<a title="Github" href="https://github.com/{{ page.github }}"><i class="fa fa-github icon-link"></i></a>{% endif %}
-                    {% if page.pinterest %}<a title="Pinterest" href="https://www.pinterest.com/{{ page.pinterest }}/"><i class="fa fa-pinterest icon-link"></i></a>{% endif %}
-					{% if page.wikipedia %}<a title="Wikipedia" href="{{ page.wikipedia }}"><i class="fa fa-wikipedia-w icon-link"></i></a>{% endif %}
-					{% if prev_page %}<a class="btn btn-default btn-xs" href="{{prev_page}}" title="Previous set of logos"><i class="fa fa-caret-left"></i> Previous</a>{% endif %}
-					{% if next_page %}<a class="btn btn-default btn-xs" href="{{next_page}}" title="Next set of logos">Next <i class="fa fa-caret-right"></i></a>{% endif %}
+                    {%- if page.guide %}<a title="Official Guidelines" href="{{ page.guide }}"><i class="fa fa-certificate icon-link"></i></a>{% endif -%}
+					{%- if page.website %}<a title="Website" href="{{ page.website }}"><i class="fa fa-globe icon-link"></i></a>{% endif -%}
+					{%- if page.blog %}<a title="Blog" href="{{ page.blog }}"><i class="fa fa-rss-square icon-link"></i></a>{% endif -%}
+					{%- if page.facebook %}<a title="Facebook" href="{{ page.facebook }}"><i class="fa fa-facebook icon-link"></i></a>{% endif -%}
+					{%- if page.twitter %}<a title="Twitter" href="https://twitter.com/{{ page.twitter }}"><i class="fa fa-twitter icon-link"></i></a>{% endif -%}
+					{%- if page.github %}<a title="Github" href="https://github.com/{{ page.github }}"><i class="fa fa-github icon-link"></i></a>{% endif -%}
+                    {%- if page.pinterest %}<a title="Pinterest" href="https://www.pinterest.com/{{ page.pinterest }}/"><i class="fa fa-pinterest icon-link"></i></a>{% endif -%}
+					{%- if page.wikipedia %}<a title="Wikipedia" href="{{ page.wikipedia }}"><i class="fa fa-wikipedia-w icon-link"></i></a>{% endif -%}
+					{%- if prev_page %}<a class="btn btn-default btn-xs" href="{{prev_page}}" title="Previous set of logos"><i class="fa fa-caret-left"></i> Previous</a>{% endif -%}
+					{%- if next_page %}<a class="btn btn-default btn-xs" href="{{next_page}}" title="Next set of logos">Next <i class="fa fa-caret-right"></i></a>{% endif -%}
 				</div>
+                {%- endif -%}
 				<h1>{% if page.h1 %}{{ page.h1 }}{% else %}{{ page.title }}{% endif %}{% if page.subtitle %} <small> - {{ page.subtitle }}</small>{% endif %}</h1>
 				{{ content }}
 			</div><!--/col-->
 		</div><!--/row-->
-		{% if page.images.size > 0 %}{% include imagelist.html %}{% endif %}
-        {% if page.logohandle %}
+        {% if page.font %}
+        <div class="row">
+            <div class="col-md-10 col-md-offset-1">
+                {%- include fonts.html -%}
+            </div>
+        </div>
+        {%- endif -%}
+		{%- if page.images.size > 0 %}{% include imagelist.html %}{% endif -%}
+        {%- if page.logohandle -%}
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
                 {% include logosearch.html %}

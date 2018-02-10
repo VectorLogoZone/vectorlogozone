@@ -4,7 +4,7 @@ category: services
 font:
   name: Collegiate
   url: http://www.k-type.com/fonts/collegiate/
-  myfonts: http://www.myfonts.com/fonts/k-type/collegiate/
+  myfonts: https://www.myfonts.com/fonts/k-type/collegiate/
   note: Free for personal use
 github: github
 guide: https://github.com/logos

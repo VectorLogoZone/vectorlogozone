@@ -2,6 +2,10 @@
 blog: https://blog.digitalocean.com/
 category: service
 facebook: https://www.facebook.com/DigitalOceanCloudHosting
+font:
+  name: Lato Bold
+  url: http://www.latofonts.com/
+  google: http://www.google.com/fonts/specimen/Lato
 github: digitalocean
 guide: https://www.digitalocean.com/company/logos-and-badges/
 images:
@@ -24,5 +28,3 @@ wikipedia: https://en.wikipedia.org/wiki/DigitalOcean
 ---
 
 DigitalOcean has a page with [various logos](https://www.digitalocean.com/badges-and-logos), but the vector links are broken as of 19-July-2013.
-
-The font is [Lato Bold](http://www.latofonts.com/), also available on [Google Fonts](http://www.google.com/fonts/specimen/Lato).

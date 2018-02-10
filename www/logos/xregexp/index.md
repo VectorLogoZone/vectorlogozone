@@ -1,5 +1,8 @@
 ---
 category: library
+font:
+  name: Cambria Regular
+  myfonts: http://www.myfonts.com/fonts/ascender/cambria/regular/
 github: slevithan/xregexp
 images:
 - xregexp-card.png
@@ -19,5 +22,4 @@ title: XRegexp
 website: http://xregexp.com/
 ---
 
-The font is [Cambria Regular](http://www.myfonts.com/fonts/ascender/cambria/regular/?refby=vectorlogozone).
 The vertical logo also uses [Droid Sans](http://www.myfonts.com/fonts/ascender/droid-sans-pro/bold/?refby=vectorlogozone).

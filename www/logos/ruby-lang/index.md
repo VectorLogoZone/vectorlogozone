@@ -1,6 +1,10 @@
 ---
 blog: https://www.ruby-lang.org/en/news/
 category: language
+font:
+  name: Georgia
+  myfonts: http://www.myfonts.com/fonts/ascender/georgia/regular/
+  microsoft: https://www.microsoft.com/typography/fonts/font.aspx?FMID=1932
 github: ruby
 guide: http://rubyidentity.org/
 images:
@@ -25,4 +29,3 @@ Ruby is really on the ball.  They have their own [Visual Identity Team](http://r
 
 It looks like they were created with Adobe Illustrator on a Mac, but the authors included a PDF that I imported into Inkscape.
 
-The font is [Georgia](http://www.myfonts.com/fonts/ascender/georgia/regular/?refby=vectorlogozone).

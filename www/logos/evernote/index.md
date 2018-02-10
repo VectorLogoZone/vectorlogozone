@@ -3,7 +3,7 @@ blog: https://medium.com/@evernote
 facebook: https://www.facebook.com/evernote
 font:
   name: Caecilia
-  myfonts: http://www.myfonts.com/fonts/adobe/pmn-caecilia/bold/
+  myfonts: https://www.myfonts.com/fonts/adobe/pmn-caecilia/bold/
 github: evernote
 guide: https://evernote.com/press
 logohandle: evernote

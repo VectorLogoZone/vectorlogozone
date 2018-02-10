@@ -3,7 +3,7 @@ blog: https://blog.linkedin.com/
 facebook: https://www.facebook.com/LinkedIn/
 font:
   name: Myriad Pro Bold/Black
-  myfonts: http://www.myfonts.com/fonts/adobe/myriad/black/
+  myfonts: https://www.myfonts.com/fonts/adobe/myriad/black/
 github: linkedin
 guide: https://brand.linkedin.com/
 images:

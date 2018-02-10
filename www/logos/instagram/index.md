@@ -2,7 +2,7 @@
 blog: http://blog.instagram.com/
 font:
   name: Billabong
-  myfonts: http://www.myfonts.com/fonts/typeassociates/billabong/
+  myfonts: https://www.myfonts.com/fonts/typeassociates/billabong/
 github: instagram
 guide: https://en.instagram-brand.com/
 logohandle: instagram

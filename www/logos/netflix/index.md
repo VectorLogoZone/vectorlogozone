@@ -3,7 +3,7 @@ blog: https://media.netflix.com/en/company-blog/
 facebook: https://www.facebook.com/netflixus
 font:
   name: Bebas Neue
-  myfonts: http://www.myfonts.com/fonts/flat-it/bebas-neue/
+  myfonts: https://www.myfonts.com/fonts/flat-it/bebas-neue/
   note: pre-2014 font was Graphique
 github: netflix
 guide: https://media.netflix.com/en/company-assets
