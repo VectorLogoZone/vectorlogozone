@@ -2,20 +2,20 @@
 title: Visual Logo Inventory
 layout: default
 ---
-{% assign sorted_pages = site.pages | sort:'sort' %}
-{% capture checkon %}<i class="fa fa-check"></i>{% endcapture %}
-{% capture checkoff %}<i class="fa fa-fw"></i>{% endcapture %}
+{%- assign sorted_pages = site.pages | sort:'sort' -%}
+{%- capture checkon %}<i class="fa fa-check"></i>{% endcapture -%}
+{%-capture checkoff %}<i class="fa fa-fw"></i>{% endcapture -%}
 
 <ul class="nav nav-tabs" id="vlz-tabs" role="tablist">
-{% for imagetype in site.data.imagetype %}
+{%- for imagetype in site.data.imagetype %}{% if imagetype.tab -%}
 	<li role="presentation"{% if forloop.first %} class="active"{% endif %} id="tab-{{imagetype.id}}"><a href="#{{ imagetype.id }}" aria-controls="tab-data-{{ imagetype.id }}" role="tab">{{ imagetype.title}}</a></li>
-{% endfor %}
+{%- endif %}{% endfor -%}
 </ul>
 <p id="focustarget"></p>
 
 <div class="tab-content">
-{% for imagetype in site.data.imagetype %}
-	{% assign logocount = 0 %}
+{%- for imagetype in site.data.imagetype %}{% if imagetype.tab -%}
+	{%- assign logocount = 0 -%}
 	<div role="tabpanel" class="tab-pane vlz-tab-data" id="tab-data-{{ imagetype.id }}" {% if forloop.first %}{% else %}style="display:hidden;"{% endif %} >
 
 		<p></p>
@@ -32,16 +32,16 @@ layout: default
 
 		<div class="logo-container" id="vector{{ imagetype.id }}">
 
-		{% for logopage in sorted_pages %}{% if logopage.logohandle %}
-			{% capture logofile %}{{ logopage.logohandle }}-{{ imagetype.id }}.svg{% endcapture %}{% if logopage.images contains logofile %}
+		{%- for logopage in sorted_pages %}{% if logopage.logohandle -%}
+			{%- capture logofile %}{{ logopage.logohandle }}-{{ imagetype.id }}.svg{% endcapture %}{% if logopage.images contains logofile -%}
 				<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}{% if imagetype.maxpreviewsize %} maxsize{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}"/></a>
 				{% assign logocount = logocount | plus:1 %}
-			{% endif %}
-		{% endif %}{% endfor %}
+			{%- endif -%}
+		{%- endif %}{% endfor -%}
 		<p>Count: {{ logocount }}</p>
 		</div>
 	</div>
-{% endfor %}
+    {%- endif %}{% endfor -%}
 </div>
 <script>
 
@@ -78,7 +78,7 @@ layout: default
 				$("#" + $(this).attr("data-target") + " img").addClass("padded");
 			}
 			$(this).siblings().removeClass("active");
-			$(this).addClass("active");		
+			$(this).addClass("active");
 		});
 	});
 

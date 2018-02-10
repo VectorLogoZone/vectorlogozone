@@ -9,20 +9,23 @@ layout: default
     <thead>
     <tr>
         <th>Logo</th>
-        <th>Images</th>
+        {%- for imagetype in site.data.imagetype %}{% if imagetype.visualinventory -%}
+        <th>{{ imagetype.title }}</th>
+        {%- endif %}{% endfor -%}
     </tr>
     </thead>
     <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% if logopage.images %}{% assign imgcount = imgcount | plus:1 %}
-    {% capture ar21file %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}
+
     {% capture iconfile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture %}
     {% capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture %}
     <tr>
         <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
+        {%- for imagetype in site.data.imagetype %}{% if imagetype.visualinventory -%}
         <td>
-            {% if logopage.images contains iconfile %}<a href="/util/preview.html?image=/logos/{{logopage.logohandle}}/{{iconfile}}&amp;next=/report/colors.html" rel="nofollow"><img src="/logos/{{logopage.logohandle}}/{{iconfile}}" style="height:30px;"/></a>{% endif %}
-            {% if logopage.images contains ar21file %}<a href="/util/preview.html?image=/logos/{{logopage.logohandle}}/{{ar21file}}&amp;next=/report/colors.html" rel="nofollow"><img src="/logos/{{logopage.logohandle}}/{{ar21file}}" style="height:30px;"/></a>{% endif %}
-            {% if logopage.images contains tilefile %}<a href="/util/preview.html?image=/logos/{{logopage.logohandle}}/{{tilefile}}&amp;next=/report/colors.html" rel="nofollow"><img src="/logos/{{logopage.logohandle}}/{{tilefile}}" style="height:30px;"/></a>{% endif %}
+            {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture -%}
+            {% if logopage.images contains logofile %}<a href="/util/preview.html?image=/logos/{{logopage.logohandle}}/{{logofile}}&amp;next=/report/visual.html" rel="nofollow"><img src="/logos/{{logopage.logohandle}}/{{logofile}}" style="height:30px;"/></a>{% endif %}
         </td>
+        {%- endif %}{% endfor -%}
     </tr>
     {% endif %}{% endif %}{% endfor %}
     </tbody>
