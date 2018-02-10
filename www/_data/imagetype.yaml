@@ -35,7 +35,7 @@
 
 - id: tile
   title: Tile
-  description: Large tile with background to look good as a button or with other background colors)
+  description: Large tile with background to look good as a button or with other background colors
   height: 512
   width: 512
   padding: false
