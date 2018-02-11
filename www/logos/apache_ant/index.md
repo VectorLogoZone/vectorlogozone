@@ -1,4 +1,5 @@
 ---
+colors: "#A81C7D"
 images:
 - apache_ant-card.png
 - apache_ant-icon.svg

@@ -1,5 +1,6 @@
 ---
 blog: https://www.aggdata.com/resource-center/news
+colors: ["#008fff", "#8ed800"]
 facebook: http://www.facebook.com/pages/AggDatacom/99221817174
 github: aggdata
 images:
