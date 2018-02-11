@@ -3,20 +3,9 @@ h1: Color Report
 title: Logo Color Report
 layout: default
 ---
-<style>
-    /* Container needed to position the overlay */
-    .preview-color {
-        height: 30px;
-        width: 45px;
-        display: inline-block;
-        border: 1px solid #a2a2a2;
-        vertical-align: middle;
-    }
-</style>
-{% assign sorted_pages = site.pages | sort:'sort' %}
-{% assign logocount = 0 %}
-{% assign colorcount = 0 %}
-
+{%- assign sorted_pages = site.pages | sort:'sort' -%}
+{%- assign logocount = 0 -%}
+{%- assign colorcount = 0 -%}
 <table class="table table-striped table-bordered">
     <thead>
     <tr>
@@ -26,13 +15,13 @@ layout: default
     </tr>
     </thead>
     <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% if logopage.colors %}{% assign colorcount = colorcount | plus:1 %}
-    {% capture ar21file %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}
-    {% capture iconfile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture %}
-    {% capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture %}
+    {%- capture ar21file %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
+    {%- capture iconfile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture -%}
+    {%- capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture -%}
     <tr>
         <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
         <td>
-            {% for color in logopage.colors %} <div class="preview-color" style="background-color:{{color}}"></div> {{color}} &nbsp;{% endfor %}
+            {% for color in logopage.colors %}<div class="preview-color" style="background-color:{{color}}"></div> {{color}} &nbsp;{% endfor %}
         </td>
         <td>
             {% if logopage.images contains iconfile %}<a href="/util/preview.html?image=/logos/{{logopage.logohandle}}/{{iconfile}}&amp;next=/report/colors.html" rel="nofollow"><img src="/logos/{{logopage.logohandle}}/{{iconfile}}" style="height:30px;"/></a>{% endif %}
@@ -40,7 +29,7 @@ layout: default
             {% if logopage.images contains ar21file %}<a href="/util/preview.html?image=/logos/{{logopage.logohandle}}/{{ar21file}}&amp;next=/report/colors.html" rel="nofollow"><img src="/logos/{{logopage.logohandle}}/{{ar21file}}" style="height:30px;"/></a>{% endif %}
         </td>
     </tr>
-    {% endif %}{% endif %}{% endfor %}
+    {%- endif %}{% endif %}{% endfor -%}
     <tr>
         <td>&nbsp;</td>
         <td class="text-center">{{colorcount}} ({{ colorcount | times:100 | divided_by: logocount}}%)</td>
