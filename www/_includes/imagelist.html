@@ -14,6 +14,7 @@
 				<a class="btn btn-default btn-sm" href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" title="preview" rel="nofollow"><i class="fa fa-search"></i></a>
 				<a class="btn btn-default btn-sm" download="{{image}}" href="{{image}}" title="Download"><i class="fa fa-download"></i></a>
 				<a class="btn btn-default btn-sm" href="https://github.com/fileformat/vectorlogozone/commits/gh-pages/www/logos/{{page.logohandle}}/{{image}}" title="revision history" rel="nofollow"><i class="fa fa-history"></i></a>
+                <a class="btn btn-default btn-sm" href="/util/convert_to_png.html?svg=/logos/{{page.logohandle}}/{{image}}" title="Convert to PNG" rel="nofollow"><i class="fa fa-exchange"></i></a>
 			</td>
 			<td class="hidden-xs" style="white-space:nowrap;vertical-align:middle;">
 			{% capture imagetype %}{{image|split:'-'|last|split:'.'|first}}{% endcapture %}

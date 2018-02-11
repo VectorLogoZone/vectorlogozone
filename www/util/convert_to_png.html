@@ -1,0 +1,98 @@
+---
+title: Convert to PNG
+layout: shoelace
+---
+
+<form id="convert_to_png">
+    <div class="row row-center">
+        <div class="col-12 col-md-10 col-lg-8 col-xl-6">
+            <fieldset>
+                <legend>Original SVG</legend>
+                <div class="text-center">
+                    <img id="original" src="/images/preview/loading.gif" style="height: 120px;" />
+                    <input type="hidden" id="svg" name="svg" />
+                </div>
+            </fieldset>
+            <fieldset>
+                <legend>PNG</legend>
+                <div class="text-center">
+                    <img id="result" src="/images/preview/loading.gif"/>
+                </div>
+            </fieldset>
+        </div>
+    </div>
+
+    <div class="row row-center">
+        <div class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-4">
+            <fieldset>
+                <legend>Options</legend>
+                <div class="input-field">
+                    <label>Width</label>
+                    <input class="variable" id="width" name="width" type="text">
+                    <p class="input-hint">Optional</p>
+                </div>
+
+                <div class="input-field">
+                    <label>Height</label>
+                    <input class="variable" id="height" name="height" type="text">
+                    <p class="input-hint">Optional</p>
+                </div>
+            </fieldset>
+        </div>
+    </div>
+</form>
+
+<script>
+    $(function() {
+
+        var doConvert = function(svg)
+        {
+            var svg = $("#svg").val();
+            console.log("converting from " + svg);
+
+            var result_url = "https://svg2raster.fileformat.info/vlz.jsp?svg=" + encodeURIComponent(svg);
+            var width = parseInt($("#width").val() || "0");
+            if (width > 0) {
+                result_url += "&width=" + width
+            }
+            var height = parseInt($("#height").val() || "0");
+            if (width > 0) {
+                result_url += "&height=" + height
+            }
+            console.log("converted to " + result_url)
+            $("#result").attr("src", result_url);
+            return false;
+        };
+
+        $(".variable").on('input propertychange paste', function() {
+            console.log("input paste");
+            doConvert();
+        });
+
+        // Event when the form is submitted
+        $("#convert_to_png").submit(function() {
+            doConvert();
+            return false;
+        });
+
+        function getParameterByName(name) {
+            var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+            return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+        }
+
+        function htmlEncode(value){
+            return $("<div>").text(value).html();
+        }
+
+        var svg = getParameterByName("svg");
+        if (svg && svg.length)
+        {
+            $("#original").attr("src", svg);
+            $("#svg").val(svg);
+            doConvert();
+        }
+
+
+    });
+</script>
+

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}{% if page.images.size > 0 %} Vector Logos{% endif %} - {{ site.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.shoelace.style/1.0.0-beta24/shoelace.css">
+    <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" />
+    <link href='https://fonts.googleapis.com/css?family=Lato:400,300,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
+    <meta name="theme-color" content="#2c3e50" />
+    <style>
+    </style>
+    <link rel="shortcut icon" href="/favicon.ico">
+    <script>if (window.top.location != window.location) { window.top.location.href = document.location.href; }</script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.js"></script>
+    <script src="https://cdn.shoelace.style/1.0.0-beta24/shoelace.js"></script>
+</head>
+<body>
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-12 col-md-10 offset-md-1">{{ content }}</div>
+    </div>
+</div>
+{% include google-analytics.html %}
+{% include github.html %}
+</body>
+</html>
