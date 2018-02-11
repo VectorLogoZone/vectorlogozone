@@ -1,6 +1,6 @@
 - id: ar21
   title: Rectangle
-  description: 2:1 Aspect Ratio with logo and text.  Image should include some padding.
+  description: Logo and text in a rectangle with a 2:1 aspect ratio.  Image should include padding.
   height: 60
   width: 120
   padding: true
@@ -12,7 +12,7 @@
 
 - id: icon
   title: Icon
-  description: Logo, no text.  
+  description: Logo, no text, no padding
   height: 32
   width: 32
   padding: false
@@ -24,7 +24,7 @@
 
 - id: vertical
   title: Vertical Badge
-  description: Vertical badge with logo above text
+  description: Vertical badge with logo above text, some padding.
   height: 94
   padding: true
   tab: false
@@ -35,7 +35,7 @@
 
 - id: tile
   title: Tile
-  description: Large tile with background to look good as a button or with other background colors
+  description: Large tile with background to look good as a button or with other background colors.
   height: 512
   width: 512
   padding: false
@@ -48,7 +48,7 @@
 
 - id: horizontal
   title: Horizontal Badge
-  description: Horizontal badge with logo on left, text on right
+  description: Similar to the rectangle, but no limit on width to accomodate longer names.
   height: 64
   padding: 4px;
   padding: false
@@ -60,7 +60,7 @@
 
 - id: official
   title: Official Logo
-  description: Official Logo, with text, including tagline/copyright/etc
+  description: Official logo, as provided by the source.  Resized to max of 512.
   height: 128
   padding: false
   tab: false
