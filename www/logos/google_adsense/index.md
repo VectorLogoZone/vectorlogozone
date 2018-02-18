@@ -10,6 +10,7 @@ skipped: 0
 sort: adsense
 tags:
 - advertising
+- google
 title: Google AdSense
 twitter: AdSense
 website: https://www.google.com/adsense/

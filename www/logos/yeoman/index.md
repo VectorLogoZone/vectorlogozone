@@ -10,6 +10,8 @@ skipped: 0
 sort: yeoman
 tags:
 - webdev
+- devtools
+- build_tools
 title: Yeoman
 twitter: yeoman
 website: http://yeoman.io/

@@ -15,7 +15,9 @@ logohandle: apache
 skipped: 1
 sort: apache software foundation
 tags:
-- programming_library
+- webserver
+- charity
+- open_source
 title: Apache Software Foundation
 twitter: TheASF
 website: http://apache.org/

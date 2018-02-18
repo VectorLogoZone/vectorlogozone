@@ -8,6 +8,9 @@ images:
 logohandle: firebase
 skipped: 0
 sort: firebase
+tags:
+- google
+- paas
 title: Firebase
 twitter: Firebase
 website: https://firebase.google.com/

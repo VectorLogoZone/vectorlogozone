@@ -8,6 +8,10 @@ images:
 logohandle: microsoft_azure
 skipped: 0
 sort: azure
+tags:
+- cloud
+- hosting
+- paas
 title: Microsoft Azure
 twitter: azure
 website: https://azure.microsoft.com/en-us/

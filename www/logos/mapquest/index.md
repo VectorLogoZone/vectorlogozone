@@ -5,6 +5,8 @@ github: MapQuest
 guide: http://hello.mapquest.com/press/
 logohandle: mapquest
 sort: mapquest
+tags:
+- mapping
 title: MapQuest
 twitter: MapQuest
 website: https://www.mapquest.com/

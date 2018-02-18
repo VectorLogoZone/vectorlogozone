@@ -7,6 +7,8 @@ images:
 logohandle: stumbleupon
 skipped: 0
 sort: stumbleupon
+tags:
+- bookmarking
 title: StumbleUpon
 twitter: StumbleUpon
 website: https://www.stumbleupon.com/

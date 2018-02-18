@@ -12,6 +12,10 @@ images:
 logohandle: adobe
 skipped: 0
 sort: adobe
+tags:
+- graphics
+- software
+- fonts
 title: Adobe
 twitter: Adobe
 website: https://www.adobe.com/

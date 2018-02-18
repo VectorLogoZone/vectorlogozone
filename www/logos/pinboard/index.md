@@ -8,7 +8,7 @@ logohandle: pinboard
 skipped: 0
 sort: pinboard
 tags:
-- new
+- bookmarking
 title: Pinboard
 twitter: Pinboard
 website: https://pinboard.in/

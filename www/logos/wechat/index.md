@@ -5,6 +5,8 @@ github: https://github.com/tencent-wechat
 guide: https://wechat.design/
 logohandle: wechat
 sort: wechat
+tags:
+- messaging
 title: WeChat
 twitter: wechatapp
 website: https://www.wechat.com/en/

@@ -8,6 +8,8 @@ images:
 logohandle: microsoft
 skipped: 0
 sort: microsoft
+tags:
+- microsoft
 title: Microsoft
 twitter: microsoft
 website: https://www.microsoft.com/

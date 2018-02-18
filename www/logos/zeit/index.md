@@ -4,6 +4,9 @@ github: zeit
 linkedin: https://www.linkedin.com/company/16181286/
 logohandle: zeit
 sort: zeit
+tags:
+- hosting
+- cloud
 title: ZEIT
 twitter: zeithq
 website: https://zeit.co/

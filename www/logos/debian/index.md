@@ -12,7 +12,8 @@ logohandle: debian
 skipped: 0
 sort: debian
 tags:
-- new
+- operating_system
+- linux
 title: Debian
 twitter: debian
 website: https://www.debian.org/

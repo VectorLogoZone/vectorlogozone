@@ -12,6 +12,7 @@ logohandle: google
 skipped: 0
 sort: google
 tags:
+- google
 - search
 title: Google
 twitter: google

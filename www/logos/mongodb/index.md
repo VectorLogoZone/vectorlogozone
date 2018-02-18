@@ -8,6 +8,9 @@ images:
 logohandle: mongodb
 skipped: 0
 sort: mongodb
+tags:
+- database
+- nosql
 title: MongoDB
 twitter: MongoDB
 website: https://www.mongodb.com/

@@ -11,6 +11,7 @@ skipped: 0
 sort: bootstrap
 tags:
 - webdesign
+- site_template
 title: Bootstrap
 twitter: getbootstrap
 website: http://getbootstrap.com/

@@ -4,6 +4,10 @@ facebook: https://www.facebook.com/zagat
 linkedin: https://www.linkedin.com/company/167018/
 logohandle: zagat
 sort: zagat
+tags:
+- restaurants
+- food
+- reviews
 title: Zagat
 twitter: zagat
 website: https://www.zagat.com/

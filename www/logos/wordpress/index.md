@@ -13,6 +13,8 @@ images:
 logohandle: wordpress
 skipped: 0
 sort: wordpress
+tags:
+- blogging
 title: WordPress
 twitter: WordPress
 website: https://www.wordpress.com/

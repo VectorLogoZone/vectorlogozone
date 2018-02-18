@@ -13,6 +13,8 @@ images:
 logohandle: facebook
 skipped: 0
 sort: facebook
+tags:
+- social_network
 title: Facebook
 twitter: facebook
 website: https://www.facebook.com/

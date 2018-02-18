@@ -6,6 +6,9 @@ images:
 logohandle: d3js
 skipped: 0
 sort: d3
+tags:
+- programming_library
+- javascript
 title: D3.js
 website: https://d3js.org/
 wikipedia: https://en.wikipedia.org/wiki/D3.js

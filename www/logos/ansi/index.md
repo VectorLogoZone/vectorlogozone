@@ -4,6 +4,8 @@ facebook: http://www.facebook.com/pages/ANSI-American-National-Standards-Institu
 guide: https://www.ansi.org/about_ansi/ansi_logo_mark/ansilogo?menuid=1
 logohandle: ansi
 sort: ansi
+tags:
+- standards_body
 title: ANSI
 twitter: ansidotorg
 website: https://www.ansi.org/

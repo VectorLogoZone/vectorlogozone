@@ -7,8 +7,9 @@ logohandle: google_appengine
 skipped: 0
 sort: appengine
 tags:
-- paas
+- google
 - hosting
+- paas
 title: Google AppEngine
 twitter: appengine
 website: https://cloud.google.com/appengine/

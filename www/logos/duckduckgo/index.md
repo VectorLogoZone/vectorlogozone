@@ -5,6 +5,8 @@ github: duckduckgo
 guide: https://duckduckgo.com/assets/press/DuckDuckGo-Brand-Logo.zip
 logohandle: duckduckgo
 sort: duckduckgo
+tags:
+- search_engine
 title: DuckDuckGo
 twitter: duckduckgo
 website: https://duckduckgo.com/

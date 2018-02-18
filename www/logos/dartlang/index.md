@@ -8,6 +8,8 @@ github: dart-lang
 guide: https://github.com/dart-lang/logos
 logohandle: dartlang
 sort: dartlang
+tags:
+- programming_language
 title: Dart
 twitter: dart_lang
 website: https://www.dartlang.org/

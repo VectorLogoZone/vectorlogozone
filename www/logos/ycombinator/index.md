@@ -9,6 +9,9 @@ logohandle: ycombinator
 skipped: 1
 sort: ycombinator
 supertinyicon: hackernews
+tags:
+- venture_capital
+- news
 title: Y Combinator
 twitter: ycombinator
 website: http://www.ycombinator.com/

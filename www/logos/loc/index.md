@@ -4,6 +4,9 @@ facebook: https://www.facebook.com/libraryofcongress/
 github: LibraryOfCongress
 logohandle: loc
 sort: libraryofcongress
+tags:
+- digital_preservation
+- usa
 title: Library of Congress
 twitter: librarycongress
 website: https://www.loc.gov/

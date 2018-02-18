@@ -11,6 +11,10 @@ images:
 logohandle: android
 skipped: 0
 sort: android
+tags:
+- operating_system
+- mobile
+- phone
 title: android
 twitter: android
 website: https://www.android.com/

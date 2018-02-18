@@ -25,6 +25,7 @@ redirect_from: /logos/metadata.html
 {% assign websitecount = 0 %}
 {% assign wikipediacount = 0 %}
 {% assign youtubecount = 0 %}
+{% assign tagcount = 0 %}
 
 <table class="table table-striped table-bordered">
     <thead>
@@ -46,6 +47,7 @@ redirect_from: /logos/metadata.html
             <th style="text-align:center">Website</th>
             <th style="text-align:center">Wikipedia</th>
             <th style="text-align:center">YouTube</th>
+            <th style="text-align:center">Tags</th>
         </tr>
     </thead>
     <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% assign count = logopage.images.size %}
@@ -99,6 +101,9 @@ redirect_from: /logos/metadata.html
             <td class="text-center">
                 {% if logopage.youtube %}<a href="{{logopage.youtube}}">{{ checkon }}{% assign youtubecount = youtubecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
+            <td class="text-center">
+                <a href="{{logopage.url}}{{site.indexpage}}">{% if logopage.tags %}{{ logopage.tags | size }}{% assign tagcount = tagcount | plus:1 %}{% else %}0{% endif %}</a>
+            </td>
         </tr>
 {% endif %}{% endfor %}
     </tbody>
@@ -121,6 +126,7 @@ redirect_from: /logos/metadata.html
             <td class="text-center">{{websitecount}} ({{ websitecount | times:100 | divided_by: logocount}}%)</td>
             <td class="text-center">{{wikipediacount}} ({{ wikipediacount | times:100 | divided_by: logocount}}%)</td>
             <td class="text-center">{{youtubecount}} ({{ youtubecount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{tagcount}} ({{ tagcount | times:100 | divided_by: logocount}}%)</td>
         </tr>
         <tr>
             <th>&nbsp;</th>
@@ -140,6 +146,7 @@ redirect_from: /logos/metadata.html
             <th style="text-align:center">Website</th>
             <th style="text-align:center">Wikipedia</th>
             <th style="text-align:center">YouTube</th>
+            <th style="text-align:center">Tags</th>
         </tr>
     </tfoot>
 </table>

@@ -13,6 +13,7 @@ sort: amazon web services
 tags:
 - hosting
 - paas
+- cloud
 title: Amazon Web Services
 twitter: awscloud
 website: https://aws.amazon.com/

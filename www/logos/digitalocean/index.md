@@ -21,6 +21,7 @@ skipped: 1
 sort: digital ocean
 tags:
 - hosting
+- cloud
 title: Digital Ocean
 twitter: digitalocean
 website: https://www.digitalocean.com/

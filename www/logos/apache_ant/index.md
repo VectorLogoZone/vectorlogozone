@@ -10,7 +10,7 @@ logohandle: apache_ant
 skipped: 0
 sort: ant
 tags:
-- software
+- build_tools
 title: Apache Ant
 website: http://ant.apache.org/
 wikipedia: https://en.wikipedia.org/wiki/Apache_Ant

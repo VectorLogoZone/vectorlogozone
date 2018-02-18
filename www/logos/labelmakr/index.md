@@ -10,6 +10,7 @@ sort: labelmakr
 tags:
 - andrew_marcuse
 - saas
+- labels
 title: LabelMakr
 website: http://www.labelmakr.com/
 ---

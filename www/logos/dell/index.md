@@ -9,6 +9,8 @@ github: dell
 guide: http://brand.delltechnologies.com/dell/logo-library/
 logohandle: dell
 sort: dell
+tags:
+- hardware
 title: Dell
 twitter: Dell
 website: http://www.dell.com/

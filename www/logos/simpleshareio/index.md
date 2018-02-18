@@ -10,6 +10,7 @@ supertinyicon: '-'
 tags:
 - andrew_marcuse
 - saas
+- sharing
 title: SimpleShare.IO
 website: https://simpleshare.io/
 ---

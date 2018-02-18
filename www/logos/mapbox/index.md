@@ -8,6 +8,8 @@ images:
 logohandle: mapbox
 skipped: 0
 sort: mapbox
+tags:
+- mapping
 title: mapbox
 twitter: mapbox
 website: https://www.mapbox.com/

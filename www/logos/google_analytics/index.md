@@ -11,8 +11,8 @@ logohandle: google_analytics
 skipped: 0
 sort: google analytics
 tags:
-- service
 - analytics
+- google
 title: Google Analytics
 twitter: googleanalytics
 website: https://www.google.com/analytics/

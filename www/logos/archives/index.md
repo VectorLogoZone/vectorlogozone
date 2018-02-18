@@ -8,6 +8,9 @@ images:
 logohandle: archives
 skipped: 0
 sort: national_archives
+tags:
+- digital_preservation
+- usa
 title: National Archives (USA)
 twitter: USNatArchives
 website: https://www.archives.gov/

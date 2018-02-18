@@ -8,6 +8,9 @@ images:
 logohandle: gmail
 skipped: 0
 sort: gmail
+tags:
+- email
+- google
 title: Gmail
 twitter: gmail
 website: https://www.gmail.com/

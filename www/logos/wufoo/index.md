@@ -13,7 +13,8 @@ logohandle: wufoo
 skipped: 1
 sort: wufoo
 tags:
-- service
+- saas
+- forms
 title: Wufoo
 twitter: Wufoo
 website: http://www.wufoo.com/

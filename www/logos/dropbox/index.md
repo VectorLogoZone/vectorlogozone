@@ -14,6 +14,8 @@ images:
 logohandle: dropbox
 skipped: 0
 sort: dropbox
+tags:
+- file_sharing
 title: Dropbox
 twitter: Dropbox
 website: https://www.dropbox.com/

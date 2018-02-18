@@ -6,6 +6,9 @@ images:
 logohandle: apple_safari
 skipped: 0
 sort: safari
+tags:
+- apple
+- browser
 title: Safari
 website: https://www.apple.com/safari/
 wikipedia: https://en.wikipedia.org/wiki/Safari_(web_browser)

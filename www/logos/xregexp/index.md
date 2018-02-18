@@ -18,6 +18,7 @@ sort: xregexp
 tags:
 - javascript
 - programming_library
+- regex
 title: XRegexp
 website: http://xregexp.com/
 ---

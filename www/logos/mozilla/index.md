@@ -5,6 +5,9 @@ github: mozilla
 guide: https://mozilla.ninja/mlogo
 logohandle: mozilla
 sort: mozilla
+tags:
+- open_source
+- charity
 title: Mozilla
 twitter: mozilla
 website: https://www.mozilla.org/

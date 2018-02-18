@@ -14,7 +14,7 @@ images:
 logohandle: ubuntu
 skipped: 1
 sort: ubuntu
-tag:
+tags:
 - linux
 - operating_system
 title: Ubuntu

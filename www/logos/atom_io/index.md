@@ -7,6 +7,8 @@ images:
 logohandle: atom_io
 skipped: 0
 sort: atomeditor
+tags:
+- text_editor
 title: Atom Editor
 twitter: AtomEditor
 website: https://atom.io/

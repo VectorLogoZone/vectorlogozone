@@ -8,7 +8,8 @@ logohandle: asyncjs
 skipped: 0
 sort: async.js
 tags:
-- new
+- office_supplies
+- labels
 title: async.js
 website: http://caolan.github.io/async/
 ---

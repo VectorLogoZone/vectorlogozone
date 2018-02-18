@@ -3,6 +3,9 @@ blog: https://www.aclu.org/blog
 facebook: https://www.facebook.com/aclu
 logohandle: aclu
 sort: aclu
+tags:
+- charity
+- free_speech
 title: ACLU
 twitter: aclu
 website: https://www.aclu.org/

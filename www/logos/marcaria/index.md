@@ -5,7 +5,7 @@ layout: default
 logohandle: marcaria
 sort: marcaria
 tags:
-- new
+- domains
 title: Marcaria
 twitter: marcaria
 website: https://www.marcaria.com/

@@ -8,6 +8,9 @@ github: internetarchive
 logohandle: archive
 sort: internet_archive
 supertinyicon: internet_archive
+tags:
+- charity
+- digital_preservation
 title: Internet Archive
 twitter: internetarchive
 website: https://archive.org/

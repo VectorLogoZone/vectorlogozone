@@ -7,6 +7,11 @@ font:
 logohandle: skype
 sort: skype
 title: Skype
+tags:
+- microsoft
+- videoconference
+- voip
+- messaging
 twitter: Skype
 website: https://www.skype.com/en/
 wikipedia: https://en.wikipedia.org/wiki/Skype

@@ -8,6 +8,8 @@ logohandle: adobe_acrobat
 skipped: 0
 sort: acrobat
 supertinyicon: pdf
+tags:
+- pdf
 title: Acrobat
 twitter: Acrobat
 website: https://acrobat.adobe.com/

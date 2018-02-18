@@ -10,7 +10,8 @@ logohandle: worldlabel
 skipped: 0
 sort: worldlabel
 tags:
-- new
+- labels
+- office_supplies
 title: WorldLabel
 twitter: worldlabel
 website: http://www.worldlabel.com/

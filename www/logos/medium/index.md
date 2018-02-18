@@ -5,6 +5,8 @@ guide: https://medium.design/logos-and-brand-guidelines-f1a01a733592
 github: medium
 logohandle: medium
 sort: medium
+tags:
+- blogging
 title: medium
 twitter: medium
 website: https://medium.com/

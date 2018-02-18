@@ -11,6 +11,7 @@ skipped: 1
 sort: jetty
 tags:
 - java
+- appserver
 title: Jetty
 twitter: JettyProject
 website: http://www.eclipse.org/jetty/

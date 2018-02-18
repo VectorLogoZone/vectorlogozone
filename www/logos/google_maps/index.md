@@ -8,6 +8,9 @@ images:
 logohandle: google_maps
 skipped: 0
 sort: google_maps
+tags:
+- google
+- mapping
 title: Google Maps
 twitter: googlemaps
 website: https://maps.google.com/

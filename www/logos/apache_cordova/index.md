@@ -7,6 +7,9 @@ images:
 logohandle: apache_cordova
 skipped: 0
 sort: cordova
+tags:
+- programming_library
+- mobile
 title: Apache Cordova
 website: hhttps://cordova.apache.org/
 wikipedia: https://en.wikipedia.org/wiki/Apache_Cordova

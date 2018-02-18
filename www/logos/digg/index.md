@@ -7,6 +7,8 @@ font:
 github: digg
 logohandle: digg
 sort: digg
+tags:
+- bookmarking
 title: Digg
 twitter: digg
 website: http://digg.com/

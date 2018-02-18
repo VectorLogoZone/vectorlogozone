@@ -10,6 +10,9 @@ guide: https://www.youtube.com/yt/about/brand-resources/
 linkedin: https://www.linkedin.com/company/16140/
 logohandle: youtube
 sort: youtube
+tags:
+- video
+- google
 title: YouTube
 twitter: YouTube
 website: https://www.youtube.com/

@@ -8,7 +8,8 @@ logohandle: alertifyjs
 skipped: 0
 sort: alertifyjs
 tags:
-- new
+- javascript
+- programming_library
 title: Alertify.js
 twitter: AlertifyJS
 website: http://alertifyjs.com/

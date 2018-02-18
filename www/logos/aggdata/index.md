@@ -9,6 +9,8 @@ images:
 logohandle: aggdata
 skipped: 0
 sort: aggdata
+tags:
+- data
 title: AggData
 twitter: aggdata
 website: https://www.aggdata.com/

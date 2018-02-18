@@ -6,6 +6,9 @@ font:
 github: addthis
 logohandle: addthis
 sort: addthis
+tags:
+- sharing
+- saas
 title: AddThis
 twitter: addthis
 website: https://www.addthis.com/

@@ -4,6 +4,8 @@ github: lua
 guide: https://www.lua.org/images/
 logohandle: lua
 sort: lua
+tags:
+- programming_language
 title: Lua
 twitter: LuaLang
 website: https://www.lua.org/

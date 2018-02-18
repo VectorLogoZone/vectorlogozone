@@ -10,6 +10,7 @@ logohandle: apple
 skipped: 0
 sort: apple
 tags:
+- apple
 - hardware
 title: Apple
 twitter: Apple

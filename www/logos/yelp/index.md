@@ -6,6 +6,8 @@ guide: https://www.yelp.com/brand
 linkedin: https://www.linkedin.com/company/31517/
 logohandle: yelp
 sort: yelp
+tags:
+- reviews
 title: Yelp
 twitter: Yelp
 website: https://www.yelp.com/
