@@ -3,8 +3,7 @@ blog: https://blog.blah.com/
 facebook: https://www.facebook.com/blah
 font:
   name: Wolf Sans
-  url:https://fonts2u.com/wolf-sans-regular.font
-  myfonts:
+  url: https://fonts2u.com/wolf-sans-regular.font
 guide: https://www.blah.com/official
 logohandle: slideshare
 sort: slideshare

@@ -2,9 +2,8 @@
 blog: https://news.xbox.com
 facebook: https://www.facebook.com/xbox/
 font:
-  name:
-  url:https://www.dafont.com/x360.font
-  myfonts:
+  freename: x360
+  freeurl: https://www.dafont.com/x360.font
 guide: https://www.blah.com/official
 logohandle: xbox
 sort: xbox
