@@ -7,9 +7,11 @@ font:
   note: based on [Optima](https://fontsinuse.com/uses/4713/yahoo-logo-2013)
 github: yahoo
 guide: https://policies.yahoo.com/us/en/yahoo/permissions/branduseguidelines/index.htm
+linkedin: https://www.linkedin.com/company/1288/
 logohandle: yahoo
 sort: yahoo
 title: Yahoo!
+tumblr: https://yahoo.tumblr.com/
 twitter: Yahoo
 website: https://www.yahoo.com/
 wikipedia: https://en.wikipedia.org/wiki/Yahoo!

@@ -15,83 +15,133 @@ redirect_from: /logos/metadata.html
 {% assign facebookcount = 0 %}
 {% assign fontcount = 0 %}
 {% assign githubcount = 0 %}
+{% assign googlepluscount = 0 %}
 {% assign guidecount = 0 %}
+{% assign linkedincount = 0 %}
 {% assign twittercount = 0 %}
+{% assign pinterestcount = 0 %}
+{% assign redditcount = 0 %}
+{% assign tumblrcount = 0 %}
 {% assign websitecount = 0 %}
 {% assign wikipediacount = 0 %}
+{% assign youtubecount = 0 %}
 
 <table class="table table-striped table-bordered">
-	<thead>
-		<tr>
-			<th>Name</th>
+    <thead>
+        <tr>
+            <th>Name</th>
             <th style="text-align:center">Blog</th>
             <th style="text-align:center">Color</th>
-			<th style="text-align:center">Facebook</th>
+            <th style="text-align:center">Facebook</th>
             <th style="text-align:center">Font</th>
-			<th style="text-align:center">Github</th>
+            <th style="text-align:center">Github</th>
             <th style="text-align:center">Guidelines</th>
-			<th style="text-align:center">Twitter</th>
-			<th style="text-align:center">Website</th>
-			<th style="text-align:center">Wikipedia</th>
-		</tr>
-	</thead>
-	<tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% assign count = logopage.images.size %}
-		<tr>
-			<td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
+            <th style="text-align:center">Google+</th>
+            <th style="text-align:center">Instagram</th>
+            <th style="text-align:center">LinkedIn</th>
+            <th style="text-align:center">Pinterest</th>
+            <th style="text-align:center">Reddit</th>
+            <th style="text-align:center">Tumblr</th>
+            <th style="text-align:center">Twitter</th>
+            <th style="text-align:center">Website</th>
+            <th style="text-align:center">Wikipedia</th>
+            <th style="text-align:center">YouTube</th>
+        </tr>
+    </thead>
+    <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% assign count = logopage.images.size %}
+        <tr>
+            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
             <td class="text-center">
                 {% if logopage.blog %}<a href="{{logopage.blog}}">{{ checkon }}{% assign blogcount = blogcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
                 {% if logopage.colors %}{{ checkon }}{% assign colorcount = colorcount | plus:1 %}{% else %}{{ checkoff }}{% endif %}
             </td>
-			<td class="text-center">
-				{% if logopage.facebook %}<a href="{{logopage.facebook}}">{{ checkon }}{% assign facebookcount = facebookcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
-			</td>
+            <td class="text-center">
+                {% if logopage.facebook %}<a href="{{logopage.facebook}}">{{ checkon }}{% assign facebookcount = facebookcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
             <td class="text-center">
                 {% if logopage.font %}{{ checkon }}{% assign fontcount = fontcount | plus:1 %}{% else %}{{ checkoff }}{% endif %}
             </td>
-			<td class="text-center">
-				    {% if logopage.github %}<a href="https://www.github.com/{{logopage.github}}">{{ checkon }}{% assign githubcount = githubcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
-			</td>
+            <td class="text-center">
+                {% if logopage.github %}<a href="https://www.github.com/{{logopage.github}}">{{ checkon }}{% assign githubcount = githubcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
             <td class="text-center">
                 {% if logopage.guide %}<a href="{{logopage.guide}}">{{ checkon }}{% assign guidecount = guidecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
-			<td class="text-center">
-				    {% if logopage.twitter %}<a href="https://www.twitter.com/{{logopage.twitter}}">{{ checkon }}{% assign twittercount = twittercount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
-			</td>
-			<td class="text-center">
-				    {% if logopage.website %}<a href="{{logopage.website}}">{{ checkon }}{% assign websitecount = websitecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
-			</td>
-			<td class="text-center">
-				    {% if logopage.wikipedia %}<a href="{{logopage.wikipedia}}">{{ checkon }}{% assign wikipediacount = wikipediacount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
-			</td>
-		</tr>
+            <td class="text-center">
+                {% if logopage.googleplus %}<a href="https://plus.google.com/+{{logopage.googleplus}}">{{ checkon }}{% assign googlepluscount = googlepluscount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
+            <td class="text-center">
+                {% if logopage.instagram %}<a href="{{logopage.instagram}}">{{ checkon }}{% assign instagramcount = instagramcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
+            <td class="text-center">
+                {% if logopage.linkedin %}<a href="{{logopage.linkedin}}">{{ checkon }}{% assign linkedincount = linkedincount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
+            <td class="text-center">
+                {% if logopage.pinterest %}<a href="{{logopage.pinterest}}">{{ checkon }}{% assign pinterestcount = pinterestcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
+            <td class="text-center">
+                {% if logopage.reddit %}<a href="{{logopage.reddit}}">{{ checkon }}{% assign redditcount = redditcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
+            <td class="text-center">
+                {% if logopage.tumblr %}<a href="{{logopage.tumblr}}">{{ checkon }}{% assign tumblrcount = tumblrcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
+            <td class="text-center">
+                    {% if logopage.twitter %}<a href="https://www.twitter.com/{{logopage.twitter}}">{{ checkon }}{% assign twittercount = twittercount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
+            <td class="text-center">
+                    {% if logopage.website %}<a href="{{logopage.website}}">{{ checkon }}{% assign websitecount = websitecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
+            <td class="text-center">
+                    {% if logopage.wikipedia %}<a href="{{logopage.wikipedia}}">{{ checkon }}{% assign wikipediacount = wikipediacount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
+            <td class="text-center">
+                {% if logopage.youtube %}<a href="{{logopage.youtube}}">{{ checkon }}{% assign youtubecount = youtubecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            </td>
+        </tr>
 {% endif %}{% endfor %}
-    <tr>
-        <td>&nbsp;</td>
-        <td class="text-center">{{blogcount}} ({{ blogcount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{colorcount}} ({{ colorcount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{facebookcount}} ({{ facebookcount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{fontcount}} ({{ fontcount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{githubcount}} ({{ githubcount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{guidecount}} ({{ guidecount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{twittercount}} ({{ twittercount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{websitecount}} ({{ websitecount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{wikipediacount}} ({{ wikipediacount | times:100 | divided_by: logocount}}%)</td>
-    </tr>
-    <tr>
-        <th>&nbsp;</th>
-        <th style="text-align:center">Blog</th>
-        <th style="text-align:center">Color</th>
-        <th style="text-align:center">Facebook</th>
-        <th style="text-align:center">Font</th>
-        <th style="text-align:center">Github</th>
-        <th style="text-align:center">Guidelines</th>
-        <th style="text-align:center">Twitter</th>
-        <th style="text-align:center">Website</th>
-        <th style="text-align:center">Wikipedia</th>
-    </tr>
-	</tbody>
+    </tbody>
+    <tfoot>
+        <tr>
+            <td>&nbsp;</td>
+            <td class="text-center">{{blogcount}} ({{ blogcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{colorcount}} ({{ colorcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{facebookcount}} ({{ facebookcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{fontcount}} ({{ fontcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{githubcount}} ({{ githubcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{guidecount}} ({{ guidecount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{googlepluscount}} ({{ googlepluscount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{instagramcount}} ({{ instagramcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{linkedincount}} ({{ linkedincount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{pinterestcount}} ({{ pinterestcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{redditcount}} ({{ redditcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{tumblrcount}} ({{ tumblrcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{twittercount}} ({{ twittercount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{websitecount}} ({{ websitecount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{wikipediacount}} ({{ wikipediacount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{youtubecount}} ({{ youtubecount | times:100 | divided_by: logocount}}%)</td>
+        </tr>
+        <tr>
+            <th>&nbsp;</th>
+            <th style="text-align:center">Blog</th>
+            <th style="text-align:center">Color</th>
+            <th style="text-align:center">Facebook</th>
+            <th style="text-align:center">Font</th>
+            <th style="text-align:center">Github</th>
+            <th style="text-align:center">Guidelines</th>
+            <th style="text-align:center">Google+</th>
+            <th style="text-align:center">Instagram</th>
+            <th style="text-align:center">LinkedIn</th>
+            <th style="text-align:center">Pinterest</th>
+            <th style="text-align:center">Reddit</th>
+            <th style="text-align:center">Tumblr</th>
+            <th style="text-align:center">Twitter</th>
+            <th style="text-align:center">Website</th>
+            <th style="text-align:center">Wikipedia</th>
+            <th style="text-align:center">YouTube</th>
+        </tr>
+    </tfoot>
 </table>
 
 <p>{{ logocount }} logos</p>

@@ -4,6 +4,7 @@ github: HackerNews
 images:
 - ycombinator-ar21.svg
 - ycombinator-icon.svg
+linkedin: https://www.linkedin.com/company/167872/
 logohandle: ycombinator
 skipped: 1
 sort: ycombinator

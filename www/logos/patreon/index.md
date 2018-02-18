@@ -2,12 +2,14 @@
 blog: https://blog.patreon.com/
 facebook: https://www.facebook.com/patreon
 github: patreon
+googleplus: Patreon
 guide: https://www.patreon.com/brand/guidelines
 images:
 - patreon-ar21.svg
 - patreon-icon.svg
 - patreon-tile.svg
-layout: default
+instagram: https://instagram.com/patreon
+linkedin: https://www.linkedin.com/company/3228545/
 logohandle: patreon
 skipped: 0
 sort: patreon

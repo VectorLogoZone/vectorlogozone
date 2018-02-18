@@ -4,7 +4,7 @@ facebook: http://www.facebook.com/zoomwithus
 images:
 - zoomus-ar21.svg
 - zoomus-icon.svg
-layout: default
+linkedin: https://www.linkedin.com/company/2532259/
 logohandle: zoomus
 skipped: 0
 sort: zoom

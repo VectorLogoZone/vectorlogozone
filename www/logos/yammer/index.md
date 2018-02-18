@@ -2,6 +2,7 @@
 blog: https://blogs.office.com/en-us/yammer/
 facebook: https://www.facebook.com/Yammer
 guide: https://developer.yammer.com/docs/branding-guide
+linkedin: https://www.linkedin.com/company/260901/
 logohandle: yammer
 sort: yammer
 title: Yammer
