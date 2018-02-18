@@ -5,11 +5,38 @@
     <title>{{ page.title }}{% if page.images.size > 0 %} Vector Logos{% endif %} - {{ site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.shoelace.style/1.0.0-beta24/shoelace.css">
-    <link href="/css/font-awesome.css" rel="stylesheet" type="text/css" />
+    <link href="/css/fontawesome-all.css" rel="stylesheet" type="text/css" />
     <link href='https://fonts.googleapis.com/css?family=Lato:400,300,400italic,700,700italic' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Merriweather:400,400italic,700,700italic' rel='stylesheet' type='text/css'>
     <meta name="theme-color" content="#2c3e50" />
     <style>
+        .navbar {
+            background-color: #2c3e50;
+            color: #fff;
+            border-bottom: 1px solid red;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            margin-bottom: 10px;
+        }
+
+        .navbar-brand {
+            font-size: 24px;
+            font-weight: bold;
+        }
+
+        .navbar-nav {
+            text-align: right;
+            line-height: 36px;
+        }
+
+        .navbar-nav a {
+            color: white;
+            padding-left: 15px;
+        }
+
+        .navbar-nav a:hover {
+            text-decoration: underline;
+        }
     </style>
     <link rel="shortcut icon" href="/favicon.ico">
     <script>if (window.top.location != window.location) { window.top.location.href = document.location.href; }</script>
@@ -17,6 +44,17 @@
     <script src="https://cdn.shoelace.style/1.0.0-beta24/shoelace.js"></script>
 </head>
 <body>
+<div class="container-fluid">
+    <div class="row navbar">
+        <div class="navbar-brand col-6 col-md-5 offset-md-1">VectorLogoZone</div>
+        <div class="navbar-nav col-6 col-md-5">
+            <a href="/logos/index.html">Logos</a>
+            <a href="/support/index.html">FAQ</a>
+            <a href="/report/index.html">Reports</a>
+            <a href="/search.html"><i class="fa fa-search"></i></a>
+        </div>
+    </div>
+</div>
 <div class="container-fluid">
     <div class="row">
         <div class="col-12 col-md-10 offset-md-1">{{ content }}</div>
