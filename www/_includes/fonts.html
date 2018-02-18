@@ -1,9 +1,11 @@
-{% if page.font %}
-<p>
-    Font: {% if page.font.url %}<a href="{{page.font.url}}">{{page.font.name}}</a>{% else %}{{page.font.name}}{% endif %}
-    {% if page.font.myfonts %} | <a href="{{page.font.myfonts}}?refby=vlz">MyFonts</a>{% endif %}
-    {% if page.font.google %} | <a href="{{page.font.google}}?referrer=VectorLogoZone">Google</a>{% endif %}
-    {% if page.font.microsoft %} | <a href="{{page.font.google}}&amp;referrer=VectorLogoZone">Microsoft</a>{% endif %}
-    {% if page.font.freename %} | Free Alternative: <a href="{{page.font.freeurl}}">{{page.font.freename}}</a>{% endif %}
-</p>
-{% endif %}
+<div class="row">
+    <div class="col-md-10 col-md-offset-1">
+        <p>
+            Font: {% if page.font.url %}<a href="{{page.font.url}}">{{page.font.name}}</a>{% else %}{{page.font.name}}{% endif %}
+            {% if page.font.myfonts %} | <a href="{{page.font.myfonts}}?refby=vlz">MyFonts</a>{% endif %}
+            {% if page.font.google %} | <a href="{{page.font.google}}?referrer=VectorLogoZone">Google</a>{% endif %}
+            {% if page.font.microsoft %} | <a href="{{page.font.google}}&amp;referrer=VectorLogoZone">Microsoft</a>{% endif %}
+            {% if page.font.freename %} | Free Alternative: <a href="{{page.font.freeurl}}">{{page.font.freename}}</a>{% endif %}
+        </p>
+    </div>
+</div>
