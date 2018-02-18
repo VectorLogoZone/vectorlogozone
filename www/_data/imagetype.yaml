@@ -12,7 +12,7 @@
 
 - id: icon
   title: Icon
-  description: Logo, no text, no padding
+  description: Logo, no text, in a 64x64 canvas with no excess padding
   height: 32
   width: 32
   padding: false
@@ -22,12 +22,23 @@
   visualinventory: true
   amp: true
 
+- id: image
+  title: Image
+  description: Logo, no text, 64 high, width adjusted to logo width
+  height: 64
+  padding: false
+  tab: false
+  search: false
+  inventory: true
+  visualinventory: true
+  amp: true
+
 - id: vertical
   title: Vertical Badge
   description: Vertical badge with logo above text, some padding.
   height: 94
   padding: true
-  tab: false
+  tab: true
   search: false
   inventory: true
   visualinventory: false
@@ -60,10 +71,10 @@
 
 - id: official
   title: Official Logo
-  description: Official logo, as provided by the source.  Resized to max of 512.
+  description: Official logo, as provided by the source.  Resized to max of 256.
   height: 128
   padding: false
-  tab: false
+  tab: true
   search: false
   inventory: true
   visualinventory: false
@@ -71,7 +82,7 @@
 
 - id: wordmark
   title: Wordmark
-  description: Just the name in the appropriate font in black at 64 pt.
+  description: Just the name in the appropriate font in black with the baseline 64 from the top.
   height: 64
   padding: 4px;
   padding: false
