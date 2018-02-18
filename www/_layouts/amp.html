@@ -56,7 +56,6 @@
     </div>
     <div class="content">
         <h1>{{page.title}}</h1>
-
         <amp-ad
             layout="fixed-height"
             height=100
@@ -64,22 +63,21 @@
             data-ad-client="ca-pub-6975096118196151"
             data-ad-slot="1537213079">
         </amp-ad>
-
         {{ content }}
-
-        {% assign sorted_images = page.images | sort %}{% for image in sorted_images %}
-        {% capture imagetype %}{{image|split:'-'|last|split:'.'|first}}{% endcapture %}
-        {% for standardtype in site.data.imagetype %}
-        {% if standardtype.id == imagetype %}
+        {%- assign sorted_images = page.images | sort %}{% for image in sorted_images -%}
+        {%- capture imagetype %}{{image|split:'-'|last|split:'.'|first}}{% endcapture -%}
+        {%- for standardtype in site.data.imagetype -%}
+        {%- if standardtype.amp == true -%}
+        {%- if standardtype.id == imagetype -%}
         <p><amp-img class="logoimage" src="{{image}}" height="{{standardtype.height}}" width="{{standardtype.width}}" layout="responsive">
             <noscript>
                 <img src="{{image}}" width="{{standardtype.width}}" height="{{standardtype.height}}" />
             </noscript>
         </amp-img></p>
-        {% endif %}
-        {% endfor %}
-        {% endfor %}
-
+        {%- endif -%}
+        {%- endif -%}
+        {%- endfor -%}
+        {%- endfor -%}
         <amp-ad
             layout="responsive"
             width=300
@@ -88,7 +86,6 @@
             data-ad-client="ca-pub-6975096118196151"
             data-ad-slot="1537213079">
         </amp-ad>
-
     </div>
     <div class="footer">
         <a href="index.html">View mobile-friendly non-AMP page</a>
