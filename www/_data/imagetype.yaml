@@ -59,11 +59,10 @@
 
 - id: horizontal
   title: Horizontal Badge
-  description: Similar to the rectangle, but no limit on width to accomodate longer names.
+  description: Similar to the 2:1 rectangle, but no limit on width to accomodate longer names.
   height: 64
-  padding: 4px;
-  padding: false
-  tab: false
+  padding: true
+  tab: true
   search: false
   inventory: true
   visualinventory: false

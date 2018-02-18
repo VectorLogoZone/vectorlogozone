@@ -1,13 +1,11 @@
 ---
 blog: http://blog.nearlyfreespeech.net/
-category: hosting
+color: ["#3A7F3D"]
 font:
   name: Trebuchet Bold
   myfonts: http://www.myfonts.com/fonts/ascender/trebuchet/bold/
   microsoft: https://www.microsoft.com/typography/fonts/font.aspx?FMID=785
 images:
-- nearlyfreespeech-card.png
-- nearlyfreespeech-vertical.svg
 - nearlyfreespeech-icon.svg
 - nearlyfreespeech-ar21.svg
 - nearlyfreespeech-horizontal.svg
