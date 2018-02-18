@@ -1,10 +1,8 @@
 ---
 blog: http://blog.fileformat.info/
-category: service
+colors: ["#003399"]
 images:
-- fileformatinfo-vertical.svg
 - fileformatinfo-horizontal.svg
-- fileformatinfo-card.png
 - fileformatinfo-ar21.svg
 - fileformatinfo-icon.svg
 layout: default
