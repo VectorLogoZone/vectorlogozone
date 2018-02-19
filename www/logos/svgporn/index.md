@@ -1,4 +1,5 @@
 ---
+colors: ["#FB0000"]
 github: gilbarbara/logos
 logohandle: svgporn
 sort: svgporn
