@@ -3,14 +3,12 @@ blog: https://blog.digitalocean.com/
 colors: "#0080FF"
 facebook: https://www.facebook.com/DigitalOceanCloudHosting
 font:
-  name: Lato Bold
-  url: http://www.latofonts.com/
-  google: http://www.google.com/fonts/specimen/Lato
+  name: Maax
+  url: http://www.editions205.fr/maax_article_e.html
 github: digitalocean
 guide: https://www.digitalocean.com/company/logos-and-badges/
 images:
 - digitalocean-tile.svg
-- digitalocean-wordmark.svg
 - digitalocean-horizontal.svg
 - digitalocean-card.png
 - digitalocean-icon.svg
