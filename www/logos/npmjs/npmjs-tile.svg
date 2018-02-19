@@ -1,25 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    fill="#fff"
    aria-label="NPM"
    role="img"
    viewBox="0 0 512 512"
    version="1.1"
->
+   id="svg3440"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="npmjs-tile.svg">
+  <metadata
+     id="metadata3452">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3450" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1476"
+     inkscape:window-height="848"
+     id="namedview3448"
+     showgrid="false"
+     inkscape:zoom="1.3886719"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3440" />
   <rect
      width="512"
      height="512"
      fill="#cb3837"
-     rx="15%" />
+     rx="15%"
+     id="rect3442" />
   <path
-     d="m 309,190 0,106.7 53.3,0 0,-80 26.7,0 0,80 26.7,0 0,-80 26.7,0 0,80 26.7,0 0,-106.7 z"
-     id="path4142"
-/>
-  <path
-     d="M16 163.3m26.7 133.4H96v-80h26.7v80h26.7V190H42.7z"
+     d="m 71.448664,58.163572 m 64.894576,324.229808 129.54609,0 0,-194.44066 64.89458,0 0,194.44066 64.89456,0 0,-259.33523 -259.33523,0 z"
      id="path4144"
-/>
-  <path
-     d="M176 190v133.3h53.3v-26.7h53.3V190zm53.3 26.7H256V270h-26.7z"
-/>
+     inkscape:connector-curvature="0" />
 </svg>
