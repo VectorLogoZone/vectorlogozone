@@ -35,7 +35,7 @@ layout: default
 
 		{%- for logopage in sorted_pages %}{% if logopage.logohandle -%}
 			{%- capture logofile %}{{ logopage.logohandle }}-{{ imagetype.id }}.svg{% endcapture %}{% if logopage.images contains logofile -%}
-				<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}{% if imagetype.maxpreviewsize %} maxsize{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}"/></a>
+				<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}{% if imagetype.maxpreviewsize %} maxsize{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}" title="{{logopage.title}}"/></a>
 				{% assign logocount = logocount | plus:1 %}
 			{%- endif -%}
 		{%- endif %}{% endfor -%}

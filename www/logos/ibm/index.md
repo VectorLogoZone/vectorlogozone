@@ -7,7 +7,6 @@ font:
 github: ibm
 images:
 - ibm-icon.svg
-- ibm-tile.svg
 - ibm-ar21.svg
 logohandle: ibm
 skipped: 0
