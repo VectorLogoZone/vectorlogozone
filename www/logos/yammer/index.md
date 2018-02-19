@@ -1,5 +1,6 @@
 ---
 blog: https://blogs.office.com/en-us/yammer/
+colors: ["#0072C6"]
 facebook: https://www.facebook.com/Yammer
 guide: https://developer.yammer.com/docs/branding-guide
 linkedin: https://www.linkedin.com/company/260901/

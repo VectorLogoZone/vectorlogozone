@@ -1,6 +1,6 @@
 ---
 blog: http://newsroom.1and1.com/
-color: "#002276"
+colors: ["#002276"]
 facebook: https://www.facebook.com/1and1
 github: 1and1
 images:

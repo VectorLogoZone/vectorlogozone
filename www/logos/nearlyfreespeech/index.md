@@ -1,6 +1,6 @@
 ---
 blog: http://blog.nearlyfreespeech.net/
-color: ["#3A7F3D"]
+colors: ["#3A7F3D"]
 font:
   name: Trebuchet Bold
   myfonts: http://www.myfonts.com/fonts/ascender/trebuchet/bold/
