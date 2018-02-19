@@ -27,7 +27,7 @@
                     {%- if page.wikipedia %}<a title="Wikipedia" href="{{ page.wikipedia }}"><i class="fab fa-wikipedia-w icon-link"></i></a>{% endif -%}
                     {%- if page.youtube %}<a title="YouTube" rel="nofollow" href="{{ page.youtube }}"><i class="fab fa-youtube icon-link"></i></a>{% endif -%}
 					{%- if prev_page %}<a class="btn btn-default btn-xs" href="{{prev_page}}" title="Previous set of logos"><i class="fa fa-caret-left"></i> Previous</a>{% endif -%}
-					{%- if next_page %}<a class="btn btn-default btn-xs" href="{{next_page}}" title="Next set of logos">Next <i class="fa fa-caret-right"></i></a>{% endif -%}
+					{%- if next_page %}&nbsp;<a class="btn btn-default btn-xs" href="{{next_page}}" title="Next set of logos">Next <i class="fa fa-caret-right"></i></a>{% endif -%}
 				</div>
                 {%- endif -%}
 				<h1>{% if page.h1 %}{{ page.h1 }}{% else %}{{ page.title }}{% endif %}{% if page.subtitle %} <small> - {{ page.subtitle }}</small>{% endif %}</h1>

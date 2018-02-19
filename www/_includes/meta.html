@@ -72,26 +72,24 @@
 	<script src="/js/jquery-2.1.4.js"></script>
 	<script src="/js/bootstrap.js"></script>
 {%- include nextprev.html -%}
-	{%- if prev_page -%}
+	{%- if prev_page %}
     <link rel="prev" href="{{prev_page}}" />
     {%- endif -%}
-	{%- if next_page -%}
+	{%- if next_page %}
     <link rel="next" href="{{next_page}}" />
     {%- endif -%}
 	{%- if page.url == '/index.html' or page.url == '/' %}{% include meta-home.html %}{% endif -%}
-    {%- if page.logohandle -%}
+    {%- if page.logohandle %}
     <link rel="canonical" href="{{site.production_url}}/logos/{{page.logohandle}}/index.html" />
     {%- endif -%}
-    {%- if page.images.size > 0 -%}
+    {%- if page.images.size > 0 %}
     <link rel="amphtml" href="{{site.production_url}}/logos/{{page.logohandle}}/index.amp.html" />
 	<meta property="description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
-
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="{{page.title}} Vector (SVG) Logos">
 	<meta property="og:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
 	<meta property="og:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-card.png">
     <meta property="og:site_name" content="VectorLogoZone">
-
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="{{page.title}} Vector (SVG) Logos">
 	<meta name="twitter:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">

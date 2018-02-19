@@ -28,6 +28,7 @@ branches:
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+  - JEKYLL_ENV=production
 deploy:
   provider: s3
   access_key_id: AKIAJLZ4VZK3GII4HOYA
