@@ -4,24 +4,24 @@ language: python3
 rvm:
 - 2.1
 before_install:
-  - sudo apt-get -qq update
+- sudo apt-get -qq update
 install:
-  - sudo apt-get install -y librsvg2-bin imagemagick
-  - sudo apt-get install python3-pip
-  - sudo python3 -m pip install python-frontmatter commonmark
-  - gem install ruby_dep -v 1.3.1
-  - gem install listen -v 3.0.8
-  - gem install jekyll
-  - gem install jekyll-redirect-from
+- sudo apt-get install -y librsvg2-bin imagemagick
+- sudo apt-get install python3-pip
+- sudo python3 -m pip install python-frontmatter commonmark
+- gem install ruby_dep -v 1.3.1
+- gem install listen -v 3.0.8
+- gem install jekyll
+- gem install jekyll-redirect-from
 before_script:
-  - cd bin
-  - ./mkcard.sh
-  - python3 frontmatter_update.py
-  - python3 fm2tag.py
-  - python3 mkamp.py
-  - cd ..
+- cd bin
+- "./mkcard.sh"
+- python3 frontmatter_update.py
+- python3 fm2tag.py
+- python3 mkamp.py
+- cd ..
 script:
-  - jekyll build --source www
+- jekyll build --source www
 branches:
   only:
   - gh-pages
@@ -29,6 +29,9 @@ env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
   - JEKYLL_ENV=production
+  - secure: gXU4ZbMpXPfx2md1MftTSu3Lc2Q4LX/gvOBZgIFMqSX57fj1h0M8VcX9ryWhATXb6Z8157J6Ilnnnb+chi/rO3W87yADSeT16aPO5QVyW5NwOZ0YywuVSlJ7saJk1UsBqeB9gLKJNdqpdYs3s9b/Npb+IZDQ8xS1JEsppCjoWfqLvB5IdpLsP9tg8w/7zZwfU+aRJuDubzAJPuW9527O2B+sqg0KjZBQLE8uLAHMi4sQWKo9dzEl5/4zOmzkYWz1xl+T7V4ruEk7JmzNe1LLpiiyuK4h3F4birB7uqmalzQ0oltLQN9hFQwYD3Mn46AIkQ01asAJbwTYu4sq4znKJ/rAjw4v5fXPrxGycblZmAAZmrizCcOtUM2lNYhwKyWtoKP/6LBBi0C2p+YSvz4NGbVn1fc7RqcCp+AjveSE/0ga7IJWGcSXbqZ94CjUCkCMWrj2qKkeUxHsYoKydP7+hgx8q27o/p0yOVFAn7oUlb41PNxQ1T/QB5uUrn6nijNB1yn3JPWSGSYVDYKdSa0ZSLWnqDovkodaRlcQn7H1K8ypfXvox7Is1iUyhv9jQff2XzrPs8JgHtCG1zE0tuzX7zHAv0jdgE6xvwwucMcbkIVdfXBEj6OJDQmJeilHS3E39kfoy5u/xLe3eJYpBhEmLVGWKhLxUSxFF6WW7HS4XY4=
+  - secure: idv3whF5ectXJlJADxYq/kCZad1I8QtYdVSwHjun0Jm48YY0eglAxfg1HwCJgjUOVno9cMwJDyGQPbxFJ9SPSV0z9Xq5bdhdksiw2aQYWG530APS6SCCpK/EsPku21pqsWaayvsy8574Y+wsZqqWMfu17kIpxD7C4vHvD5ae2dx1zeln74KBVYEjtKaqnhYBMy4a5SmVrwDZzZ8aFHHEMfVhmgEctTxLU96C3jWylalG/muBWHPA54PL6VshvTlk5+bPq4et5lhhh8+2MOEzigcKAwXTB9EanWiJv/BO1B/H1mz8Zn5swcssL4kyRkdTkor/vnUGXut8CBtvgekNZ7JpTA1kGiJIg0r+cPFUS7Zz40drCZ64CCf97bgpS71+Es4kz9ox4IRQbvc2+lI8CnQasK7xQgQ9mx4XHtz67c1H29QzYDM2LkD6TRSpBC1pwAkXEe5FxCL3xpSgIpcspNo5s6G5+qqfowGM078+JPZ/RCcGesH5gM9h/IDI3Cw5OB5NvejzDbqzaldfKG4kEgv81g4o4cF9vZpcq3uoDCYgPiMbCzQqXko9Wmp4WLt80ZzhS9iNctuZK32SPCdMgrc+3qLJ+88kdJFtVR3+54j1sUXW+NJo69LR5vTpwFA2vK8le2CevPMjQ4B2wU4KajGiGk4q6Jwg93uGn/+CwzU=
+  - secure: FNPMezgA805/4p+dLBw5y9tY9OGuAXDsqJ6fMCsEc6aASCKstnsgUrtB+SFxKoDLN9vvLVXIbzZAjOEgQpDhFPatGvAp72Q9nRT0STdygRJ5j0V0FdWWw+jRP8V5ZNvts20sxRo1maoYSqlJMRhc4fduPBOVa81V1Unp1mms06ShfQLhLyTxlFyJOpXsQBsPSAOpWvMarSNRPfCKb4Vrjyzprhgn1okcxv9XWi8hRLZ9nx7uJK0BoClpcmpP9kozGUjtThDeZsSSFkxy1lNvHZIkkEB7P8cdYLx7+aeRe6MjOYZGm+r6A7FD4DYrPdaauUdw+0+xpmOwVka3CyNAdUIo7XB+Ql58LSGLjU/f30kQCR8RHGbZipLekXV8DwNObej/A67dSF8CqMuUgLot82A6/ngqP+Rnj7h/QTdiTDYrtjuy40m6hDg8gTjSVb4c8KfBOTyFSiJ5u+EkMmul9/AYS37nin5JH4GQjImxF0SFqXQfxs1KKwD+SYLv26RFf+sIsLHxoeqzv3atKswAo6i79QPqbKhxvZmyAAZAcHhaIUwAOjYsKp/YGeekiE7nioJxuKZkZjxZVuEVzRMEXSO/hkwNzyrdji+BJ20wnjTIAznM2wooca6Uo5mFX4vJtvkEMXgNGwKO44M6gXfRL3P/1hGe+WcBgbdq3h6JRvo=
 deploy:
   provider: s3
   access_key_id: AKIAJLZ4VZK3GII4HOYA
@@ -40,3 +43,5 @@ deploy:
   on:
     repo: fileformat/vectorlogozone
     branch: gh-pages
+after_deploy:
+- bin/flush_cdn.sh
