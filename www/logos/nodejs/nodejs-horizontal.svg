@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="173"
-   height="64"
-   viewBox="0 0 173 64"
+   width="161"
+   height="60"
+   viewBox="0 0 161 60"
    version="1.1"
    preserveAspectRatio="xMidYMid"
    id="svg3028"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.91 r13725"
    sodipodi:docname="nodejs-horizontal.svg">
   <metadata
      id="metadata3050">
@@ -23,6 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,20 +38,20 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1132"
-     inkscape:window-height="667"
+     inkscape:window-width="1781"
+     inkscape:window-height="902"
      id="namedview3046"
      showgrid="false"
-     inkscape:zoom="3.5701754"
-     inkscape:cx="114"
-     inkscape:cy="32"
+     inkscape:zoom="7.2312139"
+     inkscape:cx="86.5"
+     inkscape:cy="30"
      inkscape:window-x="75"
      inkscape:window-y="34"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg3028" />
   <g
      id="g3030"
-     transform="matrix(0.3379231,0,0,0.3379231,-0.28958932,0.09584632)">
+     transform="matrix(0.27712851,0,0,0.27712851,9.7625097,9.8940258)">
     <g
        transform="translate(430,51)"
        id="g3032"
