@@ -1,0 +1,35 @@
+---
+title: Standard Image Sizes
+---
+
+<p>While this site only has vector logos which look good at any resolution, many sites don't accept SVGs for profile photos or banners.  This is a list
+of the standard image sizes for various sites</p>
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Site</th>
+            <th>Image</th>
+            <th>Size</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+{% for size in site.data.rastersize %}
+        <tr>
+            <td>{% if size.logo %}<img src="/logos/{{size.logo}}/{{size.logo}}-ar21.svg" alt="{{size.site}}" />{% else %}{{size.site}}{% endif %}</td>
+            <td>{{size.description}}</td>
+            <td>{{size.width}}w x {{size.height}}h</td>
+            <td>{% if size.notes %}{{size.notes}}{% endif %}{% if size.url %} <a href="{{size.url}}">details</a>{% endif %}</td>
+        </tr>
+{% endfor %}
+    </tbody>
+</table>
+
+<p>More resources:</p>
+
+<ul>
+    <li><a href="https://sproutsocial.com/insights/social-media-image-sizes-guide/">SproutSocial</a></li>
+    <li><a href="https://postcron.com/en/blog/social-media-image-dimensions-sizes/">PostCron</a></li>
+    <li><a href="https://blog.hubspot.com/marketing/ultimate-guide-social-media-image-dimensions-infographic">HubSpot</a></li>
+</ul>

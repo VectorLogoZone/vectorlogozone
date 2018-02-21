@@ -1,0 +1,16 @@
+- site: Twitter
+  logo: twitter
+  description: Profile photo
+  width: 400
+  height: 400
+  url: https://help.twitter.com/en/managing-your-account/how-to-customize-your-profile
+  notes: cropped to a circle
+
+- site: Twitter
+  logo: twitter
+  description: Header photo
+  width: 1500
+  height: 500
+  url: https://help.twitter.com/en/managing-your-account/how-to-customize-your-profile
+  notes:
+
