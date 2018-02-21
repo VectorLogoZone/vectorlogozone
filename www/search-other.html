@@ -3,22 +3,38 @@ layout: default
 title: Search Other Websites
 ---
 {% include searchtab.html %}
-
+<div class="row clearfix" style="padding-bottom:20px;">
+    <div class="col-md-6 col-md-offset-3 column">
+        <form action="get" class="form-inline" id="site_search">
+            <div class="form-group">
+                <label class="sr-only" for="q">Search query</label><input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search term" type="text">
+            </div>
+        </form>
+    </div>
+</div>
 {% for alternative in site.data.alternatives %}{% if alternative.enabled %}
 <p><a class="altlink" data-search="{{alternative.search}}" href="{{alternative.url}}" rel="nofollow,noindex,noopener" target="_blank">{{alternative.name | default: alternative.id}}</a></p>
 {% endif %}{% endfor %}
 <script>
+$(function() {
+
     function getParameterByName(name) {
         var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
         return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
     }
+    var query = getParameterByName("q");
+    if (query && query.length)
+    {
+        $("#q").val(query);
+    }
 
     $(".altlink").click(function(e) {
         var link = $(e.target).attr("data-search");
-        var query = encodeURIComponent(getParameterByName("q"));
+        var query = encodeURIComponent($("#q").val());
         link = link.replace("{query}", query);
         //only needed for Jekyll with href, not data-search  link = link.replace("%7Bquery%7D", query);
         window.location = link;
         return false;
     });
+});
 </script>
