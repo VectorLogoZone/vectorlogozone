@@ -9,5 +9,3 @@ twitter: elastic
 website: https://www.elastic.co/
 wikipedia: https://en.wikipedia.org/wiki/Elasticsearch
 ---
-
-https://github.com/gilbarbara/logos/blob/master/logos/elasticsearch.svg

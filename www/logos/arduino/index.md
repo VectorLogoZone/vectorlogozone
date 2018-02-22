@@ -14,5 +14,3 @@ twitter: arduino
 website: https://www.arduino.cc/
 wikipedia: https://en.wikipedia.org/wiki/Arduino
 ---
-
-https://github.com/gilbarbara/logos/blob/master/logos/arduino.svg

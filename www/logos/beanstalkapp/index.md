@@ -6,5 +6,3 @@ title: Beanstalk
 twitter: beanstalkapp
 website: https://beanstalkapp.com/
 ---
-
-https://github.com/kogg/instant-logos/blob/develop/logos/beanstalk.svg

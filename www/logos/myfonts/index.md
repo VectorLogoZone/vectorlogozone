@@ -15,5 +15,3 @@ twitter: MyFonts
 website: https://www.myfonts.com/
 wikipedia: https://en.wikipedia.org/wiki/MyFonts
 ---
-
-https://goodlogo.com/extended.info/myfonts-logo-3430
