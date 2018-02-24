@@ -2,10 +2,10 @@
 blog: http://meta.myfonts.com/
 colors: "#0099ff"
 facebook: http://facebook.com/MyFonts
-instagram: http://instagram.com/myfonts
+instagram: myfonts
 linkedin: https://www.linkedin.com/blah/blah/
 logohandle: myfonts
-pinterest: http://www.pinterest.com/myfonts/
+pinterest: myfonts
 sort: myfonts
 tags:
 - fonts

@@ -7,7 +7,7 @@ images:
 - wufoo-card.png
 - wufoo-ar21.svg
 - wufoo-icon.svg
-instagram: https://www.instagram.com/wufoo/
+instagram: wufoo
 linkedin: https://www.linkedin.com/company-beta/3364692/
 logohandle: wufoo
 skipped: 1

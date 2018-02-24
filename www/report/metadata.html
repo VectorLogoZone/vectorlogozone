@@ -60,7 +60,7 @@ redirect_from: /logos/metadata.html
                 {% if logopage.colors %}{{ checkon }}{% assign colorcount = colorcount | plus:1 %}{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
-                {% if logopage.facebook %}<a href="{{logopage.facebook}}">{{ checkon }}{% assign facebookcount = facebookcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                {% if logopage.facebook %}<a rel="nofollow" href="{{logopage.facebook}}">{{ checkon }}{% assign facebookcount = facebookcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
                 {% if logopage.font %}{{ checkon }}{% assign fontcount = fontcount | plus:1 %}{% else %}{{ checkoff }}{% endif %}
@@ -69,28 +69,28 @@ redirect_from: /logos/metadata.html
                 {% if logopage.github %}<a href="https://www.github.com/{{logopage.github}}">{{ checkon }}{% assign githubcount = githubcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
-                {% if logopage.guide %}<a href="{{logopage.guide}}">{{ checkon }}{% assign guidecount = guidecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                {% if logopage.guide %}<a rel="nofollow" href="{{logopage.guide}}">{{ checkon }}{% assign guidecount = guidecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
                 {% if logopage.googleplus %}<a href="https://plus.google.com/+{{logopage.googleplus}}">{{ checkon }}{% assign googlepluscount = googlepluscount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
-                {% if logopage.instagram %}<a href="{{logopage.instagram}}">{{ checkon }}{% assign instagramcount = instagramcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                {% if logopage.instagram %}<a rel="nofollow" href="https://www.instagram.com/{{logopage.instagram}}/">{{ checkon }}{% assign instagramcount = instagramcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
-                {% if logopage.linkedin %}<a href="{{logopage.linkedin}}">{{ checkon }}{% assign linkedincount = linkedincount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                {% if logopage.linkedin %}<a rel="nofollow" href="{{logopage.linkedin}}">{{ checkon }}{% assign linkedincount = linkedincount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
-                {% if logopage.pinterest %}<a href="{{logopage.pinterest}}">{{ checkon }}{% assign pinterestcount = pinterestcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                {% if logopage.pinterest %}<a rel="nofollow" href="https://www.pinterest.com/{{logopage.pinterest}}/">{{ checkon }}{% assign pinterestcount = pinterestcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
-                {% if logopage.reddit %}<a href="{{logopage.reddit}}">{{ checkon }}{% assign redditcount = redditcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                {% if logopage.reddit %}<a rel="nofollow" href="{{logopage.reddit}}">{{ checkon }}{% assign redditcount = redditcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
-                {% if logopage.tumblr %}<a href="{{logopage.tumblr}}">{{ checkon }}{% assign tumblrcount = tumblrcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                {% if logopage.tumblr %}<a rel="nofollow" href="{{logopage.tumblr}}">{{ checkon }}{% assign tumblrcount = tumblrcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
-                    {% if logopage.twitter %}<a href="https://www.twitter.com/{{logopage.twitter}}">{{ checkon }}{% assign twittercount = twittercount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                    {% if logopage.twitter %}<a rel="nofollow" href="https://www.twitter.com/{{logopage.twitter}}">{{ checkon }}{% assign twittercount = twittercount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">
                     {% if logopage.website %}<a href="{{logopage.website}}">{{ checkon }}{% assign websitecount = websitecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}

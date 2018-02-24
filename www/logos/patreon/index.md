@@ -8,7 +8,7 @@ images:
 - patreon-ar21.svg
 - patreon-icon.svg
 - patreon-tile.svg
-instagram: https://instagram.com/patreon
+instagram: patreon
 linkedin: https://www.linkedin.com/company/3228545/
 logohandle: patreon
 skipped: 0

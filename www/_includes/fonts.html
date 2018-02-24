@@ -3,8 +3,8 @@
         <p>
             Font: {% if page.font.url %}<a href="{{page.font.url}}">{{page.font.name}}</a>{% else %}{{page.font.name}}{% endif %}
             {% if page.font.myfonts %} | <a href="{{page.font.myfonts}}?refby=vlz">MyFonts</a>{% endif %}
-            {% if page.font.google %} | <a href="{{page.font.google}}?referrer=VectorLogoZone">Google</a>{% endif %}
-            {% if page.font.microsoft %} | <a href="{{page.font.google}}&amp;referrer=VectorLogoZone">Microsoft</a>{% endif %}
+            {% if page.font.google %} | <a href="{{page.font.google}}?utm_source=vectorlogozone&utm_medium=referrer">Google</a>{% endif %}
+            {% if page.font.microsoft %} | <a href="{{page.font.microsoft}}">Microsoft</a>{% endif %}
             {% if page.font.freename %} | Free Alternative: <a href="{{page.font.freeurl}}">{{page.font.freename}}</a>{% endif %}
         </p>
     </div>

@@ -1,5 +1,5 @@
 ---
-blog: https://stackoverflow.blog/?blb=1
+blog: https://stackoverflow.blog/
 facebook: https://www.facebook.com/officialstackoverflow/
 font:
   name: FF DIN

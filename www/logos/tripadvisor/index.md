@@ -9,7 +9,7 @@ guide: https://www.tripadvisor.com/TripAdvisorInsights/n2716/brand-guidelines-pa
 instagram: tripadvisor
 linkedin: https://www.linkedin.com/company/15027/
 logohandle: tripadvisor
-pinterest: https://www.pinterest.com/tripadvisorus/
+pinterest: tripadvisorus
 sort: tripadvisor
 title: TripAdvisor
 twitter: TripAdvisor
