@@ -65,7 +65,7 @@
   tab: true
   search: false
   inventory: true
-  visualinventory: false
+  visualinventory: true
   amp: false
 
 - id: official
@@ -76,7 +76,7 @@
   tab: true
   search: false
   inventory: true
-  visualinventory: false
+  visualinventory: true
   amp: false
 
 - id: wordmark
