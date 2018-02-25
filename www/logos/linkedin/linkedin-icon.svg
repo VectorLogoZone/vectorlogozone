@@ -1,70 +1,28 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 21.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 32 32"
-   xml:space="preserve"
-   sodipodi:docname="linkedin-icon.svg"
-   width="32"
-   height="32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><metadata
-     id="metadata45"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs43" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     id="namedview41"
-     showgrid="false"
-     inkscape:zoom="2.712"
-     inkscape:cx="212.15439"
-     inkscape:cy="-42.407005"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" /><style
-     type="text/css"
-     id="style2">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 32 32" xml:space="preserve" sodipodi:docname="linkedin-icon.svg" width="64" height="64" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata id="metadata45">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs43"/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1001" id="namedview41" showgrid="false" inkscape:zoom="2.712" inkscape:cx="212.15439" inkscape:cy="-42.407005" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="Layer_1"/>
+  <style type="text/css" id="style2">
 	.st0{fill:#4285F4;}
 	.st1{fill:#EA4335;}
 	.st2{fill:#FBBC05;}
 	.st3{fill:#34A853;}
 	.st4{fill:#0177B5;}
 	.st5{fill:#FFFFFF;}
-</style><g
-     id="g938"
-     transform="matrix(1.2327382,0,0,1.2327382,-44.651454,13.534524)"><path
-       style="fill:#0177b5;stroke-width:0.42453256"
-       inkscape:connector-curvature="0"
-       id="path20"
-       d="M 60.258392,-10.978809 H 38.137276 c -1.057086,0 -1.915916,0.838027 -1.915916,1.87049 v 22.214515 c 0,1.033737 0.85883,1.872613 1.915916,1.872613 h 22.121116 c 1.05879,0 1.92144,-0.838876 1.92144,-1.872613 V -9.108319 c 4.2e-4,-1.032463 -0.86223,-1.87049 -1.92144,-1.87049 z"
-       class="st4" /><path
-       style="fill:#ffffff;stroke-width:0.42453256"
-       inkscape:connector-curvature="0"
-       id="path22"
-       d="m 40.070173,-1.247249 h 3.85051 V 11.14061 h -3.85051 z m 1.926104,-6.157845 c 1.23072,0 2.230918,1.000199 2.230918,2.231768 0,1.232418 -1.000198,2.232616 -2.230918,2.232616 -1.234116,0 -2.233042,-1.000198 -2.233042,-2.232616 0,-1.231569 0.998926,-2.231768 2.233042,-2.231768"
-       class="st5" /><path
-       style="fill:#ffffff;stroke-width:0.42453256"
-       inkscape:connector-curvature="0"
-       id="path24"
-       d="m 46.335424,-1.247249 h 3.692584 v 1.692611 h 0.05137 c 0.514109,-0.973878 1.769874,-2.000822 3.642914,-2.000822 3.89891,0 4.61849,2.565875 4.61849,5.901002 v 6.794644 h -3.84754 V 5.116069 c 0,-1.436618 -0.0263,-3.284608 -2.00082,-3.284608 -2.00337,0 -2.310731,1.564827 -2.310731,3.180598 v 6.128127 h -3.84669 V -1.247249 Z"
-       class="st5" /></g></svg>
+</style>
+  <g id="g938" transform="matrix(1.2327382,0,0,1.2327382,-44.651454,13.534524)">
+    <path style="fill:#0177b5;stroke-width:0.42453256" inkscape:connector-curvature="0" id="path20" d="M 60.258392,-10.978809 H 38.137276 c -1.057086,0 -1.915916,0.838027 -1.915916,1.87049 v 22.214515 c 0,1.033737 0.85883,1.872613 1.915916,1.872613 h 22.121116 c 1.05879,0 1.92144,-0.838876 1.92144,-1.872613 V -9.108319 c 4.2e-4,-1.032463 -0.86223,-1.87049 -1.92144,-1.87049 z" class="st4"/>
+    <path style="fill:#ffffff;stroke-width:0.42453256" inkscape:connector-curvature="0" id="path22" d="m 40.070173,-1.247249 h 3.85051 V 11.14061 h -3.85051 z m 1.926104,-6.157845 c 1.23072,0 2.230918,1.000199 2.230918,2.231768 0,1.232418 -1.000198,2.232616 -2.230918,2.232616 -1.234116,0 -2.233042,-1.000198 -2.233042,-2.232616 0,-1.231569 0.998926,-2.231768 2.233042,-2.231768" class="st5"/>
+    <path style="fill:#ffffff;stroke-width:0.42453256" inkscape:connector-curvature="0" id="path24" d="m 46.335424,-1.247249 h 3.692584 v 1.692611 h 0.05137 c 0.514109,-0.973878 1.769874,-2.000822 3.642914,-2.000822 3.89891,0 4.61849,2.565875 4.61849,5.901002 v 6.794644 h -3.84754 V 5.116069 c 0,-1.436618 -0.0263,-3.284608 -2.00082,-3.284608 -2.00337,0 -2.310731,1.564827 -2.310731,3.180598 v 6.128127 h -3.84669 V -1.247249 Z" class="st5"/>
+  </g>
+</svg>

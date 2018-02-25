@@ -1,62 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="art"
-   viewBox="0 0 32 32"
-   version="1.1"
-   sodipodi:docname="pinterest-icon.svg"
-   width="32"
-   height="32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
-  <metadata
-     id="metadata35">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="art" viewBox="0 0 32 32" version="1.1" sodipodi:docname="pinterest-icon.svg" width="64" height="64" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata id="metadata35">
     <rdf:RDF>
-      <cc:Work
-         rdf:about="">
+      <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
         <dc:title>wordmark+badgeRGB</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     id="namedview33"
-     showgrid="false"
-     inkscape:zoom="3.7564615"
-     inkscape:cx="99.645505"
-     inkscape:cy="33.172791"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="art" />
-  <defs
-     id="defs4">
-    <style
-       id="style2">.cls-1{fill:#bd081c;}.cls-2{fill:#fff;}</style>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1001" id="namedview33" showgrid="false" inkscape:zoom="3.7564615" inkscape:cx="99.645505" inkscape:cy="33.172791" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="art"/>
+  <defs id="defs4">
+    <style id="style2">.cls-1{fill:#bd081c;}.cls-2{fill:#fff;}</style>
   </defs>
-  <title
-     id="title6">wordmark+badgeRGB</title>
-  <path
-     class="cls-1"
-     d="M 16.13191,1.638701e-4 A 16.000492,16.000492 0 0 0 10.361246,30.951938 c -0.131152,-1.311516 -0.262303,-3.147639 0,-4.590305 l 1.836117,-8.000246 a 5.7706696,5.7706696 0 0 1 -0.524605,-2.360729 c 0,-2.229577 1.311513,-3.934548 2.885337,-3.934548 1.573815,0 1.967269,1.049213 1.967269,2.229577 0,1.180364 -0.918059,3.409942 -1.311512,5.377214 -0.393455,1.967274 0.786907,2.885335 2.360729,2.885335 1.573817,0 4.983758,-3.016486 4.983758,-7.344489 0,-4.328001 -2.754186,-6.5575796 -6.688733,-6.5575796 -3.934546,0 -7.0821842,3.5410956 -7.0821842,7.0821866 0,1.311516 0.5246042,2.885336 1.1803698,3.672245 a 0.52460633,0.52460633 0 0 1 0.1311514,0.393455 L 9.7054812,21.640175 C 9.5743298,21.902479 9.4431785,22.03363 9.1808769,21.902479 7.2136056,20.984417 5.9020856,18.099082 5.9020856,15.738354 c 0,-4.98376 3.6722442,-9.7052172 10.6232784,-9.7052172 6.951033,0 9.836371,3.9345474 9.836371,9.1806102 0,5.246065 -3.541092,9.967521 -8.262548,9.967521 -1.573823,0 -3.147639,-0.786909 -3.672244,-1.836122 l -1.049218,3.803396 c -0.393454,1.442667 -1.311513,3.147637 -1.967269,4.196851 A 16.000492,16.000492 0 1 0 16.13191,1.638701e-4 Z"
-     id="path30"
-     inkscape:connector-curvature="0"
-     style="fill:#bd081c;stroke-width:0.13115159" />
+  <title id="title6">wordmark+badgeRGB</title>
+  <path class="cls-1" d="M 16.13191,1.638701e-4 A 16.000492,16.000492 0 0 0 10.361246,30.951938 c -0.131152,-1.311516 -0.262303,-3.147639 0,-4.590305 l 1.836117,-8.000246 a 5.7706696,5.7706696 0 0 1 -0.524605,-2.360729 c 0,-2.229577 1.311513,-3.934548 2.885337,-3.934548 1.573815,0 1.967269,1.049213 1.967269,2.229577 0,1.180364 -0.918059,3.409942 -1.311512,5.377214 -0.393455,1.967274 0.786907,2.885335 2.360729,2.885335 1.573817,0 4.983758,-3.016486 4.983758,-7.344489 0,-4.328001 -2.754186,-6.5575796 -6.688733,-6.5575796 -3.934546,0 -7.0821842,3.5410956 -7.0821842,7.0821866 0,1.311516 0.5246042,2.885336 1.1803698,3.672245 a 0.52460633,0.52460633 0 0 1 0.1311514,0.393455 L 9.7054812,21.640175 C 9.5743298,21.902479 9.4431785,22.03363 9.1808769,21.902479 7.2136056,20.984417 5.9020856,18.099082 5.9020856,15.738354 c 0,-4.98376 3.6722442,-9.7052172 10.6232784,-9.7052172 6.951033,0 9.836371,3.9345474 9.836371,9.1806102 0,5.246065 -3.541092,9.967521 -8.262548,9.967521 -1.573823,0 -3.147639,-0.786909 -3.672244,-1.836122 l -1.049218,3.803396 c -0.393454,1.442667 -1.311513,3.147637 -1.967269,4.196851 A 16.000492,16.000492 0 1 0 16.13191,1.638701e-4 Z" id="path30" inkscape:connector-curvature="0" style="fill:#bd081c;stroke-width:0.13115159"/>
 </svg>

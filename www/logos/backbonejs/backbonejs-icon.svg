@@ -1,80 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   width="32"
-   height="32"
-   id="svg2"
-   sodipodi:docname="blackbonejs-icon.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     id="namedview24"
-     showgrid="false"
-     inkscape:zoom="3.0133333"
-     inkscape:cx="68.135631"
-     inkscape:cy="38.654233"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg2" />
-  <defs
-     id="defs4" />
-  <metadata
-     id="metadata7">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="64" height="64" id="svg2" sodipodi:docname="blackbonejs-icon.svg" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)" viewBox="0 0 32 32">
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1001" id="namedview24" showgrid="false" inkscape:zoom="3.0133333" inkscape:cx="68.135631" inkscape:cy="38.654233" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="svg2"/>
+  <defs id="defs4"/>
+  <metadata id="metadata7">
     <rdf:RDF>
-      <cc:Work
-         rdf:about="">
+      <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     style="fill:#d8d8d8;fill-rule:evenodd"
-     id="Page 1"
-     transform="matrix(0.03561467,0,0,0.03561467,3.1431041,0.03064873)">
-    <g
-       id="BackBone.JS">
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#002a41;stroke:#848484;stroke-width:1"
-         id="Path"
-         d="M 0,0 V 485 L 361,690.78502 V 550.90277 L 119.49609,413.23549 V 197 L 361,334.66728 V 205.78502 Z m 0,0" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#0071b5;stroke:#848484;stroke-width:1"
-         id="path2996"
-         d="M 722,0 V 485 L 361,690.78502 V 550.90277 L 602.50391,413.23549 V 197 L 361,334.66728 V 205.78502 Z m 0,0" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#0071b5;stroke:#848484;stroke-width:1"
-         id="path2998"
-         d="m 0,896.78502 v -485 L 361,206 V 345.88225 L 119.49609,483.54953 V 688.78502 L 361,551.11775 V 691 Z m 0,0" />
-      <path
-         inkscape:connector-curvature="0"
-         style="fill:#002a41;stroke:#848484;stroke-width:1"
-         id="path3000"
-         d="m 722,896.78502 v -485 L 361,206 V 345.88225 L 602.50391,483.54953 V 688.78502 L 361,551.11775 V 691 Z m 0,0" />
+  <g style="fill:#d8d8d8;fill-rule:evenodd" id="Page 1" transform="matrix(0.03561467,0,0,0.03561467,3.1431041,0.03064873)">
+    <g id="BackBone.JS">
+      <path inkscape:connector-curvature="0" style="fill:#002a41;stroke:#848484;stroke-width:1" id="Path" d="M 0,0 V 485 L 361,690.78502 V 550.90277 L 119.49609,413.23549 V 197 L 361,334.66728 V 205.78502 Z m 0,0"/>
+      <path inkscape:connector-curvature="0" style="fill:#0071b5;stroke:#848484;stroke-width:1" id="path2996" d="M 722,0 V 485 L 361,690.78502 V 550.90277 L 602.50391,413.23549 V 197 L 361,334.66728 V 205.78502 Z m 0,0"/>
+      <path inkscape:connector-curvature="0" style="fill:#0071b5;stroke:#848484;stroke-width:1" id="path2998" d="m 0,896.78502 v -485 L 361,206 V 345.88225 L 119.49609,483.54953 V 688.78502 L 361,551.11775 V 691 Z m 0,0"/>
+      <path inkscape:connector-curvature="0" style="fill:#002a41;stroke:#848484;stroke-width:1" id="path3000" d="m 722,896.78502 v -485 L 361,206 V 345.88225 L 602.50391,483.54953 V 688.78502 L 361,551.11775 V 691 Z m 0,0"/>
     </g>
   </g>
 </svg>

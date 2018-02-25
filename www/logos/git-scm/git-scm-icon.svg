@@ -1,52 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   width="32"
-   height="32"
-   xml:space="preserve"
-   sodipodi:docname="git-scm-icon.svg"
-   inkscape:export-filename="/home/amarcuse/site/hackerlogos/www/logos/git-scm/git-scm-120x60.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs6" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1790"
-     inkscape:window-height="976"
-     id="namedview4"
-     showgrid="false"
-     inkscape:zoom="9.3333333"
-     inkscape:cx="60"
-     inkscape:cy="30"
-     inkscape:window-x="75"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g10" /><g
-     id="g10"
-     inkscape:groupmode="layer"
-     inkscape:label="ink_ext_XXXXXX"
-     transform="matrix(1.25,0,0,-1.25,0,32.000003)"><path
-       inkscape:connector-curvature="0"
-       id="path20"
-       style="fill:#f03c2e;fill-opacity:1;fill-rule:nonzero;stroke:none"
-       d="M 25.117196,13.940029 13.939637,25.116802 c -0.643175,0.643737 -1.687176,0.643737 -2.331249,0 L 9.2874465,22.795665 12.23162,19.851379 c 0.684437,0.231086 1.468954,0.07615 2.014268,-0.469277 0.548151,-0.548825 0.701993,-1.340028 0.465093,-2.026769 l 2.837633,-2.83752 c 0.686515,0.236564 1.478589,0.08374 2.026767,-0.465429 0.7664,-0.766176 0.7664,-2.007668 0,-2.774096 -0.766512,-0.766625 -2.008004,-0.766625 -2.774854,0 -0.576268,0.576716 -0.718789,1.423423 -0.42692,2.133448 l -2.646377,2.646462 -2.25e-4,-6.964003 c 0.186847,-0.092496 0.363187,-0.2159457 0.518883,-0.3709675 0.766176,-0.7660911 0.766176,-2.0073587 0,-2.7746577 -0.7664,-0.7660632 -2.008454,-0.7660632 -2.774096,0 -0.766287,0.767299 -0.766287,2.0085666 0,2.7746577 0.189375,0.1890369 0.408495,0.3321207 0.642304,0.4280152 l 0,7.0286353 c -0.233809,0.09559 -0.452593,0.237658 -0.642304,0.428043 -0.580424,0.579976 -0.720221,1.43185 -0.422537,2.144601 L 8.1470174,21.65532 0.48296606,13.991712 c -0.64395474,-0.64427 -0.64395474,-1.688271 0,-2.33212 L 11.660408,0.48280434 c 0.643512,-0.64373592 1.687177,-0.64373592 2.331587,0 L 25.117196,11.607797 c 0.643739,0.644073 0.643739,1.688383 0,2.332232" /></g></svg>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" id="svg2" version="1.1" inkscape:version="0.91 r13725" width="64" height="64" xml:space="preserve" sodipodi:docname="git-scm-icon.svg" inkscape:export-filename="/home/amarcuse/site/hackerlogos/www/logos/git-scm/git-scm-120x60.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90" viewBox="0 0 32 32">
+  <metadata id="metadata8">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs6"/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1790" inkscape:window-height="976" id="namedview4" showgrid="false" inkscape:zoom="9.3333333" inkscape:cx="60" inkscape:cy="30" inkscape:window-x="75" inkscape:window-y="34" inkscape:window-maximized="0" inkscape:current-layer="g10"/>
+  <g id="g10" inkscape:groupmode="layer" inkscape:label="ink_ext_XXXXXX" transform="matrix(1.25,0,0,-1.25,0,32.000003)">
+    <path inkscape:connector-curvature="0" id="path20" style="fill:#f03c2e;fill-opacity:1;fill-rule:nonzero;stroke:none" d="M 25.117196,13.940029 13.939637,25.116802 c -0.643175,0.643737 -1.687176,0.643737 -2.331249,0 L 9.2874465,22.795665 12.23162,19.851379 c 0.684437,0.231086 1.468954,0.07615 2.014268,-0.469277 0.548151,-0.548825 0.701993,-1.340028 0.465093,-2.026769 l 2.837633,-2.83752 c 0.686515,0.236564 1.478589,0.08374 2.026767,-0.465429 0.7664,-0.766176 0.7664,-2.007668 0,-2.774096 -0.766512,-0.766625 -2.008004,-0.766625 -2.774854,0 -0.576268,0.576716 -0.718789,1.423423 -0.42692,2.133448 l -2.646377,2.646462 -2.25e-4,-6.964003 c 0.186847,-0.092496 0.363187,-0.2159457 0.518883,-0.3709675 0.766176,-0.7660911 0.766176,-2.0073587 0,-2.7746577 -0.7664,-0.7660632 -2.008454,-0.7660632 -2.774096,0 -0.766287,0.767299 -0.766287,2.0085666 0,2.7746577 0.189375,0.1890369 0.408495,0.3321207 0.642304,0.4280152 l 0,7.0286353 c -0.233809,0.09559 -0.452593,0.237658 -0.642304,0.428043 -0.580424,0.579976 -0.720221,1.43185 -0.422537,2.144601 L 8.1470174,21.65532 0.48296606,13.991712 c -0.64395474,-0.64427 -0.64395474,-1.688271 0,-2.33212 L 11.660408,0.48280434 c 0.643512,-0.64373592 1.687177,-0.64373592 2.331587,0 L 25.117196,11.607797 c 0.643739,0.644073 0.643739,1.688383 0,2.332232"/>
+  </g>
+</svg>

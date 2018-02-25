@@ -1,61 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="32"
-   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
-   viewBox="0 0 32 32"
-   width="32"
-   xml:space="preserve"
-   version="1.1"
-   id="svg11"
-   sodipodi:docname="pinboard-icon.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><metadata
-     id="metadata15"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     id="namedview13"
-     showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="140.33759"
-     inkscape:cy="59.295972"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg11" /><defs
-     id="defs4"><style
-       type="text/css"
-       id="style2"><![CDATA[
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" height="64" style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" viewBox="0 0 32 32" width="64" xml:space="preserve" version="1.1" id="svg11" sodipodi:docname="pinboard-icon.svg" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata id="metadata15">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1001" id="namedview13" showgrid="false" inkscape:zoom="3.6875" inkscape:cx="140.33759" inkscape:cy="59.295972" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="svg11"/>
+  <defs id="defs4">
+    <style type="text/css" id="style2"><![CDATA[
     .fil1 {fill:none}
     .fil0 {fill:#424242}
-   ]]></style></defs><rect
-     class="fil1"
-     height="144.31125"
-     width="144.31125"
-     id="rect9"
-     x="-38.171764"
-     y="-115.52542"
-     style="fill:none;stroke-width:0.07046448" /><g
-     id="Layer_x0020_1"
-     style="fill:#172ff1;fill-opacity:1"
-     transform="matrix(0.02127658,0,0,0.02127658,-5.7872094,-5.7872179)"><path
-       class="fil0"
-       d="M 1776,1760 V 288 271.9996 h -16.0004 -1472 -16.0004 V 288 v 1472 16.0004 h 16.0004 1472 H 1776 Z M 436.56,809.064 800.371,436.872 l 27.4382,11.1248 v 134.839 l 334.904,308.431 208.161,-51.0886 15.437,26.4366 -215.026,228.536 440.651,494.221 -22.5,22.5626 -499.745,-441.879 -205.825,210.634 -27.1878,-13.8744 33.3685,-187.853 -284.81,-351.281 -156.426,8.44489 -12.2504,-27.0626 z"
-       id="path6"
-       style="fill:#172ff1;fill-opacity:1"
-       inkscape:connector-curvature="0" /></g></svg>
+   ]]></style>
+  </defs>
+  <rect class="fil1" height="144.31125" width="144.31125" id="rect9" x="-38.171764" y="-115.52542" style="fill:none;stroke-width:0.07046448"/>
+  <g id="Layer_x0020_1" style="fill:#172ff1;fill-opacity:1" transform="matrix(0.02127658,0,0,0.02127658,-5.7872094,-5.7872179)">
+    <path class="fil0" d="M 1776,1760 V 288 271.9996 h -16.0004 -1472 -16.0004 V 288 v 1472 16.0004 h 16.0004 1472 H 1776 Z M 436.56,809.064 800.371,436.872 l 27.4382,11.1248 v 134.839 l 334.904,308.431 208.161,-51.0886 15.437,26.4366 -215.026,228.536 440.651,494.221 -22.5,22.5626 -499.745,-441.879 -205.825,210.634 -27.1878,-13.8744 33.3685,-187.853 -284.81,-351.281 -156.426,8.44489 -12.2504,-27.0626 z" id="path6" style="fill:#172ff1;fill-opacity:1" inkscape:connector-curvature="0"/>
+  </g>
+</svg>

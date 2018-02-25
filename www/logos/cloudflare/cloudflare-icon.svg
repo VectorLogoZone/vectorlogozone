@@ -1,61 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 32 32"
-   enable-background="new 0 0 439.4 207.4"
-   xml:space="preserve"
-   inkscape:version="0.91 r13725"
-   width="32"
-   height="32"
-   sodipodi:docname="cloudflare-icon.svg"><metadata
-     id="metadata4294"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
-     id="defs4292" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1589"
-     inkscape:window-height="920"
-     id="namedview4290"
-     showgrid="false"
-     inkscape:zoom="22.5625"
-     inkscape:cx="16"
-     inkscape:cy="16"
-     inkscape:window-x="75"
-     inkscape:window-y="34"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Layer_1" /><g
-     id="g3559"
-     transform="matrix(0.09378664,0,0,0.09378483,-41.2755,1.2231625)"><polygon
-       style="fill:#ffffff"
-       id="polygon3561"
-       points="527.1,232.1 752.9,232.1 752.9,169.6 710,145 702.6,141.8 527.1,143 "
-       class="st1" /><path
-       style="fill:#f38020"
-       inkscape:connector-curvature="0"
-       id="path3563"
-       d="m 674.8,223.9 c 2.1,-7.2 1.3,-13.8 -2.2,-18.7 -3.2,-4.5 -8.6,-7.1 -15.1,-7.4 l -123.1,-1.6 c -0.8,0 -1.5,-0.4 -1.9,-1 -0.4,-0.6 -0.5,-1.4 -0.3,-2.2 0.4,-1.2 1.6,-2.1 2.9,-2.2 l 124.2,-1.6 C 674,188.5 690,176.6 695.6,162 l 7.1,-18.5 c 0.3,-0.8 0.4,-1.6 0.2,-2.4 -8,-36.2 -40.3,-63.2 -78.9,-63.2 -35.6,0 -65.8,23 -76.6,54.9 -7,-5.2 -15.9,-8 -25.5,-7.1 -17.1,1.7 -30.8,15.4 -32.5,32.5 -0.4,4.4 -0.1,8.7 0.9,12.7 -27.9,0.8 -50.2,23.6 -50.2,51.7 0,2.5 0.2,5 0.5,7.5 0.2,1.2 1.2,2.1 2.4,2.1 l 227.2,0 c 1.3,0 2.5,-0.9 2.9,-2.2 l 1.7,-6.1 z"
-       class="st2" /><path
-       style="fill:#faae40"
-       inkscape:connector-curvature="0"
-       id="path3565"
-       d="m 714,144.8 c -1.1,0 -2.3,0 -3.4,0.1 -0.8,0 -1.5,0.6 -1.8,1.4 L 704,163 c -2.1,7.2 -1.3,13.8 2.2,18.7 3.2,4.5 8.6,7.1 15.1,7.4 l 26.2,1.6 c 0.8,0 1.5,0.4 1.9,1 0.4,0.6 0.5,1.5 0.3,2.2 -0.4,1.2 -1.6,2.1 -2.9,2.2 l -27.3,1.6 c -14.8,0.7 -30.7,12.6 -36.3,27.2 l -2,5.1 c -0.4,1 0.3,2 1.4,2 l 93.8,0 c 1.1,0 2.1,-0.7 2.4,-1.8 1.6,-5.8 2.5,-11.9 2.5,-18.2 0,-37 -30.2,-67.2 -67.3,-67.2"
-       class="st3" /></g></svg>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 32 32" enable-background="new 0 0 439.4 207.4" xml:space="preserve" inkscape:version="0.91 r13725" width="64" height="64" sodipodi:docname="cloudflare-icon.svg">
+  <metadata id="metadata4294">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs4292"/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1589" inkscape:window-height="920" id="namedview4290" showgrid="false" inkscape:zoom="22.5625" inkscape:cx="16" inkscape:cy="16" inkscape:window-x="75" inkscape:window-y="34" inkscape:window-maximized="0" inkscape:current-layer="Layer_1"/>
+  <g id="g3559" transform="matrix(0.09378664,0,0,0.09378483,-41.2755,1.2231625)">
+    <polygon style="fill:#ffffff" id="polygon3561" points="527.1,232.1 752.9,232.1 752.9,169.6 710,145 702.6,141.8 527.1,143 " class="st1"/>
+    <path style="fill:#f38020" inkscape:connector-curvature="0" id="path3563" d="m 674.8,223.9 c 2.1,-7.2 1.3,-13.8 -2.2,-18.7 -3.2,-4.5 -8.6,-7.1 -15.1,-7.4 l -123.1,-1.6 c -0.8,0 -1.5,-0.4 -1.9,-1 -0.4,-0.6 -0.5,-1.4 -0.3,-2.2 0.4,-1.2 1.6,-2.1 2.9,-2.2 l 124.2,-1.6 C 674,188.5 690,176.6 695.6,162 l 7.1,-18.5 c 0.3,-0.8 0.4,-1.6 0.2,-2.4 -8,-36.2 -40.3,-63.2 -78.9,-63.2 -35.6,0 -65.8,23 -76.6,54.9 -7,-5.2 -15.9,-8 -25.5,-7.1 -17.1,1.7 -30.8,15.4 -32.5,32.5 -0.4,4.4 -0.1,8.7 0.9,12.7 -27.9,0.8 -50.2,23.6 -50.2,51.7 0,2.5 0.2,5 0.5,7.5 0.2,1.2 1.2,2.1 2.4,2.1 l 227.2,0 c 1.3,0 2.5,-0.9 2.9,-2.2 l 1.7,-6.1 z" class="st2"/>
+    <path style="fill:#faae40" inkscape:connector-curvature="0" id="path3565" d="m 714,144.8 c -1.1,0 -2.3,0 -3.4,0.1 -0.8,0 -1.5,0.6 -1.8,1.4 L 704,163 c -2.1,7.2 -1.3,13.8 2.2,18.7 3.2,4.5 8.6,7.1 15.1,7.4 l 26.2,1.6 c 0.8,0 1.5,0.4 1.9,1 0.4,0.6 0.5,1.5 0.3,2.2 -0.4,1.2 -1.6,2.1 -2.9,2.2 l -27.3,1.6 c -14.8,0.7 -30.7,12.6 -36.3,27.2 l -2,5.1 c -0.4,1 0.3,2 1.4,2 l 93.8,0 c 1.1,0 2.1,-0.7 2.4,-1.8 1.6,-5.8 2.5,-11.9 2.5,-18.2 0,-37 -30.2,-67.2 -67.3,-67.2" class="st3"/>
+  </g>
+</svg>

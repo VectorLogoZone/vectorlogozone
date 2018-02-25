@@ -1,49 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 32 31.999999"
-   enable-background="new 0 0 251.3 74.3"
-   xml:space="preserve"
-   sodipodi:docname="aclu-icon.svg"
-   width="32"
-   height="32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><metadata
-     id="metadata15"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs13" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     id="namedview11"
-     showgrid="false"
-     inkscape:zoom="7.631013"
-     inkscape:cx="8.0701292"
-     inkscape:cy="28.713611"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Layer_1" /><path
-     d="m 12.682652,18.832158 c -0.699577,0 -0.947814,-0.338504 -0.947814,-0.992947 v -3.655854 c 0,-0.67701 0.248237,-0.992948 0.947814,-0.992948 h 0.338505 c 0.699577,0 0.947813,0.338505 0.947813,0.992948 v 0.767278 h 2.798308 v 2.098731 H 13.96897 v 0.767278 c 0,0.67701 -0.248236,0.992948 -0.947813,0.992948 H 12.682652 Z M 3.791255,17.139634 4.535966,13.055007 h 0.157969 l 0.767278,4.084627 z M 0,21.495064 H 2.956276 L 3.317349,19.57687 h 2.595204 l 0.361072,1.918194 H 9.342736 L 9.004232,19.825106 c 0.541607,1.218618 1.715091,1.850494 3.520451,1.850494 h 0.338505 c 2.392101,0 3.67842,-1.105783 3.881523,-3.023977 v 2.843441 h 7.153738 v -1.80536 c 0.609309,1.35402 1.827926,1.985896 3.67842,1.985896 h 0.428773 C 30.645982,21.6756 32,20.32158 32,17.748943 v -7.221439 h -3.114245 v 7.356841 c 0,0.631875 -0.22567,0.947813 -0.90268,0.947813 h -0.383639 c -0.699577,0 -0.90268,-0.338504 -0.90268,-0.947813 v -7.379408 h -3.114245 v 7.988717 h -3.700988 v -7.988717 h -3.136812 v 2.730606 C 16.541608,11.407616 15.368124,10.3244 13.021157,10.3244 h -0.496474 c -2.685473,0 -3.90409,1.35402 -3.90409,3.858957 v 3.633287 0.203103 L 7.06347,10.504937 H 2.279267 Z"
-     id="path2"
-     inkscape:connector-curvature="0"
-     style="fill:#ef404e;stroke-width:0.22566997" /></svg>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 32 31.999999" enable-background="new 0 0 251.3 74.3" xml:space="preserve" sodipodi:docname="aclu-icon.svg" width="64" height="64" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata id="metadata15">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs13"/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1001" id="namedview11" showgrid="false" inkscape:zoom="7.631013" inkscape:cx="8.0701292" inkscape:cy="28.713611" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="Layer_1"/>
+  <path d="m 12.682652,18.832158 c -0.699577,0 -0.947814,-0.338504 -0.947814,-0.992947 v -3.655854 c 0,-0.67701 0.248237,-0.992948 0.947814,-0.992948 h 0.338505 c 0.699577,0 0.947813,0.338505 0.947813,0.992948 v 0.767278 h 2.798308 v 2.098731 H 13.96897 v 0.767278 c 0,0.67701 -0.248236,0.992948 -0.947813,0.992948 H 12.682652 Z M 3.791255,17.139634 4.535966,13.055007 h 0.157969 l 0.767278,4.084627 z M 0,21.495064 H 2.956276 L 3.317349,19.57687 h 2.595204 l 0.361072,1.918194 H 9.342736 L 9.004232,19.825106 c 0.541607,1.218618 1.715091,1.850494 3.520451,1.850494 h 0.338505 c 2.392101,0 3.67842,-1.105783 3.881523,-3.023977 v 2.843441 h 7.153738 v -1.80536 c 0.609309,1.35402 1.827926,1.985896 3.67842,1.985896 h 0.428773 C 30.645982,21.6756 32,20.32158 32,17.748943 v -7.221439 h -3.114245 v 7.356841 c 0,0.631875 -0.22567,0.947813 -0.90268,0.947813 h -0.383639 c -0.699577,0 -0.90268,-0.338504 -0.90268,-0.947813 v -7.379408 h -3.114245 v 7.988717 h -3.700988 v -7.988717 h -3.136812 v 2.730606 C 16.541608,11.407616 15.368124,10.3244 13.021157,10.3244 h -0.496474 c -2.685473,0 -3.90409,1.35402 -3.90409,3.858957 v 3.633287 0.203103 L 7.06347,10.504937 H 2.279267 Z" id="path2" inkscape:connector-curvature="0" style="fill:#ef404e;stroke-width:0.22566997"/>
+</svg>

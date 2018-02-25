@@ -1,69 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="nearlyfreespeech-icon.svg"
-   inkscape:export-filename="/home/amarcuse/site/hackerlogos/nearlyfreespeech/nearlyfreespeech-120x60.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="11.84185"
-     inkscape:cx="18.872371"
-     inkscape:cy="9.9160305"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:window-width="1237"
-     inkscape:window-height="706"
-     inkscape:window-x="75"
-     inkscape:window-y="52"
-     inkscape:window-maximized="0" />
-  <metadata
-     id="metadata7">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="64" height="64" id="svg2" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="nearlyfreespeech-icon.svg" inkscape:export-filename="/home/amarcuse/site/hackerlogos/nearlyfreespeech/nearlyfreespeech-120x60.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90" viewBox="0 0 32 32">
+  <defs id="defs4"/>
+  <sodipodi:namedview id="base" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:zoom="11.84185" inkscape:cx="18.872371" inkscape:cy="9.9160305" inkscape:document-units="px" inkscape:current-layer="layer1" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:window-width="1237" inkscape:window-height="706" inkscape:window-x="75" inkscape:window-y="52" inkscape:window-maximized="0"/>
+  <metadata id="metadata7">
     <rdf:RDF>
-      <cc:Work
-         rdf:about="">
+      <cc:Work rdf:about="">
         <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
       </cc:Work>
     </rdf:RDF>
   </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(-64.616105,-558.65634)">
-    <path
-       style="fill:none;stroke:#3a7f3d;stroke-width:1.82296801;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 72.839998,560.33466 15.552204,0 c 4.051082,0 7.312419,3.27333 7.312419,7.33933 l 0,4.36814 c 0,4.06599 -3.261337,7.33933 -7.312419,7.33933 l -9.078915,-0.24064 0,7.94092 -6.233536,-7.70028 -0.239753,0 c -4.051072,0 -7.312409,-3.27334 -7.312409,-7.33933 l 0,-4.36814 c 0,-4.066 3.261337,-7.33933 7.312409,-7.33933 z"
-       id="rect3085-5"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="ssssccccssss" />
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1" transform="translate(-64.616105,-558.65634)">
+    <path style="fill:none;stroke:#3a7f3d;stroke-width:1.82296801;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 72.839998,560.33466 15.552204,0 c 4.051082,0 7.312419,3.27333 7.312419,7.33933 l 0,4.36814 c 0,4.06599 -3.261337,7.33933 -7.312419,7.33933 l -9.078915,-0.24064 0,7.94092 -6.233536,-7.70028 -0.239753,0 c -4.051072,0 -7.312409,-3.27334 -7.312409,-7.33933 l 0,-4.36814 c 0,-4.066 3.261337,-7.33933 7.312409,-7.33933 z" id="rect3085-5" inkscape:connector-curvature="0" sodipodi:nodetypes="ssssccccssss"/>
   </g>
 </svg>

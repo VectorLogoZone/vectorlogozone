@@ -1,92 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32.000001"
-   enable-background="new 0 0 483.164 186.797"
-   xml:space="preserve"
-   inkscape:version="0.48.4 r9939"
-   sodipodi:docname="amazon_aws-icon.svg"
-   inkscape:export-filename="/home/amarcuse/site/hackerlogos/www/logos/amazon_aws/amazon_aws-120x60.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90"><metadata
-     id="metadata87"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs85" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1101"
-     inkscape:window-height="816"
-     id="namedview83"
-     showgrid="false"
-     inkscape:zoom="8.0666667"
-     inkscape:cx="60"
-     inkscape:cy="30"
-     inkscape:window-x="204"
-     inkscape:window-y="45"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="Layer_1" /><g
-     id="g6997"
-     transform="matrix(1.1821509,0,0,1.1821509,-10.258334,11.551624)"><g
-       transform="matrix(0.21250259,0,0,0.21250259,8.6776861,-21.33121)"
-       id="g3"><polygon
-         style="fill:#ff9900;fill-rule:evenodd"
-         id="polygon5"
-         points="62.22,179.35 33.816,169.16 33.816,127.527 62.22,137.205 "
-         clip-rule="evenodd" /><polygon
-         style="fill:#ff9900;fill-rule:evenodd"
-         id="polygon7"
-         points="67.429,179.35 95.833,169.16 95.833,127.527 67.429,137.205 "
-         clip-rule="evenodd" /><polygon
-         style="fill:#ff9900;fill-rule:evenodd"
-         id="polygon9"
-         points="36.735,124.414 65.482,116.322 92.136,124.916 65.482,133.965 "
-         clip-rule="evenodd" /></g><g
-       transform="matrix(0.21250259,0,0,0.21250259,8.6776861,-21.33121)"
-       id="g11"><polygon
-         style="fill:#ff9900;fill-rule:evenodd"
-         id="polygon13"
-         points="28.404,121.188 0,111 0,69.367 28.404,79.043 "
-         clip-rule="evenodd" /><polygon
-         style="fill:#ff9900;fill-rule:evenodd"
-         id="polygon15"
-         points="33.613,121.188 62.018,111 62.018,69.367 33.613,79.043 "
-         clip-rule="evenodd" /><polygon
-         style="fill:#ff9900;fill-rule:evenodd"
-         id="polygon17"
-         points="2.919,66.252 31.667,58.16 58.322,66.756 31.667,75.805 "
-         clip-rule="evenodd" /></g><g
-       transform="matrix(0.21250259,0,0,0.21250259,8.6776861,-21.33121)"
-       id="g19"><polygon
-         style="fill:#ff9900;fill-rule:evenodd"
-         id="polygon21"
-         points="94.681,121.188 66.276,111 66.276,69.367 94.681,79.043 "
-         clip-rule="evenodd" /><polygon
-         style="fill:#ff9900;fill-rule:evenodd"
-         id="polygon23"
-         points="99.89,121.188 128.294,111 128.294,69.367 99.89,79.043 "
-         clip-rule="evenodd" /><polygon
-         style="fill:#ff9900;fill-rule:evenodd"
-         id="polygon25"
-         points="69.197,66.252 97.943,58.16 124.598,66.756 97.943,75.805 "
-         clip-rule="evenodd" /></g></g></svg>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" id="Layer_1" x="0px" y="0px" width="64" height="64" viewBox="0 0 32 32.000001" enable-background="new 0 0 483.164 186.797" xml:space="preserve" inkscape:version="0.48.4 r9939" sodipodi:docname="amazon_aws-icon.svg" inkscape:export-filename="/home/amarcuse/site/hackerlogos/www/logos/amazon_aws/amazon_aws-120x60.png" inkscape:export-xdpi="90" inkscape:export-ydpi="90">
+  <metadata id="metadata87">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title/>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs85"/>
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1101" inkscape:window-height="816" id="namedview83" showgrid="false" inkscape:zoom="8.0666667" inkscape:cx="60" inkscape:cy="30" inkscape:window-x="204" inkscape:window-y="45" inkscape:window-maximized="0" inkscape:current-layer="Layer_1"/>
+  <g id="g6997" transform="matrix(1.1821509,0,0,1.1821509,-10.258334,11.551624)">
+    <g transform="matrix(0.21250259,0,0,0.21250259,8.6776861,-21.33121)" id="g3">
+      <polygon style="fill:#ff9900;fill-rule:evenodd" id="polygon5" points="62.22,179.35 33.816,169.16 33.816,127.527 62.22,137.205 " clip-rule="evenodd"/>
+      <polygon style="fill:#ff9900;fill-rule:evenodd" id="polygon7" points="67.429,179.35 95.833,169.16 95.833,127.527 67.429,137.205 " clip-rule="evenodd"/>
+      <polygon style="fill:#ff9900;fill-rule:evenodd" id="polygon9" points="36.735,124.414 65.482,116.322 92.136,124.916 65.482,133.965 " clip-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.21250259,0,0,0.21250259,8.6776861,-21.33121)" id="g11">
+      <polygon style="fill:#ff9900;fill-rule:evenodd" id="polygon13" points="28.404,121.188 0,111 0,69.367 28.404,79.043 " clip-rule="evenodd"/>
+      <polygon style="fill:#ff9900;fill-rule:evenodd" id="polygon15" points="33.613,121.188 62.018,111 62.018,69.367 33.613,79.043 " clip-rule="evenodd"/>
+      <polygon style="fill:#ff9900;fill-rule:evenodd" id="polygon17" points="2.919,66.252 31.667,58.16 58.322,66.756 31.667,75.805 " clip-rule="evenodd"/>
+    </g>
+    <g transform="matrix(0.21250259,0,0,0.21250259,8.6776861,-21.33121)" id="g19">
+      <polygon style="fill:#ff9900;fill-rule:evenodd" id="polygon21" points="94.681,121.188 66.276,111 66.276,69.367 94.681,79.043 " clip-rule="evenodd"/>
+      <polygon style="fill:#ff9900;fill-rule:evenodd" id="polygon23" points="99.89,121.188 128.294,111 128.294,69.367 99.89,79.043 " clip-rule="evenodd"/>
+      <polygon style="fill:#ff9900;fill-rule:evenodd" id="polygon25" points="69.197,66.252 97.943,58.16 124.598,66.756 97.943,75.805 " clip-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
