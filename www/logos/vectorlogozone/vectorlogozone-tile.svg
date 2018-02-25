@@ -1,86 +1,9 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="512"
-   height="512"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="vectorlogozone-tile.svg"
-   inkscape:export-filename="/home/amarcuse/site/vlz/www/logos/vectorlogozone/vectorlogozone-tile.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
-  <defs
-     id="defs4" />
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="1.7949219"
-     inkscape:cx="255.44287"
-     inkscape:cy="256"
-     inkscape:document-units="px"
-     inkscape:current-layer="layer1"
-     showgrid="false"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0" />
-  <metadata
-     id="metadata7">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1"
-     transform="translate(0,-540.36218)">
-    <rect
-       style="fill:#2c3e50;fill-opacity:1;stroke:none"
-       id="rect3784"
-       width="512"
-       height="512"
-       x="0"
-       y="540.36218"
-       rx="76" />
-    <g
-       id="g4938"
-       transform="matrix(1.5768006,0,0,1.5768006,60.873369,-271.17249)">
-      <path
-         d="m 117.52516,748.52547 46.74508,-155.10928 47.31169,0 -71.81745,206.24425 -44.337002,0 -71.534145,-206.24425 47.170042,0 46.461785,155.10928"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20px;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Bold';letter-spacing:-0.1px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none"
-         id="path2990"
-         inkscape:connector-curvature="0" />
-      <path
-         sodipodi:nodetypes="cccc"
-         inkscape:connector-curvature="0"
-         id="path3771-7"
-         d="m 145.84625,589.93497 80.51632,19.13081 -32.19552,-44.82522 z"
-         style="fill:#ffffff;fill-opacity:1;stroke:none" />
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512">
+    <g transform="translate(0 -540.362)">
+        <rect width="512" height="512" y="540.362" rx="76" fill="#2c3e50"/>
+        <g fill="#fff">
+            <path d="M246.187 909.103l73.708-244.576h74.6l-113.24 325.206h-69.912L98.548 664.527h74.378l73.261 244.576" style="line-height:125%;-inkscape-font-specification:'Roboto Bold'" font-weight="700" font-size="20" font-family="Roboto" letter-spacing="-.1" word-spacing="0"/>
+            <path d="M290.844 659.037l126.958 30.166-50.766-70.68z"/>
+        </g>
     </g>
-  </g>
 </svg>
