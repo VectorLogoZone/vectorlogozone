@@ -33,6 +33,7 @@ $(function() {
 	window.idx = lunr(function () {
 			this.field('id');
 			this.field('title', { boost: 10 });
+			this.field('keywords');
 			this.field('website');
 			this.field('category');
 		});

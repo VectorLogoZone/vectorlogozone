@@ -4,6 +4,7 @@ images:
 - adobe_acrobat-icon.svg
 - adobe_acrobat-tile.svg
 - adobe_acrobat-ar21.svg
+keywords: pdf
 logohandle: adobe_acrobat
 skipped: 0
 sort: acrobat
