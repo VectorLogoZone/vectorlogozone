@@ -2,8 +2,8 @@
 blog: https://en.blog.wordpress.com/
 facebook: https://www.facebook.com/WordPress/
 font:
-  name: Mrs Eaves XL Serif Bold
   myfonts: https://www.myfonts.com/fonts/emigre/mrs-eaves-xl-ot/
+  name: Mrs Eaves XL Serif Bold
 github: WordPress
 guide: https://wordpress.org/about/logos/
 images:

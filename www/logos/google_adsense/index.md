@@ -1,7 +1,6 @@
 ---
 blog: https://adsense.googleblog.com/
 images:
-- google_adsense-card.png
 - google_adsense-icon.svg
 - google_adsense-ar21.svg
 layout: default

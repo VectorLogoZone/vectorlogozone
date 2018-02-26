@@ -2,7 +2,6 @@
 github: mitchellh/vagrant
 images:
 - vagrantup-ar21.svg
-- vagrantup-card.png
 - vagrantup-icon.svg
 layout: default
 logohandle: vagrantup

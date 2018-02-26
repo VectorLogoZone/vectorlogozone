@@ -2,17 +2,16 @@
 blog: https://github.com/blog
 category: services
 font:
-  name: Collegiate
-  url: http://www.k-type.com/fonts/collegiate/
   myfonts: https://www.myfonts.com/fonts/k-type/collegiate/
+  name: Collegiate
   note: Free for personal use
+  url: http://www.k-type.com/fonts/collegiate/
 github: github
 guide: https://github.com/logos
 images:
 - github-ar21.svg
 - github-tile.svg
 - github-icon.svg
-- github-card.png
 layout: default
 logohandle: github
 skipped: 1

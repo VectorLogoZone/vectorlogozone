@@ -1,6 +1,6 @@
 ---
 blog: https://blog.digitalocean.com/
-colors: "#0080FF"
+colors: '#0080FF'
 facebook: https://www.facebook.com/DigitalOceanCloudHosting
 font:
   name: Maax
@@ -10,12 +10,12 @@ guide: https://www.digitalocean.com/company/logos-and-badges/
 images:
 - digitalocean-tile.svg
 - digitalocean-horizontal.svg
-- digitalocean-card.png
 - digitalocean-icon.svg
 - digitalocean-ar21.svg
+- digitalocean-official.svg
 layout: default
 logohandle: digitalocean
-skipped: 1
+skipped: 0
 sort: digital ocean
 tags:
 - hosting

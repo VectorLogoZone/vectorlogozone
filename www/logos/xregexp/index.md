@@ -1,11 +1,10 @@
 ---
 category: library
 font:
-  name: Cambria Regular
   myfonts: http://www.myfonts.com/fonts/ascender/cambria/regular/
+  name: Cambria Regular
 github: slevithan/xregexp
 images:
-- xregexp-card.png
 - xregexp-vertical.svg
 - xregexp-ar21.svg
 - xregexp-wordmark.svg

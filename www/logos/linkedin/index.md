@@ -2,8 +2,8 @@
 blog: https://blog.linkedin.com/
 facebook: https://www.facebook.com/LinkedIn/
 font:
-  name: Myriad Pro Bold/Black
   myfonts: https://www.myfonts.com/fonts/adobe/myriad/black/
+  name: Myriad Pro Bold/Black
 github: linkedin
 guide: https://brand.linkedin.com/
 images:

@@ -3,10 +3,11 @@ blog: http://www.ycombinator.com/resources/
 github: HackerNews
 images:
 - ycombinator-ar21.svg
+- ycombinator-tile.svg
 - ycombinator-icon.svg
 linkedin: https://www.linkedin.com/company/167872/
 logohandle: ycombinator
-skipped: 1
+skipped: 0
 sort: ycombinator
 supertinyicon: hackernews
 tags:

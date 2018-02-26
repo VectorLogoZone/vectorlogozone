@@ -4,7 +4,6 @@ font:
 github: olivernn/lunr.js
 images:
 - lunrjs-icon.svg
-- lunrjs-card.png
 - lunrjs-ar21.svg
 logohandle: lunrjs
 skipped: 1

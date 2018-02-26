@@ -2,8 +2,8 @@
 blog: https://stackoverflow.blog/
 facebook: https://www.facebook.com/officialstackoverflow/
 font:
-  name: FF DIN
   myfonts: https://www.myfonts.com/fonts/fontfont/ff-din/pro-medium/
+  name: FF DIN
 github: StackExchange
 guide: https://stackoverflow.com/company/logos
 images:

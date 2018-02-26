@@ -2,7 +2,6 @@
 facebook: http://www.facebook.com/mysql
 github: mysql
 images:
-- mysql-card.png
 - mysql-ar21.svg
 - mysql-icon.svg
 - mysql-official.svg

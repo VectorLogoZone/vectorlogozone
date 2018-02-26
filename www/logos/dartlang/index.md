@@ -1,12 +1,19 @@
 ---
 blog: http://news.dartlang.org/
-colors: [ "#22D3C5", "#0075C9", "#00A8E1", "#00C4B3" ]
+colors:
+- '#22D3C5'
+- '#0075C9'
+- '#00A8E1'
+- '#00C4B3'
 font:
-  name: Montserrat
   google: https://fonts.google.com/specimen/Montserrat
+  name: Montserrat
 github: dart-lang
 guide: https://github.com/dart-lang/logos
+images:
+- dartlang-official.svg
 logohandle: dartlang
+skipped: 0
 sort: dartlang
 tags:
 - programming_language

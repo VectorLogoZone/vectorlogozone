@@ -3,7 +3,6 @@ blog: https://www.gimp.org/news/
 facebook: https://www.facebook.com/gimpofficial/
 images:
 - gimp-wordmark.svg
-- gimp-card.png
 - gimp-ar21.svg
 - gimp-icon.svg
 layout: default

@@ -3,7 +3,7 @@ blog: https://www.w3.org/blog/news/
 github: w3c
 images:
 - w3c-icon.svg
-- w3c-card.png
+- w3c-tile.svg
 - w3c-ar21.svg
 logohandle: w3c
 skipped: 0

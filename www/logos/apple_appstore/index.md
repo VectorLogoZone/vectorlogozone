@@ -1,5 +1,9 @@
 ---
+images:
+- apple_appstore-icon.svg
+- apple_appstore-ar21.svg
 logohandle: apple_appstore
+skipped: 0
 sort: appstore
 tags:
 - apple

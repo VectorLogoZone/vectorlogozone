@@ -1,14 +1,14 @@
 ---
 blog: https://blogs.apache.org/
 font:
-  name: Verdana Bold
-  url:
-  myfonts: https://www.myfonts.com/fonts/ascender/verdana/bold/
   microsoft: https://www.microsoft.com/typography/fonts/font.aspx?FMID=1818
+  myfonts: https://www.myfonts.com/fonts/ascender/verdana/bold/
+  name: Verdana Bold
+  url: null
 guide: http://apache.org/foundation/press/kit/#links
 images:
+- apache-official.svg
 - apache-ar21.svg
-- apache-card.png
 - apache-icon.svg
 layout: default
 logohandle: apache
@@ -24,4 +24,3 @@ website: http://apache.org/
 ---
 
 [Format trademark policy](http://www.apache.org/foundation/marks/)
-

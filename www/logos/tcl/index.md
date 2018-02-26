@@ -1,14 +1,13 @@
 ---
 category: language
 font:
-  name: Bodoni Book
   myfonts: http://www.myfonts.com/fonts/bitstream/atf-bodoni/bodoni-book/
+  name: Bodoni Book
 github: tcltk
 images:
 - tcl-ar21.svg
 - tcl-horizontal.svg
 - tcl-vertical.svg
-- tcl-card.png
 - tcl-icon.svg
 layout: default
 logohandle: tcl

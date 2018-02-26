@@ -5,7 +5,11 @@ font:
   name: FFF Forward
   url: https://www.ffonts.net/FFF-Forward.font
 github: digg
+images:
+- digg-icon.svg
+- digg-ar21.svg
 logohandle: digg
+skipped: 0
 sort: digg
 tags:
 - bookmarking

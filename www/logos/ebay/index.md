@@ -2,8 +2,8 @@
 blog: http://www.ebay.com/stories/
 facebook: https://www.facebook.com/eBay
 font:
-  name: Univers 53 Extended
   myfonts: https://www.myfonts.com/fonts/linotype/univers/53-extended/
+  name: Univers 53 Extended
 github: ebay
 guide: https://go.developer.ebay.com/logos
 images:

@@ -1,6 +1,7 @@
 ---
 blog: http://blog.pinboard.in/
 images:
+- pinboard-tile.svg
 - pinboard-icon.svg
 - pinboard-ar21.svg
 layout: default

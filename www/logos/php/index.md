@@ -1,7 +1,6 @@
 ---
 github: php
 images:
-- php-card.png
 - php-icon.svg
 - php-horizontal.svg
 - php-ar21.svg

@@ -4,8 +4,12 @@ facebook: http://www.facebook.com/EdxOnline
 github: edx
 googleplus: edXOnline
 guide: https://www.edx.org/media-kit
+images:
+- edx-icon.svg
+- edx-ar21.svg
 logohandle: edx
 reddit: http://www.reddit.com/r/edx
+skipped: 0
 sort: edx
 title: edX
 twitter: edXOnline

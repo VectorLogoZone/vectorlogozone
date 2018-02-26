@@ -2,7 +2,11 @@
 blog: https://www.loc.gov/rss/
 facebook: https://www.facebook.com/libraryofcongress/
 github: LibraryOfCongress
+images:
+- loc-icon.svg
+- loc-ar21.svg
 logohandle: loc
+skipped: 0
 sort: libraryofcongress
 tags:
 - digital_preservation

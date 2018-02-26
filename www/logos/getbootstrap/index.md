@@ -3,7 +3,6 @@ blog: https://blog.getbootstrap.com/
 github: twbs/bootstrap
 images:
 - getbootstrap-icon.svg
-- getbootstrap-card.png
 - getbootstrap-ar21.svg
 layout: default
 logohandle: getbootstrap

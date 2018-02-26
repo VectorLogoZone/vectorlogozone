@@ -1,19 +1,17 @@
 ---
 category: services
 font:
+  google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans
   url: http://www.google.com/fonts/#UsePlace:use/Collection:Open+Sans
-  google: https://fonts.google.com/specimen/Open+Sans
 images:
-- mozilla_persona-glyph-white.svg
 - mozilla_persona-horizontal.svg
 - mozilla_persona-icon.svg
-- mozilla_persona-card.png
 - mozilla_persona-ar21.svg
 layout: default
 logohandle: mozilla_persona
 redirect_from: /logos/persona/index.html
-skipped: 2
+skipped: 0
 sort: persona
 tags:
 - security

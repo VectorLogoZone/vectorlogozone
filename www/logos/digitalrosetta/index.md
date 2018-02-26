@@ -4,7 +4,12 @@ font:
   name: Play
   url: https://fonts.google.com/specimen/Play
 github: digitalrosetta
+images:
+- digitalrosetta-icon.svg
+- digitalrosetta-ar21.svg
+- digitalrosetta-tile.svg
 logohandle: digitalrosetta
+skipped: 0
 sort: digitalrosetta
 supertinyicon: '-'
 tags:

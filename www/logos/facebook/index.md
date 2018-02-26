@@ -1,9 +1,9 @@
 ---
 facebook: https://www.facebook.com/facebook
 font:
+  myfonts: https://www.myfonts.com/fonts/processtype/klavika/bold/
   name: Klavika
   url: https://processtypefoundry.com/fonts/klavika/
-  myfonts: https://www.myfonts.com/fonts/processtype/klavika/bold/
 github: facebook
 guide: https://en.facebookbrand.com/guidelines/brand
 images:

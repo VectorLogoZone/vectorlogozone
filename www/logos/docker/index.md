@@ -1,6 +1,6 @@
 ---
 blog: https://blog.docker.com/
-colors: "#136EA3"
+colors: '#136EA3'
 facebook: https://www.facebook.com/docker.run
 github: docker/docker
 guide: https://www.docker.com/brand-guidelines
@@ -8,7 +8,6 @@ images:
 - docker-official.svg
 - docker-icon.svg
 - docker-tile.svg
-- docker-card.png
 - docker-ar21.svg
 layout: default
 logohandle: docker

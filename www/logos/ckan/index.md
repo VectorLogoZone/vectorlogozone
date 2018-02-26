@@ -1,6 +1,8 @@
 ---
 blog: https://ckan.org/blog/
-colors: ["#F03B41", "#E3EB1F"]
+colors:
+- '#F03B41'
+- '#E3EB1F'
 github: ckan
 images:
 - ckan-ar21.svg

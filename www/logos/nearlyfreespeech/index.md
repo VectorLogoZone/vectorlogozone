@@ -1,10 +1,11 @@
 ---
 blog: http://blog.nearlyfreespeech.net/
-colors: ["#3A7F3D"]
+colors:
+- '#3A7F3D'
 font:
-  name: Trebuchet Bold
-  myfonts: http://www.myfonts.com/fonts/ascender/trebuchet/bold/
   microsoft: https://www.microsoft.com/typography/fonts/font.aspx?FMID=785
+  myfonts: http://www.myfonts.com/fonts/ascender/trebuchet/bold/
+  name: Trebuchet Bold
 images:
 - nearlyfreespeech-icon.svg
 - nearlyfreespeech-ar21.svg
@@ -18,4 +19,3 @@ tags:
 title: NearlyFreeSpeech.Net
 website: https://www.nearlyfreespeech.net/
 ---
-

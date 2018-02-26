@@ -3,7 +3,6 @@ blog: https://golang.org/blog/
 images:
 - golang-horizontal.svg
 - golang-vertical.svg
-- golang-card.png
 - golang-icon.svg
 - golang-ar21.svg
 logohandle: golang

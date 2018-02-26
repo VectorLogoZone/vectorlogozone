@@ -1,15 +1,14 @@
 ---
 font:
-  name: Droid Sans Bold
-  url: https://www.fonts.com/font/ascender/droid-sans/wgl-bold
-  myfonts: https://www.myfonts.com/fonts/ascender/droid-sans-pro/bold/
-  google: https://www.google.com/fonts/specimen/Droid+Sans
   freename: (available on Github)
   freeurl: https://github.com/aosp-mirror/platform_frameworks_base/tree/master/data/fonts
+  google: https://www.google.com/fonts/specimen/Droid+Sans
+  myfonts: https://www.myfonts.com/fonts/ascender/droid-sans-pro/bold/
+  name: Droid Sans Bold
+  url: https://www.fonts.com/font/ascender/droid-sans/wgl-bold
 images:
 - javascript-vertical.svg
 - javascript-icon.svg
-- javascript-card.png
 - javascript-ar21.svg
 logohandle: javascript
 skipped: 0

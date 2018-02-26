@@ -1,7 +1,6 @@
 ---
 images:
 - labelmakr-icon.svg
-- labelmakr-card.png
 - labelmakr-ar21.svg
 layout: default
 logohandle: labelmakr

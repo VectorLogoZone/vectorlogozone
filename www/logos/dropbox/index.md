@@ -1,10 +1,10 @@
 ---
 blog: https://blog.dropbox.com/
-colors: "#0061FE"
+colors: '#0061FE'
 facebook: https://www.facebook.com/Dropbox
 font:
-  name: ITC Franklin Std Narrow Bold
   myfonts: https://www.myfonts.com/fonts/itc/franklin/std-narrow-bold/
+  name: ITC Franklin Std Narrow Bold
 github: dropbox
 guide: https://www.dropbox.com/branding
 images:

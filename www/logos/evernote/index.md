@@ -2,11 +2,15 @@
 blog: https://medium.com/@evernote
 facebook: https://www.facebook.com/evernote
 font:
-  name: Caecilia
   myfonts: https://www.myfonts.com/fonts/adobe/pmn-caecilia/bold/
+  name: Caecilia
 github: evernote
 guide: https://evernote.com/press
+images:
+- evernote-icon.svg
+- evernote-tile.svg
 logohandle: evernote
+skipped: 0
 sort: evernote
 title: Evernote
 twitter: evernote

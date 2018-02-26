@@ -1,7 +1,10 @@
 ---
 blog: https://blog.google/products/chrome/
 facebook: https://www.facebook.com/googlechrome/
+images:
+- google_chrome-icon.svg
 logohandle: google_chrome
+skipped: 0
 sort: chrome
 tags:
 - google

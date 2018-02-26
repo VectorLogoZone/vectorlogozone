@@ -5,9 +5,10 @@ github: slackhq
 guide: https://slack.com/brand-guidelines
 images:
 - slack-icon.svg
+- slack-tile.svg
 - slack-ar21.svg
 logohandle: slack
-skipped: 0
+skipped: 2
 sort: slack
 title: Slack
 twitter: slackhq

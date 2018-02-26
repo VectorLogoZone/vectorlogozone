@@ -2,7 +2,11 @@
 blog: https://creativecommons.org/blog/
 facebook: https://www.facebook.com/creativecommons
 github: creativecommons
+images:
+- creativecommons-ar21.svg
+- creativecommons-icon.svg
 logohandle: creativecommons
+skipped: 0
 sort: creativecommons
 title: Creative Commons
 twitter: creativecommons

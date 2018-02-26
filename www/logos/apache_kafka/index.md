@@ -3,7 +3,6 @@ guide: http://svn.apache.org/repos/asf/kafka/site/logos/originals/eps/
 images:
 - apache_kafka-wordmark.svg
 - apache_kafka-vertical.svg
-- apache_kafka-card.png
 - apache_kafka-ar21.svg
 - apache_kafka-icon.svg
 layout: default

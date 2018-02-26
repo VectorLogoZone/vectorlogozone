@@ -1,14 +1,22 @@
 ---
 blog: https://blog.discordapp.com/
-colors: [ "#7289DA", "#FFFFFF", "#99AAB5", "#2C2F33", "#23272A"]
+colors:
+- '#7289DA'
+- '#FFFFFF'
+- '#99AAB5'
+- '#2C2F33'
+- '#23272A'
 facebook: https://www.facebook.com/discordapp
 font:
+  myfonts: https://www.myfonts.com/fonts/font-fabric/uni-sans/
   name: Uni Sans
   url: http://www.fontfabric.com/uni-sans-free/
-  myfonts: https://www.myfonts.com/fonts/font-fabric/uni-sans/
 github: discordapp
 guide: https://discordapp.com/branding
+images:
+- discordapp-tile.svg
 logohandle: discordapp
+skipped: 0
 sort: discordapp
 supertinyicon: discord
 title: Discord

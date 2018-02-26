@@ -1,11 +1,13 @@
 ---
 blog: http://blog.fileformat.info/
-colors: ["#003399"]
+colors:
+- '#003399'
 font:
+  myfonts: http://www.myfonts.com/fonts/itc/officina-sans/std-bold/
   name: Axel Bold
   url: https://www.fontshop.com/fonts/downloads/fontshop_ag/axel_bold_ot/
-  myfonts: http://www.myfonts.com/fonts/itc/officina-sans/std-bold/
 images:
+- fileformatinfo-tile.svg
 - fileformatinfo-horizontal.svg
 - fileformatinfo-ar21.svg
 - fileformatinfo-icon.svg

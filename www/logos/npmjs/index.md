@@ -3,7 +3,9 @@ blog: https://blog.npmjs.com/
 github: npm
 guide: https://github.com/npm/logos
 images:
-- npm-tile.svg
+- npmjs-tile.svg
+- npmjs-ar21.svg
+- npmjs-icon.svg
 logohandle: npmjs
 skipped: 0
 sort: npmjs

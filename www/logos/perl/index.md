@@ -2,16 +2,15 @@
 blog: http://blogs.perl.org/
 category: language
 font:
-  name: ITC Garamond
-  myfonts: http://www.myfonts.com/fonts/itc/garamond/lit/
   freename: Guru by Bhikkhu Pesala
   freeurl: http://www.softerviews.org/Fonts.html
+  myfonts: http://www.myfonts.com/fonts/itc/garamond/lit/
+  name: ITC Garamond
 github: Perl
 images:
 - perl-ar21.svg
 - perl-vertical.svg
 - perl-icon.svg
-- perl-card.png
 - perl-horizontal.svg
 layout: default
 logohandle: perl

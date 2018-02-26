@@ -1,18 +1,17 @@
 ---
 blog: http://www.erlang.org/news
 font:
-  name: Futura SC Demi
   myfonts: http://www.myfonts.com/fonts/urw/futura/sctdem/
+  name: Futura SC Demi
 github: erlang
 images:
 - erlang-vertical.svg
 - erlang-horizontal.svg
 - erlang-ar21.svg
-- erlang-card.png
 - erlang-icon.svg
 - erlang-official.svg
-logohandle: erlang
 legal: https://bugs.erlang.org/browse/ERL-41
+logohandle: erlang
 skipped: 0
 sort: erlang
 tags:

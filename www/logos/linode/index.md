@@ -4,7 +4,6 @@ facebook: https://facebook.com/linode
 github: linode
 images:
 - linode-icon.svg
-- linode-card.png
 - linode-ar21.svg
 layout: default
 logohandle: linode

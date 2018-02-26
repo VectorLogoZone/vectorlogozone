@@ -4,7 +4,6 @@ github: unicode-org
 images:
 - unicode-icon.svg
 - unicode-ar21.svg
-- unicode-card.png
 layout: default
 logohandle: unicode
 skipped: 0

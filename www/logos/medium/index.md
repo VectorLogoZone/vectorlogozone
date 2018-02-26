@@ -1,9 +1,12 @@
 ---
 blog: https://medium.com/3minread
 facebook: https://www.facebook.com/medium
-guide: https://medium.design/logos-and-brand-guidelines-f1a01a733592
 github: medium
+guide: https://medium.design/logos-and-brand-guidelines-f1a01a733592
+images:
+- medium-tile.svg
 logohandle: medium
+skipped: 0
 sort: medium
 tags:
 - blogging

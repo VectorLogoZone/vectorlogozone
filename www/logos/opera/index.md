@@ -7,7 +7,10 @@ font:
 github: operasoftware
 guide: http://brand.opera.com/brandbook/identity-guidelines
 guide-alt: http://www.operasoftware.com/press/resources/opera-for-computers
+images:
+- opera-icon.svg
 logohandle: opera
+skipped: 0
 sort: opera
 title: Opera
 twitter: opera

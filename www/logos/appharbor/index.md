@@ -2,7 +2,6 @@
 blog: http://blog.appharbor.com/
 github: appharbor
 images:
-- appharbor-card.png
 - appharbor-ar21.svg
 - appharbor-icon.svg
 layout: default

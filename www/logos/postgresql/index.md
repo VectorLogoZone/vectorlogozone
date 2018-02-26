@@ -1,8 +1,8 @@
 ---
 blog: https://www.postgresql.org/about/newsarchive/
 font:
-  name: Strait
   google: https://www.google.com/fonts/specimen/Strait
+  name: Strait
 github: postgres
 guide: https://wiki.postgresql.org/wiki/Identity_Guidelines
 images:
@@ -10,7 +10,6 @@ images:
 - postgresql-horizontal.svg
 - postgresql-wordmark.svg
 - postgresql-icon.svg
-- postgresql-card.png
 - postgresql-vertical.svg
 logohandle: postgresql
 skipped: 2

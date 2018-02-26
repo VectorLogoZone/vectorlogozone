@@ -1,6 +1,11 @@
 ---
 blog: https://news.microsoft.com/
-colors: ["#F25022", "#7FBA00", "#00A4EF", "#FFB900", "#737373" ]
+colors:
+- '#F25022'
+- '#7FBA00'
+- '#00A4EF'
+- '#FFB900'
+- '#737373'
 facebook: https://www.facebook.com/Microsoft
 github: Microsoft
 images:

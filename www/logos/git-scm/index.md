@@ -1,15 +1,14 @@
 ---
 blog: https://git-scm.com/blog
 font:
+  myfonts: https://www.myfonts.com/fonts/type-together/adelle/
   name: Adelle
   url: http://www.type-together.com/Adelle
-  myfonts: https://www.myfonts.com/fonts/type-together/adelle/
 github: git
 guide: http://git-scm.com/downloads/logos
 images:
 - git-scm-ar21.svg
 - git-scm-icon.svg
-- git-scm-card.png
 layout: default
 logohandle: git-scm
 skipped: 1

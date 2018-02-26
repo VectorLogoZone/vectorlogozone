@@ -4,7 +4,6 @@ facebook: https://www.facebook.com/amazonwebservices/
 github: aws
 images:
 - amazon_aws-icon.svg
-- amazon_aws-card.png
 - amazon_aws-ar21.svg
 layout: default
 logohandle: amazon_aws

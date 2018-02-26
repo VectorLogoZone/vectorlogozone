@@ -1,6 +1,10 @@
 ---
 github: jashkenas/backbone/
+images:
+- backbonejs-icon.svg
+- backbonejs-ar21.svg
 logohandle: backbonejs
+skipped: 0
 sort: backbonejs
 tags:
 - javascript

@@ -2,8 +2,8 @@
 blog: https://www.python.org/blogs/
 category: language
 font:
-  name: Flux Regular
   myfonts: http://www.myfonts.com/fonts/t26/flux/regular/
+  name: Flux Regular
 github: python
 guide: https://www.python.org/community/logos/
 images:
@@ -11,7 +11,6 @@ images:
 - python-icon.svg
 - python-horizontal.svg
 - python-vertical.svg
-- python-card.png
 layout: default
 logohandle: python
 skipped: 1

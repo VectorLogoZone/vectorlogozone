@@ -3,6 +3,7 @@ blog: http://www.stumbleupon.com/blog
 github: stumbleupon
 images:
 - stumbleupon-ar21.svg
+- stumbleupon-tile.svg
 - stumbleupon-icon.svg
 logohandle: stumbleupon
 skipped: 0

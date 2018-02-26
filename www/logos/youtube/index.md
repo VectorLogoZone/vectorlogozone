@@ -1,14 +1,20 @@
 ---
 blog: https://youtube.googleblog.com/
-colors: ["#FF0000", "#FFFFFF", "#282828" ]
+colors:
+- '#FF0000'
+- '#FFFFFF'
+- '#282828'
 facebook: https://www.facebook.com/youtube/
 font:
-  name: Alternate Gothic No. 2
   myfonts: https://www.myfonts.com/fonts/linotype/trade-gothic/bold-condensed-no-20-63882/
+  name: Alternate Gothic No. 2
 github: youtube
 guide: https://www.youtube.com/yt/about/brand-resources/
+images:
+- youtube-tile.svg
 linkedin: https://www.linkedin.com/company/16140/
 logohandle: youtube
+skipped: 0
 sort: youtube
 tags:
 - video

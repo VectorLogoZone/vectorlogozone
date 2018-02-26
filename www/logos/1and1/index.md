@@ -1,11 +1,11 @@
 ---
 blog: http://newsroom.1and1.com/
-colors: ["#002276"]
+colors:
+- '#002276'
 facebook: https://www.facebook.com/1and1
 github: 1and1
 images:
 - 1and1-icon.svg
-- 1and1-card.png
 - 1and1-ar21.svg
 logohandle: 1and1
 skipped: 0

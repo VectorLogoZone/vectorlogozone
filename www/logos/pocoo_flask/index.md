@@ -4,7 +4,6 @@ guide: http://flask.pocoo.org/community/logos/
 images:
 - pocoo_flask-ar21.svg
 - pocoo_flask-icon.svg
-- pocoo_flask-card.png
 legal: http://flask.pocoo.org/docs/0.12/license/#flask-artwork-license
 logohandle: pocoo_flask
 skipped: 1

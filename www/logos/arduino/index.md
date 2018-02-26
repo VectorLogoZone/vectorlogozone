@@ -1,10 +1,16 @@
 ---
 blog: https://blog.arduino.cc/
-colors: ["#00979C"]
+colors:
+- '#00979C'
 facebook: https://www.facebook.com/official.arduino
 github: ardunio
 guide: https://www.arduino.cc/en/Trademark/HomePage?from=Main.Trademark
+images:
+- arduino-ar21.svg
+- arduino-icon.svg
+- arduino-official.svg
 logohandle: arduino
+skipped: 0
 sort: arduino
 tags:
 - hardware

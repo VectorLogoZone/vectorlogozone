@@ -1,7 +1,11 @@
 ---
 github: h5bp/html5-boilerplate
 guide: https://www.w3.org/html/logo/
+images:
+- w3_html5-icon.svg
+- w3_html5-ar21.svg
 logohandle: w3_html5
+skipped: 0
 sort: html5
 supertinyicon: html5
 title: HTML5

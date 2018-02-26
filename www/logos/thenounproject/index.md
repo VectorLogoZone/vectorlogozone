@@ -3,7 +3,6 @@ blog: http://blog.thenounproject.com/
 facebook: https://www.facebook.com/thenounproject
 images:
 - thenounproject-icon.svg
-- thenounproject-card.png
 - thenounproject-ar21.svg
 - thenounproject-wordmark.svg
 layout: default

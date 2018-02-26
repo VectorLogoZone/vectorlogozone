@@ -5,7 +5,6 @@ images:
 - jquery-wordmark.svg
 - jquery-vertical.svg
 - jquery-horizontal.svg
-- jquery-card.png
 - jquery-ar21.svg
 - jquery-icon.svg
 - jquery-official.svg

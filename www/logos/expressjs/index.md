@@ -1,6 +1,10 @@
 ---
 github: expressjs
+images:
+- expressjs-icon.svg
+- expressjs-ar21.svg
 logohandle: expressjs
+skipped: 0
 sort: expressjs
 tags:
 - javascript

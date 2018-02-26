@@ -2,8 +2,8 @@
 blog: https://www.reddit.com/r/blog/
 facebook: https://www.facebook.com/reddit
 font:
-  name: Volkswagen Serial Bold
   myfonts: https://www.myfonts.com/fonts/softmaker/volkswagen-serial/bold/
+  name: Volkswagen Serial Bold
 github: reddit
 images:
 - reddit-ar21.svg

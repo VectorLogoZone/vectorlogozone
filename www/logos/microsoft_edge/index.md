@@ -1,7 +1,10 @@
 ---
 facebook: https://www.facebook.com/MicrosoftEdge/
 github: MicrosoftEdge
+images:
+- microsoft_edge-icon.svg
 logohandle: microsoft_edge
+skipped: 0
 sort: edge
 tags:
 - browser

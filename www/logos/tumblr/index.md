@@ -1,8 +1,8 @@
 ---
 facebook: https://www.facebook.com/tumblr/
 font:
-  name: Bookman Old Style
   myfonts: https://www.myfonts.com/fonts/mti/bookman-old-style/
+  name: Bookman Old Style
 github: tumblr
 guide: https://www.tumblr.com/logo
 images:

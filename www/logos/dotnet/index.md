@@ -4,7 +4,6 @@ facebook: https://www.facebook.com/Dotnet
 github: dotnet
 images:
 - dotnet-vertical.svg
-- dotnet-card.png
 - dotnet-horizontal.svg
 - dotnet-ar21.svg
 - dotnet-icon.svg

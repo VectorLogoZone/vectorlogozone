@@ -3,8 +3,12 @@ blog: https://blog.bufferapp.com/
 facebook: https://www.facebook.com/bufferapp
 github: bufferapp
 guide: https://buffer.com/press
+images:
+- buffer-icon.svg
+- buffer-tile.svg
 logohandle: buffer
 redirect_from: /logos/bufferapp/index.html
+skipped: 0
 sort: buffer
 title: Buffer
 twitter: buffer

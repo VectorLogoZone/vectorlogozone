@@ -1,10 +1,15 @@
 ---
 font:
+  google: https://fonts.google.com/specimen/Lato
   name: Lato Heavy
   url: http://www.latofonts.com/lato-free-fonts/
-  google: https://fonts.google.com/specimen/Lato
 github: fileformat/simpleshare
+images:
+- simpleshareio-ar21.svg
+- simpleshareio-icon.svg
+- simpleshareio-tile.svg
 logohandle: simpleshareio
+skipped: 0
 sort: simpleshare
 supertinyicon: '-'
 tags:

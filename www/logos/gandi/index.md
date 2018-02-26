@@ -5,7 +5,6 @@ images:
 - gandi-official.svg
 - gandi-icon.svg
 - gandi-ar21.svg
-- gandi-card.png
 layout: default
 logohandle: gandi
 skipped: 0

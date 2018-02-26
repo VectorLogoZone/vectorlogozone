@@ -1,9 +1,12 @@
 ---
 blog: https://blogger.googleblog.com/
 font:
-  name: Open Sans
   google: https://fonts.google.com/specimen/Open+Sans
+  name: Open Sans
+images:
+- blogger-tile.svg
 logohandle: blogger
+skipped: 0
 sort: blogger
 title: Blogger
 twitter: blogger

@@ -1,5 +1,9 @@
 ---
+images:
+- bing-ar21.svg
+- bing-icon.svg
 logohandle: bing
+skipped: 0
 sort: bing
 tags:
 - microsoft

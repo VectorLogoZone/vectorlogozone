@@ -1,7 +1,11 @@
 ---
 github: ImageMagick
+images:
+- imagemagick-ar21.svg
+- imagemagick-icon.svg
 layout: default
 logohandle: imagemagick
+skipped: 0
 sort: imagemagick
 tags:
 - graphics
