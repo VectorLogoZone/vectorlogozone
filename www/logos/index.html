@@ -35,8 +35,10 @@ layout: default
 
 		{%- for logopage in sorted_pages %}{% if logopage.logohandle -%}
 			{%- capture logofile %}{{ logopage.logohandle }}-{{ imagetype.id }}.svg{% endcapture %}{% if logopage.images contains logofile -%}
+                {%- if imagetype.boxwidth %}<span style="width:{{imagetype.boxwidth}};text-align:center;display:inline-block;">{% endif -%}
 				<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}{% if imagetype.maxpreviewsize %} maxsize{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}" title="{{logopage.title}}"/></a>
 				{% assign logocount = logocount | plus:1 %}
+            {%- if imagetype.boxwidth %}</span>{% endif -%}
 			{%- endif -%}
 		{%- endif %}{% endfor -%}
 		<p>Count: {{ logocount }}</p>

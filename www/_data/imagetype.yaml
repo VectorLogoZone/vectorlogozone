@@ -71,13 +71,13 @@
 - id: official
   title: Official Logo
   description: Official logo, as provided by the source.  Resized to max of 256.
-  height: 128
   padding: false
   tab: true
   search: false
   inventory: true
   visualinventory: true
   amp: false
+  boxwidth: 288px
 
 - id: wordmark
   title: Wordmark
