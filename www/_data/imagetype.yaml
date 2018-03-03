@@ -70,7 +70,7 @@
 
 - id: official
   title: Official Logo
-  description: Official logo, as provided by the source.  Resized to max of 256.
+  description: Official logo, as provided by the owner, but cropped and resized to max of 256.
   padding: false
   tab: true
   search: false
