@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   viewBox="0 0 137.47969 60.000002"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="trello-ar21.svg"
+   height="60"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="1.3242188"
+     inkscape:cx="35.870206"
+     inkscape:cy="32.279999"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <defs
+     id="defs9">
+    <style
+       id="style2">
+            .cls-1{fill:#253858}
+        </style>
+    <linearGradient
+       id="New_Gradient_Swatch_1"
+       x1="31.52"
+       y1="-6412.98"
+       x2="31.52"
+       y2="-6349.9302"
+       gradientTransform="matrix(1,0,0,-1,0,-6348.42)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset=".18"
+         stop-color="#0052cc"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#2684ff"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <g
+     id="g841"
+     transform="translate(3.1409044)">
+    <path
+       style="fill:#253858;fill-rule:evenodd;stroke-width:0.359882"
+       inkscape:connector-curvature="0"
+       id="path11"
+       d="m 65.868611,20.257996 v 2.724306 H 58.98047 v 18.080471 h -2.850265 v -18.08407 h -5.844484 v -2.720707 z m 1.389145,4.96997 h 2.659528 v 2.785486 c 0.917699,-1.867787 2.519173,-3.19935 5.606961,-3.008613 v 2.659528 c -3.483658,-0.359882 -5.606961,0.698171 -5.606961,4.052271 V 41.07357 H 67.257756 Z M 85.122298,41.37947 c -5.923658,0 -8.518407,-3.418879 -8.518407,-8.277286 0,-4.782832 2.659528,-8.201711 7.474749,-8.201711 4.876401,0 6.837758,3.390089 6.837758,8.201711 v 1.234395 H 79.360587 c 0.381475,2.691917 2.123304,4.433746 5.858879,4.433746 a 14.035398,14.035398 0 0 0 4.815221,-0.856519 v 2.519174 c -1.299174,0.694572 -3.296519,0.94649 -4.912389,0.94649 z m -5.7941,-9.356932 H 88.1633 c -0.158348,-2.943835 -1.489911,-4.624484 -4.210619,-4.624484 -2.882655,-0.01439 -4.340177,1.853392 -4.624483,4.60649 z m 19.066547,9.133805 c -2.598348,0 -4.243008,-1.234396 -4.243008,-4.14944 V 18.609736 h 2.724306 v 18.08407 c 0,1.439528 0.950089,1.932566 2.123304,1.932566 a 6.8989377,6.8989377 0 0 0 0.791741,-0.03239 v 2.436401 a 5.7976989,5.7976989 0 0 1 -1.396343,0.12596 z m 8.262885,0 c -2.59834,0 -4.243,-1.234396 -4.243,-4.14944 V 18.609736 h 2.7243 v 18.08407 c 0,1.439528 0.95009,1.932566 2.12331,1.932566 a 6.8989377,6.8989377 0 0 0 0.79174,-0.03239 v 2.436401 a 5.7976989,5.7976989 0 0 1 -1.39635,0.12596 z m 2.91505,-8.043363 c 0,-4.750442 2.78548,-8.20171 7.53593,-8.20171 4.75044,0 7.47475,3.451268 7.47475,8.20171 0,4.750442 -2.7567,8.277286 -7.47475,8.277286 -4.71806,0 -7.53593,-3.526844 -7.53593,-8.277286 z m 2.65953,0 c 0,3.008614 1.48991,5.73292 4.8764,5.73292 3.38649,0 4.81522,-2.724306 4.81522,-5.73292 0,-3.008613 -1.43953,-5.668141 -4.81162,-5.668141 -3.3721,0 -4.86921,2.659528 -4.86921,5.668141 z"
+       class="cls-1" />
+    <g
+       transform="matrix(0.60691436,0,0,0.60691436,6.6145212,9.9536197)"
+       data-name="Layer 2"
+       id="Layer_2-2">
+      <path
+         style="fill:url(#New_Gradient_Swatch_1);fill-rule:evenodd"
+         inkscape:connector-curvature="0"
+         data-name="Layer 1-2"
+         id="Layer_1-2"
+         d="M 55.16,1.51 H 7.88 A 7.88,7.88 0 0 0 0,9.39 v 47.28 a 7.88,7.88 0 0 0 7.88,7.88 H 55.16 A 7.88,7.88 0 0 0 63,56.67 V 9.39 A 7.88,7.88 0 0 0 55.16,1.51 Z M 27.42,49.26 A 3.78,3.78 0 0 1 23.64,53 H 12 A 3.78,3.78 0 0 1 8.2,49.26 V 13.49 A 3.78,3.78 0 0 1 12,9.71 h 11.64 a 3.78,3.78 0 0 1 3.78,3.78 z M 54.85,33.5 a 3.78,3.78 0 0 1 -3.78,3.78 H 39.4 A 3.78,3.78 0 0 1 35.62,33.5 v -20 A 3.78,3.78 0 0 1 39.4,9.71 h 11.67 a 3.78,3.78 0 0 1 3.78,3.78 z" />
+    </g>
+  </g>
+</svg>
