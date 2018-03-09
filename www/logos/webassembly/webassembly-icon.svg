@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="webassembly-icon.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>web-assembly-logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="2.2399154"
+     inkscape:cx="7.7067241"
+     inkscape:cy="16.196467"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39" />
+  <defs
+     id="defs4">
+    <style
+       id="style2"> .cls-1 { fill: #393939; } .cls-2 { fill: #654ff0; } </style>
+  </defs>
+  <title
+     id="title6">web-assembly-logo</title>
+  <g
+     id="g896"
+     transform="matrix(0.594685,0,0,0.594685,-79.179709,1.5e-7)">
+    <path
+       class="cls-2"
+       d="m 199.26563,0 c 0,0.19 0,0.38 0,0.58 a 12.34,12.34 0 0 1 -24.68,0 c 0,-0.2 0,-0.39 0,-0.58 h -41.44 v 107.62 h 107.62 V 0 Z m -14.76,96.1 -5.24,-25.93 h -0.09 l -5.67,25.93 h -7.22 l -8.18,-38.1 h 7.13 l 4.88,25.93 h 0.09 l 5.88,-25.93 h 6.67 l 5.28,26.25 h 0.09 l 5.57,-26.25 h 7 l -9.09,38.1 z m 39.26,0 -2.43,-8.48 h -12.83 l -1.87,8.48 h -7.13 l 9.22,-38.1 h 11.25 l 11.21,38.1 z"
+       id="path32"
+       inkscape:connector-curvature="0"
+       style="fill:#654ff0" />
+    <polygon
+       transform="translate(35.715635)"
+       class="cls-2"
+       points="180.3,67.39 177.3,67.39 174.19,81.37 183.87,81.37 "
+       id="polygon34"
+       style="fill:#654ff0" />
+  </g>
+</svg>
