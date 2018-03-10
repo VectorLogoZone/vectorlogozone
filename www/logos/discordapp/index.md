@@ -15,6 +15,7 @@ github: discordapp
 guide: https://discordapp.com/branding
 images:
 - discordapp-tile.svg
+- discordapp-official.svg
 logohandle: discordapp
 skipped: 0
 sort: discordapp

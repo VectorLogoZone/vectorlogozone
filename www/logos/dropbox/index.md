@@ -10,6 +10,7 @@ guide: https://www.dropbox.com/branding
 images:
 - dropbox-ar21.svg
 - dropbox-icon.svg
+- dropbox-official.svg
 - dropbox-tile.svg
 logohandle: dropbox
 skipped: 0

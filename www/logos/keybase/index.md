@@ -1,6 +1,8 @@
 ---
 blog: https://keybase.io/blog
 github: keybase
+images:
+- keybase-official.svg
 logohandle: keybase
 sort: keybase
 title: Keybase

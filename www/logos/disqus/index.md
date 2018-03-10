@@ -12,6 +12,7 @@ images:
 - disqus-ar21.svg
 - disqus-tile.svg
 - disqus-icon.svg
+- disqus-official.svg
 logohandle: disqus
 skipped: 0
 sort: disqus

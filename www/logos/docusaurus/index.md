@@ -5,6 +5,7 @@ guide: https://github.com/facebook/Docusaurus/tree/master/website/static/img
 images:
 - docusaurus-icon.svg
 - docusaurus-ar21.svg
+- docusaurus-official.svg
 logohandle: docusaurus
 skipped: 0
 sort: docusaurus
