@@ -4,7 +4,6 @@ facebook: https://www.facebook.com/xbox/
 font:
   freename: x360
   freeurl: https://www.dafont.com/x360.font
-guide: https://www.blah.com/official
 logohandle: xbox
 sort: xbox
 tags:

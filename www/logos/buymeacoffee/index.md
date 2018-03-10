@@ -6,7 +6,6 @@ images:
 - buymeacoffee-official.svg
 instagram: https://www.instagram.com/thebuymeacoffee/
 logohandle: buymeacoffee
-pinterest: https://www.pinterest.com/blah
 sort: buymeacoffee
 title: BuyMeACoffee
 twitter: TheBuyMeACoffee

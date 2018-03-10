@@ -13,7 +13,7 @@ tags:
 title: Tesla
 twitter: tesla
 website: https://www.tesla.com/
-wikipedia: https://en.wikipedia.org/wiki/blah
+wikipedia: https://en.wikipedia.org/wiki/Tesla,_Inc.
 ---
 
 Password for guidelines is "tesla1press"

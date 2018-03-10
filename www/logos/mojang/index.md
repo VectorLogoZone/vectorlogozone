@@ -1,6 +1,5 @@
 ---
 github: mojang
-guide: https://www.blah.com/official
 logohandle: mojang
 sort: mojang
 title: Mojang

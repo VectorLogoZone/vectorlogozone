@@ -7,7 +7,6 @@ images:
 - myfonts-ar21.svg
 - myfonts-icon.svg
 instagram: myfonts
-linkedin: https://www.linkedin.com/blah/blah/
 logohandle: myfonts
 pinterest: myfonts
 skipped: 0
