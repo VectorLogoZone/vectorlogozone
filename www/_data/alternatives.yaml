@@ -48,3 +48,9 @@
   search: http://www.brandsoftheworld.com/search/logo?search_api_views_fulltext={query}
   url: http://www.brandsoftheworld.com/
   enabled: true
+
+- id: wikia
+  name: Logopedia
+  search: http://logos.wikia.com/wiki/Special:Search?search={query}&fulltext=Search&ns0=1&ns14=1
+  url: http://logos.wikia.com/
+  enabled: true
