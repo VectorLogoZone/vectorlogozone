@@ -1,9 +1,11 @@
 ---
 blog: https://redis.io/buzz
 github: antirez/redis
+guide: https://github.com/antirez/redis-io/tree/master/public/images
 images:
 - redis-ar21.svg
 - redis-icon.svg
+- redis-official.svg
 logohandle: redis
 skipped: 0
 sort: redis

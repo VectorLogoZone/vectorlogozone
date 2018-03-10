@@ -1,9 +1,11 @@
 ---
 blog: http://yeoman.io/blog/
 github: yeoman
+guide: https://github.com/yeoman/media
 images:
 - yeoman-ar21.svg
 - yeoman-icon.svg
+- yeoman-official.svg
 layout: default
 logohandle: yeoman
 skipped: 0

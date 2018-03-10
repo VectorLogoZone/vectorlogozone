@@ -7,6 +7,8 @@ font:
   note: pre-2014 font was Graphique
 github: netflix
 guide: https://media.netflix.com/en/company-assets
+images:
+- netflix-official.svg
 logohandle: netflix
 instagram: netflix
 sort: netflix

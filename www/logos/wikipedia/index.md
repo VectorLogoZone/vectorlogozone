@@ -5,8 +5,9 @@ font:
 guide: https://en.wikipedia.org/wiki/Wikipedia_logo
 images:
 - wikipedia-ar21.svg
-- wikipedia-tile.svg
 - wikipedia-icon.svg
+- wikipedia-official.svg
+- wikipedia-tile.svg
 logohandle: wikipedia
 skipped: 0
 sort: wikipedia

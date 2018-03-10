@@ -3,6 +3,7 @@ github: mitchellh/vagrant
 images:
 - vagrantup-ar21.svg
 - vagrantup-icon.svg
+- vagrantup-official.svg
 layout: default
 logohandle: vagrantup
 skipped: 0

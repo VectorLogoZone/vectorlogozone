@@ -10,6 +10,7 @@ images:
 - python-ar21.svg
 - python-icon.svg
 - python-horizontal.svg
+- python-official.svg
 - python-vertical.svg
 layout: default
 logohandle: python

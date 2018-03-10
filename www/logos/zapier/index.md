@@ -7,6 +7,8 @@ font:
   google: https://fonts.google.com/specimen/Open+Sans
 github: zapier
 guide: https://zapier.com/brand/
+images:
+- zapier-official.svg
 linkedin: http://www.linkedin.com/company/zapier/
 logohandle: zapier
 sort: zapier

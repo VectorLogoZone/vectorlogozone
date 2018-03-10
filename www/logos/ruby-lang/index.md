@@ -6,7 +6,7 @@ font:
   myfonts: http://www.myfonts.com/fonts/ascender/georgia/regular/
   name: Georgia
 github: ruby
-guide: http://rubyidentity.org/
+guide: https://www.ruby-lang.org/en/about/logo/
 images:
 - ruby-lang-ar21.svg
 - ruby-lang-horizontal.svg
@@ -23,7 +23,3 @@ title: Ruby
 website: https://www.ruby-lang.org/en/
 wikipedia: https://en.wikipedia.org/wiki/Ruby_(programming_language)
 ---
-
-Ruby is really on the ball.  They have their own [Visual Identity Team](http://rubyidentity.org/) with a downloadable logo kit!
-
-It looks like they were created with Adobe Illustrator on a Mac, but the authors included a PDF that I imported into Inkscape.
