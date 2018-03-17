@@ -27,6 +27,18 @@
   url: https://www.freepik.com/
   enabled: true
 
+- id: instantlogosearch
+  name: Instant Logo Search
+  search: http://instantlogosearch.com/?q={query}
+  url: http://instantlogosearch.com/
+  enabled: true
+
+- id: sleeklogos
+  name: Sleek Logos (Icons8)
+  search: https://sleeklogos.design/web-app/for/all/{query}
+  url: https://sleeklogos.design/
+  enabled: true
+
 - id: seeklogonet
   search: https://www.seeklogo.net/?s={query}
   url: https://www.seeklogo.net/
