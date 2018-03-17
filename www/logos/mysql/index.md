@@ -3,6 +3,7 @@ facebook: http://www.facebook.com/mysql
 github: mysql
 images:
 - mysql-ar21.svg
+- mysql-horizontal.svg
 - mysql-icon.svg
 - mysql-official.svg
 layout: default

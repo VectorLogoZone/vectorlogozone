@@ -7,9 +7,10 @@ font:
   name: Droid Sans Bold
   url: https://www.fonts.com/font/ascender/droid-sans/wgl-bold
 images:
-- javascript-vertical.svg
-- javascript-icon.svg
 - javascript-ar21.svg
+- javascript-horizontal.svg
+- javascript-icon.svg
+- javascript-vertical.svg
 logohandle: javascript
 skipped: 0
 sort: javascript
