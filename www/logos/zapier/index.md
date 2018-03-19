@@ -1,6 +1,6 @@
 ---
 blog: https://zapier.com/blog/
-colors: "#bbaadd"
+colors: ["#FF4A00"]
 facebook: http://www.facebook.com/ZapierApp
 font:
   name: Open Sans

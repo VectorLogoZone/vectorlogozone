@@ -1,6 +1,6 @@
 ---
 blog: https://blog.angel.co/
-colors: "#bbaadd"
+colors: ["#000000"]
 facebook: https://www.facebook.com/angellist/
 github: AngelList
 linkedin: https://www.linkedin.com/company/angellist
