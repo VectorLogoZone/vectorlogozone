@@ -19,7 +19,7 @@ layout: none
 	html, body { width: 100%; height: 100% }
 	#preview-container { width: 100%; height:100%;background-image: url("/images/preview/background_light.png"); background-repeat: repeat-x repeat-y;}
 	#xpreview-image { display: block; margin: auto;vertical-align: middle; width:24px; height:24px;}
-    .color-block { display: inline-block; width: 18px; height: 18px; margin-right: 5px; margin-top: 3px; vertical-align: text-bottom;}
+    .color-block { border: 1px solid #cccccc; display: inline-block; width: 18px; height: 18px; margin-right: 5px; margin-top: 3px; vertical-align: text-bottom;}
 #preview-container { position: relative;}
 #preview-image {
     position: absolute;
@@ -56,7 +56,7 @@ layout: none
   <button type="button" class="btn btn-default navbar-btn border-btn" data-border="4" title="Thick border">Thick</button>
 </div>
 
-<a class="btn btn-default navbar-btn hidden-xs" id="color_analysis" title="Color Analysis" data-toggle="popover" data-title="Color Analysis" data-html="true" data-placement="auto bottom"><i class="far fa-eye-dropper"></i></a>
+<a class="btn btn-default navbar-btn hidden-xs" id="color_analysis" title="Color Analysis" data-toggle="popover" data-title="Color Analysis" data-html="true" data-placement="auto bottom" data-popped="0"><i class="far fa-eye-dropper"></i></a>
 <a class="btn btn-default navbar-btn hidden-xs" id="btn-download" title="Download"><i class="fa fa-download"></i></a>
 <a class="btn btn-default navbar-btn" href="/" id="btn-exit" title="Exit Preview"><i class="fa fa-sign-out"></i></a>
 			
@@ -89,26 +89,57 @@ layout: none
 		{
 			console.log("INFO: loading image " + imgUrl);
 			$("#preview-image").bind('load', function(e) {
-			    console.log("INFO: image loaded");
+                console.log("INFO: image loaded");
                 var img = $("#preview-image")[0];
                 img.width = img.naturalWidth;
                 img.height = img.naturalHeight;
-                var vibrant = new Vibrant(img);
-                var swatches = vibrant.swatches();
-                var content = $("<div>");
-                for (var swatch in swatches) {
-                    if (swatches.hasOwnProperty(swatch) && swatches[swatch]) {
-                        console.log(swatch, swatches[swatch].getHex());
-                        content.append($("<div>").attr("class", "color-block").css("background-color", swatches[swatch].getHex()));
-                        content.append($("<span>").text(swatches[swatch].getHex() + " - " + swatch));
-                        content.append($("<br>"));
-                    }
-                }
-                content.append($("<small>").text("Powered by ").append($("<a>").attr("href", "http://jariz.github.io/vibrant.js/").text("Vibrant.js")));
-                $("#color_analysis").attr("data-content", content.html());
-                console.log("INFO: color analysis complete");
-
             });
+
+            $("#color_analysis").bind('click', function(e) {
+                if ($("#color_analysis").attr("data-popped") == "1") {
+                    $("#color_analysis").popover('hide');
+                    $("#color_analysis").attr("data-popped", "0");
+                    return;
+                }
+
+                if ($("#color_analysis").attr("data-content")) {
+                    $("#color_analysis").popover('show');
+                    $("#color_analysis").attr("data-popped", "1");
+                    return;
+                }
+
+                var src = $("#preview-image").prop("src");
+                src = "https://www.vectorlogo.zone" + $("#preview-image").attr("src");
+                $.ajax({
+                    data: { "url":  src},
+                    dataType: "json",
+                    error: function(xhr, status, err) {
+                        console.error("ERROR: " + status + " (" + err + ")");
+                    },
+                    method: "POST",
+                    success: function(data, status, xhr) {
+                        var content = $("<div>");
+                        console.log("data=" + JSON.stringify(data));
+                        if (data.success && data.colors) {
+                            console.log("here");
+                            for (var color in data.colors) {
+                                console.log(data.colors[color]);
+                                content.append($("<div>").attr("class", "color-block").css("background-color", data.colors[color]));
+                                content.append($("<span>").text(data.colors[color]));
+                                content.append($("<br>"));
+                            }
+                            $("#color_analysis").attr("data-content", content.html());
+                            $("#color_analysis").attr("data-popped", "1");
+                        }
+                        $("#color_analysis").popover('show');
+                        console.log("shown");
+                    },
+                    timeout: 5000,
+                    url: "https://color-analysis.glitch.me/api"
+                });
+                //return false;
+            });
+
 			$("#preview-image").attr("src", imgUrl);
 			$("#btn-download").attr("href", imgUrl).attr("download", imgUrl.substring(imgUrl.lastIndexOf('/')+1, imgUrl.length));
 			$("#btn-exit").attr("href", imgUrl.substring(0, imgUrl.lastIndexOf('/')));
@@ -168,7 +199,7 @@ layout: none
 			img.height = img.naturalHeight * newZoom;
 		});
 
-        $("#color_analysis").popover();
+        $("#color_analysis").popover( {"trigger": "manual"});
         /*
 		$("#color_analysis").bind('click', function(e) {
 		    console.log("DEBUG: popover");
