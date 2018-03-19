@@ -1,5 +1,6 @@
 ---
 blog: http://blog.zoom.us/
+colors: ["#4A8CFF"]
 facebook: http://www.facebook.com/zoomwithus
 images:
 - zoomus-ar21.svg

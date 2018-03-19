@@ -1,5 +1,6 @@
 ---
 blog: https://azure.microsoft.com/en-us/blog/
+colors: ["#035BDA"]
 facebook: https://www.facebook.com/microsoftazure
 github: Azure
 images:

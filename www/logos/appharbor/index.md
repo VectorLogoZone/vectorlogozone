@@ -1,5 +1,6 @@
 ---
 blog: http://blog.appharbor.com/
+colors: ["#113C5B"]
 github: appharbor
 images:
 - appharbor-ar21.svg

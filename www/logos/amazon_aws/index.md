@@ -1,5 +1,6 @@
 ---
 blog: https://aws.amazon.com/blogs/
+colors: ["#FF9900"]
 facebook: https://www.facebook.com/amazonwebservices/
 github: aws
 images:

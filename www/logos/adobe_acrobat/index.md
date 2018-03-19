@@ -1,5 +1,6 @@
 ---
 blog: https://blogs.adobe.com/documentcloud/category/acrobat/
+colors: ["#C80A0A"]
 images:
 - adobe_acrobat-icon.svg
 - adobe_acrobat-tile.svg

@@ -1,4 +1,5 @@
 ---
+colors: ["#E23237", "#B52E31"]
 github: angular/angular
 images:
 - angular-icon.svg

@@ -1,5 +1,6 @@
 ---
 blog: http://www.ycombinator.com/resources/
+colors: ["#F26625"]
 github: HackerNews
 images:
 - ycombinator-ar21.svg
