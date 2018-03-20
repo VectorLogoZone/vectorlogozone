@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="512"
+   height="512"
+   viewBox="0 0 512 511.99998"
+   version="1.1"
+   id="svg3415"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="kik-tile.svg">
+  <metadata
+     id="metadata3434">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview3432"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.7949219"
+     inkscape:cx="256"
+     inkscape:cy="256"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3415" />
+  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title3417">logo</title>
+  <desc
+     id="desc3419">Created with Sketch.</desc>
+  <rect
+     id="rect3515"
+     width="512"
+     height="512"
+     x="0"
+     y="0"
+     rx="76"
+     style="fill:#5dcd11" />
+  <defs
+     id="defs3421" />
+  <g
+     id="g3517"
+     transform="matrix(11.533184,0,0,11.533184,93.497293,-5475.1161)">
+    <path
+       inkscape:connector-curvature="0"
+       id="Fill-1"
+       d="m 26.827806,495.23372 c 2.029022,0 3.673312,1.64214 3.673312,3.66802 0,2.02588 -1.64429,3.66802 -3.673312,3.66802 -2.028855,0 -3.672979,-1.64214 -3.672979,-3.66802 0,-2.02588 1.644124,-3.66802 3.672979,-3.66802"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <path
+       inkscape:connector-curvature="0"
+       id="Fill-8"
+       d="m 14.88832,498.61383 4.201133,-4.14711 c 1.358941,-1.34142 1.329193,-3.5485 -0.06531,-4.85275 l 0,0 c -1.309915,-1.22522 -3.349075,-1.20022 -4.628743,0.057 l -6.226999,6.11715 -0.02576,-12.38249 c -0.0037,-1.80233 -1.400322,-3.33662 -3.196012,-3.4033 -1.888758,-0.0702 -3.446462,1.44527 -3.446462,3.32896 L 1.5,508.68438 C 1.5,510.51555 2.979928,512 4.805532,512 l 0,0 c 1.825605,0 3.305366,-1.48428 3.305532,-3.31546 l 1.67e-4,-4.13944 1.675534,-1.55929 5.663611,7.64693 c 1.088882,1.47028 3.154631,1.78784 4.632399,0.71214 l 0,0 c 1.498375,-1.09071 1.823277,-3.1971 0.72376,-4.69088 l -5.918217,-8.04017 z"
+       style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:1" />
+  </g>
+</svg>
