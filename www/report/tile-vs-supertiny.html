@@ -73,7 +73,7 @@ redirect_from: /util/tile-vs-supertiny.html
         {%- for logopage in sorted_pages %}{% if logopage.logohandle -%}
         {%- capture sti_file %}{{ logopage.supertinyicon | default: logopage.logohandle }}{% endcapture -%}
         {%- capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture -%}
-        {%- if logopage.images contains tilefile and sti_file != '-' -%}
+        {%- if logopage.images contains tilefile -%}
         <tr>
             <td>
                 <div class="img-container"><img alt="tile of {{logopage.title}}" class="img-preview" src="/logos/{{logopage.logohandle}}/{{tilefile}}" />
@@ -83,11 +83,13 @@ redirect_from: /util/tile-vs-supertiny.html
                 </div>
             </td>
             <td>
+                {%- if sti_file != '-' -%}
                 <div class="img-container"><img alt="SuperTinyIcon version of {{logopage.title}}" class="img-preview" src="https://github-logos.vectorlogo.zone/super-tiny-icons/{{sti_file}}.svg" />
                     <div class="overlay">
                         <img class="img-overlay" src="/images/overlay/tile-hollow.svg" />
                     </div>
                 </div>
+                {%- endif -%}
             </td>
             <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
         </tr>

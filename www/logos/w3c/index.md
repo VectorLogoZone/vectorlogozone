@@ -8,8 +8,10 @@ images:
 logohandle: w3c
 skipped: 0
 sort: w3c
+supertinyicon: '-'
 tags:
 - reference
+- standards_body
 title: World Wide Web Consortium (W3C)
 twitter: W3C
 website: http://www.w3.org/

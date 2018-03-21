@@ -10,6 +10,7 @@ images:
 - kik-tile.svg
 logohandle: kik
 sort: kik
+supertinyicon: '-'
 title: kik
 twitter: kik
 website: https://www.kik.com/
