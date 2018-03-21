@@ -6,11 +6,13 @@ colors:
 - '#404041'
 facebook: https://www.facebook.com/Cloudflare/
 github: cloudflare
+googleplus: cloudflare
 guide: https://www.cloudflare.com/logo/
 images:
 - cloudflare-official.svg
 - cloudflare-icon.svg
 - cloudflare-ar21.svg
+linkedin: https://www.linkedin.com/company/407222
 logohandle: cloudflare
 skipped: 0
 sort: cloudflare
