@@ -1,15 +1,52 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="-3.3 -2.5 64 64" id="svg3513" version="1.1" inkscape:version="0.91 r13725" sodipodi:docname="microsoft_edge-icon.svg" width="64" height="64">
-  <metadata id="metadata3521">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs id="defs3519"/>
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1855" inkscape:window-height="1056" id="namedview3517" showgrid="false" inkscape:zoom="14.138462" inkscape:cx="32.5" inkscape:cy="32.5" inkscape:window-x="65" inkscape:window-y="24" inkscape:window-maximized="1" inkscape:current-layer="svg3513"/>
-  <path d="M 58.187,27.58 C 58.187,9.873331 45.813585,-2.2866671 29.38684,-2.5 12.853403,-2.2866671 1.3333446,9.553331 -0.79999995,26.086673 5.1733659,16.273327 17.013426,9.66 27.46683,9.66 c 8.533374,0 13.120072,4.586673 13.120072,13.653327 l -22.826799,0 C 18.186778,19.473327 19.893442,15.526673 22.240128,13.18 13.06675,16.913327 6.6667087,25.233327 6.6667087,36.433327 6.6667087,50.3 17.333428,61.5 32.90686,61.5 c 7.893371,0 14.293406,-1.706673 19.84011,-4.586673 l 0,-13.546654 c -5.013374,2.986654 -10.986734,4.8 -17.600098,4.8 -9.920055,0 -17.066767,-4.8 -17.066767,-13.546673 l 40.106895,0 0,-7.04 z" id="path3515" inkscape:connector-curvature="0" style="fill:#0078d7"/>
-</svg>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   width="32"
+   height="32"
+   viewBox="0 0 32.000001 32"
+   xml:space="preserve"
+   sodipodi:docname="microsoftedge-icon.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"><metadata
+     id="metadata41"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs39" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview37"
+     showgrid="false"
+     inkscape:zoom="1.0460799"
+     inkscape:cx="502.774"
+     inkscape:cy="64.427662"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ebene_1" /><style
+     type="text/css"
+     id="style2">
+	.st0{fill:#0078D7;}
+</style><path
+     inkscape:connector-curvature="0"
+     style="fill:#0078d7;stroke-width:0.5"
+     d="m 10.4275,19.000002 c 0,0.769998 0.115,1.47 0.35,2.099999 0.25,0.620001 0.575,1.175001 0.99,1.660002 0.415,0.484998 0.9,0.899999 1.47,1.25 0.55,0.349998 1.15,0.639999 1.79,0.864998 0.635,0.230001 1.3,0.400001 1.975,0.510001 0.685,0.11 1.35,0.164999 2.025,0.164999 0.85,0 1.64,-0.065 2.39,-0.199999 0.75,-0.139999 1.48,-0.324999 2.2,-0.559998 0.72,-0.235003 1.415,-0.515 2.11,-0.835003 0.7,-0.319999 1.41,-0.670001 2.14,-1.060001 v 6.780005 c -0.81499,0.399995 -1.615,0.734997 -2.415,1.024998 -0.8,0.279998 -1.59999,0.525001 -2.415,0.720001 -0.815,0.199999 -1.64,0.349995 -2.485,0.44 -0.845,0.09 -1.71,0.139996 -2.61,0.139996 -1.2,0 -2.36,-0.139996 -3.475,-0.414997 -1.115,-0.275002 -2.16,-0.670001 -3.14,-1.19 -0.98,-0.520002 -1.875,-1.150001 -2.69,-1.890002 -0.82,-0.739999 -1.515,-1.574999 -2.1,-2.499997 -0.585,-0.924999 -1.035,-1.940003 -1.36,-3.030003 -0.315,-1.09 -0.475,-2.250001 -0.475,-3.48 0,-1.314999 0.18,-2.565002 0.54,-3.760001 0.365,-1.2 0.88,-2.29 1.56,-3.289998 0.675,-1.000002 1.5,-1.890003 2.475,-2.665002 0.975,-0.775 2.07,-1.41 3.29,-1.9 -0.665,0.665 -1.185,1.45 -1.55,2.365 -0.375,0.909999 -0.61,1.825001 -0.715,2.739998 h 11.39 c 0,-1.149997 -0.115,-2.149998 -0.35,-3.009998 -0.235,-0.86 -0.61,-1.575 -1.135,-2.14 -0.52,-0.57 -1.19,-1 -2.015,-1.28 -0.825,-0.285 -1.82,-0.43 -2.985,-0.43 -1.375,0 -2.75,0.2 -4.125,0.615 -1.375,0.4 -2.68,0.975 -3.92,1.7 -1.24,0.735 -2.38,1.599999 -3.42,2.59 -1.04,0.999998 -1.915,2.075002 -2.625,3.240002 0.15,-1.350003 0.45,-2.650002 0.865,-3.885 C 2.3975,9.15 2.9475,8 3.6075,6.935 c 0.66,-1.05 1.435,-2.01 2.32,-2.87 0.885,-0.86 1.865,-1.6 2.95,-2.2 1.085,-0.6 2.235,-1.085 3.485,-1.41 1.25,-0.285 2.58,-0.455 3.98,-0.455 0.82,0 1.635,0.075 2.45,0.22 0.815,0.15 1.61,0.35 2.385,0.61 1.54,0.53 2.915,1.27 4.12501,2.21 1.20999,0.95 2.225,2.03 3.05,3.265 0.82499,1.235 1.44999,2.6 1.87999,4.085001 0.43,1.484999 0.65,3.029999 0.65,4.634999 v 3.975002 z"
+     id="path2" /></svg>
