@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="94"
+   height="94"
+   viewBox="0 0 94 94"
+   id="svg3613"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="w3_svg-vertical.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview3643"
+     showgrid="false"
+     inkscape:zoom="1.9881771"
+     inkscape:cx="150"
+     inkscape:cy="150"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3613" />
+  <title
+     id="title3615">SVG Logo</title>
+  <desc
+     id="desc3617">Designed for the SVG Logo Contest in 2006 by Harvey Rayner, and adopted by W3C in 2009. It is available under the Creative Commons license for those who have an SVG product or who are using SVG on their site.</desc>
+  <metadata
+     id="license">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>SVG Logo</dc:title>
+        <dc:date>14-08-2009</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>W3C</dc:title>
+          </cc:Agent>
+          <cc:Agent>
+            <dc:title>Harvey Rayner, designer</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:description>See document description</dc:description>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-sa/2.5/" />
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-sa/2.5/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Attribution" />
+        <cc:prohibits
+           rdf:resource="http://web.resource.org/cc/CommercialUse" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3620">
+    <g
+       id="SVG"
+       transform="matrix(2,0,0,2,40,158)"
+       style="fill:#ffffff">
+      <path
+         id="S"
+         d="M 5.482,31.319 C 2.163,28.001 0.109,23.419 0.109,18.358 0.109,8.232 8.322,0.024 18.443,0.024 c 10.126,0 18.339,8.208 18.339,18.334 l -10.74,0 c 0,-4.194 -3.404,-7.593 -7.599,-7.593 -4.194,0 -7.593,3.399 -7.593,7.593 0,2.095 0.851,3.993 2.22,5.363 l 0.005,0 c 1.375,1.38 2.52,1.779 5.368,2.231 l 0,0 c 5.066,0.527 9.648,2.054 12.966,5.372 l 0,0 c 3.319,3.319 5.373,7.901 5.373,12.962 0,10.126 -8.213,18.339 -18.339,18.339 -10.121,0 -18.334,-8.213 -18.334,-18.339 l 10.741,0 c 0,4.194 3.399,7.598 7.593,7.598 4.195,0 7.599,-3.404 7.599,-7.598 0,-2.095 -0.851,-3.988 -2.221,-5.363 l -0.005,0 c -1.375,-1.375 -3.348,-1.849 -5.373,-2.226 l 0,-0.005 C 13.533,35.939 8.8,34.638 5.482,31.319 l 0,0 0,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="V"
+         d="m 73.452,0.024 -12.97,62.601 -10.74,0 -12.96,-62.601 10.74,0 7.6,36.663 7.59,-36.663 10.74,0 z"
+         inkscape:connector-curvature="0" />
+      <path
+         id="G"
+         d="m 91.792,25.952 18.334,0 0,18.334 0.005,0 c 0,10.127 -8.213,18.34 -18.339,18.34 -10.127,0 -18.334,-8.213 -18.334,-18.34 l 0,0 0,-25.927 -0.005,0 c 0,-10.126 8.212,-18.334 18.339,-18.334 10.121,0 18.334,8.208 18.334,18.334 l -10.741,0 c 0,-4.19 -3.404,-7.594 -7.593,-7.594 -4.195,0 -7.594,3.404 -7.594,7.594 l 0,25.927 0,0 c 0,4.195 3.399,7.594 7.594,7.594 4.189,0 7.588,-3.399 7.593,-7.589 l 0,-0.005 0,-7.588 -7.593,0 0,-10.746 0,0 z"
+         inkscape:connector-curvature="0" />
+    </g>
+  </defs>
+  <g
+     id="g3356"
+     transform="translate(6,-6)">
+    <path
+       style="fill:#000000"
+       inkscape:connector-curvature="0"
+       d="m 0,52.999974 82,0 0,28.975283 C 82,88.784448 76.784451,94 69.975264,94 L 12.024735,94 C 5.2155479,94 0,88.784448 0,81.975257 Z"
+       id="base" />
+    <g
+       style="stroke:#000000;stroke-width:38.00859833"
+       transform="matrix(0.28975265,0,0,0.28975284,-2.4628975,9.5370467)"
+       id="g3627">
+      <g
+         transform="translate(150,150)"
+         id="svgstar">
+        <path
+           style="fill:#ffb13b"
+           inkscape:connector-curvature="0"
+           d="m -84.1487,-15.8513 a 22.4171,22.4171 0 1 0 0,31.7026 l 168.2974,0 a 22.4171,22.4171 0 1 0 0,-31.7026 z"
+           id="svgbar" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           id="use3631"
+           transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,0,0)"
+           xlink:href="#svgbar" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           id="use3633"
+           transform="matrix(0,1,-1,0,0,0)"
+           xlink:href="#svgbar" />
+        <use
+           height="100%"
+           width="100%"
+           y="0"
+           x="0"
+           id="use3635"
+           transform="matrix(-0.70710678,0.70710678,-0.70710678,-0.70710678,0,0)"
+           xlink:href="#svgbar" />
+      </g>
+    </g>
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.28975265,0,0,0.28975284,-2.4628975,9.5370467)"
+       id="use3637"
+       xlink:href="#svgstar" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="opacity:0.85"
+       id="use3639"
+       xlink:href="#base" />
+    <use
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       transform="matrix(0.28975265,0,0,0.28975284,-2.4628975,9.5370467)"
+       id="use3641"
+       xlink:href="#SVG" />
+  </g>
+</svg>

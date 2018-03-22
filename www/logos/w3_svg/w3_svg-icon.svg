@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <g transform="matrix(.22628 0 0 .22628 -1.941 -1.941)" stroke="#000" stroke-width="38.009">
+        <g id="b" transform="translate(150 150)">
+            <path id="a" d="M-84.149-15.851a22.417 22.417 0 1 0 0 31.702H84.15a22.417 22.417 0 1 0 0-31.702z" fill="#ffb13b"/>
+            <use xlink:href="#a" transform="rotate(45)" width="100%" height="100%"/>
+            <use xlink:href="#a" transform="rotate(90)" width="100%" height="100%"/>
+            <use xlink:href="#a" transform="rotate(135)" width="100%" height="100%"/>
+        </g>
+    </g>
+    <use xlink:href="#b" width="100%" height="100%" transform="matrix(.22628 0 0 .22628 -1.941 -1.941)"/>
+</svg>
