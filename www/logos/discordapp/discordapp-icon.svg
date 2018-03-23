@@ -8,12 +8,12 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
-   viewBox="0 0 32 31.999999"
+   viewBox="0 0 64 63.999998"
    version="1.1"
    sodipodi:docname="discordapp-icon.svg"
-   width="32"
-   height="32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata13">
     <rdf:RDF>
@@ -42,7 +42,7 @@
      id="namedview9"
      showgrid="false"
      inkscape:zoom="4.794184"
-     inkscape:cx="78.24959"
+     inkscape:cx="42.998544"
      inkscape:cy="25.146066"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -52,7 +52,7 @@
      id="style2">.st0{fill:#7289da}</style>
   <g
      id="g871"
-     transform="matrix(1.1060868,0,0,1.1060868,-3.7045281,-19.95287)">
+     transform="matrix(2.2121736,0,0,2.2121736,-7.4090562,-39.905741)">
     <path
        style="fill:#7289da;stroke-width:0.14589421"
        inkscape:connector-curvature="0"
