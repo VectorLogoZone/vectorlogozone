@@ -13,9 +13,9 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="32"
-   height="32"
-   viewBox="0 0 32.000003 32.000002"
+   width="64"
+   height="64"
+   viewBox="0 0 64.000006 64.000004"
    enable-background="new 0 0 524.819 144.277"
    xml:space="preserve"
    sodipodi:docname="ocaml-icon.svg"
@@ -44,7 +44,7 @@
    id="namedview61"
    showgrid="false"
    inkscape:zoom="2.5837481"
-   inkscape:cx="75.295969"
+   inkscape:cx="9.8871159"
    inkscape:cy="38.875574"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
@@ -52,7 +52,7 @@
    inkscape:current-layer="Layer_1" />
 <g
    id="g46"
-   transform="matrix(0.19329274,0,0,0.19329274,1.5376e-7,2.0561196)">
+   transform="matrix(0.38658548,0,0,0.38658548,1.5376e-7,4.1122393)">
 		<path
    style="fill:#ffffff"
    inkscape:connector-curvature="0"
