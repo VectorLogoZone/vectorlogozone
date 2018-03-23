@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
-   viewBox="0 0 32 32.000001"
+   viewBox="0 0 64 64.000002"
    version="1.1"
    sodipodi:docname="ironio-icon.svg"
-   width="32"
-   height="32"
+   width="64"
+   height="64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata17">
@@ -41,9 +41,9 @@
      inkscape:window-height="1001"
      id="namedview13"
      showgrid="false"
-     inkscape:zoom="17.312481"
-     inkscape:cx="13.988774"
-     inkscape:cy="21.169233"
+     inkscape:zoom="8.6562405"
+     inkscape:cx="32.410003"
+     inkscape:cy="20.417327"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -52,7 +52,7 @@
      id="style2">.st0{fill:#3177BC;} .st1{fill:#2E343C;}</style>
   <g
      id="g836"
-     transform="matrix(0.82033591,0,0,0.82033591,-3.9489429,14.359328)">
+     transform="matrix(1.6406718,0,0,1.6406718,-7.8978853,28.718657)">
     <path
        style="fill:#3177bc;stroke-width:0.36957282"
        inkscape:connector-curvature="0"
