@@ -13,11 +13,11 @@
    id="Helmet"
    x="0px"
    y="0px"
-   viewBox="-100 0 32 32"
+   viewBox="-100 0 64 64"
    xml:space="preserve"
    sodipodi:docname="msu_edu-icon.svg"
-   width="32"
-   height="32"
+   width="64"
+   height="64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata89"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -36,7 +36,7 @@
    id="namedview85"
    showgrid="false"
    inkscape:zoom="4.72"
-   inkscape:cx="52.245594"
+   inkscape:cx="16.440509"
    inkscape:cy="38.690109"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
@@ -52,7 +52,7 @@
 
 <g
    id="g26"
-   transform="matrix(0.35277388,0,0,0.35277388,-84.000156,-9.3098214)">
+   transform="matrix(0.70554776,0,0,0.70554776,-68.000312,-18.619643)">
 	
 	
 	<g
@@ -119,7 +119,7 @@
 	</g></g>
 </g><rect
    x="-75.889832"
-   y="5.6161652"
+   y="37.616165"
    class="st1"
    width="68.894356"
    height="22.975105"
