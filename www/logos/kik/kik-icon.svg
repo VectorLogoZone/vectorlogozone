@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -7,64 +10,105 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64"
-   height="64"
-   viewBox="0 0 64 63.999998"
    version="1.1"
-   id="svg3415"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="kik-icon.svg">
-  <metadata
-     id="metadata3434">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>logo</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     id="namedview3432"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="10.153611"
-     inkscape:cx="21.342384"
-     inkscape:cy="32.453348"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg3415" />
-  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-  <title
-     id="title3417">logo</title>
-  <desc
-     id="desc3419">Created with Sketch.</desc>
-  <defs
-     id="defs3421" />
-  <path
-     style="fill:#5dcd11;fill-rule:evenodd;stroke:none;stroke-width:1"
-     d="m 53.655612,30.46744 c 4.058044,0 7.346624,3.284284 7.346624,7.336042 0,4.05176 -3.28858,7.336038 -7.346624,7.336038 -4.05771,0 -7.345958,-3.284278 -7.345958,-7.336038 0,-4.051758 3.288248,-7.336042 7.345958,-7.336042"
-     id="Fill-1"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:#5dcd11;fill-rule:evenodd;stroke:none;stroke-width:1"
-     d="m 29.77664,37.227656 8.402266,-8.29422 c 2.717882,-2.682834 2.658386,-7.096994 -0.13062,-9.705484 l 0,0 c -2.61983,-2.450458 -6.69815,-2.400448 -9.257486,0.11402 L 16.336802,31.57626 16.285282,6.811292 C 16.277882,3.206616 13.484638,0.13804198 9.893258,0.00468398 6.115742,-0.13567602 3.000334,2.895226 3.000334,6.662598 L 3,57.368758 c 0,3.662352 2.959856,6.63124 6.611064,6.63124 l 0,0 c 3.65121,0 6.610732,-2.968554 6.611064,-6.630908 l 3.34e-4,-8.278882 3.351068,-3.118586 11.327222,15.293866 c 2.177764,2.94055 6.309262,3.575668 9.264798,1.424266 l 0,0 c 2.99675,-2.18141 3.646554,-6.394198 1.44752,-9.381758 L 29.776636,37.227656 Z"
-     id="Fill-8"
-     inkscape:connector-curvature="0" />
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 32 32.000001"
+   xml:space="preserve"
+   sodipodi:docname="kik-icon.svg"
+   width="32"
+   height="32"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata30"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Artbox</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs28">
+	
+
+		
+	
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview26"
+   showgrid="false"
+   inkscape:zoom="3.097113"
+   inkscape:cx="-1.2915254"
+   inkscape:cy="38.099998"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#3DB4E7;}
+	.st1{fill:#82BC23;}
+</style>
+<title
+   id="title4">Artbox</title>
+<desc
+   id="desc6">Created with Sketch.</desc>
+<g
+   id="g891"
+   transform="matrix(0.85525645,0,0,0.85525645,-53.963863,-7.9471806)"><path
+     id="Shape"
+     sketch:type="MSShapeGroup"
+     class="st0"
+     d="m 95.071905,27.55575 c 2.369331,0 4.343773,1.87572 4.343773,4.245051 0,2.36933 -1.974442,4.24505 -4.343773,4.24505 -2.36933,0 -4.343772,-1.87572 -4.343772,-4.24505 0,-2.270609 1.974442,-4.245051 4.343772,-4.245051 z"
+     inkscape:connector-curvature="0"
+     style="fill:#3db4e7;stroke-width:0.98722106" /><path
+     id="Shape_9_"
+     sketch:type="MSShapeGroup"
+     class="st1"
+     d="m 69.799046,38.908792 c 2.073165,0 3.850162,1.776998 3.850162,3.850163 0,2.171886 -1.678275,3.850162 -3.850162,3.850162 -2.073164,0 -3.850162,-1.776998 -3.850162,-3.850162 0,-2.073165 1.678276,-3.850163 3.850162,-3.850163 z"
+     inkscape:connector-curvature="0"
+     style="fill:#82bc23;stroke-width:0.98722106" /><path
+     id="Shape_10_"
+     sketch:type="MSShapeGroup"
+     class="st1"
+     d="m 69.799046,9.292161 c 2.073165,0 3.850162,1.776998 3.850162,3.948884 0,2.171886 -1.678275,3.948884 -3.850162,3.948884 -2.073164,0 -3.850162,-1.776998 -3.850162,-3.948884 0,-2.171886 1.678276,-3.948884 3.850162,-3.948884 z"
+     inkscape:connector-curvature="0"
+     style="fill:#82bc23;stroke-width:0.98722106" /><path
+     id="Shape_11_"
+     sketch:type="MSShapeGroup"
+     class="st1"
+     d="m 65.850162,13.339767 7.799046,0.09872 v 14.314706 l 7.206714,-7.00927 5.824604,5.330994 -5.133549,4.936105 7.107991,9.576044 -6.318214,4.541217 -6.713104,-8.983711 -1.974442,1.776997 v 5.034828 L 65.948884,42.66023 Z"
+     inkscape:connector-curvature="0"
+     style="fill:#82bc23;stroke-width:0.98722106" /><path
+     id="Shape_12_"
+     sketch:type="MSShapeGroup"
+     class="st1"
+     d="m 83.817585,19.361816 c 2.171887,0 3.850162,1.776998 3.850162,3.948884 0,2.171886 -1.776998,3.948884 -3.850162,3.948884 -2.171886,0 -3.850162,-1.776998 -3.850162,-3.948884 -0.09872,-2.171886 1.678276,-3.948884 3.850162,-3.948884 z"
+     inkscape:connector-curvature="0"
+     style="fill:#82bc23;stroke-width:0.98722106" /><path
+     id="Shape_13_"
+     sketch:type="MSShapeGroup"
+     class="st1"
+     d="m 85.397139,38.81007 c 2.171886,0 3.850162,1.776998 3.850162,3.948885 0,2.171886 -1.776998,3.948884 -3.850162,3.948884 -2.171886,0 -3.850162,-1.776998 -3.850162,-3.948884 -0.09872,-2.171887 1.678276,-3.948885 3.850162,-3.948885 z"
+     inkscape:connector-curvature="0"
+     style="fill:#82bc23;stroke-width:0.98722106" /></g>
 </svg>

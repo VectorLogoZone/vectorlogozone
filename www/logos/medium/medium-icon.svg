@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="medium-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Wordmark_Black</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview13"
+     showgrid="false"
+     units="px"
+     width="120in"
+     inkscape:zoom="1.7842105"
+     inkscape:cx="9.893099"
+     inkscape:cy="46.783428"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Wordmark_Black</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <path
+     style="fill:#1c1b1a;fill-rule:nonzero;stroke:none;stroke-width:0.3692463"
+     d="M 29.578912,26.501176 32,28.838462 v 0.07754 H 19.719275 v -0.07754 l 2.464909,-2.337286 c 0.262878,-0.21632 0.388757,-0.559979 0.328654,-0.897253 V 10.660794 c 0,-0.6314 0,-1.484343 0.109557,-2.2154378 L 14.340299,29.215087 h -0.09859 L 5.6638189,10.106935 C 5.4775799,9.6306157 5.4228049,9.5973839 5.3022979,9.2761456 V 21.804447 c -0.102694,0.838502 0.03815,1.689102 0.405341,2.448059 l 3.450873,4.585956 v 0.07754 H 1e-7 v -0.07754 l 3.4508728,-4.597033 c 0.364485,-0.755878 0.505242,-1.602133 0.405341,-2.436982 V 7.9579599 c 0.05611,-0.681769 -0.147693,-1.3594324 -0.569668,-1.8941994 l -2.442999,-3.201308 v -0.07754 h 8.764122 L 16.947622,18.968687 23.411161,2.7849125 h 8.577885 v 0.07754 l -2.410134,2.713912 c -0.288807,0.213496 -0.433107,0.573972 -0.372475,0.930484 V 25.603923 c -0.06387,0.347424 0.0825,0.700013 0.372475,0.897253 z"
+     id="Shape"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccscccccccccccccccccccccccccc" />
+</svg>

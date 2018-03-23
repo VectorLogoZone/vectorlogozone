@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
 <svg
+   xmlns:sketch="http://www.bohemiancoding.com/sketch/ns"
    xmlns:dc="http://purl.org/dc/elements/1.1/"
    xmlns:cc="http://creativecommons.org/ns#"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
@@ -7,85 +10,159 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 120 60.000002"
+   xml:space="preserve"
+   sodipodi:docname="kik-ar21.svg"
    width="120"
    height="60"
-   viewBox="0 0 120 59.999998"
-   version="1.1"
-   id="svg3415"
-   inkscape:version="0.91 r13725"
-   sodipodi:docname="kik-ar21.svg">
-  <metadata
-     id="metadata3434">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>logo</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1855"
-     inkscape:window-height="1056"
-     id="namedview3432"
-     showgrid="false"
-     fit-margin-top="0"
-     fit-margin-left="0"
-     fit-margin-right="0"
-     fit-margin-bottom="0"
-     inkscape:zoom="10"
-     inkscape:cx="60"
-     inkscape:cy="30"
-     inkscape:window-x="65"
-     inkscape:window-y="24"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="svg3415" />
-  <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
-  <title
-     id="title3417">logo</title>
-  <desc
-     id="desc3419">Created with Sketch.</desc>
-  <defs
-     id="defs3421" />
-  <g
-     id="Symbols"
-     transform="matrix(0.94119463,0,0,0.94119463,20,9.8444836)"
-     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
-    <g
-       id="Purple-nav"
-       style="fill:#5dcd11">
-      <g
-         id="logo">
-        <g
-           id="g3426">
-          <path
-             d="m 80.102905,20.310077 c 2.704095,0 4.895455,2.188496 4.895455,4.888403 0,2.699908 -2.19136,4.888403 -4.895455,4.888403 -2.703874,0 -4.895013,-2.188495 -4.895013,-4.888403 0,-2.699907 2.191139,-4.888403 4.895013,-4.888403"
-             id="Fill-1"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 36.257037,42.664411 -0.0071,0 c -2.447838,0 -4.432111,-1.990996 -4.431225,-4.446083 l 0.0066,-22.169099 c 8.86e-4,-2.462862 1.997784,-4.455413 4.452931,-4.443416 l 0,0 c 2.438979,0.01177 4.409742,1.998326 4.409742,4.444527 l 4.43e-4,22.169099 c 0,2.454865 -1.984051,4.444972 -4.431447,4.444972"
-             id="Fill-3"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 17.842732,24.814777 5.598888,-5.52689 c 1.811072,-1.78772 1.771427,-4.729115 -0.08704,-6.467293 l 0,0 c -1.745735,-1.632874 -4.463341,-1.59955 -6.168766,0.07598 L 8.8870359,21.048947 8.8527059,4.5466991 C 8.8478333,2.1447079 6.9864838,0.09994967 4.5933517,0.01108577 2.0761888,-0.08244348 2.2148376e-4,1.9372107 2.2148376e-4,4.4476158 L 0,38.235891 c 0,2.440425 1.9723129,4.418757 4.405312,4.418757 l 0,0 c 2.4327776,0 4.4050905,-1.97811 4.405312,-4.418535 l 2.215e-4,-5.516671 2.2329995,-2.078082 7.547945,10.191134 c 1.451161,1.959449 4.204205,2.382663 6.173638,0.949067 l 0,0 c 1.996898,-1.453592 2.429899,-4.260802 0.964562,-6.251576 L 17.842732,24.814777 Z"
-             id="Fill-5"
-             inkscape:connector-curvature="0" />
-          <path
-             d="m 64.191045,24.814777 5.598888,-5.52689 c 1.811073,-1.78772 1.771427,-4.729115 -0.08704,-6.467293 l 0,0 c -1.745735,-1.632874 -4.463341,-1.59955 -6.168766,0.07598 L 55.235349,21.048947 55.201019,4.5466991 C 55.196147,2.1447079 53.334797,0.09994967 50.941665,0.01108577 48.424502,-0.08244348 46.348535,1.9372107 46.348535,4.4476158 l -2.22e-4,33.7882752 c 0,2.440425 1.972313,4.418757 4.405312,4.418757 l 0,0 c 2.432999,0 4.405091,-1.97811 4.405312,-4.418535 l 2.22e-4,-5.516671 2.232999,-2.078082 7.547945,10.191134 c 1.451162,1.959449 4.204205,2.382663 6.173639,0.949067 l 0,0 c 1.996897,-1.453592 2.429898,-4.260802 0.964561,-6.251576 L 64.191045,24.814777 Z"
-             id="Fill-8"
-             inkscape:connector-curvature="0" />
-        </g>
-      </g>
-    </g>
-  </g>
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata30"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Artbox</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs28" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview26"
+   showgrid="false"
+   inkscape:zoom="3.097113"
+   inkscape:cx="-1.2915254"
+   inkscape:cy="38.099998"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#3DB4E7;}
+	.st1{fill:#82BC23;}
+</style>
+<title
+   id="title4">Artbox</title>
+<desc
+   id="desc6">Created with Sketch.</desc>
+<g
+   id="Page-1"
+   sketch:type="MSPage"
+   transform="matrix(0.98722105,0,0,0.98722105,24.386878,-9.4650388)">
+	<g
+   id="Artbox"
+   sketch:type="MSArtboardGroup">
+		<g
+   id="Kik"
+   transform="translate(60,80)"
+   sketch:type="MSLayerGroup">
+			<path
+   id="Shape"
+   sketch:type="MSShapeGroup"
+   class="st0"
+   d="m 11.6,-42.5 c 2.4,0 4.4,1.9 4.4,4.3 0,2.4 -2,4.3 -4.4,4.3 -2.4,0 -4.4,-1.9 -4.4,-4.3 0,-2.3 2,-4.3 4.4,-4.3 z"
+   inkscape:connector-curvature="0"
+   style="fill:#3db4e7" />
+			<path
+   id="Shape_1_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -23.5,-27.1 h -7.9 v -19.7 h 7.9 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_2_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -27.4,-31.1 c 2.2,0 3.9,1.8 3.9,4 0,2.2 -1.7,4 -3.9,4 -2.2,0 -3.9,-1.8 -3.9,-4 0,-2.2 1.7,-4 3.9,-4 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_3_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -27.4,-50.8 c 2.2,0 3.9,1.8 3.9,4 0,2.2 -1.7,4 -3.9,4 -2.2,0 -3.9,-1.8 -3.9,-4 0,-2.2 1.7,-4 3.9,-4 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_4_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -55.8,-31 c 2.1,0 3.9,1.8 3.9,3.9 0,2.2 -1.7,3.9 -3.9,3.9 -2.1,0 -3.9,-1.8 -3.9,-3.9 0,-2.1 1.7,-3.9 3.9,-3.9 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_5_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -55.8,-61 c 2.1,0 3.9,1.8 3.9,4 0,2.2 -1.7,4 -3.9,4 -2.1,0 -3.9,-1.8 -3.9,-4 0,-2.2 1.8,-4 3.9,-4 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_6_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -59.8,-56.9 7.9,0.1 v 14.5 l 7.3,-7.1 5.8,5.4 -5.1,5.1 7.2,9.7 -6.4,4.6 -6.8,-9.1 -2,1.8 v 5.1 l -7.8,-0.3 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_7_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -41.6,-50.8 c 2.2,0 3.9,1.8 3.9,4 0,2.2 -1.8,4 -3.9,4 -2.2,0 -3.9,-1.8 -3.9,-4 -0.1,-2.2 1.7,-4 3.9,-4 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_8_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -40,-31.1 c 2.2,0 3.9,1.8 3.9,4 0,2.2 -1.8,4 -3.9,4 -2.1,0 -3.9,-1.8 -3.9,-4 -0.1,-2.2 1.7,-4 3.9,-4 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_9_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -14,-31 c 2.1,0 3.9,1.8 3.9,3.9 0,2.2 -1.7,3.9 -3.9,3.9 -2.1,0 -3.9,-1.8 -3.9,-3.9 0,-2.1 1.7,-3.9 3.9,-3.9 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_10_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -14,-61 c 2.1,0 3.9,1.8 3.9,4 0,2.2 -1.7,4 -3.9,4 -2.1,0 -3.9,-1.8 -3.9,-4 0,-2.2 1.7,-4 3.9,-4 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_11_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m -18,-56.9 7.9,0.1 v 14.5 l 7.3,-7.1 5.9,5.4 -5.2,5 7.2,9.7 -6.4,4.6 -6.8,-9.1 -2,1.8 v 5.1 l -7.8,-0.3 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_12_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m 0.2,-50.8 c 2.2,0 3.9,1.8 3.9,4 0,2.2 -1.8,4 -3.9,4 -2.2,0 -3.9,-1.8 -3.9,-4 -0.1,-2.2 1.7,-4 3.9,-4 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+			<path
+   id="Shape_13_"
+   sketch:type="MSShapeGroup"
+   class="st1"
+   d="m 1.8,-31.1 c 2.2,0 3.9,1.8 3.9,4 0,2.2 -1.8,4 -3.9,4 -2.2,0 -3.9,-1.8 -3.9,-4 -0.1,-2.2 1.7,-4 3.9,-4 z"
+   inkscape:connector-curvature="0"
+   style="fill:#82bc23" />
+		</g>
+	</g>
+</g>
 </svg>
