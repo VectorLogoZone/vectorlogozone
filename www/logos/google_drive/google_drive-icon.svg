@@ -13,12 +13,12 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   viewBox="0 0 32 32"
+   viewBox="0 0 64 64"
    enable-background="new 0 0 621 105"
    xml:space="preserve"
    sodipodi:docname="google_drive-icon.svg"
-   width="32"
-   height="32"
+   width="64"
+   height="64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata390"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
@@ -100,9 +100,9 @@
    inkscape:window-height="1001"
    id="namedview386"
    showgrid="false"
-   inkscape:zoom="2.8878904"
-   inkscape:cx="62.659326"
-   inkscape:cy="96.702078"
+   inkscape:zoom="5.7757808"
+   inkscape:cx="17.416687"
+   inkscape:cy="46.158798"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
    inkscape:window-maximized="1"
@@ -110,7 +110,7 @@
 
 <g
    id="g1640"
-   transform="matrix(0.23021584,0,0,0.23021584,28.754824,63.410206)"><path
+   transform="matrix(0.46043167,0,0,0.46043167,57.509647,126.82041)"><path
      id="path16-8"
      d="m -100.70376,-145.73807 -24.2,-41.9 45.3,-78.5 24.2,41.9 z"
      style="fill:#0da960"
