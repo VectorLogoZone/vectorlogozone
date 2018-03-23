@@ -7,13 +7,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 226.34667 225"
+   width="64"
+   height="64"
+   viewBox="0 0 452.69334 450"
    version="1.0"
    id="svg2"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="ietf-icon.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape">
   <metadata
@@ -51,19 +51,19 @@
      pagecolor="#ffffff"
      id="base"
      showgrid="false"
-     inkscape:zoom="2.8284271"
-     inkscape:cx="148.18369"
-     inkscape:cy="-21.290063"
+     inkscape:zoom="11.313708"
+     inkscape:cx="39.974778"
+     inkscape:cy="33.620766"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:current-layer="svg2"
      inkscape:window-maximized="1" />
   <g
      id="#ffffffff"
-     transform="translate(0,-905.38666)" />
+     transform="translate(0,-679.03999)" />
   <g
      id="g4625"
-     transform="matrix(0.40319935,0,0,0.40319935,-53.885532,51.748401)">
+     transform="matrix(0.80639871,0,0,0.80639871,-107.77107,103.4968)">
     <path
        d="m 322.26086,64.927263 h 0.14212 c 13.1161,13.113364 26.26499,26.196664 39.32916,39.361957 -5.86521,6.02646 -11.88894,11.90534 -17.81428,17.87714 -7.14429,7.14976 -14.29132,14.29406 -21.43835,21.43562 -0.18039,-0.19952 -0.40177,-0.31704 -0.66141,-0.3553 -1.50867,-1.32008 -2.85061,-2.82328 -4.29368,-4.21169 -11.47625,-11.48444 -22.96342,-22.95796 -34.43967,-34.4424 -0.32523,-0.23778 -0.0601,-0.55208 0.14486,-0.74886 10.23268,-10.180763 20.41891,-20.41345 30.62973,-30.613341 2.89434,-2.667495 5.61377,-5.526307 8.40152,-8.303126 z"
        id="path6"
