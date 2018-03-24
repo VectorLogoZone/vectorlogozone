@@ -16,20 +16,25 @@ redirect_from: /logos/missing.html
             <th>Name</th>
             <th>Icon</th>
             <th>Rectangle</th>
+            <th>Other</th>
         </tr>
     </thead>
     <tbody>
-{% for logopage in sorted_pages %}
-    {% if logopage.logohandle %}
-        {% capture logoar21 %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}
-        {% capture logoicon %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture %}
-        {% if logopage.images contains logoar21 and logopage.images contains logoicon %}
-        {% else %}{% assign logocount = logocount | plus:1 %}
+{%- for logopage in sorted_pages -%}
+    {%- if logopage.logohandle -%}
+        {%- capture logoar21 %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
+        {%- capture logoicon %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture -%}
+        {%- if logopage.images contains logoar21 and logopage.images contains logoicon -%}
+        {%- else %}{% assign logocount = logocount | plus:1 -%}
+            {%- assign othercount = logopage.images | size -%}
+            {%- if logopage.images contains logoar21 %}{% assign othercount = othercount | minus:1 %}{% endif -%}
+            {%- if logopage.images contains logoicon %}{% assign othercount = othercount | minus:1 %}{% endif -%}
         <tr>
             <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.logohandle}}</a></td>
             <td>{{logopage.title}}</td>
             <td>{% unless logopage.images contains logoicon %}MISSING{% endunless %}</td>
             <td>{% unless logopage.images contains logoar21 %}MISSING{% endunless %}</td>
+            <td style="text-align:center;">{% if othercount > 0 %}{{othercount}}{% endif %}</td>
         </tr>
         {% endif %}
     {% endif %}
