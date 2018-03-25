@@ -8,6 +8,7 @@ github: authy
 images:
 - authy-ar21.svg
 - authy-icon.svg
+- authy-tile.svg
 logohandle: authy
 skipped: 0
 sort: authy

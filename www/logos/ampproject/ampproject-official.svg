@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 256 256"
+   version="1.1"
+   id="svg3397"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="ampproject-official.svg">
+  <metadata
+     id="metadata3410">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>AMP-Brand-Blue-Icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     id="namedview3408"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="14.822581"
+     inkscape:cx="31"
+     inkscape:cy="31.000003"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3397" />
+  <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title3399">AMP-Brand-Blue-Icon</title>
+  <desc
+     id="desc3401">Created with Sketch.</desc>
+  <defs
+     id="defs3403" />
+  <g
+     id="amp-logo-internal-site"
+     transform="scale(4.1290323,4.1290323)"
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+    <g
+       id="AMP-Brand-Blue-Icon"
+       style="fill:#0379c4">
+      <path
+         d="m 41.628867,28.161433 -13.0045,21.642134 -2.356,0 2.329133,-14.1019 -7.2137,0.0093 c 0,0 -0.0682,0.0021 -0.100233,0.0021 -0.649967,0 -1.175934,-0.525966 -1.175934,-1.175933 0,-0.279 0.259367,-0.751233 0.259367,-0.751233 l 12.962133,-21.6163 2.395267,0.01033 -2.388033,14.1236 7.2509,-0.0093 c 0,0 0.0775,-0.001 0.1147,-0.001 0.649966,0 1.175933,0.525966 1.175933,1.175933 0,0.2635 -0.103333,0.494967 -0.250067,0.6913 l 10e-4,10e-4 z M 31,0 C 13.8787,0 0,13.879733 0,31 0,48.1213 13.8787,62 31,62 48.120267,62 62,48.1213 62,31 62,13.879733 48.120267,0 31,0 l 0,0 z"
+         id="Fill-1"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
