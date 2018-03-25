@@ -1,8 +1,12 @@
 ---
 facebook: https://www.facebook.com/zoho/
 github: zoho
+images:
+- zoho-icon.svg
+- zoho-ar21.svg
 linkedin: https://www.linkedin.com/company/zoho
 logohandle: zoho
+skipped: 0
 sort: zoho
 title: Zoho
 twitter: zoho

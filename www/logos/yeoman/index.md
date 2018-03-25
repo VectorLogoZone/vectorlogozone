@@ -3,9 +3,10 @@ blog: http://yeoman.io/blog/
 github: yeoman
 guide: https://github.com/yeoman/media
 images:
-- yeoman-ar21.svg
-- yeoman-icon.svg
 - yeoman-official.svg
+- yeoman-ar21.svg
+- yeoman-card.png
+- yeoman-icon.svg
 layout: default
 logohandle: yeoman
 skipped: 0

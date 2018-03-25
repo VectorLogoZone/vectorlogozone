@@ -7,6 +7,7 @@ font:
 github: StackExchange
 guide: https://stackoverflow.com/company/logos
 images:
+- stackoverflow-official.svg
 - stackoverflow-icon.svg
 - stackoverflow-ar21.svg
 - stackoverflow-tile.svg

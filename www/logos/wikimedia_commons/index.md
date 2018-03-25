@@ -3,6 +3,7 @@ images:
 - wikimedia_commons-icon.svg
 - wikimedia_commons-ar21.svg
 - wikimedia_commons-vertical.svg
+- wikimedia_commons-card.png
 layout: default
 logohandle: wikimedia_commons
 skipped: 1

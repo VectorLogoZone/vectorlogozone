@@ -1,6 +1,9 @@
 ---
 guide: https://www.r-project.org/logo/
+images:
+- r-project-official.svg
 logohandle: r-project
+skipped: 0
 sort: rlang
 tags:
 - programming_language

@@ -4,6 +4,7 @@ colors: '#0099ff'
 facebook: http://facebook.com/MyFonts
 images:
 - myfonts-tile.svg
+- myfonts-card.png
 - myfonts-ar21.svg
 - myfonts-icon.svg
 instagram: myfonts

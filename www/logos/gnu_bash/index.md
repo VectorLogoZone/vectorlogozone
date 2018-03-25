@@ -1,7 +1,7 @@
 ---
 font:
-  name: Roboto Mono
   google: https://fonts.google.com/specimen/Roboto+Mono
+  name: Roboto Mono
 guide: https://github.com/odb/official-bash-logo
 images:
 - gnu_bash-ar21.svg

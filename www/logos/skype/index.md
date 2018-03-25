@@ -6,6 +6,8 @@ font:
   url: https://www.linotype.com/1308945/helvetica-rounded-bold-product.html
 images:
 - skype-tile.svg
+- skype-ar21.svg
+- skype-icon.svg
 logohandle: skype
 skipped: 0
 sort: skype

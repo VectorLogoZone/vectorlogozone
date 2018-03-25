@@ -1,7 +1,10 @@
 ---
 blog: https://blogs.msdn.microsoft.com/typescript/
 github: Microsoft/TypeScript
+images:
+- typescriptlang-official.svg
 logohandle: typescriptlang
+skipped: 0
 sort: typescript
 tags:
 - microsoft

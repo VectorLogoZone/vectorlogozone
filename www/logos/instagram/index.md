@@ -6,11 +6,11 @@ font:
 github: instagram
 guide: https://en.instagram-brand.com/
 images:
-- instagram-ar21.svg
 - instagram-horizontal.svg
 - instagram-icon.svg
-- instagram-tile.svg
+- instagram-ar21.svg
 - instagram-wordmark.svg
+- instagram-tile.svg
 logohandle: instagram
 skipped: 0
 sort: instagram

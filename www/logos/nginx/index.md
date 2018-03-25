@@ -4,6 +4,7 @@ facebook: https://www.facebook.com/nginxinc
 github: nginx
 images:
 - nginx-ar21.svg
+- nginx-card.png
 - nginx-icon.svg
 logohandle: nginx
 skipped: 0

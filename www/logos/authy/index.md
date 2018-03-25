@@ -1,6 +1,8 @@
 ---
 blog: https://authy.com/blog/
-colors: ["#EC1C24", "#51575C"]
+colors:
+- '#EC1C24'
+- '#51575C'
 facebook: https://www.facebook.com/authysec
 github: authy
 images:

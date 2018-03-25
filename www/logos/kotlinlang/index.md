@@ -4,6 +4,7 @@ github: JetBrains/kotlin
 images:
 - kotlinlang-icon.svg
 - kotlinlang-ar21.svg
+- kotlinlang-card.png
 logohandle: kotlinlang
 skipped: 0
 sort: kotlin

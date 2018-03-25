@@ -2,7 +2,11 @@
 blog: https://corporate.comcast.com/press
 facebook: https://www.facebook.com/comcast
 github: comcast
+images:
+- comcast-icon.svg
+- comcast-ar21.svg
 logohandle: comcast
+skipped: 0
 sort: comcast
 title: comcast
 twitter: comcast

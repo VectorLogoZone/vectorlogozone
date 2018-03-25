@@ -1,5 +1,9 @@
 ---
+images:
+- microsoft_vb-ar21.svg
+- microsoft_vb-icon.svg
 logohandle: microsoft_vb
+skipped: 0
 sort: visualbasic
 tags:
 - microsoft

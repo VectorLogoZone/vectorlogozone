@@ -5,6 +5,7 @@ colors:
 facebook: https://www.facebook.com/Yammer
 guide: https://developer.yammer.com/docs/branding-guide
 images:
+- yammer-ar21.svg
 - yammer-icon.svg
 - yammer-tile.svg
 linkedin: https://www.linkedin.com/company/260901/

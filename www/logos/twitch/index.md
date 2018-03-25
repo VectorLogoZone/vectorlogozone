@@ -1,6 +1,7 @@
 ---
 blog: https://blog.twitch.tv/
-colors: ["#6441A4"]
+colors:
+- '#6441A4'
 facebook: https://facebook.com/twitch
 font:
   name: Dimitri Swank
@@ -8,13 +9,14 @@ font:
 github: twitchdev
 guide: https://www.twitch.tv/p/brand/
 images:
-- twitch-ar21.svg
-- twitch-horizontal.svg
-- twitch-icon.svg
 - twitch-official.svg
+- twitch-horizontal.svg
+- twitch-ar21.svg
 - twitch-tile.svg
+- twitch-icon.svg
 linkedin: https://www.linkedin.com/company/twitch-tv
 logohandle: twitch
+skipped: 0
 sort: twitch
 title: Twitch
 twitter: twitch

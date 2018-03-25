@@ -7,6 +7,7 @@ font:
 github: evernote
 guide: https://evernote.com/press
 images:
+- evernote-ar21.svg
 - evernote-icon.svg
 - evernote-tile.svg
 logohandle: evernote

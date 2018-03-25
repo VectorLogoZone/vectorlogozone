@@ -1,8 +1,11 @@
 ---
 blog: https://zagat.googleblog.com/
 facebook: https://www.facebook.com/zagat
+images:
+- zagat-official.svg
 linkedin: https://www.linkedin.com/company/167018/
 logohandle: zagat
+skipped: 0
 sort: zagat
 tags:
 - restaurants

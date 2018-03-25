@@ -6,6 +6,7 @@ images:
 - npmjs-tile.svg
 - npmjs-ar21.svg
 - npmjs-icon.svg
+- npmjs-card.png
 logohandle: npmjs
 skipped: 0
 sort: npmjs

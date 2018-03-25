@@ -6,10 +6,11 @@ font:
 - google: https://fonts.google.com/specimen/Open+Sans
 github: keybase
 images:
-- keybase-icon.svg
-- keybase-official.svg
 - keybase-tile.svg
+- keybase-official.svg
+- keybase-icon.svg
 logohandle: keybase
+skipped: 0
 sort: keybase
 title: Keybase
 website: https://keybase.io/

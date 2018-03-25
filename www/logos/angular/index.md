@@ -1,9 +1,12 @@
 ---
-colors: ["#E23237", "#B52E31"]
+colors:
+- '#E23237'
+- '#B52E31'
 github: angular/angular
 images:
 - angular-icon.svg
 - angular-ar21.svg
+- angular-card.png
 logohandle: angular
 skipped: 1
 sort: angular.js

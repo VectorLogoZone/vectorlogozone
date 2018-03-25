@@ -1,14 +1,16 @@
 ---
 blog: https://www.kik.com/news
-colors: ["#5DCD11" ]
+colors:
+- '#5DCD11'
 facebook: https://www.facebook.com/kikplaynice
 github: kikinteractive
 images:
-- kik-ar21.svg
 - kik-icon.svg
-- kik-official.svg
 - kik-tile.svg
+- kik-official.svg
+- kik-ar21.svg
 logohandle: kik
+skipped: 0
 sort: kik
 supertinyicon: '-'
 title: kik

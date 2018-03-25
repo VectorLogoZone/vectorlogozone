@@ -1,7 +1,11 @@
 ---
 blog: https://www.ietf.org/blog/
 github: ietf
+images:
+- ietf-ar21.svg
+- ietf-icon.svg
 logohandle: ietf
+skipped: 0
 sort: ietf
 title: IETF
 website: https://www.ietf.org/

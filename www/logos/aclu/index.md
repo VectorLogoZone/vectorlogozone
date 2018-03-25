@@ -1,6 +1,7 @@
 ---
 blog: https://www.aclu.org/blog
-colors: ["#EF404E"]
+colors:
+- '#EF404E'
 facebook: https://www.facebook.com/aclu
 images:
 - aclu-icon.svg

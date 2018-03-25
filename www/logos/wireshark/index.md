@@ -1,7 +1,11 @@
 ---
 blog: https://blog.wireshark.org/
 github: wireshark
+images:
+- wireshark-ar21.svg
+- wireshark-icon.svg
 logohandle: wireshark
+skipped: 0
 sort: wireshark
 title: Wireshark
 twitter: WiresharkNews

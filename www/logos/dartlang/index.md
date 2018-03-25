@@ -12,6 +12,8 @@ github: dart-lang
 guide: https://github.com/dart-lang/logos
 images:
 - dartlang-official.svg
+- dartlang-icon.svg
+- dartlang-ar21.svg
 logohandle: dartlang
 skipped: 0
 sort: dartlang

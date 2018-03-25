@@ -2,13 +2,17 @@
 blog: https://yahoo.tumblr.com/
 facebook: https://www.facebook.com/yahoo/
 font:
-  name: Optima
   myfonts: https://www.myfonts.com/fonts/linotype/optima/
+  name: Optima
   note: based on [Optima](https://fontsinuse.com/uses/4713/yahoo-logo-2013)
 github: yahoo
 guide: https://policies.yahoo.com/us/en/yahoo/permissions/branduseguidelines/index.htm
+images:
+- yahoo-icon.svg
+- yahoo-ar21.svg
 linkedin: https://www.linkedin.com/company/1288/
 logohandle: yahoo
+skipped: 0
 sort: yahoo
 title: Yahoo!
 tumblr: https://yahoo.tumblr.com/

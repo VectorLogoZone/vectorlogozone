@@ -4,6 +4,7 @@ github: webpack/webpack
 images:
 - js_webpack-icon.svg
 - js_webpack-ar21.svg
+- js_webpack-card.png
 logohandle: js_webpack
 skipped: 0
 sort: webpack

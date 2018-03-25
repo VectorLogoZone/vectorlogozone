@@ -5,6 +5,8 @@ github: https://github.com/tencent-wechat
 guide: https://wechat.design/
 images:
 - wechat-tile.svg
+- wechat-icon.svg
+- wechat-ar21.svg
 logohandle: wechat
 skipped: 0
 sort: wechat

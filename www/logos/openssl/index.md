@@ -2,7 +2,12 @@
 blog: https://www.openssl.org/blog/
 github: openssl/openssl
 guide: https://github.com/openssl/web/tree/master/img
+images:
+- openssl-icon.svg
+- openssl-original.svg
+- openssl-ar21.svg
 logohandle: openssl
+skipped: 0
 sort: openssl
 title: openssl
 website: https://www.openssl.org/

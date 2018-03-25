@@ -4,6 +4,8 @@ colors:
 github: gilbarbara/logos
 images:
 - svgporn-official.svg
+- svgporn-icon.svg
+- svgporn-ar21.svg
 logohandle: svgporn
 skipped: 0
 sort: svgporn

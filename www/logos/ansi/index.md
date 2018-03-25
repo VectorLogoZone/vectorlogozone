@@ -1,6 +1,7 @@
 ---
 blog: https://blog.ansi.org/
-colors: ["#1C74BB"]
+colors:
+- '#1C74BB'
 facebook: http://www.facebook.com/pages/ANSI-American-National-Standards-Institute/46446679081
 guide: https://www.ansi.org/about_ansi/ansi_logo_mark/ansilogo?menuid=1
 images:

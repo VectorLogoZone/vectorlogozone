@@ -1,7 +1,10 @@
 ---
 blog: https://signal.org/blog/
 github: signalapp
+images:
+- signal-official.svg
 logohandle: signal
+skipped: 0
 sort: signal
 tags:
 - messaging

@@ -1,10 +1,15 @@
 ---
 blog: https://blog.angel.co/
-colors: ["#000000"]
+colors:
+- '#000000'
 facebook: https://www.facebook.com/angellist/
 github: AngelList
+images:
+- angel-ar21.svg
+- angel-icon.svg
 linkedin: https://www.linkedin.com/company/angellist
 logohandle: angel
+skipped: 0
 sort: angellist
 title: AngelList
 twitter: angellist

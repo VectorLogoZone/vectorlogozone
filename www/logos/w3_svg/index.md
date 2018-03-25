@@ -1,17 +1,20 @@
 ---
-colors: ["#ffb13b", "#005a9c"]
+colors:
+- '#ffb13b'
+- '#005a9c'
 font:
-  name:
-  url:
-  myfonts:
+  myfonts: null
+  name: null
+  url: null
 guide: https://www.w3.org/2009/08/svg-logos.html
 images:
-- w3_svg-ar21.svg
 - w3_svg-icon.svg
 - w3_svg-official.svg
-- w3_svg-tile.svg
 - w3_svg-vertical.svg
+- w3_svg-tile.svg
+- w3_svg-ar21.svg
 logohandle: w3_svg
+skipped: 0
 sort: svg
 supertinyicon: '-'
 title: SVG

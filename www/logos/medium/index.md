@@ -5,6 +5,8 @@ github: medium
 guide: https://medium.design/logos-and-brand-guidelines-f1a01a733592
 images:
 - medium-tile.svg
+- medium-ar21.svg
+- medium-icon.svg
 logohandle: medium
 skipped: 0
 sort: medium

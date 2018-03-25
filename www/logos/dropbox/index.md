@@ -8,9 +8,9 @@ font:
 github: dropbox
 guide: https://www.dropbox.com/branding
 images:
+- dropbox-official.svg
 - dropbox-ar21.svg
 - dropbox-icon.svg
-- dropbox-official.svg
 - dropbox-tile.svg
 logohandle: dropbox
 skipped: 0

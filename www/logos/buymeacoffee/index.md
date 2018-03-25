@@ -1,11 +1,14 @@
 ---
 blog: https://blog.buymeacoffee.com/
-colors: [ "#FF813F", "#FFDD00" ]
+colors:
+- '#FF813F'
+- '#FFDD00'
 guide: https://www.buymeacoffee.com/brand
 images:
 - buymeacoffee-official.svg
 instagram: https://www.instagram.com/thebuymeacoffee/
 logohandle: buymeacoffee
+skipped: 0
 sort: buymeacoffee
 title: BuyMeACoffee
 twitter: TheBuyMeACoffee

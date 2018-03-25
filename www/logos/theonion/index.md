@@ -1,6 +1,10 @@
 ---
 facebook: https://facebook.com/theonion
+images:
+- theonion-icon.svg
+- theonion-ar21.svg
 logohandle: theonion
+skipped: 0
 sort: onion
 title: The Onion
 twitter: theonion

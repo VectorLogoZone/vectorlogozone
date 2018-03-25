@@ -1,11 +1,13 @@
 ---
 blog: https://azure.microsoft.com/en-us/blog/
-colors: ["#035BDA"]
+colors:
+- '#035BDA'
 facebook: https://www.facebook.com/microsoftazure
 github: Azure
 images:
 - microsoft_azure-icon.svg
 - microsoft_azure-ar21.svg
+- microsoft_azure-card.png
 logohandle: microsoft_azure
 skipped: 0
 sort: azure

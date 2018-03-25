@@ -1,7 +1,11 @@
 ---
 blog: http://www.scala-lang.org/blog/
 github: scala
+images:
+- scala-lang-ar21.svg
+- scala-lang-icon.svg
 logohandle: scala-lang
+skipped: 0
 sort: scala
 title: Scala
 twitter: scala_lang

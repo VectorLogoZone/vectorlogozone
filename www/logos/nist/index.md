@@ -1,7 +1,10 @@
 ---
 blog: https://www.nist.gov/news-events/
 facebook: https://www.facebook.com/USNISTGOV
+images:
+- nist-official.svg
 logohandle: nist
+skipped: 0
 sort: nist
 title: nist
 twitter: USNISTGOV

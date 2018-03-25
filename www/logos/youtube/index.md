@@ -11,6 +11,8 @@ font:
 github: youtube
 guide: https://www.youtube.com/yt/about/brand-resources/
 images:
+- youtube-icon.svg
+- youtube-ar21.svg
 - youtube-tile.svg
 linkedin: https://www.linkedin.com/company/16140/
 logohandle: youtube
