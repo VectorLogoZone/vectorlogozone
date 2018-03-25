@@ -39,6 +39,12 @@
   url: https://sleeklogos.design/
   enabled: true
 
+- id: logotypes101
+  name: logotypes101
+  search: http://www.logotypes101.com/search/{query}
+  url: http://www.logotypes101.com/
+  enabled: true
+
 - id: seeklogonet
   search: https://www.seeklogo.net/?s={query}
   url: https://www.seeklogo.net/
