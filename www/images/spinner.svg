@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="svg-zone-spinner" viewBox="0 0 50 50" width="100%" height="100%">
+	<g stroke="black" stroke-width="2" stroke-linecap="round">
+		<path opacity=".3" d="M29 18.071797 L33, 11.143594"/>
+		<path opacity=".3"  d="M31.928203 21 L38.856406 17" />
+		<path opacity=".3" d="M25 33 L25 41" />
+		<path opacity=".3" d="M31.928203 29 L38.856406 33, "/>
+		<path opacity=".3"  d="M29 31.928203 L33, 38.856406"/>
+		<path opacity=".3" d="M33 25 L41 25" />
+		<path opacity=".3"  d="M21 31.928203 L17, 38.856406"/>
+		<path opacity=".44"  d="M18.071797 29 L11.143594 33" />
+		<path opacity=".65" d="M17 25 L9 25" />
+		<path opacity=".86"  d="M18.071797 21 L11.143594 17, "/>
+		<path opacity=".93"  d="M21 18.071797 L17, 11.143594"/>
+		<path opacity="1.0" d="M25 17 L25 9" />
+		<animateTransform attributeType="xml"
+						  attributeName="transform"
+						  type="rotate"
+						  values="0 25 25; 30 25 25; 60 25 25; 90 25 25; 120 25 25; 150 25 25; 180 25 25; 210 25 25; 240 25 25; 270 25 25; 300 25 25; 330 25 25"
+						  calcMode="discrete"
+						  dur="1.0s"
+						  repeatCount="indefinite"/>
+	</g>
+</svg>
