@@ -3,25 +3,28 @@ layout: default
 title: Credits
 ---
 
-<p>These are the things that I used to make and run VectorLogoZone</p>
+<div class="row">
+<p>These are the people, services and tools behind VectorLogoZone</p>
+</div>
 
-<p></p>
+<div class="row logo-container">
+{% for credit in site.data.credits -%}
+{%- if credit.id -%}
+    <a href="{{ credit.url }}?utm_source=vectorlogozone&utm_medium=referrer"><img src="/logos/{{ credit.id }}/{{credit.id}}-ar21.svg" alt="" title="{{ credit.name }} - {{ credit.description }}" /></a>
+{% endif -%}
+{%- endfor -%}
+</div>
 
 <div class="row">
-	<table class="table table-striped">
-<!--		<thead>
-			<tr>
-				<th>Item</th>
-				<th>Description</th>
-			</tr>
-		</thead>-->
-		<tbody>	
-{% for credit in site.data.credits %}
-			<tr>
-				<td><a href="/logos/{{credit.id}}/index.html"><img src="/logos/{{ credit.id }}/{{credit.id}}-ar21.svg" alt=""></a></td>
-				<td><a href="{{ credit.url }}">{{ credit.name }}</a> - {{ credit.description }}</td>
-			</tr>
-{% endfor %}
-		</tbody>
-	</table>
+    <p>The following are, alas, missing their logos!</p>
+</div>
+
+<div class="row logo-container">
+    <ul>
+    {% for credit in site.data.credits -%}
+        {%- if credit.id -%}{% else -%}
+        <li><a href="{{ credit.url }}?utm_source=vectorlogozone&utm_medium=referrer">{{ credit.name }} - {{ credit.description }}</a></li>
+        {% endif -%}
+    {%- endfor -%}
+    </ul>
 </div>

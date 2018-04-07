@@ -3,6 +3,11 @@
   url: https://aws.amazon.com/
   id: amazon_aws
 
+- name: bash
+  description: scripting
+  url: https://www.gnu.org/software/bash/
+  id: gnu_bash
+
 - name: Bootstrap
   description: HTML/CSS Framework
   url: http://getbootstrap.com/
@@ -43,6 +48,16 @@
   url: https://www.github.com/
   id: github
 
+- name: Glitch
+  description: hosting for Color Analysis
+  url: https://glitch.com/
+  id: glitch
+
+- name: ImageMagick
+  description: Image manipulation
+  url: https://www.imagemagick.org/
+  id: imagemagick
+
 - name: Inkscape
   description: SVG Editor
   url: https://inkscape.org/
@@ -62,6 +77,28 @@
   description: Client-side search
   url: https://lunrjs.com/
   id: lunrjs
+
+- name: Noah Marcuse
+  description: Making logos!
+  url: https://noah.marcuse.ink/
+
+- name: Python
+  description: build-time scripts
+  url: https://www.python.org/
+  id: python
+
+- name: rsvg
+  description: build-time rasterization
+  url: https://wiki.gnome.org/Projects/LibRsvg
+
+- name: svgo
+  description: SVG optimization
+  url: https://www.github.com/svg/svgo
+
+- name: SVGPorn
+  description: Icon versions of various logos
+  url: https://svgporn.com/
+  id: svgporn
 
 - name: Travis CI
   description: Continuous integration and deployment
