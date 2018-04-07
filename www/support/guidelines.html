@@ -10,7 +10,7 @@ redirect_from:
 
 <h2>File/Directory naming guidelines</h2>
 
-<p>Use the base domain name without the top-level domain.  For example: Bootstrap's website is <code>www.getbootstrap.com</code>, so the 
+<p>Use the base domain name without the top-level domain.  For example: Bootstrap's website is <code>www.getbootstrap.com</code>, so the
 directory and logo handle should be <code>getbootstrap</code>.</p>
 
 <p>If the home page is a subdirectory or subdomain, put an underscore and then the subdirectory/subdomain.</p>
@@ -54,7 +54,7 @@ directory and logo handle should be <code>getbootstrap</code>.</p>
 	{% endif %}
 
 
-	<p><a href="/logos/visual.html#{{imagetype.id}}" style="btn btn-default btn-xs">View all</a></p>
+	<p><a href="/logos/index.html#{{imagetype.id}}" style="btn btn-default btn-xs">View all</a></p>
 	<hr/>
 {% endfor %}
 
@@ -72,75 +72,3 @@ directory and logo handle should be <code>getbootstrap</code>.</p>
 
 <p class="text-center"><a href="/util/preview.html?image=/template/64point.svg&amp;next=/{{page.path}}%23template"><img alt="template for horizontal and wordmark" src="/template/64point.svg" style="border:1px solid black" /></a></p>
 
-<h2>Metadata</h2>
-
-<p>Each directory needs to have an <code>index.md</code> file with front matter metadata.  The metadata is used by Jekyll when building indexes and lists.</p>
-
-<p>The following items need to be filled in:</p>
-
-<table class="table table-bordered table-striped">
-	<thead>
-		<tr>
-			<th>Key</th>
-			<th>Value</th>
-			<th>Details</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<td>facebook</td>
-			<td>url</td>
-			<td>Facebook page url</td>
-		</tr>
-		<tr>
-			<td>github</td>
-			<td>string</td>
-			<td>Github ID, <i>not</i> the url</td>
-		</tr>
-		<tr>
-			<td>images</td>
-			<td>list of images</td>
-			<td>This will be automatically filled in by <code>bin/frontmatter_update.py</code></td>
-		</tr>
-		<tr>
-			<td>logohandle</td>
-			<td>directory name</td>
-			<td>Just to make life easier in the Jekyll scripts.  It will be automatically filled in by <code>bin/frontmatter_update.py</code></td>
-		</tr>
-		<tr>
-			<td>skipped</td>
-			<td>integer</td>
-			<td>Number of images other than the standard ones.  If there are any, there will be a <code>more</code> link 
-			    to github to view them.</td>
-		</tr>
-		<tr>
-			<td>sort</td>
-			<td>string</td>
-			<td>Normally just the lowercase logohandle.  However, if the logohandle is not what people expect, you can override
-			    it.  It will be automatically populated by <code>frontmatter_update.py</code> but it will not overwrite.
-			</td>
-		</tr>
-		<tr>
-			<td>title</td>
-			<td>string</td>
-			<td>Title used on the page and in listings.  Required.</td>
-		</tr>
-		<tr>
-			<td>twitter</td>
-			<td>string</td>
-			<td>Twitter ID, <i>not</i> the url.</td>
-		</tr>
-		<tr>
-			<td>website</td>
-			<td>url</td>
-			<td>complete url, including http/https</td>
-		</tr>
-<!--
-		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
--->
-	</tbody>
-</table>
