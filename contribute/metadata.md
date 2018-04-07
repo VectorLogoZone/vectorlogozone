@@ -21,13 +21,13 @@ For example: Bootstrap's website is `www.getbootstrap.com`, but it should be sor
 
 ## Social media links
 
-Any social media websites that would have examples of the logos are optional but welcome.   The `max` template has most of them.
+Any social media websites that would have examples of the logos are optional but welcome.   The [max](metadata-max.txt) template has most of them.
 
 Unless the website has a very strict naming convention (very strict=100%), use the full URL.  Github, Google+ and Twitter are the only
 that I know of that can be just the id.
 
 ## Templates
 
-[metadata-max.txt](metadata-max.txt) - a sample file with all possible links
-[metadata-min.txt](metadata-min.txt) - a sample file with the bare minimum
+ * [metadata-max.txt](metadata-max.txt) - a sample file with all possible links
+ * [metadata-min.txt](metadata-min.txt) - a sample file with the bare minimum
 
