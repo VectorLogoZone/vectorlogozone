@@ -71,12 +71,32 @@
         vertical-align:text-bottom;
         width:18px;
     }
+    .copy2tip { display: none; }
 
 	</style>
 	<link rel="shortcut icon" href="/favicon.ico">
 	<script>if (window.top.location != window.location) { window.top.location.href = document.location.href; }</script>
 	<script src="/js/jquery-2.1.4.js"></script>
 	<script src="/js/bootstrap.js"></script>
+    {%- if page.images.size > 0 %}
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            if (ClipboardJS.isSupported()) {
+                var clipboard = new ClipboardJS('.copy2cb');
+                clipboard.on('success', function (e) {
+                    console.info('Trigger:', e.trigger);
+                    var tip = $(e.trigger).next().children().first();
+                    tip.show();
+                    window.setTimeout(function() { tip.hide(); }, 1000);
+                    e.clearSelection();
+                });
+            } else {
+                $(".copy2cb").hide();
+            }
+        });
+    </script>
+    {%- endif -%}
 {%- include nextprev.html -%}
 	{%- if prev_page %}
     <link rel="prev" href="{{prev_page}}" />

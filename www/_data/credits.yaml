@@ -18,6 +18,10 @@
   url: http://www.bootswatch.com/
   id: bootswatch
 
+- name: Clipboard.js
+  description: Copy to clipboard functionality
+  url: https://clipboardjs.com/
+
 - name: CloudFlare
   description: CDN
   url: https://www.cloudflare.com/
@@ -37,6 +41,10 @@
   description: Privacy violations
   url: http://www.google.com/analytics/
   id: google_analytics
+
+- name: Google Fonts
+  description: nice web fonts
+  url: https://fonts.google.com/
 
 - name: git
   description: Version control
