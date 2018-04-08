@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="-434 235 32 32"
+   xml:space="preserve"
+   sodipodi:docname="zagat-logo.svg"
+   width="32"
+   height="32"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs13" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview11"
+   showgrid="false"
+   inkscape:zoom="10.373626"
+   inkscape:cx="14.9074"
+   inkscape:cy="29.18355"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g8"
+   transform="matrix(0.35164835,0,0,0.35164835,-281.38462,152.36264)">
+  <polygon
+   points="-412,305.4 -365.6,305.4 -365.6,301.9 -406.2,301.9 -384.1,265.2 -409.1,265.2 -409.1,268.6 -390.4,268.6 -412,304.6 "
+   id="polygon2"
+   style="fill:#ffffff" />
+  <polygon
+   points="-386.7,290.9 -365,255 -365,254.2 -409.1,254.2 -409.1,257.7 -370.8,257.7 -393,294.4 -365.6,294.4 -365.6,290.9 "
+   id="polygon4"
+   style="fill:#ffffff" />
+  <path
+   d="m -388.5,235 c -25.1,0 -45.5,20.4 -45.5,45.5 0,25.1 20.4,45.5 45.5,45.5 25.1,0 45.5,-20.4 45.5,-45.5 0,-25.1 -20.4,-45.5 -45.5,-45.5 z m 22.9,70.4 H -412 v -0.8 l 21.7,-36 H -409 v -3.5 h 25 l -22.1,36.7 h 40.7 v 3.6 z m 0.6,-50.4 -21.7,36 h 21.1 v 3.5 H -393 l 22.1,-36.7 h -38.3 v -3.5 h 44.1 v 0.7 z"
+   id="path6"
+   inkscape:connector-curvature="0"
+   style="fill:#b70038" />
+</g>
+</svg>
