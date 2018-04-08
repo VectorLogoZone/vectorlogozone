@@ -18,6 +18,11 @@
   url: http://www.bootswatch.com/
   id: bootswatch
 
+- name: Buffer
+  description: Social media posting
+  url: https://www.buffer.com/
+  id: buffer
+
 - name: Clipboard.js
   description: Copy to clipboard functionality
   url: https://clipboardjs.com/
@@ -89,6 +94,7 @@
 - name: Noah Marcuse
   description: Making logos!
   url: https://noah.marcuse.ink/
+  id: marcuse_ink
 
 - name: Python
   description: build-time scripts
