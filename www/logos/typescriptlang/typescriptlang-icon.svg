@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   viewBox="0 0 32 32"
+   viewBox="0 0 64 64"
    id="svg6"
-   sodipodi:docname="typescript-icon.svg"
-   width="32"
-   height="32"
+   sodipodi:docname="typescriptlang-icon.svg"
+   width="64"
+   height="64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata12">
@@ -42,8 +42,8 @@
      id="namedview8"
      showgrid="false"
      inkscape:zoom="11.987302"
-     inkscape:cx="36.397601"
-     inkscape:cy="22.974408"
+     inkscape:cx="22.299349"
+     inkscape:cy="36.321865"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -72,7 +72,7 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 -->
   <g
-     transform="matrix(0.00507937,0,0,-0.00507937,-1.55e-5,32.000016)"
+     transform="matrix(0.01015873,0,0,-0.01015873,-1.55e-5,64.000016)"
      id="g4"
      style="fill:#007acc;stroke:none">
     <path

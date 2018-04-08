@@ -8,11 +8,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    enable-background="new 0 0 515.91 728.5"
-   height="32"
+   height="64"
    id="Layer_1"
    version="1.1"
-   viewBox="0 0 32.000002 32"
-   width="32"
+   viewBox="0 0 64.000004 64"
+   width="64"
    xml:space="preserve"
    sodipodi:docname="suse-icon.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
@@ -32,7 +32,7 @@
      id="namedview9"
      showgrid="false"
      inkscape:zoom="10.429825"
-     inkscape:cx="29.005092"
+     inkscape:cx="12.80156"
      inkscape:cy="17.46943"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -40,7 +40,7 @@
      inkscape:current-layer="Layer_1" /><defs
      id="defs7" /><g
      id="g6417"
-     transform="matrix(0.0625,0,0,0.0625,-20.209151,-8.783921)"><path
+     transform="matrix(0.12499999,0,0,0.12499999,-40.418307,-17.56786)"><path
        d="m -733.62329,72.267944 c 0,203.804876 -165.21649,369.021366 -369.02141,369.021366 -203.8048,0 -369.0213,-165.21649 -369.0213,-369.021366 0,-203.804874 165.2165,-369.021364 369.0213,-369.021364 203.80492,0 369.02141,165.21649 369.02141,369.021364 z"
        id="path5028"
        style="fill:#73ba25;fill-opacity:1;fill-rule:nonzero;stroke:none"

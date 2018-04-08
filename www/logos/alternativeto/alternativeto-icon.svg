@@ -9,11 +9,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
-   viewBox="0 0 32 32.000001"
+   viewBox="0 0 64 64.000002"
    version="1.1"
    sodipodi:docname="alternativeto-icon.svg"
-   width="32"
-   height="32"
+   width="64"
+   height="64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata111">
@@ -41,8 +41,8 @@
      id="namedview109"
      showgrid="false"
      inkscape:zoom="11.171999"
-     inkscape:cx="58.710359"
-     inkscape:cy="10.975899"
+     inkscape:cx="43.583254"
+     inkscape:cy="39.618938"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -310,27 +310,23 @@
        width="100%"
        height="100%" />
   </clipPath>
-  <path
-     inkscape:connector-curvature="0"
-     class="st11"
-     d="M -5,7 H 35.4 V 61.9 H -5 Z"
-     clip-path="url(#SVGID_24_)"
-     id="path98"
-     style="fill:#000000;fill-opacity:0"
-     transform="matrix(0.32904118,0,0,0.32904118,13.410205,-7.3941258)" />
-  <rect
-     style="opacity:0.98999999;fill:#4a87a8;fill-opacity:1;stroke:none;stroke-width:0.71432251;stroke-opacity:1"
-     id="rect1041"
-     width="32"
-     height="32"
-     x="0"
-     y="0" />
-  <path
-     inkscape:connector-curvature="0"
-     class="st11"
-     d="M -5,7 H 35.4 V 61.9 H -5 Z"
-     clip-path="url(#SVGID_24_)"
-     id="path98-2"
-     style="fill:#ffffff;fill-opacity:0.99215686"
-     transform="matrix(0.49886486,0,0,0.49886486,8.3923109,-1.1612535)" />
+  <g
+     id="g878"
+     transform="scale(2)">
+    <rect
+       y="0"
+       x="0"
+       height="32"
+       width="32"
+       id="rect1041"
+       style="opacity:0.98999999;fill:#4a87a8;fill-opacity:1;stroke:none;stroke-width:0.71432251;stroke-opacity:1" />
+    <path
+       transform="matrix(0.49886486,0,0,0.49886486,8.3923109,-1.1612535)"
+       style="fill:#ffffff;fill-opacity:0.99215686"
+       id="path98-2"
+       clip-path="url(#SVGID_24_)"
+       d="M -5,7 H 35.4 V 61.9 H -5 Z"
+       class="st11"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
