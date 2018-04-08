@@ -99,6 +99,10 @@
   description: build-time rasterization
   url: https://wiki.gnome.org/Projects/LibRsvg
 
+- name: SuperTinyIcons
+  description: tile versions
+  url: https://github.com/edent/SuperTinyIcons
+
 - name: svgo
   description: SVG optimization
   url: https://www.github.com/svg/svgo
