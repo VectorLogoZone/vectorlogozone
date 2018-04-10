@@ -108,6 +108,7 @@
 - name: SuperTinyIcons
   description: tile versions
   url: https://github.com/edent/SuperTinyIcons
+  id: supertinyicons
 
 - name: svgo
   description: SVG optimization
