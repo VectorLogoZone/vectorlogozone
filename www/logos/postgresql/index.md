@@ -18,6 +18,7 @@ sort: postgresql
 tags:
 - database
 title: PostgreSQL
+twitter: postgresql
 website: http://www.postgresql.org/
 wikipedia: https://en.wikipedia.org/wiki/PostgreSQL
 ---
