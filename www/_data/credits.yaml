@@ -26,6 +26,7 @@
 - name: Clipboard.js
   description: Copy to clipboard functionality
   url: https://clipboardjs.com/
+  id: clipboardjs
 
 - name: CloudFlare
   description: CDN
