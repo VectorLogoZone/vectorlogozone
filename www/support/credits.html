@@ -2,7 +2,6 @@
 layout: default
 title: Credits
 ---
-
 <div class="row">
 <p>These are the people, services and tools behind VectorLogoZone</p>
 </div>
@@ -10,7 +9,7 @@ title: Credits
 <div class="row logo-container">
 {% for credit in site.data.credits -%}
 {%- if credit.id -%}
-    <a href="{{ credit.url }}?utm_source=vectorlogozone&utm_medium=referrer"><img src="/logos/{{ credit.id }}/{{credit.id}}-ar21.svg" alt="" title="{{ credit.name }} - {{ credit.description }}" /></a>
+    <a href="{{ credit.url }}?utm_source=vectorlogozone&utm_medium=referrer"><img src="/logos/{{ credit.id }}/{{credit.id}}-ar21.svg" alt="{{ credit.name }}" title="{{ credit.name }} - {{ credit.description }}" /></a>
 {% endif -%}
 {%- endfor -%}
 </div>
