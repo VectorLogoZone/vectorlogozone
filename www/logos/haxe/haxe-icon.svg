@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32.000001"
+   enable-background="new 0 0 595.279 227.273"
+   xml:space="preserve"
+   sodipodi:docname="haxe-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata29"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs27">
+	
+
+		
+		
+	</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview25"
+   showgrid="false"
+   inkscape:zoom="4.555847"
+   inkscape:cx="54.521932"
+   inkscape:cy="31.297355"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="background"
+   transform="translate(0,-195.27299)">
+</g>
+<g
+   id="g3332_1_"
+   transform="matrix(0.08003181,0,0,0.08003181,-36.68282,-102.19034)">
+			<path
+   id="path24_1_"
+   d="m 658.269,1326.858 -112,-10.238 -87.916,-39.74 h 99.956 l 99.96,49.929"
+   inkscape:connector-curvature="0"
+   style="fill:#fbc712" />
+			<path
+   id="path26_1_"
+   d="m 658.269,1326.858 118.699,-13.748 81.225,-36.23 h -99.968 l -99.956,49.929"
+   inkscape:connector-curvature="0"
+   style="fill:#fbc712" />
+			<path
+   id="path28_1_"
+   d="m 658.269,1626.73 99.956,11.898 99.968,38.076 h -99.968 l -99.956,-50.031"
+   inkscape:connector-curvature="0"
+   style="fill:#f6871f" />
+			<path
+   id="path30_1_"
+   d="m 658.269,1626.73 -99.96,10.742 -99.956,39.232 h 99.956 l 99.96,-50.031"
+   inkscape:connector-curvature="0"
+   style="fill:#f15e22" />
+			<path
+   id="path32_1_"
+   d="m 508.331,1476.792 -14.753,117.361 -35.225,82.551 v -99.952 l 49.978,-100.017"
+   inkscape:connector-curvature="0"
+   style="fill:#fcee23" />
+			<path
+   id="path34_1_"
+   d="m 508.331,1476.792 -11.239,-107.477 -38.739,-92.435 v 99.956 l 49.978,99.899"
+   inkscape:connector-curvature="0"
+   style="fill:#fcee23" />
+			<path
+   id="path36_1_"
+   d="m 808.207,1476.792 14.424,-108.652 35.555,-91.26 v 99.956 l -49.978,99.899"
+   inkscape:connector-curvature="0"
+   style="fill:#f04923" />
+			<path
+   id="path38_1_"
+   d="m 808.207,1476.792 9.75,110.332 40.228,89.58 v -99.952 l -49.978,-100.017"
+   inkscape:connector-curvature="0"
+   style="fill:#f04923" />
+			<path
+   id="path16_1_"
+   d="m 458.353,1276.88 199.916,49.978 v 149.849 H 508.331 l -49.978,-199.725"
+   inkscape:connector-curvature="0"
+   style="fill:#f8b218" />
+			<path
+   id="path22_1_"
+   d="m 458.353,1676.704 49.978,-199.912 149.938,-0.085 v 149.91 l -199.916,49.885"
+   inkscape:connector-curvature="0"
+   style="fill:#f89d1c" />
+			<path
+   id="path18_1_"
+   d="m 858.194,1276.88 -49.986,199.908 -149.938,-0.081 v -149.861 l 199.924,-49.864"
+   inkscape:connector-curvature="0"
+   style="fill:#f37321" />
+			<path
+   id="path20_1_"
+   d="M 858.194,1676.704 658.27,1626.73 v -150.024 l 149.938,0.085 49.986,199.709"
+   inkscape:connector-curvature="0"
+   style="fill:#f15e22" />
+			<path
+   id="path14_1_"
+   d="M 658.269,1326.858 508.331,1476.792 658.269,1626.73 808.207,1476.788 658.269,1326.809"
+   inkscape:connector-curvature="0"
+   style="fill:#f6871f" />
+		</g>
+</svg>
