@@ -1,5 +1,8 @@
 ---
 github: svg/svgo
+images:
+- svgo-ar21.svg
+- svgo-icon.svg
 logohandle: svgo
 sort: svgo
 tags:
