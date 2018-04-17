@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="32"
+   width="32"
+   version="1.1"
+   viewBox="0 0 32 32"
+   id="svg20"
+   sodipodi:docname="lua-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Lua programming language logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs24" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="16.11953"
+     inkscape:cx="3.3236505"
+     inkscape:cy="17.521775"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <title
+     id="title2">Lua programming language logo</title>
+  <g
+     id="g841"
+     transform="matrix(0.03463805,0,0,0.03463805,-0.40386356,-0.39978317)">
+    <path
+       id="path4"
+       d="M 880.4,266.18 A 456.67,456.67 0 1 1 722.22,90.51"
+       inkscape:connector-curvature="0"
+       style="fill:none;stroke:#808080;stroke-width:10.59700012;stroke-dasharray:39.8522" />
+    <circle
+       id="circle6"
+       r="353.20999"
+       cx="473.5"
+       cy="473.5"
+       style="fill:#000080" />
+    <circle
+       id="circle8"
+       r="103.45"
+       cx="619.81"
+       cy="327.20001"
+       style="fill:#ffffff" />
+    <circle
+       id="circle10"
+       r="103.46"
+       cx="826.71997"
+       cy="120.29"
+       style="fill:#000080" />
+    <g
+       id="g18"
+       style="fill:#ffffff">
+      <path
+         id="path12"
+         d="M 377.82,650.11 V 624.043 H 263.38 v -205.68 h -29.564 v 231.75 h 144.01"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path14"
+         d="M 536.7,650.11 V 483.53 h -26.385 v 91.872 c 0,34.015 -17.802,56.267 -45.459,56.267 -20.981,0 -34.333,-12.716 -34.333,-32.743 v -115.4 h -26.385 v 125.89 c 0,27.657 20.663,45.459 53.089,45.459 24.478,0 40.055,-8.5832 55.632,-30.518 v 25.75 h 23.842"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path16"
+         d="m 730.5,649.47 v -20.027 c -2.861,0.63579 -4.1326,0.63579 -5.7221,0.63579 -9.219,0 -14.305,-4.7684 -14.305,-13.034 v -92.825 c 0,-29.564 -21.617,-45.459 -62.625,-45.459 -40.373,0 -65.169,15.577 -66.758,54.042 h 26.703 c 2.2253,-20.345 14.305,-29.564 39.101,-29.564 23.842,0 37.194,8.9011 37.194,24.796 v 6.9937 c 0,11.126 -6.6758,15.895 -27.657,18.438 -37.512,4.7684 -43.234,6.04 -53.406,10.173 -19.392,7.9474 -29.246,22.888 -29.246,43.234 0,30.2 20.981,48.002 54.678,48.002 21.299,0 41.962,-8.9011 56.585,-24.478 2.861,12.716 14.305,21.935 27.339,21.935 5.4042,0 9.5369,-0.63579 18.12,-2.8611 m -46.413,-56.903 c 0,23.842 -24.16,39.101 -49.91,39.101 -20.663,0 -32.743,-7.3116 -32.743,-25.432 0,-17.484 11.762,-25.114 40.055,-29.246 27.975,-3.8147 33.697,-5.0863 42.598,-9.219 v 24.796"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
