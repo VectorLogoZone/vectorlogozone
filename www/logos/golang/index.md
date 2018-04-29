@@ -1,5 +1,9 @@
 ---
-blog: https://golang.org/blog/
+blog: https://blog.golang.org/
+colors: ["#00ACD7", "#5DC9E2"]
+font:
+  name: Work Sans
+  google: https://fonts.google.com/specimen/Work+Sans
 images:
 - golang-horizontal.svg
 - golang-vertical.svg
@@ -17,4 +21,6 @@ wikipedia: https://en.wikipedia.org/wiki/Go_(programming_language)
 
 Gopher from the [keygx/Go-gopher-Vector](https://github.com/keygx/Go-gopher-Vector) github repository.
 
-Go text from
+Blog post announcing [the new branding](https://blog.golang.org/go-brand)
+
+More gopher images are available on the [golang doc](https://golang.org/doc/gopher/) website.
