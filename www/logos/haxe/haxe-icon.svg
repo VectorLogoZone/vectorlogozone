@@ -13,9 +13,9 @@
    id="Layer_1"
    x="0px"
    y="0px"
-   width="32"
-   height="32"
-   viewBox="0 0 32 32.000001"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64.000002"
    enable-background="new 0 0 595.279 227.273"
    xml:space="preserve"
    sodipodi:docname="haxe-icon.svg"
@@ -41,20 +41,20 @@
    inkscape:window-height="1001"
    id="namedview25"
    showgrid="false"
-   inkscape:zoom="4.555847"
-   inkscape:cx="54.521932"
-   inkscape:cy="31.297355"
+   inkscape:zoom="12.885881"
+   inkscape:cx="11.240157"
+   inkscape:cy="48.063256"
    inkscape:window-x="-9"
    inkscape:window-y="-9"
    inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1" />
 <g
    id="background"
-   transform="translate(0,-195.27299)">
+   transform="translate(0,-163.27299)">
 </g>
 <g
    id="g3332_1_"
-   transform="matrix(0.08003181,0,0,0.08003181,-36.68282,-102.19034)">
+   transform="matrix(0.16006363,0,0,0.16006363,-73.365646,-204.38069)">
 			<path
    id="path24_1_"
    d="m 658.269,1326.858 -112,-10.238 -87.916,-39.74 h 99.956 l 99.96,49.929"
