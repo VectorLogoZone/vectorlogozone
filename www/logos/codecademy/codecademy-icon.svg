@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
-   viewBox="0 0 6.5536 6.5578747"
+   width="64"
+   height="64"
+   viewBox="0 0 13.1072 13.115749"
    preserveAspectRatio="xMidYMid"
    version="1.1"
    id="svg8"
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,15 +43,15 @@
      id="namedview10"
      showgrid="false"
      inkscape:zoom="10.95648"
-     inkscape:cx="39.66781"
-     inkscape:cy="7.0854076"
+     inkscape:cx="24.243148"
+     inkscape:cy="29.655926"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg8" />
   <g
      id="g891"
-     transform="translate(-0.83900205,3.4441715)">
+     transform="matrix(1.9999999,0,0,1.9999999,-1.6780037,6.8883428)">
     <g
        transform="matrix(1.2405107,0,0,1.2405107,-0.20127486,-7.8002437)"
        id="g881">
