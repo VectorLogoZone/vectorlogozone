@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 32 32"
+   viewBox="0 0 64 64"
    version="1.1"
    id="svg200"
    sodipodi:docname="okfn-icon.svg"
-   width="32"
-   height="32"
+   width="64"
+   height="64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata204">
@@ -40,7 +40,7 @@
      id="namedview202"
      showgrid="false"
      inkscape:zoom="4.1000023"
-     inkscape:cx="46.338868"
+     inkscape:cx="5.1193789"
      inkscape:cy="43.803507"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -55,7 +55,7 @@
      id="title6">landscape-full-rgb</title>
   <g
      id="g2627"
-     transform="matrix(1.045403,0,0,1.045403,-4.3608343,-15.36209)">
+     transform="matrix(2.0908059,0,0,2.0908059,-8.890241,-30.724178)">
     <rect
        id="rect60"
        transform="rotate(-53.240001)"
@@ -140,7 +140,7 @@
     <polygon
        transform="matrix(0.12568407,0,0,0.12568407,4.3322645,14.683436)"
        id="polygon78"
-       points="39.16,57.1 67.51,76.54 63.12,83 34.77,63.56 "
+       points="67.51,76.54 63.12,83 34.77,63.56 39.16,57.1 "
        class="a"
        style="fill:#69b93b" />
     <rect
@@ -272,13 +272,13 @@
     <polygon
        transform="matrix(0.12568407,0,0,0.12568407,4.3322645,14.683436)"
        id="polygon108"
-       points="202.67,239.72 174.34,191.4 167.58,195.32 195.91,243.64 "
+       points="174.34,191.4 167.58,195.32 195.91,243.64 202.67,239.72 "
        class="a"
        style="fill:#69b93b" />
     <polygon
        transform="matrix(0.12568407,0,0,0.12568407,4.3322645,14.683436)"
        id="polygon110"
-       points="185.44,182.44 189.75,186.87 184.11,192.27 179.79,187.84 "
+       points="189.75,186.87 184.11,192.27 179.79,187.84 185.44,182.44 "
        class="a"
        style="fill:#69b93b" />
     <rect
@@ -425,7 +425,7 @@
     <polygon
        transform="matrix(0.12568407,0,0,0.12568407,4.3322645,14.683436)"
        id="polygon144"
-       points="104.44,83.39 116.35,100.42 113.16,102.67 101.25,85.65 "
+       points="116.35,100.42 113.16,102.67 101.25,85.65 104.44,83.39 "
        class="b"
        style="fill:#da2e29" />
     <rect
@@ -485,7 +485,7 @@
     <polygon
        transform="matrix(0.12568407,0,0,0.12568407,4.3322645,14.683436)"
        id="polygon158"
-       points="102.66,131.4 103.81,135.13 84.88,140.93 83.72,137.21 "
+       points="103.81,135.13 84.88,140.93 83.72,137.21 102.66,131.4 "
        class="b"
        style="fill:#da2e29" />
     <rect
@@ -581,7 +581,7 @@
     <polygon
        transform="matrix(0.12568407,0,0,0.12568407,4.3322645,14.683436)"
        id="polygon180"
-       points="150.39,144.29 164.34,160.64 161.37,163.17 147.41,146.82 "
+       points="164.34,160.64 161.37,163.17 147.41,146.82 150.39,144.29 "
        class="b"
        style="fill:#da2e29" />
     <rect
@@ -605,7 +605,7 @@
     <polygon
        transform="matrix(0.12568407,0,0,0.12568407,4.3322645,14.683436)"
        id="polygon186"
-       points="160.71,132.49 178.15,138.49 176.89,142.19 159.45,136.19 "
+       points="178.15,138.49 176.89,142.19 159.45,136.19 160.71,132.49 "
        class="b"
        style="fill:#da2e29" />
     <rect
