@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="32"
-   width="32"
+   height="64"
+   width="64"
    version="1.1"
-   viewBox="0 0 32 32"
+   viewBox="0 0 64 64"
    id="svg20"
    sodipodi:docname="lua-icon.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
@@ -41,9 +41,9 @@
      inkscape:window-height="1001"
      id="namedview22"
      showgrid="false"
-     inkscape:zoom="16.11953"
-     inkscape:cx="3.3236505"
-     inkscape:cy="17.521775"
+     inkscape:zoom="4.0298825"
+     inkscape:cx="18.164032"
+     inkscape:cy="9.6155912"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -52,7 +52,7 @@
      id="title2">Lua programming language logo</title>
   <g
      id="g841"
-     transform="matrix(0.03463805,0,0,0.03463805,-0.40386356,-0.39978317)">
+     transform="matrix(0.06927609,0,0,0.06927609,-0.80850758,-0.7995613)">
     <path
        id="path4"
        d="M 880.4,266.18 A 456.67,456.67 0 1 1 722.22,90.51"
