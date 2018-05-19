@@ -10,8 +10,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   width="32"
-   height="32"
+   width="64"
+   height="64"
    id="svg4300"
    sodipodi:docname="centos-icon.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
@@ -41,8 +41,8 @@
      id="namedview41"
      showgrid="false"
      inkscape:zoom="11.390649"
-     inkscape:cx="20.439562"
-     inkscape:cy="25.814225"
+     inkscape:cx="5.6028306"
+     inkscape:cy="39.860835"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
@@ -67,18 +67,18 @@
   <g
      id="g12812"
      clip-path="url(#clipPath4429)"
-     transform="matrix(0,-0.2190077,0.20424429,0,-514.08844,59.64428)" />
+     transform="matrix(0,-0.2190077,0.20424429,0,-514.08844,91.64428)" />
   <g
      id="g12778"
      clip-path="url(#clipPath4429)"
-     transform="matrix(0.21900682,0,0,0.20424511,-9.6440078,-584.0908)" />
+     transform="matrix(0.21900682,0,0,0.20424511,-9.6440078,-552.0908)" />
   <g
      id="g12800"
      clip-path="url(#clipPath4429)"
-     transform="matrix(-0.21900682,0,0,-0.20424511,129.64404,564.09075)" />
+     transform="matrix(-0.21900682,0,0,-0.20424511,129.64404,596.09075)" />
   <g
      id="g1127"
-     transform="matrix(0.97706855,0,0,0.97706855,-42.624113,-1.5872338)">
+     transform="matrix(1.9541315,0,0,1.9541315,-85.24798,-3.1743204)">
     <g
        transform="matrix(0,-0.21786138,0.20424429,0,-514.08844,87.253111)"
        id="g12806">
