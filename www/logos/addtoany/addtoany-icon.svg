@@ -45,33 +45,37 @@
      fit-margin-right="0"
      fit-margin-bottom="0"
      inkscape:zoom="12.631579"
-     inkscape:cx="38.42641"
-     inkscape:cy="15.813893"
+     inkscape:cx="25.047243"
+     inkscape:cy="22.147226"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg3441" />
   <g
-     id="g852"
-     transform="matrix(1.6682644,0,0,1.6682644,-19.145897,-35.43951)">
-    <path
-       style="fill:#0166ff;stroke-width:0.40624318"
-       inkscape:connector-curvature="0"
-       id="path3477"
-       d="m 30.657849,37.068276 c 0,1.85816 -1.498517,3.356677 -3.356678,3.356677 H 14.833513 c -1.858161,0 -3.356677,-1.498517 -3.356677,-3.356677 V 24.600018 c 0,-1.858161 1.498516,-3.356677 3.356677,-3.356677 h 12.467658 c 1.858161,0 3.356678,1.498516 3.356678,3.356677 z" />
-    <rect
-       style="fill:#ffffff;stroke-width:0.40624318"
-       id="rect3479"
-       height="9.5905066"
-       width="2.3976266"
-       y="26.038593"
-       x="19.868528" />
-    <rect
-       style="fill:#ffffff;stroke-width:0.40624318"
-       id="rect3481"
-       height="2.3976266"
-       width="9.5905066"
-       y="29.635035"
-       x="16.272089" />
+     id="g819"
+     transform="matrix(2,0,0,2,-4.9992342e-4,-63.999999)">
+    <g
+       transform="matrix(1.6682644,0,0,1.6682644,-19.145897,-3.43951)"
+       id="g852">
+      <path
+         d="m 30.657849,37.068276 c 0,1.85816 -1.498517,3.356677 -3.356678,3.356677 H 14.833513 c -1.858161,0 -3.356677,-1.498517 -3.356677,-3.356677 V 24.600018 c 0,-1.858161 1.498516,-3.356677 3.356677,-3.356677 h 12.467658 c 1.858161,0 3.356678,1.498516 3.356678,3.356677 z"
+         id="path3477"
+         inkscape:connector-curvature="0"
+         style="fill:#0166ff;stroke-width:0.40624318" />
+      <rect
+         x="19.868528"
+         y="26.038593"
+         width="2.3976266"
+         height="9.5905066"
+         id="rect3479"
+         style="fill:#ffffff;stroke-width:0.40624318" />
+      <rect
+         x="16.272089"
+         y="29.635035"
+         width="9.5905066"
+         height="2.3976266"
+         id="rect3481"
+         style="fill:#ffffff;stroke-width:0.40624318" />
+    </g>
   </g>
 </svg>
