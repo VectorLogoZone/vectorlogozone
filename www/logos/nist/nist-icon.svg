@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="32"
-   height="32"
+   width="64"
+   height="64"
    version="1"
    id="svg4"
    sodipodi:docname="nist-icon.svg"
@@ -41,7 +41,7 @@
      id="namedview6"
      showgrid="false"
      inkscape:zoom="5.296875"
-     inkscape:cx="73.48223"
+     inkscape:cx="41.576625"
      inkscape:cy="40.502466"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -49,7 +49,7 @@
      inkscape:current-layer="svg4" />
   <g
      id="g818"
-     transform="matrix(0.3502627,0,0,0.3502627,-1.36e-7,4.1742556)">
+     transform="matrix(0.70052539,0,0,0.70052539,1.8479999e-7,8.3485115)">
     <path
        id="path2"
        d="M 17.853,0.083 C 7.998,0.083 0,8.08 0,17.935 l 0.138,49.59 h 15.869 l -0.138,-32.99 v -16.6 c 0,-1.026 0.785,-1.882 1.785,-1.984 0.067,-0.007 0.13,0 0.199,0 0.547,0 1.041,0.224 1.4,0.583 l 41.634,45.677 c 3.343,3.353622 7.884769,5.236548 12.62,5.232 9.855,0 17.853,-7.998 17.853,-17.853 V 0 H 75.491 v 49.665 c -0.04186,1.065653 -0.917525,1.908212 -1.984,1.909 -0.525656,-2.81e-4 -1.029513,-0.210102 -1.4,-0.583 L 30.473,5.314 C 27.129835,1.960745 22.588087,0.07818667 17.853,0.083 Z"
