@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="60"
+   version="1.1"
+   viewBox="0 0 89.999998 44.999999"
+   id="svg16"
+   sodipodi:docname="yaml-ar21.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="2.2472737"
+     inkscape:cx="11.183536"
+     inkscape:cy="-2.7178819"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     units="px" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g14"
+     transform="matrix(0.21483035,0,0,0.21483035,12.234558,10.68433)"
+     style="stroke:#000000">
+    <polygon
+       points="1,1 25,1 49,37 73,1 97,1 25,109 1,109 37,55 "
+       id="polygon6" />
+    <polygon
+       points="103,109 127,109 127,1 103,1 31,109 55,109 103,37 "
+       id="polygon8" />
+    <polygon
+       points="180,37 156,1 132,1 132,109 156,109 156,37 180,73 204,37 204,109 228,109 228,1 198,1 "
+       id="polygon10" />
+    <polygon
+       points="258,85 258,1 234,1 234,109 318,109 302,85 "
+       id="polygon12" />
+  </g>
+</svg>
