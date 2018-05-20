@@ -7,10 +7,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   height="32"
-   width="32"
+   height="64"
+   width="64"
    version="1.1"
-   viewBox="0 0 29.999891 30.000165"
+   viewBox="0 0 59.999782 60.00033"
    id="svg11"
    sodipodi:docname="openshift-icon.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
@@ -42,7 +42,7 @@
      id="namedview13"
      showgrid="false"
      inkscape:zoom="8"
-     inkscape:cx="54.613664"
+     inkscape:cx="33.488664"
      inkscape:cy="17.256287"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -51,7 +51,7 @@
      units="px" />
   <g
      id="g870"
-     transform="matrix(1.55297,0,0,1.55297,-12.66515,-28.677439)">
+     transform="matrix(3.1059399,0,0,3.1059399,-25.330297,-57.354875)">
     <path
        id="path3985"
        d="m 13.765282,27.21015 -3.102092,1.128764 c 0.03976,0.497335 0.125417,0.988632 0.246018,1.469955 L 13.85563,28.735873 C 13.76009,28.23769 13.725996,27.724344 13.76527,27.21015"
