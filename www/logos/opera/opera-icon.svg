@@ -7,9 +7,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 32 32"
-   height="32"
-   width="32"
+   viewBox="0 0 64 64"
+   height="64"
+   width="64"
    xml:space="preserve"
    version="1.1"
    id="svg2"
@@ -35,7 +35,7 @@
      fit-margin-top="0.5"
      fit-margin-right="0.5"
      inkscape:zoom="3.4729872"
-     inkscape:cx="119.05669"
+     inkscape:cx="70.395411"
      inkscape:cy="25.156055"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -80,7 +80,7 @@
          style="stop-color:#ff4b4b;stop-opacity:1"
          id="stop20" /></linearGradient></defs><g
      id="g833"
-     transform="matrix(0.77427791,0,0,0.77427791,-2.7185623,-7.2283358)"><path
+     transform="matrix(1.5485558,0,0,1.5485558,-5.4371242,-14.456671)"><path
        inkscape:connector-curvature="0"
        style="fill:url(#gradiant1);stroke-width:0.11308679"
        id="path22"
