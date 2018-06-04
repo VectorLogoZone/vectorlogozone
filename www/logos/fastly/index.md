@@ -1,0 +1,12 @@
+---
+blog: https://www.fastly.com/blog
+facebook: https://www.facebook.com/FastlyCDN
+github: fastly
+linkedin: https://www.linkedin.com/company/fastly
+logohandle: fastly
+sort: fastly
+title: Fastly
+twitter: fastly
+website: https://www.fastly.com/
+wikipedia: https://en.wikipedia.org/wiki/Fastly
+---

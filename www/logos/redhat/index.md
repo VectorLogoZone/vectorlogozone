@@ -14,6 +14,6 @@ sort: redhat
 title: Red Hat
 twitter: redhatnews
 website: https://www.redhat.com/
-wikipedia: https://en.wikipedia.org/wiki/blah
+wikipedia: https://en.wikipedia.org/wiki/Red_Hat
 youtube: http://www.youtube.com/user/RedHatVideos
 ---

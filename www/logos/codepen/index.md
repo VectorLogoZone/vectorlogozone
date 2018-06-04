@@ -11,7 +11,6 @@ images:
 - codepen-tile.svg
 instagram: https://www.instagram.com/codepen/
 logohandle: codepen
-pinterest: https://www.pinterest.com/blah
 sort: codepen
 title: CodePen
 twitter: CodePen
