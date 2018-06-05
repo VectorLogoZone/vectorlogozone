@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="sap-performance"
+   viewBox="0 0 120 60.000003"
+   version="1.1"
+   sodipodi:docname="sap-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata67">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>sap-performance</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview65"
+     showgrid="false"
+     inkscape:zoom="4.8913336"
+     inkscape:cx="98.175025"
+     inkscape:cy="56.257666"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="sap-performance" />
+  <defs
+     id="defs13">
+    <style
+       id="style2">.cls-1{fill:#3cb5ec;}.cls-2{fill:#3ca8db;}.cls-3{fill:#1870c5;}.cls-4{fill:url(#linear-gradient);}.cls-5{fill:#fff;}</style>
+    <linearGradient
+       id="linear-gradient"
+       x1="258.48999"
+       y1="-670.71997"
+       x2="258.81"
+       y2="-670.71997"
+       gradientTransform="matrix(0,132.54134,132.54134,0,88940.17,-34242.501)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#00b8f1"
+         id="stop4" />
+      <stop
+         offset="0.22"
+         stop-color="#06a5e5"
+         id="stop6" />
+      <stop
+         offset="0.79"
+         stop-color="#1870c5"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#1d61bc"
+         id="stop10" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title15">sap-performance</title>
+  <g
+     id="g879"
+     transform="matrix(1.1216195,0,0,1.1216195,16.361645,-13.729055)">
+    <path
+       style="fill:url(#linear-gradient);stroke-width:0.25801313"
+       inkscape:connector-curvature="0"
+       d="M 0,17.974835 V 60.000013 H 42.928224 L 84.945661,17.979995 H 0 v 0 z"
+       class="cls-4"
+       id="path3060" />
+    <path
+       style="fill:#ffffff;stroke-width:0.25801313"
+       inkscape:connector-curvature="0"
+       d="m 51.816776,37.53223 h -1.790611 v -6.545793 h 1.793191 c 2.391782,0 4.295918,0.78694 4.295918,3.232905 0,2.525948 -1.904136,3.315468 -4.295918,3.315468 m -19.283901,4.685519 a 7.4410985,7.4410985 0 0 1 -2.605933,-0.459264 l 2.580132,-8.137734 h 0.05418 l 2.528529,8.160955 a 7.5959064,7.5959064 0 0 1 -2.55433,0.438623 M 51.344612,25.663626 H 43.204298 V 45.014611 L 36.096036,25.663626 h -7.043758 l -6.071049,16.174843 c -0.642453,-4.071447 -4.863547,-5.485359 -8.184176,-6.540633 -2.187952,-0.704375 -4.51781,-1.739008 -4.497169,-2.884586 0.01806,-0.936588 1.251364,-1.806092 3.681847,-1.677086 1.638384,0.08257 3.096158,0.214151 5.952363,1.602262 l 2.838144,-4.92289 C 20.153405,26.079028 16.525741,25.237905 13.55601,25.232744 h -0.02838 c -3.462536,0 -6.3471227,1.127518 -8.1377338,2.977472 a 6.8837902,6.8837902 0 0 0 -1.9479991,4.747441 c -0.046442,2.492407 0.8720843,4.262377 2.7942821,5.676289 1.6254827,1.192021 3.6999082,1.95832 5.5318018,2.533689 2.260195,0.694055 4.104988,1.305547 4.084347,2.605933 a 1.8860759,1.8860759 0 0 1 -0.536667,1.264264 c -0.562469,0.58053 -1.426813,0.802421 -2.623993,0.830802 -2.306638,0.04644 -4.0146846,-0.312196 -6.7393032,-1.922197 L 3.4393149,48.93383 a 18.773035,18.773035 0 0 0 9.2033281,2.448545 h 0.425722 c 2.853625,-0.05418 5.160262,-0.869505 7.002476,-2.3505 l 0.299295,-0.258013 -0.805001,2.175051 h 7.386916 l 1.241043,-3.774732 a 14.128799,14.128799 0 0 0 8.584097,0.03612 l 1.194601,3.741191 h 12.051793 v -7.802317 h 2.631733 c 6.352284,0 10.114115,-3.232905 10.114115,-8.658921 0,-6.040087 -3.656046,-8.811148 -11.429982,-8.811148"
+       class="cls-5"
+       id="path3100" />
+  </g>
+</svg>
