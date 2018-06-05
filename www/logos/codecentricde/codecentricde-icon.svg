@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   xml:space="preserve"
+   sodipodi:docname="codecentricde-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata28"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs26" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview24"
+   showgrid="false"
+   inkscape:zoom="4.4701016"
+   inkscape:cx="63.722125"
+   inkscape:cy="58.984176"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Ebene_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#536366;}
+	.st1{fill:url(#SVGID_1_);}
+</style>
+
+<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="28.113701"
+   y1="630.04388"
+   x2="205.9165"
+   y2="452.24109"
+   gradientTransform="matrix(0.05189665,0,0,0.05189665,15.471279,11.311888)">
+	<stop
+   offset="5.000000e-02"
+   style="stop-color:#06B0D4"
+   id="stop6" />
+	<stop
+   offset="0.2289"
+   style="stop-color:#4AB7CE"
+   id="stop8" />
+	<stop
+   offset="0.7435"
+   style="stop-color:#93CCB9"
+   id="stop10" />
+	<stop
+   offset="1"
+   style="stop-color:#A8D3AF"
+   id="stop12" />
+</linearGradient>
+
+
+
+<g
+   id="g848"
+   transform="matrix(5.2694583,0,0,5.2694583,-81.52092,-175.59431)"><path
+     style="fill:url(#SVGID_1_);stroke-width:0.05189665"
+     inkscape:connector-curvature="0"
+     id="path15"
+     d="m 21.947981,43.461863 c -0.103793,-0.103794 -0.269863,-0.114173 -0.394415,-0.03114 -0.565673,0.389225 -1.204002,0.555294 -1.780055,0.555294 -1.800813,0 -3.259109,-1.484244 -3.212402,-3.290248 0.04152,-1.754107 1.520571,-3.139747 3.274678,-3.139747 h 3.445938 c 0.326949,0 0.62276,0.238724 0.664277,0.560484 0.0519,0.394414 -0.259483,0.731742 -0.643519,0.731742 h -3.477075 c -0.939329,0 -1.743728,0.731743 -1.780055,1.671073 -0.03633,0.986036 0.757691,1.806003 1.738538,1.806003 h 3.456317 c 2.356107,0 4.33337,-1.86309 4.374887,-4.219198 0.04671,-2.413194 -1.904607,-4.390456 -4.302232,-4.390456 -0.731743,0 -1.660693,0.176448 -2.496229,0.794019 -0.1505,0.108983 -0.166069,0.332138 -0.03633,0.46188 l 0.358087,0.358087 c 0.103793,0.103793 0.269863,0.114172 0.394415,0.03114 0.565673,-0.389225 1.204002,-0.555295 1.780055,-0.555295 1.800814,0 3.259109,1.484245 3.212402,3.295438 -0.04152,1.754106 -1.520571,3.139747 -3.274678,3.139747 h -3.445938 c -0.326949,0 -0.62276,-0.233535 -0.664277,-0.560484 -0.0519,-0.394414 0.259483,-0.731743 0.643519,-0.731743 h 3.477075 c 0.93933,0 1.743728,-0.731742 1.780055,-1.671072 0.03633,-0.986036 -0.757691,-1.806003 -1.738538,-1.806003 h -3.456316 c -2.356108,-0.0052 -4.328181,1.8579 -4.374888,4.214008 -0.04671,2.413194 1.904607,4.390456 4.302232,4.390456 0.731743,0 1.660693,-0.176448 2.496229,-0.794018 0.1505,-0.108983 0.166069,-0.332139 0.03633,-0.46188 z"
+     class="st1" /></g>
+</svg>
