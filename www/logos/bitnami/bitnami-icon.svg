@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="-6.717 -2.153 64 64"
+   xml:space="preserve"
+   sodipodi:docname="bitnami-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata54"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs52" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview50"
+   showgrid="false"
+   inkscape:zoom="4.1130794"
+   inkscape:cx="69.85755"
+   inkscape:cy="40.756499"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{opacity:0.9;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#2A5D84;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#1A3B54;}
+	.st3{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st4{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_2_);}
+	.st5{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_3_);}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_4_);}
+	.st7{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_5_);}
+</style>
+
+<g
+   id="g47"
+   transform="matrix(0.58674123,0,0,0.58674123,-3.5447701,-2.1529864)">
+	<path
+   class="st1"
+   d="m 54.609,1.483 c 12.583,7.265 25.166,14.53 37.749,21.795 3.564,2.057 5.458,5.439 5.458,9.758 0,14.453 0,28.904 0,43.356 0,4.098 -1.855,7.321 -5.373,9.351 -12.56,7.252 -25.123,14.505 -37.684,21.757 -3.657,2.111 -7.615,2.102 -11.293,-0.023 C 30.934,100.243 18.404,93.007 5.874,85.773 2.896,84.053 0.448,80.594 0.448,76.225 c 0,-25.445 0,-19.669 0,-45.114 0,-3.963 1.869,-5.964 5.37,-7.985 l 15.055,-8.694 c 0,18.738 0,37.679 0,56.418 L 49.132,87.164 77.39,70.852 V 38.222 L 49.133,21.908 37.255,28.765 V 5.179 c 2.139,-1.234 4.276,-2.469 6.414,-3.703 3.335,-1.926 7.441,-2.012 10.94,0.007 z"
+   id="path8"
+   inkscape:connector-curvature="0"
+   style="clip-rule:evenodd;fill:#2a5d84;fill-rule:evenodd" />
+	<polygon
+   class="st2"
+   points="37.269,61.326 37.269,54.476 37.269,47.624 43.2,44.199 49.134,40.773 55.067,44.199 60.999,47.624 60.999,54.476 60.999,61.326 55.067,64.752 49.134,68.177 43.2,64.752 "
+   id="polygon10"
+   style="clip-rule:evenodd;fill:#1a3b54;fill-rule:evenodd" />
+	<linearGradient
+   id="SVGID_1_"
+   gradientUnits="userSpaceOnUse"
+   x1="41.016201"
+   y1="47.900299"
+   x2="131.946"
+   y2="47.900299">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   id="stop12" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop14" />
+	</linearGradient>
+	<polygon
+   class="st3"
+   points="37.693,47.868 49.133,54.538 60.575,47.868 49.134,41.263 "
+   id="polygon17"
+   style="clip-rule:evenodd;fill:url(#SVGID_1_);fill-rule:evenodd" />
+	<linearGradient
+   id="SVGID_2_"
+   gradientUnits="userSpaceOnUse"
+   x1="49.732498"
+   y1="64.314201"
+   x2="92.626503"
+   y2="9.5726995">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   id="stop19" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop21" />
+	</linearGradient>
+	<polygon
+   class="st4"
+   points="60.575,47.868 49.134,54.475 49.134,67.689 60.575,61.081 "
+   id="polygon24"
+   style="clip-rule:evenodd;fill:url(#SVGID_2_);fill-rule:evenodd" />
+	<linearGradient
+   id="SVGID_3_"
+   gradientUnits="userSpaceOnUse"
+   x1="44.8596"
+   y1="56.6063"
+   x2="-3.9848001"
+   y2="96.176804">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   id="stop26" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop28" />
+	</linearGradient>
+	<polygon
+   class="st5"
+   points="37.693,47.868 49.133,54.475 49.133,67.689 37.693,61.081 "
+   id="polygon31"
+   style="clip-rule:evenodd;fill:url(#SVGID_3_);fill-rule:evenodd" />
+	<linearGradient
+   id="SVGID_4_"
+   gradientUnits="userSpaceOnUse"
+   x1="44.188999"
+   y1="7.9282999"
+   x2="245.2468"
+   y2="180.39571">
+		<stop
+   offset="0"
+   style="stop-color:#FFFFFF;stop-opacity:0"
+   id="stop33" />
+		<stop
+   offset="1"
+   style="stop-color:#FFFFFF"
+   id="stop35" />
+	</linearGradient>
+	<path
+   class="st6"
+   d="M 37.68,5.424 V 28.03 l 11.452,-6.612 28.681,16.561 v 0.118 L 96.094,27.592 C 95.224,26.003 93.913,24.666 92.146,23.645 79.562,16.38 66.98,9.116 54.397,1.851 51.11,-0.048 47.166,-0.052 43.883,1.842 41.814,3.037 39.748,4.231 37.68,5.424 Z"
+   id="path38"
+   inkscape:connector-curvature="0"
+   style="clip-rule:evenodd;fill:url(#SVGID_4_);fill-rule:evenodd" />
+	<linearGradient
+   id="SVGID_5_"
+   gradientUnits="userSpaceOnUse"
+   x1="11.3118"
+   y1="16.1521"
+   x2="9.9649"
+   y2="88.551804">
+		<stop
+   offset="0"
+   style="stop-color:#1A3B54;stop-opacity:0"
+   id="stop40" />
+		<stop
+   offset="1"
+   style="stop-color:#1A3B54"
+   id="stop42" />
+	</linearGradient>
+	<path
+   class="st7"
+   d="m 20.452,71.06 v -0.207 c 0,-19.144 0.08,-37.279 0.08,-56.42 L 6.111,22.758 c -3.359,1.941 -5.238,4.53 -5.238,8.355 0,15.038 0,30.077 0,45.114 0,1.873 0.489,3.696 1.384,5.288 z"
+   id="path45"
+   inkscape:connector-curvature="0"
+   style="clip-rule:evenodd;fill:url(#SVGID_5_);fill-rule:evenodd" />
+</g>
+</svg>
