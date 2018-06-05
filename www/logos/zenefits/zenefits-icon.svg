@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Design"
+   viewBox="0 0 64 64.000002"
+   version="1.1"
+   sodipodi:docname="zenefits-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Zenefits Lockup2 Blue RGB</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="3.0092719"
+     inkscape:cx="117.22948"
+     inkscape:cy="51.064611"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Design" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#123466;}</style>
+  </defs>
+  <title
+     id="title6">Zenefits Lockup2 Blue RGB</title>
+  <g
+     id="g867"
+     transform="matrix(2.8969629,0,0,2.8969629,-48.210358,-55.515615)">
+    <path
+       style="fill:#123466;stroke-width:0.08059281"
+       inkscape:connector-curvature="0"
+       id="path24"
+       d="m 34.941094,22.807792 v 2.337192 l -14.506706,7.575724 v -2.317849 l 5.778505,-3.018201 -5.778505,-1.450671 v -2.122008 l 8.51866,2.140545 3.268039,-1.706956 L 20.434388,21.2862 V 19.163385 Z M 20.434388,37.610274 34.941094,41.255487 V 39.13509 l -11.786698,-2.96098 3.268038,-1.706956 8.51866,2.139739 v -2.120396 l -5.777698,-1.450671 5.777698,-3.018201 v -2.321879 l -14.506706,7.575725 z"
+       class="cls-1" />
+  </g>
+</svg>
