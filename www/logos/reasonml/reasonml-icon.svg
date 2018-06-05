@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg34"
+   sodipodi:docname="reasonml-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview36"
+     showgrid="false"
+     inkscape:zoom="3.3177744"
+     inkscape:cx="45.278836"
+     inkscape:cy="46.485265"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg34" />
+  <defs
+     id="defs18">
+    <path
+       id="b"
+       d="M 0,0 H 216 V 216 H 0 Z"
+       inkscape:connector-curvature="0" />
+    <filter
+       x="-0.0049999999"
+       y="-0.0049999999"
+       width="1.0090001"
+       height="1.0190001"
+       filterUnits="objectBoundingBox"
+       id="a">
+      <feOffset
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset3" />
+      <feComposite
+         in="shadowOffsetOuter1"
+         in2="SourceAlpha"
+         operator="out"
+         result="shadowOffsetOuter1"
+         id="feComposite5" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.02 0"
+         in="shadowOffsetOuter1"
+         id="feColorMatrix7" />
+    </filter>
+    <path
+       d="M 128.128,197 H 103.702 L 91.666,174.108 H 75.618 V 197 H 54.024 v -82.718 h 37.17 c 21.948,0 34.456,10.62 34.456,29.028 0,12.508 -5.192,21.712 -14.75,26.668 z m -52.51,-65.49 v 25.37 h 15.694 c 8.732,0 13.806,-4.484 13.806,-12.862 0,-8.142 -5.074,-12.508 -13.806,-12.508 z m 63.838,-17.228 h 65.254 v 17.228 h -43.66 v 15.458 h 39.412 v 17.11 l -39.412,0.118 v 15.576 h 44.84 V 197 h -66.434 z"
+       id="c"
+       inkscape:connector-curvature="0" />
+    <filter
+       x="-0.0069999998"
+       y="-0.012"
+       width="1.013"
+       height="1.024"
+       filterUnits="objectBoundingBox"
+       id="d">
+      <feOffset
+         dy="2"
+         in="SourceAlpha"
+         result="shadowOffsetInner1"
+         id="feOffset11" />
+      <feComposite
+         in="shadowOffsetInner1"
+         in2="SourceAlpha"
+         operator="arithmetic"
+         k2="-1"
+         k3="1"
+         result="shadowInnerInner1"
+         id="feComposite13"
+         k1="0"
+         k4="0" />
+      <feColorMatrix
+         values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.02 0"
+         in="shadowInnerInner1"
+         id="feColorMatrix15" />
+    </filter>
+  </defs>
+  <g
+     id="g872"
+     transform="matrix(1.5690478,0,0,1.5690478,-9.6594643,-15.071434)">
+    <use
+       transform="matrix(0.18531725,0,0,0.18531725,6.5565436,9.8056076)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="fill:#000000;fill-rule:evenodd;filter:url(#a)"
+       xlink:href="#b"
+       id="use20" />
+    <use
+       transform="matrix(0.18531725,0,0,0.18531725,6.5565436,9.8056076)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="fill:#dd4b39;fill-rule:evenodd"
+       xlink:href="#b"
+       id="use22" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#d74837;stroke-width:0.18531725"
+       inkscape:connector-curvature="0"
+       d="M 6.6492022,9.8982662 H 46.492411 V 49.741475 H 6.6492022 Z"
+       id="path24" />
+    <use
+       transform="matrix(0.18531725,0,0,0.18531725,6.5565436,9.8056076)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="fill:#ffffff;fill-rule:evenodd"
+       xlink:href="#c"
+       id="use28" />
+    <use
+       transform="matrix(0.18531725,0,0,0.18531725,6.5565436,9.8056076)"
+       height="100%"
+       width="100%"
+       y="0"
+       x="0"
+       style="fill:#000000;fill-rule:evenodd;filter:url(#d)"
+       xlink:href="#c"
+       id="use30" />
+  </g>
+</svg>
