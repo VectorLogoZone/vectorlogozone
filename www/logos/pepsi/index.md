@@ -2,10 +2,11 @@
 colors:
 - '#004b93'
 - '#c9002b'
-facebook: https://www.facebook.com/PepsiUS/?brand_redir=339150749455906
+facebook: https://www.facebook.com/PepsiUS/
 logohandle: pepsi
+sort: pepsi
 title: Pepsi
 twitter: pepsi
-website: https://www.pepsi.com/en-us/
+website: https://www.pepsi.com/
 wikipedia: https://en.wikipedia.org/wiki/Pepsi
 ---
