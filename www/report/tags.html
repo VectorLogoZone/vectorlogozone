@@ -1,0 +1,33 @@
+---
+title: Tag Report
+---
+{% assign sorted_pages = site.pages | sort:'sort' %}
+{% assign notagcount = 0 %}
+
+<table class="table table-striped table-bordered">
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Tags</th>
+    </tr>
+    </thead>
+    <tbody>
+    {%- for logopage in sorted_pages -%}
+    {%- if logopage.logohandle -%}
+    {%- capture logoar21 %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
+    {%- capture logoicon %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture -%}
+    {%- if logopage.tags -%}
+    {%- else %}{% assign notagcount = notagcount | plus:1 -%}
+{% endif -%}
+    <tr>
+        <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.logohandle}}</a></td>
+        <td>{{logopage.title}}</td>
+        <td>{% if logopage.tags %}{{ logopage.tags | sort | join: ', '  }}{% endif %}</td>
+    </tr>
+    {% endif %}
+    {% endfor %}
+    </tbody>
+</table>
+
+<p>{{ notagcount }} logos without tags</p>
