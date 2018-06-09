@@ -1,7 +1,7 @@
 ---
 blog: https://blogs.oracle.com/
 facebook: https://www.facebook.com/Oracle/
-googleplus: https://plus.google.com/115607918987921226255
+googleplus: https://plus.google.com/+oracle
 instagram: http://instagram.com/oracle
 linkedin: https://www.linkedin.com/company/oracle
 logohandle: oracle

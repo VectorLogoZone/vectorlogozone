@@ -2,7 +2,7 @@
 blog: https://blog.jetbrains.com/
 facebook: https://www.facebook.com/JetBrains
 github: JetBrains
-googleplus: jetbrains
+googleplus: https://plus.google.com/+jetbrains
 guide: https://www.jetbrains.com/company/brand/#section=images-logos
 images:
 - jetbrains-ar21.svg

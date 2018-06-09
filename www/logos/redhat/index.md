@@ -6,7 +6,7 @@ font:
   name: Interstate
   url: https://store.typenetwork.com/foundry/fontbureau/series/interstate
 github: redhat-developer
-googleplus: http://plus.google.com/113311940092135970473
+googleplus: https://plus.google.com/+RedHat
 guide: https://brand.redhat.com/
 linkedin: http://www.linkedin.com/company/red-hat
 logohandle: redhat

@@ -2,7 +2,7 @@
 blog: https://blog.edx.org/
 facebook: http://www.facebook.com/EdxOnline
 github: edx
-googleplus: edXOnline
+googleplus: https://plus.google.com/+edXOnline
 guide: https://www.edx.org/media-kit
 images:
 - edx-icon.svg

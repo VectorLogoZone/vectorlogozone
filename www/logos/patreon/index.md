@@ -2,7 +2,7 @@
 blog: https://blog.patreon.com/
 facebook: https://www.facebook.com/patreon
 github: patreon
-googleplus: Patreon
+googleplus: https://plus.google.com/+Patreon
 guide: https://www.patreon.com/brand/guidelines
 images:
 - patreon-ar21.svg

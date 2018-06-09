@@ -1,7 +1,7 @@
 ---
 blog: https://about.flipboard.com/blog/
 facebook: https://www.facebook.com/flipboard
-googleplus: https://plus.google.com/117621824418336664774/posts
+googleplus: https://plus.google.com/+Flipboard
 guide: https://about.flipboard.com/brand-guidelines/
 logohandle: flipboard
 sort: flipboard

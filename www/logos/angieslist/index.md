@@ -2,7 +2,7 @@
 blog: http://www.angiehicks.com/
 colors: '#29A036'
 facebook: http://www.facebook.com/angieslist
-googleplus: angieslist
+googleplus: https://plus.google.com/+angieslist
 guide: https://brandfolder.com/angieslist
 images:
 - angieslist-icon.svg

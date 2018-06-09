@@ -6,7 +6,7 @@ font:
   url: https://www.typography.com/fonts/gotham/overview/
   myfonts:
 github: suse
-googleplus: SUSE
+googleplus: https://plus.google.com/+SUSE
 guide: https://www.suse.com/brandcentral/suse/identity.php
 linkedin: https://www.linkedin.com/company/suse
 logohandle: suse

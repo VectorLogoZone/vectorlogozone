@@ -1,7 +1,7 @@
 ---
 blog: https://blog.alternativeto.net/
 facebook: https://www.facebook.com/AlternativeTo
-googleplus: alternativeto
+googleplus: https://plus.google.com/+alternativeto
 logohandle: alternativeto
 sort: alternativeto
 title: AlternativeTo

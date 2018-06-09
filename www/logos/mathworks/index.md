@@ -1,7 +1,7 @@
 ---
 blog: https://www.mathworks.com/company/newsroom.html
 facebook: http://www.facebook.com/MATLAB
-googleplus: https://plus.google.com/117177960465154322866?prsrc=3
+googleplus: https://plus.google.com/+matlab
 linkedin: http://www.linkedin.com/company/the-mathworks_2
 logohandle: mathworks
 sort: mathworks

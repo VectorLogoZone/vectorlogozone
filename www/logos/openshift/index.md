@@ -1,6 +1,6 @@
 ---
 facebook: https://facebook.com/openshift
-googleplus: OpenShift
+googleplus: https://plus.google.com/+OpenShift
 logohandle: openshift
 sort: openshift
 title: OpenShift

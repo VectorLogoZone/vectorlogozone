@@ -1,7 +1,7 @@
 ---
 colors: "#006666"
 facebook: https://www.facebook.com/slashdot
-googleplus: https://plus.google.com/112601993642376762846/
+googleplus: https://plus.google.com/+SlashdotOrg1
 logohandle: slashdot
 sort: slashdot
 title: Slashdot

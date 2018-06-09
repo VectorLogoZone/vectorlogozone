@@ -6,7 +6,7 @@ colors:
 - '#404041'
 facebook: https://www.facebook.com/Cloudflare/
 github: cloudflare
-googleplus: cloudflare
+googleplus: https://plus.google.com/+cloudflare
 guide: https://www.cloudflare.com/logo/
 images:
 - cloudflare-official.svg

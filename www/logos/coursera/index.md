@@ -2,7 +2,7 @@
 blog: http://blog.coursera.org/
 facebook: https://www.facebook.com/Coursera
 github: coursera
-googleplus: Coursera
+googleplus: https://plus.google.com/+Coursera
 linkedin: https://www.linkedin.com/company/coursera
 logohandle: coursera
 sort: coursera
