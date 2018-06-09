@@ -9,7 +9,7 @@ images:
 - myfonts-icon.svg
 instagram: https://www.instagram.com/myfonts
 logohandle: myfonts
-pinterest: myfonts
+pinterest: https://www.pinterest.com/myfonts
 skipped: 0
 sort: myfonts
 supertinyicon: '-'

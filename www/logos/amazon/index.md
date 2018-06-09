@@ -9,7 +9,7 @@ images:
 - amazon-ar21.svg
 layout: default
 logohandle: amazon
-pinterest: amazon
+pinterest: https://www.pinterest.com/amazon
 skipped: 0
 sort: amazon
 tags:
