@@ -7,7 +7,7 @@ font:
   url: https://www.linotype.com/5798/din-next.html
   myfonts: https://www.myfonts.com/fonts/linotype/din-next/
 github: Codecademy
-instagram: https://www.instagram.com/codecademy
+instagram: https://www.instagram.com/codecademy/
 logohandle: codecademy
 sort: codecademy
 title: Codecademy

@@ -1,7 +1,7 @@
 ---
 facebook: https://www.facebook.com/Ticketmaster
 googleplus: https://plus.google.com/115274411439372300072
-instagram: https://www.instagram.com/ticketmaster
+instagram: https://www.instagram.com/ticketmaster/
 linkedin: https://www.linkedin.com/company/ticketmaster
 logohandle: ticketmaster
 sort: ticketmaster

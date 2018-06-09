@@ -10,7 +10,7 @@ images:
 - tripadvisor-icon.svg
 - tripadvisor-card.png
 - tripadvisor-ar21.svg
-instagram: https://www.instagram.com/tripadvisor
+instagram: https://www.instagram.com/tripadvisor/
 linkedin: https://www.linkedin.com/company/15027/
 logohandle: tripadvisor
 pinterest: https://www.pinterest.com/tripadvisorus

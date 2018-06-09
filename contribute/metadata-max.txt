@@ -12,7 +12,7 @@ font:
 github: blah
 googleplus: blah
 guide: https://www.blah.com/official
-instagram: https://www.instagram.com/blah
+instagram: https://www.instagram.com/blah/
 linkedin: https://www.linkedin.com/blah/blah/
 logohandle: blah
 pinterest: https://www.pinterest.com/blah

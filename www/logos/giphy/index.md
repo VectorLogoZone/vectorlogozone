@@ -1,7 +1,7 @@
 ---
 blog: https://engineering.giphy.com/blog/
 facebook: http://www.facebook.com/GIPHY
-instagram: httpw://www.instagram.com/giphy
+instagram: httpw://www.instagram.com/giphy/
 logohandle: giphy
 sort: giphy
 title: GIPHY

@@ -8,7 +8,7 @@ googleplus: https://plus.google.com/+wufoot
 images:
 - wufoo-ar21.svg
 - wufoo-icon.svg
-instagram: https://www.instagram.com/wufoo
+instagram: https://www.instagram.com/wufoo/
 linkedin: https://www.linkedin.com/company-beta/3364692/
 logohandle: wufoo
 skipped: 1
