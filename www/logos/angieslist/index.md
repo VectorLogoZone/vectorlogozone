@@ -7,7 +7,7 @@ guide: https://brandfolder.com/angieslist
 images:
 - angieslist-icon.svg
 - angieslist-ar21.svg
-instagram: http://instagram.com/angieslist
+instagram: https://www.instagram.com/angieslist
 linkedin: https://www.linkedin.com/company/angie's-list
 logohandle: angieslist
 pinterest: https://www.pinterest.com/angieslist/

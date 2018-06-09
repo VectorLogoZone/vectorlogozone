@@ -7,7 +7,7 @@ images:
 - myfonts-card.png
 - myfonts-ar21.svg
 - myfonts-icon.svg
-instagram: myfonts
+instagram: https://www.instagram.com/myfonts
 logohandle: myfonts
 pinterest: myfonts
 skipped: 0

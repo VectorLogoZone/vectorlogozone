@@ -11,7 +11,7 @@ images:
 - netflix-icon.svg
 - netflix-official.svg
 - netflix-ar21.svg
-instagram: netflix
+instagram: https://www.instagram.com/netflix
 logohandle: netflix
 skipped: 0
 sort: netflix

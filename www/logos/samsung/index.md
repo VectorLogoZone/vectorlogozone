@@ -1,7 +1,7 @@
 ---
 facebook: https://www.facebook.com/SamsungUS
 googleplus: https://plus.google.com/+SamsungUSA
-instagram: https://instagram.com/samsungusa
+instagram: https://www.instagram.com/samsungusa
 logohandle: samsung
 sort: samsung
 title: Samsung

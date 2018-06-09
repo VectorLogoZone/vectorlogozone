@@ -1,6 +1,6 @@
 ---
 facebook: https://www.facebook.com/SAP
-instagram: https://instagram.com/sap/
+instagram: https://www.instagram.com/sap/
 linkedin: https://www.linkedin.com/company/sap
 logohandle: sap
 slideshare: http://www.slideshare.net/SAP

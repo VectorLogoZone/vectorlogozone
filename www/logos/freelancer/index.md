@@ -2,7 +2,7 @@
 blog: https://www.freelancer.com/about/media
 facebook: https://www.facebook.com/fansoffreelancer
 googleplus: https://plus.google.com/+Freelancer
-instagram: https://instagram.com/freelancerofficial
+instagram: https://www.instagram.com/freelancerofficial
 logohandle: freelancer
 sort: freelancer
 title: freelancer

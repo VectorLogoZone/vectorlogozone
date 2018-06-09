@@ -1,6 +1,6 @@
 ---
 facebook: https://www.facebook.com/pbs
-instagram: https://instagram.com/pbs/
+instagram: https://www.instagram.com/pbs/
 logohandle: pbs
 pinterest: https://www.pinterest.com/pbsofficial/
 sort: pbs

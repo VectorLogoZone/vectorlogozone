@@ -7,7 +7,7 @@ font:
   myfonts: https://www.myfonts.com/fonts/itc/avant-garde-gothic/
 github: paypal
 guide: https://issuu.com/lukaszkulakowski/docs/pp_masterbrandguidelines_v21_mm
-instagram: paypalde
+instagram: https://www.instagram.com/paypalde
 linkedin: https://www.linkedin.com/company/paypal
 logohandle: paypal
 sort: paypal

@@ -1,6 +1,6 @@
 ---
 facebook: https://www.facebook.com/greenpeaceusa
-instagram: https://instagram.com/greenpeaceusa/
+instagram: https://www.instagram.com/greenpeaceusa/
 logohandle: greenpeace
 sort: greenpeace
 title: Greenpeace
