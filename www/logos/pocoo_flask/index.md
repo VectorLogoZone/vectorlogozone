@@ -1,4 +1,5 @@
 ---
+favicon: 'http://flask.pocoo.org/static/favicon.ico'
 github: pallets/flask
 guide: http://flask.pocoo.org/community/logos/
 images:

@@ -1,11 +1,14 @@
 ---
 facebook: https://www.facebook.com/iTextPDF/
+favicon: 'https://itextpdf.com/sites/all/themes/itext/favicon.ico'
 github: itext
+googleplus: 'https://plus.google.com/+itext'
 images:
 - itextpdf-icon.svg
 - itextpdf-ar21.svg
-layout: default
+linkedin: 'https://linkedin.com/company-beta/281131'
 logohandle: itextpdf
+pinterest: 'https://pinterest.com/itext'
 skipped: 0
 sort: itext
 tags:
@@ -14,4 +17,6 @@ tags:
 title: iText
 twitter: iText
 website: http://itextpdf.com/
+wikipedia: https://en.wikipedia.org/wiki/IText
+youtube: https://www.youtube.com/channel/UC6kL1_Vm712V3XDM1_RSY8w
 ---

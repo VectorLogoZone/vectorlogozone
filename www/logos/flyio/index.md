@@ -1,6 +1,7 @@
 ---
 blog: https://fly.io/articles/
 facebook: https://www.facebook.com/flydotio
+favicon: 'https://fly.io/public/images/favicon.ico'
 github: superfly
 images:
 - flyio-icon.svg

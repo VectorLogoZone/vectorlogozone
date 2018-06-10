@@ -5,6 +5,7 @@ colors:
 - '#0075C9'
 - '#00A8E1'
 - '#00C4B3'
+favicon: 'https://www.dartlang.org/assets/shared/dart/icon/64.png'
 font:
   google: https://fonts.google.com/specimen/Montserrat
   name: Montserrat

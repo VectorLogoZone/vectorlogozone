@@ -22,7 +22,7 @@ noindex: true
             {% assign urlparts = logopage.website | split:"/" %}
         <tr>
             <td><img alt="icon of {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{iconfile}}" style="height: 64px; width: 64px;"/></td>
-            <td><img alt="favicon from {{urlparts[2]}}" src="{{urlparts[0]}}//{{urlparts[2]}}/favicon.ico" style="height: 64px; width: 64px;" /></td>
+            <td><a href="{{logopage.website}}"><img alt="favicon from {{urlparts[2]}}" src="{% if logopage.favicon %}{{logopage.favicon}}{% else %}{{urlparts[0]}}//{{urlparts[2]}}/favicon.ico{% endif %}" style="height: 64px; width: 64px;" /></a></td>
             <td><a href="{{ logopage.url }}{{site.indexpage}}">{{logopage.title}}</a></td>
         </tr>
         {% endif %}{% endif %}{% endfor %}
