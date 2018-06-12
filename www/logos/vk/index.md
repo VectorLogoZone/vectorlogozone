@@ -8,6 +8,6 @@ skipped: 0
 sort: vkontakte
 title: VKontakte
 twitter: vkontakte
-website: hhttps://vk.com/
+website: https://vk.com/
 wikipedia: https://en.wikipedia.org/wiki/VKontakte
 ---

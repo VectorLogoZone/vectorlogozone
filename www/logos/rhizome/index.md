@@ -6,6 +6,6 @@ logohandle: rhizome
 sort: rhizome
 title: Rhizome
 twitter: rhizome
-website: hhttps://rhizome.org/
+website: https://rhizome.org/
 wikipedia: https://en.wikipedia.org/wiki/Rhizome_(organization)
 ---

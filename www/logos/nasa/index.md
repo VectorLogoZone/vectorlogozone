@@ -13,6 +13,6 @@ skipped: 0
 sort: nasa
 title: NASA
 twitter: nasa
-website: hhttps://www.nasa.gov/
+website: https://www.nasa.gov/
 wikipedia: https://en.wikipedia.org/wiki/NASA
 ---

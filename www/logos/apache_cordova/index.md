@@ -11,7 +11,7 @@ tags:
 - programming_library
 - mobile
 title: Apache Cordova
-website: hhttps://cordova.apache.org/
+website: https://cordova.apache.org/
 wikipedia: https://en.wikipedia.org/wiki/Apache_Cordova
 ---
 

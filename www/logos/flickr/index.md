@@ -1,5 +1,5 @@
 ---
-blog: hhttps://blog.flickr.net/en
+blog: https://blog.flickr.net/en
 font:
   myfonts: https://www.myfonts.com/fonts/adobe/frutiger/
   name: Frutiger
