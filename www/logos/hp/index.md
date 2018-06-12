@@ -14,6 +14,6 @@ skipped: 0
 sort: hp
 title: Hewlett Packard
 twitter: HP
-website: http://www.hp.com/
+website: https://www.hp.com/
 wikipedia: https://en.wikipedia.org/wiki/Hewlett-Packard
 ---
