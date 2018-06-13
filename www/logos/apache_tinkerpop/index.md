@@ -1,7 +1,7 @@
 ---
 github: apache/tinkerpop
 logohandle: apache_tinkerpop
-sort: TinkerPop
+sort: tinkerpop
 title: TinkerPop
 twitter: apachetinkerpop
 website: 'http://tinkerpop.apache.org/'
