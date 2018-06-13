@@ -1,6 +1,6 @@
 <img alt="VLZ Logo" src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-tile.svg" height="96" >
 
-# Vector Logo Zone &middot; ![Travis CI build status](https://img.shields.io/travis/fileformat/vectorlogozone.svg?style=flat-square)
+# Vector Logo Zone &middot; [![Travis CI build status](https://img.shields.io/travis/fileformat/vectorlogozone.svg?style=flat-square)](https://travis-ci.org/fileformat/vectorlogozone)
 
 <!--
 ![Github watchers](https://img.shields.io/github/watchers/fileformat/vectorlogozone.svg?style=social)
