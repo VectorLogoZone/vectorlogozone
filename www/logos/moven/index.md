@@ -4,6 +4,7 @@ github: moven
 instagram: 'https://instagram.com/getmoven'
 logohandle: moven
 sort: moven
+title: Moven
 twitter: getmoven
 website: 'https://moven.com/'
 wikipedia: https://en.wikipedia.org/wiki/Movenbank
