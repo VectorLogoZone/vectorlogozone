@@ -1,6 +1,5 @@
 ---
 facebook: https://www.facebook.com/iTextPDF/
-favicon: 'https://itextpdf.com/sites/all/themes/itext/favicon.ico'
 github: itext
 googleplus: 'https://plus.google.com/+itext'
 images:

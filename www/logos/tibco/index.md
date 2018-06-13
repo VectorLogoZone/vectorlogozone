@@ -1,6 +1,5 @@
 ---
 facebook: 'https://facebook.com/TIBCO'
-favicon: 'https://www.tibco.com/sites/tibco/files/favicon_0.ico'
 linkedin: 'https://linkedin.com/company/tibco-software-inc-'
 logohandle: tibco
 sort: tibco

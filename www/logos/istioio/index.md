@@ -1,5 +1,4 @@
 ---
-favicon: 'https://istio.io/favicons/favicon.ico'
 github: istio/istio
 logohandle: istioio
 sort: istio

@@ -1,6 +1,5 @@
 ---
 blog: http://datahub.io/blog
-favicon: 'https://datahub.io/static/img/favicon.ico'
 github: datasets
 images:
 - datahub-ar21.svg

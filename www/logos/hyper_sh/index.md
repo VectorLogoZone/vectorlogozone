@@ -1,6 +1,5 @@
 ---
 blog: https://blog.hyper.sh/
-favicon: 'https://hyper.sh/assets/favicon.png'
 github: hyperhq
 guide: https://github.com/hyperhq/www.hyper.sh/tree/master/logo
 images:

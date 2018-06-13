@@ -1,7 +1,6 @@
 ---
 blog: https://zeit.co/blog
 facebook: 'https://facebook.com/zeithq'
-favicon: 'https://assets.zeit.co/image/upload/front/favicon/favicon.ico'
 github: zeit
 images:
 - zeit-ar21.svg

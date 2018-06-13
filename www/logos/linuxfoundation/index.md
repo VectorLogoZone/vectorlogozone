@@ -1,7 +1,6 @@
 ---
 blog: 'https://linuxfoundation.org/newsroom/blog'
 facebook: https://www.facebook.com/TheLinuxFoundation
-favicon: 'https://www.linuxfoundation.org/wp-content/uploads/2017/08/favicon.png'
 github: linuxfoundation
 googleplus: 'https://plus.google.com/+LinuxfoundationOrg'
 images:

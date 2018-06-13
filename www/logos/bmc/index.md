@@ -1,6 +1,5 @@
 ---
 facebook: 'https://facebook.com/bmcsoftware'
-favicon: 'http://www.bmc.com/etc/clientlibs/bmc/head/favicon.ico'
 linkedin: 'https://linkedin.com/company/1597'
 logohandle: bmc
 sort: bmc

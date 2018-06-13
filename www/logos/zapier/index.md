@@ -3,7 +3,6 @@ blog: https://zapier.com/blog/
 colors:
 - '#FF4A00'
 facebook: http://www.facebook.com/ZapierApp
-favicon: https://cdn.zapier.com/static/cd167e0513c7d77e3a3e5a14728be1b6b599126a/images/favicon.ico
 font:
   google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans

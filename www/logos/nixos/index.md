@@ -1,5 +1,4 @@
 ---
-favicon: 'https://nixos.org/favicon.png'
 github: NixOS/nixpkgs
 logohandle: nixos
 sort: nixos

@@ -1,5 +1,4 @@
 ---
-favicon: 'http://caolan.github.io/async/favicon.ico'
 github: caolan/async
 images:
 - asyncjs-icon.svg

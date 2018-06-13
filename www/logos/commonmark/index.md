@@ -1,5 +1,4 @@
 ---
-favicon: 'http://commonmark.org/images/markdown-mark-apple-touch.png'
 github: commonmark
 guide: https://github.com/dcurtis/markdown-mark
 images:

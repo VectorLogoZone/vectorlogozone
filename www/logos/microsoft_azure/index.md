@@ -3,7 +3,6 @@ blog: https://azure.microsoft.com/en-us/blog/
 colors:
 - '#035BDA'
 facebook: https://www.facebook.com/microsoftazure
-favicon: https://azurecomcdn.azureedge.net/cvt-90cdaf487716184e4034000935c605d1633926d348116d198f355a98b8c6cd21/images/icon/favicon.ico
 github: Azure
 images:
 - microsoft_azure-icon.svg

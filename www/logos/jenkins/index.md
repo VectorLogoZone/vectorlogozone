@@ -1,6 +1,5 @@
 ---
 blog: https://jenkins.io/node
-favicon: 'https://jenkins.io/sites/default/files/jenkins_favicon.ico'
 github: jenkinsci
 guide: https://wiki.jenkins-ci.org/display/JENKINS/Logo
 images:

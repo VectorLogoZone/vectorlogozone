@@ -1,5 +1,4 @@
 ---
-favicon: 'https://postmarketos.org/static/img/favicon.ico'
 github: postmarketOS
 logohandle: postmarketos
 sort: postmarketos

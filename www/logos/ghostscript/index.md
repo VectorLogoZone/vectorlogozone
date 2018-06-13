@@ -1,5 +1,4 @@
 ---
-favicon: 'https://ghostscript.com/images/favicon.png'
 images:
 - ghostscript-ar21.svg
 - ghostscript-icon.svg
