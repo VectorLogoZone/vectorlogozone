@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Mark_s_List"
+   data-name="Mark's List"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="tibco-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>SVG Icon</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="2.36"
+     inkscape:cx="43.660989"
+     inkscape:cy="50"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Mark_s_List" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#4a8cca;}</style>
+  </defs>
+  <title
+     id="title6">SVG Icon</title>
+  <g
+     id="g958"
+     transform="matrix(2.2925761,0,0,2.2925761,-201.09948,-30.459128)">
+    <path
+       inkscape:connector-curvature="0"
+       d="M 109.36757,15.222528 A 5.9135205,5.9135205 0 0 0 108.05525,14.590672 48.118235,48.118235 0 0 1 89.11578,33.692153 11.535415,11.535415 0 0 0 91.011347,36.60841 54.615007,54.615007 0 0 0 109.36757,15.222528"
+       id="path46-6"
+       style="fill:#4a8cca;fill-opacity:1;stroke-width:1.62014258" />
+    <path
+       inkscape:connector-curvature="0"
+       d="M 107.71502,14.444859 A 15.294146,15.294146 0 0 0 101.57468,13.326961 13.560594,13.560594 0 0 0 87.72246,27.243986 17.529943,17.529943 0 0 0 88.095094,31.03512 41.443248,41.443248 0 0 0 107.71502,14.444859"
+       id="path48-8"
+       style="fill:#4a8cca;fill-opacity:1;stroke-width:1.62014258" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 109.67539,15.481751 a 64.805704,64.805704 0 0 1 -16.20142,23.394859 14.581283,14.581283 0 0 0 8.23032,2.284401 13.592997,13.592997 0 0 0 13.91703,-14.046637 13.236565,13.236565 0 0 0 -5.94593,-11.632623"
+       id="path50-0"
+       style="fill:#4a8cca;fill-opacity:1;stroke-width:1.62014258" />
+  </g>
+</svg>
