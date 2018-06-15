@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Art"
+   x="0px"
+   y="0px"
+   width="64"
+   height="64"
+   viewBox="0 0 64.000005 64.000003"
+   enable-background="new 0 0 606.72 154.93"
+   xml:space="preserve"
+   sodipodi:docname="google_cloud-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata49"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs47">
+	<defs
+   id="defs3">
+		<rect
+   height="154.92999"
+   width="606.71997"
+   y="0.12"
+   x="0.12"
+   id="SVGID_1_" />
+	</defs>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   id="use5"
+   overflow="visible"
+   xlink:href="#SVGID_1_"
+   style="overflow:visible"
+   x="0"
+   y="0"
+   width="100%"
+   height="100%" />
+	</clipPath>
+	
+
+		
+		
+	
+			
+			
+			
+			
+			
+			
+		
+			<defs
+   id="defs9">
+				<rect
+   height="94.489998"
+   width="94.489998"
+   y="30.299999"
+   x="57.889999"
+   id="SVGID_3_" />
+			</defs>
+			<clipPath
+   id="SVGID_4_">
+				<use
+   height="100%"
+   width="100%"
+   y="0"
+   x="0"
+   style="overflow:visible"
+   id="use11"
+   overflow="visible"
+   xlink:href="#SVGID_3_" />
+			</clipPath>
+			
+		
+				
+				
+				
+				
+			</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1336"
+   inkscape:window-height="826"
+   id="namedview45"
+   showgrid="false"
+   inkscape:zoom="2.2349685"
+   inkscape:cx="100.97156"
+   inkscape:cy="31.598232"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Art" />
+<g
+   id="g948"
+   transform="matrix(2.2465412,0,0,2.2465412,36.402309,11.405746)"><path
+     style="fill:#ea4335;stroke-width:0.31457859"
+     inkscape:connector-curvature="0"
+     id="path14"
+     d="M 1.9254515,4.0426088 2.8377295,4.0583378 5.3166087,1.5794585 5.4361486,0.52876598 C 3.4668866,-1.2234368 0.87475905,-2.2898582 -1.9627398,-2.2898582 c -5.1370684,0 -9.4719612,3.4949682 -10.7554422,8.2293759 0.270538,-0.1887471 0.849362,-0.047187 0.849362,-0.047187 l 4.9546132,-0.8147585 c 0,0 0.2548086,-0.4215353 0.3837858,-0.396369 1.132483,-1.2394397 2.7620001,-2.0195946 4.570827,-2.0195946 1.46908197,0.00315 2.8217699,0.5222005 3.8850455,1.3810002 z" /><path
+     style="fill:#4285f4;stroke-width:0.31457859"
+     inkscape:connector-curvature="0"
+     id="path16"
+     d="M 8.7989937,5.9489551 C 8.2233149,3.8255496 7.0373536,1.9506612 5.4361486,0.52876598 L 1.9254515,4.039463 c 1.4061663,1.1356288 2.3090069,2.8721026 2.3090069,4.8161983 v 0.6197198 c 1.7081617,0 3.0954533,1.3904369 3.0954533,3.0954529 0,1.708162 -1.3904374,3.095454 -3.0954533,3.095454 h -6.1909067 l -0.6197198,0.622865 v 3.715173 l 0.6197198,0.616575 h 6.1909067 c 4.4387039,0 8.0500666,-3.611363 8.0500666,-8.050067 -0.0031,-2.7399791 -1.384146,-5.1685258 -3.4855313,-6.6218789 z" /><path
+     style="fill:#34a853;stroke-width:0.31457859"
+     inkscape:connector-curvature="0"
+     id="path18"
+     d="m -8.1536465,20.624046 h 6.1877609 v -4.954612 h -6.1877609 c -0.4561389,0 -0.8871116,-0.100666 -1.2740433,-0.27683 l -0.8934032,0.273684 -2.478879,2.478879 -0.217059,0.836779 c 1.352687,1.028672 3.0388287,1.6421 4.8633845,1.6421 z" /><path
+     style="fill:#fbbc05;stroke-width:0.31457859"
+     inkscape:connector-curvature="0"
+     id="path20"
+     d="m -8.1536465,4.5239141 c -4.4387035,0 -8.0500665,3.6113622 -8.0500665,8.0500659 0,2.614148 1.252023,4.938884 3.189827,6.411112 l 3.589342,-3.589342 c -1.075859,-0.487597 -1.824556,-1.566601 -1.824556,-2.82177 0,-1.708162 1.3904376,-3.0954531 3.0954535,-3.0954531 1.2551686,0 2.3341732,0.7518431 2.82177,1.8245561 L -1.7425348,7.713741 C -3.2147626,5.7759369 -5.5394984,4.5239141 -8.1536465,4.5239141 Z" /></g>
+</svg>
