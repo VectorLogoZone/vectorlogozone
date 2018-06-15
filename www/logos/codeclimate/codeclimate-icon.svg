@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 13.1072 13.116608"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="codeclimate-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1335"
+     inkscape:window-height="887"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="3.0682777"
+     inkscape:cx="82.845358"
+     inkscape:cy="9.7634423"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg10" />
+  <g
+     style="fill:#0b2734"
+     id="g6"
+     transform="matrix(0.12795567,0,0,0.12795567,-0.00470389,2.904146)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="m 68.625,0 -19.575,19.469 11.617,11.617 7.96,-7.96 22.372,22.48 11.51,-11.616 z M 45.5,23.018 33.99,11.51 4.518,40.982 0,45.499 11.617,57.116 16.134,52.491 31.086,37.647 33.99,34.743 45.5,46.253 56.363,57.116 67.98,45.499 57.116,34.635 45.499,23.018 Z" />
+  </g>
+</svg>
