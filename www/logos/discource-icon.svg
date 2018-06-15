@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64.000001"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="discource-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Discourse_logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1312"
+     inkscape:window-height="945"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="4.9879666"
+     inkscape:cx="55.362417"
+     inkscape:cy="9.0811677"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg39" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#231f20;}.cls-2{fill:#fff9ae;}.cls-3{fill:#00aeef;}.cls-4{fill:#00a94f;}.cls-5{fill:#f15d22;}.cls-6{fill:#e31b23;}</style>
+  </defs>
+  <title
+     id="title6">Discourse_logo</title>
+  <g
+     data-name="Layer 3"
+     id="Layer_3"
+     transform="matrix(0.61651093,0,0,0.61651093,0.29284287,1.7834999e-7)">
+    <path
+       style="fill:#231f20"
+       inkscape:connector-curvature="0"
+       id="path25"
+       d="M 51.87,0 C 23.71,0 0,22.83 0,51 c 0,0.91 0,52.81 0,52.81 l 51.86,-0.05 c 28.16,0 51,-23.71 51,-51.87 C 102.86,23.73 80,0 51.87,0 Z"
+       class="cls-1" />
+    <path
+       style="fill:#fff9ae"
+       inkscape:connector-curvature="0"
+       id="path27"
+       d="M 52.37,19.74 A 31.62,31.62 0 0 0 24.58,66.41 l -5.72,18.4 20.54,-4.64 a 31.61,31.61 0 1 0 13,-60.43 z"
+       class="cls-2" />
+    <path
+       style="fill:#00aeef"
+       inkscape:connector-curvature="0"
+       id="path29"
+       d="m 77.45,32.12 a 31.6,31.6 0 0 1 -38.05,48 l -20.54,4.7 20.91,-2.47 A 31.6,31.6 0 0 0 77.45,32.12 Z"
+       class="cls-3" />
+    <path
+       style="fill:#00a94f"
+       inkscape:connector-curvature="0"
+       id="path31"
+       d="M 71.63,26.29 A 31.6,31.6 0 0 1 38.8,78 L 18.86,84.82 39.4,80.17 A 31.6,31.6 0 0 0 71.63,26.29 Z"
+       class="cls-4" />
+    <path
+       style="fill:#f15d22"
+       inkscape:connector-curvature="0"
+       id="path33"
+       d="m 26.47,67.11 a 31.61,31.61 0 0 1 51,-35 31.61,31.61 0 0 0 -52.89,34.3 l -5.72,18.4 z"
+       class="cls-5" />
+    <path
+       style="fill:#e31b23"
+       inkscape:connector-curvature="0"
+       id="path35"
+       d="m 24.58,66.41 a 31.61,31.61 0 0 1 47.05,-40.12 31.61,31.61 0 0 0 -49,39.63 l -3.76,18.9 z"
+       class="cls-6" />
+  </g>
+</svg>
