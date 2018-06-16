@@ -9,11 +9,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="Layer_1"
    data-name="Layer 1"
-   viewBox="0 0 120 60"
+   viewBox="0 0 64 64"
    version="1.1"
-   sodipodi:docname="jetbrains-ar21.svg"
-   width="120"
-   height="60"
+   sodipodi:docname="jetbrains-icons.svg"
+   width="64"
+   height="64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata54">
@@ -138,7 +138,7 @@
      id="title32">logo-</title>
   <g
      id="g881"
-     transform="translate(-15.123591,-0.55943547)">
+     transform="matrix(1.1143318,0,0,1.1143318,-51.712607,-2.0533507)">
     <path
        style="fill:url(#linear-gradient);stroke-width:0.31908676"
        inkscape:connector-curvature="0"

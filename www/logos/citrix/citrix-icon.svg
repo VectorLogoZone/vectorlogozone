@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg38898"
+   viewBox="0 0 64 63.999999"
+   version="1.1"
+   sodipodi:docname="citrix-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata33">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo-citrix</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs31" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1334"
+     inkscape:window-height="817"
+     id="namedview29"
+     showgrid="false"
+     inkscape:zoom="3.0823785"
+     inkscape:cx="15.410177"
+     inkscape:cy="21.635"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg38898" />
+  <title
+     id="title2">logo-citrix</title>
+  <path
+     inkscape:connector-curvature="0"
+     id="path22-8"
+     d="M 59.48131,9.8249463 49.843409,25.310564 A 15.945854,15.945854 0 0 0 36.30703,17.919701 13.536379,13.536379 0 0 0 23.095526,31.94339 13.536379,13.536379 0 0 0 36.415321,45.858787 15.945854,15.945854 0 0 0 49.9517,38.467924 l 9.637902,15.593909 A 32,32 0 1 1 59.48131,9.8249463 Z"
+     style="stroke-width:2.70727587" />
+</svg>

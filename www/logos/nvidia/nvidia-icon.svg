@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 19.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="NVIDIA_Logo_V"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64.000001"
+   xml:space="preserve"
+   sodipodi:docname="nvidia-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata14"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>NVIDIA-Logo</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs12" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1324"
+   inkscape:window-height="839"
+   id="namedview10"
+   showgrid="false"
+   inkscape:zoom="2.7823945"
+   inkscape:cx="112.94356"
+   inkscape:cy="33.561668"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="NVIDIA_Logo_V" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#76B900;}
+</style>
+<title
+   id="title4">NVIDIA-Logo</title>
+
+
+<path
+   id="Eye_Mark"
+   class="st0"
+   d="m 23.86161,23.461178 v -3.815972 c 0.376886,-0.02355 0.753772,-0.04712 1.13066,-0.04712 10.458592,-0.329776 17.313211,8.998158 17.313211,8.998158 0,0 -7.396392,10.270152 -15.33456,10.270152 -1.059991,0 -2.096429,-0.164889 -3.085756,-0.494665 V 26.782483 c 4.075083,0.494663 4.899522,2.284873 7.325727,6.359956 l 5.441296,-4.569747 c 0,0 -3.980862,-5.205741 -10.670592,-5.205741 -0.706662,-0.02355 -1.413324,0.02355 -2.119986,0.09422 m 0,-12.625689 v 5.700405 c 0.376886,-0.02355 0.753772,-0.04712 1.13066,-0.07067 14.533676,-0.494662 24.026497,11.919027 24.026497,11.919027 0,0 -10.88259,13.238131 -22.212733,13.238131 -0.989327,0 -1.955099,-0.09423 -2.920869,-0.25911 v 3.53331 c 0.800885,0.09422 1.625322,0.164886 2.426205,0.164886 10.552816,0 18.184763,-5.394183 25.581156,-11.75414 1.22488,0.989327 6.24218,3.368422 7.278617,4.404859 -7.019507,5.888846 -23.390505,10.623481 -32.671329,10.623481 -0.895105,0 -1.743098,-0.04712 -2.591094,-0.141332 v 4.970188 H 64.000002 V 10.835488 Z m 0,27.536253 v 3.015089 C 14.109678,39.643725 11.400808,29.49135 11.400808,29.49135 c 0,0 4.687523,-5.182187 12.460802,-6.03018 v 3.297755 h -0.02355 c -4.075082,-0.494664 -7.278616,3.321311 -7.278616,3.321311 0,0 1.813766,6.43062 7.302172,8.291498 M 6.548397,29.067361 c 0,0 5.771071,-8.527052 17.336768,-9.422155 V 16.535894 C 11.071031,17.57233 -2e-6,28.40781 -2e-6,28.40781 c 0,0 6.265735,18.137653 23.861612,19.78653 V 44.896586 C 10.953254,43.294818 6.548397,29.067361 6.548397,29.067361 Z"
+   inkscape:connector-curvature="0"
+   style="fill:#76b900;stroke-width:0.23555392" />
+</svg>
