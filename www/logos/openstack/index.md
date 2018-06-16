@@ -2,8 +2,12 @@
 blog: https://www.openstack.org/blog/
 facebook: https://www.facebook.com/openstack
 github: openstack
+images:
+- openstack-icon.svg
+- openstack-ar21.svg
 linkedin: https://www.linkedin.com/groups/3239106
 logohandle: openstack
+skipped: 0
 sort: openstack
 title: OpenStack
 twitter: openstack

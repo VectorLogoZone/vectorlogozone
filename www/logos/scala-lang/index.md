@@ -2,6 +2,7 @@
 blog: http://www.scala-lang.org/blog/
 github: scala
 images:
+- scala-lang-card.png
 - scala-lang-ar21.svg
 - scala-lang-icon.svg
 logohandle: scala-lang

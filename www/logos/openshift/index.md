@@ -1,7 +1,11 @@
 ---
 facebook: https://facebook.com/openshift
 googleplus: https://plus.google.com/+OpenShift
+images:
+- openshift-icon.svg
+- openshift-ar21.svg
 logohandle: openshift
+skipped: 0
 sort: openshift
 title: OpenShift
 twitter: OpenShift

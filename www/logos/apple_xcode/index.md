@@ -1,6 +1,10 @@
 ---
+images:
+- apple_xcode-ar21.svg
+- apple_xcode-icon.svg
 layout: default
 logohandle: apple_xcode
+skipped: 0
 sort: xcode
 tags:
 - ide

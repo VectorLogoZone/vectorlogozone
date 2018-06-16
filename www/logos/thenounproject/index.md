@@ -3,11 +3,12 @@ blog: http://blog.thenounproject.com/
 facebook: https://www.facebook.com/thenounproject
 images:
 - thenounproject-icon.svg
+- thenounproject-official.svg
 - thenounproject-ar21.svg
 - thenounproject-wordmark.svg
 layout: default
 logohandle: thenounproject
-skipped: 1
+skipped: 0
 sort: noun project
 tags:
 - software

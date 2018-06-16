@@ -2,7 +2,12 @@
 font:
   name: Wolf Sans
   url: https://fonts2u.com/wolf-sans-regular.font
+images:
+- slideshare-ar21.svg
+- slideshare-tile.svg
+- slideshare-icon.svg
 logohandle: slideshare
+skipped: 0
 sort: slideshare
 tags:
 - presentation

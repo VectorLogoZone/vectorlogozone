@@ -1,9 +1,16 @@
 ---
-colors: [ "#1C3AA9", "#4285F4", "#ABABAB", "#A6A6A6" ]
+colors:
+- '#1C3AA9'
+- '#4285F4'
+- '#ABABAB'
+- '#A6A6A6'
 github: google/recaptcha
 images:
 - google_recaptcha-official.svg
+- google_recaptcha-icon.svg
+- google_recaptcha-ar21.svg
 logohandle: google_recaptcha
+skipped: 0
 sort: recaptcha
 title: reCAPTCHA
 website: https://www.google.com/recaptcha/intro/

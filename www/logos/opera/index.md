@@ -8,6 +8,7 @@ github: operasoftware
 guide: http://brand.opera.com/brandbook/identity-guidelines
 guide-alt: http://www.operasoftware.com/press/resources/opera-for-computers
 images:
+- opera-ar21.svg
 - opera-icon.svg
 logohandle: opera
 skipped: 0

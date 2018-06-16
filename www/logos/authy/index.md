@@ -9,7 +9,7 @@ images:
 - authy-ar21.svg
 - authy-icon.svg
 - authy-tile.svg
-linkedin: 'https://linkedin.com/company/authy'
+linkedin: https://linkedin.com/company/authy
 logohandle: authy
 skipped: 0
 sort: authy

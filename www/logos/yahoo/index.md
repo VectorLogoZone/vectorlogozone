@@ -9,6 +9,7 @@ github: yahoo
 guide: https://policies.yahoo.com/us/en/yahoo/permissions/branduseguidelines/index.htm
 images:
 - yahoo-icon.svg
+- yahoo-tile.svg
 - yahoo-ar21.svg
 linkedin: https://www.linkedin.com/company/1288/
 logohandle: yahoo

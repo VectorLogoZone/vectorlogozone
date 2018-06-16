@@ -1,7 +1,11 @@
 ---
 github: hashicorp/terraform
 guide: https://www.hashicorp.com/brand
+images:
+- terraformio-ar21.svg
+- terraformio-icon.svg
 logohandle: terraformio
+skipped: 0
 sort: terraform
 title: Terraform
 website: https://www.terraform.io/

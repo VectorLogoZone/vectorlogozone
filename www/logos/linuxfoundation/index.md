@@ -1,8 +1,8 @@
 ---
-blog: 'https://linuxfoundation.org/newsroom/blog'
+blog: https://linuxfoundation.org/newsroom/blog
 facebook: https://www.facebook.com/TheLinuxFoundation
 github: linuxfoundation
-googleplus: 'https://plus.google.com/+LinuxfoundationOrg'
+googleplus: https://plus.google.com/+LinuxfoundationOrg
 images:
 - linuxfoundation-icon.svg
 - linuxfoundation-ar21.svg

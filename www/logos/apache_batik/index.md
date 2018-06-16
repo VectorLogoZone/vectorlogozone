@@ -1,6 +1,10 @@
 ---
+images:
+- apache_batik-ar21.svg
+- apache_batik-icon.svg
 layout: default
 logohandle: apache_batik
+skipped: 0
 sort: batik
 tags:
 - java

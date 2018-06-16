@@ -1,8 +1,12 @@
 ---
 facebook: https://www.facebook.com/SamsungUS
 googleplus: https://plus.google.com/+SamsungUSA
+images:
+- samsung-ar21.svg
+- samsung-icon.svg
 instagram: https://www.instagram.com/samsungusa/
 logohandle: samsung
+skipped: 0
 sort: samsung
 title: Samsung
 twitter: SamsungUS

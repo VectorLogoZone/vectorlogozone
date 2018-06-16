@@ -2,7 +2,9 @@
 blog: https://www.nist.gov/news-events/
 facebook: https://www.facebook.com/USNISTGOV
 images:
+- nist-icon.svg
 - nist-official.svg
+- nist-ar21.svg
 logohandle: nist
 skipped: 0
 sort: nist

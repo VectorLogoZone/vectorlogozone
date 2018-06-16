@@ -8,7 +8,7 @@ images:
 - slack-tile.svg
 - slack-ar21.svg
 logohandle: slack
-skipped: 2
+skipped: 0
 sort: slack
 title: Slack
 twitter: slackhq

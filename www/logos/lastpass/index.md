@@ -6,9 +6,14 @@ facebook: https://www.facebook.com/LastPass
 github: lastpass
 googleplus: https://plus.google.com/+LastPass
 guide: https://lastpass.com/press-room/
+images:
+- lastpass-tile.svg
+- lastpass-icon.svg
+- lastpass-ar21.svg
 instagram: https://www.instagram.com/lastpassofficial/
 linkedin: https://www.linkedin.com/company/lastpass
 logohandle: lastpass
+skipped: 0
 sort: lastpass
 spiceworks: https://community.spiceworks.com/pages/lastpass
 title: LastPass

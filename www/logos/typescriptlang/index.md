@@ -2,6 +2,8 @@
 blog: https://blogs.msdn.microsoft.com/typescript/
 github: Microsoft/TypeScript
 images:
+- typescriptlang-icon.svg
+- typescriptlang-ar21.svg
 - typescriptlang-official.svg
 logohandle: typescriptlang
 skipped: 0

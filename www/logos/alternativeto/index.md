@@ -2,7 +2,11 @@
 blog: https://blog.alternativeto.net/
 facebook: https://www.facebook.com/AlternativeTo
 googleplus: https://plus.google.com/+alternativeto
+images:
+- alternativeto-icon.svg
+- alternativeto-ar21.svg
 logohandle: alternativeto
+skipped: 0
 sort: alternativeto
 title: AlternativeTo
 twitter: alternativeto

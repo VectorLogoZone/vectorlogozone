@@ -4,6 +4,7 @@ font:
   name: Roboto Mono
 guide: https://github.com/odb/official-bash-logo
 images:
+- gnu_bash-card.png
 - gnu_bash-ar21.svg
 - gnu_bash-icon.svg
 - gnu_bash-official.svg

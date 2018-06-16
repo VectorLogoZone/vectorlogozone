@@ -6,6 +6,7 @@ facebook: https://www.facebook.com/formbuilder
 github: wufoo
 googleplus: https://plus.google.com/+wufoot
 images:
+- wufoo-card.png
 - wufoo-ar21.svg
 - wufoo-icon.svg
 instagram: https://www.instagram.com/wufoo/

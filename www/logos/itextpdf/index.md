@@ -1,13 +1,13 @@
 ---
 facebook: https://www.facebook.com/iTextPDF/
 github: itext
-googleplus: 'https://plus.google.com/+itext'
+googleplus: https://plus.google.com/+itext
 images:
 - itextpdf-icon.svg
 - itextpdf-ar21.svg
-linkedin: 'https://linkedin.com/company-beta/281131'
+linkedin: https://linkedin.com/company-beta/281131
 logohandle: itextpdf
-pinterest: 'https://pinterest.com/itext'
+pinterest: https://pinterest.com/itext
 skipped: 0
 sort: itext
 tags:

@@ -2,8 +2,12 @@
 blog: https://www.braintreepayments.com/blog/
 facebook: http://www.facebook.com/braintree
 guide: https://www.braintreepayments.com/press
+images:
+- braintreepayments-ar21.svg
+- braintreepayments-icon.svg
 instagram: https://www.instagram.com/braintree/
 logohandle: braintreepayments
+skipped: 0
 sort: braintreepayments
 title: Braintree
 twitter: braintree

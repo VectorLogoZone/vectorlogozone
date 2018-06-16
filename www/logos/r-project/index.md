@@ -1,6 +1,8 @@
 ---
 guide: https://www.r-project.org/logo/
 images:
+- r-project-ar21.svg
+- r-project-icon.svg
 - r-project-official.svg
 logohandle: r-project
 skipped: 0

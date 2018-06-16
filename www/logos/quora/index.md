@@ -3,6 +3,7 @@ blog: https://blog.quora.com/
 facebook: https://www.facebook.com/quora
 github: quora
 images:
+- quora-card.png
 - quora-ar21.svg
 - quora-icon.svg
 layout: default

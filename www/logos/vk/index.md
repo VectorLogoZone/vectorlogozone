@@ -2,6 +2,8 @@
 github: VKCOM
 guide: https://vk.com/about
 images:
+- vk-ar21.svg
+- vk-icon.svg
 - vk-tile.svg
 logohandle: vk
 skipped: 0

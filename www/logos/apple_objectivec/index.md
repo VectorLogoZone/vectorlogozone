@@ -1,5 +1,9 @@
 ---
+images:
+- apple_objectivec-icon.svg
+- apple_objectivec-ar21.svg
 logohandle: objectivec
+skipped: 0
 sort: objectivec
 tags:
 - apple

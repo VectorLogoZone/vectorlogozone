@@ -3,12 +3,16 @@ blog: https://www.codecademy.com/blog
 dribbble: codecademy
 facebook: https://www.facebook.com/codecademy
 font:
+  myfonts: https://www.myfonts.com/fonts/linotype/din-next/
   name: DIN Next (customized)
   url: https://www.linotype.com/5798/din-next.html
-  myfonts: https://www.myfonts.com/fonts/linotype/din-next/
 github: Codecademy
+images:
+- codecademy-ar21.svg
+- codecademy-icon.svg
 instagram: https://www.instagram.com/codecademy/
 logohandle: codecademy
+skipped: 0
 sort: codecademy
 title: Codecademy
 twitter: codecademy

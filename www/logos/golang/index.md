@@ -1,14 +1,17 @@
 ---
 blog: https://blog.golang.org/
-colors: ["#00ACD7", "#5DC9E2"]
+colors:
+- '#00ACD7'
+- '#5DC9E2'
 font:
-  name: Work Sans
   google: https://fonts.google.com/specimen/Work+Sans
+  name: Work Sans
 images:
 - golang-horizontal.svg
 - golang-vertical.svg
 - golang-icon.svg
 - golang-ar21.svg
+- golang-official.svg
 logohandle: golang
 skipped: 3
 sort: go language

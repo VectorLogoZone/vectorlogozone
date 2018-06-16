@@ -1,7 +1,11 @@
 ---
 facebook: https://www.facebook.com/CraigslistCommunity
+images:
+- craigslist-icon.svg
+- craigslist-ar21.svg
 linkedin: https://www.linkedin.com/company/craigslist
 logohandle: craigslist
+skipped: 0
 sort: craigslist
 title: craigslist
 twitter: craigslist

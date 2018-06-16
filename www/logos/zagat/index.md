@@ -3,6 +3,8 @@ blog: https://zagat.googleblog.com/
 facebook: https://www.facebook.com/zagat
 images:
 - zagat-official.svg
+- zagat-icon.svg
+- zagat-ar21.svg
 linkedin: https://www.linkedin.com/company/167018/
 logohandle: zagat
 skipped: 0

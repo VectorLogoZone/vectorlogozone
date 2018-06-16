@@ -1,7 +1,12 @@
 ---
 blog: http://leafletjs.com/blog.html
 github: Leaflet
+images:
+- leafletjs-ar21.svg
+- leafletjs-icon.svg
+- leafletjs-card.png
 logohandle: leafletjs
+skipped: 0
 sort: leaflet
 title: Leaflet
 twitter: LeafletJS

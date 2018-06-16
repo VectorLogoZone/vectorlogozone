@@ -3,6 +3,8 @@ blog: https://www.lua.org/news.html
 github: lua
 guide: https://www.lua.org/images/
 images:
+- lua-icon.svg
+- lua-ar21.svg
 - lua-official.svg
 logohandle: lua
 skipped: 0

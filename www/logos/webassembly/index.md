@@ -4,6 +4,7 @@ guide: https://github.com/carlosbaraza/web-assembly-logo
 images:
 - webassembly-icon.svg
 - webassembly-ar21.svg
+- webassembly-card.png
 logohandle: webassembly
 skipped: 0
 sort: webassembly

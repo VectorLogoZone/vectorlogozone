@@ -2,8 +2,8 @@
 blog: https://www.twilio.com/blog
 github: twilio
 images:
-- twilio-ar21.svg
 - twilio-icon.svg
+- twilio-ar21.svg
 - twilio-tile.svg
 logohandle: twilio
 skipped: 0

@@ -1,13 +1,15 @@
 ---
-blog: 'https://viber.com/blog'
-facebook: 'https://facebook.com/viber'
-instagram: 'https://instagram.com/viber'
-linkedin: 'https://linkedin.com/company/rakuten-viber'
+blog: https://viber.com/blog
+facebook: https://facebook.com/viber
+images:
+- viber-tile.svg
+instagram: https://instagram.com/viber
+linkedin: https://linkedin.com/company/rakuten-viber
 logohandle: viber
+skipped: 0
 sort: viber
 title: Viber
 twitter: Viber
-website: 'https://www.viber.com/'
+website: https://www.viber.com/
 wikipedia: https://en.wikipedia.org/wiki/Viber
 ---
-

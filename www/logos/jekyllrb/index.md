@@ -4,6 +4,7 @@ github: jekyll
 guide: https://github.com/jekyll/brand
 images:
 - jekyllrb-icon.svg
+- jekyllrb-card.png
 - jekyllrb-ar21.svg
 layout: default
 logohandle: jekyllrb

@@ -4,7 +4,9 @@ font:
   url: https://wiki.scratch.mit.edu/wiki/Scratch_Font
 guide: https://wiki.scratch.mit.edu/wiki/Scratch_Logo
 images:
+- mit_scratch-icon.svg
 - mit_scratch-official.svg
+- mit_scratch-ar21.svg
 logohandle: mit_scratch
 skipped: 0
 sort: scratch
