@@ -11,17 +11,19 @@
    data-name="Layer 1"
    viewBox="0 0 64 64"
    version="1.1"
-   sodipodi:docname="jetbrains-icon.svg"
+   sodipodi:docname="jetbrains-icons.svg"
+   width="64"
+   height="64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata99">
+     id="metadata54">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>IntelliJIDEA_icon</dc:title>
+        <dc:title>logo-</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -34,231 +36,210 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
-     id="namedview97"
+     inkscape:window-width="1343"
+     inkscape:window-height="783"
+     id="namedview52"
      showgrid="false"
-     inkscape:zoom="3.6875"
-     inkscape:cx="-1.0847458"
-     inkscape:cy="32"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
+     inkscape:zoom="2.397092"
+     inkscape:cx="49.882591"
+     inkscape:cy="45.922157"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
      inkscape:current-layer="Layer_1" />
   <defs
-     id="defs72">
+     id="defs30">
     <linearGradient
        id="linear-gradient"
-       x1="0.7"
-       y1="-384.08"
-       x2="30.44"
-       y2="-384.08"
-       gradientTransform="translate(0 420.73)"
+       x1="160.87"
+       y1="-513.71002"
+       x2="269.34"
+       y2="-448.25"
+       gradientTransform="matrix(0.31908673,0,0,-0.31908673,11.305442,-108.87882)"
        gradientUnits="userSpaceOnUse">
       <stop
-         offset="0.26"
-         stop-color="#f97a12"
+         offset="0"
+         stop-color="#fcee39"
          id="stop2" />
       <stop
-         offset="0.46"
-         stop-color="#b07b58"
-         id="stop4" />
-      <stop
-         offset="0.72"
-         stop-color="#577bae"
-         id="stop6" />
-      <stop
-         offset="0.91"
-         stop-color="#1e7ce5"
-         id="stop8" />
-      <stop
          offset="1"
-         stop-color="#087cfa"
-         id="stop10" />
+         stop-color="#f37b3d"
+         id="stop4" />
     </linearGradient>
     <linearGradient
        id="linear-gradient-2"
-       x1="23.54"
-       y1="-397.97"
-       x2="72.6"
-       y2="-370.83"
-       gradientTransform="translate(0 420.73)"
+       x1="183.8"
+       y1="-356.53"
+       x2="282.79999"
+       y2="-443.20001"
+       gradientTransform="matrix(0.31908673,0,0,-0.31908673,11.305442,-108.87882)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
-         stop-color="#f97a12"
-         id="stop13" />
+         stop-color="#ef5a6b"
+         id="stop7" />
       <stop
-         offset="0.07"
-         stop-color="#cb7a3e"
-         id="stop15" />
-      <stop
-         offset="0.15"
-         stop-color="#9e7b6a"
-         id="stop17" />
-      <stop
-         offset="0.24"
-         stop-color="#757b91"
-         id="stop19" />
-      <stop
-         offset="0.33"
-         stop-color="#537bb1"
-         id="stop21" />
-      <stop
-         offset="0.43"
-         stop-color="#387ccc"
-         id="stop23" />
-      <stop
-         offset="0.54"
-         stop-color="#237ce0"
-         id="stop25" />
-      <stop
-         offset="0.66"
-         stop-color="#147cef"
-         id="stop27" />
-      <stop
-         offset="0.79"
-         stop-color="#0b7cf7"
-         id="stop29" />
+         offset="0.57"
+         stop-color="#f26f4e"
+         id="stop9" />
       <stop
          offset="1"
-         stop-color="#087cfa"
-         id="stop31" />
+         stop-color="#f37b3d"
+         id="stop11" />
     </linearGradient>
     <linearGradient
        id="linear-gradient-3"
-       x1="57.8"
-       y1="-381.51"
-       x2="44.15"
-       y2="-422.32"
-       gradientTransform="translate(0 420.73)"
+       x1="190.09"
+       y1="-435.09"
+       x2="131.42"
+       y2="-398.45001"
+       gradientTransform="matrix(0.31908673,0,0,-0.31908673,11.305442,-108.87882)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
-         stop-color="#fe315d"
-         id="stop34" />
+         stop-color="#7c59a4"
+         id="stop14" />
       <stop
-         offset="0.08"
-         stop-color="#cb417e"
-         id="stop36" />
+         offset="0.39"
+         stop-color="#af4c92"
+         id="stop16" />
       <stop
-         offset="0.16"
-         stop-color="#9e4e9b"
-         id="stop38" />
+         offset="0.77"
+         stop-color="#dc4183"
+         id="stop18" />
       <stop
-         offset="0.25"
-         stop-color="#755bb4"
-         id="stop40" />
-      <stop
-         offset="0.34"
-         stop-color="#5365ca"
-         id="stop42" />
-      <stop
-         offset="0.44"
-         stop-color="#386ddb"
-         id="stop44" />
-      <stop
-         offset="0.54"
-         stop-color="#2374e9"
-         id="stop46" />
-      <stop
-         offset="0.66"
-         stop-color="#1478f3"
-         id="stop48" />
-      <stop
-         offset="0.79"
-         stop-color="#0b7bf8"
-         id="stop50" />
-      <stop
-         offset="1"
-         stop-color="#087cfa"
-         id="stop52" />
+         offset="0.96"
+         stop-color="#ed3d7d"
+         id="stop20" />
     </linearGradient>
     <linearGradient
        id="linear-gradient-4"
-       x1="9.82"
-       y1="-405.7"
-       x2="50.78"
-       y2="-337.94"
-       gradientTransform="translate(0 420.73)"
+       x1="189.03"
+       y1="-352.10001"
+       x2="131.75"
+       y2="-399.41"
+       gradientTransform="matrix(0.31908673,0,0,-0.31908673,11.305442,-108.87882)"
        gradientUnits="userSpaceOnUse">
       <stop
          offset="0"
-         stop-color="#fe315d"
-         id="stop55" />
+         stop-color="#ef5a6b"
+         id="stop23" />
       <stop
-         offset="0.04"
-         stop-color="#f63462"
-         id="stop57" />
-      <stop
-         offset="0.1"
-         stop-color="#df3a71"
-         id="stop59" />
-      <stop
-         offset="0.17"
-         stop-color="#c24383"
-         id="stop61" />
-      <stop
-         offset="0.29"
-         stop-color="#ad4a91"
-         id="stop63" />
-      <stop
-         offset="0.55"
-         stop-color="#755bb4"
-         id="stop65" />
-      <stop
-         offset="0.92"
-         stop-color="#1d76ed"
-         id="stop67" />
+         offset="0.36"
+         stop-color="#ee4e72"
+         id="stop25" />
       <stop
          offset="1"
-         stop-color="#087cfa"
-         id="stop69" />
+         stop-color="#ed3d7d"
+         id="stop27" />
     </linearGradient>
   </defs>
   <title
-     id="title74">IntelliJIDEA_icon</title>
-  <polygon
-     points="16.2 49.9 0.7 37.7 8.4 23.4 30.5 32 16.2 49.9"
-     fill="url(#linear-gradient)"
-     id="polygon76" />
-  <polygon
-     points="64 17.1 62.8 54.1 38.2 64 23.4 54.4 45 32 35.6 11.2 44.1 1 64 17.1"
-     fill="url(#linear-gradient-2)"
-     id="polygon78" />
-  <polygon
-     points="64 17.1 44.5 40.1 35.6 11.2 44.1 1 64 17.1"
-     fill="url(#linear-gradient-3)"
-     id="polygon80" />
-  <polygon
-     points="30.8 53.1 5.2 62.4 9.3 48 14.6 30.2 0 25.3 9.3 0 29.3 2.4 49.1 25 30.8 53.1"
-     fill="url(#linear-gradient-4)"
-     id="polygon82" />
+     id="title32">logo-</title>
   <g
-     id="g94">
-    <rect
-       x="12"
-       y="12"
-       width="40"
-       height="40"
-       id="rect84" />
+     id="g881"
+     transform="matrix(1.1143318,0,0,1.1143318,-51.712607,-2.0533507)">
+    <path
+       style="fill:url(#linear-gradient);stroke-width:0.31908676"
+       inkscape:connector-curvature="0"
+       d="m 100.96882,33.542348 a 2.0389642,2.0389642 0 0 0 0.6637,-1.413554 2.0644912,2.0644912 0 0 0 -1.943244,-2.163408 2.1570263,2.1570263 0 0 0 -1.45822,0.485012 v 0 L 61.236135,50.712406 a 4.3363888,4.3363888 0 0 0 -2.074064,1.809222 4.4448782,4.4448782 0 0 0 1.595435,6.136037 4.5406042,4.5406042 0 0 0 4.722483,-0.08934 v 0 c 0.08934,-0.08934 0.220169,-0.134016 0.319087,-0.220169 l 34.403934,-24.18997 a 5.6095448,5.6095448 0 0 0 0.74985,-0.619027 z"
+       data-name="&lt;Path&gt;"
+       id="_Path_" />
+    <path
+       style="fill:url(#linear-gradient-2);stroke-width:0.31908676"
+       inkscape:connector-curvature="0"
+       d="m 101.04221,30.584414 v 0 L 72.889182,2.9483128 a 3.4046554,3.4046554 0 0 0 -5.915867,2.2942337 v 0 a 3.3823194,3.3823194 0 0 0 0.915779,2.3452873 v 0 a 4.6746207,4.6746207 0 0 0 0.532874,0.437149 L 98.176806,33.497677 v 0 a 2.2750885,2.2750885 0 0 0 1.32421,0.574356 2.0644912,2.0644912 0 0 0 2.163414,-1.943239 2.2048893,2.2048893 0 0 0 -0.62222,-1.54438 z"
+       data-name="&lt;Path&gt;"
+       id="_Path_2" />
+    <path
+       style="fill:url(#linear-gradient-3);stroke-width:0.31908676"
+       inkscape:connector-curvature="0"
+       d="m 73.804961,28.111492 c -0.04467,0 -17.393417,-13.68563 -17.747605,-13.9058 v 0 l -0.794525,-0.398858 a 4.9394627,4.9394627 0 0 0 -4.326816,8.829131 v 0 a 3.8928582,3.8928582 0 0 0 0.88387,0.398858 c 0.175499,0.08934 20.041839,8.296255 20.041839,8.296255 v 0 a 1.8953752,1.8953752 0 0 0 1.943237,-3.222777 z"
+       data-name="&lt;Path&gt;"
+       id="_Path_3" />
+    <path
+       style="fill:url(#linear-gradient-4);stroke-width:0.31908676"
+       inkscape:connector-curvature="0"
+       d="M 70.358825,1.8442727 A 3.5961075,3.5961075 0 0 0 68.329433,2.5079731 L 50.760517,14.336519 c -0.04467,0.04467 -0.08934,0.04467 -0.08934,0.08934 h -0.04467 a 4.9203175,4.9203175 0 0 0 1.193385,8.615342 4.8437365,4.8437365 0 0 0 4.591659,-0.619028 v 0 a 4.1257915,4.1257915 0 0 0 0.794526,-0.705181 L 72.480752,7.9420201 v 0 a 3.4110373,3.4110373 0 0 0 1.324209,-2.693092 v 0 A 3.4397551,3.4397551 0 0 0 70.358825,1.8442727 Z"
+       data-name="&lt;Path&gt;"
+       id="_Path_4" />
     <g
-       id="g92">
+       transform="matrix(0.31908674,0,0,0.31908674,11.305442,-9.3237647)"
+       data-name="&lt;Group&gt;"
+       id="_Group_">
       <rect
-         x="15.8"
-         y="44.5"
-         width="15"
-         height="2.5"
-         fill="#fff"
-         id="rect86" />
-      <polygon
-         points="26.5 20.2 26.5 17.2 18.3 17.2 18.3 20.2 20.6 20.2 20.6 30.7 18.3 30.7 18.3 33.8 26.5 33.8 26.5 30.7 24.2 30.7 24.2 20.2 26.5 20.2"
-         fill="#fff"
-         id="polygon88" />
-      <path
-         d="M34.5,34a6.71,6.71,0,0,1-3.3-.7A7.87,7.87,0,0,1,29,31.5l2.3-2.6a7.47,7.47,0,0,0,1.4,1.2,2.93,2.93,0,0,0,1.6.4,1.86,1.86,0,0,0,1.6-.7,2.93,2.93,0,0,0,.6-2.1V17h3.7V27.8a6.77,6.77,0,0,1-.4,2.6,5,5,0,0,1-1.4,2.2A7.15,7.15,0,0,1,34.5,34"
-         fill="#fff"
-         id="path90" />
+         height="70.559998"
+         width="70.559998"
+         y="86.739998"
+         x="164.74001"
+         data-name="&lt;Path&gt;"
+         id="_Path_5" />
+      <rect
+         style="fill:#ffffff"
+         height="4.4299998"
+         width="26.43"
+         y="144.02"
+         x="170.82001"
+         data-name="&lt;Path&gt;"
+         id="_Path_6" />
+      <g
+         data-name="&lt;Group&gt;"
+         id="_Group_2">
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 170.55,105.28 2.08,-1.94 a 2.36,2.36 0 0 0 1.8,1.11 q 1.25,0 1.25,-1.66 v -7.33 h 3.18 v 7.33 a 3.87,3.87 0 0 1 -4.29,4.29 4.19,4.19 0 0 1 -4.02,-1.8 z"
+           data-name="&lt;Path&gt;"
+           id="_Path_7" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 179.54,95.6 h 9.27 v 2.63 h -6.09 V 100 h 5.53 v 2.49 h -5.53 v 1.8 h 6.23 v 2.77 h -9.27 z"
+           data-name="&lt;Path&gt;"
+           id="_Path_8" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 193,98.36 h -3.5 V 95.6 h 10.1 v 2.77 h -3.46 v 8.72 H 193 Z"
+           data-name="&lt;Path&gt;"
+           id="_Path_9" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 170.82,109.71 h 5.95 a 5.12,5.12 0 0 1 3.18,1 2.74,2.74 0 0 1 0.69,1.94 v 0 a 2.71,2.71 0 0 1 -1.8,2.63 2.69,2.69 0 0 1 2.21,2.77 v 0 c 0,1.94 -1.66,3.18 -4.29,3.18 h -5.95 z m 6.64,3.6 c 0,-0.69 -0.55,-1 -1.38,-1 H 174 v 2.08 h 1.94 c 1,-0.14 1.52,-0.42 1.52,-1.11 z m -1.11,3.32 h -2.49 v 2.08 h 2.49 c 1,0 1.52,-0.42 1.52,-1.11 v 0 c 0.01,-0.7 -0.54,-0.97 -1.51,-0.97 z"
+           data-name="&lt;Compound Path&gt;"
+           id="_Compound_Path_" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="M 181.61,109.71 H 187 a 4.86,4.86 0 0 1 3.74,1.25 3.44,3.44 0 0 1 1,2.63 v 0 a 3.82,3.82 0 0 1 -2.35,3.6 l 2.77,4 h -3.6 l -2.35,-3.46 h -1.41 v 3.46 h -3.18 z m 5.26,5.53 c 1.11,0 1.66,-0.55 1.66,-1.38 v 0 c 0,-1 -0.69,-1.38 -1.66,-1.38 h -2.07 v 2.77 z"
+           data-name="&lt;Compound Path&gt;"
+           id="_Compound_Path_2" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 195.45,109.71 h 3 l 4.84,11.62 h -3.46 L 199,119.25 h -4.43 l -0.83,2.08 h -3.32 z m 2.77,6.92 -1.22,-3.18 -1.25,3.18 z"
+           data-name="&lt;Compound Path&gt;"
+           id="_Compound_Path_3" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 203.75,109.71 h 3.18 v 11.48 h -3.18 z"
+           data-name="&lt;Path&gt;"
+           id="_Path_10" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 207.76,109.71 h 2.91 l 4.7,6.09 v -6.09 h 3.18 v 11.48 h -2.77 L 210.95,115 v 6.36 h -3.18 z"
+           data-name="&lt;Path&gt;"
+           id="_Path_11" />
+        <path
+           style="fill:#ffffff"
+           inkscape:connector-curvature="0"
+           d="m 218.83,119.53 1.8,-2.08 a 5.45,5.45 0 0 0 3.74,1.38 c 0.83,0 1.38,-0.28 1.38,-0.83 v 0 c 0,-0.55 -0.42,-0.69 -1.94,-1.11 -2.49,-0.55 -4.29,-1.25 -4.29,-3.6 v 0 c 0,-2.08 1.66,-3.74 4.43,-3.74 a 7.38,7.38 0 0 1 4.7,1.52 l -1.65,2.24 a 6.3,6.3 0 0 0 -3.18,-1.11 c -0.83,0 -1.11,0.28 -1.11,0.69 v 0 c 0,0.55 0.42,0.69 1.94,1.11 2.63,0.55 4.29,1.38 4.29,3.6 v 0 c 0,2.35 -1.8,3.74 -4.7,3.74 a 7.32,7.32 0 0 1 -5.41,-1.81 z"
+           data-name="&lt;Path&gt;"
+           id="_Path_12" />
+      </g>
     </g>
   </g>
 </svg>
