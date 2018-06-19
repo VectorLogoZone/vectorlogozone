@@ -9,6 +9,6 @@ sort: sendgrid
 title: SendGrid
 twitter: sendgrid
 website: 'https://www.sendgrid.com/'
-wikipedia:://en.wikipedia.org/wiki/SendGrid
+wikipedia: https://en.wikipedia.org/wiki/SendGrid
 ---
 
