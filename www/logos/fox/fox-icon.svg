@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="fox-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>customer-logo-</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="2.2523421"
+     inkscape:cx="79.079436"
+     inkscape:cy="41.875"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#282b6a;}.cls-2{fill:#97999b;}</style>
+  </defs>
+  <title
+     id="title6">customer-logo-</title>
+  <g
+     id="g853"
+     transform="matrix(0.42809365,0,0,0.42809365,-3.375e-7,28.425418)">
+    <polygon
+       transform="translate(0,-23.75)"
+       style="fill:#282b6a"
+       id="polygon8"
+       points="18.21,17.56 18.21,25.93 35.84,25.93 35.84,43.45 18.08,43.45 18.08,64.2 0,64.2 0,0 38.66,0 39.85,17.56 "
+       class="cls-1" />
+    <polygon
+       transform="translate(0,-23.75)"
+       style="fill:#282b6a"
+       id="polygon10"
+       points="147.73,0.09 128.38,0.09 120.34,13.92 112.45,0.09 92.42,0.09 110.34,31.01 91.36,64.15 110.82,64.14 120.1,47.91 129.49,64.11 149.5,64.11 130.16,30.8 "
+       class="cls-1" />
+    <path
+       style="fill:#282b6a"
+       inkscape:connector-curvature="0"
+       id="path12"
+       d="m 39.36,8.43 c 0,-17.18 13.7,-31.18 30.64,-31.18 16.94,0 30.6,14 30.6,31.21 0,17.21 -13.75,31.2 -30.6,31.2 C 53.15,39.66 39.36,25.68 39.36,8.43 Z M 75.45,21.25 V -4.4 A 5.66,5.66 0 0 0 70,-9.94 5.47,5.47 0 0 0 64.82,-4.4 v 25.58 a 5.25,5.25 0 0 0 5.18,5.3 5.37,5.37 0 0 0 5.45,-5.23 z"
+       class="cls-1" />
+  </g>
+</svg>
