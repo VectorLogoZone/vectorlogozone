@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64.000001"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="discourse-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Discourse_logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="4.9879666"
+     inkscape:cx="21.481049"
+     inkscape:cy="33.673152"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#231f20;}.cls-2{fill:#fff9ae;}.cls-3{fill:#00aeef;}.cls-4{fill:#00a94f;}.cls-5{fill:#f15d22;}.cls-6{fill:#e31b23;}</style>
+  </defs>
+  <title
+     id="title6">Discourse_logo</title>
+  <g
+     id="g922"
+     transform="matrix(2.1034882,0,0,2.1034882,-7.3891343,-31.104646)">
+    <path
+       id="path25"
+       d="m 18.854586,14.787174 c -8.253409,0 -15.2025681,6.69124 -15.2025681,14.94758 0,0.266712 0,15.478072 0,15.478072 l 15.1996371,-0.01465 c 8.253409,0 14.94758,-6.94916 14.94758,-15.202568 0,-8.253409 -6.700033,-15.20843 -14.944649,-15.20843 z"
+       class="cls-1"
+       inkscape:connector-curvature="0"
+       style="fill:#231f20;stroke-width:0.29308981" />
+    <path
+       id="path27"
+       d="M 19.001131,20.572767 A 9.2674995,9.2674995 0 0 0 10.856165,34.251268 L 9.1796915,39.64412 15.199756,38.284183 a 9.2645686,9.2645686 0 1 0 3.810167,-17.711416 z"
+       class="cls-2"
+       inkscape:connector-curvature="0"
+       style="fill:#fff9ae;stroke-width:0.29308981" />
+    <path
+       id="path29"
+       d="M 26.351823,24.201218 A 9.2616377,9.2616377 0 0 1 15.199756,38.269529 L 9.1796915,39.647051 15.308199,38.923119 A 9.2616377,9.2616377 0 0 0 26.351823,24.201218 Z"
+       class="cls-3"
+       inkscape:connector-curvature="0"
+       style="fill:#00aeef;stroke-width:0.29308981" />
+    <path
+       id="path31"
+       d="M 24.64604,22.492505 A 9.2616377,9.2616377 0 0 1 15.023902,37.648178 L 9.1796915,39.647051 15.199756,38.284183 A 9.2616377,9.2616377 0 0 0 24.64604,22.492505 Z"
+       class="cls-4"
+       inkscape:connector-curvature="0"
+       style="fill:#00a94f;stroke-width:0.29308981" />
+    <path
+       id="path33"
+       d="M 11.410105,34.45643 A 9.2645686,9.2645686 0 0 1 26.357685,24.198287 9.2645686,9.2645686 0 0 0 10.856165,34.251268 L 9.1796915,39.64412 Z"
+       class="cls-5"
+       inkscape:connector-curvature="0"
+       style="fill:#f15d22;stroke-width:0.29308981" />
+    <path
+       id="path35"
+       d="M 10.856165,34.251268 A 9.2645686,9.2645686 0 0 1 24.64604,22.492505 9.2645686,9.2645686 0 0 0 10.28464,34.107654 l -1.1020176,5.539397 z"
+       class="cls-6"
+       inkscape:connector-curvature="0"
+       style="fill:#e31b23;stroke-width:0.29308981" />
+  </g>
+</svg>
