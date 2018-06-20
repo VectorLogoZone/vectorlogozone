@@ -1,7 +1,7 @@
 ---
 logohandle: reconfigureio
 sort: reconfigure
-title: Home - Reconfigure.io
+title: Reconfigure.io
 website: 'https://reconfigure.io/'
 ---
 

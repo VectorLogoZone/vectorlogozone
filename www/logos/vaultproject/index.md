@@ -2,7 +2,7 @@
 github: hashicorp/vault
 logohandle: vaultproject
 sort: vaultproject
-title: Vault by HashiCorp
+title: Vault
 website: 'https://www.vaultproject.io/'
 ---
 

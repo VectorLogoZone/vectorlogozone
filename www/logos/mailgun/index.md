@@ -4,7 +4,7 @@ facebook: 'https://facebook.com/mailgun'
 github: mailgun/validator-demo
 logohandle: mailgun
 sort: mailgun
-title: Transactional Email API Service For Developers | Mailgun
+title: Mailgun
 twitter: Mail_Gun
 website: 'https://www.mailgun.com/'
 ---
