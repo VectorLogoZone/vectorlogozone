@@ -81,11 +81,10 @@
 
 - id: wordmark
   title: Wordmark
-  description: Just the name in the appropriate font in black with the baseline 64 from the top.
-  height: 64
-  padding: 4px;
+  description: Just the name in the appropriate font in black, 40 high.
+  height: 60
   padding: false
-  tab: false
+  tab: true
   search: false
   inventory: true
   visualinventory: false
