@@ -1,6 +1,7 @@
 ---
 blog: blog.siriusxm.com
 facebook: https://www.facebook.com/siriusxm/
+logohandle: seriusxm
 sort: seriusxm
 title: SiriusXM
 twitter: seriusxm
