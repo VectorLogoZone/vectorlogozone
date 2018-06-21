@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 63.999995 63.999997"
+   version="1.1"
+   id="svg42"
+   sodipodi:docname="varnish-cache-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata48">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs46" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview44"
+     showgrid="false"
+     inkscape:zoom="6.9682903"
+     inkscape:cx="90.868484"
+     inkscape:cy="16.970144"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg42" />
+  <g
+     style="fill:#1475bb"
+     id="g38"
+     transform="matrix(1.8790369,0,0,1.8790369,0.28185691,7.5076507e-7)">
+    <circle
+       id="circle32"
+       data-name="&lt;Group&gt;"
+       r="8.0200005"
+       cy="8.0200005"
+       cx="25.74" />
+    <circle
+       id="circle34"
+       data-name="&lt;Group&gt;"
+       r="5.7800002"
+       cy="28.280001"
+       cx="13.03" />
+    <circle
+       id="circle36"
+       data-name="&lt;Group&gt;"
+       r="3.3399999"
+       cy="15.09"
+       cx="3.3399999" />
+  </g>
+</svg>
