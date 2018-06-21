@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="-16088 737 64 64"
+   version="1.1"
+   id="svg25"
+   sodipodi:docname="varnish-software-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview27"
+     showgrid="false"
+     inkscape:zoom="3.4306532"
+     inkscape:cx="109.71251"
+     inkscape:cy="41.804054"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg25" />
+  <defs
+     id="defs4">
+    <style
+       id="style2"> .cls-1 { fill: #1e76bc; } </style>
+  </defs>
+  <g
+     id="g914"
+     transform="matrix(2.0553859,0,0,2.0553859,16963.313,-807.18353)">
+    <path
+       id="Path_17"
+       data-name="Path 17"
+       class="cls-1"
+       d="m -16063.396,761.05281 a 7.2894261,7.2894261 0 1 0 4.379,-9.33274 7.2889071,7.2889071 0 0 0 -4.378,9.33274"
+       inkscape:connector-curvature="0"
+       style="fill:#1e76bc;stroke-width:0.51900506" />
+    <path
+       id="Path_18"
+       data-name="Path 18"
+       class="cls-1"
+       d="m -16072.673,774.56978 a 5.2642683,5.2642683 0 1 0 7.173,-1.99298 5.2637493,5.2637493 0 0 0 -7.173,1.99298"
+       inkscape:connector-curvature="0"
+       style="fill:#1e76bc;stroke-width:0.51900506" />
+    <path
+       id="Path_19"
+       data-name="Path 19"
+       class="cls-1"
+       d="m -16080.24,764.35213 a 3.0475977,3.0475977 0 1 0 3.591,-2.38431 3.0486357,3.0486357 0 0 0 -3.591,2.38431"
+       inkscape:connector-curvature="0"
+       style="fill:#1e76bc;stroke-width:0.51900506" />
+  </g>
+</svg>
