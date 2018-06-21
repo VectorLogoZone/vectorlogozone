@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg36"
+   sodipodi:docname="venturebeat-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata40">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo_press-VentureBeat</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview38"
+     showgrid="false"
+     inkscape:zoom="5.0069806"
+     inkscape:cx="140.41872"
+     inkscape:cy="-8.1133738"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36" />
+  <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">logo_press-VentureBeat</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs8">
+    <polygon
+       id="path-1"
+       points="37,38.929122 37,0.018384439 0,0.018384439 0,19.473753 0,38.929122 " />
+    <polygon
+       id="path-3"
+       points="31.938722,0.018384439 0,0.018384439 0,38.938046 31.938722,38.938046 " />
+  </defs>
+  <g
+     id="g891"
+     transform="matrix(2.5182615,0,0,2.5182615,-11.100012,-43.158553)">
+    <path
+       sodipodi:nodetypes="ccccccscccsccccccccccc"
+       id="path2"
+       d="m 17.693511,22.91858 v 2.806839 h -0.561368 c -0.280684,-0.09356 -0.374245,0.09356 -0.374245,0.280684 -0.842052,2.9004 -1.777665,5.707239 -2.713278,8.607639 -0.187122,0.654929 -0.374245,1.309858 -0.654929,1.964787 0,0.09356 -0.187122,0.187122 -0.280683,0.187122 H 8.8051883 L 8.711627,36.484967 C 7.5888915,33.0232 6.4661561,29.467871 5.4369819,26.006103 5.3434206,25.725419 5.2498593,25.725419 4.9691755,25.725419 H 4.4078077 V 22.91858 H 10.39573 v 2.806839 H 9.1794335 c 0.654929,2.619716 1.3098585,5.239432 1.9647875,7.765587 h 0.09356 L 13.38969,25.725419 H 12.173395 V 22.91858 Z"
+       style="fill:#000000;fill-opacity:1;stroke-width:0.93561292"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="ccccccccsccccccccssscccccsscc"
+       id="path2-4"
+       d="m 25.313501,23.018738 c 0.561368,0.09356 1.122736,0.09356 1.590542,0.280684 2.151906,0.561367 3.274638,3.181083 2.151906,5.145871 -0.280684,0.467806 -0.654929,0.74849 -1.122735,1.029174 -0.187123,0.09356 -0.374245,0.187122 -0.654929,0.374245 0.09356,0.09356 0.187122,0.09356 0.280684,0.09356 1.49698,0.467807 2.151906,1.590542 2.245467,2.993961 0.187122,2.058349 -1.122732,3.555329 -3.181077,3.742452 -0.654929,0.09356 -1.309858,0.09356 -1.871222,0.09356 H 18.29642 v -2.806838 h 1.216293 V 25.732015 H 18.29642 v -2.806839 c 2.432589,0.09356 4.678057,0.09356 7.017081,0.09356 z m -2.058344,8.233393 v 2.713278 c 0,0.09356 0.09356,0.187122 0.187122,0.187122 h 1.590542 c 0.374242,0 0.748487,-0.187122 0.935609,-0.561368 0.467807,-0.842051 0,-1.964787 -0.935609,-2.151909 -0.561367,-0.187123 -1.122735,-0.187123 -1.777664,-0.187123 z m 0,-2.619716 c 0.561368,0 1.029174,0 1.590542,-0.09356 0.654925,-0.09356 1.02917,-0.654929 1.02917,-1.309858 0,-0.654929 -0.374245,-1.216297 -0.935609,-1.309858 -0.561368,-0.09356 -1.122735,-0.09356 -1.684103,-0.09356 z"
+       style="fill:#ff0113;fill-opacity:1;stroke-width:0.93561292"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
