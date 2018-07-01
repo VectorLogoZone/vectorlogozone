@@ -32,7 +32,7 @@ redirect_from: /logos/missing.html
             {%- if logopage.images contains logoicon %}{% assign othercount = othercount | minus:1 %}{% endif -%}
         <tr>
             <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.logohandle}}</a></td>
-            <td>{{logopage.title}}</td>
+            <td>{{logopage.title | default: "(untitled)"}}</td>
             <td>{% unless logopage.images contains logoicon %}MISSING{% endunless %}</td>
             <td>{% unless logopage.images contains logoar21 %}MISSING{% endunless %}</td>
             <td style="text-align:center;">{% if othercount > 0 %}{{othercount}}{% endif %}</td>

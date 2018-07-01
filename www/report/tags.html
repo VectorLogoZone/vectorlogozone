@@ -19,7 +19,7 @@ title: Tag Report
     {%- endif %}
     <tr>
         <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.logohandle}}</a></td>
-        <td>{{logopage.title}}</td>
+        <td>{{logopage.title | default: "(untitled)"}}</td>
         <td>{% if logopage.tags %}{{ logopage.tags | sort | join: ', '  }}{% endif %}</td>
     </tr>
     {%- endif -%}

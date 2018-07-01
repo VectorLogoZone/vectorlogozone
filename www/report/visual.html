@@ -10,7 +10,7 @@ redirect_from: /logos/visual.html
     <tr>
         <th>Logo</th>
         {%- for imagetype in site.data.imagetype %}{% if imagetype.visualinventory -%}
-        <th>{{ imagetype.title }}</th>
+        <th>{{ imagetype.title | default: "(untitled)"}}</th>
         {%- endif %}{% endfor -%}
     </tr>
     </thead>
@@ -19,7 +19,7 @@ redirect_from: /logos/visual.html
     {% capture iconfile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture %}
     {% capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture %}
     <tr>
-        <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
+        <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
         {%- for imagetype in site.data.imagetype %}{% if imagetype.visualinventory -%}
         <td>
             {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture -%}

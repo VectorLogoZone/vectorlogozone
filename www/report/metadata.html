@@ -42,7 +42,7 @@ redirect_from: /logos/metadata.html
     </thead>
     <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% assign count = logopage.images.size %}
         <tr>
-            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
+            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
             <td class="text-center">
                 {% if logopage.colors %}{{ checkon }}{% assign colorcount = colorcount | plus:1 %}{% else %}{{ checkoff }}{% endif %}
             </td>

@@ -23,7 +23,7 @@ redirect_from: /logos/inventory.html
 	<tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% assign count = logopage.images.size %}
 		<tr>
 			<!--<td>[{{ logopage.logohandle }}]</td>-->
-			<td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
+			<td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
 {%- for imagetype in site.data.imagetype %}{% if imagetype.inventory -%}
 			<td class="text-center">
 				    {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}

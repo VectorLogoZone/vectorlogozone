@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="utf-8">
-	<title>{{ page.title }}{% if page.images.size > 0 %} Vector Logos{% endif %} - {{ site.title }}</title>
+	<title>{{ page.title | default: "(untitled)"}}{% if page.images.size > 0 %} Vector Logos{% endif %} - {{ site.title }}</title>
 {% include meta.html %}
 </head>
 <body>
@@ -30,7 +30,7 @@
 					{%- if next_page %}&nbsp;<a class="btn btn-default btn-xs" href="{{next_page}}" title="Next set of logos">Next <i class="fa fa-caret-right"></i></a>{% endif -%}
 				</div>
                 {%- endif -%}
-				<h1>{% if page.h1 %}{{ page.h1 }}{% else %}{{ page.title }}{% endif %}{% if page.subtitle %} <small> - {{ page.subtitle }}</small>{% endif %}</h1>
+				<h1>{% if page.h1 %}{{ page.h1 }}{% else %}{{ page.title | default: "(untitled)"}}{% endif %}{% if page.subtitle %} <small> - {{ page.subtitle }}</small>{% endif %}</h1>
 				{{ content }}
 			</div><!--/col-->
 		</div><!--/row-->

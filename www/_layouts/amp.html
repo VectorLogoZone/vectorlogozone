@@ -2,7 +2,7 @@
 <html ⚡>
 <head>
     <meta charset="utf-8">
-    <title>{{page.title}}</title>
+    <title>{{page.title | default: "(untitled)"}}</title>
     <link rel="canonical" href="/logos/{{page.amphandle}}/index.html" />
     <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
     <style amp-custom>
@@ -51,11 +51,11 @@
 <body>
     <div class="navbar">
         <a class="home-link navbar-brand" href="/index.html"><!--<amp-img src="https://www.vectorlogo.zone/favicon.svg" width="24" height="24" /> -->VectorLogoZone</a>
-        {% assign without_logos = page.title | split: ' ' | size | minus: 1 %}
-        <a class="search-link" href="/search.html?q={{page.title | split: ' ' | slice: 0, without_logos | join: ' '}}">Search</a>
+        {% assign without_logos = page.title  | default: "(untitled)" | split: ' ' | size | minus: 1 %}
+        <a class="search-link" href="/search.html?q={{page.title | default: "(untitled)" | split: ' ' | slice: 0, without_logos | join: ' '}}">Search</a>
     </div>
     <div class="content">
-        <h1>{{page.title}}</h1>
+        <h1>{{page.title | default: "(untitled)"}}</h1>
         <amp-ad
             layout="fixed-height"
             height=100

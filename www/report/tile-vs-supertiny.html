@@ -91,7 +91,7 @@ redirect_from: /util/tile-vs-supertiny.html
                 </div>
                 {%- endif -%}
             </td>
-            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
+            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
         </tr>
         {%- endif %}{% endif %}{% endfor -%}
         </tbody>

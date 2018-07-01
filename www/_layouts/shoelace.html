@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}{% if page.images.size > 0 %} Vector Logos{% endif %} - {{ site.title }}</title>
+    <title>{{ page.title | default: "(untitled)" }}{% if page.images.size > 0 %} Vector Logos{% endif %} - {{ site.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="https://cdn.shoelace.style/1.0.0-beta24/shoelace.css">
     <link href="/css/fontawesome-all.css" rel="stylesheet" type="text/css" />
