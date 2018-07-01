@@ -8,5 +8,4 @@ sort: circleci
 title: CircleCI
 twitter: circleci
 website: https://circleci.com/
-wikipedia: https://en.wikipedia.org/wiki/blah
 ---

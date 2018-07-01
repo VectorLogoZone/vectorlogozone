@@ -1,0 +1,13 @@
+---
+facebook: 'https://facebook.com/splunk'
+googleplus: 'https://plus.google.com/+Splunkofficial'
+instagram: 'https://instagram.com/splunk'
+linkedin: 'https://linkedin.com/company/splunk'
+logohandle: splunk
+sort: splunk
+title: Splunk
+twitter: splunk
+website: 'https://www.splunk.com/'
+wikipedia: https://en.wikipedia.org/wiki/Splunk
+youtube: 'https://youtube.com/user/splunkvideos'
+---

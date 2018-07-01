@@ -1,7 +1,6 @@
 ---
 blog: https://www.salesforce.com/blog/
 facebook: http://www.facebook.com/salesforce
-github: blah
 googleplus: http://plus.google.com/115493663613456422040
 guide: https://brandfolder.com/salesforce
 instagram: http://instagram.com/salesforce

@@ -2,7 +2,7 @@
 github: hashicorp/packer
 logohandle: packerio
 sort: packer
-title: Packer by HashiCorp
+title: Packer
 website: 'https://www.packer.io/'
 ---
 

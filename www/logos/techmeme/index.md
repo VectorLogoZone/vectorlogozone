@@ -1,4 +1,5 @@
 ---
+blog: https://news.techmeme.com/
 logohandle: techmeme
 sort: techmeme
 title: Techmeme

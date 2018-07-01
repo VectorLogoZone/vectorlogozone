@@ -1,10 +1,9 @@
 ---
 github: sourcegraph
-linkedin: https://www.linkedin.com/company/4803356/
+linkedin: 'https://linkedin.com/company/sourcegraph'
 logohandle: sourcegraph
 sort: sourcegraph
 title: Sourcegraph
 twitter: srcgraph
 website: https://about.sourcegraph.com/
-wikipedia: https://en.wikipedia.org/wiki/blah
 ---

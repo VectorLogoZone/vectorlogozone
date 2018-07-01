@@ -6,5 +6,4 @@ sort: codeclimate
 title: Code Climate
 twitter: codeclimate
 website: https://codeclimate.com/
-wikipedia: https://en.wikipedia.org/wiki/blah
 ---
