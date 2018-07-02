@@ -6,4 +6,5 @@ sort: tandem
 title: Tandem
 twitter: tandemmoney
 website: 'https://www.tandem.co.uk/'
+wikipedia: https://en.wikipedia.org/wiki/Tandem_Money_Limited
 ---

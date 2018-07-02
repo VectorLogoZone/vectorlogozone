@@ -1,7 +1,7 @@
 ---
 facebook: 'https://facebook.com/VultureCentral'
 linkedin: 'https://linkedin.com/company/the-register'
-logohandle: theregisterco.uk
+logohandle: theregistercouk
 sort: theregister
 title: 'The Register'
 twitter: intent/user

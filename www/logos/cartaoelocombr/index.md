@@ -1,7 +1,7 @@
 ---
 facebook: 'https://facebook.com/cartaoelo'
 instagram: 'https://instagram.com/cartaoelo'
-logohandle: cartaoelocom.br
+logohandle: cartaoelocombr
 sort: cartaoelo
 title: ELO
 twitter: cartaoelo
