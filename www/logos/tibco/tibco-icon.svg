@@ -7,8 +7,8 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="Mark_s_List"
-   data-name="Mark's List"
+   id="Layer_1"
+   data-name="Layer 1"
    viewBox="0 0 64 64"
    version="1.1"
    sodipodi:docname="tibco-icon.svg"
@@ -16,14 +16,14 @@
    height="64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
-     id="metadata17">
+     id="metadata47">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title>SVG Icon</dc:title>
+        <dc:title>TIBCO</dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,39 +38,42 @@
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
-     id="namedview15"
+     id="namedview45"
      showgrid="false"
-     inkscape:zoom="2.36"
-     inkscape:cx="43.660989"
-     inkscape:cy="50"
+     inkscape:zoom="7.6942426"
+     inkscape:cx="73.43913"
+     inkscape:cy="27.757304"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="Mark_s_List" />
+     inkscape:current-layer="Layer_1" />
   <defs
      id="defs4">
     <style
-       id="style2">.cls-1{fill:#4a8cca;}</style>
+       id="style2">.cls-1{fill:#9e9ea3;}.cls-2{fill:#1287d9;}</style>
   </defs>
   <title
-     id="title6">SVG Icon</title>
+     id="title6">TIBCO</title>
   <g
-     id="g958"
-     transform="matrix(2.2925761,0,0,2.2925761,-201.09948,-30.459128)">
+     id="g889"
+     transform="matrix(5.134244,0,0,5.134244,-200.82272,-116.30023)">
     <path
+       id="path36"
+       d="m 48.626514,23.527292 a 5.5488279,5.5488279 0 0 0 -0.550869,-0.297089 c -1.556482,2.984093 -4.386352,6.536748 -8.129672,8.55616 a 5.6309565,5.6309565 0 0 0 0.811779,1.31036 c 3.218594,-2.212982 6.199518,-5.914049 7.869554,-9.570223"
+       class="cls-2"
        inkscape:connector-curvature="0"
-       d="M 109.36757,15.222528 A 5.9135205,5.9135205 0 0 0 108.05525,14.590672 48.118235,48.118235 0 0 1 89.11578,33.692153 11.535415,11.535415 0 0 0 91.011347,36.60841 54.615007,54.615007 0 0 0 109.36757,15.222528"
-       id="path46-6"
-       style="fill:#4a8cca;fill-opacity:1;stroke-width:1.62014258" />
+       style="fill:#1287d9;stroke-width:0.0264079" />
     <path
+       id="path38"
+       d="m 47.934362,23.16656 c -0.76979,-0.335116 -1.641515,-0.51469 -2.587974,-0.51469 -3.501159,0 -5.974523,2.702849 -5.974523,6.260785 a 7.6400695,7.6400695 0 0 0 0.184855,1.694595 c 3.582496,-1.460093 6.764912,-4.679216 8.379227,-7.44069"
+       class="cls-2"
        inkscape:connector-curvature="0"
-       d="M 107.71502,14.444859 A 15.294146,15.294146 0 0 0 101.57468,13.326961 13.560594,13.560594 0 0 0 87.72246,27.243986 17.529943,17.529943 0 0 0 88.095094,31.03512 41.443248,41.443248 0 0 0 107.71502,14.444859"
-       id="path48-8"
-       style="fill:#4a8cca;fill-opacity:1;stroke-width:1.62014258" />
+       style="fill:#1287d9;stroke-width:0.0264079" />
     <path
+       id="path40"
+       d="m 48.761458,23.611797 c -1.836934,4.517336 -4.076324,7.715332 -6.936563,10.465187 0.966265,0.671025 2.168881,1.040207 3.522021,1.040207 3.501952,0 5.975316,-2.721334 5.975316,-6.280062 0,-2.35849 -0.977092,-4.187237 -2.561566,-5.22586"
+       class="cls-2"
        inkscape:connector-curvature="0"
-       d="m 109.67539,15.481751 a 64.805704,64.805704 0 0 1 -16.20142,23.394859 14.581283,14.581283 0 0 0 8.23032,2.284401 13.592997,13.592997 0 0 0 13.91703,-14.046637 13.236565,13.236565 0 0 0 -5.94593,-11.632623"
-       id="path50-0"
-       style="fill:#4a8cca;fill-opacity:1;stroke-width:1.62014258" />
+       style="fill:#1287d9;stroke-width:0.0264079" />
   </g>
 </svg>
