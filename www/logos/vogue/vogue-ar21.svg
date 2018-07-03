@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 120 60.000001"
+   version="1.1"
+   sodipodi:docname="vogue-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>vogue-ar21</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="3.0781804"
+     inkscape:cx="15.431194"
+     inkscape:cy="15.235"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#212121;}</style>
+  </defs>
+  <title
+     id="title6">vogue-ar21</title>
+  <g
+     id="g827"
+     transform="translate(4.94,14.765)">
+    <path
+       style="fill:#212121"
+       inkscape:connector-curvature="0"
+       id="path8"
+       d="M 19.45,0.7 V 1 h 2.61 L 15.5,22.12 7.79,1 h 2.54 V 0.7 H 0 V 1 H 2.72 L 13.39,30.23 22.57,1.04 h 2.49 v -0.3 z m 46,-0.51 V 10.34 H 65.21 A 18.31,18.31 0 0 0 63.06,4.63 c -1.27,-2.06 -3.3,-4.37 -6,-4.37 -6.07,0 -6.63,10.89 -6.63,15 a 30.51,30.51 0 0 0 1.65,11 c 1,2.45 2.32,3.65 4.85,3.65 a 6.24,6.24 0 0 0 5.29,-2.68 2.69,2.69 0 0 0 0.3,-1.48 v -7.87 h -2.66 v -0.31 h 9.72 v 0.31 H 67.31 V 29.6 h -0.2 a 3,3 0 0 0 -2.64,-1.58 5.1,5.1 0 0 0 -2.39,0.7 l -0.66,0.36 a 10.93,10.93 0 0 1 -4.55,1.15 c -7.54,0 -11.56,-8 -11.56,-14.71 0,-4.87 1.86,-10.09 5.81,-13.14 a 10.32,10.32 0 0 1 6.2,-2.37 7.05,7.05 0 0 1 2.6,0.6 l 0.61,0.23 a 6.35,6.35 0 0 0 2.19,0.5 4.4,4.4 0 0 0 2.46,-1.11 h 0.24 z m 2.3,0.51 H 78.06 V 1 h -2.72 v 22.51 c 0,3.52 3.63,5.67 6.81,5.67 3.42,0 6.29,-2.38 6.29,-5.87 V 1 H 85.19 V 0.71 h 24.38 v 10.44 h -0.2 C 109.06,8.38 108.53,5.55 106.63,3.39 104.73,1.23 102.09,1 99.41,1 h -2.9 v 13.43 a 17.93,17.93 0 0 0 1.8,0.1 c 3.65,0 4.59,-2.5 4.75,-5.6 h 0.27 V 20.7 h -0.27 c -0.46,-2.81 -1.7,-5.83 -5,-5.83 -0.52,0 -1,0 -1.55,0.08 v 14.36 h 4.34 a 8.87,8.87 0 0 0 6.09,-2.55 9.25,9.25 0 0 0 2.63,-5 26.31,26.31 0 0 0 0.32,-3.19 h 0.23 v 11 H 89.21 v -0.29 h 2.43 V 1 h -2.76 v 22.39 c 0,4.63 -4.4,6.68 -8.52,6.68 -4.66,0 -9.8,-2.26 -9.8,-7.59 V 1 H 67.72 V 0.7 Z"
+       class="cls-1" />
+    <path
+       style="fill:#212121"
+       inkscape:connector-curvature="0"
+       id="path10"
+       d="m 39.33,15.23 c 0,-4.22 -1.51,-14.76 -7.21,-14.76 -5.7,0 -7.21,10.57 -7.21,14.76 0,4.19 1.49,14.8 7.21,14.8 5.72,0 7.21,-10.55 7.21,-14.8 m -7.27,15.23 a 11.8,11.8 0 0 1 -8.84,-4.54 17,17 0 0 1 -3.56,-10.69 16.93,16.93 0 0 1 3.32,-10.28 11.92,11.92 0 0 1 9.24,-4.91 11.73,11.73 0 0 1 8.75,4.53 17.07,17.07 0 0 1 3.61,10.67 17,17 0 0 1 -3.33,10.26 11.85,11.85 0 0 1 -9.19,4.96"
+       class="cls-1" />
+  </g>
+</svg>
