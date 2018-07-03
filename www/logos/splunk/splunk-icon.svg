@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 765 359"
+   xml:space="preserve"
+   sodipodi:docname="splunk-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs21">
+	
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview19"
+   showgrid="false"
+   inkscape:zoom="1.772549"
+   inkscape:cx="119.10213"
+   inkscape:cy="11.458413"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<path
+   style="fill:#73af37;stroke-width:0.625"
+   inkscape:connector-curvature="0"
+   id="path12"
+   d="m 5.8747726,64 c 0,-3.562498 0.06249,-6.5625 -0.06249,-9.562498 -0.0625,-1.375004 0.500001,-1.9375 1.625002,-2.500001 C 19.499766,45.875002 31.562266,39.749999 43.624786,33.6875 c 0.5625,-0.249981 1.06247,-0.500001 1.56247,-0.812499 1.00001,-0.562501 1.00001,-1.187501 0,-1.812501 -0.5,-0.312477 -1.0625,-0.562501 -1.56247,-0.812499 -11.93749,-6 -23.87499,-11.999999 -35.8750034,-17.875 -1.375,-0.6875 -2,-1.437504 -1.9375,-3.062501 0.12499,-3.000002 0.06249,-6 0.06249,-9.3125 2.437493,1.187501 4.6250034,2.249998 6.8125034,3.374999 10.68749,5.499999 21.375,10.937502 32.06251,16.437501 4.0625,2.062499 8.0625,4.187498 12.12499,6.249998 0.93748,0.437501 1.31249,1.000002 1.31249,2.062504 -0.0627,2.499996 -0.12499,4.937497 0,7.437498 0.0623,1.375 -0.43751,2.124999 -1.6875,2.75 -13.125,6.5625 -26.25,13.1875 -39.375,19.874999 C 13.437266,59.937501 9.8747756,61.875001 5.8747726,64 Z" />
+</svg>
