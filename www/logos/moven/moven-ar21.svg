@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 120 60"
+   version="1.1"
+   sodipodi:docname="moven-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>moven_logo_black</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="3.2293404"
+     inkscape:cx="56.010438"
+     inkscape:cy="27.803257"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <title
+     id="title2">moven_logo_black</title>
+  <g
+     id="g4541"
+     transform="matrix(0.24968789,0,0,0.24968789,10,16.579276)">
+    <polygon
+       id="polygon4"
+       points="333.7,105.2 347,105.2 347.8,104.5 347.8,69 332.9,83.9 332.9,104.5 " />
+    <path
+       id="path6"
+       transform="translate(0,-0.5)"
+       d="m 366.6,32.9 a 39.94,39.94 0 0 0 -18.8,5.2 V 35.8 L 347,35 h -13.6 l -0.8,0.8 v 12.4 l 15.1,15.1 v -8.7 c 3.7,-4.4 11.2,-7.5 18.8,-7.5 12.8,0 18.8,7.5 18.8,19.6 v 38.4 l 0.8,0.8 h 13.6 l 0.8,-0.8 V 65.9 c 0,-20.3 -11.2,-33 -33.9,-33 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path8"
+       transform="translate(0,-0.5)"
+       d="M 148,32.8 A 37.18,37.18 0 0 0 110.4,70.4 37.6,37.6 0 1 0 148,32.8 Z m -0.1,60.8 c -12.6,0 -21.7,-9.6 -21.7,-23.2 0,-13.6 9.1,-23.4 21.7,-23.2 12.6,0 21.7,9.6 21.7,23.2 0,13.6 -8.9,23.2 -21.7,23.2 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path10"
+       transform="translate(0,-0.5)"
+       d="m 255.7,35 h -15.1 l -0.8,0.8 -19.6,49.6 -19.6,-49.6 -0.8,-0.8 h -14.9 l -0.8,0.8 28.7,69.2 0.8,0.8 h 13.6 L 228,105 256.5,35.8 Z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path12"
+       transform="translate(0,-0.5)"
+       d="M 80.9,0.5 80.1,1.3 C 79.7,19.9 67.7,35 49.1,35 30.3,35 18.1,19.9 18.1,1.3 L 17.3,0.5 H 0.8 L 0,1.3 V 105 l 0.8,0.8 H 14.4 L 15.2,105 V 32.5 c 9.1,10.6 19.1,17.4 34.1,17.4 15,0 25,-6.8 34.1,-17.5 v 72.4 l 0.8,0.8 h 13.6 l 0.8,-0.8 V 1.3 l -1,-0.8 z"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path14"
+       transform="translate(0,-0.5)"
+       d="M 293.8,93.6 C 281,93.6 271.9,85.2 270,74 h 49.9 l 1.5,-0.8 a 7.64,7.64 0 0 0 0.8,-3.7 c 0,-20.3 -12.8,-36.8 -31.6,-36.8 -21.7,0 -36.1,16.5 -36.1,37 0,20.9 17.5,38.2 39.2,38.2 11.2,0 21.7,-5.3 28.5,-9.7 l 0.3,0.1 V 82.4 l -0.8,-0.8 c -7.5,7.6 -18.2,12 -27.9,12 z m -3,-46.6 a 17.08,17.08 0 0 1 16.5,15.1 H 270.6 A 20.39,20.39 0 0 1 290.8,47 Z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
