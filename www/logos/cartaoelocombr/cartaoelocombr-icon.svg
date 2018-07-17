@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Camada_1"
+   x="0px"
+   y="0px"
+   viewBox="177.273 0 64 64"
+   enable-background="new 177.273 0 72.727 50"
+   xml:space="preserve"
+   sodipodi:docname="cartaoelocombr-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata29"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs27" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview25"
+   showgrid="false"
+   inkscape:zoom="4.6612676"
+   inkscape:cx="10.190361"
+   inkscape:cy="40.148488"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Camada_1" />
+
+
+
+
+<g
+   id="g22"
+   transform="matrix(3.1951062,0,0,3.1951062,-407.17822,-49.585344)">
+	<path
+   style="fill:#ffde00"
+   inkscape:connector-curvature="0"
+   id="path3019_6_"
+   d="m 192.675,19.614 c 2.856,-0.219 4.955,1.647 6.172,4.567 l 3.99,-1.001 c -1.149,-5.056 -6.148,-8.253 -11.059,-7.569 z" />
+	<path
+   style="fill:#ef4023"
+   inkscape:connector-curvature="0"
+   id="path3019_5_"
+   d="m 198.435,28.1 c -1.236,2.584 -3.901,3.47 -7.039,3.066 l -1.126,3.957 c 4.954,1.53 10.221,-1.204 12.081,-5.8 z" />
+	<path
+   style="fill:#1d9ad6"
+   inkscape:connector-curvature="0"
+   id="path3019_3_"
+   d="m 188.278,29.001 c -1.716,-2.294 -1.265,-5.066 0.55,-7.658 l -2.983,-2.833 c -3.654,3.679 -3.675,9.613 -0.466,13.393 z" />
+</g>
+</svg>
