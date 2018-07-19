@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="64"
+   height="64"
+   id="Monero-Logo"
+   sodipodi:docname="getmonero-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="4.8085106"
+     inkscape:cx="59.323688"
+     inkscape:cy="34.011543"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Monero-Logo" />
+  <metadata
+     id="metadata8">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6" />
+  <g
+     id="g840"
+     transform="matrix(2.4375938,0,0,2.4375938,-25.30052,-43.200036)">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ff6600;stroke-width:0.35573047"
+       id="path22"
+       d="m 23.506823,17.722641 c -7.24872,0 -13.127522,5.878091 -13.127522,13.127166 0,1.449246 0.234782,2.842998 0.668773,4.146751 h 3.925842 V 23.951482 l 8.532907,8.532907 8.532907,-8.532907 v 11.045076 h 3.926197 c 0.433991,-1.303753 0.668774,-2.697505 0.668774,-4.146751 0,-7.249075 -5.878802,-13.127166 -13.127878,-13.127166" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#4c4c4c;stroke-width:0.35573047"
+       id="path26"
+       d="M 17.820969,30.721993 V 37.6719 H 12.28936 c 2.304422,3.780703 6.466469,6.305678 11.217249,6.305678 4.750781,0 8.913183,-2.524975 11.21725,-6.305678 h -5.531254 v -6.949907 l -5.685996,5.685996 z" />
+  </g>
+</svg>
