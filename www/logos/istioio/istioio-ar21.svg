@@ -15,13 +15,13 @@
    y="0px"
    viewBox="0 0 120 60"
    xml:space="preserve"
-   sodipodi:docname="istio-ar21.svg"
+   sodipodi:docname="istioio-ar21.svg"
    width="120"
    height="60"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
    id="metadata32"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
    id="defs30" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
@@ -31,16 +31,16 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1323"
-   inkscape:window-height="857"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
    id="namedview28"
    showgrid="false"
    inkscape:zoom="4.5331667"
-   inkscape:cx="33.626473"
+   inkscape:cx="-3.6543091"
    inkscape:cy="27.857848"
-   inkscape:window-x="0"
-   inkscape:window-y="0"
-   inkscape:window-maximized="0"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
    inkscape:current-layer="Layer_1" />
 <style
    type="text/css"
@@ -49,9 +49,9 @@
 </style>
 
 <g
-   id="g890"
-   transform="translate(0.57732179)"><g
-     transform="matrix(0.34017715,0,0,0.34017715,26.184961,83.457962)"
+   id="g885"
+   transform="translate(-1.0000006)"><g
+     transform="matrix(0.29605319,0,0,0.29605319,31.66851,74.523995)"
      id="g874"><g
        id="g13"
        transform="matrix(0.34409728,0,0,0.34409728,-60.53197,-240.79747)">
@@ -59,7 +59,7 @@
    id="hull">
 		<polygon
    class="st0"
-   points="11.3,420.2 326.1,420.2 129.4,479.2 "
+   points="129.4,479.2 11.3,420.2 326.1,420.2 "
    id="polygon4"
    style="fill:#466bb0" />
 	</g>
@@ -67,7 +67,7 @@
    id="mainsail">
 		<polygon
    class="st0"
-   points="11.3,400.5 129.4,380.8 129.4,164.4 "
+   points="129.4,164.4 11.3,400.5 129.4,380.8 "
    id="polygon7"
    style="fill:#466bb0" />
 	</g>
@@ -75,12 +75,12 @@
    id="headsail">
 		<polygon
    class="st0"
-   points="149,380.8 326.1,400.5 149,7 "
+   points="149,7 149,380.8 326.1,400.5 "
    id="polygon10"
    style="fill:#466bb0" />
 	</g>
 </g></g><g
-     transform="matrix(0.29884675,0,0,0.29884675,29.806191,-132.27379)"
+     transform="matrix(0.2479399,0,0,0.2479399,38.967146,-104.63137)"
      id="g25">
 	<path
    inkscape:connector-curvature="0"
