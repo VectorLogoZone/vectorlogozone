@@ -31,7 +31,7 @@
      id="namedview26"
      showgrid="false"
      inkscape:zoom="2.5425"
-     inkscape:cx="-20.254831"
+     inkscape:cx="-86.724841"
      inkscape:cy="42.458987"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
@@ -47,12 +47,12 @@ Created by potrace 1.15, written by Peter Selinger 2001-2017
     <dc:format>image/svg+xml</dc:format>
     <dc:type
        rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-    <dc:title></dc:title>
+    <dc:title />
   </cc:Work>
 </rdf:RDF>
 </metadata>
   <g
-     transform="matrix(0.00538343,0,0,-0.00538343,1.9403463,26.56449)"
+     transform="matrix(0.00468732,0,0,-0.00468732,7.5082195,26.038927)"
      id="g22"
      style="fill:#000000;stroke:none">
     <path
