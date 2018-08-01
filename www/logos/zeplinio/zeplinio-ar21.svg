@@ -12,7 +12,7 @@
    viewBox="0 0 120 60"
    version="1.1"
    id="svg30"
-   sodipodi:docname="zeplin-ar21.svg"
+   sodipodi:docname="zeplinio-ar21.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata36">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -42,17 +42,17 @@
      id="namedview32"
      showgrid="false"
      inkscape:zoom="5.5584742"
-     inkscape:cx="59.963822"
+     inkscape:cx="29.559795"
      inkscape:cy="31.79286"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg30" />
   <g
-     id="g913"
-     transform="translate(-4.6751681e-7,1.6225806)">
+     id="g884"
+     transform="translate(0.64018885)">
     <g
-       transform="matrix(1.2117164,0,0,1.2117164,-12.463026,-3.7905194)"
+       transform="matrix(1.2117164,0,0,1.2117164,-46.63877,7.1317533)"
        id="g891">
       <path
          id="path4"
@@ -96,7 +96,7 @@
          style="fill:#f0670a;fill-rule:nonzero;stroke-width:0.35954067" />
     </g>
     <g
-       transform="matrix(1.3793172,0,0,1.3793172,-23.466438,-13.188323)"
+       transform="matrix(1.3793172,0,0,1.3793172,-0.50366556,-30.454672)"
        id="g897">
       <g
          id="g26"
