@@ -1,6 +1,6 @@
 ---
 blog: https://www.codecademy.com/blog
-dribbble: codecademy
+dribbble: https://dribbble.com/codecademy
 facebook: https://www.facebook.com/codecademy
 font:
   myfonts: https://www.myfonts.com/fonts/linotype/din-next/

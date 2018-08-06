@@ -7,6 +7,7 @@ sort: neo4j
 title: 'Neo4j'
 twitter: neo4j
 website: 'https://neo4j.com/'
+wikipedia: 'https://en.wikipedia.org/wiki/Neo4j'
 youtube: 'https://youtube.com/neo4j'
 ---
 
