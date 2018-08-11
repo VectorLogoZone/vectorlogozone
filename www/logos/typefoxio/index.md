@@ -1,6 +1,6 @@
 ---
-title: TypeFox
+logohandle: typefoxio
 sort: typefox
-handle: typefoxio
+title: TypeFox
 website: https://typefox.io/
 ---
