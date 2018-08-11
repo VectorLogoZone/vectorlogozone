@@ -1,5 +1,4 @@
 ---
-created: '2018-08-05T21:57:52.227Z'
 facebook: 'https://facebook.com/NETELLER'
 logohandle: neteller
 sort: neteller

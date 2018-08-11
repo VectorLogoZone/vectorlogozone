@@ -1,5 +1,4 @@
 ---
-created: '2018-08-05T21:38:19.525Z'
 facebook: 'https://facebook.com/Instacart'
 googleplus: 'https://plus.google.com/+Instacart'
 instagram: 'https://instagram.com/instacart'

@@ -1,6 +1,5 @@
 ---
 blog: 'https://influxdata.com/blog'
-created: '2018-08-05T21:50:00.641Z'
 facebook: 'https://facebook.com/influxdb'
 github: influxdata/influxdb
 googleplus: 'https://plus.google.com/communities/114507511002042654305'

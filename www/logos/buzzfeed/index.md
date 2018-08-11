@@ -1,5 +1,4 @@
 ---
-created: '2018-08-05T21:37:00.711Z'
 facebook: 'https://www.facebook.com/BuzzFeedVideo/'
 googleplus: 'https://plus.google.com/108807575261328575617'
 instagram: 'http://www.instagram.com/buzzfeed'

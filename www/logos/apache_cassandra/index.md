@@ -1,5 +1,4 @@
 ---
-created: '2018-08-05T21:44:00.876Z'
 logohandle: apache_cassandra
 sort: cassandra
 title: Apache Cassandra

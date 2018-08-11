@@ -1,6 +1,5 @@
 ---
 blog: 'http://blog.wmtransfer.com/en'
-created: '2018-08-06T02:03:04.672Z'
 facebook: 'http://facebook.com/webmoneyofficial'
 logohandle: wmtransfer
 sort: wmtransfer

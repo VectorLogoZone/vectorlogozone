@@ -1,5 +1,4 @@
 ---
-created: '2018-08-05T21:55:48.065Z'
 facebook: 'https://facebook.com/Skrillpayments'
 instagram: 'https://instagram.com/skrill'
 logohandle: skrill

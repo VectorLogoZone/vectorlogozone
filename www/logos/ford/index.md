@@ -1,5 +1,4 @@
 ---
-created: '2018-08-07T01:24:01.470Z'
 facebook: 'http://facebook.com/ford'
 googleplus: 'https://plus.google.com/+ford'
 instagram: 'http://instagram.com/ford'
