@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120pt"
+   height="60pt"
+   viewBox="0 0 120 60.000002"
+   version="1.1"
+   id="svg33"
+   sodipodi:docname="payoneer-ar21.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview35"
+     showgrid="false"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="68.631531"
+     inkscape:cy="33.24256"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg33" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="py-logo-clip">
+      <path
+         d="M 208,0 H 552 V 314 H 208 Z m 0,0"
+         id="path2"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <g
+     id="g874"
+     transform="matrix(0.12630072,0,0,0.12630072,5.4254599,10.169655)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path7"
+       d="m 229,25.5 c 1.1,25.1 22.8,120.9 22.8,120.9 8,19.4 14.8,0 14.8,0 C 292.9,67.7 239.2,22.1 239.2,22.1 225.6,14.1 229,25.5 229,25.5 M 540.3,11.8 c 0,0 26.3,18.3 0,21.7 0,0 -98.1,11.4 -171.1,79.8 0,0 -109.4,95.8 -150.5,200.7 0,0 -13.7,0 -9.1,-20.5 4.6,-20.5 31.9,-110.6 153.9,-221.2 0,0 117.5,-107.2 176.8,-60.5"
+       style="clip-rule:nonzero;fill:#ff4800"
+       class="py-logo-symbol" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path11"
+       d="m 41.3,163.6 c 4.4,0.9 8.3,1.4 14,1.4 22.3,0 37.4,-14.4 37.4,-32.7 C 92.7,115.9 81.1,110 66,110 c -6.6,0 -11.6,0.4 -14.8,1.3 z M 28.8,92.4 c 9.3,-2.3 23.3,-3.7 37,-3.7 14.4,0 29.4,3 39.5,11 8.9,6.8 14.1,16.9 14.1,30.6 0,18.2 -8.6,33.1 -19.6,41.8 -12.3,9.8 -29.9,14.6 -48.2,14.6 -5.5,0 -10.3,-0.7 -14.4,-1.1 L 26,243.8 H 0 Z m 0,0"
+       class="py-logo-text"
+       style="fill:#333333" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path13"
+       d="m 190,151.7 c -2.7,-0.7 -6.2,-1.1 -10.9,-1.1 -24.5,0 -43.7,27.6 -43.7,53 0,11.6 4.4,21.2 16,21.2 12.6,0 27.7,-15.5 32.9,-43.8 z m -10.7,92.1 c 0,-6.6 0.9,-15.5 1.8,-24.9 h -0.4 c -11,20.3 -25.9,27.4 -40,27.4 -19.9,0 -32.9,-15.5 -32.9,-37.9 0,-37.9 26.5,-78.4 78.3,-78.4 12.1,0 25.1,2.3 33.8,5.1 l -11.6,58 c -3.2,16.4 -5,37.5 -4.6,50.7 z m 0,0"
+       class="py-logo-text"
+       style="fill:#333333" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path15"
+       d="m 371.1,199.7 c 0,15.3 8,26.1 21.7,26.1 19.9,0 33.1,-27.5 33.1,-49.6 0,-11.4 -5.2,-25.6 -21.2,-25.6 -21.3,0 -33.6,28.3 -33.6,49.1 M 453.3,176 c 0,37.9 -26.3,70.3 -64.2,70.3 -28.1,0 -45.4,-19.4 -45.4,-45.9 0,-37.7 26.3,-70.4 64.2,-70.4 29.9,0 45.4,21.5 45.4,46"
+       class="py-logo-text"
+       style="fill:#333333" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path17"
+       d="m 458.3,243.8 14.4,-76.7 c 2.8,-13.3 4.4,-25 5.7,-34.5 h 23.8 l -2.5,19.8 h 0.4 c 10.3,-14.8 24.5,-22.4 40,-22.4 16,0 28.3,9.6 28.3,30.6 0,5.1 -0.9,12.8 -2,18.3 l -12.2,64.9 H 527.5 L 539.4,181 c 0.7,-4.1 1.4,-8.9 1.4,-13.3 0,-9.3 -3.5,-16 -14,-16 -12.1,0 -27.6,14.7 -32.4,40.7 l -9.6,51.4 z m 0,0"
+       class="py-logo-text"
+       style="fill:#333333" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path19"
+       d="m 639.2,149.9 c -16.7,0 -27.6,14.9 -30.8,28.3 27.4,0.3 45,-3.4 45,-16.8 0,-7.1 -5.7,-11.5 -14.2,-11.5 m 25.4,87.5 c -11,5.7 -25.9,8.9 -39.3,8.9 -30.9,0 -45.7,-18.9 -45.7,-46.1 0,-33.6 24.6,-70.2 63,-70.2 22,0 35.9,12.6 35.9,31.4 0,28.5 -29.9,37.6 -72.9,36.7 -0.4,3.9 0.5,11.4 3,15.8 4.3,7.5 12.3,11.4 22.8,11.4 12.6,0 22.7,-3.2 30.7,-7.3 z m 0,0"
+       class="py-logo-text"
+       style="fill:#333333" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path21"
+       d="m 742.6,149.9 c -16.6,0 -27.6,14.9 -30.8,28.3 27.4,0.3 45,-3.4 45,-16.8 0,-7.1 -5.7,-11.5 -14.2,-11.5 m 25.4,87.5 c -11,5.7 -25.8,8.9 -39.3,8.9 -30.8,0 -45.7,-18.9 -45.7,-46.1 0,-33.6 24.7,-70.2 63.1,-70.2 21.9,0 35.9,12.6 35.9,31.4 0,28.5 -30,37.6 -72.9,36.7 -0.5,3.9 0.4,11.4 2.9,15.8 4.4,7.5 12.4,11.4 22.9,11.4 12.6,0 22.6,-3.2 30.6,-7.3 z m 0,0"
+       class="py-logo-text"
+       style="fill:#333333" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path23"
+       d="m 783.5,243.8 13.1,-68.5 c 2.9,-15.8 4.5,-32.9 5.6,-42.7 h 23.1 c -0.7,7.5 -1.4,15.3 -2.5,23.3 h 0.7 c 7.6,-14.9 19.6,-25.9 34.7,-25.9 2.1,0 4.1,0.3 6,0.3 l -5.3,26 c -1.4,-0.2 -3.2,-0.2 -5,-0.2 -19,0 -31.1,19.2 -35.4,42.9 l -8.5,44.8 z m 0,0"
+       class="py-logo-text"
+       style="fill:#333333" />
+  </g>
+  <style
+     id="style31">
+        #py-logo .py-logo-symbol {
+        }
+
+        #py-logo-text{
+            fill: #333;
+        }
+
+        #py-logo #py-logo-text {
+        
+        }
+
+        #py-logo.inverted #py-logo-text,
+        .py-logo-inverted #py-logo-text {
+            fill: #fff;
+        }
+    </style>
+</svg>

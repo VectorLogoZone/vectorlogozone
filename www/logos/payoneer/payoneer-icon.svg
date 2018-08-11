@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   id="svg3441"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="payoneer-icon.svg">
+  <metadata
+     id="metadata3487">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3485" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview3483"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="4.4659376"
+     inkscape:cx="-36.319924"
+     inkscape:cy="2.3047061"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3441" />
+  <path
+     d="m 63.998502,52.800351 c 0,6.199805 -4.999845,11.19965 -11.199653,11.19965 h -41.5987 c -6.1998074,0 -11.19964915312,-4.999845 -11.19964915312,-11.19965 V 11.19965 C 4.9984688e-4,4.9998418 5.0003416,5.4720786e-8 11.200149,5.4720786e-8 h 41.5987 C 58.998657,5.4720786e-8 63.998502,4.9998418 63.998502,11.19965 Z"
+     id="path3477"
+     inkscape:connector-curvature="0"
+     style="fill:#ff4800;stroke-width:1.35544205;fill-opacity:1" />
+  <path
+     class="py-logo-symbol"
+     style="clip-rule:nonzero;fill:#ffffff;stroke-width:0.14622663"
+     d="m 13.903162,16.800396 c 0.160849,3.670289 3.333966,17.6788 3.333966,17.6788 1.169816,2.836797 2.16416,0 2.16416,0 3.845756,-11.508036 -4.006613,-18.17597 -4.006613,-18.17597 -1.988681,-1.169813 -1.491513,0.49717 -1.491513,0.49717 m 45.520352,-2.003305 c 0,0 3.845761,2.675948 0,3.173118 0,0 -14.344832,1.666984 -25.019378,11.668885 0,0 -15.997192,14.008512 -22.007108,29.347686 0,0 -2.003303,0 -1.330664,-2.997646 0.672647,-2.997646 4.66463,-16.172666 22.504281,-32.345332 0,0 17.18163,-15.6754949 25.852869,-8.846711"
+     id="path7"
+     inkscape:connector-curvature="0" />
+</svg>

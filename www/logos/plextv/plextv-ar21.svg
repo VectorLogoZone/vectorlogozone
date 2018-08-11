@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="60"
+   viewBox="-525.656 -459.391 119.99999 60"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="plex-ar21.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>plex-logo-light</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="5.9338378"
+     inkscape:cx="62.896268"
+     inkscape:cy="61.63314"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <title
+     id="title4">plex-logo-light</title>
+  <radialGradient
+     id="a"
+     cx="1244.322"
+     cy="919.87097"
+     r="0.92500001"
+     gradientTransform="matrix(610,0,0,-1000.5,-756323.63,921038.75)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#f9be03"
+       id="stop8" />
+    <stop
+       offset="1"
+       stop-color="#cc7c19"
+       id="stop10" />
+  </radialGradient>
+  <g
+     id="g836"
+     transform="matrix(0.02778117,0,0,0.02778117,-508.04825,-449.12605)">
+    <path
+       style="fill:#494949;fill-opacity:1"
+       id="path6"
+       d="m 3068.929,210.125 h -290.001 l -289.999,500 289.999,500 h 289.748 l -289.748,-499.75 290.001,-500.25"
+       inkscape:connector-curvature="0" />
+    <path
+       id="path13"
+       d="m 2168.94,210.125 h 290 l 320,500.25 -320,500.25 h -290 l 319.999,-500.25 -319.999,-500.25"
+       inkscape:connector-curvature="0"
+       style="fill:url(#a)" />
+    <path
+       style="fill:#494949;fill-opacity:1"
+       id="path15"
+       d="m 2068.886,1210.125 h -577.073 v -1000 h 577.073 v 173.737 h -364.607 v 219.562 h 339.255 v 173.731 h -339.255 v 257.864 h 364.607 v 175.106 m -1294.671,0 v -1000 h 212.04 v 824.895 h 405.609 v 175.105 H 774.215 M 572.886,768.949 C 505.618,825.956 409.976,854.45 285.948,854.45 H 194.98 v 355.675 H -17.06 V 680.463 l 290,0.359 c 177.562,-2.069 186.842,-110.818 186.842,-148.497 0,-34.979 0,-146.755 -157.842,-148.5 l -319,0.003 V 210.125 h 319.424 c 121.293,0 213.515,26.107 276.677,78.321 63.152,52.213 94.733,130.071 94.733,233.581 0,107.624 -33.633,189.928 -100.888,246.922 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#494949;fill-opacity:1"
+       id="path17"
+       d="m -17.06,320.125 h 212.2 v 429 h -212.2 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
