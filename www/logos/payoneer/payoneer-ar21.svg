@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="120pt"
-   height="60pt"
-   viewBox="0 0 120 60.000002"
+   width="120"
+   height="60"
+   viewBox="0 0 90 45.000002"
    version="1.1"
    id="svg33"
-   sodipodi:docname="payoneer-ar21.svg"
+   sodipodi:docname="payoneer-ar21 (1).svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata37">
@@ -40,12 +40,13 @@
      id="namedview35"
      showgrid="false"
      inkscape:zoom="5.6568543"
-     inkscape:cx="68.631531"
+     inkscape:cx="38.75627"
      inkscape:cy="33.24256"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg33" />
+     inkscape:current-layer="svg33"
+     units="px" />
   <defs
      id="defs5">
     <clipPath
@@ -58,7 +59,7 @@
   </defs>
   <g
      id="g874"
-     transform="matrix(0.12630072,0,0,0.12630072,5.4254599,10.169655)">
+     transform="matrix(0.08678547,0,0,0.08678547,7.4999994,8.8739038)">
     <path
        inkscape:connector-curvature="0"
        id="path7"
