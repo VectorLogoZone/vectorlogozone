@@ -6,5 +6,4 @@ sort: zephyr
 title: Zephyr
 twitter: yourzephyr
 website: 'https://www.getzephyr.com/'
-youtube: 'https://youtube.com/embed/CzHYV8nYoMA'
 ---

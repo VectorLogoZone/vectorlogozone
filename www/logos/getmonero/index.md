@@ -8,5 +8,4 @@ sort: getmonero
 stackexchange: https://monero.stackexchange.com/
 website: 'https://getmonero.org/'
 wikipedia: https://en.wikipedia.org/wiki/Monero_(cryptocurrency)
-youtube: 'https://youtube.com/embed/TZi9xx6aiuY'
 ---

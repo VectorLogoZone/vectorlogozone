@@ -8,5 +8,4 @@ title: Columbia Journalism Review
 twitter: CJR
 website: 'https://www.cjr.org/'
 wikipedia: https://en.wikipedia.org/wiki/Columbia_Journalism_Review
-youtube: 'https://youtube.com/embed/IJsTlxNcMM0'
 ---

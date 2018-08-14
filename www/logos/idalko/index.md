@@ -7,5 +7,4 @@ sort: idalko
 title: Exalate
 twitter: idalkoTools
 website: 'https://www.idalko.com/exalate'
-youtube: 'https://youtube.com/embed/i6X8AUZiie4'
 ---
