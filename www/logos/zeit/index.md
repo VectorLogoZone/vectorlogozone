@@ -2,6 +2,7 @@
 blog: https://zeit.co/blog
 facebook: https://facebook.com/zeithq
 github: zeit
+guide: https://github.com/zeit/art
 images:
 - zeit-ar21.svg
 - zeit-icon.svg

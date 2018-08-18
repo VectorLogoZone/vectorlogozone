@@ -1,5 +1,5 @@
 _site/
-tmp/
+tmp*
 *~
 .idea/
 work-in-progress/

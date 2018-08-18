@@ -2,6 +2,7 @@
 blog: https://firebase.googleblog.com/
 facebook: https://www.facebook.com/Firebase/
 github: firebase
+guide: https://firebase.google.com/brand-guidelines/
 images:
 - firebase-ar21.svg
 - firebase-icon.svg

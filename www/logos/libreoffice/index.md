@@ -20,3 +20,4 @@ wikipedia: https://en.wikipedia.org/wiki/LibreOffice
 ---
 
 [Official Logo Gallery](https://wiki.documentfoundation.org/Gallery_Logos)
+[Alternate Logo Gallery](https://demo.identihub.co/libreoffice#/)
