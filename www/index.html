@@ -22,6 +22,20 @@ I wanted images that were:</p>
 
 <p>I ended having to do a fair bit of work to get what I needed, and figured others might benefit as well.</p>
 
+<p>
+    Currently there are
+    {%- assign logocount = 0 %}
+    {%- for file in site.static_files %}
+        {%- assign logocount = logocount | plus:1 %}
+    {%- endfor -%}
+    &nbsp;<b>{{ logocount | intcomma }}</b> images for
+    {%- assign pagecount = 0 %}
+    {%- for logopage in site.pages -%}
+        {%- if logopage.logohandle %}{% assign pagecount = pagecount | plus:1 %}{% endif %}
+    {%- endfor -%}
+    &nbsp;<b>{{ pagecount }}</b> companies/projects.
+</p>
+
 <div class="row">
     <div class="col-md-offset-4 col-md-4">
 	<p><a class="btn btn-success btn-lg btn-block" href="/logos/index.html">Browse Logos</a></p>
