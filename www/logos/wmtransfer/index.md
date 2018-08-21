@@ -3,7 +3,7 @@ blog: 'http://blog.wmtransfer.com/en'
 facebook: 'http://facebook.com/webmoneyofficial'
 logohandle: wmtransfer
 sort: wmtransfer
-title: 'WebMoney&nbsp;&#8212; Universal Payment System'
+title: 'WebMoney'
 twitter: WebMoneySystem
 website: 'https://www.wmtransfer.com/'
 wikipedia: 'https://en.wikipedia.org/wiki/WebMoney'

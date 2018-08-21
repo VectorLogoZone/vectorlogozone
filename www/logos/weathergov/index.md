@@ -1,7 +1,7 @@
 ---
 facebook: 'http://facebook.com/nws'
 logohandle: weathergov
-sort: weather
+sort: national weather service
 title: National Weather Service
 twitter: nws
 website: 'https://www.weather.gov/'

@@ -5,7 +5,7 @@ googleplus: 'https://plus.google.com/+smartsheet'
 linkedin: 'https://linkedin.com/company/smartsheet-com'
 logohandle: smartsheet
 sort: smartsheet
-title: ''
+title: 'SmartSheet'
 twitter: smartsheet
 website: 'https://www.smartsheet.com/'
 youtube: 'https://youtube.com/user/SmartSheet'

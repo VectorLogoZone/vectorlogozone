@@ -5,7 +5,7 @@ instagram: 'https://instagram.com/theatlantic'
 linkedin: 'https://linkedin.com/company/the-atlantic'
 logohandle: theatlantic
 pinterest: 'https://pinterest.com/theatlantic'
-sort: theatlantic
+sort: atlantic
 title: 'The Atlantic'
 twitter: theatlantic
 website: 'https://www.theatlantic.com/'

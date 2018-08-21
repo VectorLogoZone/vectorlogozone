@@ -1,7 +1,7 @@
 ---
 facebook: 'https://facebook.com/verge'
 logohandle: theverge
-sort: theverge
+sort: verge
 title: The Verge
 twitter: verge
 website: 'https://www.theverge.com/'

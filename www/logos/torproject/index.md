@@ -3,7 +3,7 @@ blog: 'https://blog.torproject.org/blog'
 guide: 'https://demo.identihub.co/tor-project'
 logohandle: torproject
 sort: torproject
-title: Tor Project | Privacy Online
+title: Tor Project
 twitter: TorProject
 website: 'https://www.torproject.org/'
 ---
