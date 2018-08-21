@@ -41,7 +41,7 @@ deploy:
   local-dir: _site
   skip_cleanup: true
   on:
-    repo: fileformat/vectorlogozone
+    repo: VectorLogoZone/vectorlogozone
     branch: gh-pages
 after_deploy:
 - bin/flush_cdn.sh
