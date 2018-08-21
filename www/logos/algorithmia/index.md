@@ -1,6 +1,5 @@
 ---
 blog: 'https://blog.algorithmia.com/'
-created: '2018-08-21T02:21:46.525Z'
 facebook: 'https://facebook.com/algorithmia'
 github: algorithmiaio
 guide: ''
