@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="-22.98 -3.2500012 64 64.000001"
+   xml:space="preserve"
+   sodipodi:docname="alibaba-cloud-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata15"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs13">
+	
+
+		
+		
+	</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview11"
+   showgrid="false"
+   inkscape:zoom="4.5390642"
+   inkscape:cx="100.35116"
+   inkscape:cy="34.89671"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#373C41;}
+</style>
+<g
+   id="g837"
+   transform="matrix(2.619223,0,0,2.619223,18.542242,-41.314215)"><g
+     transform="translate(-15.852885,-20.069909)"
+     id="g832"><path
+       sodipodi:nodetypes="cssccsccccccccsccccsccsccccccccscccsc"
+       class="st0"
+       d="M 3.3223864,39.321568 C 2.2087889,39.547048 1.0123616,40.439767 0.51538406,41.415316 0.01840656,42.390864 0,42.63015 0,46.734816 c 0,2.190383 0.03681315,3.994226 0.09203287,4.279528 0.32692204,1.670763 1.63321813,2.977059 3.30398023,3.303981 0.5061808,0.09203 7.0957339,0.138049 7.0957339,0.03681 0,-0.07363 -0.5614003,-2.282416 -0.5890102,-2.310026 -0.0092,-0.01841 -1.1780212,-0.276098 -2.5953275,-0.579807 C 4.0034291,50.747448 4.1046655,50.775059 3.8285669,50.44374 L 3.5892816,50.158438 v -6.681586 l 0.2392856,-0.289904 c 0.2760986,-0.331318 0.1748626,-0.303708 3.4788421,-1.021564 1.4173063,-0.303709 2.5861233,-0.561401 2.5953266,-0.579808 0.02761,-0.02761 0.5890101,-2.236398 0.5890101,-2.310025 0,-0.08743 -6.7276022,-0.04602 -7.1693596,0.04602 z m 10.6666096,0.0138 c 0.0092,0.165659 0.524588,2.190382 0.579807,2.245602 0.01841,0.02761 1.279257,0.312911 2.788597,0.635027 1.50934,0.322115 2.853019,0.653433 2.972662,0.717856 0.162039,0.09389 0.298068,0.226753 0.395741,0.386538 0.147254,0.257692 0.16566,0.533791 0.16566,3.497249 0,2.963458 -0.01841,3.239556 -0.16566,3.497249 -0.100303,0.157671 -0.235754,0.289973 -0.395741,0.386537 -0.119643,0.06442 -1.454119,0.386538 -2.972662,0.717858 -1.518542,0.331318 -2.77019,0.607417 -2.788597,0.635026 -0.05522,0.05522 -0.570603,2.079943 -0.579807,2.245601 0,0.101237 0.662637,0.119643 3.570876,0.09203 4.012632,-0.03681 4.058648,-0.04602 5.080214,-0.736262 0.733841,-0.504975 1.288182,-1.230131 1.582966,-2.07074 0.211675,-0.616619 0.211675,-0.67184 0.211675,-4.767303 0,-4.095462 0,-4.150682 -0.211675,-4.767302 -0.294784,-0.840609 -0.849125,-1.565764 -1.582966,-2.070738 -1.021566,-0.690247 -1.067582,-0.69945 -5.080214,-0.736263 -2.908239,-0.02761 -3.570876,-0.01381 -3.570876,0.09203 z"
+       id="path4"
+       inkscape:connector-curvature="0"
+       style="fill:#373c41;stroke-width:0.09203287" /><path
+       class="st0"
+       d="m 9.8843302,46.624376 c -0.029576,0.09844 -0.035877,0.202413 -0.018407,0.303709 0.027611,0.156455 0.1932698,0.165659 2.3560418,0.193269 l 2.319228,0.01841 v -0.64423 h -2.300821 c -1.923487,0 -2.3192291,0.01841 -2.3560423,0.128846 z"
+       id="path6"
+       inkscape:connector-curvature="0"
+       style="fill:#373c41;stroke-width:0.09203287" /></g></g>
+</svg>
