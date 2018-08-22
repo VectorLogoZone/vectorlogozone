@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--
+ Licensed to the Apache Software Foundation (ASF) under one
+ or more contributor license agreements.  See the NOTICE file
+ distributed with this work for additional information
+ regarding copyright ownership.  The ASF licenses this file
+ to you under the Apache License, Version 2.0 (the
+ "License"); you may not use this file except in compliance
+ with the License.  You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing,
+ software distributed under the License is distributed on an
+ "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ KIND, either express or implied.  See the License for the
+ specific language governing permissions and limitations
+ under the License.
+-->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="-2.46337 -1.13211 64 63.999998"
+   version="1.1"
+   sodipodi:docname="apache-beam-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata61">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>beam-logo_3-color_name-right</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview59"
+     showgrid="false"
+     inkscape:zoom="4.1789939"
+     inkscape:cx="11.366372"
+     inkscape:cy="14.56"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs24">
+    <style
+       id="style2">.cls-1,.cls-8{fill:#ff6d00;stroke:#ff6d00;stroke-miterlimit:10;}.cls-1{stroke-width:0.07702px;}.cls-2{fill:#fee900;}.cls-3{fill:#ffc400;}.cls-4{opacity:0.75;fill:url(#linear-gradient);}.cls-5{fill:#ffe082;}.cls-6{fill:url(#linear-gradient-2);}.cls-7{fill:#fff;}.cls-8{stroke-width:0.07658px;}</style>
+    <linearGradient
+       id="linear-gradient"
+       x1="0.11105"
+       y1="13.77808"
+       x2="6.9668498"
+       y2="13.77808"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#ffc400"
+         id="stop4" />
+      <stop
+         offset="0.13695"
+         stop-color="#fecd00"
+         id="stop6" />
+      <stop
+         offset="0.36528"
+         stop-color="#fed400"
+         id="stop8" />
+      <stop
+         offset="1"
+         stop-color="#fed600"
+         id="stop10" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="0.11105"
+       y1="11.46331"
+       x2="14.36906"
+       y2="11.46331"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#ff0"
+         stop-opacity="0.7"
+         id="stop13" />
+      <stop
+         offset="0.13194"
+         stop-color="#fff600"
+         stop-opacity="0.66022"
+         id="stop15" />
+      <stop
+         offset="0.31385"
+         stop-color="#feef00"
+         stop-opacity="0.62592"
+         id="stop17" />
+      <stop
+         offset="0.54652"
+         stop-color="#feea00"
+         stop-opacity="0.60587"
+         id="stop19" />
+      <stop
+         offset="1"
+         stop-color="#fee900"
+         stop-opacity="0.6"
+         id="stop21" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title26">beam-logo_3-color_name-right</title>
+  <g
+     id="g882"
+     transform="matrix(2.3209925,0,0,2.3209925,-61.209935,-40.03347)">
+    <polygon
+       transform="translate(29.193629,16.761768)"
+       style="fill:#fee900"
+       id="polygon36"
+       points="6.967,13.786 14.369,9.141 14.369,5.513 0.111,1.044 0.111,9.483 "
+       class="cls-2" />
+    <polygon
+       transform="translate(29.193629,16.761768)"
+       style="fill:#ffc400"
+       id="polygon38"
+       points="0.111,18.089 14.369,9.141 14.369,5.513 0.111,1.044 0.111,9.483 0.111,9.597 "
+       class="cls-3" />
+    <polygon
+       transform="translate(29.193629,16.761768)"
+       style="opacity:0.75;fill:url(#linear-gradient)"
+       id="polygon40"
+       points="0.111,18.081 6.967,13.778 0.111,9.476 0.111,9.589 "
+       class="cls-4" />
+    <polygon
+       transform="translate(29.193629,16.761768)"
+       style="fill:#ffc400"
+       id="polygon42"
+       points="0.111,18.089 0.111,26.443 14.369,22.059 14.369,18.432 0.111,9.483 "
+       class="cls-3" />
+    <polygon
+       transform="translate(29.193629,16.761768)"
+       style="fill:#ffe082"
+       id="polygon44"
+       points="0.048,21.017 14.369,22.293 14.369,18.19 0.048,19.465 "
+       class="cls-5" />
+    <polygon
+       transform="translate(29.193629,16.761768)"
+       style="fill:#ffe082"
+       id="polygon46"
+       points="0,8.151 14.303,9.426 14.303,5.323 0,6.598 "
+       class="cls-5" />
+    <polygon
+       transform="translate(29.193629,16.761768)"
+       style="fill:#fee900"
+       id="polygon48"
+       points="0.111,1.044 14.369,5.513 "
+       class="cls-2" />
+    <polygon
+       transform="translate(29.193629,16.761768)"
+       style="fill:url(#linear-gradient-2)"
+       id="polygon50"
+       points="14.369,9.141 6.967,13.786 "
+       class="cls-6" />
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       id="path52"
+       d="m 41.933709,37.002858 a 1.629,1.629 0 0 0 1.629,1.629 v -3.258 a 1.629,1.629 0 0 0 -1.629,1.629 z"
+       class="cls-7" />
+    <path
+       style="fill:#ffffff"
+       inkscape:connector-curvature="0"
+       id="path54"
+       d="m 41.933709,24.136448 a 1.629,1.629 0 0 0 1.629,1.629 v -3.258 a 1.629,1.629 0 0 0 -1.629,1.629 z"
+       class="cls-7" />
+    <path
+       style="fill:#ff6d00;stroke:#ff6d00;stroke-width:0.07658px;stroke-miterlimit:10"
+       inkscape:connector-curvature="0"
+       id="path56"
+       d="m 48.679359,34.192528 a 6.11749,6.11749 0 0 0 -0.85923,-1.83177 5.77531,5.77531 0 0 0 -1.45409,-1.44474 6.56546,6.56546 0 0 0 -2.06782,-0.93477 6.56259,6.56259 0 0 0 2.98371,-2.34164 5.93691,5.93691 0 0 0 1.01975,-3.39916 7.87167,7.87167 0 0 0 -0.65151,-3.33307 5.92106,5.92106 0 0 0 -1.879,-2.31332 8.449,8.449 0 0 0 -3.00259,-1.35022 16.55165,16.55165 0 0 0 -4.00346,-0.44378 h -9.42323 v 1.06115 l 13.95629,4.34814 a 0.38292,0.38292 0 0 1 0.26447,0.36414 v 3.116 a 0.38292,0.38292 0 0 1 -0.19569,0.334 l -7.15044,4.52428 7.15044,4.5243 a 0.38292,0.38292 0 0 1 0.19569,0.334 v 3.116 a 0.38292,0.38292 0 0 1 -0.26447,0.36414 l -13.95629,4.34814 v 1.06116 h 10.08418 a 14.40135,14.40135 0 0 0 3.994,-0.50987 8.33886,8.33886 0 0 0 3.00259,-1.52027 6.56572,6.56572 0 0 0 1.88842,-2.5116 8.68771,8.68771 0 0 0 0.65151,-3.484 7.59145,7.59145 0 0 0 -0.28323,-2.07724 z"
+       class="cls-8" />
+  </g>
+</svg>
