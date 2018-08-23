@@ -1,4 +1,5 @@
 ---
+blog: http://blog.puppylinux.com/
 logohandle: puppylinux
 sort: puppylinux
 title: Puppy Linux

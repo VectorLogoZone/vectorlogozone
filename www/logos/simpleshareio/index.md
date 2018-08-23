@@ -17,5 +17,6 @@ tags:
 - saas
 - sharing
 title: SimpleShare.IO
+twitter: simpleshareio
 website: https://simpleshare.io/
 ---
