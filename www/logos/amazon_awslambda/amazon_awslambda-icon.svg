@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="22.34 10.9 64 63.999997"
+   xml:space="preserve"
+   sodipodi:docname="aws-lambda-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata53"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs51">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview49"
+   showgrid="false"
+   inkscape:zoom="7.119155"
+   inkscape:cx="46.474547"
+   inkscape:cy="35.426282"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#F58536;}
+	.st1{fill:#9D5125;}
+	.st2{fill:#F58534;}
+	.st3{fill:#6B3B19;}
+	.st4{fill:#FCBF92;}
+</style>
+
+<g
+   id="g891"
+   transform="matrix(1.9081344,0,0,1.9081344,-35.564601,-32.340265)"><polygon
+     transform="matrix(0.16695179,0,0,0.16695179,23.075435,19.889617)"
+     class="st1"
+     points="90.1,117.1 71.4,52.8 60.8,58.1 60.8,175.9 71.4,181.1 "
+     id="polygon24"
+     style="fill:#9d5125" /><polygon
+     transform="matrix(0.16695179,0,0,0.16695179,23.075435,19.889617)"
+     class="st2"
+     points="71.4,181.1 91.9,176.3 91.9,57.7 71.4,52.9 "
+     id="polygon26"
+     style="fill:#f58534" /><polygon
+     transform="matrix(0.16695179,0,0,0.16695179,23.075435,19.889617)"
+     class="st1"
+     points="119.1,117.1 99.7,195.3 84.1,187.5 84.1,46.5 99.7,38.7 "
+     id="polygon28"
+     style="fill:#9d5125" /><polygon
+     transform="matrix(0.16695179,0,0,0.16695179,23.075435,19.889617)"
+     class="st2"
+     points="99.7,38.7 131.5,48.9 131.5,184.9 99.7,195 "
+     id="polygon30"
+     style="fill:#f58534" /><polygon
+     transform="matrix(0.16695179,0,0,0.16695179,23.075435,19.889617)"
+     class="st1"
+     points="216.6,163.7 203.8,163 203.8,66.2 216.6,66.2 "
+     id="polygon32"
+     style="fill:#9d5125" /><polygon
+     transform="matrix(0.16695179,0,0,0.16695179,23.075435,19.889617)"
+     class="st3"
+     points="215.6,66.2 217,78.7 204.1,80.5 154.4,67.6 168.7,60.2 "
+     id="polygon34"
+     style="fill:#6b3b19" /><polygon
+     transform="matrix(0.16695179,0,0,0.16695179,23.075435,19.889617)"
+     class="st4"
+     points="217.4,155.3 204.5,153.5 154.8,166.4 169.1,173.8 "
+     id="polygon36"
+     style="fill:#fcbf92" /><polygon
+     transform="matrix(0.16695179,0,0,0.16695179,23.075435,19.889617)"
+     class="st1"
+     points="184,84.9 158.4,88.3 158.4,145.7 184,149.1 "
+     id="polygon38"
+     style="fill:#9d5125" /><polygon
+     transform="matrix(0.16695179,0,0,0.16695179,23.075435,19.889617)"
+     class="st1"
+     points="165.3,116.9 144,16.6 119.1,29 119.1,205 144,217.4 "
+     id="polygon40"
+     style="fill:#9d5125" /><path
+     class="st2"
+     d="m 59.237193,45.85062 -7.963601,2.387411 V 30.607922 l 7.963601,2.387411 z M 47.116493,22.661017 V 56.201631 L 61.006882,49.256437 V 29.606211 Z"
+     id="path42"
+     inkscape:connector-curvature="0"
+     style="fill:#f58534;stroke-width:0.16695179" /><polygon
+     transform="matrix(0.16695179,0,0,0.16695179,23.075435,19.889617)"
+     class="st2"
+     points="184,149.3 210.5,117.1 184,84.9 "
+     id="polygon44"
+     style="fill:#f58534" /></g>
+</svg>
