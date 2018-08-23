@@ -33,7 +33,7 @@ I wanted images that were:</p>
     {%- for logopage in site.pages -%}
         {%- if logopage.logohandle %}{% assign pagecount = pagecount | plus:1 %}{% endif %}
     {%- endfor -%}
-    &nbsp;<b>{{ pagecount }}</b> companies/projects.
+    &nbsp;<b>{{ pagecount | intcomma }}</b> companies/projects.
 </p>
 
 <div class="row">

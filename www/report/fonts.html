@@ -47,11 +47,11 @@ layout: default
     {% endif %}{% endif %}{% endfor %}
     <tr>
         <td>&nbsp;</td>
-        <td class="text-center">{{fontcount}} ({{ fontcount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{googlecount}} ({{ googlecount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{microsoftcount}} ({{ microsoftcount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{myfontscount}} ({{ myfontscount | times:100 | divided_by: logocount}}%)</td>
-        <td class="text-center">{{freecount}} ({{ freecount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{fontcount | intcomma}} ({{ fontcount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{googlecount | intcomma}} ({{ googlecount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{microsoftcount | intcomma}} ({{ microsoftcount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{myfontscount | intcomma}} ({{ myfontscount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{freecount | intcomma}} ({{ freecount | times:100 | divided_by: logocount}}%)</td>
     </tr>
     <tr>
         <!--<th>ID</th>-->

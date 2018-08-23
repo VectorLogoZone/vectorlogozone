@@ -80,13 +80,13 @@ redirect_from: /logos/metadata.html
     <tfoot>
         <tr>
             <td>&nbsp;</td>
-            <td class="text-center">{{colorcount}} ({{ colorcount | times:100 | divided_by: logocount}}%)</td>
-            <td class="text-center">{{fontcount}} ({{ fontcount | times:100 | divided_by: logocount}}%)</td>
-            <td class="text-center">{{guidecount}} ({{ guidecount | times:100 | divided_by: logocount}}%)</td>
-            <td class="text-center">{{websitecount}} ({{ websitecount | times:100 | divided_by: logocount}}%)</td>
-            <td class="text-center">{{wikipediacount}} ({{ wikipediacount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{colorcount | intcomma}}<br/>({{ colorcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{fontcount | intcomma}}<br/>({{ fontcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{guidecount | intcomma}}<br/>({{ guidecount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{websitecount | intcomma}}<br/>({{ websitecount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{wikipediacount | intcomma}}<br/>({{ wikipediacount | times:100 | divided_by: logocount}}%)</td>
             <td>&nbsp;</td>
-            <td class="text-center">{{tagcount}} ({{ tagcount | times:100 | divided_by: logocount}}%)</td>
+            <td class="text-center">{{tagcount | intcomma}}<br/>({{ tagcount | times:100 | divided_by: logocount}}%)</td>
         </tr>
         <tr>
             <th>&nbsp;</th>
@@ -101,7 +101,7 @@ redirect_from: /logos/metadata.html
     </tfoot>
 </table>
 
-<p>{{ logocount }} logos</p>
+<p>{{ logocount | intcomma }} logo and placeholder pages</p>
 
 <table class="table table-striped table-bordered" style="width:auto;">
     <thead>
@@ -114,57 +114,57 @@ redirect_from: /logos/metadata.html
     <tbody>
     <tr>
         <td>blog</td>
-        <td class="text-center">{{blogcount}}</td>
+        <td class="text-center">{{blogcount | intcomma}}</td>
         <td class="text-center">{{ blogcount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>facebook</td>
-        <td class="text-center">{{facebookcount}}</td>
+        <td class="text-center">{{facebookcount | intcomma}}</td>
         <td class="text-center">{{ facebookcount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>github</td>
-        <td class="text-center">{{githubcount}}</td>
+        <td class="text-center">{{githubcount | intcomma}}</td>
         <td class="text-center">{{ githubcount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>googleplus</td>
-        <td class="text-center">{{googlepluscount}}</td>
+        <td class="text-center">{{googlepluscount | intcomma}}</td>
         <td class="text-center">{{ googlepluscount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>instagram</td>
-        <td class="text-center">{{instagramcount}}</td>
+        <td class="text-center">{{instagramcount | intcomma}}</td>
         <td class="text-center">{{ instagramcount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>linkedin</td>
-        <td class="text-center">{{linkedincount}}</td>
+        <td class="text-center">{{linkedincount | intcomma}}</td>
         <td class="text-center">{{ linkedincount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>pinterest</td>
-        <td class="text-center">{{pinterestcount}}</td>
+        <td class="text-center">{{pinterestcount | intcomma}}</td>
         <td class="text-center">{{ pinterestcount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>reddit</td>
-        <td class="text-center">{{redditcount}}</td>
+        <td class="text-center">{{redditcount | intcomma}}</td>
         <td class="text-center">{{ redditcount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>tumblr</td>
-        <td class="text-center">{{tumblrcount}}</td>
+        <td class="text-center">{{tumblrcount | intcomma}}</td>
         <td class="text-center">{{ tumblrcount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>twitter</td>
-        <td class="text-center">{{twittercount}}</td>
+        <td class="text-center">{{twittercount | intcomma}}</td>
         <td class="text-center">{{ twittercount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>youtube</td>
-        <td class="text-center">{{youtubecount}}</td>
+        <td class="text-center">{{youtubecount | intcomma}}</td>
         <td class="text-center">{{ youtubecount | times:100 | divided_by: logocount}}%</td>
     </tr>
     </tbody>

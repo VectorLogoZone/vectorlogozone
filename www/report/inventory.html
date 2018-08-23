@@ -46,7 +46,7 @@ redirect_from: /logos/inventory.html
                 {%- for logopage in sorted_pages %}{% if logopage.logohandle -%}
                     {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if logopage.images contains logofile %}{% assign typecount = typecount | plus:1 %}{% endif %}
                 {%- endif %}{% endfor -%}
-                <td style="text-align:center;">{{typecount}}</td>
+                <td style="text-align:center;">{{typecount | intcomma}}</td>
             {%- endfor -%}
             <td>&nbsp;</td>
         </tr>
