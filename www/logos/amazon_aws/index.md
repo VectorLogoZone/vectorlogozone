@@ -19,4 +19,5 @@ tags:
 title: Amazon Web Services
 twitter: awscloud
 website: https://aws.amazon.com/
+youtube:  https://youtube.com/user/AmazonWebServices
 ---
