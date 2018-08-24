@@ -71,7 +71,7 @@ redirect_from: /util/tile-vs-supertiny.html
         </thead>
         <tbody>
         {%- for logopage in sorted_pages %}{% if logopage.logohandle -%}
-        {%- capture sti_file %}{{ logopage.supertinyicon | default: logopage.logohandle }}{% endcapture -%}
+        {%- capture sti_file %}{{ site.data.supertinyicons[logopage.logohandle] | default: logopage.logohandle }}{% endcapture -%}
         {%- capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture -%}
         {%- if logopage.images contains tilefile -%}
         <tr>

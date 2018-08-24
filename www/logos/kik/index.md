@@ -12,7 +12,6 @@ images:
 logohandle: kik
 skipped: 0
 sort: kik
-supertinyicon: '-'
 title: kik
 twitter: kik
 website: https://www.kik.com/

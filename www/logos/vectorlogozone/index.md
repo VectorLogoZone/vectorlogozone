@@ -9,7 +9,6 @@ images:
 logohandle: vectorlogozone
 skipped: 0
 sort: vectorlogozone
-supertinyicon: '-'
 tags:
 - andrew_marcuse
 - graphics

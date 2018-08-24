@@ -1,0 +1,22 @@
+{
+  "adobe_acrobat": "pdf",
+  "archive": "internet_archive",
+  "clipboardjs": "-",
+  "digitalrosetta": "-",
+  "discordapp": "discord",
+  "fileformatinfo": "-",
+  "getpocket": "pocket",
+  "joinmastodon": "mastodon",
+  "kik": "-",
+  "myfonts": "-",
+  "npmjs": "npm",
+  "okru": "ok",
+  "plextv": "plex",
+  "simpleshareio": "-",
+  "steampowered": "steam",
+  "supertinyicons": "-",
+  "vectorlogozone": "-",
+  "w3_svg": "-",
+  "w3c": "-",
+  "ycombinator": "hackernews"
+}

@@ -15,7 +15,6 @@ layout: default
 logohandle: fileformatinfo
 skipped: 0
 sort: fileformat.info
-supertinyicon: '-'
 tags:
 - andrew_marcuse
 - digital_preservation

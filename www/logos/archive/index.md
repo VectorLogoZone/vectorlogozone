@@ -12,7 +12,6 @@ images:
 logohandle: archive
 skipped: 0
 sort: internet_archive
-supertinyicon: internet_archive
 tags:
 - charity
 - digital_preservation

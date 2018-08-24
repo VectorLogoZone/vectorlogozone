@@ -21,7 +21,6 @@ images:
 logohandle: discordapp
 skipped: 0
 sort: discordapp
-supertinyicon: discord
 title: Discord
 twitter: discordapp
 website: https://discordapp.com/

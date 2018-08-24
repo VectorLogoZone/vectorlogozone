@@ -11,7 +11,6 @@ images:
 logohandle: simpleshareio
 skipped: 0
 sort: simpleshare
-supertinyicon: '-'
 tags:
 - andrew_marcuse
 - saas

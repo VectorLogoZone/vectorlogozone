@@ -11,7 +11,6 @@ images:
 logohandle: digitalrosetta
 skipped: 0
 sort: digitalrosetta
-supertinyicon: '-'
 tags:
 - andrew_marcuse
 - digital_preservation

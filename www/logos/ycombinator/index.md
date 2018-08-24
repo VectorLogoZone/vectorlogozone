@@ -11,7 +11,6 @@ linkedin: https://www.linkedin.com/company/167872/
 logohandle: ycombinator
 skipped: 0
 sort: ycombinator
-supertinyicon: hackernews
 tags:
 - venture_capital
 - news

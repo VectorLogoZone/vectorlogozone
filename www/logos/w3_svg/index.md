@@ -16,7 +16,6 @@ images:
 logohandle: w3_svg
 skipped: 0
 sort: svg
-supertinyicon: '-'
 title: SVG
 website: https://www.w3.org/Graphics/SVG/
 wikipedia: https://en.wikipedia.org/wiki/Scalable_Vector_Graphics

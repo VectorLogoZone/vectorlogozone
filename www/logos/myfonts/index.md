@@ -12,7 +12,6 @@ logohandle: myfonts
 pinterest: https://www.pinterest.com/myfonts
 skipped: 0
 sort: myfonts
-supertinyicon: '-'
 tags:
 - fonts
 title: MyFonts

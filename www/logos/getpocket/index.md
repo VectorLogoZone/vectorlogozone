@@ -7,7 +7,6 @@ images:
 logohandle: getpocket
 skipped: 0
 sort: pocket
-supertinyicon: pocket
 title: Pocket
 twitter: pocket
 website: https://getpocket.com/

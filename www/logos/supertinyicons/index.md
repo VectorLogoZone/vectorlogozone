@@ -8,7 +8,6 @@ images:
 logohandle: supertinyicons
 skipped: 0
 sort: supertinyicons
-supertinyicon: '-'
 title: Super Tiny Icons
 website: https://www.supertinyicons.org/
 ---

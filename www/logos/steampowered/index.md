@@ -5,7 +5,6 @@ images:
 logohandle: steampowered
 skipped: 0
 sort: steam
-supertinyicon: steam
 title: Steam
 twitter: steam_games
 website: https://store.steampowered.com/

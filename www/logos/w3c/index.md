@@ -8,7 +8,6 @@ images:
 logohandle: w3c
 skipped: 0
 sort: w3c
-supertinyicon: '-'
 tags:
 - reference
 - standards_body

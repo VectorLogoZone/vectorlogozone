@@ -9,7 +9,6 @@ linkedin: https://linkedin.com/company/plex-inc
 logohandle: plextv
 skipped: 0
 sort: plex
-supertinyicon: plex
 title: Plex
 twitter: plex
 website: https://www.plex.tv/

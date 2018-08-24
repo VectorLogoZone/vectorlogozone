@@ -7,7 +7,6 @@ images:
 logohandle: w3_html5
 skipped: 0
 sort: html5
-supertinyicon: html5
 title: HTML5
 website: https://www.w3.org/TR/html/
 wikipedia: https://en.wikipedia.org/wiki/HTML5
