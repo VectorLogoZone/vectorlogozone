@@ -51,6 +51,7 @@
 - name: Google Fonts
   description: nice web fonts
   url: https://fonts.google.com/
+  id: google
 
 - name: git
   description: Version control
@@ -105,6 +106,7 @@
 - name: rsvg
   description: build-time rasterization
   url: https://wiki.gnome.org/Projects/LibRsvg
+  id: gnome
 
 - name: SuperTinyIcons
   description: tile versions
@@ -114,6 +116,7 @@
 - name: svgo
   description: SVG optimization
   url: https://www.github.com/svg/svgo
+  id: svgo
 
 - name: SVGPorn
   description: Icon versions of various logos
