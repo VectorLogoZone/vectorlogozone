@@ -1,6 +1,6 @@
 ---
 logohandle: cloud66_maestro
-sort: Maestro
+sort: maestro
 title: Maestro
 website: 'https://www.cloud66.com/containers/maestro'
 ---

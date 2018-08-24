@@ -1,6 +1,6 @@
 ---
 logohandle: atlassian_bamboo
-sort: Bamboo
+sort: bamboo
 title: Bamboo
 website: 'https://www.atlassian.com/software/bamboo'
 ---

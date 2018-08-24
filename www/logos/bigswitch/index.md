@@ -8,5 +8,5 @@ sort: bigswitch
 title: Big Switch
 twitter: search
 website: 'https://www.bigswitch.com/'
-youtube: 'https://youtube.com/embed/4ivDSy4Jh8c'
+youtube: 'https://www.youtube.com/user/BigSwitchNetworks'
 ---

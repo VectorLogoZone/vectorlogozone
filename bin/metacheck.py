@@ -38,7 +38,7 @@ for fn in found_files:
 
     fm = frontmatter.loads(fmstr)
     #sys.stdout.write("DEBUG: %s\n" % (repr(fm.Post)))
-    if 'logohandle' not in fm.keys():
+    if 'logohandle' not in fm.keys() or len(fm['logohandle']) == 0:
         sys.stdout.write("ERROR: no logohandle for %s (%s)\n" % (fn.parts[-2], fn))
         errCount += 1
 
@@ -46,23 +46,27 @@ for fn in found_files:
         sys.stdout.write("ERROR: mismatch dir=%s metadata=%s (%s)\n" % (fn.parts[-2], fm['logohandle'], fn))
         errCount += 1
 
-    if 'website' not in fm.keys():
+    if 'website' not in fm.keys() or len(fm['website']) == 0:
         sys.stdout.write("ERROR: no website for %s (%s)\n" % (fn.parts[-2], fn))
         errCount += 1
 
-    if 'title' not in fm.keys():
+    if 'title' not in fm.keys() or len(fm['title']) == 0:
         sys.stdout.write("ERROR: no title for %s (%s)\n" % (fn.parts[-2], fn))
         errCount += 1
 
-    if len(fm['title']) == 0 or ' - ' in fm['title'] or ' | ' in fm['title']:
-        sys.stdout.write("ERROR: bad title for %s (%s): '%s'\n" % (fn.parts[-2], fn, fm['title']))
-        errCount += 1
+    if ' - ' in fm['title'] or ' | ' in fm['title']:
+        sys.stdout.write("WARNING: bad title for %s (%s): '%s'\n" % (fn.parts[-2], fn, fm['title']))
+        warnCount += 1
 
-    if 'sort' not in fm.keys():
+    if 'sort' not in fm.keys() or len(fm['sort']) == 0:
         sys.stdout.write("ERROR: no sort for %s (%s)\n" % (fn.parts[-2], fn))
         errCount += 1
 
-    if 'youtube' in fm.keys() and "embed" in fm["youtube"]:
+    if fm['sort'] != fm['sort'].lower():
+        sys.stdout.write("WARNING: bad sort for %s (%s): '%s'\n" % (fn.parts[-2], fn, fm['sort']))
+        warnCount += 1
+
+    if 'youtube' in fm.keys() and 'embed' in fm['youtube']:
         sys.stdout.write("WARNING: embedded youtube for %s (%s): '%s'\n" % (fn.parts[-2], fn, fm['youtube']))
         warnCount += 1
 
