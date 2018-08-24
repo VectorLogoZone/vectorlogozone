@@ -22,18 +22,24 @@ I wanted images that were:</p>
 
 <p>I ended having to do a fair bit of work to get what I needed, and figured others might benefit as well.</p>
 
+{%- assign logocount = 0 %}
+{%- assign pagecount = 0 %}
+{%- assign pendingcount = 0 %}
+{%- for logopage in site.pages -%}
+    {%- if logopage.logohandle %}
+        {%- assign logopagecount = logopage.images | size -%}
+        {%- assign logocount = logocount | plus:logopagecount %}
+        {%- if logopagecount > 0 %}
+            {%- assign pagecount = pagecount | plus:1 %}
+        {%- else %}
+            {%- assign pendingcount = pendingcount | plus:1 %}
+        {%- endif %}
+    {%- endif %}
+{%- endfor %}&nbsp;
 <p>
-    Currently there are
-    {%- assign logocount = 0 %}
-    {%- for file in site.static_files %}
-        {%- assign logocount = logocount | plus:1 %}
-    {%- endfor -%}
-    &nbsp;<b>{{ logocount | intcomma }}</b> images for
-    {%- assign pagecount = 0 %}
-    {%- for logopage in site.pages -%}
-        {%- if logopage.logohandle %}{% assign pagecount = pagecount | plus:1 %}{% endif %}
-    {%- endfor -%}
-    &nbsp;<b>{{ pagecount | intcomma }}</b> companies/projects.
+    Currently there are <b>{{ logocount | intcomma }}</b> images
+    for <b>{{ pagecount | intcomma }}</b> companies/projects
+    (with {{ pendingcount | intcomma }} in the <a href="/report/missing.html">queue</a>).
 </p>
 
 <div class="row">
