@@ -1,7 +1,7 @@
 ---
 colors: '#2c3e50'
 facebook: https://www.facebook.com/VectorLogoZone/
-github: fileformat/vectorlogozone
+github: VectorLogoZone
 images:
 - vectorlogozone-icon.svg
 - vectorlogozone-tile.svg

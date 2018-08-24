@@ -1,10 +1,10 @@
 <img alt="VLZ Logo" src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-tile.svg" height="96" >
 
-# Vector Logo Zone &middot; [![Travis CI build status](https://img.shields.io/travis/fileformat/vectorlogozone.svg?style=flat-square)](https://travis-ci.org/fileformat/vectorlogozone)
+# Vector Logo Zone &middot; [![Travis CI build status](https://img.shields.io/travis/VectorLogoZone/vectorlogozone.svg?style=flat-square)](https://travis-ci.org/fileformat/vectorlogozone)
 
 <!--
-![Github watchers](https://img.shields.io/github/watchers/fileformat/vectorlogozone.svg?style=social)
-![Github stars](https://img.shields.io/github/stars/fileformat/vectorlogozone.svg?style=social)
+![Github watchers](https://img.shields.io/github/watchers/VectorLogoZone/vectorlogozone.svg?style=social)
+![Github stars](https://img.shields.io/github/stars/VectorLogoZone/vectorlogozone.svg?style=social)
 -->
 
 [Vector Logo Zone](https://www.vectorlogo.zone/) is my collection of vector (SVG) logos, sized and laid out in a uniform way so they look
