@@ -1,0 +1,38 @@
+---
+title: Most Social
+layout: default
+noindex: true
+---
+<p>Logos with the most social media links in their metadata</p>
+
+{% assign sorted_pages = site.pages | sort:'sort' %}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Logo</th>
+            <th># social media links</th>
+        </tr>
+    </thead>
+    <tbody>
+{% for logopage in sorted_pages %}{% if logopage.logohandle %}
+{%- assign count = 0 %}
+{%- for sm in site.data.socialmedia %}
+    {%- if logopage contains sm.id %}{% assign count = count | plus:1 %}{% endif %}
+{%- endfor %}
+{%- if count >= 8 %}
+        <tr>
+            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
+            <td>{{count}}</td>
+        </tr>
+{% endif %}
+{%- endif %}{% endfor %}
+    </tbody>
+</table>
+
+{%- assign smcount = 0 %}
+{%- for sm in site.data.socialmedia %}
+    {%- assign smcount = smcount | plus:1 %}
+{%- endfor %}
+
+<p>Maximum possible score: {{smcount}}</p>

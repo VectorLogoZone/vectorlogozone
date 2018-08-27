@@ -1,0 +1,54 @@
+---
+title: Unknown metadata
+layout: default
+noindex: true
+---
+<p>Logos with unknown entries in their metadata</p>
+
+{%- assign stdmeta = 'colors font guide images logohandle notes redirect_from sort tags title website wikipedia' | split: ' ' %}
+{%- assign jekyllmeta = 'content dir layout name path url' | split: ' ' %}
+{%- assign stdmeta = stdmeta | concat:jekyllmeta %}
+{%- for sm in site.data.socialmedia %}
+    {%- assign smid = sm.id | split:' ' %}
+    {%- assign stdmeta = stdmeta | concat:smid %}
+{%- endfor %}
+<p>{{stdmeta | jsonify}}</p>
+
+{%- assign sorted_pages = site.pages | sort:'sort' %}
+
+<table class="table table-bordered">
+    <thead>
+    <tr>
+        <th>Logo</th>
+        <th>Unknown entries</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for logopage in sorted_pages %}
+        {% if logopage.logohandle %}
+            {%- assign unknown = '' | split:'' %}
+            {%- assign count = 0 %}
+            {%- for entry in logopage %}
+                {%- if stdmeta contains entry[0] %}{% else %}
+                    {% assign count = count | plus:1 %}
+                    {% assign entry0 = entry[0] | split:' ' %}
+                    {% assign unknown = unknown | concat:entry0 %}
+                {%- endif %}
+            {%- endfor %}
+            {%- if count > 0 %}
+            <tr>
+                <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
+                <td>{{count}}: {{unknown | join:','}}</td>
+            </tr>
+            {% endif %}
+        {%- endif %}
+    {% endfor %}
+    </tbody>
+</table>
+
+{%- assign smcount = 0 %}
+{%- for sm in site.data.socialmedia %}
+{%- assign smcount = smcount | plus:1 %}
+{%- endfor %}
+
+<p>Maximum possible score: {{smcount}}</p>
