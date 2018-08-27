@@ -1,0 +1,34 @@
+- id: blog
+  iconhtml: <i class="fas fa-rss-square"></i>
+  
+- id: facebook
+  iconhtml: <i class="fab fa-facebook"></i>
+
+- id: github
+  iconhtml: <i class="fab fa-github"></i>
+
+- id: googleplus
+  iconhtml: <i class="fab fa-google-plus-square "></i>
+
+- id: instagram
+  iconhtml: <i class="fab fa-instagram"></i>
+
+- id: linkedin
+  iconhtml: <i class="fab fa-linkedin"></i>
+
+- id: pinterest
+  iconhtml: <i class="fab fa-pinterest"></i>
+
+- id: reddit
+  iconhtml: <i class="fab fa-reddit"></i>
+
+- id: tumblr
+  iconhtml: <i class="fab fa-tumblr"></i>
+
+- id: twitter
+  iconhtml: <i class="fab fa-twitter"></i>
+
+- id: youtube
+  iconhtml: <i class="fab fa-youtube"></i>
+
+ 
