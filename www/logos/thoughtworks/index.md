@@ -4,7 +4,7 @@ instagram: 'https://instagram.com/thoughtworks'
 linkedin: 'http://linkedin.com/company/thoughtworks'
 logohandle: thoughtworks
 sort: thoughtworks
-title: ' ThoughtWorks'
+title: 'ThoughtWorks'
 twitter: thoughtworks
 website: 'https://www.thoughtworks.com/'
 wikipedia: https://en.wikipedia.org/wiki/ThoughtWorks

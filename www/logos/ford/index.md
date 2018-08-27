@@ -6,7 +6,7 @@ linkedin: 'https://linkedin.com/company/ford-motor-company'
 logohandle: ford
 pinterest: 'https://pinterest.com/ford'
 sort: ford
-title: ' Ford'
+title: 'Ford'
 twitter: ford
 website: 'https://www.ford.com/'
 wikipedia: 'https://en.wikipedia.org/wiki/Ford_Motor_Company'

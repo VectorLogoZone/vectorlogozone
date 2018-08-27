@@ -70,6 +70,10 @@ for fn in found_files:
         sys.stdout.write("WARNING: embedded youtube for %s (%s): '%s'\n" % (fn.parts[-2], fn, fm['youtube']))
         warnCount += 1
 
+    for key in fm.keys():
+        if isinstance(fm[key], str) and fm[key] != fm[key].strip():
+            sys.stdout.write("WARNING: whitespace for %s on key '%s'\n" % (fn, key))
+            warnCount += 1
 
     # LATER: check handle matches website
 

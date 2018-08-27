@@ -1,7 +1,7 @@
 ---
 logohandle: keepassx
 sort: keepassx
-title: 'KeePassX  '
+title: 'KeePassX'
 website: 'https://www.keepassx.org/'
 wikipedia: https://en.wikipedia.org/wiki/KeePassX
 ---
