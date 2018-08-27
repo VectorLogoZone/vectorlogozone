@@ -6,7 +6,6 @@ images:
 - meteor-ar21.svg
 - meteor-icon.svg
 logohandle: meteor
-skipped: 0
 sort: meteor
 title: Meteor
 twitter: meteorjs

@@ -11,7 +11,6 @@ images:
 - evernote-icon.svg
 - evernote-tile.svg
 logohandle: evernote
-skipped: 0
 sort: evernote
 title: Evernote
 twitter: evernote

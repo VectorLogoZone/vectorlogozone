@@ -12,7 +12,6 @@ images:
 - heroku-card.png
 layout: default
 logohandle: heroku
-skipped: 0
 sort: heroku
 tags:
 - hosting

@@ -10,7 +10,6 @@ images:
 - godaddy-icon.svg
 layout: default
 logohandle: godaddy
-skipped: 0
 sort: godaddy
 tags:
 - hosting

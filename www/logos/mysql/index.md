@@ -8,7 +8,6 @@ images:
 - mysql-official.svg
 layout: default
 logohandle: mysql
-skipped: 0
 sort: mysql
 tags:
 - database

@@ -4,7 +4,6 @@ github: signalapp
 images:
 - signal-official.svg
 logohandle: signal
-skipped: 0
 sort: signal
 tags:
 - messaging

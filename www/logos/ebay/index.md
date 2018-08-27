@@ -11,7 +11,6 @@ images:
 - ebay-icon.svg
 layout: default
 logohandle: ebay
-skipped: 0
 sort: ebay
 tags:
 - ecommerce

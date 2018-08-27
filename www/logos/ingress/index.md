@@ -1,5 +1,4 @@
 ---
-category: game
 facebook: https://www.facebook.com/Ingress
 font:
   google: http://www.google.com/fonts/specimen/Coda
@@ -10,7 +9,6 @@ images:
 - ingress-ar21.svg
 layout: default
 logohandle: ingress
-skipped: 3
 sort: ingress
 tags:
 - game

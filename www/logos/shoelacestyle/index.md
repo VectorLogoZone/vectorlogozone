@@ -6,7 +6,6 @@ images:
 - shoelacestyle-ar21.svg
 - shoelacestyle-icon.svg
 logohandle: shoelacestyle
-skipped: 0
 sort: shoelacestyle
 tags:
 - webdesign

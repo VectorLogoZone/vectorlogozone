@@ -8,7 +8,6 @@ images:
 - bitnami-icon.svg
 linkedin: https://www.linkedin.com/company/bitnami
 logohandle: bitnami
-skipped: 0
 sort: bitnami
 title: Bitnami
 twitter: Bitnami

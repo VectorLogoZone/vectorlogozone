@@ -6,7 +6,6 @@ images:
 - hockeyapp-icon.svg
 layout: default
 logohandle: hockeyapp
-skipped: 0
 sort: hockeyapp
 tags:
 - mobile

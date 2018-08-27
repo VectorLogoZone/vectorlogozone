@@ -6,7 +6,6 @@ images:
 instagram: https://instagram.com/vimeo
 linkedin: https://linkedin.com/company/vimeo
 logohandle: vimeo
-skipped: 0
 sort: vimeo
 title: Vimeo
 twitter: vimeo

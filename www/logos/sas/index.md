@@ -7,7 +7,6 @@ images:
 - sas-ar21.svg
 linkedin: http://www.linkedin.com/company/sas
 logohandle: sas
-skipped: 0
 sort: sas
 title: SAS
 twitter: SASsoftware

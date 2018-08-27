@@ -6,7 +6,6 @@ images:
 - apache_ant-ar21.svg
 layout: default
 logohandle: apache_ant
-skipped: 0
 sort: ant
 tags:
 - build_tools

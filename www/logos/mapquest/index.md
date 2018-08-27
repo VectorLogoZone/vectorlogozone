@@ -7,7 +7,6 @@ images:
 - mapquest-ar21.svg
 - mapquest-icon.svg
 logohandle: mapquest
-skipped: 0
 sort: mapquest
 tags:
 - mapping

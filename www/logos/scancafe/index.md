@@ -6,7 +6,6 @@ images:
 - scancafe-icon.svg
 - scancafe-ar21.svg
 logohandle: scancafe
-skipped: 0
 sort: scancafe
 title: ScanCafe
 twitter: scancafe

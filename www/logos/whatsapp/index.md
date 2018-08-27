@@ -7,7 +7,6 @@ images:
 - whatsapp-tile.svg
 - whatsapp-ar21.svg
 logohandle: whatsapp
-skipped: 0
 sort: whatsapp
 title: WhatsApp
 twitter: whatsapp

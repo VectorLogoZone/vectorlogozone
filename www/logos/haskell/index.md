@@ -1,6 +1,5 @@
 ---
 blog: https://www.haskell.org/news
-category: default
 font:
   freename: Swansea
   freeurl: http://www.fontspace.com/roger-white/swansea
@@ -15,7 +14,6 @@ images:
 - haskell-icon.svg
 layout: default
 logohandle: haskell
-skipped: 0
 sort: haskell
 tags:
 - programming_language

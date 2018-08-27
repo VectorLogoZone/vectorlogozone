@@ -8,7 +8,6 @@ instagram: https://www.instagram.com/mashable/
 linkedin: https://www.linkedin.com/company/mashable
 logohandle: mashable
 pinterest: https://www.pinterest.com/mashable/
-skipped: 0
 sort: mashable
 title: Mashable
 tumblr: http://mashable.tumblr.com/

@@ -7,7 +7,6 @@ images:
 - google_maps-tile.svg
 - google_maps-ar21.svg
 logohandle: google_maps
-skipped: 0
 sort: google_maps
 tags:
 - google

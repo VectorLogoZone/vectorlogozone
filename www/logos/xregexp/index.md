@@ -1,5 +1,4 @@
 ---
-category: library
 font:
   myfonts: http://www.myfonts.com/fonts/ascender/cambria/regular/
   name: Cambria Regular
@@ -12,7 +11,6 @@ images:
 - xregexp-horizontal.svg
 layout: default
 logohandle: xregexp
-skipped: 0
 sort: xregexp
 tags:
 - javascript

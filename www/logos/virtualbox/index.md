@@ -3,7 +3,6 @@ images:
 - virtualbox-ar21.svg
 - virtualbox-icon.svg
 logohandle: virtualbox
-skipped: 0
 sort: virtualbox
 title: VirtualBox
 twitter: virtualbox

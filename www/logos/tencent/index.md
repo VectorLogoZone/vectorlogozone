@@ -4,7 +4,6 @@ images:
 - tencent-icon.svg
 - tencent-ar21.svg
 logohandle: tencent
-skipped: 0
 sort: tencent
 title: Tencent
 website: https://www.tencent.com/

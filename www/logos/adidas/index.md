@@ -6,7 +6,6 @@ images:
 - adidas-icon.svg
 - adidas-ar21.svg
 logohandle: adidas
-skipped: 0
 sort: adidas
 title: Adidas
 twitter: adidas

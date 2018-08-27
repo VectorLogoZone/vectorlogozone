@@ -10,7 +10,6 @@ images:
 - tesla-ar21.svg
 - tesla-icon.svg
 logohandle: tesla
-skipped: 0
 sort: tesla
 tags:
 - cars

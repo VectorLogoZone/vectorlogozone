@@ -6,7 +6,6 @@ images:
 - archives-ar21.svg
 - archives-icon.svg
 logohandle: archives
-skipped: 0
 sort: national_archives
 tags:
 - digital_preservation

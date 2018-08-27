@@ -5,7 +5,6 @@ images:
 - avery-ar21.svg
 layout: default
 logohandle: avery
-skipped: 0
 sort: avery
 tags:
 - office_products

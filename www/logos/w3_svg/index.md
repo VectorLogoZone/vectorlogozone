@@ -14,7 +14,6 @@ images:
 - w3_svg-tile.svg
 - w3_svg-ar21.svg
 logohandle: w3_svg
-skipped: 0
 sort: svg
 title: SVG
 website: https://www.w3.org/Graphics/SVG/

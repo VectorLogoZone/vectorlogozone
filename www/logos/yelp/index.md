@@ -8,7 +8,6 @@ images:
 - yelp-icon.svg
 linkedin: https://www.linkedin.com/company/31517/
 logohandle: yelp
-skipped: 0
 sort: yelp
 tags:
 - reviews

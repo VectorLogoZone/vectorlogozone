@@ -5,7 +5,6 @@ images:
 - heatmaptv-icon.svg
 layout: default
 logohandle: heatmaptv
-skipped: 0
 sort: heatmaptv
 tags:
 - andrew_marcuse

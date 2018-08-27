@@ -11,7 +11,6 @@ instagram: https://www.instagram.com/khanacademy/
 linkedin: https://www.linkedin.com/school/khan-academy/
 logohandle: khanacademy
 pinterest: https://www.pinterest.com/KhanAcademy/
-skipped: 0
 sort: khanacademy
 title: Khan Academy
 tumblr: http://life.khanacademy.org/

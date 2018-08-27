@@ -8,7 +8,6 @@ images:
 - baidu-card.png
 linkedin: https://www.linkedin.com/company/baidu-usa
 logohandle: baidu
-skipped: 0
 sort: baidu
 title: Baidu
 twitter: BaiduUSA

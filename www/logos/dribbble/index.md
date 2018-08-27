@@ -13,7 +13,6 @@ images:
 instagram: https://www.instagram.com/dribbble/
 linkedin: https://www.linkedin.com/company/dribbble/
 logohandle: dribbble
-skipped: 0
 sort: dribbble
 title: Dribbble
 twitter: dribbble

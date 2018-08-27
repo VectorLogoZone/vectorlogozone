@@ -7,7 +7,6 @@ images:
 - apache_kafka-icon.svg
 layout: default
 logohandle: apache_kafka
-skipped: 1
 sort: kafka
 tags:
 - software

@@ -8,7 +8,6 @@ images:
 - mit_scratch-official.svg
 - mit_scratch-ar21.svg
 logohandle: mit_scratch
-skipped: 0
 sort: scratch
 tags:
 - programming_language

@@ -6,7 +6,6 @@ images:
 - unicode-ar21.svg
 layout: default
 logohandle: unicode
-skipped: 0
 sort: unicode
 tags:
 - file_format

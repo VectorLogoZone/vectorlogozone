@@ -9,7 +9,6 @@ images:
 - nasa-icon.svg
 - nasa-ar21.svg
 logohandle: nasa
-skipped: 0
 sort: nasa
 title: NASA
 twitter: nasa

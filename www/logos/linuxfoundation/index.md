@@ -8,7 +8,6 @@ images:
 - linuxfoundation-ar21.svg
 linkedin: https://linkedin.com/company/208777
 logohandle: linuxfoundation
-skipped: 0
 sort: linuxfoundation
 title: Linux Foundation
 twitter: linuxfoundation

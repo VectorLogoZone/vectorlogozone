@@ -11,7 +11,6 @@ images:
 - linkedin-tile.svg
 - linkedin-ar21.svg
 logohandle: linkedin
-skipped: 0
 sort: linkedin
 title: LinkedIn
 twitter: linkedin

@@ -7,7 +7,6 @@ images:
 - eclipse-icon.svg
 linkedin: https://www.linkedin.com/company/eclipse-foundation
 logohandle: eclipse
-skipped: 0
 sort: eclipse
 title: Eclipse
 twitter: EclipseFdn

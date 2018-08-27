@@ -9,7 +9,6 @@ images:
 linkedin: https://www.linkedin.com/company/hashicorp
 logohandle: hashicorp
 meetup: https://www.meetup.com/pro/hugs
-skipped: 0
 sort: hashicorp
 title: HashiCorp
 twitter: hashicorp

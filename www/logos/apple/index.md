@@ -7,7 +7,6 @@ images:
 - apple-icon.svg
 layout: default
 logohandle: apple
-skipped: 0
 sort: apple
 tags:
 - apple

@@ -12,7 +12,6 @@ images:
 - microsoft-ar21.svg
 - microsoft-icon.svg
 logohandle: microsoft
-skipped: 0
 sort: microsoft
 tags:
 - microsoft

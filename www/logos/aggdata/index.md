@@ -10,7 +10,6 @@ images:
 - aggdata-ar21.svg
 - aggdata-card.png
 logohandle: aggdata
-skipped: 0
 sort: aggdata
 tags:
 - data

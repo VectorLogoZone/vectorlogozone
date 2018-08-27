@@ -9,7 +9,6 @@ images:
 - wikimedia-ar21.svg
 - wikimedia-icon.svg
 logohandle: wikimedia
-skipped: 0
 sort: wikimedia
 title: Wikimedia
 twitter: wikimedia

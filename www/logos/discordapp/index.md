@@ -19,7 +19,6 @@ images:
 - discordapp-tile.svg
 - discordapp-ar21.svg
 logohandle: discordapp
-skipped: 0
 sort: discordapp
 title: Discord
 twitter: discordapp

@@ -6,7 +6,6 @@ images:
 - groupon-icon.svg
 - groupon-ar21.svg
 logohandle: groupon
-skipped: 0
 sort: groupon
 title: Groupon
 twitter: groupon

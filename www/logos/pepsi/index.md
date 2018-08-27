@@ -7,7 +7,6 @@ images:
 - pepsi-ar21.svg
 - pepsi-icon.svg
 logohandle: pepsi
-skipped: 0
 sort: pepsi
 title: Pepsi
 twitter: pepsi

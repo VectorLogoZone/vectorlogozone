@@ -7,7 +7,6 @@ images:
 - zagat-ar21.svg
 linkedin: https://www.linkedin.com/company/167018/
 logohandle: zagat
-skipped: 0
 sort: zagat
 tags:
 - restaurants

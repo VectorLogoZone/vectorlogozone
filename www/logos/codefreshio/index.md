@@ -6,7 +6,6 @@ images:
 - codefreshio-icon.svg
 linkedin: https://www.linkedin.com/company/codefresh/
 logohandle: codefreshio
-skipped: 0
 sort: codefresh
 title: codefresh
 twitter: codefresh-io

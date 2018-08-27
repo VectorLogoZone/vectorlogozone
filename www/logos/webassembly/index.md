@@ -6,7 +6,6 @@ images:
 - webassembly-ar21.svg
 - webassembly-card.png
 logohandle: webassembly
-skipped: 0
 sort: webassembly
 tags:
 - programming_language

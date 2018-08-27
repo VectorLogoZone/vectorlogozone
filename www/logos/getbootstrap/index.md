@@ -6,7 +6,6 @@ images:
 - getbootstrap-ar21.svg
 layout: default
 logohandle: getbootstrap
-skipped: 0
 sort: bootstrap
 tags:
 - webdesign

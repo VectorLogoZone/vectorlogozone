@@ -6,7 +6,6 @@ images:
 - mongodb-icon.svg
 - mongodb-ar21.svg
 logohandle: mongodb
-skipped: 0
 sort: mongodb
 tags:
 - database

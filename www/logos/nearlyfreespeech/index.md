@@ -12,7 +12,6 @@ images:
 - nearlyfreespeech-horizontal.svg
 layout: default
 logohandle: nearlyfreespeech
-skipped: 0
 sort: nearlyfreespeech.net
 tags:
 - hosting

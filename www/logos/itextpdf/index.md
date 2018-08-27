@@ -8,7 +8,6 @@ images:
 linkedin: https://linkedin.com/company-beta/281131
 logohandle: itextpdf
 pinterest: https://pinterest.com/itext
-skipped: 0
 sort: itext
 tags:
 - pdf

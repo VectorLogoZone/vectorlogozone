@@ -6,7 +6,6 @@ images:
 - hyper_sh-icon.svg
 - hyper_sh-ar21.svg
 logohandle: hyper_sh
-skipped: 0
 sort: hyper_sh
 title: hyper.sh
 twitter: hyper_sh

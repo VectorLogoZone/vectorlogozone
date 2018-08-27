@@ -7,7 +7,6 @@ images:
 - yandex-icon.svg
 linkedin: https://www.linkedin.com/company/10718/
 logohandle: yandex
-skipped: 0
 sort: yandex
 tags:
 - social_network

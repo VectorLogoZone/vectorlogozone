@@ -6,7 +6,6 @@ images:
 - kaggle-icon.svg
 - kaggle-ar21.svg
 logohandle: kaggle
-skipped: 0
 sort: kaggle
 title: Kaggle
 twitter: kaggle

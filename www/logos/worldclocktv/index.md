@@ -5,7 +5,6 @@ images:
 - worldclocktv-icon.svg
 layout: default
 logohandle: worldclocktv
-skipped: 0
 sort: worldclocktv
 tags:
 - app

@@ -6,7 +6,6 @@ images:
 - typescriptlang-ar21.svg
 - typescriptlang-official.svg
 logohandle: typescriptlang
-skipped: 0
 sort: typescript
 tags:
 - microsoft

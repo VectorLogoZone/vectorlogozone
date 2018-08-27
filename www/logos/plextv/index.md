@@ -7,7 +7,6 @@ images:
 instagram: http://instagram.com/
 linkedin: https://linkedin.com/company/plex-inc
 logohandle: plextv
-skipped: 0
 sort: plex
 title: Plex
 twitter: plex

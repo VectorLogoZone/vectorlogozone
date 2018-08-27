@@ -4,7 +4,6 @@ images:
 - airbnb-tile.svg
 instagram: https://instagram.com/airbnb
 logohandle: airbnb
-skipped: 0
 sort: airbnb
 title: Airbnb
 twitter: airbnb

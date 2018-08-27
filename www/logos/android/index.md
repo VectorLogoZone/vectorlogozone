@@ -12,7 +12,6 @@ images:
 - android-icon.svg
 - android-tile.svg
 logohandle: android
-skipped: 0
 sort: android
 tags:
 - operating_system

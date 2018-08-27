@@ -4,7 +4,6 @@ images:
 - apple_safari-ar21.svg
 - apple_safari-icon.svg
 logohandle: apple_safari
-skipped: 0
 sort: safari
 tags:
 - apple

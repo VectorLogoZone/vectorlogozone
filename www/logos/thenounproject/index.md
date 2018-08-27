@@ -8,7 +8,6 @@ images:
 - thenounproject-wordmark.svg
 layout: default
 logohandle: thenounproject
-skipped: 0
 sort: noun project
 tags:
 - software

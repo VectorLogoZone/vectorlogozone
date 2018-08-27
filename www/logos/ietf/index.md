@@ -6,7 +6,6 @@ images:
 - ietf-icon.svg
 - ietf-card.png
 logohandle: ietf
-skipped: 0
 sort: ietf
 title: IETF
 website: https://www.ietf.org/

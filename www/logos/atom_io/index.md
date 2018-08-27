@@ -5,7 +5,6 @@ images:
 - atom_io-icon.svg
 - atom_io-ar21.svg
 logohandle: atom_io
-skipped: 0
 sort: atomeditor
 tags:
 - text_editor

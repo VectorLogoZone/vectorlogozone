@@ -10,7 +10,6 @@ images:
 - addthis-ar21.svg
 - addthis-icon.svg
 logohandle: addthis
-skipped: 0
 sort: addthis
 tags:
 - sharing

@@ -6,7 +6,6 @@ images:
 - codecentricde-icon.svg
 linkedin: http://www.linkedin.com/company/codecentric-ag
 logohandle: codecentricde
-skipped: 0
 sort: codecentric
 title: codecentric
 twitter: codecentric

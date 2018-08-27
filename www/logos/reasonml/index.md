@@ -5,7 +5,6 @@ images:
 - reasonml-icon.svg
 - reasonml-ar21.svg
 logohandle: reasonml
-skipped: 0
 sort: reasonml
 title: Reason
 twitter: reasonml

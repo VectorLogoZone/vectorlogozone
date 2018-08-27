@@ -7,7 +7,6 @@ images:
 - freelancer-icon.svg
 instagram: https://www.instagram.com/freelancerofficial/
 logohandle: freelancer
-skipped: 0
 sort: freelancer
 title: freelancer
 twitter: freelancer

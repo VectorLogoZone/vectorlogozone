@@ -6,7 +6,6 @@ images:
 - commonmark-ar21.svg
 - commonmark-official.svg
 logohandle: commonmark
-skipped: 0
 sort: commonmark
 title: CommonMark
 website: http://commonmark.org/

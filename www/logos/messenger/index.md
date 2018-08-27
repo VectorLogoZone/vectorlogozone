@@ -3,7 +3,6 @@ images:
 - messenger-ar21.svg
 - messenger-icon.svg
 logohandle: messenger
-skipped: 0
 sort: facebookmessenger
 tags:
 - facebook

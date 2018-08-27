@@ -9,7 +9,6 @@ images:
 - ibm-icon.svg
 - ibm-ar21.svg
 logohandle: ibm
-skipped: 0
 sort: ibm
 title: IBM
 twitter: IBM

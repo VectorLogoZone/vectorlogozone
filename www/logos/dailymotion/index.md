@@ -8,7 +8,6 @@ images:
 instagram: https://www.instagram.com/dailymotion/
 logohandle: dailymotion
 pinterest: https://www.pinterest.com/dailymotionusa
-skipped: 0
 sort: dailymotion
 title: dailymotion
 twitter: dailymotion

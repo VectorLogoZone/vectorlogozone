@@ -7,7 +7,6 @@ images:
 - firebase-ar21.svg
 - firebase-icon.svg
 logohandle: firebase
-skipped: 0
 sort: firebase
 tags:
 - google

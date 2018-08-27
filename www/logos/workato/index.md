@@ -5,7 +5,6 @@ images:
 - workato-tile.svg
 linkedin: http://linkedin.com/company/workato
 logohandle: workato
-skipped: 0
 sort: workato
 title: Workato
 twitter: workato

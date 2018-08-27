@@ -6,7 +6,6 @@ images:
 - opentable-icon.svg
 - opentable-official.svg
 logohandle: opentable
-skipped: 0
 sort: opentable
 title: OpenTable
 twitter: opentable

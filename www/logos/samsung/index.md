@@ -6,7 +6,6 @@ images:
 - samsung-icon.svg
 instagram: https://www.instagram.com/samsungusa/
 logohandle: samsung
-skipped: 0
 sort: samsung
 title: Samsung
 twitter: SamsungUS

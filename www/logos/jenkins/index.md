@@ -8,7 +8,6 @@ images:
 - jenkins-icon.svg
 layout: default
 logohandle: jenkins
-skipped: 0
 sort: jenkins
 tags:
 - software

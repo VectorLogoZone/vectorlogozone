@@ -12,7 +12,6 @@ images:
 - ubuntu-ar21.svg
 - ubuntu-icon.svg
 logohandle: ubuntu
-skipped: 1
 sort: ubuntu
 tags:
 - linux

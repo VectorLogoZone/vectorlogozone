@@ -5,7 +5,6 @@ images:
 - wikidata-icon.svg
 - wikidata-ar21.svg
 logohandle: wikidata
-skipped: 0
 sort: wikidata
 title: Wikidata
 twitter: wikidata

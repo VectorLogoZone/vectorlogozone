@@ -8,7 +8,6 @@ images:
 instagram: https://www.instagram.com/oracle/
 linkedin: https://www.linkedin.com/company/oracle
 logohandle: oracle
-skipped: 0
 sort: oracle
 title: Oracle
 twitter: oracle

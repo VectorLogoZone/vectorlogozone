@@ -5,7 +5,6 @@ images:
 - freepik-icon.svg
 - freepik-ar21.svg
 logohandle: freepik
-skipped: 0
 sort: freepik
 title: freepik
 twitter: Freepik_Vectors

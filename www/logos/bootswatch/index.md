@@ -8,7 +8,6 @@ images:
 - bootswatch-ar21.svg
 layout: default
 logohandle: bootswatch
-skipped: 0
 sort: bootswatch
 tags:
 - webdesign

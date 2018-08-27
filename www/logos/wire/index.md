@@ -5,7 +5,6 @@ images:
 - wire-tile.svg
 linkedin: https://linkedin.com/company/4836762
 logohandle: wire
-skipped: 0
 sort: wire
 title: Wire
 twitter: wire

@@ -6,7 +6,6 @@ images:
 - openoffice-official.svg
 - openoffice-icon.svg
 logohandle: openoffice
-skipped: 0
 sort: openoffice
 tags:
 - software

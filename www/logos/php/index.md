@@ -6,7 +6,6 @@ images:
 - php-ar21.svg
 - php-vertical.svg
 logohandle: php
-skipped: 1
 sort: php
 tags:
 - php

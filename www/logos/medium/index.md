@@ -8,7 +8,6 @@ images:
 - medium-ar21.svg
 - medium-icon.svg
 logohandle: medium
-skipped: 0
 sort: medium
 tags:
 - blogging

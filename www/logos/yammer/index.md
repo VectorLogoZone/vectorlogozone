@@ -10,7 +10,6 @@ images:
 - yammer-tile.svg
 linkedin: https://www.linkedin.com/company/260901/
 logohandle: yammer
-skipped: 0
 sort: yammer
 title: Yammer
 twitter: Yammer

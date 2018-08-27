@@ -5,7 +5,6 @@ images:
 - marcuse_ink-ar21.svg
 - marcuse_ink-icon.svg
 logohandle: marcuse_ink
-skipped: 0
 sort: marcuse_noah
 title: Noah Marcuse
 website: https://noah.marcuse.ink/

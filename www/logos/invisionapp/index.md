@@ -1,6 +1,6 @@
 ---
 blog: 'https://invisionapp.com/blog'
-color: [ '#FF3366' ]
+colors: [ '#FF3366' ]
 dribbble: 'http://dribbble.com/InVisionApp'
 facebook: 'https://www.facebook.com/invisionapp'
 googleplus: 'https://plus.google.com/+Invisionappinc'

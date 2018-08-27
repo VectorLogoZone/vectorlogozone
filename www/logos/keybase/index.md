@@ -10,7 +10,6 @@ images:
 - keybase-official.svg
 - keybase-icon.svg
 logohandle: keybase
-skipped: 0
 sort: keybase
 title: Keybase
 website: https://keybase.io/

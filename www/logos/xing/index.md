@@ -7,7 +7,6 @@ images:
 - xing-icon.svg
 - xing-tile.svg
 logohandle: xing
-skipped: 0
 sort: xing
 title: xing
 twitter: xing_de

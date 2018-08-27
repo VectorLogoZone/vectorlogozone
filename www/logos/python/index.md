@@ -1,6 +1,5 @@
 ---
 blog: https://www.python.org/blogs/
-category: language
 font:
   myfonts: http://www.myfonts.com/fonts/t26/flux/regular/
   name: Flux Regular
@@ -14,7 +13,6 @@ images:
 - python-vertical.svg
 layout: default
 logohandle: python
-skipped: 1
 sort: python
 tags:
 - programming_language

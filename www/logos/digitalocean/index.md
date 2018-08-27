@@ -15,7 +15,6 @@ images:
 - digitalocean-official.svg
 layout: default
 logohandle: digitalocean
-skipped: 0
 sort: digital ocean
 tags:
 - hosting

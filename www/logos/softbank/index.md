@@ -4,7 +4,6 @@ images:
 - softbank-icon.svg
 - softbank-ar21.svg
 logohandle: softbank
-skipped: 0
 sort: softbank
 title: SoftBank
 twitter: SoftBank

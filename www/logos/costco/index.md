@@ -6,7 +6,6 @@ images:
 - costco-ar21.svg
 layout: default
 logohandle: costco
-skipped: 0
 sort: costco
 tags:
 - new

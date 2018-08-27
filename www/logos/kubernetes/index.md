@@ -7,7 +7,6 @@ images:
 - kubernetes-card.png
 - kubernetes-ar21.svg
 logohandle: kubernetes
-skipped: 0
 sort: kubernetes
 title: Kubernetes
 twitter: kubernetesio

@@ -9,7 +9,6 @@ images:
 - google-ar21.svg
 layout: default
 logohandle: google
-skipped: 0
 sort: google
 tags:
 - google

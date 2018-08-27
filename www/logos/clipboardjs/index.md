@@ -7,7 +7,6 @@ images:
 - clipboardjs-icon.svg
 - clipboardjs-ar21.svg
 logohandle: clipboardjs
-skipped: 0
 sort: clipboardjs
 title: clipboard.js
 website: http://clipboardjs.com/

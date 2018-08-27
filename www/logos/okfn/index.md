@@ -7,7 +7,6 @@ images:
 - okfn-ar21.svg
 - okfn-icon.svg
 logohandle: okfn
-skipped: 0
 sort: openknowledge
 title: OpenKnowledge
 twitter: okfn

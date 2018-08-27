@@ -10,7 +10,6 @@ images:
 - archive-icon.svg
 - archive-ar21.svg
 logohandle: archive
-skipped: 0
 sort: internet_archive
 tags:
 - charity

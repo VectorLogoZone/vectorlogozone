@@ -5,7 +5,6 @@ images:
 - greenpeace-ar21.svg
 instagram: https://www.instagram.com/greenpeaceusa/
 logohandle: greenpeace
-skipped: 0
 sort: greenpeace
 title: Greenpeace
 website: http://www.greenpeace.org/

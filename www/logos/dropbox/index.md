@@ -13,7 +13,6 @@ images:
 - dropbox-icon.svg
 - dropbox-tile.svg
 logohandle: dropbox
-skipped: 0
 sort: dropbox
 tags:
 - file_sharing

@@ -8,7 +8,6 @@ images:
 instagram: https://www.instagram.com/foursquare/
 logohandle: foursquare
 medium: http://medium.com/foursquare-direct
-skipped: 0
 sort: foursquare
 title: foursquare
 twitter: Foursquare

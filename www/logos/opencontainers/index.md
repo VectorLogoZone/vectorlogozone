@@ -5,7 +5,6 @@ images:
 - opencontainers-ar21.svg
 - opencontainers-icon.svg
 logohandle: opencontainers
-skipped: 0
 sort: opencontainers
 title: Open Containers Initiative
 twitter: OCI_ORG

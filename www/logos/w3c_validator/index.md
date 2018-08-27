@@ -4,7 +4,6 @@ images:
 - w3c_validator-icon.svg
 layout: default
 logohandle: w3c_validator
-skipped: 0
 sort: w3c markup validator
 tags:
 - service

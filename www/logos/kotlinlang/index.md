@@ -6,7 +6,6 @@ images:
 - kotlinlang-ar21.svg
 - kotlinlang-card.png
 logohandle: kotlinlang
-skipped: 0
 sort: kotlin
 title: Kotlin
 twitter: kotlin

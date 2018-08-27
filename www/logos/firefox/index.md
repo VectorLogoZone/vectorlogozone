@@ -5,7 +5,6 @@ images:
 - firefox-icon.svg
 - firefox-ar21.svg
 logohandle: firefox
-skipped: 0
 sort: firefox
 tags:
 - browser

@@ -9,7 +9,6 @@ images:
 - edx-ar21.svg
 logohandle: edx
 reddit: http://www.reddit.com/r/edx
-skipped: 0
 sort: edx
 title: edX
 twitter: edXOnline

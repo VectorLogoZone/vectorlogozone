@@ -3,7 +3,6 @@ images:
 - apple_objectivec-icon.svg
 - apple_objectivec-ar21.svg
 logohandle: apple_objectivec
-skipped: 0
 sort: objectivec
 tags:
 - apple

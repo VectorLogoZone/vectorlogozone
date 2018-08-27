@@ -10,7 +10,6 @@ images:
 instagram: https://www.instagram.com/myfonts/
 logohandle: myfonts
 pinterest: https://www.pinterest.com/myfonts
-skipped: 0
 sort: myfonts
 tags:
 - fonts

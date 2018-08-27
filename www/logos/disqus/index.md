@@ -14,7 +14,6 @@ images:
 - disqus-icon.svg
 - disqus-official.svg
 logohandle: disqus
-skipped: 0
 sort: disqus
 title: Disqus
 twitter: disqus

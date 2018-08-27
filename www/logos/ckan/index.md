@@ -8,7 +8,6 @@ images:
 - ckan-ar21.svg
 - ckan-icon.svg
 logohandle: ckan
-skipped: 0
 sort: ckan
 title: CKAN
 twitter: ckanproject

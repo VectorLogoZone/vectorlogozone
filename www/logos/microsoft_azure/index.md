@@ -9,7 +9,6 @@ images:
 - microsoft_azure-ar21.svg
 - microsoft_azure-card.png
 logohandle: microsoft_azure
-skipped: 0
 sort: azure
 tags:
 - cloud

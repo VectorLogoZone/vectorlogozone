@@ -7,7 +7,6 @@ images:
 - bazel-card.png
 - bazel-ar21.svg
 logohandle: bazel
-skipped: 0
 sort: bazel
 title: Bazel
 twitter: bazelbuild

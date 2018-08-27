@@ -12,7 +12,6 @@ images:
 - stackoverflow-ar21.svg
 - stackoverflow-tile.svg
 logohandle: stackoverflow
-skipped: 0
 sort: stackoverflow
 title: Stack Overflow
 twitter: stackoverflow

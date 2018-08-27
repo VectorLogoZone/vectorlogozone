@@ -7,7 +7,6 @@ images:
 - gandi-ar21.svg
 layout: default
 logohandle: gandi
-skipped: 0
 sort: gandi
 tags:
 - domains

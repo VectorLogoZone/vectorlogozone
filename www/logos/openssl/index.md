@@ -7,7 +7,6 @@ images:
 - openssl-original.svg
 - openssl-ar21.svg
 logohandle: openssl
-skipped: 0
 sort: openssl
 title: openssl
 website: https://www.openssl.org/

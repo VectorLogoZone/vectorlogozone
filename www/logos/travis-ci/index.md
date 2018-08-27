@@ -9,7 +9,6 @@ images:
 - travis-ci-card.png
 layout: default
 logohandle: travis-ci
-skipped: 0
 sort: travis ci
 tags:
 - continuous_integration

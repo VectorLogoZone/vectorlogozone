@@ -12,7 +12,6 @@ images:
 - javascript-icon.svg
 - javascript-ar21.svg
 logohandle: javascript
-skipped: 0
 sort: javascript
 tags:
 - programming_language

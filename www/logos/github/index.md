@@ -1,6 +1,5 @@
 ---
 blog: https://github.com/blog
-category: services
 font:
   myfonts: https://www.myfonts.com/fonts/k-type/collegiate/
   name: Collegiate
@@ -14,7 +13,6 @@ images:
 - github-icon.svg
 layout: default
 logohandle: github
-skipped: 1
 sort: github
 tags:
 - version_control

@@ -1,5 +1,4 @@
 ---
-category: language
 font:
   myfonts: http://www.myfonts.com/fonts/bitstream/atf-bodoni/bodoni-book/
   name: Bodoni Book
@@ -11,7 +10,6 @@ images:
 - tcl-icon.svg
 layout: default
 logohandle: tcl
-skipped: 1
 sort: tcl
 tags:
 - programming_language

@@ -7,7 +7,6 @@ images:
 - svgporn-icon.svg
 - svgporn-ar21.svg
 logohandle: svgporn
-skipped: 0
 sort: svgporn
 tags:
 - icons

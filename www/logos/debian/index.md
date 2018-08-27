@@ -9,7 +9,6 @@ images:
 - debian-icon.svg
 layout: default
 logohandle: debian
-skipped: 0
 sort: debian
 tags:
 - operating_system

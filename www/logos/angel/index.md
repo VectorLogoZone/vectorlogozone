@@ -9,7 +9,6 @@ images:
 - angel-icon.svg
 linkedin: https://www.linkedin.com/company/angellist
 logohandle: angel
-skipped: 0
 sort: angellist
 title: AngelList
 twitter: angellist

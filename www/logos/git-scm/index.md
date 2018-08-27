@@ -11,7 +11,6 @@ images:
 - git-scm-icon.svg
 layout: default
 logohandle: git-scm
-skipped: 1
 sort: git
 tags:
 - version_control

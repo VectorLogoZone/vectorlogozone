@@ -9,7 +9,6 @@ images:
 - buffer-tile.svg
 logohandle: buffer
 redirect_from: /logos/bufferapp/index.html
-skipped: 0
 sort: buffer
 title: Buffer
 twitter: buffer

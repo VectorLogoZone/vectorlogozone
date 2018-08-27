@@ -7,7 +7,6 @@ images:
 - elastic-icon.svg
 - elastic-ar21.svg
 logohandle: elastic
-skipped: 0
 sort: elasticsearch
 title: Elastic Search
 twitter: elastic

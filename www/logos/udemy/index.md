@@ -13,7 +13,6 @@ instagram: https://www.instagram.com/udemy/
 linkedin: https://www.linkedin.com/company/udemy
 logohandle: udemy
 pinterest: https://www.pinterest.com/udemy/
-skipped: 0
 sort: udemy
 title: Udemy
 twitter: udemy

@@ -13,7 +13,6 @@ images:
 - fileformatinfo-icon.svg
 layout: default
 logohandle: fileformatinfo
-skipped: 0
 sort: fileformat.info
 tags:
 - andrew_marcuse

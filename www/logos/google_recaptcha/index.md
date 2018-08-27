@@ -10,7 +10,6 @@ images:
 - google_recaptcha-icon.svg
 - google_recaptcha-ar21.svg
 logohandle: google_recaptcha
-skipped: 0
 sort: recaptcha
 title: reCAPTCHA
 website: https://www.google.com/recaptcha/intro/

@@ -7,7 +7,6 @@ images:
 - eff-icon.svg
 - eff-ar21.svg
 logohandle: eff
-skipped: 0
 sort: eff
 title: EFF
 twitter: eff

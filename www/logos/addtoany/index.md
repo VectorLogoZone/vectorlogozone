@@ -6,7 +6,6 @@ images:
 - addtoany-icon.svg
 - addtoany-official.svg
 logohandle: addtoany
-skipped: 0
 sort: addtoany
 title: AddToAny
 twitter: addtoany

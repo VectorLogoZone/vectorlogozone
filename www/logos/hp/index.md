@@ -10,7 +10,6 @@ images:
 - hp-icon.svg
 - hp-ar21.svg
 logohandle: hp
-skipped: 0
 sort: hp
 title: Hewlett Packard
 twitter: HP

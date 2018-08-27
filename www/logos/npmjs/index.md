@@ -8,7 +8,6 @@ images:
 - npmjs-icon.svg
 - npmjs-card.png
 logohandle: npmjs
-skipped: 0
 sort: npmjs
 title: npm
 twitter: npmjs

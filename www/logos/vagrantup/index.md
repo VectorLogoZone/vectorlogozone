@@ -7,7 +7,6 @@ images:
 - vagrantup-icon.svg
 layout: default
 logohandle: vagrantup
-skipped: 0
 sort: vagrant
 tags:
 - new

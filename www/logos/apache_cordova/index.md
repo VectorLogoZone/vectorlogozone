@@ -5,7 +5,6 @@ images:
 - apache_cordova-icon.svg
 - apache_cordova-ar21.svg
 logohandle: apache_cordova
-skipped: 0
 sort: cordova
 tags:
 - programming_library

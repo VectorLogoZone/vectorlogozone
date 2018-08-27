@@ -7,7 +7,6 @@ images:
 - braintreepayments-icon.svg
 instagram: https://www.instagram.com/braintree/
 logohandle: braintreepayments
-skipped: 0
 sort: braintreepayments
 title: Braintree
 twitter: braintree

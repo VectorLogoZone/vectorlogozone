@@ -9,7 +9,6 @@ images:
 - bitbucket-official.svg
 - bitbucket-164x42.png
 logohandle: bitbucket
-skipped: 1
 sort: bitbucket
 tags:
 - version_control

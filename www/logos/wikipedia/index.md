@@ -9,7 +9,6 @@ images:
 - wikipedia-tile.svg
 - wikipedia-icon.svg
 logohandle: wikipedia
-skipped: 0
 sort: wikipedia
 title: wikipedia
 twitter: Wikipedia

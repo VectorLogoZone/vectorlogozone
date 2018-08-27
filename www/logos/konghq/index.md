@@ -7,7 +7,6 @@ images:
 linkedin: https://linkedin.com/company/278819
 logohandle: konghq
 meetup: https://www.meetup.com/topics/kong/all/
-skipped: 0
 sort: kong
 title: Kong
 twitter: thekonginc

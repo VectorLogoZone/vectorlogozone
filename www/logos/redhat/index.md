@@ -16,7 +16,6 @@ images:
 - redhat-icon.svg
 linkedin: http://www.linkedin.com/company/red-hat
 logohandle: redhat
-skipped: 0
 sort: redhat
 title: Red Hat
 twitter: redhatnews

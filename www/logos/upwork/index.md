@@ -6,7 +6,6 @@ images:
 instagram: https://instagram.com/upworkinc
 linkedin: https://linkedin.com/company/upwork
 logohandle: upwork
-skipped: 0
 sort: upwork
 title: Upwork
 twitter: Upwork

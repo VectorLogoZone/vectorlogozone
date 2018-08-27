@@ -6,7 +6,6 @@ images:
 - nist-official.svg
 - nist-ar21.svg
 logohandle: nist
-skipped: 0
 sort: nist
 title: nist
 twitter: USNISTGOV

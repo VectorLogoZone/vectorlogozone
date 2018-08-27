@@ -9,7 +9,6 @@ images:
 - ycombinator-icon.svg
 linkedin: https://www.linkedin.com/company/167872/
 logohandle: ycombinator
-skipped: 0
 sort: ycombinator
 tags:
 - venture_capital

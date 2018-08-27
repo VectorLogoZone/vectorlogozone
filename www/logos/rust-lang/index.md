@@ -6,7 +6,6 @@ images:
 - rust-lang-ar21.svg
 layout: default
 logohandle: rust-lang
-skipped: 0
 sort: rust
 tags:
 - programming_language

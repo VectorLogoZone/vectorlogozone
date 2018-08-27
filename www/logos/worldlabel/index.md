@@ -7,7 +7,6 @@ images:
 - worldlabel-icon.svg
 layout: default
 logohandle: worldlabel
-skipped: 0
 sort: worldlabel
 tags:
 - labels

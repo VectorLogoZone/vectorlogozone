@@ -6,7 +6,6 @@ images:
 - target-ar21.svg
 - target-icon.svg
 logohandle: target
-skipped: 0
 sort: target
 title: Target
 twitter: target

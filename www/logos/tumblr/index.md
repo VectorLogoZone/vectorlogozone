@@ -10,7 +10,6 @@ images:
 - tumblr-tile.svg
 - tumblr-icon.svg
 logohandle: tumblr
-skipped: 0
 sort: tumblr
 title: tumblr.
 twitter: tumblr

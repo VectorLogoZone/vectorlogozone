@@ -6,7 +6,6 @@ images:
 - leafletjs-icon.svg
 - leafletjs-card.png
 logohandle: leafletjs
-skipped: 0
 sort: leaflet
 title: Leaflet
 twitter: LeafletJS

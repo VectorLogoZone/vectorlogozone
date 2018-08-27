@@ -13,7 +13,6 @@ images:
 - yahoo-ar21.svg
 linkedin: https://www.linkedin.com/company/1288/
 logohandle: yahoo
-skipped: 0
 sort: yahoo
 title: Yahoo!
 tumblr: https://yahoo.tumblr.com/

@@ -7,7 +7,6 @@ images:
 - federalreserve-ar21.svg
 linkedin: https://www.linkedin.com/company/federal-reserve-board
 logohandle: federalreserve
-skipped: 0
 sort: federalreserve
 title: Federal Reserve Bank
 twitter: federalreserve

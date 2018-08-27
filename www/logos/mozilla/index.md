@@ -7,7 +7,6 @@ images:
 - mozilla-icon.svg
 - mozilla-ar21.svg
 logohandle: mozilla
-skipped: 0
 sort: mozilla
 tags:
 - open_source

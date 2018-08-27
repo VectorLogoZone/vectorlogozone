@@ -6,7 +6,6 @@ images:
 - zenefits-ar21.svg
 linkedin: https://www.linkedin.com/company/zenefits
 logohandle: zenefits
-skipped: 0
 sort: zenefits
 title: Zenefits
 twitter: Zenefits

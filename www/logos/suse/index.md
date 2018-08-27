@@ -15,7 +15,6 @@ images:
 - suse-ar21.svg
 linkedin: https://www.linkedin.com/company/suse
 logohandle: suse
-skipped: 0
 sort: suse
 title: SUSE
 twitter: SUSE

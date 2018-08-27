@@ -8,7 +8,6 @@ images:
 - duckduckgo-card.png
 - duckduckgo-icon.svg
 logohandle: duckduckgo
-skipped: 0
 sort: duckduckgo
 tags:
 - search_engine

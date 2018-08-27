@@ -10,7 +10,6 @@ images:
 - font-awesome-icon.svg
 layout: default
 logohandle: font-awesome
-skipped: 0
 sort: font awesome
 tags:
 - font

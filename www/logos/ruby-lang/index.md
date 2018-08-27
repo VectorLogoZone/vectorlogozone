@@ -1,6 +1,5 @@
 ---
 blog: https://www.ruby-lang.org/en/news/
-category: language
 font:
   microsoft: https://www.microsoft.com/typography/fonts/font.aspx?FMID=1932
   myfonts: http://www.myfonts.com/fonts/ascender/georgia/regular/
@@ -15,7 +14,6 @@ images:
 layout: default
 logohandle: ruby-lang
 redirect_from: /logos/ruby/index.html
-skipped: 0
 sort: ruby
 tags:
 - programming_language

@@ -1,6 +1,5 @@
 ---
 blog: http://blogs.perl.org/
-category: language
 font:
   freename: Guru by Bhikkhu Pesala
   freeurl: http://www.softerviews.org/Fonts.html
@@ -14,7 +13,6 @@ images:
 - perl-horizontal.svg
 layout: default
 logohandle: perl
-skipped: 3
 sort: perl
 tags:
 - programming_language

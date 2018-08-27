@@ -6,7 +6,6 @@ images:
 - cucumberio-ar21.svg
 - cucumberio-icon.svg
 logohandle: cucumberio
-skipped: 0
 sort: cucumberio
 title: Cucumber
 twitter: cucumberbdd

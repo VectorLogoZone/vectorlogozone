@@ -5,7 +5,6 @@ images:
 - handlebarsjs-icon.svg
 - handlebarsjs-ar21.svg
 logohandle: handlebarsjs
-skipped: 0
 sort: handlebarsjs
 title: Handlebars
 website: http://handlebarsjs.com/

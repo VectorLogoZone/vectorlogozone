@@ -5,7 +5,6 @@ images:
 - un-icon.svg
 - un-ar21.svg
 logohandle: un
-skipped: 0
 sort: unitednations
 title: United Nations
 twitter: un

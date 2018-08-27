@@ -6,7 +6,6 @@ images:
 - nodejs-horizontal.svg
 - nodejs-ar21.svg
 logohandle: nodejs
-skipped: 0
 sort: node.js
 tags:
 - javascript

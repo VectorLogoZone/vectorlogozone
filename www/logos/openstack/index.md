@@ -7,7 +7,6 @@ images:
 - openstack-ar21.svg
 linkedin: https://www.linkedin.com/groups/3239106
 logohandle: openstack
-skipped: 0
 sort: openstack
 title: OpenStack
 twitter: openstack

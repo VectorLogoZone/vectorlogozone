@@ -5,7 +5,6 @@ images:
 - craigslist-ar21.svg
 linkedin: https://www.linkedin.com/company/craigslist
 logohandle: craigslist
-skipped: 0
 sort: craigslist
 title: craigslist
 twitter: craigslist

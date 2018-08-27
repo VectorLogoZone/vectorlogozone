@@ -6,7 +6,6 @@ images:
 - slashdot-ar21.svg
 - slashdot-icon.svg
 logohandle: slashdot
-skipped: 0
 sort: slashdot
 title: Slashdot
 twitter: slashdot

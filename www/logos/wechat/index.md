@@ -8,7 +8,6 @@ images:
 - wechat-icon.svg
 - wechat-ar21.svg
 logohandle: wechat
-skipped: 0
 sort: wechat
 tags:
 - messaging

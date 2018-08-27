@@ -5,7 +5,6 @@ images:
 - sandcastlezone-icon.svg
 layout: default
 logohandle: sandcastlezone
-skipped: 0
 sort: sandcastlezone
 tags:
 - andrew_marcuse

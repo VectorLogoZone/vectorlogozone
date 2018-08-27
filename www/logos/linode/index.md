@@ -7,7 +7,6 @@ images:
 - linode-ar21.svg
 layout: default
 logohandle: linode
-skipped: 1
 sort: linode
 tags:
 - hosting

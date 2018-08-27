@@ -4,7 +4,6 @@ images:
 - apple_xcode-icon.svg
 layout: default
 logohandle: apple_xcode
-skipped: 0
 sort: xcode
 tags:
 - ide

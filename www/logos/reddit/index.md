@@ -10,7 +10,6 @@ images:
 - reddit-tile.svg
 - reddit-icon.svg
 logohandle: reddit
-skipped: 0
 sort: reddit
 title: Reddit
 twitter: reddit

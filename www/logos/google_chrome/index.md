@@ -5,7 +5,6 @@ images:
 - google_chrome-icon.svg
 - google_chrome-ar21.svg
 logohandle: google_chrome
-skipped: 0
 sort: chrome
 tags:
 - google

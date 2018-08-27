@@ -7,7 +7,6 @@ images:
 - gitlab-ar21.svg
 linkedin: https://www.linkedin.com/company/gitlab-com
 logohandle: gitlab
-skipped: 0
 sort: gitlab
 title: gitlab
 twitter: gitlab

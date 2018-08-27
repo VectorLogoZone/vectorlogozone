@@ -7,7 +7,6 @@ images:
 - pinboard-ar21.svg
 layout: default
 logohandle: pinboard
-skipped: 0
 sort: pinboard
 tags:
 - bookmarking

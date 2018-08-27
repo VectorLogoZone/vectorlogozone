@@ -7,7 +7,6 @@ images:
 - lua-ar21.svg
 - lua-official.svg
 logohandle: lua
-skipped: 0
 sort: lua
 tags:
 - programming_language

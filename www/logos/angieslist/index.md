@@ -11,7 +11,6 @@ instagram: https://www.instagram.com/angieslist/
 linkedin: https://www.linkedin.com/company/angie's-list
 logohandle: angieslist
 pinterest: https://www.pinterest.com/angieslist/
-skipped: 0
 sort: angieslist
 title: Angie's List
 twitter: angieslist

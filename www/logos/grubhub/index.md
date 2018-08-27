@@ -7,7 +7,6 @@ images:
 - grubhub-ar21.svg
 - grubhub-icon.svg
 logohandle: grubhub
-skipped: 0
 sort: grubhub
 title: Grubhub
 twitter: grubhub

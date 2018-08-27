@@ -7,7 +7,6 @@ images:
 - walmart-ar21.svg
 - walmart-icon.svg
 logohandle: walmart
-skipped: 0
 sort: walmart
 title: Walmart
 twitter: walmart

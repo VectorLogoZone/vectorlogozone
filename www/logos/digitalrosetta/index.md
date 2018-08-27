@@ -9,7 +9,6 @@ images:
 - digitalrosetta-ar21.svg
 - digitalrosetta-tile.svg
 logohandle: digitalrosetta
-skipped: 0
 sort: digitalrosetta
 tags:
 - andrew_marcuse

@@ -7,7 +7,6 @@ images:
 - slideshare-tile.svg
 - slideshare-icon.svg
 logohandle: slideshare
-skipped: 0
 sort: slideshare
 tags:
 - presentation

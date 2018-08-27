@@ -6,7 +6,6 @@ images:
 - lunrjs-icon.svg
 - lunrjs-ar21.svg
 logohandle: lunrjs
-skipped: 1
 sort: lunr.js
 tags:
 - javascript

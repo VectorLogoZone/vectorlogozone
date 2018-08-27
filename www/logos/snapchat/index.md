@@ -6,7 +6,6 @@ images:
 - snapchat-tile.svg
 - snapchat-icon.svg
 logohandle: snapchat
-skipped: 0
 sort: snapchat
 title: Snapchat
 twitter: snapchat

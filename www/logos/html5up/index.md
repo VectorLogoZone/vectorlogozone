@@ -9,7 +9,6 @@ images:
 - html5up-icon.svg
 - html5up-ar21.svg
 logohandle: html5up
-skipped: 0
 sort: html5up
 title: HTML5Up
 twitter: ajlkn

@@ -8,7 +8,6 @@ images:
 - quora-icon.svg
 layout: default
 logohandle: quora
-skipped: 0
 sort: quora
 tags:
 - answers

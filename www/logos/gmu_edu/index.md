@@ -4,7 +4,6 @@ images:
 - gmu_edu-icon.svg
 - gmu_edu-ar21.svg
 logohandle: gmu_edu
-skipped: 0
 sort: george_mason
 tags:
 - university

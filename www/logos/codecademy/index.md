@@ -12,7 +12,6 @@ images:
 - codecademy-icon.svg
 instagram: https://www.instagram.com/codecademy/
 logohandle: codecademy
-skipped: 0
 sort: codecademy
 title: Codecademy
 twitter: codecademy

@@ -11,7 +11,6 @@ images:
 - wordpress-icon.svg
 - wordpress-tile.svg
 logohandle: wordpress
-skipped: 0
 sort: wordpress
 tags:
 - blogging

@@ -8,7 +8,6 @@ images:
 - ampproject-official.svg
 - ampproject-icon.svg
 logohandle: ampproject
-skipped: 0
 sort: amp
 title: AMP
 twitter: AMPhtml

@@ -4,7 +4,6 @@ images:
 - minecraft-ar21.svg
 - minecraft-icon.svg
 logohandle: minecraft
-skipped: 0
 sort: minecraft
 tags:
 - game

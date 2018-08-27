@@ -7,7 +7,6 @@ images:
 - vectorlogozone-tile.svg
 - vectorlogozone-ar21.svg
 logohandle: vectorlogozone
-skipped: 0
 sort: vectorlogozone
 tags:
 - andrew_marcuse

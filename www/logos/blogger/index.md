@@ -8,7 +8,6 @@ images:
 - blogger-tile.svg
 - blogger-ar21.svg
 logohandle: blogger
-skipped: 0
 sort: blogger
 title: Blogger
 twitter: blogger

@@ -6,7 +6,6 @@ images:
 - ghost-tile.svg
 instagram: https://instagram.com/ghost
 logohandle: ghost
-skipped: 0
 sort: ghost
 title: Ghost
 twitter: tryghost

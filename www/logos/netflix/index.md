@@ -13,7 +13,6 @@ images:
 - netflix-ar21.svg
 instagram: https://www.instagram.com/netflix/
 logohandle: netflix
-skipped: 0
 sort: netflix
 title: Netflix
 twitter: netflix

@@ -6,7 +6,6 @@ images:
 instagram: https://instagram.com/viber
 linkedin: https://linkedin.com/company/rakuten-viber
 logohandle: viber
-skipped: 0
 sort: viber
 title: Viber
 twitter: Viber

@@ -11,7 +11,6 @@ images:
 - dell-icon.svg
 - dell-ar21.svg
 logohandle: dell
-skipped: 0
 sort: dell
 tags:
 - hardware

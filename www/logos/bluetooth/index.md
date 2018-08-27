@@ -5,7 +5,6 @@ images:
 - bluetooth-ar21.svg
 - bluetooth-icon.svg
 logohandle: bluetooth
-skipped: 0
 sort: bluetooth
 title: Bluetooth
 twitter: BluetoothSIG

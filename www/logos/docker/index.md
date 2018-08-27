@@ -11,7 +11,6 @@ images:
 - docker-ar21.svg
 layout: default
 logohandle: docker
-skipped: 0
 sort: docker
 tags:
 - software

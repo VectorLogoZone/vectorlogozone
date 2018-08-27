@@ -5,7 +5,6 @@ images:
 - gnome-ar21.svg
 - gnome-icon.svg
 logohandle: gnome
-skipped: 0
 sort: gnome
 title: GNOME
 twitter: gnome

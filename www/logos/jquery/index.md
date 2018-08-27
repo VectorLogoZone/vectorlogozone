@@ -10,7 +10,6 @@ images:
 - jquery-official.svg
 layout: default
 logohandle: jquery
-skipped: 1
 sort: jquery
 tags:
 - programming_library

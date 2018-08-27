@@ -6,7 +6,6 @@ images:
 - wikimedia_commons-card.png
 layout: default
 logohandle: wikimedia_commons
-skipped: 1
 sort: wikimedia commons
 tags:
 - graphics

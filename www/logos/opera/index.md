@@ -11,7 +11,6 @@ images:
 - opera-ar21.svg
 - opera-icon.svg
 logohandle: opera
-skipped: 0
 sort: opera
 title: Opera
 twitter: opera

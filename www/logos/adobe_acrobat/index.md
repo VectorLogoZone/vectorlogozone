@@ -8,7 +8,6 @@ images:
 - adobe_acrobat-ar21.svg
 keywords: pdf
 logohandle: adobe_acrobat
-skipped: 0
 sort: acrobat
 tags:
 - pdf

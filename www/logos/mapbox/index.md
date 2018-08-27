@@ -6,7 +6,6 @@ images:
 - mapbox-icon.svg
 - mapbox-ar21.svg
 logohandle: mapbox
-skipped: 0
 sort: mapbox
 tags:
 - mapping

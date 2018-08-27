@@ -7,7 +7,6 @@ images:
 - emberjs-icon.svg
 - emberjs-ar21.svg
 logohandle: emberjs
-skipped: 0
 sort: emberjs
 title: emberjs
 twitter: emberjs

@@ -8,7 +8,6 @@ images:
 - swift-icon.svg
 - swift-ar21.svg
 logohandle: swift
-skipped: 0
 sort: swift
 tags:
 - apple

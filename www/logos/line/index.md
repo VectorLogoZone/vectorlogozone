@@ -10,7 +10,6 @@ images:
 - line-tile.svg
 - line-official.svg
 logohandle: line
-skipped: 0
 sort: line
 title: LINE
 website: https://line.me/

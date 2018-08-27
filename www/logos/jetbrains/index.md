@@ -9,7 +9,6 @@ images:
 - jetbrains-icon.svg
 linkedin: https://www.linkedin.com/company/jetbrains
 logohandle: jetbrains
-skipped: 0
 sort: jetbrains
 tags:
 - ide

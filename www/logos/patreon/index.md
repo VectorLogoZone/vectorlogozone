@@ -11,7 +11,6 @@ images:
 instagram: https://www.instagram.com/patreon/
 linkedin: https://www.linkedin.com/company/3228545/
 logohandle: patreon
-skipped: 0
 sort: patreon
 tags:
 - monetization

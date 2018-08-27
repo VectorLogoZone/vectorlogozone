@@ -10,7 +10,6 @@ images:
 layout: default
 logohandle: amazon
 pinterest: https://www.pinterest.com/amazon
-skipped: 0
 sort: amazon
 tags:
 - ecommerce

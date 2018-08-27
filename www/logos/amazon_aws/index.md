@@ -10,7 +10,6 @@ images:
 - amazon_aws-ar21.svg
 layout: default
 logohandle: amazon_aws
-skipped: 0
 sort: amazon web services
 tags:
 - hosting

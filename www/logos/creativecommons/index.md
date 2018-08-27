@@ -6,7 +6,6 @@ images:
 - creativecommons-ar21.svg
 - creativecommons-icon.svg
 logohandle: creativecommons
-skipped: 0
 sort: creativecommons
 title: Creative Commons
 twitter: creativecommons

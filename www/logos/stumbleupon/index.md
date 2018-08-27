@@ -6,7 +6,6 @@ images:
 - stumbleupon-tile.svg
 - stumbleupon-icon.svg
 logohandle: stumbleupon
-skipped: 0
 sort: stumbleupon
 tags:
 - bookmarking

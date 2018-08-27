@@ -5,7 +5,6 @@ images:
 - rabbitmq-icon.svg
 - rabbitmq-ar21.svg
 logohandle: rabbitmq
-skipped: 0
 sort: rabbitmq
 title: RabbitMQ
 twitter: RabbitMQ

@@ -11,7 +11,6 @@ instagram: https://www.instagram.com/producthunt/
 linkedin: https://www.linkedin.com/company/product-hunt
 logohandle: producthunt
 pinterest: https://www.pinterest.com/producthuntlive/
-skipped: 1
 sort: producthunt
 title: Product Hunt
 twitter: ProductHunt

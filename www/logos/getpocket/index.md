@@ -5,7 +5,6 @@ github: pocket
 images:
 - getpocket-tile.svg
 logohandle: getpocket
-skipped: 0
 sort: pocket
 title: Pocket
 twitter: pocket

@@ -8,7 +8,6 @@ images:
 - coursera-icon.svg
 linkedin: https://www.linkedin.com/company/coursera
 logohandle: coursera
-skipped: 0
 sort: coursera
 title: Coursera
 twitter: coursera

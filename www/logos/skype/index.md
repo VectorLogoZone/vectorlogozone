@@ -9,7 +9,6 @@ images:
 - skype-ar21.svg
 - skype-icon.svg
 logohandle: skype
-skipped: 0
 sort: skype
 tags:
 - microsoft

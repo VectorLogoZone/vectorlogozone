@@ -12,7 +12,6 @@ images:
 - instagram-wordmark.svg
 - instagram-tile.svg
 logohandle: instagram
-skipped: 0
 sort: instagram
 title: Instagram
 website: https://www.instagram.com/

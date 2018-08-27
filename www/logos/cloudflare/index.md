@@ -14,7 +14,6 @@ images:
 - cloudflare-ar21.svg
 linkedin: https://www.linkedin.com/company/407222
 logohandle: cloudflare
-skipped: 0
 sort: cloudflare
 tags:
 - cdn

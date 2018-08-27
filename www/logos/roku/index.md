@@ -6,7 +6,6 @@ images:
 - roku-ar21.svg
 - roku-icon.svg
 logohandle: roku
-skipped: 0
 sort: roku
 title: Roku
 twitter: rokuplayer

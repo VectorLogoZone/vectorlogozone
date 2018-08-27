@@ -5,7 +5,6 @@ images:
 - reactjs-icon.svg
 - reactjs-ar21.svg
 logohandle: reactjs
-skipped: 0
 sort: react
 title: React
 website: https://reactjs.org/

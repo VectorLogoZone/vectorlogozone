@@ -9,7 +9,6 @@ images:
 - simpleshareio-icon.svg
 - simpleshareio-tile.svg
 logohandle: simpleshareio
-skipped: 0
 sort: simpleshare
 tags:
 - andrew_marcuse

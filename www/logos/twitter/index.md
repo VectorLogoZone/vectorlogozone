@@ -11,7 +11,6 @@ images:
 - twitter-card.png
 - twitter-ar21.svg
 logohandle: twitter
-skipped: 0
 sort: twitter
 title: Twitter
 twitter: twitter

@@ -6,7 +6,6 @@ images:
 - cocacola-ar21.svg
 - cocacola-icon.svg
 logohandle: cocacola
-skipped: 0
 sort: cocacola
 title: CocaCola
 twitter: CocaCola

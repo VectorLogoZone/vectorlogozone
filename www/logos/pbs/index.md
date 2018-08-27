@@ -6,7 +6,6 @@ images:
 instagram: https://www.instagram.com/pbs/
 logohandle: pbs
 pinterest: https://www.pinterest.com/pbsofficial/
-skipped: 0
 sort: pbs
 title: PBS
 tumblr: http://pbstv.tumblr.com/

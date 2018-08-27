@@ -15,7 +15,6 @@ images:
 instagram: https://www.instagram.com/paypalde/
 linkedin: https://www.linkedin.com/company/paypal
 logohandle: paypal
-skipped: 0
 sort: paypal
 tags:
 - payments

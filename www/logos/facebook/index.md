@@ -12,7 +12,6 @@ images:
 - facebook-card.png
 - facebook-ar21.svg
 logohandle: facebook
-skipped: 0
 sort: facebook
 tags:
 - social_network

@@ -8,7 +8,6 @@ images:
 - ansi-icon.svg
 - ansi-ar21.svg
 logohandle: ansi
-skipped: 0
 sort: ansi
 tags:
 - standards_body

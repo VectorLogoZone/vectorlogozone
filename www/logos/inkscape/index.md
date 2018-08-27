@@ -10,7 +10,6 @@ images:
 - inkscape-ar21.svg
 layout: default
 logohandle: inkscape
-skipped: 0
 sort: inkscape
 tags:
 - graphics

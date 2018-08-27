@@ -16,7 +16,6 @@ images:
 - youtube-tile.svg
 linkedin: https://www.linkedin.com/company/16140/
 logohandle: youtube
-skipped: 0
 sort: youtube
 tags:
 - video

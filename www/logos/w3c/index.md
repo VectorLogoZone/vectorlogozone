@@ -6,7 +6,6 @@ images:
 - w3c-tile.svg
 - w3c-ar21.svg
 logohandle: w3c
-skipped: 0
 sort: w3c
 tags:
 - reference

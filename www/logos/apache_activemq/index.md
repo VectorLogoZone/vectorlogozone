@@ -7,7 +7,6 @@ images:
 - apache_activemq-ar21.svg
 - apache_activemq-official.svg
 logohandle: apache_activemq
-skipped: 0
 sort: activemq
 title: ActiveMQ
 website: http://activemq.apache.org/

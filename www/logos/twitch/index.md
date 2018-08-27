@@ -16,7 +16,6 @@ images:
 - twitch-icon.svg
 linkedin: https://www.linkedin.com/company/twitch-tv
 logohandle: twitch
-skipped: 0
 sort: twitch
 title: Twitch
 twitter: twitch

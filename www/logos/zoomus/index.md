@@ -8,7 +8,6 @@ images:
 - zoomus-icon.svg
 linkedin: https://www.linkedin.com/company/2532259/
 logohandle: zoomus
-skipped: 0
 sort: zoom
 tags:
 - videoconference

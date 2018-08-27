@@ -10,7 +10,6 @@ images:
 - buymeacoffee-ar21.svg
 instagram: https://www.instagram.com/thebuymeacoffee/
 logohandle: buymeacoffee
-skipped: 0
 sort: buymeacoffee
 title: BuyMeACoffee
 twitter: TheBuyMeACoffee

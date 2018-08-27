@@ -11,7 +11,6 @@ images:
 - authy-tile.svg
 linkedin: https://linkedin.com/company/authy
 logohandle: authy
-skipped: 0
 sort: authy
 tags:
 - authentication

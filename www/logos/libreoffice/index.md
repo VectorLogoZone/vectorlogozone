@@ -9,7 +9,6 @@ images:
 - libreoffice-official.svg
 - libreoffice-icon.svg
 logohandle: libreoffice
-skipped: 1
 sort: libreoffice
 tags:
 - software

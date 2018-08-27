@@ -5,7 +5,6 @@ images:
 - microsoft_edge-icon.svg
 - microsoft_edge-ar21.svg
 logohandle: microsoft_edge
-skipped: 0
 sort: edge
 tags:
 - browser

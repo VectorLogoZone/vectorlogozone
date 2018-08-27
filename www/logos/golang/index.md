@@ -13,7 +13,6 @@ images:
 - golang-ar21.svg
 - golang-official.svg
 logohandle: golang
-skipped: 3
 sort: go language
 tags:
 - programming_language

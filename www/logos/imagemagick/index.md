@@ -5,7 +5,6 @@ images:
 - imagemagick-icon.svg
 layout: default
 logohandle: imagemagick
-skipped: 0
 sort: imagemagick
 tags:
 - graphics

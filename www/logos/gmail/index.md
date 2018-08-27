@@ -6,7 +6,6 @@ images:
 - gmail-tile.svg
 - gmail-icon.svg
 logohandle: gmail
-skipped: 0
 sort: gmail
 tags:
 - email

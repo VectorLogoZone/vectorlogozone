@@ -1,5 +1,4 @@
 ---
-category: services
 font:
   google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans
@@ -11,7 +10,6 @@ images:
 layout: default
 logohandle: mozilla_persona
 redirect_from: /logos/persona/index.html
-skipped: 0
 sort: persona
 tags:
 - security

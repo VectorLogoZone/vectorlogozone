@@ -6,7 +6,6 @@ images:
 - vk-icon.svg
 - vk-tile.svg
 logohandle: vk
-skipped: 0
 sort: vkontakte
 title: VKontakte
 twitter: vkontakte

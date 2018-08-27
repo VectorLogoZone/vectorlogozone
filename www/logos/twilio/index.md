@@ -6,7 +6,6 @@ images:
 - twilio-ar21.svg
 - twilio-tile.svg
 logohandle: twilio
-skipped: 0
 sort: twilio
 title: twilio
 twitter: twilio

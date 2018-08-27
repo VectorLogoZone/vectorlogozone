@@ -6,7 +6,6 @@ images:
 - giphy-ar21.svg
 instagram: httpw://www.instagram.com/giphy/
 logohandle: giphy
-skipped: 0
 sort: giphy
 title: GIPHY
 twitter: giphy

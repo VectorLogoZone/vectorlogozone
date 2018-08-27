@@ -7,7 +7,6 @@ images:
 - gimp-icon.svg
 layout: default
 logohandle: gimp
-skipped: 0
 sort: gimp
 tags:
 - graphics

@@ -4,7 +4,6 @@ images:
 - google_appengine-icon.svg
 layout: default
 logohandle: google_appengine
-skipped: 0
 sort: appengine
 tags:
 - google

@@ -5,7 +5,6 @@ images:
 - firstinspires-icon.svg
 - firstinspires-ar21.svg
 logohandle: firstinspires
-skipped: 0
 sort: first
 title: FIRST
 twitter: firstweets

@@ -8,7 +8,6 @@ images:
 - xbox-icon.svg
 - xbox-ar21.svg
 logohandle: xbox
-skipped: 0
 sort: xbox
 tags:
 - gameconsole
