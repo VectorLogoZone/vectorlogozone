@@ -8,14 +8,16 @@ noindex: true
 {%- assign stdmeta = 'colors font guide images logohandle notes redirect_from sort tags title website wikipedia' | split: ' ' %}
 {%- assign jekyllmeta = 'content dir layout name path url' | split: ' ' %}
 {%- assign stdmeta = stdmeta | concat:jekyllmeta %}
+{%- assign todometa = 'discord dribbble flickr gitter meetup slack slideshare soundcloud stackexchange stackoverflow vimeo weibo xing' | split: ' ' %}
+{%- assign stdmeta = stdmeta | concat:todometa %}
 {%- for sm in site.data.socialmedia %}
     {%- assign smid = sm.id | split:' ' %}
     {%- assign stdmeta = stdmeta | concat:smid %}
 {%- endfor %}
-<p>{{stdmeta | jsonify}}</p>
+<!--<p>{{stdmeta | jsonify}}</p>-->
 
 {%- assign sorted_pages = site.pages | sort:'sort' %}
-
+{%- assign logocount = 0 %}
 <table class="table table-bordered">
     <thead>
     <tr>
@@ -36,6 +38,7 @@ noindex: true
                 {%- endif %}
             {%- endfor %}
             {%- if count > 0 %}
+                {%- assign logocount = logocount | plus:1 %}
             <tr>
                 <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
                 <td>{{count}}: {{unknown | join:','}}</td>
@@ -46,9 +49,4 @@ noindex: true
     </tbody>
 </table>
 
-{%- assign smcount = 0 %}
-{%- for sm in site.data.socialmedia %}
-{%- assign smcount = smcount | plus:1 %}
-{%- endfor %}
-
-<p>Maximum possible score: {{smcount}}</p>
+<p># of logos with unknown metadata: {{logocount}}</p>

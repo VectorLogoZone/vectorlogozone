@@ -49,7 +49,7 @@ def process(options, dirparam):
 		indexmd = frontmatter.load(indexfn)
 
 	indexmd['images'] = images
-	indexmd['skipped'] = skipped
+	#indexmd['skipped'] = skipped
 
 	if "logohandle" not in indexmd.keys():
 		indexmd["logohandle"] = logohandle

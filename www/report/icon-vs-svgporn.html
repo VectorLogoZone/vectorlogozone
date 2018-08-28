@@ -1,0 +1,38 @@
+---
+title: Compare icon vs SVGPorn
+layout: default
+noindex: true
+---
+<p>This is a test page to compare the VLZ icons with the <a href="https://www.svgporn.com/">SVG Porn</a> icons.</p>
+
+{% assign sorted_pages = site.pages | sort:'sort' %}
+{% assign count = 0 %}
+<div class="logo-container">
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>Icon</th>
+            <th>SVGPorn</th>
+            <th>Name</th>
+        </tr>
+        </thead>
+        <tbody>
+        {%- for logopage in sorted_pages %}{% if logopage.logohandle %}
+        {%- capture iconfile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture %}
+        {%- if logopage.images contains iconfile and site.data.svgporn contains logopage.logohandle %}
+        {%- assign urlparts = logopage.website | split:"/" %}
+        {%- assign count = count | plus:1 %}
+        <tr>
+            <td><img alt="icon of {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{iconfile}}" style="height: 64px; width: 64px;"/></td>
+            <td>{% for img in site.data.svgporn[logopage.logohandle] %}
+                <img alt="svgporn for {{logopage.title}}" src="https://cdn.svgporn.com/logos/{{img}}" style="height:64px; width:64px" />
+                {%- endfor %}
+            </td>
+            <td><a href="{{ logopage.url }}{{site.indexpage}}">{{logopage.title}}</a></td>
+        </tr>
+        {%- endif %}{% endif %}{% endfor %}
+        </tbody>
+    </table>
+</div>
+
+<p>Icons on both sites: {{count | intcomma}}.</p>

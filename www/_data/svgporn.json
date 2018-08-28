@@ -1,0 +1,926 @@
+{
+  "airbnb": [
+    "airbnb.svg"
+  ],
+  "airtable": [
+    "airtable.svg"
+  ],
+  "algolia": [
+    "algolia.svg"
+  ],
+  "amazon_aws": [
+    "aws.svg"
+  ],
+  "amazon_awslambda": [
+    "aws-lambda.svg"
+  ],
+  "amazon_cloudformation": [
+    "aws-cloudformation.svg"
+  ],
+  "amazon_cloudwatch": [
+    "aws-cloudwatch.svg"
+  ],
+  "amazon_kinesis": [
+    "aws-kinesis.svg"
+  ],
+  "android": [
+    "android-icon.svg",
+    "android.svg"
+  ],
+  "angel": [
+    "angellist.svg"
+  ],
+  "angular": [
+    "angular-icon.svg",
+    "angular.svg"
+  ],
+  "apache": [
+    "apache.svg"
+  ],
+  "apache_cassandra": [
+    "cassandra.svg"
+  ],
+  "apache_cordova": [
+    "cordova.svg"
+  ],
+  "apache_couchdb": [
+    "couchdb.svg"
+  ],
+  "apache_hadoop": [
+    "hadoop.svg"
+  ],
+  "apache_kafka": [
+    "kafka.svg"
+  ],
+  "apache_lucene": [
+    "lucene.svg"
+  ],
+  "apache_mesos": [
+    "mesos.svg"
+  ],
+  "apache_solr": [
+    "solr.svg"
+  ],
+  "apache_tomcat": [
+    "tomcat.svg"
+  ],
+  "apple": [
+    "apple.svg"
+  ],
+  "apple_safari": [
+    "safari.svg"
+  ],
+  "appveyor": [
+    "appveyor.svg"
+  ],
+  "arangodb": [
+    "arangodb.svg"
+  ],
+  "arduino": [
+    "arduino.svg"
+  ],
+  "asana": [
+    "asana.svg"
+  ],
+  "atom_io": [
+    "atom.svg"
+  ],
+  "auth0": [
+    "auth0.svg"
+  ],
+  "authy": [
+    "authy.svg"
+  ],
+  "babeljs": [
+    "babel.svg"
+  ],
+  "backbonejs": [
+    "backbone-icon.svg",
+    "backbone.svg"
+  ],
+  "batsov_rubocop": [
+    "rubocop.svg"
+  ],
+  "behance": [
+    "behance.svg"
+  ],
+  "bigpandaio": [
+    "bigpanda.svg"
+  ],
+  "bing": [
+    "bing.svg"
+  ],
+  "bitbucket": [
+    "bitbucket.svg"
+  ],
+  "bitnami": [
+    "bitnami.svg"
+  ],
+  "blogger": [
+    "blogger.svg"
+  ],
+  "blueprintjs": [
+    "blueprint.svg"
+  ],
+  "bluetooth": [
+    "bluetooth.svg"
+  ],
+  "bower": [
+    "bower.svg"
+  ],
+  "box": [
+    "box.svg"
+  ],
+  "branchio": [
+    "branch.svg"
+  ],
+  "browserstack": [
+    "browserstack.svg"
+  ],
+  "buffer": [
+    "buffer.svg"
+  ],
+  "bugsnag": [
+    "bugsnag.svg"
+  ],
+  "c9": [
+    "cloud9.svg"
+  ],
+  "cartaoelocombr": [
+    "elo.svg"
+  ],
+  "centos": [
+    "centos-icon.svg",
+    "centos.svg"
+  ],
+  "chefio": [
+    "chef.svg"
+  ],
+  "circleci": [
+    "circleci.svg"
+  ],
+  "clojure": [
+    "clojure.svg"
+  ],
+  "cloudera": [
+    "cloudera.svg"
+  ],
+  "cloudflare": [
+    "cloudflare.svg"
+  ],
+  "cocoapods": [
+    "cocoapods.svg"
+  ],
+  "codecademy": [
+    "codecademy.svg"
+  ],
+  "codeclimate": [
+    "codeclimate.svg"
+  ],
+  "codefundio": [
+    "codefund.svg"
+  ],
+  "codepen": [
+    "codepen-icon.svg",
+    "codepen.svg"
+  ],
+  "codeship": [
+    "codeship.svg"
+  ],
+  "coffeescript": [
+    "coffeescript.svg"
+  ],
+  "consulio": [
+    "consul.svg"
+  ],
+  "containershipio": [
+    "containership.svg"
+  ],
+  "copyleft": [
+    "copyleft.svg",
+    "copyleft-pirate.svg"
+  ],
+  "couchbase": [
+    "couchbase.svg"
+  ],
+  "coursera": [
+    "coursera.svg"
+  ],
+  "crateio": [
+    "crateio.svg"
+  ],
+  "cucumberio": [
+    "cucumber.svg"
+  ],
+  "d3js": [
+    "d3.svg"
+  ],
+  "dartlang": [
+    "dart.svg"
+  ],
+  "dashlane": [
+    "dashlane.svg"
+  ],
+  "dcosio": [
+    "dcos.svg"
+  ],
+  "debian": [
+    "debian.svg"
+  ],
+  "derbyjs": [
+    "derby.svg"
+  ],
+  "digitalocean": [
+    "digital-ocean.svg"
+  ],
+  "discordapp": [
+    "discord.svg"
+  ],
+  "disqus": [
+    "disqus.svg"
+  ],
+  "djangoproject": [
+    "django.svg"
+  ],
+  "docker": [
+    "docker.svg"
+  ],
+  "docusaurus": [
+    "docusaurus.svg"
+  ],
+  "dotnet": [
+    "dotnet.svg"
+  ],
+  "dribbble": [
+    "dribbble-icon.svg",
+    "dribbble.svg"
+  ],
+  "dropbox": [
+    "dropbox.svg"
+  ],
+  "duckduckgo": [
+    "duckduckgo.svg"
+  ],
+  "eclipse": [
+    "eclipse.svg"
+  ],
+  "edgewall_trac": [
+    "trac.svg"
+  ],
+  "eggheadio": [
+    "egghead.svg"
+  ],
+  "elm-lang": [
+    "elm.svg"
+  ],
+  "emberjs": [
+    "ember-tomster.svg",
+    "ember.svg"
+  ],
+  "engineyard": [
+    "engine-yard.svg"
+  ],
+  "erlang": [
+    "erlang.svg"
+  ],
+  "eslint": [
+    "eslint.svg"
+  ],
+  "expressjs": [
+    "express.svg"
+  ],
+  "facebook": [
+    "facebook.svg"
+  ],
+  "facebook_relay": [
+    "relay.svg"
+  ],
+  "fastly": [
+    "fastly.svg"
+  ],
+  "flattr": [
+    "flattr.svg"
+  ],
+  "flickr": [
+    "flickr-icon.svg",
+    "flickr.svg"
+  ],
+  "flyio": [
+    "fly.svg"
+  ],
+  "formkeep": [
+    "formkeep.svg"
+  ],
+  "frontapp": [
+    "frontapp.svg"
+  ],
+  "getbootstrap": [
+    "bootstrap.svg"
+  ],
+  "getgrav": [
+    "grav.svg"
+  ],
+  "getmonero": [
+    "monero.svg"
+  ],
+  "getpepperoni": [
+    "pepperoni.svg"
+  ],
+  "getpostman": [
+    "postman.svg"
+  ],
+  "getshogun": [
+    "shogun.svg"
+  ],
+  "ghost": [
+    "ghost.svg"
+  ],
+  "giantswarmio": [
+    "giantswarm.svg"
+  ],
+  "git-scm": [
+    "git-icon.svg",
+    "git.svg"
+  ],
+  "github": [
+    "github-icon.svg",
+    "github.svg",
+    "github-octocat.svg"
+  ],
+  "gitkraken": [
+    "gitkraken.svg"
+  ],
+  "gitlab": [
+    "gitlab.svg"
+  ],
+  "gitterim": [
+    "gitter.svg"
+  ],
+  "gmail": [
+    "google-gmail.svg"
+  ],
+  "gnu": [
+    "gnu.svg"
+  ],
+  "gnu_bash": [
+    "bash.svg"
+  ],
+  "golang": [
+    "gopher.svg"
+  ],
+  "google": [
+    "google-icon.svg",
+    "google.svg",
+    "google-2014.svg"
+  ],
+  "google_adsense": [
+    "google-adsense.svg"
+  ],
+  "google_analytics": [
+    "google-analytics.svg"
+  ],
+  "google_cloud": [
+    "google-cloud.svg"
+  ],
+  "google_drive": [
+    "google-drive.svg"
+  ],
+  "google_plus": [
+    "google-plus.svg"
+  ],
+  "gradle": [
+    "gradle.svg"
+  ],
+  "grails": [
+    "grails.svg"
+  ],
+  "graphcool": [
+    "graphcool.svg"
+  ],
+  "graphql": [
+    "graphql.svg"
+  ],
+  "gratipay": [
+    "gratipay.svg"
+  ],
+  "gruntjs": [
+    "grunt.svg"
+  ],
+  "gunicorn": [
+    "gunicorn.svg"
+  ],
+  "gusto": [
+    "gusto.svg"
+  ],
+  "gwtproject": [
+    "gwt.svg"
+  ],
+  "hackerone": [
+    "hacker-one.svg"
+  ],
+  "handlebarsjs": [
+    "handlebars.svg"
+  ],
+  "haskell": [
+    "haskell.svg"
+  ],
+  "hasuraio": [
+    "hasura.svg"
+  ],
+  "haxe": [
+    "haxe.svg"
+  ],
+  "heroku": [
+    "heroku.svg"
+  ],
+  "hexoio": [
+    "hexo.svg"
+  ],
+  "hostgator": [
+    "hostgator.svg"
+  ],
+  "hubspot": [
+    "hubspot.svg"
+  ],
+  "ibm": [
+    "ibm.svg"
+  ],
+  "ieee": [
+    "ieee.svg"
+  ],
+  "ifttt": [
+    "ifttt.svg"
+  ],
+  "instagram": [
+    "instagram-icon.svg",
+    "instagram.svg"
+  ],
+  "invisionapp": [
+    "invision.svg"
+  ],
+  "ironio": [
+    "iron.svg"
+  ],
+  "java": [
+    "java.svg"
+  ],
+  "javascript": [
+    "javascript.svg"
+  ],
+  "jekyllrb": [
+    "jekyll.svg"
+  ],
+  "jetbrains": [
+    "jetbrains.svg"
+  ],
+  "jetbrains_idea": [
+    "intellij-idea.svg"
+  ],
+  "joomla": [
+    "joomla.svg"
+  ],
+  "jquery": [
+    "jquery.svg"
+  ],
+  "jquerymobile": [
+    "jquery-mobile.svg"
+  ],
+  "js_sagui": [
+    "sagui.svg"
+  ],
+  "jsdelivr": [
+    "jsdelivr.svg"
+  ],
+  "jsfiddle": [
+    "jsfiddle.svg"
+  ],
+  "json": [
+    "json.svg"
+  ],
+  "keycdn": [
+    "keycdn.svg"
+  ],
+  "khanacademy": [
+    "khan_academy.svg"
+  ],
+  "kissmetrics": [
+    "kissmetrics.svg"
+  ],
+  "kotlinlang": [
+    "kotlin.svg"
+  ],
+  "kubernetes": [
+    "kubernetes.svg"
+  ],
+  "leafletjs": [
+    "leafjet.svg"
+  ],
+  "lesscss": [
+    "less.svg"
+  ],
+  "letsencrypt": [
+    "letsencrypt.svg"
+  ],
+  "leveldb": [
+    "leveldb.svg"
+  ],
+  "linkedin": [
+    "linkedin.svg"
+  ],
+  "linode": [
+    "linode.svg"
+  ],
+  "litmus": [
+    "litmus.svg"
+  ],
+  "lodash": [
+    "lodash.svg"
+  ],
+  "lua": [
+    "lua.svg"
+  ],
+  "mailchimp": [
+    "mailchimp-freddie.svg",
+    "mailchimp.svg"
+  ],
+  "mailgun": [
+    "mailgun.svg"
+  ],
+  "mandrill": [
+    "mandrill-shield.svg",
+    "mandrill.svg"
+  ],
+  "mapbox": [
+    "mapbox.svg"
+  ],
+  "mapzen": [
+    "mapzen.svg"
+  ],
+  "mariadb": [
+    "mariadb.svg"
+  ],
+  "medium": [
+    "medium.svg"
+  ],
+  "mesosphere": [
+    "mesosphere.svg"
+  ],
+  "metabase": [
+    "metabase.svg"
+  ],
+  "meteor": [
+    "meteor-icon.svg",
+    "meteor.svg"
+  ],
+  "microsoft": [
+    "microsoft.svg"
+  ],
+  "microsoft_edge": [
+    "microsoft-edge.svg"
+  ],
+  "mochajs": [
+    "mocha.svg"
+  ],
+  "momentjs": [
+    "momentjs.svg"
+  ],
+  "mono-project": [
+    "mono.svg"
+  ],
+  "mozilla": [
+    "mozilla.svg"
+  ],
+  "neo4j": [
+    "neo4j.svg"
+  ],
+  "netflix": [
+    "netflix.svg",
+    "netflix-icon.svg"
+  ],
+  "netlify": [
+    "netlify.svg"
+  ],
+  "newrelic": [
+    "new-relic.svg"
+  ],
+  "nginx": [
+    "nginx.svg"
+  ],
+  "nodejs": [
+    "nodejs-icon.svg",
+    "nodejs.svg"
+  ],
+  "nodemonio": [
+    "nodemon.svg"
+  ],
+  "npmjs": [
+    "npm.svg",
+    "npm-2.svg"
+  ],
+  "ocaml": [
+    "ocaml.svg"
+  ],
+  "ogpme": [
+    "open-graph.svg"
+  ],
+  "opencollective": [
+    "opencollective.svg"
+  ],
+  "opencv": [
+    "opencv.svg"
+  ],
+  "openshift": [
+    "openshift.svg"
+  ],
+  "opensource": [
+    "opensource.svg"
+  ],
+  "openstack": [
+    "openstack.svg"
+  ],
+  "opera": [
+    "opera.svg"
+  ],
+  "oreilly": [
+    "oreilly.svg"
+  ],
+  "packerio": [
+    "packer.svg"
+  ],
+  "passportjs": [
+    "passport.svg"
+  ],
+  "patreon": [
+    "patreon.svg"
+  ],
+  "paypal": [
+    "paypal.svg"
+  ],
+  "perl": [
+    "perl.svg"
+  ],
+  "phoenixframework": [
+    "phoenix.svg"
+  ],
+  "php": [
+    "php.svg"
+  ],
+  "pinterest": [
+    "pinterest.svg"
+  ],
+  "platformio": [
+    "platformio.svg"
+  ],
+  "pocoo_flask": [
+    "flask.svg"
+  ],
+  "postgresql": [
+    "postgresql.svg"
+  ],
+  "prestodb": [
+    "presto.svg"
+  ],
+  "prettierio": [
+    "prettier.svg"
+  ],
+  "producthunt": [
+    "producthunt.svg"
+  ],
+  "puppylinux": [
+    "puppy-linux.svg"
+  ],
+  "python": [
+    "python.svg"
+  ],
+  "qtio": [
+    "qt.svg"
+  ],
+  "quora": [
+    "quora.svg"
+  ],
+  "r-project": [
+    "r-lang.svg"
+  ],
+  "rabbitmq": [
+    "rabbitmq.svg"
+  ],
+  "rackspace": [
+    "rackspace.svg"
+  ],
+  "raspberrypi": [
+    "raspberry-pi.svg"
+  ],
+  "reasonml": [
+    "reasonml.svg"
+  ],
+  "reddit": [
+    "reddit.svg"
+  ],
+  "redhat": [
+    "redhat.svg"
+  ],
+  "redis": [
+    "redis.svg"
+  ],
+  "rocksdb": [
+    "rocksdb.svg"
+  ],
+  "rollbar": [
+    "rollbar.svg"
+  ],
+  "rust-lang": [
+    "rust.svg"
+  ],
+  "salesforce": [
+    "salesforce.svg"
+  ],
+  "saltstack": [
+    "saltstack.svg"
+  ],
+  "sass-lang": [
+    "sass.svg"
+  ],
+  "scala-lang": [
+    "scala.svg"
+  ],
+  "sendgrid": [
+    "sendgrid.svg"
+  ],
+  "senecajs": [
+    "seneca.svg"
+  ],
+  "serverless": [
+    "serverless.svg"
+  ],
+  "shieldsio": [
+    "shields.svg"
+  ],
+  "shippable": [
+    "shippable.svg"
+  ],
+  "shopify": [
+    "shopify.svg"
+  ],
+  "sitepoint": [
+    "sitepoint.svg"
+  ],
+  "slack": [
+    "slack.svg"
+  ],
+  "smashingmagazine": [
+    "smashingmagazine.svg"
+  ],
+  "snapsvgio": [
+    "snap-svg.svg"
+  ],
+  "soundcloud": [
+    "soundcloud.svg"
+  ],
+  "speakerdeck": [
+    "speakerdeck.svg"
+  ],
+  "springio": [
+    "spring.svg"
+  ],
+  "sqlite": [
+    "sqlite.svg"
+  ],
+  "stackoverflow": [
+    "stackoverflow.svg"
+  ],
+  "stackshare": [
+    "stackshare.svg"
+  ],
+  "steampowered": [
+    "steam.svg"
+  ],
+  "stickermule": [
+    "stickermule.svg"
+  ],
+  "stripe": [
+    "stripe.svg"
+  ],
+  "stylelintio": [
+    "stylelint.svg"
+  ],
+  "supergiantio": [
+    "supergiant.svg"
+  ],
+  "surgesh": [
+    "surge.svg"
+  ],
+  "suse": [
+    "suse.svg"
+  ],
+  "terraformio": [
+    "terraform.svg"
+  ],
+  "travis-ci": [
+    "travis-ci.svg"
+  ],
+  "treasuredata": [
+    "treasuredata.svg"
+  ],
+  "trello": [
+    "trello.svg"
+  ],
+  "tumblr": [
+    "tumblr-icon.svg",
+    "tumblr.svg"
+  ],
+  "twilio": [
+    "twilio.svg"
+  ],
+  "twitch": [
+    "twitch.svg"
+  ],
+  "twitter": [
+    "twitter.svg"
+  ],
+  "typescriptlang": [
+    "typescript-icon.svg",
+    "typescript.svg"
+  ],
+  "ubuntu": [
+    "ubuntu.svg"
+  ],
+  "udemy": [
+    "udemy.svg"
+  ],
+  "unity3d": [
+    "unity.svg"
+  ],
+  "upwork": [
+    "upwork.svg"
+  ],
+  "usepanda": [
+    "panda.svg"
+  ],
+  "vagrantup": [
+    "vagrant.svg"
+  ],
+  "vaultproject": [
+    "vault.svg"
+  ],
+  "victorops": [
+    "victorops.svg"
+  ],
+  "vimeo": [
+    "vimeo-icon.svg",
+    "vimeo.svg"
+  ],
+  "vine": [
+    "vine.svg"
+  ],
+  "visualstudio_code": [
+    "visual-studio-code.svg"
+  ],
+  "w3_svg": [
+    "svg.svg"
+  ],
+  "w3c": [
+    "w3c.svg"
+  ],
+  "waffleio": [
+    "waffle.svg"
+  ],
+  "weaveworks": [
+    "weave.svg"
+  ],
+  "webassembly": [
+    "webassembly.svg"
+  ],
+  "webcomponents": [
+    "webcomponents.svg"
+  ],
+  "whalar": [
+    "whalar.svg"
+  ],
+  "wufoo": [
+    "wufoo.svg"
+  ],
+  "xero": [
+    "xero.svg"
+  ],
+  "yammer": [
+    "yammer.svg"
+  ],
+  "ycombinator": [
+    "ycombinator.svg"
+  ],
+  "yeoman": [
+    "yeoman.svg"
+  ],
+  "youtube": [
+    "youtube.svg"
+  ],
+  "zapier": [
+    "zapier.svg"
+  ],
+  "zeit": [
+    "zeit.svg"
+  ],
+  "zoho": [
+    "zoho.svg"
+  ]
+}
