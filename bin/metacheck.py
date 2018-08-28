@@ -56,7 +56,7 @@ for fn in sorted(found_files):
         sys.stdout.write("ERROR: no title for %s (%s)\n" % (fn.parts[-2], fn))
         errCount += 1
 
-    if ' - ' in fm['title'] or ' | ' in fm['title']:
+    if ' - ' in fm['title'] or ' | ' in fm['title'] or ': ' in fm['title']:
         sys.stdout.write("WARNING: bad title for %s (%s): '%s'\n" % (fn.parts[-2], fn, fm['title']))
         warnCount += 1
 
@@ -87,6 +87,10 @@ for fn in sorted(found_files):
                     sys.stdout.write("WARNING: invalid color %s for key %s\n" % (color, fn))
                     warnCount += 1
 
+    if 'notes' in fm.keys():
+        sys.stdout.write("WARNING: key %s still has notes\n" % (fn))
+        warnCount += 1
+
     # LATER: check handle matches website
 
 sys.stdout.write("INFO: %d errors, %d warnings\n" % (errCount, warnCount))
@@ -94,6 +98,5 @@ sys.stdout.write("INFO: %d errors, %d warnings\n" % (errCount, warnCount))
 if args.verbose:
     sys.stdout.write("INFO: metacheck of %d files complete at %s\n" % (fileCount, datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')))
 
-# LATER: exit with errlevel
 if errCount > 0:
     sys.exit(1)
