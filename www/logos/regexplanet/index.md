@@ -1,5 +1,5 @@
 ---
-colors: '#af0011'
+colors: ['#AF0011']
 font: name:Helvetica
 github: regexplanet
 images:

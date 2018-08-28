@@ -1,6 +1,6 @@
 ---
 colors:
-- '#ff9900'
+- '#FF9900'
 facebook: https://www.facebook.com/amazon
 github: amzn
 images:

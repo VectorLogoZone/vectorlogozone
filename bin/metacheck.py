@@ -27,8 +27,10 @@ fileCount = 0
 errCount = 0
 warnCount = 0
 
+colorPattern = re.compile("^#[0-9A-F]{6}$")
+
 found_files = pathlib.Path(default_path).glob('**/index.md')
-for fn in found_files:
+for fn in sorted(found_files):
 
     f = open(str(fn))
     fmstr = f.read()
@@ -74,6 +76,16 @@ for fn in found_files:
         if isinstance(fm[key], str) and fm[key] != fm[key].strip():
             sys.stdout.write("WARNING: whitespace for %s on key '%s'\n" % (fn, key))
             warnCount += 1
+
+    if 'colors' in fm.keys():
+        if isinstance(fm['colors'], str):
+            sys.stdout.write("WARNING: colors is not an array for key %s\n" % (fn))
+            warnCount += 1
+        else:
+            for color in fm['colors']:
+                if not colorPattern.match(color):
+                    sys.stdout.write("WARNING: invalid color %s for key %s\n" % (color, fn))
+                    warnCount += 1
 
     # LATER: check handle matches website
 

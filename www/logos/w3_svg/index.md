@@ -1,7 +1,7 @@
 ---
 colors:
-- '#ffb13b'
-- '#005a9c'
+- '#FFB13B'
+- '#005A9C'
 font:
   myfonts: null
   name: null

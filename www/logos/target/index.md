@@ -1,6 +1,6 @@
 ---
 colors:
-- '#da2032'
+- '#DA2032'
 facebook: https://www.facebook.com/target/
 images:
 - target-ar21.svg

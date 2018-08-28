@@ -1,7 +1,7 @@
 ---
 blog: https://analytics.googleblog.com/
 colors:
-- '#FFc517'
+- '#FFC517'
 - '#EE7406'
 - '#F57E02'
 - '#757575'

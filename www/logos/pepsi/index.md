@@ -1,7 +1,7 @@
 ---
 colors:
-- '#004b93'
-- '#c9002b'
+- '#004B93'
+- '#C9002B'
 facebook: https://www.facebook.com/PepsiUS/
 images:
 - pepsi-ar21.svg

@@ -1,5 +1,5 @@
 ---
-colors: '#A81C7D'
+colors: ['#A81C7D']
 images:
 - apache_ant-icon.svg
 - apache_ant-official.svg

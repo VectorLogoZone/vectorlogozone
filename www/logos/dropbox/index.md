@@ -1,6 +1,6 @@
 ---
 blog: https://blog.dropbox.com/
-colors: '#0061FE'
+colors: ['#0061FE']
 facebook: https://www.facebook.com/Dropbox
 font:
   myfonts: https://www.myfonts.com/fonts/itc/franklin/std-narrow-bold/

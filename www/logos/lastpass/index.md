@@ -1,7 +1,7 @@
 ---
 blog: https://blog.lastpass.com/
 colors:
-- '#d32d27'
+- '#D32D27'
 facebook: https://www.facebook.com/LastPass
 github: lastpass
 googleplus: https://plus.google.com/+LastPass

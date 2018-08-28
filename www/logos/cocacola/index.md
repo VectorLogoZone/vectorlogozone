@@ -1,6 +1,6 @@
 ---
 colors:
-- '#ed1c24'
+- '#ED1C24'
 facebook: https://www.facebook.com/CocaColaUnitedStates/?brand_redir=40796308305
 images:
 - cocacola-ar21.svg

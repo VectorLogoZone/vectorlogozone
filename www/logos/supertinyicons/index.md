@@ -1,5 +1,5 @@
 ---
-colors: [ '#2100ff' ]
+colors: [ '#2100FF' ]
 github: edent/supertinyicons
 images:
 - supertinyicons-icon.svg

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.digitalocean.com/
-colors: '#0080FF'
+colors: ['#0080FF']
 facebook: https://www.facebook.com/DigitalOceanCloudHosting
 font:
   name: Maax

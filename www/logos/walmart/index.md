@@ -1,7 +1,7 @@
 ---
 colors:
-- '#fdbb30'
-- '#1a75cf'
+- '#FDBB30'
+- '#1A75CF'
 facebook: https://www.facebook.com/walmart/
 images:
 - walmart-ar21.svg

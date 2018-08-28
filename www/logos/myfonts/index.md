@@ -1,6 +1,6 @@
 ---
 blog: http://meta.myfonts.com/
-colors: '#0099ff'
+colors: ['#0099FF']
 facebook: http://facebook.com/MyFonts
 images:
 - myfonts-tile.svg

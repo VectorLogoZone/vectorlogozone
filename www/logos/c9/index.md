@@ -1,6 +1,6 @@
 ---
 blog: https://c9.io/blog
-colors: '#00A8E9'
+colors: ['#00A8E9']
 facebook: https://www.facebook.com/Cloud9IDE
 github: c9
 images:

@@ -1,5 +1,5 @@
 ---
-colors: '#E7746F'
+colors: ['#E7746F']
 font:
   google: https://fonts.google.com/specimen/Source+Sans+Pro
   name: Source Sans Pro

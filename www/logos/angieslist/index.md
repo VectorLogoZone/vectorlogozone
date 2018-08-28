@@ -1,6 +1,6 @@
 ---
 blog: http://www.angiehicks.com/
-colors: '#29A036'
+colors: ['#29A036']
 facebook: http://www.facebook.com/angieslist
 googleplus: https://plus.google.com/+angieslist
 guide: https://brandfolder.com/angieslist

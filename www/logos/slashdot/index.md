@@ -1,5 +1,5 @@
 ---
-colors: '#006666'
+colors: ['#006666']
 facebook: https://www.facebook.com/slashdot
 googleplus: https://plus.google.com/+SlashdotOrg1
 images:

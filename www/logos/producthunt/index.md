@@ -1,6 +1,6 @@
 ---
 blog: https://blog.producthunt.com/
-colors: '#DA552F'
+colors: ['#DA552F']
 facebook: https://www.facebook.com/producthunt/
 github: producthunt
 guide: https://www.producthunt.com/branding

@@ -1,6 +1,6 @@
 ---
 blog: https://amphtml.wordpress.com/
-colors: '#0379C4'
+colors: ['#0379C4']
 github: ampproject
 guide: https://github.com/ampproject/docs/blob/master/assets/img/icons/
 images:

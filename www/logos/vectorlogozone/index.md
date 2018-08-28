@@ -1,5 +1,5 @@
 ---
-colors: '#2c3e50'
+colors: ['#2C3E50']
 facebook: https://www.facebook.com/VectorLogoZone/
 github: VectorLogoZone
 images:
