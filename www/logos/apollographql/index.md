@@ -2,7 +2,7 @@
 blog: 'https://blog.apollographql.com/'
 github: apollographql
 logohandle: apollographql
-slack:'https://www.apollographql.com/slack'
+slack: 'https://www.apollographql.com/slack'
 sort: apollographql
 title: Apollo
 twitter: apollographql
