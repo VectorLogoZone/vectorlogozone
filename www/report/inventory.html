@@ -8,6 +8,7 @@ redirect_from: /logos/inventory.html
 {%- capture checkon %}<i class="fa fa-check"></i>{% endcapture -%}
 {%- capture checkoff %}<i class="fa fa-fw"></i>{% endcapture -%}
 {%- assign logocount = 0 -%}
+{%- assign imgcount = 0 -%}
 
 <table class="table table-striped table-bordered">
 	<thead>
@@ -26,14 +27,14 @@ redirect_from: /logos/inventory.html
 			<td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
 {%- for imagetype in site.data.imagetype %}{% if imagetype.inventory -%}
 			<td class="text-center">
-				    {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}
+				    {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% assign imgcount = imgcount | plus:1 %}{% else %}{{ checkoff }}{% endif %}
 				<!-- / {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.rastersuffix}}.png{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}-->
 			</td>
 {%- endif %}{% endfor -%}
             {%- capture logocard %}{{ logopage.logohandle }}{{ '-card.png' }}{% endcapture -%}
             {%- if logopage.images contains logocard %}{% assign count = count | minus:1 %}{% endif -%}
             <td class="text-center">
-				{% if count > 0 %}{{ count }}{% endif %}
+				{% if count > 0 %}{{ count }}{% assign imgcount = imgcount | plus:count %}{% endif %}
 			</td>
 		</tr>
 {%- endif %}{% endfor -%}
@@ -53,4 +54,4 @@ redirect_from: /logos/inventory.html
     </tfoot>
 </table>
 
-<p>{{ logocount }} logos</p>
+<p>{{ imgcount | intcomma }} images for {{ logocount | intcomma }} companies/projects.</p>
