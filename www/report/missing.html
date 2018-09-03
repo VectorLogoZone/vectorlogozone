@@ -49,6 +49,10 @@ redirect_from: /logos/missing.html
                 <a href="https://cdn.svgporn.com/logos/{{img}}"><img alt="svgporn for {{logopage.title}}" src="https://cdn.svgporn.com/logos/{{img}}" style="height:12pt; width:12pt" /></a>
                     {%- endfor %}
                 {%- endif -%}
+                {%- if site.data.simple contains logopage.logohandle %}
+                {%- assign svgporncount = svgporncount | plus:1 %}
+                <a href="https://github.com/simple-icons/simple-icons/blob/develop/icons/{{site.data.simple[logopage.logohandle]}}"><img alt="simple-icons for {{logopage.title}}" src="https://simpleicons.org/icons/{{site.data.simple[logopage.logohandle]}}" style="height:12pt; width:12pt" /></a>
+                {%- endif -%}
             </td>
         </tr>
         {% endif %}
