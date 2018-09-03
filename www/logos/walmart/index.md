@@ -3,6 +3,7 @@ colors:
 - '#FDBB30'
 - '#1A75CF'
 facebook: https://www.facebook.com/walmart/
+guide: https://www.walmartbrandcenter.com/downloads.aspx
 images:
 - walmart-ar21.svg
 - walmart-icon.svg
