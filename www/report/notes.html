@@ -1,0 +1,34 @@
+---
+title: Most Social
+layout: default
+noindex: true
+---
+<p>Normally notes should get processed and removed when the <code>index.md</code> files are added to the repo, but sometimes they are missed.</p>
+
+{% assign sorted_pages = site.pages | sort:'sort' %}
+{% assign count = 0 %}
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Notes</th>
+        </tr>
+    </thead>
+    <tbody>
+    {%- for logopage in sorted_pages %}
+        {%- if logopage.logohandle %}
+            {%- if logopage contains 'notes' %}
+                {%- assign count = count | plus:1 %}
+        <tr>
+            <td><a href="{{logopage.url}}{{site.indexpage}}">[{{logopage.logohandle}}]</a></td>
+            <td>{{logopage.title}}</td>
+            <td>{{logopage.notes}}</td>
+        </tr>
+            {%- endif %}
+        {%- endif %}
+    {%- endfor %}
+    </tbody>
+</table>
+
+<p># of logos with notes: {{count}}</p>
