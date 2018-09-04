@@ -1,5 +1,6 @@
 ---
 blog: https://blog.linkedin.com/
+colors: ['#0077B5']
 facebook: https://www.facebook.com/LinkedIn/
 font:
   myfonts: https://www.myfonts.com/fonts/adobe/myriad/black/

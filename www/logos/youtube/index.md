@@ -1,7 +1,8 @@
 ---
 blog: https://youtube.googleblog.com/
 colors:
-- '#FF0000'
+- '#E52D27'
+- '#B31217'
 - '#FFFFFF'
 - '#282828'
 facebook: https://www.facebook.com/youtube/

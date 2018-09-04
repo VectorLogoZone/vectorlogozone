@@ -1,4 +1,5 @@
 ---
+colors: ['#FFFC00']
 github: snapchat
 guide: https://www.snap.com/en-US/brand-guidelines/
 images:
