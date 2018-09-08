@@ -1,9 +1,9 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 #
 # utility to update frontmatter with list of available images
 #
 
-import CommonMark
+import commonmark
 import frontmatter
 import os
 
@@ -27,7 +27,7 @@ def process(logohandle, logodir):
     fmdst["title"] = fmsrc["title"] + " Logos"
     fmdst["amphandle"] = fmsrc["logohandle"]
     fmdst["images"] = fmsrc["images"]
-    fmdst.content = CommonMark.commonmark(fmsrc.content)
+    fmdst.content = commonmark.commonmark(fmsrc.content)
     fmdst["amp"] = True
 
     dstfile = os.path.join(logodir, "index.amp.html")
