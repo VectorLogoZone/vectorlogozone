@@ -1,6 +1,6 @@
 ---
 blog: https://blog.twitter.com/
-color: ["#55ACEE"]
+colors: ["#1DA1F2"]
 font:
   name: Pico Alphabet
   url: http://www2.wind.ne.jp/maniackers/pico.html
