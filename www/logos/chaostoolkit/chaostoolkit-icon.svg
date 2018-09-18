@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Calque_1"
+   data-name="Calque 1"
+   viewBox="121.3 334.88 63.999995 64.000001"
+   version="1.1"
+   sodipodi:docname="chaostoolkit-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata45">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>chaos-toolkit-full</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview43"
+     showgrid="false"
+     inkscape:zoom="4.874191"
+     inkscape:cx="110.44768"
+     inkscape:cy="28.39019"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Calque_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#363f45;}.cls-2{fill:#feb41c;}.cls-3{fill:#5e7c88;}.cls-4{fill:#4b5f6d;}.cls-5{fill:#24221f;}</style>
+  </defs>
+  <title
+     id="title6">chaos-toolkit-full</title>
+  <g
+     id="g893"
+     transform="matrix(2.3838421,0,0,2.3838421,-186.85307,-502.64823)">
+    <path
+       style="fill:#feb41c;stroke-width:0.20187446"
+       inkscape:connector-curvature="0"
+       id="path32"
+       d="m 151.75016,356.9599 a 15.699777,15.699777 0 0 1 3.73871,15.25161 l -15.078,-4.37664 z"
+       class="cls-2" />
+    <path
+       style="fill:#5e7c88;stroke-width:0.20187446"
+       inkscape:connector-curvature="0"
+       id="path34"
+       d="m 144.2263,354.71303 a 13.626526,13.626526 0 0 1 6.04614,3.66201 l -9.86157,9.45983 -3.2522,-13.26315 a 13.616432,13.616432 0 0 1 7.06763,0.14131 z"
+       class="cls-3" />
+    <path
+       style="fill:#4b5f6d;stroke-width:0.20187446"
+       inkscape:connector-curvature="0"
+       id="path36"
+       d="m 137.64721,356.55211 2.76366,11.28276 -11.14347,-3.2421 a 11.601725,11.601725 0 0 1 8.37981,-8.04066 z"
+       class="cls-4" />
+    <path
+       style="fill:#363f45;stroke-width:0.20187446"
+       inkscape:connector-curvature="0"
+       id="path38"
+       d="m 131.23366,365.156 9.17721,2.67887 -6.90007,6.61341 a 9.5547182,9.5547182 0 0 1 -2.27714,-9.29228 z"
+       class="cls-1" />
+    <path
+       style="fill:#24221f;stroke-width:0.20187446"
+       inkscape:connector-curvature="0"
+       id="path40"
+       d="m 140.41087,367.83487 1.78861,7.29575 a 7.5238611,7.5238611 0 0 1 -7.21096,-2.09748 z"
+       class="cls-5" />
+  </g>
+</svg>
