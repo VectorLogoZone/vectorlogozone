@@ -18,18 +18,20 @@ redirect_from: /logos/missing.html
     </thead>
     <tbody>
 {%- for logopage in sorted_pages -%}
-    {%- assign startsWith = logopage.sort | slice: 0,1 -%}
-    {%- if startsWith != previousStart -%}
-        {%- if previousStart != '#' %}
+    {%- if logopage.logohandle -%}
+        {%- assign startsWith = logopage.sort | slice: 0,1 -%}
+        {%- if startsWith != previousStart -%}
+            {%- if previousStart != '#' %}
         <tr>
             <td><a href="/search.html?q={{previousStart}}">{{previousStart}}</a></td>
             <td>{{ lettercount | intcomma }}</td>
         </tr>
+            {%- endif -%}
+            {%- assign lettercount = 0 -%}
+            {%- assign previousStart = startsWith -%}
         {%- endif -%}
-        {%- assign lettercount = 0 -%}
-        {%- assign previousStart = startsWith -%}
+        {%- assign lettercount = lettercount | plus: 1 -%}
     {%- endif -%}
-    {%- assign lettercount = lettercount | plus: 1 -%}
 {%- endfor %}
         <tr>
             <td><a href="/search.html?q={{previousStart}}">{{previousStart}}</a></td>
