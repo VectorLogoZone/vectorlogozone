@@ -3,7 +3,7 @@ title: Most Social
 layout: default
 noindex: true
 ---
-<p>Normally notes should get processed and removed when the <code>index.md</code> files are added to the repo, but sometimes they are missed.</p>
+<p>Normally notes should get processed and removed before publishing, but sometimes they are missed.</p>
 
 {% assign sorted_pages = site.pages | sort:'sort' %}
 {% assign count = 0 %}
@@ -16,18 +16,23 @@ noindex: true
         </tr>
     </thead>
     <tbody>
-    {%- for logopage in sorted_pages %}
-        {%- if logopage.logohandle %}
-            {%- if logopage contains 'notes' %}
+    {%- for logopage in sorted_pages -%}
+        {%- if logopage.logohandle -%}
+            {%- if logopage contains 'notes' -%}
                 {%- assign count = count | plus:1 %}
         <tr>
             <td><a href="{{logopage.url}}{{site.indexpage}}">[{{logopage.logohandle}}]</a></td>
             <td>{{logopage.title}}</td>
             <td>{{logopage.notes}}</td>
         </tr>
-            {%- endif %}
-        {%- endif %}
-    {%- endfor %}
+            {%- endif -%}
+        {%- endif -%}
+    {%- endfor -%}
+    {%- if count == 0 %}
+        <tr>
+            <td colspan="3"><i>(none)</i></td>
+        </tr>
+    {%- endif %}
     </tbody>
 </table>
 
