@@ -1,6 +1,8 @@
 ---
+blog: 'https://julialang.org/blog/'
 discourse: 'https://discourse.julialang.org/'
 github: JuliaLang
+guide: 'https://github.com/JuliaLang/www.julialang.org/tree/master/images'
 logohandle: julialang
 slack: 'https://julialang.slack.com/'
 sort: julialang
