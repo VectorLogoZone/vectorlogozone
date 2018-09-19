@@ -1,0 +1,41 @@
+---
+title: Count by First Letter
+layout: default
+noindex: true
+redirect_from: /logos/missing.html
+---
+{%- assign sorted_pages = site.pages | sort:'sort' -%}
+{%- assign lettercount = 0 -%}
+{%- assign logocount = 0 -%}
+{%- assign previousStart = '#' -%}
+
+<table class="table table-striped table-bordered">
+  	<thead>
+        <tr>
+            <th>Letter</th>
+            <th>Count</th>
+        </tr>
+    </thead>
+    <tbody>
+{%- for logopage in sorted_pages -%}
+    {%- assign startsWith = logopage.sort | slice: 0,1 -%}
+    {%- if startsWith != previousStart -%}
+        {%- if previousStart != '#' %}
+        <tr>
+            <td><a href="/search.html?q={{previousStart}}">{{previousStart}}</a></td>
+            <td>{{ lettercount | intcomma }}</td>
+        </tr>
+        {%- endif -%}
+        {%- assign lettercount = 0 -%}
+        {%- assign previousStart = startsWith -%}
+    {%- endif -%}
+    {%- assign lettercount = lettercount | plus: 1 -%}
+{%- endfor %}
+        <tr>
+            <td><a href="/search.html?q={{previousStart}}">{{previousStart}}</a></td>
+            <td>{{ lettercount | intcomma }}</td>
+        </tr>
+    </tbody>
+</table>
+
+<p>{{ logocount | intcomma }} logos</p>

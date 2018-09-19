@@ -7,44 +7,38 @@ layout: default
 {%- capture checkon %}<i class="fa fa-check"></i>{% endcapture -%}
 {%-capture checkoff %}<i class="fa fa-fw"></i>{% endcapture -%}
 
+{%- assign letters = "abc def ghi jkl mno pqrs tuv wxyz 0123456789" | split: ' ' -%}
+
 <ul class="nav nav-tabs" id="vlz-tabs" role="tablist">
-{%- for imagetype in site.data.imagetype %}{% if imagetype.tab -%}
-	<li role="presentation"{% if forloop.first %} class="active"{% endif %} id="tab-{{imagetype.id}}"><a href="#{{ imagetype.id }}" aria-controls="tab-data-{{ imagetype.id }}" role="tab">{{ imagetype.title}}</a></li>
-{%- endif %}{% endfor -%}
+{%- for letter in letters %}
+	<li role="presentation"{% if forloop.first %} class="active"{% endif %} id="tab-{{letter}}"><a href="#{{ letter }}" aria-controls="tab-data-{{ letter }}" role="tab">{% if letter == "0123456789" %}0-9{% else %}{{ letter | upcase }}{% endif %}</a></li>
+{% endfor -%}
 </ul>
 <p id="focustarget"></p>
 
 <div class="tab-content">
-{%- for imagetype in site.data.imagetype %}{% if imagetype.tab -%}
-	{%- assign logocount = 0 -%}
-	<div role="tabpanel" class="tab-pane vlz-tab-data" id="tab-data-{{ imagetype.id }}" {% if forloop.first %}{% else %}style="display:hidden;"{% endif %} >
-
+{%- for letter in letters -%}
+	{%- assign logocount = 0 %}
+	<div role="tabpanel" class="tab-pane vlz-tab-data" id="tab-data-{{ letter }}" {% if forloop.first %}{% else %}style="display:hidden;"{% endif %} >
 		<p></p>
+		<div class="logo-container" id="vector{{ letter }}">
 
-		<div class="alert alert-info">{{ imagetype.description }}
-			<div class="pull-right">
-
-<div class="btn-group pull-right" role="group" aria-label="Border">
-  <button type="button" class="btn btn-default btn-xs paddingbtn {% if imagetype.padding %}active{% endif %}" data-option="0" data-target="vector{{ imagetype.id }}" title="No padding"><img alt="" src="/images/visual/nopadding.svg" style="background-color:white;" /></button>
-  <button type="button" class="btn btn-default btn-xs paddingbtn {% if imagetype.padding == false %}active{% endif %}" data-option="1" data-target="vector{{ imagetype.id }}" title="Padding"><img alt="" src="/images/visual/padding.svg" style="background-color:white;" /></button>
-</div>
-			</div>
-		</div>
-
-		<div class="logo-container" id="vector{{ imagetype.id }}">
-
-		{%- for logopage in sorted_pages %}{% if logopage.logohandle -%}
-			{%- capture logofile %}{{ logopage.logohandle }}-{{ imagetype.id }}.svg{% endcapture %}{% if logopage.images contains logofile -%}
-                {%- if imagetype.boxwidth %}<span style="width:{{imagetype.boxwidth}};text-align:center;display:inline-block;">{% endif -%}
-				<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}{% if imagetype.maxpreviewsize %} maxsize{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}" title="{{logopage.title}}"/></a>
-				{% assign logocount = logocount | plus:1 %}
-            {%- if imagetype.boxwidth %}</span>{% endif -%}
+    {%- for logopage in sorted_pages -%}
+        {%- if logopage.logohandle -%}
+            {%- capture logofile %}{{ logopage.logohandle }}-ar21.svg{% endcapture -%}
+            {%- if logopage.images contains logofile -%}
+                {%- assign startsWith = logopage.sort | slice: 0,1 -%}
+                {%- if letter contains startsWith %}
+            <a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} logo" src="{{ logopage.logohandle }}/{{ logofile }}" title="{{logopage.title}}"/></a>
+                {%- assign logocount = logocount | plus:1 %}
+                {%- endif -%}
 			{%- endif -%}
-		{%- endif %}{% endfor -%}
+		{%- endif -%}
+    {%- endfor %}
 		<p>Count: {{ logocount }}</p>
 		</div>
 	</div>
-    {%- endif %}{% endfor -%}
+{%- endfor %}
 </div>
 <script>
 
@@ -55,8 +49,8 @@ layout: default
 		console.log("hash=" + hash);
 		if (!hash || hash == '#')
 		{
-			$("#tab-ar21").addClass("active");
-			$("#tab-data-ar21").show();
+			$("#tab-{{ letters[0] }}").addClass("active");
+			$("#tab-data-{{ letters[0] }}").show();
 		}
 		else
 		{

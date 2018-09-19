@@ -1,0 +1,29 @@
+---
+title: Least Social
+layout: default
+noindex: true
+---
+<p>Logos with no social media links in their metadata</p>
+
+{% assign sorted_pages = site.pages | sort:'sort' %}
+
+<table class="table table-bordered">
+    <thead>
+        <tr>
+            <th>Logo</th>
+        </tr>
+    </thead>
+    <tbody>
+{% for logopage in sorted_pages %}{% if logopage.logohandle %}
+    {%- assign count = 0 %}
+    {%- for sm in site.data.socialmedia %}
+    {%- if logopage contains sm.id %}{% assign count = count | plus:1 %}{% endif %}
+    {%- endfor %}
+    {%- if count == 0 %}
+    <tr>
+        <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
+    </tr>
+    {% endif %}
+    {%- endif %}{% endfor %}
+    </tbody>
+</table>
