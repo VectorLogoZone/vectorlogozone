@@ -29,22 +29,22 @@ layout: default
         <!--<td>[{{ logopage.logohandle }}]</td>-->
         <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
         <td>
-            {% if logopage.font.url %}<a href="{{logopage.font.url}}">{{ logopage.font.name }}</a>{% else %}{{ logopage.font.name }}{% endif %}
+            {%- if logopage.font.url %}<a href="{{logopage.font.url}}">{{ logopage.font.name }}</a>{% else %}{{ logopage.font.name }}{% endif -%}
         </td>
         <td class="text-center">
-            {% if logopage.font.google %}<a href="{{logopage.font.google}}">{{ checkon }}{% assign googlecount = googlecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            {%- if logopage.font.google %}<a href="{{logopage.font.google}}">{{ checkon }}{% assign googlecount = googlecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif -%}
         </td>
         <td class="text-center">
-            {% if logopage.font.microsoft %}<a href="{{logopage.font.microsoft}}">{{ checkon }}{% assign microsoftcount = microsoftcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            {%- if logopage.font.microsoft %}<a href="{{logopage.font.microsoft}}">{{ checkon }}{% assign microsoftcount = microsoftcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif -%}
         </td>
         <td class="text-center">
-            {% if logopage.font.myfonts %}<a href="{{logopage.font.myfonts}}">{{ checkon }}{% assign myfontscount = myfontscount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+            {%- if logopage.font.myfonts %}<a href="{{logopage.font.myfonts}}">{{ checkon }}{% assign myfontscount = myfontscount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif- %}
         </td>
         <td>
-            {% if logopage.font.freename %}{% if logopage.font.freeurl %}<a href="{{logopage.font.freeurl}}">{{ logopage.font.freename }}</a>{% else %}{{ logopage.font.freename }}{% endif %}{% assign freecount = freecount | plus:1 %}{% else %}{{ checkoff }}{% endif %}
+            {%- if logopage.font.freename %}{% if logopage.font.freeurl %}<a href="{{logopage.font.freeurl}}">{{ logopage.font.freename }}</a>{% else %}{{ logopage.font.freename }}{% endif %}{% assign freecount = freecount | plus:1 %}{% else %}{{ checkoff }}{% endif -%}
         </td>
     </tr>
-    {% endif %}{% endif %}{% endfor %}
+    {%- endif %}{% endif %}{% endfor %}{% if logocount > 0 %}
     <tr>
         <td>&nbsp;</td>
         <td class="text-center">{{fontcount | intcomma}} ({{ fontcount | times:100 | divided_by: logocount}}%)</td>
@@ -53,6 +53,7 @@ layout: default
         <td class="text-center">{{myfontscount | intcomma}} ({{ myfontscount | times:100 | divided_by: logocount}}%)</td>
         <td class="text-center">{{freecount | intcomma}} ({{ freecount | times:100 | divided_by: logocount}}%)</td>
     </tr>
+    {%- endif %}
     <tr>
         <!--<th>ID</th>-->
         <th>&nbsp;</th>

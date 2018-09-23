@@ -32,7 +32,7 @@ layout: default
     {%- endif %}{% endif %}{% endfor -%}
     <tr>
         <td>&nbsp;</td>
-        <td class="text-center">{{colorcount | intcomma}} ({{ colorcount | times:100 | divided_by: logocount}}%)</td>
+        <td class="text-center">{{colorcount | intcomma}} {% if logocount > 0 %}({{ colorcount | times:100 | divided_by: logocount}}%){% endif %}</td>
         <td>&nbsp;</td>
     </tr>
     </tbody>

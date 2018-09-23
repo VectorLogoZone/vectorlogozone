@@ -1,8 +1,9 @@
+*~
+*.amp.html
+.env
+.idea/
+.jekyll-metadata
 _site/
 tmp*
-*~
-.idea/
 work-in-progress/
-bin/vlz-todo.tgz
-.jekyll-metadata
-*.amp.html
+*.tgz
