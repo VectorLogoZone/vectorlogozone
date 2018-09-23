@@ -13,14 +13,27 @@
 - id: icon
   title: Icon
   description: Logo, no text, in a 64x64 canvas with no excess padding
-  height: 32
-  width: 32
+  height: 64
+  width: 64
   padding: false
   tab: true
   search: true
   inventory: true
   visualinventory: true
   amp: true
+
+- id: iconwhite
+  title: Icon
+  description: Same as icon, but just white: no color and no background
+  height: 64
+  width: 64
+  padding: false
+  tab: false
+  search: false
+  inventory: false
+  visualinventory: false
+  amp: false
+  background: true
 
 - id: image
   title: Image
