@@ -3,21 +3,21 @@ title: Logos by Tag
 ---
 {% assign sorted_pages = site.pages | sort:'sort' %}
 
-<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+<div id="accordion">
 {% for tag in site.data.tags %}
-  <div class="panel panel-default">
-    <div class="panel-heading" role="tab" id="headingOne">
-      <h4 class="panel-title">
-        <a role="button" class="collapsed" href="#{{tag[0]}}" id="header{{tag[0]}}" aria-expanded="true" aria-controls="collapse{{tag[0]}}">
+  <div class="card">
+    <div class="card-header" id="heading{{tag[0]}}">
+      <h5 class="mb-0">
+        <a alt="Expand {{tag[1]["title"]}}" class="btn btn-link" href="#{{tag[0]}}" aria-expanded="false" title="{{tag[1]["title"]}} ({{tag[0]}})">
           {{tag[1]["title"]}}
-          <span class="badge badge-info pull-right">{{tag[1]["count"]}}</span>
         </a>
-      </h4>
+          <span class="badge badge-info float-right">{{tag[1]["count"]}}</span>
+      </h5>
     </div>
-    <div id="collapse{{tag[0]}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading{{tag[0]}}">
-      <div class="panel-body logo-container">
+    <div id="collapse{{tag[0]}}" class="collapse" xaria-labelledby="heading{{tag[0]}}" data-parent="#accordian">
+      <div class="card-body logo-container">
 	{% for logopage in sorted_pages %}{% if logopage.tags contains tag[0] %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}-ar21.svg{% endcapture %}{% if logopage.images contains logofile %}
-					<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} {{imagetype.title}}" class="{% if imagetype.padding == false %}padded{% endif %}" src="{{ logopage.logohandle }}/{{ logofile }}" /></a>
+					<a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}}" src="{{ logopage.logohandle }}/{{ logofile }}" /></a>
 	{% endif %}{% endif %}{% endif %}{% endfor %}
       </div>
     </div>
@@ -28,24 +28,26 @@ title: Logos by Tag
 
 	function switchPanels()
 	{
-		$(".panel-collapse").addClass("collapse");
+		$(".collapse").hide();
 		var hash = window.location.hash;
 		if (!hash || hash == '#')
 		{
 		}
 		else
 		{
-			$("#collapse" + hash.substring(1)).removeClass("collapse");
+            var tag = hash.substring(1);
+            console.info("Showing tag '" + tag + "'");
+            $("#collapse" + tag).show();
 		}
 	}
 
 	$(document).ready(function() {
+        $(window).bind('hashchange', switchPanels);
 		if (window.location.hash)
 		{
-			$("#collapse" + window.location.hash.substring(1)).removeClass("collapse");
-			$(document).scrollTop($("#header" + window.location.hash.substring(1)).offset().top);
-		}
-		$(window).bind('hashchange', switchPanels);
+		    switchPanels();
+            $(document).scrollTop($("#heading" + window.location.hash.substring(1)).offset().top);
+        }
 	});
 
 </script>

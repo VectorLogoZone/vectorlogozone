@@ -11,7 +11,7 @@ layout: default
 
 <ul class="nav nav-tabs" id="vlz-tabs" role="tablist">
 {%- for letter in letters %}
-	<li role="presentation"{% if forloop.first %} class="active"{% endif %} id="tab-{{letter}}"><a href="#{{ letter }}" aria-controls="tab-data-{{ letter }}" role="tab">{% if letter == "0123456789" %}0-9{% else %}{{ letter | upcase }}{% endif %}</a></li>
+	<li role="presentation"  class="nav-item" id="tab-{{letter}}"><a aria-controls="tab-data-{{ letter }}" class="nav-link{% if forloop.first %} active{% endif %}" href="#{{ letter }}" id="tab-link-{{ letter }}" role="tab">{% if letter == "0123456789" %}0-9{% else %}{{ letter | upcase }}{% endif %}</a></li>
 {% endfor -%}
 </ul>
 <p id="focustarget"></p>
@@ -49,14 +49,15 @@ layout: default
 		console.log("hash=" + hash);
 		if (!hash || hash == '#')
 		{
-			$("#tab-{{ letters[0] }}").addClass("active");
+			$("#tab-link-{{ letters[0] }}").addClass("active");
 			$("#tab-data-{{ letters[0] }}").show();
 		}
 		else
 		{
 			$(".vlz-tab-data").hide();
+			$("#vlz-tabs > li > .nav-link").removeClass("active");
 			$("#tab-data-" + hash.substring(1)).show();
-			$("#tab-" + hash.substring(1)).addClass("active");
+			$("#tab-link-" + hash.substring(1)).addClass("active");
 			$("#focustarget").focus();
 		}
 	}
@@ -64,19 +65,6 @@ layout: default
 	$(document).ready(function() {
 		switchTabs();
 		$(window).bind('hashchange', switchTabs);
-		$(".paddingbtn").click( function() {
-			console.log($("#" + $(this).attr("data-target") + " img"));
-			if ($(this).attr("data-option") == 0)
-			{
-				$("#" + $(this).attr("data-target") + " img").removeClass("padded");
-			}
-			else
-			{
-				$("#" + $(this).attr("data-target") + " img").addClass("padded");
-			}
-			$(this).siblings().removeClass("active");
-			$(this).addClass("active");
-		});
 	});
 
 </script>
