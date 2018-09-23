@@ -55,8 +55,7 @@ for fn in sorted(found_files):
     if 'title' not in fm.keys() or len(fm['title']) == 0:
         sys.stdout.write("ERROR: no title for %s (%s)\n" % (fn.parts[-2], fn))
         errCount += 1
-
-    if ' - ' in fm['title'] or ' | ' in fm['title'] or ': ' in fm['title']:
+    elif ' - ' in fm['title'] or ' | ' in fm['title'] or ': ' in fm['title']:
         sys.stdout.write("WARNING: bad title for %s (%s): '%s'\n" % (fn.parts[-2], fn, fm['title']))
         warnCount += 1
 
