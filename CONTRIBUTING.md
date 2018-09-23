@@ -12,4 +12,4 @@ All logos are property of the original owners.  Any reformatting/changes/etc is 
 
 ## Report a problem
 
-For problems with the website (or takedown requests), please use the [Github issues](https://github.com/fileformat/vectorlogozone/issues). 
+For problems with the website (or takedown requests), please use the [Github issues](https://github.com/VectorLogoZone/vectorlogozone/issues).
