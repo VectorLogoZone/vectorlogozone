@@ -11,7 +11,7 @@
 		<div class="row">
 			<div class="col">
                 {%- if page.logohandle -%}
-				<div class="pull-right icon-link-header" style="padding-top:20px;">
+				<div class="float-right icon-link-header" style="padding-top:20px;">
                     {%- if page.guide %}<a title="Official Guidelines" href="{{ page.guide }}"><i class="fa fa-certificate icon-link"></i></a>{% endif -%}
 					{%- if page.website %}<a title="Website" href="{{ page.website }}?utm_source=vectorlogozone&utm_medium=referrer"><i class="fal fa-globe icon-link"></i></a>{% endif -%}
 					{%- if page.blog %}<a title="Blog" href="{{ page.blog }}?utm_source=vectorlogozone&utm_medium=referrer"><i class="fa fa-rss-square icon-link"></i></a>{% endif -%}
@@ -26,8 +26,8 @@
                     {%- if page.reddit %}<a title="Reddit" rel="nofollow" href="{{ page.reddit }}?utm_source=vectorlogozone&utm_medium=referrer"><i class="fab fa-reddit-alien icon-link"></i></a>{% endif -%}
                     {%- if page.wikipedia %}<a title="Wikipedia" href="{{ page.wikipedia }}"><i class="fab fa-wikipedia-w icon-link"></i></a>{% endif -%}
                     {%- if page.youtube %}<a title="YouTube" rel="nofollow" href="{{ page.youtube }}?utm_source=vectorlogozone&utm_medium=referrer"><i class="fab fa-youtube icon-link"></i></a>{% endif -%}
-					{%- if prev_page %}<a class="btn btn-default btn-xs" href="{{prev_page}}" title="Previous set of logos"><i class="fa fa-caret-left"></i> Previous</a>{% endif -%}
-					{%- if next_page %}&nbsp;<a class="btn btn-default btn-xs" href="{{next_page}}" title="Next set of logos">Next <i class="fa fa-caret-right"></i></a>{% endif -%}
+					{%- if prev_page %}<a class="btn btn-secondary btn-xs" href="{{prev_page}}" title="Previous set of logos"><i class="fa fa-caret-left"></i> Previous</a>{% endif -%}
+					{%- if next_page %}&nbsp;<a class="btn btn-secondary btn-xs" href="{{next_page}}" title="Next set of logos">Next <i class="fa fa-caret-right"></i></a>{% endif -%}
 				</div>
                 {%- endif -%}
 				<h1>{% if page.h1 %}{{ page.h1 }}{% else %}{{ page.title | default: "(untitled)"}}{% endif %}{% if page.subtitle %} <small> - {{ page.subtitle }}</small>{% endif %}</h1>
