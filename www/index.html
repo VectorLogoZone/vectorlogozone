@@ -42,44 +42,46 @@ I wanted images that were:</p>
     (with {{ pendingcount | intcomma }} in the <a href="/report/missing.html">queue</a>).
 </p>
 
+<div class="card-deck">
+        <div class="card">
+             <div class="card-body">
+                <h5 class="card-title">Browse</h5>
+                <p class="card-text">Look at the gallery of all the logos and admire their awesome consistency!</p>
+             </div>
+            <div class="card-footer">
+                <a href="/logos/index.html" class="btn btn-success btn-block">A-Z Index</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Search</h5>
+                <p class="card-text">Full-text search with instant results, with the option to search other github repos as well.</p>
+            </div>
+            <div class="card-footer">
+                <a href="/search.html" class="btn btn-success btn-block">Instant Search</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Contribute</h5>
+                <p class="card-text">It would be great if you could help, but we need to keep things consistent!</p>
+            </div>
+            <div class="card-footer">
+                <a href="#" class="btn btn-success btn-block">Guidelines</a>
+            </div>
+        </div>
+</div>
+
+
+<div class="row">&nbsp;</div>
 <div class="row">
-    <div class="col-md-offset-4 col-md-4">
-	<p><a class="btn btn-success btn-lg btn-block" href="/logos/index.html">Browse Logos</a></p>
+    <div class="col">
+        <div class="card">
+            <h5 class="card-header"><i class="fa fa-thumb-tack"></i> Featured Bookmarks</h5>
+            <div class="card-body">
+                <script src="https://pinboard.in//widgets/v1/linkroll/?user=fileformat&amp;count=5&amp;tag=vectorlogozone"></script>
+                <a class="btn btn-outline-dark btn-sm" href="/support/links.html">More...</a>
+            </div>
+        </div>
     </div>
-</div>
-
-<div class="row">&nbsp;</div>
-{% assign sorted_pages = site.pages | sort:'sort' %}{% assign current_slide = 0 %}
-<div class="row">
-<div id="carousel-logos" class="carousel slide" data-ride="carousel">
-
-	<!-- Wrapper for slides -->
-	<div class="carousel-inner" role="listbox">
-{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
-		<div class="item{% if logopage.logohandle == '1and1' %} active{% endif %}">
-			<a href="/logos/{{logopage.logohandle}}/index.html"><img src="/logos/{{logopage.logohandle}}/{{logopage.logohandle}}-ar21.svg" style="width:100%;" alt="{{logopage.title}}" /></a>
-		</div>
-{% endif %}{% endif %}{% endfor %}
-	</div>
-
-	<!-- Controls -->
-	<a class="left carousel-control" href="#carousel-logos" role="button" data-slide="prev">
-		<span class="fa fa-chevron-left" aria-hidden="true"></span>
-		<span class="sr-only">Previous</span>
-	</a>
-	<a class="right carousel-control" href="#carousel-logos" role="button" data-slide="next">
-		<span class="fa fa-chevron-right" aria-hidden="true"></span>
-		<span class="sr-only">Next</span>
-	</a>
-</div>
-</div>
-<div class="row">&nbsp;</div>
-<div class="row">
-<div class="panel panel-default">
-	<div class="panel-heading"><i class="fa fa-thumb-tack"></i> Recently Bookmarked</div>
-	<div class="panel-body">
-<script src="https://pinboard.in//widgets/v1/linkroll/?user=fileformat&amp;count=5&amp;tag=vectorlogozone"></script>
-<a class="btn btn-default btn-xs" href="/support/links.html">More...</a>
-	</div>
-</div>
 </div>
