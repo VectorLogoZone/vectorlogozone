@@ -24,7 +24,7 @@
 
 - id: iconwhite
   title: Icon
-  description: Same as icon, but just white: no color and no background
+  description: 'Same as icon, but just white: no color and no background'
   height: 64
   width: 64
   padding: false
