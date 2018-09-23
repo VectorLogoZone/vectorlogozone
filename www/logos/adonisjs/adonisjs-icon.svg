@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="adonisjs-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo - Vertical</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="62.586582"
+     inkscape:cy="26.109619"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Logo - Vertical</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     style="fill:#220052;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="matrix(0.68877254,0,0,0.68877254,7.3157865e-8,3.6327755)"
+     id="g13-9">
+    <path
+       id="Shape-8"
+       d="M 18.676878,77.222222 H 84.566365 L 51.621622,11.511609 Z M 51.621622,0 92.918919,82.37037 H 10.324324 Z"
+       inkscape:connector-curvature="0"
+       style="fill:#220052;fill-opacity:1;fill-rule:nonzero" />
+    <polygon
+       points="30.972973,5.1481481 61.945946,66.925926 0,66.925926 "
+       id="polygon11-0"
+       style="fill:#220052;fill-opacity:1" />
+  </g>
+</svg>

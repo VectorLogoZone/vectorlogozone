@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="60"
+   viewBox="0 0 120 60"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="adonisjs-ar21.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo - Vertical</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="7.375"
+     inkscape:cx="62.586582"
+     inkscape:cy="26.109619"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Logo - Vertical</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="g903"
+     transform="translate(-0.1372012)">
+    <g
+       id="g13-9"
+       transform="matrix(0.41996973,0,0,0.41996973,7.2564924,12.703469)"
+       style="fill:#220052;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <path
+         style="fill:#220052;fill-opacity:1;fill-rule:nonzero"
+         inkscape:connector-curvature="0"
+         d="M 18.676878,77.222222 H 84.566365 L 51.621622,11.511609 Z M 51.621622,0 92.918919,82.37037 H 10.324324 Z"
+         id="Shape-8" />
+      <polygon
+         style="fill:#220052;fill-opacity:1"
+         id="polygon11-0"
+         points="0,66.925926 30.972973,5.1481481 61.945946,66.925926 " />
+    </g>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 51.412939,34.917268 h -3.057003 l 3.817735,-9.834532 h 2.62029 l 3.916342,9.834532 h -3.141526 l -0.633942,-1.643774 h -2.930216 z m 2.084962,-6.715581 -1.028393,2.767718 h 1.972261 z m 12.354803,6.715581 h -4.634812 v -9.834532 h 4.634812 c 2.873866,0 5.015178,2.205743 5.015178,4.917264 0,2.725572 -2.141312,4.917268 -5.015178,4.917268 z m -0.408539,-7.305655 h -1.267883 v 4.776773 h 1.267883 c 1.521459,0 2.465327,-0.941302 2.465327,-2.388386 0,-1.461131 -0.943868,-2.402433 -2.465327,-2.388387 z m 13.242322,7.460195 c -3.324667,0 -5.325105,-2.332188 -5.325105,-5.071808 0,-2.739619 2.000438,-5.071808 5.325105,-5.071808 3.324666,0 5.325104,2.332189 5.325104,5.071808 0,2.73962 -2.000438,5.071808 -5.325104,5.071808 z m 0,-2.528878 c 1.50737,0 2.366714,-1.166095 2.366714,-2.54293 0,-1.376836 -0.859344,-2.542929 -2.366714,-2.542929 -1.50737,0 -2.366711,1.166093 -2.366711,2.542929 0,1.376835 0.859341,2.54293 2.366711,2.54293 z m 14.566555,2.374338 h 2.296275 v -9.834532 h -2.958394 v 4.608181 l -3.282405,-4.608181 h -2.310359 v 9.834532 h 2.958389 v -4.692477 z m 8.734298,-9.834532 h -2.95839 v 9.834532 h 2.95839 z m 2.87386,6.91227 c 0.29584,1.980955 1.84547,3.076802 4.12766,3.076802 2.14132,0 4.02905,-0.955353 4.02905,-3.048703 -0.0423,-1.390882 -0.73256,-2.34624 -2.93022,-3.104904 l -1.09883,-0.379332 c -0.60576,-0.210737 -0.80299,-0.463627 -0.80299,-0.744613 0,-0.421481 0.45081,-0.61817 0.92978,-0.61817 0.70438,0 0.98613,0.435527 1.18336,0.983451 l 2.36671,-0.674368 c -0.5635,-1.643769 -1.74686,-2.556977 -3.60642,-2.556977 -2.1554,0 -3.76138,1.222291 -3.76138,3.118951 0.0282,2.093353 2.42306,2.725572 2.90204,2.880115 l 1.11292,0.421479 c 0.70438,0.224788 0.83117,0.533875 0.83117,0.772714 0,0.477675 -0.47898,0.702464 -1.15519,0.702464 -0.97204,0 -1.54963,-0.477675 -1.74686,-1.376831 z"
+       id="ADONIS-6"
+       style="fill:#220052;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.34112585" />
+  </g>
+</svg>

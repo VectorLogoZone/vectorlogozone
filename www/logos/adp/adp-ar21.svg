@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="60"
+   id="svg2702"
+   sodipodi:version="0.32"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   version="1.0"
+   sodipodi:docname="adp-ar21.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <defs
+     id="defs2704">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath127">
+      <path
+         d="m 712.529,291.156 h 79.3159 v 36 H 712.529 Z"
+         id="path129"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath119">
+      <path
+         d="m 709.145,274.7849 h 110.047 v 68.715 H 709.145 Z"
+         id="path121"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective2710" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.7909748"
+     inkscape:cx="17.793775"
+     inkscape:cy="-7.6099024"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2707">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-276.14191,-417.71933)">
+    <path
+       d="m 358.09437,438.86993 h -3.87317 v 3.86901 h 3.87317 c 0.91929,0 1.65882,0.74874 1.65882,1.66263 0,0.92024 -0.73953,1.65969 -1.65882,1.65969 h -3.87317 v 3.87237 h 3.87317 c 3.0564,0 5.53214,-2.47815 5.53214,-5.53206 0,-3.0547 -2.47574,-5.53164 -5.53214,-5.53164 z m -22.07277,20.47322 c 4.63626,0 8.63202,-2.71522 10.49859,-6.64474 h 4.93711 v 6.64474 h 2.76393 v -6.64474 h 3.87314 c 4.58591,0 8.30104,-3.71515 8.30104,-8.29684 0,-4.58283 -3.71513,-8.29935 -8.30104,-8.29935 h -6.63707 v 9.95904 h -3.93891 c -0.80328,-5.62827 -5.64461,-9.95904 -11.49679,-9.95904 h -13.62059 l -13.54864,23.24093 h 3.23205 l 3.87237,-6.64474 h 13.92341 v 6.64474 z m 34.24698,-14.94158 c 0,6.72121 -5.45136,12.16921 -12.17421,12.16921 v 6.63802 H 347.5857 v -5.17831 c -2.84292,3.17827 -6.96657,5.17831 -11.5641,5.17831 h -10.01455 v -6.63802 h -7.82707 l -3.87237,6.63802 h -12.29237 l 18.06855,-30.97895 h 15.93781 c 4.59753,0 8.72118,2.00554 11.5641,5.18415 v -5.18415 h 10.50867 c 6.72285,0 12.17421,5.45229 12.17421,12.17172 z m -44.26153,-5.53164 v 7.19133 h -6.17788 l -2.25639,3.87237 h 12.30742 v -11.0637 z m 18.8685,8.8494 c 0,4.88916 -3.96564,8.85145 -8.85395,8.85145 h -3.37585 v -3.87237 h 3.37585 c 2.75213,0 4.98236,-2.22608 4.98236,-4.97908 0,-2.74714 -2.23023,-4.98039 -4.98236,-4.98039 h -3.37585 v -3.86901 h 3.37585 c 4.88831,0 8.85395,3.96229 8.85395,8.8494"
+       style="fill:#ee2722;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.86052626"
+       id="path137-7"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
