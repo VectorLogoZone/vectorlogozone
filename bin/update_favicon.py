@@ -38,7 +38,7 @@ def favicon(website):
     except requests.exceptions.RequestException:
         return "-"
 
-    if r.status_code == 200 and r.headers['content-type'].startswith("image/"):
+    if r.status_code == 200 and 'content-type' in r.headers and r.headers['content-type'].startswith("image/"):
         return favicon
 
     parts = urllib.parse.urlparse(website)
