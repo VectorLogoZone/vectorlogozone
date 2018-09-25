@@ -1,0 +1,34 @@
+---
+title: Compare with Official Logos
+layout: default
+noindex: true
+---
+<p>This is a page to compare the official logos.</p>
+
+{%- assign sorted_pages = site.pages | sort:'sort' %}
+<div class="logo-container">
+    <table class="table table-bordered">
+        <thead>
+        <tr>
+            <th>Name</th>
+            <th>Official</th>
+            <th>Rectangle</th>
+            <th>Icon</th>
+        </tr>
+        </thead>
+        <tbody>
+        {%- for logopage in sorted_pages %}{% if logopage.logohandle %}
+        {%- capture officialfile %}{{ logopage.logohandle }}{{ '-official.svg' }}{% endcapture %}
+        {%- capture iconfile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture %}
+        {%- capture ar21file %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}
+        {%- if logopage.images contains officialfile and logopage.images contains ar21file %}
+        <tr>
+            <td><a href="{{ logopage.url }}{{site.indexpage}}">{{logopage.title}}</a></td>
+            <td><img alt="official logo for {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{officialfile}}" style="max-height: 128px; max-width: 384px; padding: 10px;" /></td>
+            <td><img alt="rectangular logo for {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{ar21file}}" style="height: 128px; padding: 0px;" /></td>
+            <td>{% if logopage.images contains iconfile %}<img alt="icon of {{logopage.title}}" src="/logos/{{logopage.logohandle}}/{{iconfile}}" style="height: 128px; padding: 10px;" />{% endif %}</td>
+        </tr>
+        {%- endif %}{% endif %}{% endfor %}
+        </tbody>
+    </table>
+</div>
