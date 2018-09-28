@@ -93,6 +93,8 @@ layout: none
                 var img = $("#preview-image")[0];
                 console.info("INFO: image loaded (" + img.naturalWidth + "x" + img.naturalHeight + ")");
                 $(img).attr("style", "");       // clear spinner size
+                $(img).css("border-width", "1px");
+
                 var full = $("#preview-container")[0];
                 var zoomX = full.clientWidth / img.naturalWidth;
                 var zoomY = full.clientHeight / img.naturalHeight;
@@ -149,7 +151,6 @@ layout: none
 			$("#preview-image").attr("src", imgUrl);
 			$("#btn-download").attr("href", imgUrl).attr("download", imgUrl.substring(imgUrl.lastIndexOf('/')+1, imgUrl.length));
 			$("#btn-exit").attr("href", imgUrl.substring(0, imgUrl.lastIndexOf('/')));
-			$("#preview-image").css("border-width", "1px");
 		}
 
 		var next = qsParam("next");
