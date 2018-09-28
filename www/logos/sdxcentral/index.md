@@ -1,0 +1,10 @@
+---
+facebook: 'https://facebook.com/SDxCentral'
+googleplus: 'https://plus.google.com/+Sdxcentral'
+linkedin: 'https://linkedin.com/groups/SDNCentral-1-SoftwareDefined-Networking-Network-4156686'
+logohandle: sdxcentral
+sort: sdxcentral
+title: SDxCentral
+twitter: sdxcentral
+website: 'https://www.sdxcentral.com/'
+---
