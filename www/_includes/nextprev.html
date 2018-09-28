@@ -1,17 +1,17 @@
-{%- if jekyll.environment == "production" -%}
+{%- if jekyll.environment == "development" -%}
     {%- if page.logohandle -%}
         {%- assign sorted_pages = site.pages | sort:'sort'- %}
         {%- for logopage in sorted_pages -%}
             {%- if logopage.logohandle -%}
                 {%- if get_next -%}
-                    {%- assign next_page = logopage.url | append: site.indexpage -%}
+                    {%- assign next_page = logopage.url -%}
                     {%- assign get_next = false -%}
                 {%- endif- %}
                 {%- if page.logohandle == logopage.logohandle -%}
                     {%- assign prev_page = candidate -%}
                     {%- assign get_next = true -%}
                 {%- endif -%}
-                {%- assign candidate = logopage.url | append: site.indexpage -%}
+                {%- assign candidate = logopage.url -%}
             {%- endif -%}
         {%- endfor -%}
     {%- endif -%}

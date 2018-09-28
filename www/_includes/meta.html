@@ -120,10 +120,10 @@
     {%- endif -%}
 {%- include nextprev.html -%}
 	{%- if prev_page %}
-    <link rel="prev" href="{{prev_page}}" />
+    <link rel="prev" href="{{prev_page}}{{site.indexpage}}" />
     {%- endif -%}
 	{%- if next_page %}
-    <link rel="next" href="{{next_page}}" />
+    <link rel="next" href="{{next_page}}{{site.indexpage}}" />
     {%- endif -%}
 	{%- if page.url == '/index.html' or page.url == '/' %}{% include meta-home.html %}{% endif -%}
     {%- if page.logohandle %}

@@ -10,6 +10,7 @@ redirect_from: /logos/inventory.html
 {%- assign logocount = 0 -%}
 {%- assign imgcount = 0 -%}
 
+{%- if jekyll.environment == "production" -%}
 <table class="table table-striped table-bordered">
 	<thead>
 		<tr>
@@ -55,3 +56,6 @@ redirect_from: /logos/inventory.html
 </table>
 
 <p>{{ imgcount | intcomma }} images for {{ logocount | intcomma }} companies/projects.</p>
+{%- else -%}
+<p>Disabled in development to speed up Jekyll</p>
+{%- endif -%}
