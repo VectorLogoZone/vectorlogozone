@@ -21,7 +21,7 @@ before_script:
 - python3 mkamp.py
 - cd ..
 script:
-- jekyll build --source www
+- jekyll build --source www --verbose --profile
 branches:
   only:
   - gh-pages
