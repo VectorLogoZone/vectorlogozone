@@ -1,4 +1,4 @@
-{%- if jekyll.environment == "development" -%}
+{%- if jekyll.environment == "production" -%}
     {%- if page.logohandle -%}
         {%- assign sorted_pages = site.pages | sort:'sort'- %}
         {%- for logopage in sorted_pages -%}
