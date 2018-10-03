@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Creator: CorelDRAW X6 -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xml:space="preserve"
+   width="64"
+   height="64"
+   version="1.1"
+   style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+   viewBox="0 0 64 64"
+   id="svg12"
+   sodipodi:docname="denic-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata16"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview14"
+   showgrid="false"
+   inkscape:zoom="5.6485231"
+   inkscape:cx="86.124822"
+   inkscape:cy="20.622272"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg12" />
+ <defs
+   id="defs4">
+  <style
+   type="text/css"
+   id="style2">
+   <![CDATA[
+    .fil0 {fill:#007A9D}
+    .fil1 {fill:white}
+   ]]>
+  </style>
+ </defs>
+ <g
+   id="Ebene_x0020_1"
+   transform="scale(0.09261939)">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  
+  <g
+   id="g15"><path
+     sodipodi:nodetypes="sssss"
+     style="fill:#007a9d"
+     inkscape:connector-curvature="0"
+     id="path7"
+     d="M 345,0 C 155,0 0,155 0,345 0,536 155,691 345,691 536,691 691,536 691,345 691,155 536,0 345,0 Z"
+     class="fil0" /><path
+     style="fill:#ffffff"
+     inkscape:connector-curvature="0"
+     id="path9"
+     d="m 259,265 c -19,-25 -47,-38 -76,-38 -63,0 -109,49 -109,128 0,82 47,129 109,129 30,0 57,-13 76,-38 v 32 h 61 V 130 h -61 z m 0,136 c -11,17 -35,29 -58,29 -38,0 -64,-30 -64,-75 0,-43 26,-74 64,-74 23,0 47,13 58,30 z m 360,-40 c 0,-79 -48,-134 -122,-134 -74,0 -126,57 -126,128 0,79 56,129 130,129 38,0 76,-12 101,-34 l -28,-40 c -16,16 -45,25 -67,25 -43,0 -68,-27 -72,-59 H 619 Z M 434,333 c 2,-26 21,-56 63,-56 44,0 62,31 64,56 z"
+     class="fil1" /></g>
+ </g>
+</svg>
