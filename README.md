@@ -41,4 +41,31 @@ modifications to the logos are in the public domain.
 
 ## Credits
 
-Please see the [Credits page](https://www.vectorlogo.zone/support/credits.html)!
+[![AWS S3](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://aws.amazon.com/ "Hosting")
+[![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)](https://www.gnu.org/software/bash/ "scripting")
+[![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)](http://getbootstrap.com/ "HTML/CSS Framework")
+[![Buffer](https://www.vectorlogo.zone/logos/buffer/buffer-ar21.svg)](https://www.buffer.com/ "Social media posting")
+[![Clipboard.js](https://www.vectorlogo.zone/logos/clipboardjs/clipboardjs-ar21.svg)](https://clipboardjs.com/ "Copy to clipboard functionality")
+[![CloudFlare](https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg)](https://www.cloudflare.com/ "CDN")
+[![Font Awesome](https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg)](https://fortawesome.github.io/Font-Awesome/ "Icon font")
+[![Gimp](https://www.vectorlogo.zone/logos/gimp/gimp-ar21.svg)](http://www.gimp.org/ "Raster graphics editor")
+[![Google Analytics](https://www.vectorlogo.zone/logos/google_analytics/google_analytics-ar21.svg)](http://www.google.com/analytics/ "Analytics")
+[![git](https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg)](https://git-scm.com/ "Version control")
+[![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://www.github.com/ "git hosting")
+[![ImageMagick](https://www.vectorlogo.zone/logos/imagemagick/imagemagick-ar21.svg)](https://www.imagemagick.org/ "Image manipulation")
+[![Inkscape](https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg)](https://inkscape.org/ "SVG Editor")
+[![Jekyll](https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-ar21.svg)](https://jekyllrb.com/ "Static site generator")
+[![jQuery](https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg)](https://jquery.com/ "JavaScript library")
+[![lunr.js](https://www.vectorlogo.zone/logos/lunrjs/lunrjs-ar21.svg)](https://lunrjs.com/ "Client-side search")
+[![Noah Marcuse](https://www.vectorlogo.zone/logos/marcuse_ink/marcuse_ink-ar21.svg)](https://noah.marcuse.ink/ "Making logos!")
+[![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "build-time scripts")
+[![rsvg](https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg)](https://wiki.gnome.org/Projects/LibRsvg "build-time rasterization")
+[![SuperTinyIcons](https://www.vectorlogo.zone/logos/supertinyicons/supertinyicons-ar21.svg)](https://github.com/edent/SuperTinyIcons "tile versions")
+[![svgo](https://www.vectorlogo.zone/logos/svgo/svgo-ar21.svg)](https://www.github.com/svg/svgo "SVG optimization")
+[![SVGPorn](https://www.vectorlogo.zone/logos/svgporn/svgporn-ar21.svg)](https://svgporn.com/ "Icon versions of various logos")
+[![Travis CI](https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg)](https://travis-ci.org/ "Continuous integration and deployment")
+[![W3C Markup Validation Service](https://www.vectorlogo.zone/logos/w3c_validator/w3c_validator-ar21.svg)](https://validator.w3.org/ "HTML file validation")
+[![Wufoo](https://www.vectorlogo.zone/logos/wufoo/wufoo-ar21.svg)](http://www.wufoo.com/ "Contact form")
+[![Zeit](https://www.vectorlogo.zone/logos/zeit/zeit-ar21.svg)](https://zeit.co/ "hosting for various helper websites")
+
+ * [InstantLogoSearch](https://www.instantlogosearch.com/ "Logos")
