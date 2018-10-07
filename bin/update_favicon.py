@@ -22,14 +22,18 @@ def favicon(website):
     except requests.exceptions.RequestException:
         r = None
 
-    if r:
-        favicon = r.html.find('link[rel="shortcut icon"]', first=True)
-        if favicon is not None:
-            return urllib.parse.urljoin(website, favicon.attrs['href'])
+    try:
+        if r:
+            favicon = r.html.find('link[rel="shortcut icon"]', first=True)
+            if favicon is not None and "href" in favicon.attrs:
+                return urllib.parse.urljoin(website, favicon.attrs['href'])
 
-        favicon = r.html.find('link[rel="icon"]', first=True)
-        if favicon is not None:
-            return urllib.parse.urljoin(website, favicon.attrs['href'])
+            favicon = r.html.find('link[rel="icon"]', first=True)
+            if favicon is not None:
+                return urllib.parse.urljoin(website, favicon.attrs['href'])
+    except:
+        # LATER: logging
+        r = None
 
     favicon = urllib.parse.urljoin(website, "favicon.ico")
 

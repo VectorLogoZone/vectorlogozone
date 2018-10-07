@@ -76,6 +76,9 @@
   "apache_struts": [
     "struts.svg"
   ],
+  "apache_subversion": [
+    "subversion.svg"
+  ],
   "apache_tomcat": [
     "tomcat.svg"
   ],
@@ -96,6 +99,9 @@
   ],
   "asana": [
     "asana.svg"
+  ],
+  "atlassian_jira": [
+    "jira.svg"
   ],
   "atom_io": [
     "atom.svg"
@@ -127,6 +133,9 @@
   ],
   "bitbucket": [
     "bitbucket.svg"
+  ],
+  "bitcoin": [
+    "bitcoin.svg"
   ],
   "bitnami": [
     "bitnami.svg"
@@ -757,8 +766,14 @@
   "rackspace": [
     "rackspace.svg"
   ],
+  "rancher": [
+    "rancher.svg"
+  ],
   "raspberrypi": [
     "raspberry-pi.svg"
+  ],
+  "reactivexio": [
+    "reactivex.svg"
   ],
   "reasonml": [
     "reasonml.svg"
@@ -853,8 +868,17 @@
   "stickermule": [
     "stickermule.svg"
   ],
+  "stitchdata": [
+    "stitch.svg"
+  ],
+  "stoplightio": [
+    "stoplight.svg"
+  ],
   "stripe": [
     "stripe.svg"
+  ],
+  "strongloop": [
+    "strongloop.svg"
   ],
   "stylelintio": [
     "stylelint.svg"
@@ -867,6 +891,9 @@
   ],
   "suse": [
     "suse.svg"
+  ],
+  "teamtreehouse": [
+    "treehouse.svg"
   ],
   "telegram": [
     "telegram.svg"
