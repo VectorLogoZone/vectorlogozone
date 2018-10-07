@@ -1,0 +1,10 @@
+---
+facebook: 'http://facebook.com/2ndQuadrant'
+googleplus: 'https://plus.google.com/+2ndQuadrantPostgreSQL'
+linkedin: 'http://linkedin.com/company/2ndquadrant'
+logohandle: 2ndquadrant
+sort: 2ndquadrant
+title: 2ndQuadrant
+twitter: 2ndQuad
+website: 'https://www.2ndquadrant.com/en/'
+---
