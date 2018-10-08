@@ -1,12 +1,12 @@
 ---
-blog: 'https://v8project.blogspot.com/'
+blog: 'https://v8.dev/blog'
 github: v8
 guide: 'https://github.com/v8/v8/wiki'
-logohandle: google_v8
+logohandle: v8dev
 sort: v8
 title: V8
 twitter: V8js
-website: 'https://developers.google.com/v8/'
+website: 'https://v8.dev/'
 wikipedia: 'https://en.wikipedia.org/wiki/Chrome_V8'
 youtube: 'https://www.youtube.com/user/ChromeDevelopers'
 ---
