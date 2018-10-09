@@ -128,7 +128,14 @@ $(function() {
 		// Wait for data to load
 		window.data.then(function(loaded_data) {
 
-			// Are there any results?
+            ga('send', {
+                hitType: 'event',
+                eventCategory: 'search-github',
+                eventAction: query,
+                eventValue: results.length ? results.length : 0
+            });
+
+            // Are there any results?
 			if (results.length) 
 			{
 				$search_results.empty(); // Clear any old results

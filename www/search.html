@@ -137,6 +137,13 @@ $(function() {
 		// Wait for data to load
 		window.data.then(function(loaded_data) {
 
+            ga('send', {
+                hitType: 'event',
+                eventCategory: 'search-vlz',
+                eventAction: query,
+                eventValue: results.length ? results.length : 0
+            });
+
 			// Are there any results?
 			if (results.length) 
 			{
