@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="huawei-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata50">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>res-huawei-ico</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview48"
+     showgrid="false"
+     inkscape:zoom="5.0597015"
+     inkscape:cx="60.431247"
+     inkscape:cy="41.575875"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg46" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #0a0808;
+      }
+
+      .cls-3 {
+        fill: #e12229;
+      }
+    </style>
+  </defs>
+  <title
+     id="title6">res-huawei-ico</title>
+  <g
+     id="g3841"
+     transform="matrix(1.8315443,0,0,1.8315443,-8.1820503,-27.506268)">
+    <path
+       class="cls-3"
+       d="m 19.512357,39.862275 a 0.10838,0.10838 0 0 0 0.02887,-0.12831 v 0 a 79.77283,79.77283 0 0 0 -9.72271,-15.77147 c 0,0 -3.05593,2.89874 -2.8378,5.805 a 5.13415,5.13415 0 0 0 1.77068,3.49966 c 2.66458,2.59721 9.11645,5.87554 10.61661,6.6176 a 0.11882,0.11882 0 0 0 0.14435,-0.02245"
+       id="path25"
+       inkscape:connector-curvature="0"
+       style="fill:#e12229" />
+    <path
+       class="cls-3"
+       d="m 18.514747,42.085255 a 0.14526,0.14526 0 0 0 -0.13793,-0.09837 v -0.0021 l -10.74174,0.3742 c 1.16442,2.07756 3.12649,3.69 5.1709,3.196 1.41034,-0.35286 4.60634,-2.58118 5.65848,-3.33393 l -0.0011,-0.0043 c 0.08019,-0.07271 0.05133,-0.13152 0.05133,-0.13152"
+       id="path27"
+       inkscape:connector-curvature="0"
+       style="fill:#e12229" />
+    <path
+       class="cls-3"
+       d="m 18.677267,41.118675 c 0.05133,-0.08447 -0.04063,-0.15718 -0.04063,-0.15718 l 0.0011,-0.0043 c -4.71757,-3.18104 -13.86182,-8.06752 -13.86182,-8.06752 a 6.35708,6.35708 0 0 0 3.6793,7.8558 6.53493,6.53493 0 0 0 2.054,0.45229 c 0.16146,0.02994 6.38878,0.0032 8.05681,-0.0043 a 0.14475,0.14475 0 0 0 0.1112,-0.07485"
+       id="path29"
+       inkscape:connector-curvature="0"
+       style="fill:#e12229" />
+    <path
+       class="cls-3"
+       d="m 19.390457,19.323005 c -0.46833,0.04063 -1.73005,0.32826 -1.73005,0.32826 a 4.98364,4.98364 0 0 0 -3.51677,3.31682 6.56117,6.56117 0 0 0 0.015,3.40664 c 0.94843,4.21178 5.62106,11.13412 6.62295,12.58617 0.07164,0.07164 0.12938,0.04491 0.12938,0.04491 a 0.13036,0.13036 0 0 0 0.09944,-0.13366 h 0.0021 c 1.54404,-15.45284 -1.62202,-19.54914 -1.62202,-19.54914"
+       id="path31"
+       inkscape:connector-curvature="0"
+       style="fill:#e12229" />
+    <path
+       class="cls-3"
+       d="m 22.945727,39.001535 a 0.12261,0.12261 0 0 0 0.155,-0.05774 h 0.0011 c 1.03183,-1.49161 5.67452,-8.37545 6.61867,-12.56906 a 7.11005,7.11005 0 0 0 0.01815,-3.40664 4.98584,4.98584 0 0 0 -3.54987,-3.31575 c 0,0 -0.82119,-0.20744 -1.69156,-0.32933 0,0 -3.18423,4.09845 -1.636,19.5609 h 0.0021 a 0.12745,0.12745 0 0 0 0.08232,0.11762"
+       id="path33"
+       inkscape:connector-curvature="0"
+       style="fill:#e12229" />
+    <path
+       class="cls-3"
+       d="m 25.488407,41.995425 c 0,0 -0.09409,0.01283 -0.12083,0.08126 a 0.15491,0.15491 0 0 0 0.0417,0.14649 h -0.0011 c 1.02755,0.73778 4.14442,2.918 5.64779,3.34034 0,0 2.77685,0.94522 5.18908,-3.19707 l -10.75561,-0.3753 z"
+       id="path35"
+       inkscape:connector-curvature="0"
+       style="fill:#e12229" />
+    <path
+       class="cls-3"
+       d="m 39.105337,32.867225 c 0,0 -9.13248,4.89931 -13.8543,8.08569 h 0.001 a 0.14465,0.14465 0 0 0 -0.05453,0.15718 c 0,0 0.04491,0.08019 0.1112,0.08019 v 0.0021 c 1.68942,0.0021 8.08783,0.0075 8.24927,-0.02138 a 6.42292,6.42292 0 0 0 1.84981,-0.42663 6.30123,6.30123 0 0 0 3.458,-3.3072 6.49181,6.49181 0 0 0 0.23952,-4.57"
+       id="path37"
+       inkscape:connector-curvature="0"
+       style="fill:#e12229" />
+    <path
+       class="cls-3"
+       d="m 24.389217,39.862275 a 0.13666,0.13666 0 0 0 0.14541,0.01069 v 0.0021 c 1.53865,-0.76772 7.94241,-4.02359 10.59414,-6.608 a 5.18,5.18 0 0 0 1.76961,-3.5157 c 0.19354,-3.00781 -2.83458,-5.79 -2.83458,-5.79 a 79.71566,79.71566 0 0 0 -9.70667,15.72981 h 0.0032 a 0.14809,0.14809 0 0 0 0.02887,0.17108"
+       id="path39"
+       inkscape:connector-curvature="0"
+       style="fill:#e12229" />
+  </g>
+</svg>
