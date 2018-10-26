@@ -2,15 +2,13 @@ dist: trusty
 sudo: true
 language: python3
 rvm:
-- 2.1
+- 2.4.1
 before_install:
 - sudo apt-get -qq update
 install:
 - sudo apt-get install -y librsvg2-bin imagemagick
 - sudo apt-get install python3-pip
 - sudo python3 -m pip install python-frontmatter commonmark
-- gem install ruby_dep -v 1.3.1
-- gem install listen -v 3.0.8
 - gem install jekyll
 - gem install jekyll-redirect-from
 before_script:
