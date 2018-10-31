@@ -2,4 +2,18 @@
 index: false
 layout: none
 ---
-{ "success":true, "message":"OK", "commit":"{{site.github.build_revision | default: site.data.build_revision | default: 'null' | slice: 0, 7 }}", "lastmod":"{{site.time|date_to_xmlschema}}" }
+{%- assign logocount = 0 %}
+{%- assign pagecount = 0 %}
+{%- assign pendingcount = 0 %}
+{%- for logopage in site.pages -%}
+    {%- if logopage.logohandle %}
+        {%- assign logopagecount = logopage.images | size -%}
+        {%- assign logocount = logocount | plus:logopagecount %}
+        {%- if logopagecount > 0 %}
+            {%- assign pagecount = pagecount | plus:1 %}
+        {%- else %}
+            {%- assign pendingcount = pendingcount | plus:1 %}
+        {%- endif %}
+    {%- endif %}
+{%- endfor -%}
+{ "success":true, "message":"OK", "commit":"{{site.github.build_revision | default: site.data.build_revision | default: 'null' | slice: 0, 7 }}", "images": {{logocount}}, "lastmod":"{{site.time|date_to_xmlschema}}", "pages":{{pagecount}}, "pending":{{pendingcount}} }
