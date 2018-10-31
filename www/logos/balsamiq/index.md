@@ -1,7 +1,12 @@
 ---
 blog: 'https://blog.balsamiq.com/'
 facebook: 'https://facebook.com/balsamiq'
+guide: 'https://balsamiq.com/company/brandassets/'
+googleplus: 'https://plus.google.com/+balsamiq'
+instagram: 'https://www.instagram.com/balsamiq/'
+linkedin: 'https://www.linkedin.com/company/balsamiq'
 logohandle: balsamiq
+slack: 'https://balsamiq.com/company/slack/'
 sort: balsamiq
 title: Balsamiq
 twitter: balsamiq
