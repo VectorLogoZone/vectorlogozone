@@ -1,6 +1,8 @@
-<img alt="VLZ Logo" src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-tile.svg" height="96" >
 
-# Vector Logo Zone &middot; [![Travis CI build status](https://img.shields.io/travis/VectorLogoZone/vectorlogozone.svg?style=flat-square)](https://travis-ci.org/VectorLogoZone/vectorlogozone)
+# Vector Logo Zone [<img alt="VLZ Logo" src="https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-tile.svg" height="96" align="right"/>](https://www.vectorlogo.zone)
+ 
+[![# of images](https://img.shields.io/badge/dynamic/json.svg?label=images&url=https%3A%2F%2Fwww.vectorlogo.zone%2Fstatus.json&query=%24.images)](https://www.vectorlogo.zone/logos/index.html)
+[![Travis CI build status](https://img.shields.io/travis/VectorLogoZone/vectorlogozone.svg)](https://travis-ci.org/VectorLogoZone/vectorlogozone)
 
 <!--
 ![Github watchers](https://img.shields.io/github/watchers/VectorLogoZone/vectorlogozone.svg?style=social)
