@@ -6,14 +6,18 @@ redirect_from: /logos/missing.html
 ---
 {%- assign sorted_pages = site.pages | sort:'sort' -%}
 {%- assign lettercount = 0 -%}
-{%- assign logocount = 0 -%}
+{%- assign donecount = 0 -%}
+{%- assign pendingcount = 0 -%}
+{%- assign uniqueletter = 0 -%}
 {%- assign previousStart = '#' -%}
 
 <table class="table table-striped table-bordered">
   	<thead>
         <tr>
             <th>Letter</th>
-            <th>Count</th>
+            <th>Done</th>
+            <th>Pending</th>
+            <th>Total</th>
         </tr>
     </thead>
     <tbody>
@@ -22,22 +26,35 @@ redirect_from: /logos/missing.html
         {%- assign startsWith = logopage.sort | slice: 0,1 -%}
         {%- if startsWith != previousStart -%}
             {%- if previousStart != '#' %}
+                {%- assign uniqueletter = uniqueletter | plus: 1 %}
         <tr>
             <td><a href="/search.html?q={{previousStart}}">{{previousStart}}</a></td>
+            <td>{{ donecount | intcomma }}</td>
+            <td>{{ pendingcount | intcomma }}</td>
             <td>{{ lettercount | intcomma }}</td>
         </tr>
             {%- endif -%}
             {%- assign lettercount = 0 -%}
+            {%- assign donecount = 0 -%}
+            {%- assign pendingcount = 0 -%}
             {%- assign previousStart = startsWith -%}
         {%- endif -%}
         {%- assign lettercount = lettercount | plus: 1 -%}
+        {%- if logopage.images %}
+            {%- assign donecount = donecount | plus: 1 %}
+        {%- else %}
+            {%- assign pendingcount = pendingcount | plus: 1 %}
+        {%- endif %}
     {%- endif -%}
 {%- endfor %}
+{%- assign uniqueletter = uniqueletter | plus: 1 %}
         <tr>
             <td><a href="/search.html?q={{previousStart}}">{{previousStart}}</a></td>
+            <td>{{ donecount | intcomma }}</td>
+            <td>{{ pendingcount | intcomma }}</td>
             <td>{{ lettercount | intcomma }}</td>
         </tr>
     </tbody>
 </table>
 
-<p>{{ logocount | intcomma }} logos</p>
+<p>{{ uniqueletter | intcomma }} different starting letters</p>
