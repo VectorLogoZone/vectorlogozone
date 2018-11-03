@@ -4,26 +4,36 @@ layout: default
 noindex: true
 ---
 <p>Logos with no social media links in their metadata</p>
-
-{% assign sorted_pages = site.pages | sort:'sort' %}
-
+{%- assign sorted_pages = site.pages | sort:'sort' %}
+{%- assign total = 0 %}
 <table class="table table-striped table-bordered">
     <thead>
         <tr>
             <th>Logo</th>
+            <th>Search</th>
+            <th></th>
         </tr>
     </thead>
     <tbody>
-{% for logopage in sorted_pages %}{% if logopage.logohandle %}
+{%- for logopage in sorted_pages %}{% if logopage.logohandle %}
     {%- assign count = 0 %}
     {%- for sm in site.data.socialmedia %}
-    {%- if logopage contains sm.id %}{% assign count = count | plus:1 %}{% endif %}
+        {%- if logopage contains sm.id %}{% assign count = count | plus:1 %}{% endif %}
     {%- endfor %}
     {%- if count == 0 %}
+        {%- assign total = total | plus:1 %}
     <tr>
         <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title}}</a></td>
+        <td>
+            <a href="https://www.google.com/search?q={{logopage.title | url_encode }}" rel="nofollow">Google</a>
+            | <a href="https://twitter.com/search?q={{logopage.title | url_encode }}&amp;src=typd" rel="nofollow">Twitter</a>
+            | <a href="{{logopage.website}}">Website</a>
+        </td>
+        <td><a href="https://github.com/VectorLogoZone/vectorlogozone/blob/gh-pages/www/logos/{{logopage.logohandle | url_encode}}/index.md" rel="nofollow">edit</a></td>
     </tr>
-    {% endif %}
-    {%- endif %}{% endfor %}
+    {%- endif %}
+    {%- endif %}
+{%- endfor %}
     </tbody>
 </table>
+<p>{{total}} logos with no social links</p>
