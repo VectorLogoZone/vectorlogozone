@@ -8,7 +8,7 @@ noindex: true
 {%- assign stdmeta = 'colors font guide images keywords logohandle notes redirect_from sort tags title website wikipedia' | split: ' ' %}
 {%- assign jekyllmeta = 'content dir layout name path url' | split: ' ' %}
 {%- assign stdmeta = stdmeta | concat:jekyllmeta %}
-{%- assign todometa = 'discord discourse dribbble flickr gitter glassdoor medium meetup slack slideshare soundcloud stackexchange stackoverflow vimeo vine weibo xing' | split: ' ' %}
+{%- assign todometa = 'discord discourse dockerhub dribbble flickr gitter glassdoor medium meetup slack slideshare soundcloud stackexchange stackoverflow vimeo vine weibo xing' | split: ' ' %}
 {%- assign stdmeta = stdmeta | concat:todometa %}
 {%- for sm in site.data.socialmedia %}
     {%- assign smid = sm.id | split:' ' %}

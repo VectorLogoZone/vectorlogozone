@@ -1,6 +1,6 @@
 ---
 logohandle: twittv
 sort: twit
-title: TWiT | Netcasts you love from people you trust
+title: TWiT
 website: 'https://twit.tv/'
 ---

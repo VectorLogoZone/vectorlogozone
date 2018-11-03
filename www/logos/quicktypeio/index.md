@@ -2,7 +2,7 @@
 blog: 'https://blog.quicktype.io/'
 github: quicktype/quicktype
 logohandle: quicktypeio
-notes: 'slack: http://slack.quicktype.io/'
+slack: 'http://slack.quicktype.io/'
 sort: quicktype
 title: quicktype
 twitter: quicktypeio

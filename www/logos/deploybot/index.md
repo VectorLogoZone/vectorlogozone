@@ -5,5 +5,5 @@ sort: deploybot
 title: DeployBot
 twitter: deploybothq
 website: 'https://deploybot.com/'
-youtube: 'https://youtube.com/embed/aQ4zSMSg1bM'
+youtube: 'https://www.youtube.com/channel/UC7_aal3EaBPJSgHtYYQZL5A'
 ---
