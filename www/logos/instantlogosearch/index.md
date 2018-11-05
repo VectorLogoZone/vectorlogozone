@@ -1,4 +1,7 @@
 ---
+font:
+  name: Lato
+  google: 'https://fonts.google.com/specimen/Lato'
 github: kogg/instant-logos
 guide: https://github.com/kogg/InstantLogoSearch/tree/master/components/Header
 logohandle: instantlogosearch
