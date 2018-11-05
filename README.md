@@ -56,6 +56,7 @@ modifications to the logos are in the public domain.
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://www.github.com/ "git hosting")
 [![ImageMagick](https://www.vectorlogo.zone/logos/imagemagick/imagemagick-ar21.svg)](https://www.imagemagick.org/ "Image manipulation")
 [![Inkscape](https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg)](https://inkscape.org/ "SVG Editor")
+[![InstantLogoSearch](https://www.vectorlogo.zone/logos/instantlogosearch/instantlogosearch-ar21.svg)](https://www.instantlogosearch.com/ "Logos")
 [![Jekyll](https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-ar21.svg)](https://jekyllrb.com/ "Static site generator")
 [![jQuery](https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg)](https://jquery.com/ "JavaScript library")
 [![lunr.js](https://www.vectorlogo.zone/logos/lunrjs/lunrjs-ar21.svg)](https://lunrjs.com/ "Client-side search")
@@ -69,5 +70,3 @@ modifications to the logos are in the public domain.
 [![W3C Markup Validation Service](https://www.vectorlogo.zone/logos/w3c_validator/w3c_validator-ar21.svg)](https://validator.w3.org/ "HTML file validation")
 [![Wufoo](https://www.vectorlogo.zone/logos/wufoo/wufoo-ar21.svg)](http://www.wufoo.com/ "Contact form")
 [![Zeit](https://www.vectorlogo.zone/logos/zeit/zeit-ar21.svg)](https://zeit.co/ "hosting for various helper websites")
-
- * [InstantLogoSearch](https://www.instantlogosearch.com/ "Logos")
