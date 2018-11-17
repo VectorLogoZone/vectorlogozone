@@ -2,15 +2,15 @@
 <table class="table table-striped">
 	<thead>
 		<tr>
-			<th class="hidden-xs hidden-sm">&nbsp;</th>
-			<th class="hidden-xs">Name</th>
+			<th class="d-none d-md-table-cell">&nbsp;</th>
+			<th class="d-none d-sm-table-cell">Name</th>
 			<th>Image</th>
 		</tr>
 	</thead>
 	<tbody>
 {% assign sorted_images = page.images | sort %}{% for image in sorted_images %}
 		<tr>
-			<td class="hidden-xs hidden-sm" style="white-space:nowrap;vertical-align:middle;">
+			<td class="d-none d-md-table-cell" style="white-space:nowrap;vertical-align:middle;">
 				<a class="btn btn-secondary btn-sm" href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" title="preview" rel="nofollow"><i class="fa fa-search"></i></a>
 				<a class="btn btn-secondary btn-sm" download="{{image}}" href="{{image}}" title="Download"><i class="fa fa-download"></i></a>
 				<a class="btn btn-secondary btn-sm" href="https://github.com/VectorLogoZone/vectorlogozone/commits/gh-pages/www/logos/{{page.logohandle}}/{{image}}" title="revision history" rel="nofollow"><i class="fa fa-history"></i></a>
@@ -19,7 +19,7 @@
                 <a class="btn btn-secondary btn-sm" href="/util/convert_to_png.html?svg=/logos/{{page.logohandle}}/{{image}}" title="Convert to PNG" rel="nofollow"><i class="fa fa-exchange"></i></a>
                 </div>
 			</td>
-			<td class="hidden-xs" style="white-space:nowrap;vertical-align:middle;">
+			<td class="d-none d-sm-table-cell" style="white-space:nowrap;vertical-align:middle;">
 			{% capture imagetype %}{{image|split:'-'|last|split:'.'|first}}{% endcapture %}
 			{% assign standard = false %}
 			{% capture alt_text %}Alternate image for {{page.title}}{% endcapture %}
