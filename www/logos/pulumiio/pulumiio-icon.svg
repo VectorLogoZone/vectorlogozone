@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   xml:space="preserve"
+   sodipodi:docname="pulumi-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata27"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs25">
+	
+	
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview23"
+   showgrid="false"
+   inkscape:zoom="1.2681051"
+   inkscape:cx="133.664"
+   inkscape:cy="41.032688"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#EE985D;}
+	.st1{fill:#FFFFFF;}
+</style>
+<g
+   id="g67"
+   transform="matrix(6.7670781,0,0,6.7670781,-185.05209,-98.350612)"><path
+     class="st0"
+     d="m 36.803445,20.504434 c 0,-0.0062 -0.0017,-0.01189 -0.0018,-0.01804 -7.97e-4,-0.02722 -0.0037,-0.05415 -0.0081,-0.08109 -0.05103,-0.5875 -0.538468,-1.050098 -1.139204,-1.050098 -0.184826,0 -0.356919,0.04769 -0.511596,0.125215 -0.274496,-1.184925 -1.33174,-2.069484 -2.600185,-2.069484 -1.113332,0 -2.066771,0.680569 -2.469569,1.64796 -0.276116,-0.178085 -0.604167,-0.282577 -0.957186,-0.282577 -0.977442,0 -1.769868,0.792396 -1.769868,1.769868 0,0.510474 0.398367,0.567776 1.051097,0.567776 l 7.803047,3.1e-5 c 0.379518,0 0.601953,-0.303207 0.601609,-0.609691 6.75e-4,3.1e-5 0.0012,6.3e-5 0.0018,1.25e-4 z"
+     id="path18"
+     style="fill:#ee985d;fill-opacity:1;stroke-width:0.30680829"
+     inkscape:connector-curvature="0" /></g>
+</svg>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg17"
+   sodipodi:docname="wyre-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata21">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>wyre</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview19"
+     showgrid="false"
+     inkscape:zoom="3.9333333"
+     inkscape:cx="96.866608"
+     inkscape:cy="38.424683"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg17" />
+  <title
+     id="title2">wyre</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <g
+     id="g867"
+     transform="matrix(3.5948535,0,0,3.5948535,-81.6978,-90.086472)">
+    <path
+       style="fill:#a9caff;fill-rule:nonzero;stroke:none;stroke-width:0.2555452"
+       inkscape:connector-curvature="0"
+       id="Fill-10"
+       d="m 33.436885,33.958985 h 5.378409 l -2.908353,7.210411 c -0.414456,1.024506 -1.400008,1.693678 -2.494146,1.693678 h -5.378533 l 2.908354,-7.187539 c 0.414579,-1.024505 1.400131,-1.71655 2.494269,-1.71655" />
+    <path
+       style="fill:#0408e0;fill-rule:nonzero;stroke:none;stroke-width:0.2555452"
+       inkscape:connector-curvature="0"
+       id="Fill-12"
+       d="m 29.613578,38.908097 h 2.987045 c 1.094138,0 1.44275,-0.04375 2.354676,-0.849151 l 3.852769,-4.150268 h -5.371122 c -1.094261,0 -2.079813,0.69117 -2.494269,1.715676 z" />
+    <path
+       style="fill:#0384ff;fill-rule:nonzero;stroke:none;stroke-width:0.2555452"
+       inkscape:connector-curvature="0"
+       id="Fill-14"
+       d="m 31.64005,29.559347 h 5.37841 l -2.908354,7.169166 c -0.414456,1.024381 -1.400007,1.63531 -2.494145,1.63531 h -5.378534 l 2.908354,-7.129296 c 0.414579,-1.024506 1.400131,-1.67518 2.494269,-1.67518" />
+    <path
+       style="fill:#0408e0;fill-rule:nonzero;stroke:none;stroke-width:0.2555452"
+       inkscape:connector-curvature="0"
+       id="Fill-16"
+       d="M 27.788319,34.533606 H 30.8081 c 1.094138,0 1.442873,-0.148233 2.354676,-0.953639 l 3.842886,-4.04578 h -5.365563 c -1.094138,0 -2.079813,0.64905 -2.494268,1.673431 z" />
+    <path
+       style="fill:#004eff;fill-rule:nonzero;stroke:none;stroke-width:0.2555452"
+       inkscape:connector-curvature="0"
+       id="Fill-18"
+       d="m 29.843203,25.059845 h 5.37841 l -2.908354,7.228159 c -0.414455,1.024506 -1.400007,1.671681 -2.494145,1.671681 H 24.44058 l 2.908354,-7.165542 c 0.414579,-1.024505 1.400131,-1.734298 2.494269,-1.734298" />
+  </g>
+</svg>

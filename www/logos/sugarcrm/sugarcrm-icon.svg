@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Warstwa_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 500 300"
+   xml:space="preserve"
+   sodipodi:docname="sugarcrm-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata21"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs19">
+    
+    
+    
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview17"
+   showgrid="false"
+   inkscape:zoom="5.424"
+   inkscape:cx="70.197072"
+   inkscape:cy="38.452636"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Warstwa_1" />
+<g
+   id="g1052"
+   transform="matrix(4.3265341,0,0,4.3265341,-227.59205,-97.796023)"><g
+     transform="matrix(0.19999452,0,0,0.19999452,52.920194,-0.01060074)"
+     id="g841"><g
+       id="g10">
+        <path
+   style="fill:#e22329"
+   inkscape:connector-curvature="0"
+   id="path4"
+   d="m 38.3,138.8 c -1.9,0.7 -4,0.7 -5.9,0 L 3.7,127.4 c -1.6,-0.7 -1.6,-1.6 0,-2.3 l 28.8,-11.5 c 1.9,-0.7 4,-0.7 5.9,0 L 67.1,125 c 1.6,0.7 1.6,1.6 0,2.3 z" />
+        <path
+   style="fill:#404041"
+   inkscape:connector-curvature="0"
+   id="path6"
+   d="m 34.5,184.8 c 0.1,1 -0.6,2 -1.6,2.2 -0.4,0.1 -0.9,0 -1.2,-0.2 L 2.9,175.2 C 1.2,174.4 0.1,172.8 0,171 v -39.8 c -0.1,-1 0.6,-2 1.6,-2.2 0.4,-0.1 0.9,0 1.2,0.2 l 28.8,11.5 c 1.7,0.8 2.8,2.4 2.9,4.2 z" />
+        <path
+   style="fill:#929497"
+   inkscape:connector-curvature="0"
+   id="path8"
+   d="m 36.3,184.8 c -0.1,1 0.6,2 1.6,2.2 0.4,0.1 0.9,0 1.2,-0.2 l 28.8,-11.3 c 1.7,-0.8 2.8,-2.4 2.9,-4.2 v -39.9 c 0.1,-1 -0.6,-2 -1.6,-2.2 -0.4,-0.1 -0.9,0 -1.2,0.2 l -28.8,11.5 c -1.7,0.8 -2.8,2.4 -2.9,4.2 z" />
+    </g></g></g>
+</svg>

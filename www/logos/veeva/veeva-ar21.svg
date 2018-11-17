@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 120 60"
+   version="1.1"
+   sodipodi:docname="veeva-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="2.26"
+     inkscape:cx="75"
+     inkscape:cy="18"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#ff9e16;}.cls-2{fill:#8a8a8d;}</style>
+  </defs>
+  <title
+     id="title6">Artboard 1</title>
+  <g
+     id="g847"
+     transform="matrix(0.84712823,0,0,0.84712823,17.448749,-10.748771)">
+    <polygon
+       transform="matrix(0.66769046,0,0,0.66769046,0.07643119,35.856804)"
+       style="fill:#ff9e16"
+       id="polygon16"
+       points="34.41,1 17.36,35.63 0.23,1 6.15,1 17.42,23.64 28.6,1 "
+       class="cls-1" />
+    <polygon
+       transform="matrix(0.66769046,0,0,0.66769046,0.07643119,35.856804)"
+       style="fill:#ff9e16"
+       id="polygon18"
+       points="34.41,1 17.36,35.63 0.23,1 6.15,1 17.42,23.64 28.6,1 "
+       class="cls-1" />
+    <g
+       transform="matrix(0.66769046,0,0,0.66769046,0.07643119,35.856804)"
+       id="g837">
+      <path
+         style="fill:#ff9e16"
+         inkscape:connector-curvature="0"
+         class="cls-1"
+         d="m 122,5.47 h -5.62 l -9.54,19 -9.51,-19 h -5.56 l 15.1,30.21 z"
+         id="path8" />
+      <path
+         style="fill:#ff9e16"
+         inkscape:connector-curvature="0"
+         class="cls-1"
+         d="m 78.39,29.86 a 10,10 0 0 1 -9.66,-7.55 h 24.39 v -2.39 a 14.72,14.72 0 1 0 -1.69,6.87 h -5.84 a 9.94,9.94 0 0 1 -7.2,3.08 m 0,-19.89 A 10,10 0 0 1 88,17.53 H 68.73 A 10,10 0 0 1 78.39,10"
+         id="path10" />
+      <path
+         style="fill:#ff9e16"
+         inkscape:connector-curvature="0"
+         class="cls-1"
+         d="m 150,20 c 0,-0.05 0,-0.11 0,-0.17 V 5.55 h -4.8 v 3.63 a 14.73,14.73 0 1 0 0,21.69 v 3.66 H 150 V 20.19 c 0,-0.05 0,-0.11 0,-0.16 M 135.26,30 a 9.94,9.94 0 1 1 9.94,-10.11 v 0.33 A 10,10 0 0 1 135.26,30"
+         id="path12" />
+      <path
+         style="fill:#ff9e16"
+         inkscape:connector-curvature="0"
+         class="cls-1"
+         d="M 45.68,29.86 A 10,10 0 0 1 36,22.32 h 24.4 v -2.4 a 14.73,14.73 0 1 0 -1.7,6.87 h -5.82 a 9.93,9.93 0 0 1 -7.2,3.08 m 0,-19.89 a 10,10 0 0 1 9.66,7.55 H 36 A 10,10 0 0 1 45.68,10"
+         id="path14" />
+      <path
+         style="fill:#8a8a8d"
+         inkscape:connector-curvature="0"
+         class="cls-2"
+         d="M 9.63,1.06 17.33,16.43 25,1.06 C 25,1.06 9.63,1 9.63,1.06 Z"
+         id="path20" />
+    </g>
+  </g>
+</svg>

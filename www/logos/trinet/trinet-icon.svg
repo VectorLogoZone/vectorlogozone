@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 64 63.999997"
+   version="1.1"
+   sodipodi:docname="trinet-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata75">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>TNET-TAG</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview73"
+     showgrid="false"
+     inkscape:zoom="6.4819116"
+     inkscape:cx="100.14936"
+     inkscape:cy="37.520704"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#f27b28;}.cls-2{fill:#0377bd;}.cls-3{fill:#231f20;}</style>
+  </defs>
+  <title
+     id="title6">TNET-TAG</title>
+  <g
+     id="g931"
+     transform="matrix(3.0398271,0,0,3.0398271,-265.34481,-27.753215)">
+    <polygon
+       transform="matrix(0.30762461,0,0,0.30762461,14.485467,9.1298663)"
+       id="polygon8"
+       points="261.5,12.73 291.53,31.91 261.5,0 "
+       class="cls-1"
+       style="fill:#f27b28" />
+    <path
+       id="path10"
+       d="m 100.10047,23.822018 v 0 l 5.39881,-3.439243 -15.365845,-9.807073 v 5.644912 0.129202 a 2.1533723,2.1533723 0 0 0 0.922874,1.707316 l 3.599208,2.29488 v 0 z"
+       class="cls-1"
+       inkscape:connector-curvature="0"
+       style="fill:#f27b28;stroke-width:0.30762461" />
+    <path
+       id="path12"
+       d="m 91.486983,22.416173 c -0.150736,0.101516 -1.316633,0.870578 -1.353548,2.134915 v 5.632607 l 9.511753,-6.060205 -5.404965,-3.451548 z"
+       class="cls-1"
+       inkscape:connector-curvature="0"
+       style="fill:#f27b28;stroke-width:0.30762461" />
+  </g>
+</svg>

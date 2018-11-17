@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 63.999998"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="theorchard-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>orchard-logo-blue</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="3.234942"
+     inkscape:cx="103.35419"
+     inkscape:cy="28.059234"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#0e3454;}.cls-2{fill:#ff893e;}.cls-3{fill:#78a22f;}</style>
+  </defs>
+  <title
+     id="title6">orchard-logo-blue</title>
+  <g
+     id="g146"
+     transform="matrix(1.6741903,0,0,1.6741903,-5.6741667,-11.528946)">
+    <path
+       class="cls-2"
+       d="M 36.219186,31.397443 A 13.716274,13.716274 0 1 1 22.502912,17.681168 13.698461,13.698461 0 0 1 36.219186,31.397443 Z"
+       id="path28"
+       inkscape:connector-curvature="0"
+       style="fill:#ff893e;stroke-width:0.35626686" />
+    <path
+       class="cls-3"
+       d="M 24.034859,8.7388697 C 22.609792,8.5251096 21.469738,8.5251096 20.472191,8.3826028 19.260883,8.2757228 16.909522,7.9550826 16.268242,6.886282 a 1.6138889,1.6138889 0 0 1 -0.03563,0.2850135 7.2749695,7.2749695 0 0 0 0.21376,2.2444813 10.816262,10.816262 0 0 0 0.997547,2.6363752 c 0.142507,0.285013 0.320641,0.5344 0.498774,0.819413 1.140054,1.674455 2.957015,2.850135 5.70027,3.455789 3.598295,0.819414 6.982831,1.389441 9.619205,4.738349 v -0.03563 C 33.725318,19.177489 31.908357,9.9858037 24.034859,8.7388697 Z"
+       id="path30"
+       inkscape:connector-curvature="0"
+       style="fill:#78a22f;stroke-width:0.35626686" />
+  </g>
+</svg>

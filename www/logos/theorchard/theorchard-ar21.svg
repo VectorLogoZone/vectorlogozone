@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 120 59.999998"
+   version="1.1"
+   id="svg39"
+   sodipodi:docname="theorchard-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata43">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>orchard-logo-blue</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview41"
+     showgrid="false"
+     inkscape:zoom="3.234942"
+     inkscape:cx="103.35419"
+     inkscape:cy="28.059234"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg39" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#0e3454;}.cls-2{fill:#ff893e;}.cls-3{fill:#78a22f;}</style>
+  </defs>
+  <title
+     id="title6">orchard-logo-blue</title>
+  <g
+     id="g117">
+    <g
+       transform="matrix(0.35626687,0,0,0.35626687,8.7866374,23.737706)"
+       id="g102">
+      <path
+         style="fill:#0e3454"
+         inkscape:connector-curvature="0"
+         id="path8"
+         d="M 132.2,-4.3000031 V 13.199997 h -4.4 V -4.3000031 h -6.2 v -4.3 h 16.8 v 4.3 z"
+         class="cls-1" />
+      <path
+         style="fill:#0e3454"
+         inkscape:connector-curvature="0"
+         id="path10"
+         d="M 151.4,13.199997 V 4.3999969 c 0,-2.9 -1,-3.79999995 -2.8,-3.79999995 -1.8,0 -2.8,0.89999995 -2.8,3.69999995 v 8.9000001 h -4.3 V -7.3000031 l 4.3,-2.1 v 7.4 a 5.12,5.12 0 0 1 3.8,-1.4 c 4.2,0 6,2.90000005 6,7.5 v 9.2000001 h -4.2 z"
+         class="cls-1" />
+      <path
+         style="fill:#0e3454"
+         inkscape:connector-curvature="0"
+         id="path12"
+         d="m 172.9,6.3999969 h -9.8 a 3.22,3.22 0 0 0 3.4,3.1 3.61,3.61 0 0 0 2.8,-1.1 l 3.1,2.6000001 a 7.52,7.52 0 0 1 -5.8,2.6 c -4.7,0 -7.7,-3.3 -7.7,-8.5000001 0,-4.99999995 3.1,-8.5 7.3,-8.5 4.4,0 6.9,3.90000005 6.9,8.5 a 3.69,3.69 0 0 0 -0.2,1.3 z m -7,-6.09999995 c -1.5,0 -2.5,1.29999995 -2.7,2.89999995 h 5.6 a 2.84,2.84 0 0 0 -2.9,-2.89999995 z"
+         class="cls-1" />
+      <path
+         style="fill:#0e3454"
+         inkscape:connector-curvature="0"
+         id="path14"
+         d="m 104.9,49.599997 c -10.4,0 -16.6,-8.1 -16.6,-19.7 0,-11.6 6.2,-19.6 16.6,-19.6 10.4,0 16.6,8.1 16.6,19.6 0,11.5 -6.2,19.7 -16.6,19.7 z m 0,-31.7 c -6.2,0 -8.7,5.3 -8.7,12.1 0,6.8 2.6,12.1 8.7,12.1 6.1,0 8.7,-5.3 8.7,-12.1 0,-6.8 -2.5,-12.1 -8.7,-12.1 z"
+         class="cls-1" />
+      <path
+         style="fill:#0e3454"
+         inkscape:connector-curvature="0"
+         id="path16"
+         d="m 144.7,29.199997 a 6.56,6.56 0 0 0 -4.4,-1.9 c -2.9,0 -4.8,1.2 -4.8,6.2 v 15.5 H 128 v -28.6 h 7.5 v 1.9 a 7.75,7.75 0 0 1 5.9,-2.5 7.64,7.64 0 0 1 5.3,2 z"
+         class="cls-1" />
+      <path
+         style="fill:#0e3454"
+         inkscape:connector-curvature="0"
+         id="path18"
+         d="m 162.4,49.599997 c -7.5,0 -13.4,-6.1 -13.4,-14.9 0,-8.8 5.8,-14.9 13.7,-14.9 5.4,0 8.9,2.7 11.3,6.3 l -5,5 c -1.7,-2.4 -3.5,-4.1 -6.5,-4.1 -3.6,0 -5.9,3 -5.9,7.7 0,4.7 2.3,7.6 5.9,7.6 2.9,0 4.8,-1.3 6.8,-3.6 l 4.8,4.5 c -2.8,3.7 -6,6.4 -11.7,6.4 z"
+         class="cls-1" />
+      <path
+         style="fill:#0e3454"
+         inkscape:connector-curvature="0"
+         id="path20"
+         d="m 197,48.999997 v -15.5 c 0,-5.1 -1.7,-6.7 -4.8,-6.7 -3.1,0 -4.9,1.5 -4.9,6.5 v 15.6 h -7.5 v -35.8 l 7.5,-3.8000001 V 22.299997 a 9.19,9.19 0 0 1 6.7,-2.5 c 7.3,0 10.6,5 10.6,13.1 v 16.1 z"
+         class="cls-1" />
+      <path
+         style="fill:#0e3454"
+         inkscape:connector-curvature="0"
+         id="path22"
+         d="m 227.2,48.999997 v -1.9 a 9.33,9.33 0 0 1 -6.4,2.5 c -5.3,0 -10.7,-3.3 -10.7,-10.2 0,-6.3 5.1,-9.5 11.6,-9.5 a 11.79,11.79 0 0 1 5.5,1.2 v -1.4 c 0,-2 -1.4,-3.6 -4.1,-3.6 a 14.13,14.13 0 0 0 -7.8,1.9 l -2.9,-5.2 a 19.2,19.2 0 0 1 10.7,-2.9 c 6.9,0 11.6,3.6 11.6,10 v 19.2 h -7.5 z m 0,-12 a 8.86,8.86 0 0 0 -5.2,-1.2 c -2.8,0 -4.4,1.3 -4.4,3.6 0,2 1.1,3.8 4.4,3.8 a 6,6 0 0 0 5.2,-2.6 z"
+         class="cls-1" />
+      <path
+         style="fill:#0e3454"
+         inkscape:connector-curvature="0"
+         id="path24"
+         d="m 258.5,29.199997 a 6.53,6.53 0 0 0 -4.3,-1.9 c -2.9,0 -4.9,1.2 -4.9,6.2 v 15.5 h -7.5 v -28.6 h 7.5 v 1.9 a 7.75,7.75 0 0 1 5.9,-2.5 7.44,7.44 0 0 1 5.3,2 z"
+         class="cls-1" />
+      <path
+         style="fill:#0e3454"
+         inkscape:connector-curvature="0"
+         id="path26"
+         d="m 280,48.999997 v -1.8 a 8.5,8.5 0 0 1 -6,2.4 c -6.1,0 -11.1,-4.6 -11.1,-15.3 0,-8.5 4,-14.5 11.1,-14.5 a 9.07,9.07 0 0 1 6,2.2 v -9 l 7.5,-3.8000001 V 48.899997 H 280 Z m 0,-19.6 a 6,6 0 0 0 -5.1,-2.5 c -2.9,0 -4.5,2.5 -4.5,7.3 0,5.9 2,8.3 4.9,8.3 a 5.32,5.32 0 0 0 4.6,-2.4 v -10.7 z"
+         class="cls-1" />
+      <path
+         style="fill:#ff893e"
+         inkscape:connector-curvature="0"
+         id="path28"
+         d="m 77,21.499997 a 38.5,38.5 0 1 1 -38.5,-38.5 38.45,38.45 0 0 1 38.5,38.5 z"
+         class="cls-2" />
+      <path
+         style="fill:#78a22f"
+         inkscape:connector-curvature="0"
+         id="path30"
+         d="m 42.8,-42.100003 c -4,-0.6 -7.2,-0.6 -10,-1 -3.4,-0.3 -10,-1.2 -11.8,-4.2 a 4.53,4.53 0 0 1 -0.1,0.8 20.42,20.42 0 0 0 0.6,6.3 30.36,30.36 0 0 0 2.8,7.4 c 0.4,0.8 0.9,1.5 1.4,2.3 3.2,4.7 8.3,8 16,9.7 10.1,2.3 19.6,3.9 27,13.2999999 v -0.1 C 70,-12.800003 64.9,-38.600003 42.8,-42.100003 Z"
+         class="cls-3" />
+    </g>
+  </g>
+</svg>

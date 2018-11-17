@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   x="0px"
+   y="0px"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64.000002"
+   enable-background="new 0 0 319.84 64.684"
+   xml:space="preserve"
+   id="svg32"
+   sodipodi:docname="purescript-icon.svg"
+   style="fill:#ffffff"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata38"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs36" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview34"
+   showgrid="false"
+   inkscape:zoom="4.2396199"
+   inkscape:cx="77.399344"
+   inkscape:cy="28.407232"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg32" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<g
+   id="g45"
+   transform="matrix(2.3625206,0,0,2.3625206,-16.08638,-73.344165)"><polygon
+     transform="matrix(0.32724547,0,0,0.32724547,4.5807792,34.084827)"
+     style="fill:#000000"
+     id="polygon2"
+     points="59.156,44.206 30.775,44.206 37.238,50.241 65.619,50.241 " /><polygon
+     transform="matrix(0.32724547,0,0,0.32724547,4.5807792,34.084827)"
+     style="fill:#000000"
+     id="polygon4"
+     points="30.775,35.12 59.156,35.12 65.619,29.085 37.238,29.085 " /><polygon
+     transform="matrix(0.32724547,0,0,0.32724547,4.5807792,34.084827)"
+     style="fill:#000000"
+     id="polygon6"
+     points="59.156,13.96 30.777,13.96 37.238,19.997 65.617,19.997 " /><path
+     inkscape:connector-curvature="0"
+     style="fill:#000000;stroke-width:0.32724547"
+     id="path8"
+     d="M 13.674603,42.583392 12.277265,41.185727 7.0969696,46.36635 c -0.1858754,0.185548 -0.2886305,0.434582 -0.287976,0.698342 0,0.264414 0.1021006,0.512139 0.287976,0.698014 l 5.1802954,5.180296 1.397338,-1.396356 -4.4816262,-4.482282 z" /><path
+     inkscape:connector-curvature="0"
+     style="fill:#000000;stroke-width:0.32724547"
+     id="path10"
+     d="m 33.609088,41.417417 -5.178332,-5.180951 -1.396684,1.397011 4.479336,4.481954 -4.479336,4.481627 1.396684,1.397011 5.178332,-5.179314 c 0.18653,-0.187185 0.289613,-0.435564 0.289613,-0.699978 -6.55e-4,-0.264087 -0.103083,-0.511158 -0.289613,-0.69736" /></g>
+</svg>
