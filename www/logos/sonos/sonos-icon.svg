@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 63.999999"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="sonos-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata28">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Sonos Blog Masthead</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs26" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="3.7607341"
+     inkscape:cx="45.165916"
+     inkscape:cy="31.98116"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
+  <title
+     id="title2">Sonos Blog Masthead</title>
+  <g
+     id="g824"
+     transform="matrix(3.252366,0,0,3.252366,-22.040907,-65.513608)">
+    <path
+       id="path8"
+       style="fill:#000105;stroke-width:0.19611304"
+       d="m 21.141181,30.127484 c -0.933498,-0.711891 -2.157243,-1.286502 -3.986978,-1.866997 -3.55749,-1.129611 -3.55749,-2.027808 -3.55749,-2.459257 0,-1.009982 1.12765,-2.057226 3.01818,-2.057226 a 5.7088506,5.7088506 0 0 1 3.284893,1.135495 l 0.245141,0.184346 2.82795,-1.912102 -0.307897,-0.366732 a 8.2740092,8.2740092 0 0 0 -6.050087,-2.641642 c -1.819929,0 -3.492774,0.588339 -4.706713,1.637544 A 5.3597694,5.3597694 0 0 0 9.9999997,25.80123 c 0,1.61401 0.7040453,2.969151 2.0925263,4.028162 0.933498,0.71189 2.157243,1.286501 3.986978,1.866996 3.55749,1.129611 3.55749,2.027809 3.55749,2.457296 0,1.011944 -1.129611,2.059187 -3.018179,2.059187 a 5.6872782,5.6872782 0 0 1 -3.284894,-1.135494 l -0.245141,-0.184347 -2.829911,1.912103 0.307897,0.366731 a 8.2936205,8.2936205 0 0 0 6.048127,2.649487 c 1.817967,0 3.490812,-0.588339 4.706712,-1.637544 a 5.3656528,5.3656528 0 0 0 1.910141,-4.022278 c 0.002,-1.619894 -0.702084,-2.969152 -2.090565,-4.034045 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

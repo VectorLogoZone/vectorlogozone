@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="veeva-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata25">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard 1</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview23"
+     showgrid="false"
+     inkscape:zoom="2.26"
+     inkscape:cx="75"
+     inkscape:cy="18"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#ff9e16;}.cls-2{fill:#8a8a8d;}</style>
+  </defs>
+  <title
+     id="title6">Artboard 1</title>
+  <g
+     id="g865"
+     transform="matrix(3.2674064,0,0,3.2674064,-57.232949,-65.975991)">
+    <polygon
+       transform="matrix(0.56561944,0,0,0.56561944,17.513496,19.62654)"
+       style="fill:#ff9e16"
+       id="polygon16"
+       points="6.15,1 17.42,23.64 28.6,1 34.41,1 17.36,35.63 0.23,1 "
+       class="cls-1" />
+    <polygon
+       transform="matrix(0.56561944,0,0,0.56561944,17.513496,19.62654)"
+       style="fill:#ff9e16"
+       id="polygon18"
+       points="6.15,1 17.42,23.64 28.6,1 34.41,1 17.36,35.63 0.23,1 "
+       class="cls-1" />
+    <path
+       id="path20"
+       d="m 22.960411,20.226097 4.35527,8.69357 4.338301,-8.69357 c 0,0 -8.693571,-0.03394 -8.693571,0 z"
+       class="cls-2"
+       inkscape:connector-curvature="0"
+       style="fill:#8a8a8d;stroke-width:0.56561947" />
+  </g>
+</svg>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 210 60"
+   xml:space="preserve"
+   sodipodi:docname="struts-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata45"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs43">
+	
+	
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	
+		
+		
+		
+		
+		
+		
+	</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview41"
+   showgrid="false"
+   inkscape:zoom="6.4571429"
+   inkscape:cx="64.803019"
+   inkscape:cy="9.8734804"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g904"
+   transform="matrix(1.0666667,0,0,1.0666667,3.7333324,-10e-7)"><polygon
+     style="fill:#202a5a"
+     id="polygon16"
+     points="51,16 51,14.8 49.9,15.3 27,2 2,16 2,44 27,58 51,44 " /><polygon
+     style="fill:#2c448a"
+     id="polygon18"
+     points="51,16 27,2 2,16 27,30 " /><polygon
+     style="fill:#283a79"
+     id="polygon20"
+     points="27,58 51,44 51,14.8 43,19 42.9,20.8 27,30 " /><polygon
+     style="fill:#202a5a"
+     id="polygon22"
+     points="27,58 27,30 2,16 2,44 " /><polygon
+     style="fill:#3558a7"
+     id="polygon24"
+     points="27,51 27,60 0,44 0,35 " /><polygon
+     style="fill:#3558a7"
+     id="polygon26"
+     points="27,37 27,32 0,16 0,21 " /><polygon
+     style="fill:#416fb5"
+     id="polygon28"
+     points="27,51 27,60 53,44 53,39 31.1,29.5 27,32 27,36.9 40.3,42.8 " /><polygon
+     style="fill:#477fc1"
+     id="polygon30"
+     points="38.7,42.2 27,49 2,35 2,33.8 0,35 27,51 40.3,42.8 " /><polygon
+     style="fill:#477fc1"
+     id="polygon32"
+     points="27,32 31.1,29.5 11.8,18 27,9 43,19 51,14.8 27,0 0,16 " /><polygon
+     style="fill:#202a5a"
+     id="polygon34"
+     points="13.5,19 27,11 42.9,20.8 43,19 27,9 11.8,18 " /></g>
+</svg>
