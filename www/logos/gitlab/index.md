@@ -1,6 +1,11 @@
 ---
 blog: https://about.gitlab.com/blog/
+colors:
+- '#fc6d26'
+- '#6b4fbb'
+- '#eeeeee'
 facebook: https://www.facebook.com/gitlab
+github: gitlabhq
 guide: https://about.gitlab.com/press/
 images:
 - gitlab-icon.svg
