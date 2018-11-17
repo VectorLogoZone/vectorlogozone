@@ -9,13 +9,13 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="120mm"
-   height="60mm"
-   viewBox="0 0 120 59.999999"
+   width="120"
+   height="60"
+   viewBox="0 0 31.75 15.875"
    version="1.1"
    id="svg982"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="softwarefreedomconservancy-ar211.svg">
+   sodipodi:docname="sfconservancy-ar21.svg">
   <defs
      id="defs976" />
   <sodipodi:namedview
@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5284279"
-     inkscape:cx="194.72191"
-     inkscape:cy="70.23158"
+     inkscape:zoom="4.3230469"
+     inkscape:cx="137.12915"
+     inkscape:cy="43.324801"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -39,7 +39,8 @@
      inkscape:window-height="1001"
      inkscape:window-x="-9"
      inkscape:window-y="-9"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     units="px" />
   <metadata
      id="metadata979">
     <rdf:RDF>
@@ -56,10 +57,10 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-0.14164639,-236.91529)">
+     transform="translate(-0.14164639,-281.04029)">
     <g
        id="g73"
-       transform="matrix(1.2128565,0,0,1.2128565,-12.170408,-47.354929)">
+       transform="matrix(0.32630335,0,0,0.32630335,-3.4379763,204.56982)">
       <path
          inkscape:connector-curvature="0"
          style="fill:#afe478;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.10158023"
