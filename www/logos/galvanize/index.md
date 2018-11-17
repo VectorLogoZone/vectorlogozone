@@ -1,0 +1,13 @@
+---
+blog: 'https://blog.galvanize.com/'
+facebook: 'https://facebook.com/GalvanizeHQ'
+googleplus: 'https://plus.google.com/104456246601890468626/posts'
+instagram: 'https://instagram.com/GalvanizeHQ'
+linkedin: 'https://linkedin.com/company/galvanize-it'
+logohandle: galvanize
+sort: galvanize
+title: Galvanize
+twitter: galvanize
+website: 'https://www.galvanize.com/'
+youtube: 'https://youtube.com/channel/UC6CFuXHLJQ_30gOxUTEFj_g'
+---
