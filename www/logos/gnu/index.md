@@ -10,3 +10,5 @@ title: GNU
 website: https://www.gnu.org/
 wikipedia: https://en.wikipedia.org/wiki/GNU
 ---
+
+[Alternate official images](https://www.gnu.org/graphics/gnusvgart.html)
