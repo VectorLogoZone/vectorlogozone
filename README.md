@@ -6,6 +6,7 @@
 [![Travis CI build status](https://img.shields.io/travis/VectorLogoZone/vectorlogozone.svg)](https://travis-ci.org/VectorLogoZone/vectorlogozone)
 
 <!--
+[![AGPL 3+](https://img.shields.io/github/license/VectorLogoZone/vectorlogozone.svg)](LICENSE.txt)
 ![Github watchers](https://img.shields.io/github/watchers/VectorLogoZone/vectorlogozone.svg?style=social)
 ![Github stars](https://img.shields.io/github/stars/VectorLogoZone/vectorlogozone.svg?style=social)
 -->
