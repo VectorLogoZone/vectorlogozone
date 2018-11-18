@@ -3,18 +3,20 @@ layout: default
 title: Search Github
 ---
 {% include searchtab.html %}
-<div class="row clearfix" style="padding-bottom:20px;">
-    <div class="col-md-6 offset-md-3">
-        <img alt="Loading..." src="/images/spinner.svg" style="height:64px" id="wait"/>
-        <form action="get" class="form-inline" id="site_search" style="display:none;">
+<form action="get" class="form-inline justify-content-center" id="site_search" style="display:none;">
+    <div class="form-row align-items-center" style="padding-bottom:20px;">
+        <div class="col-auto">
+            <img alt="Loading..." src="/images/spinner.svg" style="height:64px" id="wait"/>
             <label class="sr-only" for="q">Search query</label>
             <div class="input-group">
-                 <input autocomplete="off" autofocus="autofocus" class="form-control mr-sm-2" id="q" name="q" placeholder="Search terms" type="text">
+                <input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search terms" type="text" />
+                <div class="input-group-append">
+                    <button type="submit" class="btn btn-primary">Search Github</button>
+                </div>
             </div>
-		<button type="submit" class="btn btn-primary">Search Github</button>
-        </form>
+        </div>
     </div>
-</div>
+</form>
 
 
 <div class="row clearfix">

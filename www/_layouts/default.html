@@ -29,8 +29,10 @@
 					{%- if prev_page %}<a class="btn btn-secondary btn-xs" href="{{prev_page}}" title="Previous set of logos"><i class="fa fa-caret-left"></i> Previous</a>{% endif -%}
 					{%- if next_page %}&nbsp;<a class="btn btn-secondary btn-xs" href="{{next_page}}" title="Next set of logos">Next <i class="fa fa-caret-right"></i></a>{% endif -%}
 				</div>
-                {%- endif -%}
+                {%- endif %}
+                {%- if page.no_h1 %}{% else %}
 				<h1>{% if page.h1 %}{{ page.h1 }}{% else %}{{ page.title | default: "(untitled)"}}{% endif %}{% if page.subtitle %} <small> - {{ page.subtitle }}</small>{% endif %}</h1>
+                {%- endif %}
 				{{ content }}
 			</div><!--/col-->
 		</div><!--/row-->
