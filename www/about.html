@@ -1,0 +1,130 @@
+---
+layout: default
+title: About
+---
+
+<h2 class="pt-4">Why another logo website?</h2>
+
+<div class="row">
+    <div class="col">
+        Vector Logo Zone is a place to find uniform SVG Logos perfect for any website. Each logo is consistently sized, padded, and has a transparent background making it look great on any website.
+        All our logos are free to use, including hot-linked from our ultra-fast CDN!
+    </div>
+</div>
+
+<h2 class="pt-4">Why SVG?</h2>
+
+<div class="row">
+    <div class="col">
+        SVG stands for Scalable Vector Logo and are nothing more than simple plain text files that describe lines, curves, shapes, colors, and texts. What separates SVG’s from the competition is that they are easily modified and can be manipulated via CSS or Javascript making them far more flexible and versatile than traditional PNG, GIF or JPGs. The most important difference is that an SVG are able to scale infinitely making them look good at any size without pixelating.
+    </div>
+</div>
+
+<h2 class="d-flex justify-content-center pt-5">Meet the team!</h2>
+
+<div class="row d-flex justify-content-center">
+    <div class="col-6 d-flex justify-content-center">
+        <div class="card border-white my-3" style="margin:0;padding:0;width: 18rem;">
+            <img class="card-img-top px-4" src="/images/about/andrew.svg" alt="Avatar for Andrew">
+            <div class="card-body">
+                <h3 class="card-title text-center">Andrew</h3>
+                <p class="card-text text-center lead">Developer</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-6 d-flex justify-content-center">
+        <div class="card border-white my-3" style="margin:0;padding:0;width: 18rem;">
+            <img class="card-img-top px-4" src="/images/about/noah.svg" alt="Avatar for Noah">
+            <div class="card-body">
+                <h3 class="card-title text-center">Noah</h3>
+                <p class="card-text text-center lead">Designer</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<hr/>
+<h2>Old home page</h2>
+
+<p>I needed consistently sized logos for some of
+    <a href="https://www.regexplanet.com/">my</a>
+    <a href="https://simpleshare.io/">recent</a>
+    <a href="https://www.heatmap.tv/support/credits.html">projects</a>.
+I wanted images that were:</p>
+
+<ul>
+	<li>svg format</li>
+	<li>consistently sized</li>
+	<li>consistent padding</li>
+	<li>transparent background</li>
+	<li>look good on a variety of light backgrounds</li>
+	<li>with type in the correct layout</li>
+</ul>
+
+<p>I ended having to do a fair bit of work to get what I needed, and figured others might benefit as well.</p>
+
+{%- assign logocount = 0 %}
+{%- assign pagecount = 0 %}
+{%- assign pendingcount = 0 %}
+{%- for logopage in site.pages -%}
+    {%- if logopage.logohandle %}
+        {%- assign logopagecount = logopage.images | size -%}
+        {%- assign logocount = logocount | plus:logopagecount %}
+        {%- if logopagecount > 0 %}
+            {%- assign pagecount = pagecount | plus:1 %}
+        {%- else %}
+            {%- assign pendingcount = pendingcount | plus:1 %}
+        {%- endif %}
+    {%- endif %}
+{%- endfor %}&nbsp;
+<p>
+    Currently there are <b>{{ logocount | intcomma }}</b> images
+    for <b>{{ pagecount | intcomma }}</b> companies/projects
+    (with {{ pendingcount | intcomma }} in the <a href="/report/missing.html">queue</a>).
+</p>
+
+<div class="card-deck">
+        <div class="card">
+             <div class="card-body">
+                <h5 class="card-title">Browse</h5>
+                <p class="card-text">Look at the gallery of all the logos and admire their awesome consistency!</p>
+             </div>
+            <div class="card-footer">
+                <a href="/logos/index.html" class="btn btn-success btn-block">A-Z Index</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Search</h5>
+                <p class="card-text">Full-text search with instant visual results.</p>
+            </div>
+            <div class="card-footer">
+                <a href="/search.html" class="btn btn-success btn-block">Instant Search</a>
+            </div>
+        </div>
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Alternatives</h5>
+                <p class="card-text">While VLZ is awesome, it isn't quite complete (yet).  In the meantime, you can use the same
+                awesome instant search for logos in other Github repositories.</p>
+            </div>
+            <div class="card-footer">
+                <a href="/search-github.html" class="btn btn-success btn-block">Github Search</a>
+            </div>
+        </div>
+</div>
+
+
+<div class="row">&nbsp;</div>
+<div class="row">
+    <div class="col">
+        <div class="card">
+            <h5 class="card-header"><i class="fa fa-thumb-tack"></i> Featured Bookmarks</h5>
+            <div class="card-body">
+                <script src="https://pinboard.in//widgets/v1/linkroll/?user=fileformat&amp;count=5&amp;tag=vectorlogozone"></script>
+                <a class="btn btn-outline-dark btn-sm" href="/support/links.html">More...</a>
+            </div>
+        </div>
+    </div>
+</div>

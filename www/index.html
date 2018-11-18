@@ -1,88 +1,192 @@
 ---
 layout: default
-title: Consistent SVG Vector Logos
+title: Uniform SVG Logos
+no_h1: true
 redirect_from:
-  - /util/index.html
+- /util/index.html
+- /search.html
 ---
-
-<p>I needed consistently sized logos for some of
-    <a href="https://www.regexplanet.com/">my</a>
-    <a href="https://simpleshare.io/">recent</a>
-    <a href="https://www.heatmap.tv/support/credits.html">projects</a>.
-I wanted images that were:</p>
-
-<ul>
-	<li>svg format</li>
-	<li>consistently sized</li>
-	<li>consistent padding</li>
-	<li>transparent background</li>
-	<li>look good on a variety of light backgrounds</li>
-	<li>with type in the correct layout</li>
-</ul>
-
-<p>I ended having to do a fair bit of work to get what I needed, and figured others might benefit as well.</p>
-
-{%- assign logocount = 0 %}
-{%- assign pagecount = 0 %}
-{%- assign pendingcount = 0 %}
-{%- for logopage in site.pages -%}
-    {%- if logopage.logohandle %}
-        {%- assign logopagecount = logopage.images | size -%}
-        {%- assign logocount = logocount | plus:logopagecount %}
-        {%- if logopagecount > 0 %}
-            {%- assign pagecount = pagecount | plus:1 %}
-        {%- else %}
-            {%- assign pendingcount = pendingcount | plus:1 %}
-        {%- endif %}
-    {%- endif %}
-{%- endfor %}&nbsp;
-<p>
-    Currently there are <b>{{ logocount | intcomma }}</b> images
-    for <b>{{ pagecount | intcomma }}</b> companies/projects
-    (with {{ pendingcount | intcomma }} in the <a href="/report/missing.html">queue</a>).
-</p>
-
-<div class="card-deck">
-        <div class="card">
-             <div class="card-body">
-                <h5 class="card-title">Browse</h5>
-                <p class="card-text">Look at the gallery of all the logos and admire their awesome consistency!</p>
-             </div>
-            <div class="card-footer">
-                <a href="/logos/index.html" class="btn btn-success btn-block">A-Z Index</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-body">
-                <h5 class="card-title">Search</h5>
-                <p class="card-text">Full-text search with instant visual results.</p>
-            </div>
-            <div class="card-footer">
-                <a href="/search.html" class="btn btn-success btn-block">Instant Search</a>
-            </div>
-        </div>
-        <div class="card">
-            <div class="card-body">
-                <h5 class="card-title">Alternatives</h5>
-                <p class="card-text">While VLZ is awesome, it isn't quite complete (yet).  In the meantime, you can use the same
-                awesome instant search for logos in other Github repositories.</p>
-            </div>
-            <div class="card-footer">
-                <a href="/search-github.html" class="btn btn-success btn-block">Github Search</a>
-            </div>
-        </div>
+<div class="jumbotron jumbotron-fluid bg-transparent pb-0 pt-2">
+    <div class="container px-0">
+        <h1 class="display-4 d-flex justify-content-center"><img src="/images/about/vlzlogo-grey.svg" style="height:105px!important;"/></h1>
+        <p class="lead d-flex justify-content-center" style="font-size:1.75rem;">Uniform SVG Logos</p>
+    </div>
 </div>
 
-
-<div class="row">&nbsp;</div>
-<div class="row">
-    <div class="col">
-        <div class="card">
-            <h5 class="card-header"><i class="fa fa-thumb-tack"></i> Featured Bookmarks</h5>
-            <div class="card-body">
-                <script src="https://pinboard.in//widgets/v1/linkroll/?user=fileformat&amp;count=5&amp;tag=vectorlogozone"></script>
-                <a class="btn btn-outline-dark btn-sm" href="/support/links.html">More...</a>
+<form action="get" class="form-inline justify-content-center" id="site_search" style="display:none;">
+    <div class="form-row align-items-center" style="padding-bottom:20px;">
+        <div class="col-auto">
+            <img alt="Loading..." src="/images/spinner.svg" style="height:64px" id="wait"/>
+            <label class="sr-only" for="q">Search query</label>
+            <div class="input-group">
+                <input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search terms" type="text"/>
+                <div class="input-group-append">
+                    <button type="submit" class="btn" style="background-color:#1d8286;color:white;font-weight:bold;">Search</button>
+                </div>
             </div>
         </div>
     </div>
+</form>
+
+<div class="row clearfix">
+	<div class="logo-container" id="search_results"></div>
 </div>
+
+<div class="row clearfix">
+    <div class="col">
+        <p id="pending-tip" class="alert alert-primary" style="display:none;">The following logos are on the &quot;To Do&quot; list and should be ready shortly.</p>
+        <ul id="pending"></ul>
+    </div>
+</div>
+
+<script src="/js/lunr.min.js"></script>
+<script>
+$(function() {
+	// Initalize lunr with the fields it will be searching on. I've given title
+	// a boost of 10 to indicate matches on this field are more important.
+	lunr.tokenizer.seperator = /[\s\-_\.]+/
+	window.idx = lunr(function () {
+			this.field('id');
+			this.field('title', { boost: 10 });
+			this.field('keywords');
+			this.field('website');
+			this.field('category');
+		});
+	window.idx.pipeline.remove(lunr.stopWordFilter);
+
+	// Download the data from the JSON file we generated
+	window.data = $.getJSON('/util/fulltext.json');
+
+	// Wait for the data to load and add it to lunr
+	window.data.then(function(loaded_data){
+		$.each(loaded_data, function(index, value){
+			window.idx.add($.extend({ "id": index }, value));
+		});
+		console.log("data loaded");
+        $("#wait").hide();
+        $("#site_search").show();
+	});
+
+	var doSearch = function(query)
+	{
+		if (!query || query.length == 0)
+		{
+			$("#search_results").empty();
+			return;
+		}
+		console.log("searching for " + query);
+		var results = window.idx.search(query);
+		display_search_results(query, results);
+		return false;
+	};
+
+	$("#q").on('input propertychange paste', function() { 
+		console.log("input paste");
+		var previousQuery = getParameterByName("q");
+		var query = $("#q").val();
+		if (query && previousQuery && query.length > 0 && previousQuery.length > 0 && (query.startsWith(previousQuery) || previousQuery.startsWith(query))) {
+            history.replaceState({ "q": query}, "", "?q=" + query);
+        }
+        else {
+            history.pushState({"q": query}, "", "?q=" + query);
+        }
+        document.title = "Search logos for '" + query + "'";
+		doSearch(query);
+	});
+
+	$("#q").on('xpropertychange', function() {
+		console.log("propertychange");
+		var query = $("#q").val();
+		doSearch(query);
+	});
+
+	// Event when the form is submitted
+	$("#site_search").submit(function() {
+		doSearch($("#q").val());
+		return false;
+	});
+
+	$(window).on("popstate", function(event) {
+		console.log("popstate");
+		if (event.originalEvent.state)
+		{
+			var query = event.originalEvent.state["q"];
+			$("#q").val(query);
+			doSearch(query);
+		}
+		else
+		{
+			$("#q").val("");
+			$("#search_results").empty();
+		}
+	});
+
+	function getParameterByName(name) {
+		var match = RegExp('[?&]' + name + '=([^&]*)').exec(window.location.search);
+		return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
+	}
+
+    function htmlEncode(value){
+        return $("<div>").text(value).html();
+    }
+
+	var query = getParameterByName("q");
+	if (query && query.length)
+	{
+		window.data.then(function() {
+			console.log("initial query");
+			$("#q").val(query);
+			doSearch(query);
+		});
+	}
+
+
+	function display_search_results(query, results) {
+		var $search_results = $("#search_results");
+		var $pending = $("#pending");
+		$pending.empty();
+
+		// Wait for data to load
+		window.data.then(function(loaded_data) {
+
+            ga('send', {
+                hitType: 'event',
+                eventCategory: 'search-vlz',
+                eventAction: query,
+                eventValue: results.length ? results.length : 0
+            });
+
+			// Are there any results?
+			if (results.length) 
+			{
+				$search_results.empty(); // Clear any old results
+
+                if (results.length > 50) {
+                    results.length = 50;
+                }
+
+				// Iterate over the results
+				results.forEach(function(result) {
+						var item = loaded_data[result.ref];
+
+						if (item.haslogo) {
+                            // Build a snippet of HTML for this result
+                            var appendString = '<a href="/logos/' + result.ref + '/index.html"><img title="' + item.title + '" src="/logos/' + result.ref + '/' + result.ref + '-ar21.svg" /></a></li>';
+
+                            // Add it to the results
+                            $search_results.append(appendString);
+                        }
+                        else {
+						    $pending.append($("<li>").append($("<a>").text(item.title).attr("href", "/logos/" + result.ref + "/index.html")));
+                        }
+					});
+                $("#pending-tip").css("display", $pending.children().length > 0 ? "block" : "none");
+			} 
+			else 
+			{
+				$search_results.html('<div class="alert alert-warning">No results found for "' + htmlEncode(query) + '".</div>');
+			}
+		});
+	}
+});
+</script>
