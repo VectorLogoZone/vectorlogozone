@@ -191,7 +191,9 @@ $(function() {
 	function display_search_results(query, results) {
 		var $search_results = $("#search_results");
 		var $pending = $("#pending");
+        $search_results.empty(); // Clear any old results
 		$pending.empty();
+        $("#pending-tip").css("display",'none');
 
 		// Wait for data to load
 		window.data.then(function(loaded_data) {
@@ -206,7 +208,6 @@ $(function() {
 			// Are there any results?
 			if (results.length) 
 			{
-				$search_results.empty(); // Clear any old results
 
                 if (results.length > 50) {
                     results.length = 50;
@@ -231,7 +232,7 @@ $(function() {
 			} 
 			else 
 			{
-				$search_results.html('<div class="alert alert-warning">No results found for "' + htmlEncode(query) + '".</div>');
+				$search_results.html('<div class="alert alert-warning">No results found for "' + htmlEncode(query) + '".  You can try <a href="/search-github.html?q=' + encodeURIComponent(query) + '">searching other logo sites</a>.</div>');
 			}
 		});
 	}
