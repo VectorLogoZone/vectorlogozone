@@ -40,7 +40,7 @@ follow the commands in the [TravisCI file](.travis.yml).
 
 The website is licensed under the [GNU Affero General Public License v3.0](LICENSE.txt).
 
-The logos themselves remain property of their original owners. There is links to the owner's website (and to the owner's usage guidelines if I could find them).  Any
+The logos themselves remain property of their original owners. There is a link to the owner's website (and to the owner's usage guidelines if I could find them).  Any
 modifications to the logos are in the public domain.
 
 ## Credits
