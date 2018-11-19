@@ -20,14 +20,15 @@
                 </div>
 			</td>
 			<td class="d-none d-sm-table-cell" style="white-space:nowrap;vertical-align:middle;">
-			{% capture imagetype %}{{image|split:'-'|last|split:'.'|first}}{% endcapture %}
-			{% assign standard = false %}
-			{% capture alt_text %}Alternate image for {{page.title}}{% endcapture %}
-			{% for standardtype in site.data.imagetype %}
+			{%- capture imagetype %}{{image|split:'-'|last|split:'.'|first}}{% endcapture %}
+			{%- assign standard = false %}
+			{%- capture alt_text %}Alternate image for {{page.title}}{% endcapture %}
+			{%- for standardtype in site.data.imagetype %}
 				{% if standardtype.id == imagetype %}
 					{{standardtype.title}}
 					{% capture alt_text %}Vector (.svg) logo for {{page.title}}: {{standardtype.title}}{% endcapture %}
 					{% assign standard = true %}
+                    {% assign customstyle = standardtype.customstyle %}
 				{% endif %}
 			{% endfor %}
 			{% if standard == false %}
@@ -38,7 +39,7 @@
 				(Raster)
 			{% endif %}
 			</td>
-			<td><a href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" rel="nofollow"><img alt="{{alt_text}}" src="{{image}}" style="height:120px;" /></a></td>
+			<td><a href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" rel="nofollow"><img alt="{{alt_text}}" src="{{image}}" style="{% if customstyle%}{{customstyle}}{% else %}height:120px;{% endif %}" /></a></td>
 		</tr>
 {% endfor %}
 	</tbody>
