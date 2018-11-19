@@ -9,7 +9,7 @@ redirect_from:
 <div class="jumbotron jumbotron-fluid bg-transparent pb-0 pt-2">
     <div class="container px-0">
         <h1 class="display-4 d-flex justify-content-center"><img src="/images/about/vlzlogo-grey.svg" style="height:105px!important;"/></h1>
-        <p class="lead d-flex justify-content-center" style="font-size:1.75rem;">Uniform SVG Logos</p>
+        <p class="lead d-flex justify-content-center" style="font-size:1.75rem;">3,000+ Uniform SVG Logos</p>
     </div>
 </div>
 
@@ -54,6 +54,49 @@ $(function() {
 		});
 	window.idx.pipeline.remove(lunr.stopWordFilter);
 
+	window.default_logos = [
+        'arduino',
+        'haxe',
+        'travis-ci',
+        'theorchard',
+        'npr',
+        'apache_storm',
+        'stackoverflow',
+        'mint',
+        'septa',
+        'teamtreehouse',
+        'openlibrary',
+        'aquasec',
+        'symantec',
+        'bazel',
+        'numerify',
+        'fastly',
+        'digitalrosetta',
+        'js_webpack',
+        'sendwyre',
+        'kik',
+        'jenkins',
+        'pbs',
+        'microsoft',
+        'airtable',
+        'docker',
+        'getmonero',
+        'purplejsio',
+        'linux',
+        'infernojs',
+        'flickr',
+        'wireshark',
+        'wikipedia',
+        'microsoft_azure',
+        'ocaml',
+        'stitchdata',
+        'konghq',
+        'worldlabel',
+        'youtube',
+        'stride',
+        'opensource'
+    ];
+
 	// Download the data from the JSON file we generated
 	window.data = $.getJSON('/util/fulltext.json');
 
@@ -65,13 +108,17 @@ $(function() {
 		console.log("data loaded");
         $("#wait").hide();
         $("#site_search").show();
+        show_default();
 	});
 
 	var doSearch = function(query)
 	{
 		if (!query || query.length == 0)
 		{
-			$("#search_results").empty();
+            $("#search_results").empty();
+			$("#pending").empty();
+			$("#pending-tip").css('display', 'none');
+			show_default();
 			return;
 		}
 		console.log("searching for " + query);
@@ -188,5 +235,17 @@ $(function() {
 			}
 		});
 	}
+
+	function show_default() {
+	    console.log("showing defaults");
+        var $search_results = $("#search_results");
+        for (var loop = 0; loop < default_logos.length; loop++) {
+            var logohandle = default_logos[loop];
+            var appendString = '<a href="/logos/' + logohandle + '/index.html"><img title="' + logohandle + '" src="/logos/' + logohandle + '/' + logohandle + '-ar21.svg" /></a></li>';
+
+            // Add it to the results
+            $search_results.append(appendString);
+        }
+    }
 });
 </script>
