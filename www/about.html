@@ -1,14 +1,44 @@
 ---
 layout: default
 title: About
+no_h1: true
 ---
 
-<h2 class="pt-4">Why another logo website?</h2>
+<div class="row pt-2">
+    <div class="col">
+        <h1 class="d-flex justify-content-center">
+            <img src="/images/about/about.svg" style="height:105px!important;"/>
+        </h1>
+    </div>
+</div>
+
+<h2 class="pt-3">Why another logo website?</h2>
 
 <div class="row">
     <div class="col">
-        Vector Logo Zone is a place to find uniform SVG Logos perfect for any website. Each logo is consistently sized, padded, and has a transparent background making it look great on any website.
+        Vector Logo Zone is a place to find uniform SVG logos perfect for any website. Each logo is consistently sized, padded, and has a transparent background making it look great on any website.
         All our logos are free to use, including hot-linked from our ultra-fast CDN!
+
+
+        {%- assign logocount = 0 %}
+        {%- assign pagecount = 0 %}
+        {%- assign pendingcount = 0 %}
+        {%- for logopage in site.pages -%}
+        {%- if logopage.logohandle %}
+        {%- assign logopagecount = logopage.images | size -%}
+        {%- assign logocount = logocount | plus:logopagecount %}
+        {%- if logopagecount > 0 %}
+        {%- assign pagecount = pagecount | plus:1 %}
+        {%- else %}
+        {%- assign pendingcount = pendingcount | plus:1 %}
+        {%- endif %}
+        {%- endif %}
+        {%- endfor %}&nbsp;
+        <p class="pt-2">
+            Currently there are <b>{{ logocount | intcomma }}</b> images
+            for <b>{{ pagecount | intcomma }}</b> companies/projects.
+        </p>
+
     </div>
 </div>
 
@@ -20,14 +50,14 @@ title: About
     </div>
 </div>
 
-<h2 class="d-flex justify-content-center pt-5">Meet the team!</h2>
+<h2 class="d-flex justify-content-center pt-5" style="font-weight:bold;font-size:4.5rem;color:#424242;">Meet the team</h2>
 
 <div class="row d-flex justify-content-center">
     <div class="col-6 d-flex justify-content-center">
         <div class="card border-white my-3" style="margin:0;padding:0;width: 18rem;">
             <img class="card-img-top px-4" src="/images/about/andrew.svg" alt="Avatar for Andrew">
             <div class="card-body">
-                <h3 class="card-title text-center">Andrew</h3>
+                <h3 class="card-title text-center" style="color:#424242;font-weight:bold;">Andrew</h3>
                 <p class="card-text text-center lead">Developer</p>
             </div>
         </div>
@@ -36,54 +66,17 @@ title: About
         <div class="card border-white my-3" style="margin:0;padding:0;width: 18rem;">
             <img class="card-img-top px-4" src="/images/about/noah.svg" alt="Avatar for Noah">
             <div class="card-body">
-                <h3 class="card-title text-center">Noah</h3>
+                <h3 class="card-title text-center" style="color:#424242;font-weight:bold;">Noah</h3>
                 <p class="card-text text-center lead">Designer</p>
             </div>
         </div>
     </div>
 </div>
 
-
-<hr/>
-<h2>Old home page</h2>
-
-<p>I needed consistently sized logos for some of
-    <a href="https://www.regexplanet.com/">my</a>
-    <a href="https://simpleshare.io/">recent</a>
-    <a href="https://www.heatmap.tv/support/credits.html">projects</a>.
-I wanted images that were:</p>
-
-<ul>
-	<li>svg format</li>
-	<li>consistently sized</li>
-	<li>consistent padding</li>
-	<li>transparent background</li>
-	<li>look good on a variety of light backgrounds</li>
-	<li>with type in the correct layout</li>
-</ul>
-
-<p>I ended having to do a fair bit of work to get what I needed, and figured others might benefit as well.</p>
-
-{%- assign logocount = 0 %}
-{%- assign pagecount = 0 %}
-{%- assign pendingcount = 0 %}
-{%- for logopage in site.pages -%}
-    {%- if logopage.logohandle %}
-        {%- assign logopagecount = logopage.images | size -%}
-        {%- assign logocount = logocount | plus:logopagecount %}
-        {%- if logopagecount > 0 %}
-            {%- assign pagecount = pagecount | plus:1 %}
-        {%- else %}
-            {%- assign pendingcount = pendingcount | plus:1 %}
-        {%- endif %}
-    {%- endif %}
-{%- endfor %}&nbsp;
-<p>
-    Currently there are <b>{{ logocount | intcomma }}</b> images
-    for <b>{{ pagecount | intcomma }}</b> companies/projects
-    (with {{ pendingcount | intcomma }} in the <a href="/report/missing.html">queue</a>).
-</p>
-
+<!--
+Want to help?  There are {{ pendingcount | intcomma }} logos in the <a href="/report/missing.html">queue</a>!
+-->
+<!--
 <div class="card-deck">
         <div class="card">
              <div class="card-body">
@@ -128,3 +121,4 @@ I wanted images that were:</p>
         </div>
     </div>
 </div>
+-->

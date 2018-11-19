@@ -6,7 +6,6 @@ font:
 github: instagram
 guide: https://en.instagram-brand.com/
 images:
-- instagram-horizontal.svg
 - instagram-icon.svg
 - instagram-ar21.svg
 - instagram-wordmark.svg

@@ -71,7 +71,7 @@
   amp: true
 
 - id: horizontal
-  title: Horizontal Badge
+  title: Horizontal
   description: Similar to the 2:1 rectangle, but no limit on width to accomodate longer names.
   height: 64
   padding: true
@@ -80,6 +80,7 @@
   inventory: true
   visualinventory: true
   amp: false
+  customstyle: 'max-width:100%'
 
 - id: official
   title: Official Logo
@@ -102,4 +103,5 @@
   inventory: true
   visualinventory: false
   amp: false
+  customstyle: 'max-width:100%'
 
