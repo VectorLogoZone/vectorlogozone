@@ -3,7 +3,7 @@ blog: 'https://medium.com/verdaccio'
 github: verdaccio
 logohandle: verdaccio
 sort: verdaccio
-title: Verdaccio · A lightweight private npm proxy registry
+title: Verdaccio
 twitter: verdaccio_npm
 website: 'https://verdaccio.org/'
 ---
