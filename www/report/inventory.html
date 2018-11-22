@@ -7,55 +7,61 @@ redirect_from: /logos/inventory.html
 {%- assign sorted_pages = site.pages | sort:'sort' -%}
 {%- capture checkon %}<i class="fa fa-check"></i>{% endcapture -%}
 {%- capture checkoff %}<i class="fa fa-fw"></i>{% endcapture -%}
+{%- assign pagecount = 0 -%}
 {%- assign logocount = 0 -%}
 {%- assign imgcount = 0 -%}
 
 {%- if jekyll.environment == "production" -%}
 <table class="table table-striped table-bordered">
-	<thead>
-		<tr>
-			<!--<th>ID</th>-->
-			<th>Name</th>
+    <thead>
+        <tr>
+            <!--<th>ID</th>-->
+            <th>Name</th>
 {%- for imagetype in site.data.imagetype %}{% if imagetype.inventory -%}
-			<th><a href="visual.html#{{imagetype.id}}">{{ imagetype.title }}</a></th>
+            <th class="d-none d-lg-table-cell d-print-table-cell">{{ imagetype.title }}</th>
 {%- endif %}{% endfor -%}
-			<th>Other</th>
-		</tr>
-	</thead>
-	<tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% assign count = logopage.images.size %}
-		<tr>
-			<!--<td>[{{ logopage.logohandle }}]</td>-->
-			<td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
+            <th class="d-none d-lg-table-cell d-print-table-cell">Other</th>
+            <th>Total</th>
+        </tr>
+    </thead>
+    <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign pagecount = pagecount | plus:1 %}{% assign logocount = logocount | plus:logopage.images.size %}{% assign count = logopage.images.size %}
+        <tr>
+            <!--<td>[{{ logopage.logohandle }}]</td>-->
+            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
 {%- for imagetype in site.data.imagetype %}{% if imagetype.inventory -%}
-			<td class="text-center">
-				    {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% assign imgcount = imgcount | plus:1 %}{% else %}{{ checkoff }}{% endif %}
-				<!-- / {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.rastersuffix}}.png{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}-->
-			</td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">
+                    {%- capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% assign imgcount = imgcount | plus:1 %}{% else %}{{ checkoff }}{% endif -%}
+                <!-- / {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.rastersuffix}}.png{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}-->
+            </td>
 {%- endif %}{% endfor -%}
             {%- capture logocard %}{{ logopage.logohandle }}{{ '-card.png' }}{% endcapture -%}
             {%- if logopage.images contains logocard %}{% assign count = count | minus:1 %}{% endif -%}
-            <td class="text-center">
-				{% if count > 0 %}{{ count }}{% assign imgcount = imgcount | plus:count %}{% endif %}
-			</td>
-		</tr>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">
+                {%- if count > 0 %}{{ count }}{% assign imgcount = imgcount | plus:count %}{% endif -%}
+            </td>
+            <td class="text-center">{{logopage.images.size}}</td>
+        </tr>
 {%- endif %}{% endfor -%}
-	</tbody>
+    </tbody>
     <tfoot>
         <tr>
-            <td style="text-align:right;">Total:</td>
+            <td  class="text-right">Total:</td>
             {%- for imagetype in site.data.imagetype -%}
+                {%- if imagetype.inventory -%}
                 {%- assign typecount = 0 -%}
                 {%- for logopage in sorted_pages %}{% if logopage.logohandle -%}
-                    {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if logopage.images contains logofile %}{% assign typecount = typecount | plus:1 %}{% endif %}
+                    {%- capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture %}{% if logopage.images contains logofile %}{% assign typecount = typecount | plus:1 %}{% endif %}
                 {%- endif %}{% endfor -%}
-                <td style="text-align:center;">{{typecount | intcomma}}</td>
-            {%- endfor -%}
-            <td>&nbsp;</td>
+                <td class="text-center d-none d-lg-table-cell d-print-table-cell">{{typecount | intcomma}}</td>
+                {%- endif %}
+            {%- endfor %}
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">&nbsp;</td>
+            <td class="text-center">{{logocount}}</td>
         </tr>
     </tfoot>
 </table>
 
-<p>{{ imgcount | intcomma }} images for {{ logocount | intcomma }} companies/projects.</p>
+<p>{{ imgcount | intcomma }} images for {{ pagecount | intcomma }} companies/projects.</p>
 {%- else -%}
 <p>Disabled in development to speed up Jekyll</p>
 {%- endif -%}
