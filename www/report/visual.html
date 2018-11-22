@@ -4,31 +4,89 @@ layout: default
 redirect_from: /logos/visual.html
 ---
 {%- assign sorted_pages = site.pages | sort:'sort' -%}
+{%- assign pagesize = 100 -%}
+{%- assign pagecount = 0 -%}
 {%- assign imgcount = 0 -%}
+{%- if jekyll.environment != "production" -%}
+{%- for logopage in sorted_pages %}
+    {%- if logopage.logohandle %}
+        {%- if logopage.images %}
+            {%- assign pagecount = pagecount | plus:1 %}
+        {%- endif %}
+    {%- endif %}
+{% endfor -%}
+{%- assign curpage = pagecount | divided_by:pagesize  | plus:1 %}
+<div class="btn-toolbar d-flex justify-content-center mb-3" role="toolbar" aria-label="Paging">
+    <div class="btn-group" role="group" aria-label="Pages">
+        {%- for pagelink in (1..curpage) %}
+        <a href="#page{{pagelink}}" class="btn btn-outline-secondary pagelink pagelink{{pagelink}}">{{pagelink}}</a>
+        {%- endfor %}
+    </div>
+</div>
+
 <table class="table table-striped table-bordered">
     <thead>
     <tr>
-        <th>Logo</th>
+        <th>Project/Company</th>
+        <th>Logos</th>
+        <!--
         {%- for imagetype in site.data.imagetype %}{% if imagetype.visualinventory -%}
         <th>{{ imagetype.title | default: "(untitled)"}}</th>
         {%- endif %}{% endfor -%}
+        -->
     </tr>
     </thead>
-    <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% if logopage.images %}{% assign imgcount = imgcount | plus:1 %}
-
-    {% capture iconfile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture %}
-    {% capture tilefile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture %}
-    <tr>
-        <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
-        {%- for imagetype in site.data.imagetype %}{% if imagetype.visualinventory -%}
-        <td>
-            {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture -%}
-            {% if logopage.images contains logofile %}<a href="/util/preview.html?image=/logos/{{logopage.logohandle}}/{{logofile}}&amp;next=/report/visual.html" rel="nofollow"><img src="/logos/{{logopage.logohandle}}/{{logofile}}" style="height:30px;"/></a>{% endif %}
-        </td>
-        {%- endif %}{% endfor -%}
-    </tr>
-    {% endif %}{% endif %}{% endfor %}
+    <tbody>
+{%- assign pagecount = 0 -%}
+{%- for logopage in sorted_pages %}
+    {%- if logopage.logohandle %}
+        {%- if logopage.images %}
+            {%- assign pagecount = pagecount | plus:1 %}
+            {%- assign curpage = pagecount | divided_by:pagesize  | plus:1 %}
+            {%- assign imgcount = imgcount | plus:logopage.images.size %}
+        <tr class="paged page{{curpage}}{% if curpage > 1 %} d-none{% endif %}">
+            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
+            <td>
+            {%- for imagetype in site.data.imagetype %}
+                {%- if imagetype.visualinventory %}
+                    {%- capture logofile %}{{ logopage.logohandle }}-{{imagetype.id}}.svg{% endcapture -%}
+                    {%- if logopage.images contains logofile -%}
+                        <a href="/util/preview.html?image=/logos/{{logopage.logohandle}}/{{logofile}}&amp;next=/report/visual.html" rel="nofollow"><img src="/logos/{{logopage.logohandle}}/{{logofile}}" style="height:30px;"/></a>
+                    {%- endif -%}
+                {%- endif %}
+            {%- endfor -%}
+            </td>
+        </tr>
+        {%- endif %}
+    {%- endif %}
+{%- endfor %}
     </tbody>
 </table>
 
-<p>{{imgcount}} Logos</p>
+<div class="btn-toolbar d-flex justify-content-center mb-3" role="toolbar" aria-label="Pagings">
+    <div class="btn-group" role="group" aria-label="Pages">
+{%- for pagelink in (1..curpage) %}
+        <a href="#page{{pagelink}}" class="btn btn-outline-secondary pagelink pagelink{{pagelink}}">{{pagelink}}</a>
+{%- endfor %}
+    </div>
+</div>
+
+<p>{{ imgcount | intcomma }} images for {{ pagecount | intcomma }} companies/projects.</p>
+<script>
+    function changeTab() {
+        console.log(window.location.hash);
+        var newpage = parseInt(window.location.hash.replace(/#page/, '') || '1');
+        $('.paged').addClass('d-none');
+        $('.page' + newpage).removeClass('d-none');
+        $('.pagelink').removeClass('active');
+        $('.pagelink' + newpage).addClass('active');
+    }
+
+    $(function() {
+        $(window).on('hashchange', function() {
+            changeTab();
+        });
+        changeTab();
+    });
+</script>
+{%- endif %}
