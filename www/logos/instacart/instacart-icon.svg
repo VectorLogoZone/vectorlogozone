@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg31"
+   sodipodi:docname="instacart-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata37">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>instacart</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs35" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview33"
+     showgrid="false"
+     inkscape:zoom="6.2850521"
+     inkscape:cx="29.503831"
+     inkscape:cy="28.431599"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg31" />
+  <title
+     id="title2">instacart</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="g887"
+     transform="matrix(3.1960596,0,0,3.1960596,-38.900642,-59.396212)">
+    <path
+       d="m 25.204664,26.61076 c 1.185103,1.190882 2.154012,3.140781 1.599398,4.299168 -1.483375,3.098165 -12.550482,8.531282 -13.490699,7.591126 -0.940159,-0.94022 4.497131,-12.011444 7.595299,-13.494812 1.158546,-0.554755 3.108778,0.414563 4.299674,1.599893 0,0 -0.0012,0.0016 -0.0037,0.0046 v 0 z"
+       id="Carrot_2_"
+       inkscape:connector-curvature="0"
+       style="fill:#ff8200;fill-rule:evenodd;stroke:none;stroke-width:0.05794412" />
+    <path
+       d="m 31.067843,25.302824 c 5.8e-5,-4.3e-5 1.15e-4,-5.8e-5 1.15e-4,-5.8e-5 -0.192703,-0.71261 -0.683856,-1.432526 -1.417048,-1.517808 -1.344641,-0.156411 -3.46439,2.220974 -3.313135,2.785285 0.151198,0.564319 3.145711,1.558911 4.264367,0.754936 0.576605,-0.414393 0.657707,-1.309507 0.468313,-2.02305 l -0.0026,7.01e-4 v 0 z m -4.161834,-6.586773 c 0.999013,0.270305 2.008077,0.958858 2.127593,1.98668 0.219257,1.885242 -3.113937,4.857141 -3.905102,4.645135 -0.791222,-0.212007 -2.185665,-4.410459 -1.058485,-5.978883 0.581012,-0.808381 1.836027,-0.922126 2.836419,-0.656546 -1e-6,0 -1.16e-4,0.0012 -4.06e-4,0.0036 v 0 z"
+       id="Leaves_2_"
+       inkscape:connector-curvature="0"
+       style="fill:#43b02a;fill-rule:evenodd;stroke:none;stroke-width:0.05794412" />
+  </g>
+</svg>

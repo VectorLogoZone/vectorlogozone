@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 120 60.000002"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="infoworld-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>InfoWorld_logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="0.87106225"
+     inkscape:cx="54.53112"
+     inkscape:cy="49.884998"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <title
+     id="title2">InfoWorld_logo</title>
+  <g
+     id="g837"
+     transform="matrix(0.25696372,0,0,0.25696372,9.9999994,19.886536)">
+    <path
+       sodipodi:nodetypes="cccccccccccccc"
+       inkscape:connector-curvature="0"
+       style="fill:#7e072e;fill-opacity:1"
+       id="path4"
+       d="m 22.08,11.89 h 9 V 2.79 H 0 v 9.1 H 8.83 V 68.5 H 0 v 9.13 H 31.06 V 68.5 h -9 V 11.89 Z" />
+    <path
+       style="fill:#7e072e;fill-opacity:1"
+       id="path6"
+       d="m 64.1,20.14 c -4.67,0 -9.38,2 -14,6 l -2.72,2.34 v -7.4 H 27.53 v 8.73 h 6.69 v 47.7 h 13.17 v -40 L 48,37 c 3.46,-2.78 6.94,-4.19 10.35,-4.19 a 5.72,5.72 0 0 1 5.11,2.5 c 0.95,1.47 1.4,3.83 1.4,7.42 V 77.51 H 78 V 41.29 C 78,27.06 73.47,20.14 64.1,20.14 Z m 45.82,0.49 H 97.48 v -3.46 c 0,-5.6 1.94,-7.52 4.88,-8.7 2.67,-1.07 7.07,-0.86 10.84,1.34 V 2.29 A 27.83,27.83 0 0 0 102.26,0 c -5.41,0 -10,1.85 -12.72,5.07 a 19.74,19.74 0 0 0 -4.31,13 v 2.55 h -5.94 v 9.19 h 5.94 V 77.63 H 97.39 V 29.82 h 12.52 v -9.19 z m 24.78,-0.96 a 27.09,27.09 0 0 0 -19.57,7.8 c -5.34,5.22 -8,12.53 -8,21.72 0,9.19 2.7,16.5 8,21.72 a 28.47,28.47 0 0 0 39.24,-0.09 c 5.26,-5.28 7.94,-12.55 7.94,-21.63 0,-9.08 -2.7,-16.5 -8,-21.72 a 27.07,27.07 0 0 0 -19.61,-7.8 z m 9.9,44 a 11.86,11.86 0 0 1 -10,5.14 A 11.18,11.18 0 0 1 124.36,63 c -2.09,-3.51 -3.14,-8 -3.14,-13.35 0,-13.42 4.51,-20.23 13.42,-20.23 a 11.61,11.61 0 0 1 10.08,5.44 c 2.3,3.37 3.47,8.05 3.47,13.91 0,6.65 -1.19,11.65 -3.59,14.88 z m 111.97,-44 A 27,27 0 0 0 237,27.48 c -5.34,5.22 -8,12.53 -8,21.72 0,9.19 2.71,16.5 8,21.72 a 28.47,28.47 0 0 0 39.24,-0.09 c 5.27,-5.28 7.94,-12.55 7.94,-21.63 0,-9.08 -2.7,-16.5 -8,-21.72 a 27,27 0 0 0 -19.61,-7.81 z m 9.89,44 A 11.83,11.83 0 0 1 256.51,68.81 11.2,11.2 0 0 1 246.23,63 c -2.07,-3.51 -3.12,-8 -3.12,-13.35 0,-13.42 4.51,-20.23 13.41,-20.23 a 11.61,11.61 0 0 1 10.09,5.44 c 2.29,3.37 3.44,8.05 3.44,13.91 -0.05,6.65 -1.2,11.65 -3.59,14.88 z M 302.67,35.42 V 21.08 h -18.31 v 8.73 h 5.31 v 47.7 h 13.23 v -20 c 0,-5.25 0.3,-9.63 2,-13.36 1.74,-3.93 4.05,-6.55 6.86,-7.76 a 29.27,29.27 0 0 1 9.3,-1.64 V 20.17 c -6.06,0 -15.21,6.2 -18.39,15.25 z"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:#7e072e;fill-opacity:1"
+       id="path8"
+       d="m 319.91,9.92 h 4.79 v 67.71 h 13.4 V 0.46 h -18.19 z m 50.64,-9.46 v 9.46 h 5.17 V 25.1 a 16.72,16.72 0 0 0 -12.19,-5.43 c -6.21,0 -11.51,2.64 -15.79,7.8 -4.28,5.16 -6.49,12.53 -6.49,21.72 0,9.19 2.18,16.5 6.48,21.72 4.3,5.22 9.59,7.8 15.79,7.8 a 17.08,17.08 0 0 0 12.19,-5.4 v 4.19 h 13.45 v -77 h -18.61 z m 3.84,63.19 c -2.21,3.42 -5.16,5.14 -8.76,5.14 -4,0 -7.07,-1.95 -9.06,-5.79 -1.84,-3.51 -2.76,-8 -2.76,-13.35 0,-13.42 4,-20.23 11.82,-20.23 3.73,0 6.72,1.82 8.88,5.44 2,3.37 3,8.05 3,13.91 0.05,6.65 -1.02,11.65 -3.11,14.88 z M 237.82,12.52 v -10 h -21.58 v 10 h 6 l -9.74,44 L 202.2,2.56 V 2.49 h -17.54 v 10 h 6.88 v 0.26 L 182.22,56.6 171.66,12.52 h 6.46 v -10 H 153 v 10 h 5.28 c 0,0 16.59,63.67 16.9,64.72 H 186 L 196,33 l 9.79,44.27 h 11.68 c 0.33,-1.07 14.74,-64.72 14.74,-64.72 h 5.56 z"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
