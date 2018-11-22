@@ -12,15 +12,15 @@ redirect_from: /logos/missing.html
 {%- assign guidecount = 0 %}
 
 <table class="table table-striped table-bordered">
-  	<thead>
-		    <tr>
-			<th>ID</th>
+    <thead>
+        <tr>
+            <th class="text-center d-none d-lg-table-cell d-print-table-cell">ID</th>
             <th>Name</th>
             <th>Icon</th>
             <th>Rectangle</th>
-            <th style="text-align:center;">Other</th>
-            <th style="text-align:center;">Guidelines</th>
-            <th style="text-align:center;">SVGPorn</th>
+            <th class="text-center d-none d-lg-table-cell d-print-table-cell">Other</th>
+            <th class="text-center d-none d-lg-table-cell d-print-table-cell">Guidelines</th>
+            <th class="text-center d-none d-lg-table-cell d-print-table-cell">SVGPorn</th>
         </tr>
     </thead>
     <tbody>
@@ -34,15 +34,15 @@ redirect_from: /logos/missing.html
             {%- if logopage.images contains logoar21 %}{% assign othercount = othercount | minus:1 %}{% endif -%}
             {%- if logopage.images contains logoicon %}{% assign othercount = othercount | minus:1 %}{% endif -%}
         <tr>
-            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.logohandle}}</a></td>
-            <td>{{logopage.title | default: "(untitled)"}}</td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell"><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.logohandle}}</a></td>
+            <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
             <td>{% unless logopage.images contains logoicon %}MISSING{% endunless %}</td>
             <td>{% unless logopage.images contains logoar21 %}MISSING{% endunless %}</td>
-            <td style="text-align:center;">{% if othercount > 0 %}{{othercount}}{% endif %}</td>
-            <td style="text-align:center;">
-                {%- if logopage.guide %}{%- assign guidecount = guidecount | plus:1 %}<a href="{{logopage.guide}}"><i class="fa fa-certificate"></i></a>{% endif %}
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">{% if othercount > 0 %}{{othercount}}{% endif %}</td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">
+                {%- if logopage.guide %}{%- assign guidecount = guidecount | plus:1 %}<a href="{{logopage.guide}}"><i class="fa fa-certificate"></i></a>{% endif -%}
             </td>
-            <td style="text-align:center;">
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">
                 {%- if site.data.svgporn contains logopage.logohandle %}
                     {%- assign svgporncount = svgporncount | plus:1 %}
                     {%- for img in site.data.svgporn[logopage.logohandle] %}
@@ -55,19 +55,19 @@ redirect_from: /logos/missing.html
                 {%- endif -%}
             </td>
         </tr>
-        {% endif %}
-    {% endif %}
-{% endfor %}
+        {%- endif %}
+    {%- endif %}
+{%- endfor %}
     </tbody>
     <tfoot>
-        <tr>
+        <tr class="d-none d-lg-table-row d-print-table-row">
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell"></td>
             <td></td>
             <td></td>
             <td></td>
-            <td></td>
-            <td></td>
-            <td>{{guidecount}}</td>
-            <td>{{svgporncount}}</td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell"></td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">{{guidecount}}</td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">{{svgporncount}}</td>
         </tr>
     </tfoot>
 </table>

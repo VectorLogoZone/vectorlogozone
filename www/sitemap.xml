@@ -17,10 +17,13 @@ layout: none
         {%- assign pagecount = pagecount | plus:1 %}
         {%- if thePage.logohandle %}
             {%- for theImage in thePage.images %}
+                {%- capture extension %}{{theImage|split:'.'|last}}{% endcapture %}
+                {%- if extension == 'svg' %}
         <image:image>
             <image:loc>{{site.production_url}}{{ thePage.url }}{{theImage}}</image:loc>
         </image:image>
-        {%- endfor %}
+                {%- endif %}
+            {%- endfor %}
         {%- endif %}
     </url>
     {%- endif %}
