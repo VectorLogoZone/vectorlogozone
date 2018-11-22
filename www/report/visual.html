@@ -7,7 +7,7 @@ redirect_from: /logos/visual.html
 {%- assign pagesize = 100 -%}
 {%- assign pagecount = 0 -%}
 {%- assign imgcount = 0 -%}
-{%- if jekyll.environment != "production" -%}
+{%- if jekyll.environment == "production" -%}
 {%- for logopage in sorted_pages %}
     {%- if logopage.logohandle %}
         {%- if logopage.images %}
@@ -89,4 +89,6 @@ redirect_from: /logos/visual.html
         changeTab();
     });
 </script>
+{%- else -%}
+<p>Disabled in development to speed up Jekyll</p>
 {%- endif %}
