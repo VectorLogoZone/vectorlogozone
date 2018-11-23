@@ -1,6 +1,6 @@
 ---
 facebook: 'https://facebook.com/shopify'
-googleplus: 'https://plus.google.com/+shopify/'
+googleplus: 'https://plus.google.com/+shopify'
 instagram: 'https://instagram.com/shopify'
 linkedin: 'https://linkedin.com/company/shopify'
 logohandle: shopify

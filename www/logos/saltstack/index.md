@@ -2,7 +2,7 @@
 blog: 'https://saltstack.com/blog'
 facebook: 'https://facebook.com/SaltStack'
 github: saltstack
-googleplus: 'https://plus.google.com/u/0/+SaltStackInc/posts'
+googleplus: 'https://plus.google.com/u/0/+SaltStackInc'
 linkedin: 'https://linkedin.com/company/salt-stack-inc'
 logohandle: saltstack
 sort: saltstack

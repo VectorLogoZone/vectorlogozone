@@ -1,6 +1,6 @@
 ---
 facebook: 'https://facebook.com/InfoWorld'
-googleplus: 'https://plus.google.com/100116140147692954063/posts'
+googleplus: 'https://plus.google.com/+infoworld'
 linkedin: 'https://linkedin.com/company/164364'
 logohandle: infoworld
 sort: infoworld

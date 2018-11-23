@@ -1,6 +1,6 @@
 ---
 facebook: https://www.facebook.com/Citrix/
-googleplus: https://plus.google.com/+citrix/posts
+googleplus: 'https://plus.google.com/+citrix'
 instagram: https://instagram.com/citrix/
 linkedin: https://en.wikipedia.org/wiki/Citrix_Systems
 logohandle: citrix

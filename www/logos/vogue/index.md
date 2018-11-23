@@ -1,7 +1,6 @@
 ---
 facebook: 'http://facebook.com/vogue'
-googleplus: >-
-  https://plus.google.com/share?url=https://www.vogue.com/article/best-fashion-instagrams-rihanna-louis-vuitton-lil-miquela-peggy-gou?mbid=social_onsite_googleplus
+googleplus: 'https://plus.google.com/+Vogue'
 instagram: 'http://instagram.com/voguemagazine'
 logohandle: vogue
 pinterest: 'http://pinterest.com/voguemagazine'

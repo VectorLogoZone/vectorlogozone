@@ -1,6 +1,6 @@
 ---
 facebook: 'https://www.facebook.com/oppiaorg'
-googleplus: 'https://plus.google.com/109898456505810251700/about'
+googleplus: 'https://plus.google.com/109898456505810251700'
 logohandle: oppia
 sort: oppia
 title: Oppia
