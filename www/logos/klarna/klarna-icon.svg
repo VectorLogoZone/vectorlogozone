@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg140"
+   sodipodi:docname="klarna-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata144">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Group 4</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview142"
+     showgrid="false"
+     inkscape:zoom="4.1043478"
+     inkscape:cx="83.787992"
+     inkscape:cy="40.65864"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg140"
+     showguides="false" />
+  <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Group 4</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs33">
+    <rect
+       id="path-1"
+       x="143"
+       y="0"
+       width="123"
+       height="123"
+       rx="61.5" />
+    <filter
+       x="-0.146"
+       y="-0.146"
+       width="1.293"
+       height="1.293"
+       filterUnits="objectBoundingBox"
+       id="filter-2">
+      <feMorphology
+         radius="1"
+         operator="dilate"
+         in="SourceAlpha"
+         result="shadowSpreadOuter1"
+         id="feMorphology7" />
+      <feOffset
+         dx="0"
+         dy="0"
+         in="shadowSpreadOuter1"
+         result="shadowOffsetOuter1"
+         id="feOffset9" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur11" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0.254901961   0 0 0 0 0.549019608  0 0 0 0.05 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix13" />
+    </filter>
+    <rect
+       id="path-3"
+       x="144"
+       y="313"
+       width="123"
+       height="123"
+       rx="61.5" />
+    <filter
+       x="-0.146"
+       y="-0.146"
+       width="1.293"
+       height="1.293"
+       filterUnits="objectBoundingBox"
+       id="filter-4">
+      <feMorphology
+         radius="1"
+         operator="dilate"
+         in="SourceAlpha"
+         result="shadowSpreadOuter1"
+         id="feMorphology17" />
+      <feOffset
+         dx="0"
+         dy="0"
+         in="shadowSpreadOuter1"
+         result="shadowOffsetOuter1"
+         id="feOffset19" />
+      <feGaussianBlur
+         stdDeviation="5"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur21" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0.254901961   0 0 0 0 0.549019608  0 0 0 0.05 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix23" />
+    </filter>
+    <polygon
+       id="path-5"
+       points="0,39.839622 0,0.11778587 61.778234,0.11778587 61.778234,39.839622 " />
+    <polygon
+       id="path-7"
+       points="0,0.39163366 0,15.515768 0,30.639902 65.901132,30.639902 65.901132,0.39163366 " />
+    <polygon
+       id="path-9"
+       points="0.17227403,0.14643486 12.261694,0.14643486 12.261694,11.760112 0.17227403,11.760112 " />
+    <polygon
+       id="path-11"
+       points="0.00019263437,43.115361 59.408439,43.115361 59.408439,0.228861 0.00019263437,0.228861 " />
+    <polygon
+       id="path-13"
+       points="0,0.033794023 56.754653,0.033794023 56.754653,21.433426 56.754653,42.833058 0,42.833058 0,21.433426 " />
+    <polygon
+       id="path-15"
+       points="0,46.15388 56.754653,46.15388 56.754653,0 0,0 " />
+    <polygon
+       id="path-17"
+       points="0,0.8001 47.3,0.8001 47.3,21.40005 47.3,42 0,42 0,21.40005 " />
+    <mask
+       fill="white"
+       id="mask-16">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use97"
+         xlink:href="#path-15" />
+    </mask>
+    <mask
+       id="mask-18"
+       fill="white">
+      <use
+         xlink:href="#path-17"
+         id="use120"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+    <mask
+       id="mask-14"
+       fill="white">
+      <use
+         xlink:href="#path-13"
+         id="use90"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+    <mask
+       id="mask-12"
+       fill="white">
+      <use
+         xlink:href="#path-11"
+         id="use82"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+    <mask
+       id="mask-10"
+       fill="white">
+      <use
+         xlink:href="#path-9"
+         id="use68"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+    <mask
+       id="mask-8"
+       fill="white">
+      <use
+         xlink:href="#path-7"
+         id="use59"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+    <mask
+       id="mask-6"
+       fill="white">
+      <use
+         xlink:href="#path-5"
+         id="use48"
+         x="0"
+         y="0"
+         width="100%"
+         height="100%" />
+    </mask>
+  </defs>
+  <path
+     style="fill:#e9778d;fill-rule:evenodd;stroke:none;stroke-width:2.57457638"
+     inkscape:connector-curvature="0"
+     id="path115"
+     d="M 55.303179,0 H 41.548262 c -0.227237,14.436924 -8.63942,26.941393 -20.68917,33.07994 L 42.11665,64 H 59.396674 L 40.071623,35.921856 C 49.619322,26.486677 55.075809,13.754863 55.303179,0 Z M 4.6033265,64 H 18.812934 V 0 H 4.6033265 Z"
+     sodipodi:nodetypes="cccccccccccc" />
+</svg>

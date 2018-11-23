@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="laravel-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Laravel</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="6.78"
+     inkscape:cx="43.76855"
+     inkscape:cy="19.737586"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#ef533f;}</style>
+  </defs>
+  <title
+     id="title6">Laravel</title>
+  <path
+     class="cls-1"
+     d="M 39.754669,53.776841 A 0.98489198,0.98489198 0 0 1 38.90733,53.298151 L 31.451864,40.863202 17.509316,44.654209 A 0.98489198,0.98489198 0 0 1 16.408877,44.159014 L 0.11689271,13.533825 a 0.98489198,0.98489198 0 0 1 0.7372941,-1.441572 L 14.686692,10.232511 a 0.98489198,0.98489198 0 0 1 0.979388,0.467687 L 32.365225,38.56879 51.771451,33.292189 45.300875,24.153051 a 0.98489198,0.98489198 0 0 1 0.55022,-1.529608 l 9.078613,-2.145853 a 0.98489198,0.98489198 0 0 1 0.995896,0.341133 l 7.857128,9.810407 a 0.98489198,0.98489198 0 0 1 -0.511706,1.568123 l -8.253284,2.250394 7.224376,10.179052 a 0.98489198,0.98489198 0 0 1 -0.47869,1.5021 l -21.695135,7.587518 a 0.98489198,0.98489198 0 0 1 -0.313624,0.06054 z M 33.427148,40.323988 40.183839,51.592471 59.876177,44.698228 52.998439,35.00337 Z M 2.5213509,13.841949 17.767918,42.541369 30.422953,39.108004 14.30704,12.273824 Z m 45.2500091,10.366124 6.052407,8.533898 7.526996,-2.046815 -6.547604,-8.154248 z"
+     id="path8"
+     inkscape:connector-curvature="0"
+     style="fill:#ef533f;stroke-width:0.550219" />
+</svg>

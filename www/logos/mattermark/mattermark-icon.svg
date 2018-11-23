@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="color"
+   viewBox="0 0 63.999995 64.000001"
+   version="1.1"
+   sodipodi:docname="mattermark-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata34">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>mm-fc-logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview32"
+     showgrid="false"
+     inkscape:zoom="2.1227965"
+     inkscape:cx="81.694559"
+     inkscape:cy="44.998569"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="color" />
+  <defs
+     id="defs13">
+    <style
+       id="style2">.cls-1,.cls-2{fill:none}.cls-2{clip-rule:evenodd}.cls-3{clip-path:url(#clip-path)}.cls-4{clip-path:url(#clip-path-2)}.cls-5{fill:#00bcd4}.cls-6{clip-path:url(#clip-path-4)}.cls-7{fill:#333}.cls-8{fill:#c4161c}</style>
+    <clipPath
+       id="clip-path">
+      <path
+         class="cls-1"
+         d="m -130.82,-172.66 h 1540 v 1191 h -1540 z"
+         id="path4"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-2">
+      <path
+         class="cls-1"
+         d="M 260,189.78 318.81,131 274.59,86.63 216.24,145.48 Z M 329.7,131 259.51,201.25 204.32,146 274.5,75.78 Z M 304.79,56.36 159.92,201.36 109.35,150.26 248.71,0.24 Z m -189.56,89 L 159.93,190 293.45,56.39 248.76,11.66 Z M 147.05,0.24 203.13,56.36 58.26,201.36 2.18,145.22 Z m -133.5,145 44.74,44.72 L 191.75,56.34 147.09,11.65 Z"
+         id="path7"
+         inkscape:connector-curvature="0"
+         style="fill:none" />
+    </clipPath>
+    <clipPath
+       id="clip-path-4">
+      <path
+         class="cls-2"
+         d="m 1206.7,154.69 h 7.35 v -18.6 l 18.6,-18.75 30.3,37.35 h 9.3 l -34.5,-42.6 33.45,-33.9 h -9.75 l -47.4,49.05 v -82 h -7.35 z m -60.55,0 h 7.35 v -31.35 c 0,-24.9 15.45,-38.25 33.15,-38.25 h 0.75 V 77 c -15.15,-0.6 -27.9,9.3 -33.9,23 V 78.19 h -7.35 z m -63,-5.1 c -11.7,0 -22.2,-6.45 -22.2,-17.55 v -0.3 c 0,-10.65 9,-17.85 25.2,-17.85 a 101.41,101.41 0 0 1 26,3.45 V 126 c -0.01,14 -13.36,23.59 -28.96,23.59 z m -0.45,6.9 c 14.55,0 24,-7.2 29.25,-14.55 v 12.75 h 7.2 V 107 c 0,-9.45 -2.7,-16.5 -7.8,-21.6 -5.55,-5.55 -13.8,-8.4 -24.15,-8.4 -10.5,0 -18.75,2.7 -27.15,6.6 l 2.7,6.45 a 51.26,51.26 0 0 1 24,-6.15 c 15.75,0 25.2,8 25.2,23.4 v 3.3 a 92,92 0 0 0 -25.35,-3.3 c -19.8,0 -33.45,9 -33.45,24.9 v 0.3 c 0.04,15.89 15.34,23.99 29.59,23.99 z m -166.45,-1.8 h 7.35 v -44.1 c 0,-15.45 10.8,-27.45 24.45,-27.45 13.65,0 22.35,9.75 22.35,25.65 v 45.9 h 7.35 v -44.55 c 0,-17.1 11.25,-27 24.15,-27 14.09,0 22.64,9.6 22.64,26.1 v 45.45 h 7.35 v -46.35 c 0,-19.2 -11.25,-31.95 -29.4,-31.95 -14.39,0 -22.64,8 -27.59,16.5 -4.2,-8.85 -12.45,-16.5 -25.8,-16.5 -13.65,0 -20.55,7.5 -25.5,15.45 V 78.19 h -7.35 z m -60.56,0 h 7.35 v -31.35 c 0,-24.9 15.45,-38.25 33.15,-38.25 H 897 V 77 c -15.15,-0.6 -27.9,9.3 -33.9,23 V 78.19 h -7.35 z m -85.61,-41.85 c 1.35,-17 13,-29.7 28.2,-29.7 17.55,0 26.4,14.25 27.45,29.7 z m 29.7,43.65 c 14.7,0 23.85,-6 31.65,-14.4 l -5.1,-4.5 c -6.3,6.75 -14.4,12 -26.25,12 -15,0 -28.65,-11.1 -30,-30.15 h 63.45 a 19.12,19.12 0 0 0 0.15,-3 c 0,-22.65 -13.65,-40 -35.1,-40 -20.7,0 -36.3,17.7 -36.3,39.9 v 0.3 c 0.04,23.8 17.44,39.85 37.54,39.85 z M 734.77,156 a 28.09,28.09 0 0 0 12.45,-2.7 v -6.9 a 25.62,25.62 0 0 1 -11.25,2.7 c -8.85,0 -15.3,-3.9 -15.3,-14.85 V 84.94 h 26.85 V 78.19 H 720.67 V 53.74 h -7.35 v 24.45 h -11.1 v 6.75 h 11.1 V 135 c 0,14.59 9.6,21 21.45,21 z m -60.56,0 a 28.09,28.09 0 0 0 12.45,-2.7 v -6.9 a 25.62,25.62 0 0 1 -11.25,2.7 c -8.85,0 -15.3,-3.9 -15.3,-14.85 V 84.94 H 687 V 78.19 H 660.11 V 53.74 h -7.35 v 24.45 h -11.1 v 6.75 h 11.1 V 135 c 0,14.59 9.6,21 21.45,21 z m -87.7,-6.45 c -11.7,0 -22.2,-6.45 -22.2,-17.55 v -0.3 c 0,-10.65 9,-17.85 25.2,-17.85 a 101.41,101.41 0 0 1 26,3.45 v 8.7 c -0.05,14 -13.4,23.59 -29,23.59 z m -0.45,6.9 c 14.55,0 24,-7.2 29.25,-14.55 v 12.75 h 7.2 V 107 c 0,-9.45 -2.7,-16.5 -7.8,-21.6 -5.55,-5.55 -13.8,-8.4 -24.15,-8.4 -10.35,0 -18.75,2.7 -27.15,6.6 l 2.7,6.45 a 51.26,51.26 0 0 1 24,-6.15 c 15.75,0 25.2,8 25.2,23.4 v 3.3 a 92,92 0 0 0 -25.35,-3.3 c -19.8,0 -33.45,9 -33.45,24.9 v 0.3 c 0,15.89 15.3,23.99 29.55,23.99 z m -166.46,-1.8 h 7.4 v -44.1 c 0,-15.45 10.8,-27.45 24.45,-27.45 13.65,0 22.35,9.75 22.35,25.65 v 45.9 h 7.35 v -44.51 c 0,-17.1 11.25,-27 24.15,-27 14.1,0 22.65,9.6 22.65,26.1 v 45.45 h 7.35 v -46.35 c 0,-19.2 -11.25,-31.95 -29.4,-31.95 -14.4,0 -22.65,8 -27.6,16.5 -4.2,-8.85 -12.45,-16.5 -25.8,-16.5 -13.65,0 -20.55,7.5 -25.5,15.45 V 78.19 h -7.4 z"
+         id="path10"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill:none" />
+    </clipPath>
+  </defs>
+  <title
+     id="title15">mm-fc-logo</title>
+  <g
+     class="cls-3"
+     clip-path="url(#clip-path)"
+     id="g21"
+     transform="matrix(0.19540791,0,0,0.19540791,-0.42598859,12.302883)">
+    <g
+       class="cls-4"
+       clip-path="url(#clip-path-2)"
+       id="g19">
+      <path
+         class="cls-5"
+         d="M -2.82,-4.76 H 334.7 v 211.1 H -2.82 Z"
+         id="path17"
+         inkscape:connector-curvature="0"
+         style="fill:#00bcd4" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="-4.48 -7.08 64 64"
+   xml:space="preserve"
+   sodipodi:docname="spire-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata34"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs32">
+	
+	
+
+		
+	
+		
+		
+		
+		
+		
+	
+			<linearGradient
+   y2="46.582901"
+   x2="251.4527"
+   y1="288.01669"
+   x1="59.199799"
+   gradientUnits="userSpaceOnUse"
+   id="SVGID_1_"
+   gradientTransform="translate(0,-412.16)">
+				<stop
+   id="stop16"
+   style="stop-color:#0CB0D1"
+   offset="0" />
+				<stop
+   id="stop18"
+   style="stop-color:#9ACA3E"
+   offset="1" />
+			</linearGradient>
+			
+		</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview30"
+   showgrid="false"
+   inkscape:zoom="1.9993222"
+   inkscape:cx="53.883275"
+   inkscape:cy="83.881239"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#595A5C;}
+	.st2{fill:url(#SVGID_1_);}
+</style>
+<g
+   id="g868"
+   transform="matrix(0.1845109,0,0,0.1845109,-0.31639274,68.444551)"><path
+     class="st2"
+     d="m 239.1,-409.16 c -5.7,-1 -11.1,2.7 -12.1,8.4 l -12.4,68.2 h 21.3 l 11.7,-64.5 c 1,-5.6 -2.8,-11.1 -8.5,-12.1 z m -164.2,8.4 c -1.1,-5.7 -6.5,-9.4 -12.2,-8.4 -5.7,1 -9.4,6.5 -8.4,12.1 l 11.6,64.5 h 21.4 z m 201.7,281.9 -42.8,-180.2 h 22.6 c 5.2,0 9.5,-4.3 9.5,-9.5 0,-5.1 -4.3,-9.4 -9.5,-9.4 h -82.9 v 20 H 190 l -28.6,21.9 v -85.7 c 0,-5.8 -4.7,-10.4 -10.5,-10.4 -5.8,0 -10.4,4.7 -10.4,10.4 v 85.7 l -28.6,-21.9 h 16.4 v -20 H 45.4 c -5.2,0 -9.4,4.3 -9.4,9.4 0,5.2 4.2,9.5 9.4,9.5 H 68 l -42.9,180.4 c -1.3,5.6 2.1,11.3 7.7,12.6 0.8,0.2 1.6,0.2 2.4,0.2 4.7,0 9,-3.2 10.1,-8 l 22.9,-96 72.2,53.1 v 83.9 c 0,5.8 4.7,10.4 10.4,10.4 5.8,0 10.5,-4.7 10.5,-10.4 v -83.9 l 72.1,-53.1 22.8,95.8 c 1.2,4.8 5.4,8 10.2,8 0.8,0 1.7,-0.1 2.4,-0.3 5.7,-1.3 9.2,-6.9 7.8,-12.5 z m -136.1,-63.8 -46.8,-34.5 h 34.6 v -20.9 H 75 l 12.5,-52.2 53,40.6 z m 67.7,-34.5 -46.8,34.5 v -67.1 l 53,-40.6 12.4,52.2 h -53.3 v 21 z"
+     id="path21"
+     inkscape:connector-curvature="0"
+     style="fill:url(#SVGID_1_)" /></g>
+</svg>

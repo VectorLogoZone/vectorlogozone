@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="64"
+   height="64"
+   viewBox="0 0 63.999995 63.999999"
+   enable-background="new 0 0 289.726 70.998"
+   xml:space="preserve"
+   sodipodi:docname="philadelphiapact-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata27"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs25">
+	<defs
+   id="defs3">
+		<rect
+   y="0"
+   x="0"
+   height="70.998001"
+   width="289.72601"
+   id="SVGID_1_" />
+	</defs>
+	<clipPath
+   id="SVGID_2_">
+		<use
+   height="100%"
+   width="100%"
+   y="0"
+   x="0"
+   style="overflow:visible"
+   id="use5"
+   overflow="visible"
+   xlink:href="#SVGID_1_" />
+	</clipPath>
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview23"
+   showgrid="false"
+   inkscape:zoom="2.340142"
+   inkscape:cx="61.36275"
+   inkscape:cy="13.855421"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g855"
+   transform="matrix(0.82431736,0,0,0.82431736,73.62046,44.914996)"><polygon
+     transform="translate(-89.310821,-51.166504)"
+     clip-path="url(#SVGID_2_)"
+     points="16.976,14.889 16.976,27.768 16.976,46.279 25.514,41.293 25.514,29.81 25.514,19.918 25.514,14.889 60.735,35.499 25.514,56.109 25.514,56.101 16.976,61.029 16.976,70.998 29.826,63.479 65.047,42.868 77.64,35.499 65.047,28.13 29.826,7.52 16.976,0 16.976,11.871 "
+     id="polygon16"
+     style="fill:#faaf40" /><polygon
+     transform="translate(-89.310821,-51.166504)"
+     clip-path="url(#SVGID_2_)"
+     points="0,66.151 52.262,35.569 25.514,19.917 25.514,29.811 35.357,35.569 8.538,51.264 8.538,19.876 12.396,22.135 12.396,12.242 0,4.987 0,19.876 0,51.264 "
+     id="polygon18"
+     style="fill:#f05a28" /></g>
+</svg>

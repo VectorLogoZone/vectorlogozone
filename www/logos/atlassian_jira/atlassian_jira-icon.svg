@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 63.999998"
+   version="1.1"
+   id="svg46"
+   sodipodi:docname="jira-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata50">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Jira Software-blue</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview48"
+     showgrid="false"
+     inkscape:zoom="6.5709759"
+     inkscape:cx="71.589373"
+     inkscape:cy="19.647495"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg46" />
+  <defs
+     id="defs10">
+    <style
+       id="style2">.cls-1{fill:#253858;}.cls-2{fill:#2684ff;}.cls-3{fill:url(#linear-gradient);}.cls-4{fill:url(#linear-gradient-2);}</style>
+    <linearGradient
+       id="linear-gradient"
+       x1="34.639999"
+       y1="15.35"
+       x2="19"
+       y2="30.99"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0.18"
+         stop-color="#0052cc"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#2684ff"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="linear-gradient-2"
+       x1="38.779999"
+       y1="60.279999"
+       x2="54.389999"
+       y2="44.669998"
+       xlink:href="#linear-gradient"
+       gradientTransform="matrix(0.1351726,0,0,0.1351726,36.781435,27.083846)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient860"
+       gradientUnits="userSpaceOnUse"
+       x1="34.639999"
+       y1="15.35"
+       x2="19"
+       y2="30.99"
+       gradientTransform="matrix(0.1351726,0,0,0.1351726,36.781435,27.083846)" />
+  </defs>
+  <title
+     id="title12">Jira Software-blue</title>
+  <g
+     id="g896"
+     transform="matrix(6.2495874,0,0,6.2495874,-228.82126,-169.26286)">
+    <path
+       style="fill:#2684ff;stroke-width:0.13517261"
+       inkscape:connector-curvature="0"
+       id="path38"
+       d="m 46.567931,31.917618 -4.406627,-4.406627 -0.427145,-0.427145 v 0 l -3.317136,3.317136 v 0 l -1.516636,1.516636 a 0.4055178,0.4055178 0 0 0 0,0.573132 l 3.03057,3.03057 1.803202,1.803202 3.317136,-3.317135 0.05136,-0.05137 1.465271,-1.465271 a 0.4055178,0.4055178 0 0 0 0,-0.573132 z m -4.833772,1.800499 -1.513933,-1.513933 1.513933,-1.513933 1.513933,1.513933 z"
+       class="cls-2" />
+    <path
+       style="fill:url(#linearGradient860);stroke-width:0.13517261"
+       inkscape:connector-curvature="0"
+       id="path40"
+       d="m 41.734159,30.690251 a 2.5493552,2.5493552 0 0 1 -0.01081,-3.594239 l -3.31308,3.311728 1.803202,1.803203 z"
+       class="cls-3" />
+    <path
+       style="fill:url(#linear-gradient-2);stroke-width:0.13517261"
+       inkscape:connector-curvature="0"
+       id="path42"
+       d="m 43.252147,32.200129 -1.517988,1.517988 a 2.5493552,2.5493552 0 0 1 0,3.606405 v 0 l 3.321191,-3.321191 z"
+       class="cls-4" />
+  </g>
+</svg>

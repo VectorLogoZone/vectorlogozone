@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="tikv_1"
+   x="0px"
+   y="0px"
+   viewBox="-6.14 -0.44 120 59.999998"
+   xml:space="preserve"
+   sodipodi:docname="tikv-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata27"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs25">
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview23"
+   showgrid="false"
+   inkscape:zoom="7.3044603"
+   inkscape:cx="52.548908"
+   inkscape:cy="36.924949"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="tikv_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#353558;}
+	.st1{fill:#EC1A3B;}
+	.st2{fill:#FFFFFF;}
+</style>
+<g
+   id="g853"
+   transform="matrix(1.0937814,0,0,1.0937814,1.2856888,-2.9381988)"><g
+     transform="matrix(0.2255318,0,0,0.2255318,7.5246755,9.6923822)"
+     id="g8">
+		<polygon
+   class="st0"
+   points="248.17642,129.98532 222.5396,93.188934 212.88808,102.94098 212.88808,129.88478 192.47916,129.88478 192.47916,44.629768 212.88808,44.629768 212.88808,80.119179 246.36676,44.629768 270.69659,44.629768 236.41364,79.31488 273.61215,129.98532 "
+   id="polygon4"
+   style="fill:#353558" />
+		<polygon
+   class="st0"
+   points="335.04001,44.629768 357.76129,44.629768 328.90729,129.98532 306.78922,129.98532 278.53845,44.629768 300.95813,44.629768 317.84824,105.05225 319.15524,105.05225 "
+   id="polygon6"
+   style="fill:#353558" />
+	</g><g
+     transform="matrix(0.2255318,0,0,0.2255318,7.5246755,9.6923822)"
+     id="g18">
+		<polygon
+   class="st1"
+   points="1.7612809,46.037277 1.7612809,131.5939 84.100731,174.32195 166.13857,131.5939 166.13857,46.037277 84.100731,3.2087016 "
+   id="polygon10"
+   style="fill:#ec1a3b" />
+		<g
+   id="g16">
+			<polygon
+   class="st2"
+   points="32.525471,62.022594 84.000198,35.279865 104.50965,45.936745 78.470688,59.509182 78.470688,139.43576 58.363369,128.97995 58.363369,69.964989 32.525471,83.43689 "
+   id="polygon12"
+   style="fill:#ffffff" />
+			<polygon
+   class="st2"
+   points="99.181221,134.40892 99.181221,70.065521 119.59014,59.509182 119.59014,123.75205 "
+   id="polygon14"
+   style="fill:#ffffff" />
+		</g>
+	</g></g>
+</svg>

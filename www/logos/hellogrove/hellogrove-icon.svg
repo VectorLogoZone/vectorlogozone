@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   xml:space="preserve"
+   sodipodi:docname="grove-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata22"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Grove</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs20">
+	
+
+		
+	</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview18"
+   showgrid="false"
+   inkscape:zoom="3.1100917"
+   inkscape:cx="15.272861"
+   inkscape:cy="18"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#29313E;}
+</style>
+<title
+   id="title4">Grove</title>
+<desc
+   id="desc6">Created with Sketch.</desc>
+
+<g
+   id="g884"
+   transform="translate(-20.605576,-9.034476)"><path
+     style="fill:#29313e;stroke-width:1.78770947"
+     inkscape:connector-curvature="0"
+     d="m 32.046917,73.034476 v 0 h 23.061452 c 9.832403,0 17.877096,-8.044693 17.877096,-17.877096 v 0 H 49.92401 c -9.8324,0 -17.877093,8.044693 -17.877093,17.877096"
+     class="st0"
+     id="Fill-1-2" /><path
+     style="fill:#29313e;stroke-width:1.78770947"
+     inkscape:connector-curvature="0"
+     d="m 52.426805,40.498164 c -6.078214,0 -10.905028,-4.826817 -10.905028,-10.905028 0,-6.078213 4.826814,-10.905027 10.905028,-10.905027 6.078213,0 10.905027,4.826814 10.905027,10.905027 0,6.078211 -4.826814,10.905028 -10.905027,10.905028 z M 72.985465,9.034476 h -20.55866 v 0 c 0,0 0,0 0,0 -2.681565,0 -5.541899,0.5363124 -8.044693,1.60894 -2.324022,1.072624 -4.469274,2.502792 -6.435754,4.469273 -1.787709,1.78771 -3.396649,3.93296 -4.290504,6.435754 -1.072625,2.502794 -1.608937,5.184359 -1.608937,8.044693 0,2.860335 0.536312,5.363129 1.608937,8.044693 1.072627,2.502792 2.502795,4.648044 4.469274,6.435754 1.966482,1.966479 4.111732,3.396647 6.435754,4.469274 2.502794,1.072624 5.184358,1.608937 8.044693,1.608937 2.860337,0 5.541901,-0.536313 8.044695,-1.608937 2.502792,-1.072627 4.648044,-2.502795 6.435754,-4.469274 1.966479,-1.966482 3.396647,-4.111732 4.469274,-6.435754 1.072624,-2.502794 1.608937,-5.184358 1.608937,-8.044693 0,-2.860334 -0.536313,-5.363129 -1.608937,-8.044693 -0.357543,-0.715085 -0.715085,-1.60894 -1.072627,-2.324022 1.430169,-3.039107 2.502794,-6.435754 2.502794,-10.189945 z"
+     class="st0"
+     id="Fill-10-0" /></g></svg>

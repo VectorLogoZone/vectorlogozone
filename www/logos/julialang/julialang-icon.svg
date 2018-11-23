@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg28"
+   sodipodi:docname="julialang-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata32">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Asset 2</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview30"
+     showgrid="false"
+     inkscape:zoom="2.2136607"
+     inkscape:cx="21.45767"
+     inkscape:cy="49.32"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg28" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#1a1a1a;}.cls-2{fill:#4d64ae;}.cls-3{fill:#ca3c32;}.cls-4{fill:#9259a3;}.cls-5{fill:#399746;}</style>
+  </defs>
+  <title
+     id="title6">Asset 2</title>
+  <g
+     id="g898"
+     transform="matrix(0.38745848,0,0,0.38745848,30.332387,14.884435)">
+    <g
+       id="g893" />
+  </g>
+  <g
+     id="g898-6"
+     transform="matrix(0.38745848,0,0,0.38745848,29.400193,-72.687681)">
+    <g
+       id="g893-7" />
+  </g>
+  <g
+     id="g905-8"
+     transform="matrix(1.6330697,0,0,1.6330697,-158.24445,2.3352889)">
+    <g
+       id="g890-8">
+      <path
+         d="m 105.79,36.33 a 8.9,8.9 0 1 1 8.91,-8.9 8.91,8.91 0 0 1 -8.91,8.9 z"
+         class="cls-3"
+         id="path13-6"
+         inkscape:connector-curvature="0"
+         style="fill:#ca3c32" />
+      <path
+         d="m 127.18,36.33 a 8.9,8.9 0 1 1 8.91,-8.9 8.91,8.91 0 0 1 -8.91,8.9 z"
+         class="cls-4"
+         id="path25-1"
+         inkscape:connector-curvature="0"
+         style="fill:#9259a3" />
+      <path
+         d="m 116.49,17.8 a 8.9,8.9 0 1 1 8.9,-8.9 8.89,8.89 0 0 1 -8.9,8.9 z"
+         class="cls-5"
+         id="path31-4"
+         inkscape:connector-curvature="0"
+         style="fill:#399746" />
+    </g>
+  </g>
+</svg>
