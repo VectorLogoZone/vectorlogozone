@@ -1,6 +1,7 @@
 ---
 blog: https://www.gnome.org/news/
 facebook: https://www.facebook.com/GNOMEDesktop
+guide: https://www.gnome.org/logo-and-trademarks/
 images:
 - gnome-ar21.svg
 - gnome-icon.svg

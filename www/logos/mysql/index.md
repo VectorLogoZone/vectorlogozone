@@ -1,6 +1,7 @@
 ---
 facebook: http://www.facebook.com/mysql
 github: mysql
+guide: https://www.mysql.com/about/legal/logos.html
 images:
 - mysql-ar21.svg
 - mysql-horizontal.svg

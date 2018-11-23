@@ -1,6 +1,7 @@
 ---
 blog: https://nodejs.org/en/blog/
 github: nodejs
+guide: 'https://github.com/nodejs/nodejs.org/tree/master/static/images'
 images:
 - nodejs-icon.svg
 - nodejs-horizontal.svg
