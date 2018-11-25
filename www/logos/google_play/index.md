@@ -12,3 +12,5 @@ title: Google Play
 website: https://play.google.com/
 wikipedia: https://en.wikipedia.org/wiki/Google_Play
 ---
+
+Also see the [Google Play Badges](https://github.com/steverichey/google-play-badge-svg/tree/master/img) in multiple languages by [Steve Richey](http://www.steverichey.com/)
