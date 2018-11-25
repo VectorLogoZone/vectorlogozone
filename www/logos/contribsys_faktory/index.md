@@ -1,7 +1,7 @@
 ---
 github: contribsys/faktory
 logohandle: contribsys_faktory
-sort: Faktory
+sort: faktory
 title: Faktory
 website: 'http://contribsys.com/faktory/'
 ---
