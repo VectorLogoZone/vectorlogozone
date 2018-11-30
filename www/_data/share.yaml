@@ -1,0 +1,31 @@
+- id: facebook
+  img: facebook
+  alt: Share on Facebook
+  on_logo_page: true
+  on_other_page: false
+
+- id: twitter
+  img: twitter
+  alt: Share on Twitter
+  on_logo_page: true
+  on_other_page: true
+
+- id: pinterest
+  img: pinterest
+  alt: Share on Pinterest
+  on_logo_page: true
+  on_other_page: false
+
+- id: tumblr
+  img: tumblr
+  alt: Share on Tumblr
+  on_logo_page: true
+  on_other_page: false
+
+- id: hn
+  img: ycombinator
+  alt: Share on Hacker News
+  on_logo_page: true
+  on_other_page: true
+
+

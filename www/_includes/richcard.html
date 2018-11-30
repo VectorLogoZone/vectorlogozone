@@ -1,0 +1,13 @@
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "ImageObject",
+  "name": {{ page.title | default: "(untitled)" | jsonify }},
+  "description": "Vector (SVG) logos for {{ page.title | default: "(untitled)" | xml_escape}}",
+  "fileFormat": "image/svg+xml",
+  "thumbnailUrl": "{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-card.png",
+  "uploadDate": "{{site.time|date_to_xmlschema}}",
+  "contentUrl": "{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg",
+  "embedUrl": "{{site.production_url}}/util/preview.html?image=/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg"
+}
+</script>
