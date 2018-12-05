@@ -9,6 +9,8 @@ module Jekyll
     def generate(site)
       hash = %x( git rev-parse HEAD ).strip
       site.data['build_revision'] = hash
+      jekyll_version = %x( jekyll --version ).strip
+      site.data['jekyll_version'] = jekyll_version
     end
   end
 end

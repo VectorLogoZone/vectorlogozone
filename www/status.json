@@ -16,4 +16,4 @@ layout: none
         {%- endif %}
     {%- endif %}
 {%- endfor -%}
-{ "success":true, "message":"OK", "commit":"{{site.github.build_revision | default: site.data.build_revision | default: 'null' | slice: 0, 7 }}", "images": {{logocount}}, "lastmod":"{{site.time|date_to_xmlschema}}", "pages":{{pagecount}}, "pending":{{pendingcount}} }
+{ "success":true, "message":"OK", "commit":"{{site.github.build_revision | default: site.data.build_revision | default: 'null' | slice: 0, 7 }}", "tech": "{{site.data.jekyll_version | default: '(unknown)'}}", "images": {{logocount}}, "lastmod":"{{site.time|date_to_xmlschema}}", "pages":{{pagecount}}, "pending":{{pendingcount}} }
