@@ -1,6 +1,9 @@
 ---
-colors: ['#2C3E50']
+colors: ['#1D8286']
 facebook: https://www.facebook.com/VectorLogoZone/
+font:
+  google: https://fonts.google.com/specimen/Roboto
+  name: Roboto
 github: VectorLogoZone
 images:
 - vectorlogozone-icon.svg
