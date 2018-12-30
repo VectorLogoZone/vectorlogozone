@@ -1,10 +1,10 @@
 ---
 guide: https://book.mercurial-scm.org/
 images:
-- mercurial-ar21.svg
-- mercurial-icon.svg
+- mercurial-scm-ar21.svg
+- mercurial-scm-icon.svg
 layout: default
-logohandle: mercurial
+logohandle: mercurial-scm
 reddit: https://www.reddit.com/r/mercurial/
 sort: mercurial
 tags:
