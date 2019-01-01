@@ -29,7 +29,7 @@ Share:
 
 ## Contributing
 
-Contributions are welcome!  Please see the [Contribution Guidelines](CONTRIBUTING.md)!
+Contributions are welcome!  Please see the [Contribution Guidelines](https://github.com/VectorLogoZone/vlz-contrib)!
 
 ## Running
 
