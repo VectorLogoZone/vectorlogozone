@@ -7,4 +7,5 @@ sort: gulpjs
 title: gulp.js
 twitter: gulpjs
 website: 'https://gulpjs.com/'
+wikipedia: 'https://en.wikipedia.org/wiki/Gulp.js'
 ---
