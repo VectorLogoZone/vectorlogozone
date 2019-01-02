@@ -5,6 +5,9 @@
   "500px": [
     "500px.svg"
   ],
+  "adyen": [
+    "adyen.svg"
+  ],
   "airbnb": [
     "airbnb.svg"
   ],
@@ -16,6 +19,9 @@
   ],
   "akamai": [
     "akamai.svg"
+  ],
+  "alfresco": [
+    "alfresco.svg"
   ],
   "algolia": [
     "algolia.svg"
@@ -82,6 +88,9 @@
   "apache_tomcat": [
     "tomcat.svg"
   ],
+  "appdynamics": [
+    "appdynamics.svg"
+  ],
   "apple": [
     "apple.svg"
   ],
@@ -93,6 +102,9 @@
   ],
   "arangodb": [
     "arangodb.svg"
+  ],
+  "archlinux": [
+    "archlinux.svg"
   ],
   "arduino": [
     "arduino.svg"
@@ -112,6 +124,9 @@
   "authy": [
     "authy.svg"
   ],
+  "avali": [
+    "ava.svg"
+  ],
   "babeljs": [
     "babel.svg"
   ],
@@ -119,11 +134,17 @@
     "backbone-icon.svg",
     "backbone.svg"
   ],
+  "basekit": [
+    "basekit.svg"
+  ],
   "batsov_rubocop": [
     "rubocop.svg"
   ],
   "behance": [
     "behance.svg"
+  ],
+  "beminfo": [
+    "bem.svg"
   ],
   "bigpandaio": [
     "bigpanda.svg"
@@ -139,6 +160,9 @@
   ],
   "bitnami": [
     "bitnami.svg"
+  ],
+  "bitriseio": [
+    "bitrise.svg"
   ],
   "blogger": [
     "blogger.svg"
@@ -157,6 +181,9 @@
   ],
   "branchio": [
     "branch.svg"
+  ],
+  "brave": [
+    "brave.svg"
   ],
   "browserling": [
     "browserling.svg"
@@ -179,6 +206,9 @@
   "centos": [
     "centos-icon.svg",
     "centos.svg"
+  ],
+  "chaijs": [
+    "chai.svg"
   ],
   "chefio": [
     "chef.svg"
@@ -211,6 +241,9 @@
     "codepen-icon.svg",
     "codepen.svg"
   ],
+  "coderwall": [
+    "coderwall.svg"
+  ],
   "codeship": [
     "codeship.svg"
   ],
@@ -239,6 +272,9 @@
   "cucumberio": [
     "cucumber.svg"
   ],
+  "cypressio": [
+    "cypress.svg"
+  ],
   "d3js": [
     "d3.svg"
   ],
@@ -253,6 +289,9 @@
   ],
   "debian": [
     "debian.svg"
+  ],
+  "deployhq": [
+    "deploy.svg"
   ],
   "derbyjs": [
     "derby.svg"
@@ -275,15 +314,30 @@
   "docusaurus": [
     "docusaurus.svg"
   ],
+  "dojotoolkit": [
+    "dojo.svg"
+  ],
   "dotnet": [
     "dotnet.svg"
+  ],
+  "dreamhost": [
+    "dreamhost.svg"
   ],
   "dribbble": [
     "dribbble-icon.svg",
     "dribbble.svg"
   ],
+  "drift": [
+    "drift.svg"
+  ],
+  "droneio": [
+    "drone.svg"
+  ],
   "dropbox": [
     "dropbox.svg"
+  ],
+  "drupal": [
+    "drupal.svg"
   ],
   "duckduckgo": [
     "duckduckgo.svg"
@@ -296,6 +350,12 @@
   ],
   "eggheadio": [
     "egghead.svg"
+  ],
+  "elasticco_kibana": [
+    "kibana.svg"
+  ],
+  "elementaryio": [
+    "elementary.svg"
   ],
   "elm-lang": [
     "elm.svg"
@@ -328,8 +388,14 @@
   "facebook_relay": [
     "relay.svg"
   ],
+  "facebook_watchman": [
+    "watchman.svg"
+  ],
   "fastly": [
     "fastly.svg"
+  ],
+  "flarum": [
+    "flarum.svg"
   ],
   "flattr": [
     "flattr.svg"
@@ -344,11 +410,17 @@
   "formkeep": [
     "formkeep.svg"
   ],
+  "freebsd": [
+    "freebsd.svg"
+  ],
   "frontapp": [
     "frontapp.svg"
   ],
   "getbootstrap": [
     "bootstrap.svg"
+  ],
+  "getfedora": [
+    "fedora.svg"
   ],
   "getgrav": [
     "grav.svg"
@@ -406,6 +478,9 @@
     "google.svg",
     "google-2014.svg"
   ],
+  "google_admob": [
+    "admob.svg"
+  ],
   "google_adsense": [
     "google-adsense.svg"
   ],
@@ -421,13 +496,11 @@
   "google_plus": [
     "google-plus.svg"
   ],
-  "google_v8": [
-    "v8.svg",
-    "v8-ignition.svg",
-    "v8-turbofan.svg"
-  ],
   "gradle": [
     "gradle.svg"
+  ],
+  "grafana": [
+    "grafana.svg"
   ],
   "grails": [
     "grails.svg"
@@ -441,8 +514,14 @@
   "gratipay": [
     "gratipay.svg"
   ],
+  "graylog": [
+    "graylog.svg"
+  ],
   "gruntjs": [
     "grunt.svg"
+  ],
+  "gulpjs": [
+    "gulp.svg"
   ],
   "gunicorn": [
     "gunicorn.svg"
@@ -461,6 +540,9 @@
   ],
   "hapijs": [
     "hapi.svg"
+  ],
+  "hashnode": [
+    "hashnode.svg"
   ],
   "haskell": [
     "haskell.svg"
@@ -508,6 +590,12 @@
   "ironio": [
     "iron.svg"
   ],
+  "jamstack": [
+    "jamstack.svg"
+  ],
+  "jasmine": [
+    "jasmine.svg"
+  ],
   "java": [
     "java.svg"
   ],
@@ -544,6 +632,12 @@
   "json": [
     "json.svg"
   ],
+  "julialang": [
+    "julia.svg"
+  ],
+  "karma-runner": [
+    "karma.svg"
+  ],
   "keycdn": [
     "keycdn.svg"
   ],
@@ -555,6 +649,9 @@
   ],
   "kissmetrics": [
     "kissmetrics.svg"
+  ],
+  "knockoutjs": [
+    "knockout.svg"
   ],
   "kotlinlang": [
     "kotlin.svg"
@@ -580,6 +677,9 @@
   "linkedin": [
     "linkedin.svg"
   ],
+  "linkerdio": [
+    "linkerd.svg"
+  ],
   "linode": [
     "linode.svg"
   ],
@@ -591,6 +691,9 @@
   ],
   "loggly": [
     "loggly.svg"
+  ],
+  "loopbackio": [
+    "loopback.svg"
   ],
   "lua": [
     "lua.svg"
@@ -618,6 +721,9 @@
   "medium": [
     "medium.svg"
   ],
+  "memcached": [
+    "memcached.svg"
+  ],
   "mesosphere": [
     "mesosphere.svg"
   ],
@@ -637,6 +743,9 @@
   "mochajs": [
     "mocha.svg"
   ],
+  "modx": [
+    "modx.svg"
+  ],
   "momentjs": [
     "momentjs.svg"
   ],
@@ -648,6 +757,12 @@
   ],
   "neo4j": [
     "neo4j.svg"
+  ],
+  "neovimio": [
+    "neovim.svg"
+  ],
+  "nestjs": [
+    "nestjs.svg"
   ],
   "netflix": [
     "netflix.svg",
@@ -669,9 +784,15 @@
   "nodemonio": [
     "nodemon.svg"
   ],
+  "nomadprojectio": [
+    "nomad.svg"
+  ],
   "npmjs": [
     "npm.svg",
     "npm-2.svg"
+  ],
+  "nuxtjs": [
+    "nuxt.svg"
   ],
   "ocaml": [
     "ocaml.svg"
@@ -745,11 +866,17 @@
   "prometheusio": [
     "prometheus.svg"
   ],
+  "protractortest": [
+    "protactor.svg"
+  ],
   "puppylinux": [
     "puppy-linux.svg"
   ],
   "python": [
     "python.svg"
+  ],
+  "pytorch": [
+    "pytorch.svg"
   ],
   "qtio": [
     "qt.svg"
@@ -787,6 +914,12 @@
   "redis": [
     "redis.svg"
   ],
+  "reduxjs.org": [
+    "redux.svg"
+  ],
+  "requirejs": [
+    "require.svg"
+  ],
   "rocksdb": [
     "rocksdb.svg"
   ],
@@ -808,8 +941,20 @@
   "sass-lang": [
     "sass.svg"
   ],
+  "saucelabs": [
+    "saucelabs.svg"
+  ],
   "scala-lang": [
     "scala.svg"
+  ],
+  "sectionio": [
+    "sectionio.svg"
+  ],
+  "segment": [
+    "segment.svg"
+  ],
+  "seleniumhq": [
+    "selenium.svg"
   ],
   "semaphoreci": [
     "semaphore.svg"
@@ -844,6 +989,9 @@
   "snapsvgio": [
     "snap-svg.svg"
   ],
+  "socketio": [
+    "socket.io.svg"
+  ],
   "soundcloud": [
     "soundcloud.svg"
   ],
@@ -859,7 +1007,7 @@
   "stackoverflow": [
     "stackoverflow.svg"
   ],
-  "stackshare": [
+  "stackshareio": [
     "stackshare.svg"
   ],
   "steampowered": [
@@ -892,11 +1040,20 @@
   "suse": [
     "suse.svg"
   ],
+  "symfony": [
+    "symfony.svg"
+  ],
+  "tastejs": [
+    "tastejs.svg"
+  ],
   "teamtreehouse": [
     "treehouse.svg"
   ],
   "telegram": [
     "telegram.svg"
+  ],
+  "tensorflow": [
+    "tensorflow.svg"
   ],
   "terraformio": [
     "terraform.svg"
@@ -954,6 +1111,9 @@
   "victorops": [
     "victorops.svg"
   ],
+  "vim": [
+    "vim.svg"
+  ],
   "vimeo": [
     "vimeo-icon.svg",
     "vimeo.svg"
@@ -963,6 +1123,12 @@
   ],
   "visualstudio_code": [
     "visual-studio-code.svg"
+  ],
+  "vivaldi": [
+    "vivaldi.svg"
+  ],
+  "vultr": [
+    "vultr.svg"
   ],
   "w3_svg": [
     "svg.svg"
@@ -990,6 +1156,9 @@
   ],
   "wi-fi": [
     "wifi.svg"
+  ],
+  "wix": [
+    "wix.svg"
   ],
   "wufoo": [
     "wufoo.svg"
