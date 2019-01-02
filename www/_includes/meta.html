@@ -137,10 +137,19 @@
 	<meta property="og:type" content="article">
 	<meta property="og:title" content="{{page.title}} Vector (SVG) Logos">
 	<meta property="og:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
-	<meta property="og:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-card.png">
+	<meta property="og:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg">
     <meta property="og:site_name" content="VectorLogoZone">
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:title" content="{{page.title}} Vector (SVG) Logos">
 	<meta name="twitter:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
 	<meta name="twitter:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-card.png">
+    <script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "ImageObject",
+      "contentUrl": "{{page.logohandle}}-ar21.svg",
+      "description": "Vector (SVG) logo for {{page.title}}",
+      "name": "{{page.title}} SVG Logo"
+    }
+    </script>
 	{%- endif -%}
