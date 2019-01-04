@@ -1432,5 +1432,6 @@
   "zipmark": "https://www.zipmark.com/favicon.ico",
   "zoho": "https://www.zoho.com/sites/all/themes/zoho/favicon.ico",
   "zoomus": "https://d24cgw3uvb9a9h.cloudfront.net/zoom.ico",
-  "zulipchat": "https://zulipchat.com/static/favicon.ico?v=2"
+  "zulipchat": "https://zulipchat.com/static/favicon.ico?v=2",
+  "zuul": "https://zuul-ci.org/favicon.ico"
 }
