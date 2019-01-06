@@ -3,8 +3,8 @@
 #
 
 google_analytics_id: UA-328425-25
-#exclude: [ "*.sh", "**/*_src*", "logos/" ]
-exclude: [ "*.sh", "**/*_src*" ]
+exclude: [ "*.sh", "**/*_src*", "logos/[b-z]*" ]
+#exclude: [ "*.sh", "**/*_src*" ]
 permalink: /news/:year/:month/:day/:title/index.:output_ext
 production_url: https://www.vectorlogo.zone
 indexpage: index.html
