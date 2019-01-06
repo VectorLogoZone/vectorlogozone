@@ -4,14 +4,27 @@
 # - requires python-scour
 # - see http://codedread.com/scour/ for details
 #
-# original size: 84 MB
+# original size: 86 MB
 
 set -o errexit
 set -o pipefail
 set -o nounset
 
 #
-# svgo - fails on gruntjs
+# svgcleaner - https://github.com/RazrFalcon/svgcleaner
+# end result: 28MB
+# 
+for filename in ../www/logos/**/*.svg; do
+	echo -n "INFO: processing ${filename}: "
+	./svgcleaner --copy-on-error "${filename}" "${filename}_tmp.svg"
+
+	rm "${filename}"
+	mv "${filename}_tmp.svg" "${filename}"
+done
+exit 0
+
+#
+# svgo - fails on gruntjs, doesn't compress especially well
 #
 for filename in ../www/logos/**/[g]*.svg; do
     svgo $filename

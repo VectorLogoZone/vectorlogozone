@@ -11,6 +11,8 @@ install:
 - sudo python3 -m pip install python-frontmatter commonmark scour
 - gem install jekyll
 - gem install jekyll-redirect-from
+- wget https://github.com/RazrFalcon/svgcleaner-gui/releases/download/v0.9.5/svgcleaner_linux_x86_64_0.9.5.tar.gz -O bin/svgcleaner.tar.gz
+- tar -xvzf bin/svgcleaner.tar.gz --directory bin
 before_script:
 - cd bin
 - python3 chksvgname.py
@@ -19,7 +21,7 @@ before_script:
 - python3 frontmatter_update.py
 - python3 fm2tag.py
 - python3 mkamp.py
-#- "./svg-clean.sh"
+- "./svg-clean.sh"
 - cd ..
 script:
 - jekyll build --source www --verbose --profile
