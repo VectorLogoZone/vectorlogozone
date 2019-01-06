@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   xml:space="preserve"
+   sodipodi:docname="zuul-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
+   id="metadata4052"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs4050" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1111"
+   inkscape:window-height="738"
+   id="namedview4048"
+   showgrid="false"
+   inkscape:zoom="1.888"
+   inkscape:cx="72"
+   inkscape:cy="62.5"
+   inkscape:window-x="432"
+   inkscape:window-y="238"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style4043">
+	.st0{fill:#071D49;}
+</style>
+<path
+   class="st0"
+   d="M 0.52966095,58.70339 H 64.550847 L 50.901886,35.051118 v -8.091567 l 3.779029,-4.934966 H 43.343829 L 32.540255,3.2183616 21.736679,21.980126 H 10.399594 l 3.779028,4.934967 V 35.00666 Z M 14.178622,55.502331 H 6.1315147 L 14.178622,41.542155 Z m 5.601854,0 H 17.424141 V 36.384893 h 2.356335 z m 0,-22.318497 h -2.356335 v -2.356336 h 2.356335 z M 30.939725,55.502331 H 22.981536 V 36.384893 h 7.913729 z m 11.159249,0 h -7.95819 V 36.384893 h 7.91373 v 19.072978 h 0.04446 z m 0,-22.318497 H 22.981536 v -2.356336 h 19.072978 z m 5.557394,22.318497 H 45.300033 V 36.384893 h 2.356335 z m 0,-22.318497 h -2.356335 v -2.356336 h 2.356335 z m 3.245518,8.313862 8.047108,13.960175 h -8.047108 c 0,0.04446 0,-13.960175 0,-13.960175 z M 32.540255,9.7538579 39.60926,22.024585 H 25.471248 Z m 15.605163,15.5162461 -0.48905,0.622428 v 1.733907 H 17.424141 V 25.892532 L 16.93509,25.270104 Z"
+   id="path4045"
+   inkscape:connector-curvature="0"
+   style="fill:#071d49;stroke-width:0.44459158" />
+</svg>
