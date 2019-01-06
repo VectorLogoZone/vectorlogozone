@@ -1,10 +1,10 @@
 ---
 images:
-- zuul-official.svg
-- zuul-ar21.svg
-- zuul-icon.svg
+- zuul-ci-official.svg
+- zuul-ci-ar21.svg
+- zuul-ci-icon.svg
 layout: default
-logohandle: zuul
+logohandle: zuul-ci
 sort: zuul
 tags:
 - software
