@@ -7,6 +7,7 @@ images:
 - pocoo_flask-official.svg
 - pocoo_flask-card.png
 logohandle: pocoo_flask
+posted: true
 sort: flask
 tags:
 - python

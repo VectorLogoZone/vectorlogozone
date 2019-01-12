@@ -8,6 +8,7 @@ images:
 - jekyllrb-ar21.svg
 layout: default
 logohandle: jekyllrb
+posted: true
 sort: jekyll
 tags:
 - static_website

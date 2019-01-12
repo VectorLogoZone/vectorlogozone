@@ -7,6 +7,7 @@ images:
 - curl_haxx-card.png
 - curl_haxx-ar21.svg
 logohandle: curl_haxx
+posted: true
 sort: curl
 title: curl
 website: https://curl.haxx.se/

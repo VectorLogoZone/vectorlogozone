@@ -6,6 +6,7 @@ images:
 - darksky-card.png
 - darksky-ar21.svg
 logohandle: darksky
+posted: true
 sort: darksky
 title: Darksky
 twitter: darkskyapp

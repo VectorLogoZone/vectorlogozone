@@ -10,6 +10,7 @@ images:
 - amazon_aws-ar21.svg
 layout: default
 logohandle: amazon_aws
+posted: true
 sort: amazon web services
 tags:
 - hosting
@@ -18,5 +19,5 @@ tags:
 title: Amazon Web Services
 twitter: awscloud
 website: https://aws.amazon.com/
-youtube:  https://youtube.com/user/AmazonWebServices
+youtube: https://youtube.com/user/AmazonWebServices
 ---

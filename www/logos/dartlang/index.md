@@ -16,6 +16,7 @@ images:
 - dartlang-icon.svg
 - dartlang-ar21.svg
 logohandle: dartlang
+posted: true
 sort: dartlang
 tags:
 - programming_language

@@ -12,6 +12,7 @@ images:
 - codepen-icon.svg
 instagram: https://www.instagram.com/codepen/
 logohandle: codepen
+posted: true
 sort: codepen
 title: CodePen
 twitter: CodePen

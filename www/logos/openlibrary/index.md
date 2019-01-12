@@ -5,6 +5,7 @@ images:
 - openlibrary-icon.svg
 - openlibrary-ar21.svg
 logohandle: openlibrary
+posted: true
 sort: openlibrary
 title: OpenLibrary
 website: https://openlibrary.org/

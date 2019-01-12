@@ -7,6 +7,7 @@ images:
 - centos-card.png
 - centos-icon.svg
 logohandle: centos
+posted: true
 sort: centos
 title: CentOS
 website: https://www.centos.org/

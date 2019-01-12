@@ -1,6 +1,7 @@
 ---
 blog: https://about.udemy.com/blog
-colors: ['#EA5252']
+colors:
+- '#EA5252'
 facebook: https://www.facebook.com/udemy
 github: udemy
 guide: https://about.udemy.com/newbrand/
@@ -13,6 +14,7 @@ instagram: https://www.instagram.com/udemy/
 linkedin: https://www.linkedin.com/company/udemy
 logohandle: udemy
 pinterest: https://www.pinterest.com/udemy/
+posted: true
 sort: udemy
 title: Udemy
 twitter: udemy

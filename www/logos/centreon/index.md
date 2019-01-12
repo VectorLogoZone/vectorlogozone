@@ -1,11 +1,12 @@
 ---
-blog: 'https://centreon.com/en/blog'
-facebook: 'https://facebook.com/CentreonMonitoring'
+blog: https://centreon.com/en/blog
+facebook: https://facebook.com/CentreonMonitoring
 github: centreon
-linkedin: 'https://linkedin.com/company/merethis'
+linkedin: https://linkedin.com/company/merethis
 logohandle: centreon
+posted: true
 sort: centreon
 title: Centreon
 twitter: Centreon
-website: 'https://www.centreon.com/en/'
+website: https://www.centreon.com/en/
 ---

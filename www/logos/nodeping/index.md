@@ -8,6 +8,7 @@ images:
 - nodeping-icon.svg
 layout: default
 logohandle: nodeping
+posted: true
 sort: nodeping
 tags:
 - monitoring

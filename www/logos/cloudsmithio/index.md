@@ -1,12 +1,13 @@
 ---
-blog: 'https://blog.cloudsmith.io/'
-facebook: 'https://facebook.com/cloudsmith.io'
+blog: https://blog.cloudsmith.io/
+facebook: https://facebook.com/cloudsmith.io
 github: cloudsmith-io
-linkedin: 'https://linkedin.com/company/cloudsmith'
+linkedin: https://linkedin.com/company/cloudsmith
 logohandle: cloudsmithio
+posted: true
 sort: cloudsmith
 title: Cloudsmith
 twitter: cloudsmith_io
-website: 'https://cloudsmith.io/'
-youtube: 'https://youtube.com/channel/UCO8NZYdzB3RgO4HXkHG7QiQ'
+website: https://cloudsmith.io/
+youtube: https://youtube.com/channel/UCO8NZYdzB3RgO4HXkHG7QiQ
 ---

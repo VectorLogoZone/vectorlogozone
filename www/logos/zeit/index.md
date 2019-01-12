@@ -9,6 +9,7 @@ images:
 - zeit-card.png
 linkedin: https://www.linkedin.com/company/16181286/
 logohandle: zeit
+posted: true
 sort: zeit
 tags:
 - hosting

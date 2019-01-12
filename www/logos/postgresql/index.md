@@ -13,6 +13,7 @@ images:
 - postgresql-card.png
 - postgresql-vertical.svg
 logohandle: postgresql
+posted: true
 sort: postgresql
 tags:
 - database

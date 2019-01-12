@@ -8,6 +8,7 @@ images:
 - ecosia-icon.svg
 - ecosia-card.png
 logohandle: ecosia
+posted: true
 sort: ecosia
 title: ecosia
 twitter: ecosia

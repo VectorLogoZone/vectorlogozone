@@ -11,6 +11,7 @@ images:
 - adobe-icon.svg
 - adobe-card.png
 logohandle: adobe
+posted: true
 sort: adobe
 tags:
 - graphics

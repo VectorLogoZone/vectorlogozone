@@ -9,6 +9,7 @@ images:
 - yeoman-icon.svg
 layout: default
 logohandle: yeoman
+posted: true
 sort: yeoman
 tags:
 - webdev

@@ -6,6 +6,7 @@ images:
 - ocaml-icon.svg
 - ocaml-card.png
 logohandle: ocaml
+posted: true
 sort: ocaml
 title: OCaml
 website: https://ocaml.org/

@@ -6,6 +6,7 @@ images:
 - scala-lang-ar21.svg
 - scala-lang-icon.svg
 logohandle: scala-lang
+posted: true
 sort: scala
 title: Scala
 twitter: scala_lang

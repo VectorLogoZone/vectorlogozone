@@ -1,12 +1,12 @@
 ---
-facebook: 'https://facebook.com/lifehacker'
-instagram: 'https://instagram.com/lifehackerdotcom'
+facebook: https://facebook.com/lifehacker
+instagram: https://instagram.com/lifehackerdotcom
 logohandle: lifehacker
+posted: true
 sort: lifehacker
 title: lifehacker
 twitter: lifehacker
-website: 'https://lifehacker.com/'
+website: https://lifehacker.com/
 wikipedia: https://en.wikipedia.org/wiki/Lifehacker
-youtube: 'https://youtube.com/howtoadhd'
+youtube: https://youtube.com/howtoadhd
 ---
-
