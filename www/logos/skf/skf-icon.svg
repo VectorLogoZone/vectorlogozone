@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg138"
+   sodipodi:docname="skf-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata142">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Artboard 2</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview140"
+     showgrid="false"
+     inkscape:zoom="1.2649254"
+     inkscape:cx="-77.15128"
+     inkscape:cy="85.553658"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg138" />
+  <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Artboard 2</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs22">
+    <path
+       d="M 172,19.124668 C 154.34676,7.057429 132.99756,0 110,0 49.248677,0 0,49.248677 0,110 c 0,60.75132 49.248677,110 110,110 60.75132,0 110,-49.24868 110,-110 0,-6.82993 -0.62247,-13.514475 -1.81376,-20 H 186 c -7.73199,0 -14,-6.268013 -14,-14 z"
+       id="path-1"
+       inkscape:connector-curvature="0" />
+    <filter
+       x="-0.094999999"
+       y="-0.068000004"
+       width="1.191"
+       height="1.191"
+       filterUnits="objectBoundingBox"
+       id="filter-2">
+      <feOffset
+         dx="0"
+         dy="6"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset7" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur9" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0963541667 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix11" />
+    </filter>
+    <rect
+       id="path-3"
+       x="193"
+       y="6"
+       width="330"
+       height="150"
+       rx="6" />
+    <filter
+       x="-0.064000003"
+       y="-0.1"
+       width="1.127"
+       height="1.28"
+       filterUnits="objectBoundingBox"
+       id="filter-4">
+      <feOffset
+         dx="0"
+         dy="6"
+         in="SourceAlpha"
+         result="shadowOffsetOuter1"
+         id="feOffset15" />
+      <feGaussianBlur
+         stdDeviation="6"
+         in="shadowOffsetOuter1"
+         result="shadowBlurOuter1"
+         id="feGaussianBlur17" />
+      <feColorMatrix
+         values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.0963541667 0"
+         type="matrix"
+         in="shadowBlurOuter1"
+         id="feColorMatrix19" />
+    </filter>
+  </defs>
+  <rect
+     style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1"
+     height="347"
+     width="536"
+     y="-283"
+     x="0"
+     id="Clip" />
+  <path
+     style="fill:#0d56db;fill-rule:nonzero;stroke:none;stroke-width:0.8210963;fill-opacity:1"
+     inkscape:connector-curvature="0"
+     id="path129"
+     d="M 64.000002,54.425598 C 64.000002,59.7504 59.699206,64 54.4256,64 H 9.6000053 C 4.295682,64 1.59e-6,59.7504 1.59e-6,54.425598 V 9.6000003 C 1.59e-6,4.3007998 4.2982438,-1.4e-7 9.6000053,-1.4e-7 H 54.4256 c 5.273606,0 9.574402,4.29875214 9.574402,9.60000044 V 54.425598" />
+  <g
+     id="g12-3"
+     transform="matrix(0.0380178,0,0,0.0380178,7.7636525,26.29733)"
+     style="fill:#ffffff">
+    <g
+       id="g10-2"
+       style="fill:#ffffff">
+      <path
+         class="st0"
+         d="m 363.7,300 c 6.2,0 11.2,-5 11.2,-11.3 v -165 c 0,-6.2 -5,-11.3 -11.3,-11.2 H 157.5 c -4.1,0 -7.5,-3.4 -7.5,-7.5 V 45 c 0,-4.1 3.4,-7.5 7.5,-7.5 h 60 c 4.1,0 7.5,3.4 7.5,7.5 v 18.8 c 0,6.2 5,11.2 11.2,11.2 h 90 c 6.2,0 11.3,-5 11.3,-11.2 V 11.2 C 337.5,5 332.5,0 326.2,0 H 48.7 C 42.5,0 37.5,5 37.5,11.3 v 127.5 c 0,6.2 5,11.2 11.3,11.2 H 255 c 4.1,0 7.5,3.4 7.5,7.5 V 255 c 0,4.1 -3.4,7.5 -7.5,7.5 H 120 c -4.1,0 -7.5,-3.4 -7.5,-7.5 v -56.2 c 0,-6.2 -5,-11.2 -11.3,-11.2 h -90 c -6.2,0 -11.3,5 -11.3,11.2 v 90 C 0,295 5,300 11.3,300 Z"
+         id="path4-1"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         class="st0"
+         d="m 562.5,192.3 c 0,-1 0.8,-1.9 1.9,-1.9 0.5,0 1,0.2 1.3,0.5 0.3,0.3 104.9,105 105.8,105.9 0.6,0.6 3.4,3.2 7.9,3.2 h 134.4 c 6.2,0 11.2,-5 11.2,-11.2 v -90 c 0,-6.2 -5,-11.2 -11.2,-11.2 h -97 c -4.3,0 -7.1,-2.4 -7.8,-3.1 -1.4,-1.4 -70.2,-70.3 -70.6,-70.6 -0.3,-0.3 -0.6,-0.8 -0.6,-1.3 0,-0.5 0.2,-1 0.6,-1.3 0.3,-0.3 32.3,-32.4 32.8,-32.9 1.8,-1.8 4.6,-3.2 7.9,-3.2 2.8,0 97.1,0 97.1,0 6.2,0 11.3,-5 11.3,-11.2 V 11.5 c 0,-6.2 -5,-11.2 -11.2,-11.2 h -96.9 c -4.5,0 -7.2,2.6 -7.9,3.2 -0.6,0.3 -105.5,105.3 -105.8,105.6 -0.3,0.3 -0.8,0.5 -1.3,0.5 -1,0 -1.9,-0.8 -1.9,-1.9 V 11.2 C 562.5,5 557.5,0 551.2,0 H 442.5 c -6.2,0 -11.2,5 -11.2,11.2 v 90 c 0,6.2 5,11.3 11.2,11.3 4.1,0 7.5,3.4 7.5,7.5 v 60 c 0,4.1 -3.4,7.5 -7.5,7.5 -6.2,0 -11.2,5 -11.2,11.2 v 90 c 0,6.2 5,11.3 11.2,11.3 h 108.7 c 6.2,0 11.3,-5 11.3,-11.3 z"
+         id="path6-6"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+      <path
+         class="st0"
+         d="m 1001.2,300 c 6.2,0 11.3,-5 11.3,-11.3 v -90 c 0,-6.2 -5,-11.2 -11.3,-11.2 -4.1,0 -7.5,-3.4 -7.5,-7.5 v -22.5 c 0,-4.2 3.4,-7.5 7.5,-7.5 h 41.2 c 4.1,0 7.5,3.4 7.5,7.5 0,6.2 5,11.2 11.3,11.2 h 90.1 c 6.2,0 11.2,-5 11.2,-11.2 V 105 c 0,-6.2 -5,-11.2 -11.2,-11.2 h -90.1 c -6.2,0 -11.3,5 -11.3,11.2 0,4.1 -3.4,7.5 -7.5,7.5 h -41.2 c -4.1,0 -7.5,-3.4 -7.5,-7.5 V 45 c 0,-4.1 3.4,-7.5 7.5,-7.5 h 116.3 c 4.1,0 7.5,3.4 7.5,7.5 v 18.8 c 0,6.2 5,11.2 11.3,11.2 h 127.5 c 6.2,0 11.3,-5 11.3,-11.2 V 11.2 C 1275.1,5 1270.1,0 1263.8,0 H 892.5 c -6.2,0 -11.2,5 -11.2,11.2 v 90 c 0,6.2 5,11.3 11.2,11.3 4.1,0 7.5,3.4 7.5,7.5 v 60 c 0,4.1 -3.4,7.5 -7.5,7.5 -6.2,0 -11.2,5 -11.2,11.2 v 90 c 0,6.2 5,11.3 11.2,11.3 z"
+         id="path8-4"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Ebene_1"
+   data-name="Ebene 1"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="deque_axe-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>deque</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="4.52"
+     inkscape:cx="45.612526"
+     inkscape:cy="34.864575"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Ebene_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#0075c9;}</style>
+  </defs>
+  <title
+     id="title6">deque</title>
+  <g
+     id="g828"
+     transform="matrix(2.6839622,0,0,2.6839622,-39.078201,-40.902397)">
+    <path
+       style="fill:#0075c9;stroke-width:0.25871003"
+       inkscape:connector-curvature="0"
+       id="path16"
+       d="m 23.333891,30.823992 a 2.9655931,2.9655931 0 1 1 0,0.0062 0.025871,0.025871 0 0 1 0,-0.0062"
+       class="cls-1" />
+    <path
+       style="fill:#0075c9;stroke-width:0.25871003"
+       inkscape:connector-curvature="0"
+       id="path18"
+       d="M 34.811303,30.690756 V 15.239558 h -4.063559 v 8.396693 a 8.3164926,8.3164926 0 1 0 -4.251899,15.448611 8.215337,8.215337 0 0 0 2.224906,-0.310452 0.53190782,0.53190782 0 0 0 0.07451,-0.01863 v -3.281737 a 2.0073311,2.0073311 0 0 1 -0.428165,0.263625 4.8598679,4.8598679 0 0 1 -2.08779,0.418852 5.0042281,5.0042281 0 0 1 -3.72232,-1.550967 5.5363946,5.5363946 0 0 1 0.03104,-7.587706 5.1457425,5.1457425 0 0 1 3.799933,-1.55226 c 0.769404,0 2.32037,0.204639 3.272682,0.955416 0.874699,0.69179 1.814592,1.699983 1.783547,4.342965 0,0.784668 0,4.305452 0.01863,6.653763 a 3.4553312,3.4553312 0 0 0 0.39712,-0.310452 8.291139,8.291139 0 0 0 2.949294,-6.120303 v 0 -0.297775"
+       class="cls-1" />
+  </g>
+</svg>

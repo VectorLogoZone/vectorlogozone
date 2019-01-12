@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg59"
+   sodipodi:docname="appaloosa-icon.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata63">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo exportable asset for website</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview61"
+     showgrid="false"
+     inkscape:zoom="7.7931034"
+     inkscape:cx="55.371191"
+     inkscape:cy="24.954833"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg59" />
+  <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">logo exportable asset for website</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs12">
+    <linearGradient
+       x1="33.392284"
+       y1="16.472828"
+       x2="9.3205051"
+       y2="45.515553"
+       id="linearGradient-1"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(3.150442,5.79646)">
+      <stop
+         stop-color="#F08D4A"
+         offset="0%"
+         id="stop6" />
+      <stop
+         stop-color="#E75E31"
+         offset="100%"
+         id="stop8" />
+    </linearGradient>
+    <path
+       d="M 7.9646018,13.748648 V 0 H 47.787611 V 37.433628 H 35.466016 C 32.39491,43.572544 26.048103,47.787611 18.716814,47.787611 8.3798031,47.787611 0,39.407807 0,29.070796 0,22.735343 3.147743,17.135084 7.9646018,13.748648 Z"
+       id="path-2"
+       inkscape:connector-curvature="0" />
+    <mask
+       fill="white"
+       id="mask-3">
+      <use
+         height="100%"
+         width="100%"
+         y="0"
+         x="0"
+         id="use16"
+         xlink:href="#path-2" />
+    </mask>
+  </defs>
+  <g
+     id="g1155"
+     transform="matrix(1.1748629,0,0,1.1748629,3.9136591,-7.5807137)">
+    <circle
+       id="Orange-Circle"
+       cx="21.867256"
+       cy="34.867256"
+       r="18.716814"
+       style="fill:url(#linearGradient-1);fill-rule:evenodd;stroke:none;stroke-width:1" />
+    <g
+       transform="rotate(45,12.115737,42.995003)"
+       id="g49"
+       style="fill:none;fill-rule:evenodd;stroke:none;stroke-width:1">
+      <path
+         d="m 24.217979,22.210555 c -0.12677,0.01628 -5.053814,10.063053 -20.3258038,11.267245 0,0 5.7382205,-11.99124 20.3258038,-11.267245"
+         id="Fill-12"
+         inkscape:connector-curvature="0"
+         style="fill:#a22b30" />
+      <path
+         d="M 24.217979,22.179043 C 24.091209,22.195366 19.164165,32.27024 3.8921752,33.4778 3.8910434,33.429572 12.023176,23.953841 24.217979,22.179043"
+         id="Fill-13"
+         inkscape:connector-curvature="0"
+         style="fill:#8e3127" />
+      <polyline
+         id="Fill-14"
+         points="6.31105874 33.4778 4.32463913 15.5247516 5.18944502 14.228065 6.91942261 33.1618933 6.31105874 33.4778"
+         style="fill:#00a2b6" />
+      <polygon
+         id="Fill-15"
+         points="5.1647024,14.090938 5.9827413,23.06915 9.0817422,18.800933 8.263644,7.1140325 "
+         style="fill:#6ac1b9" />
+      <polygon
+         id="Fill-16"
+         points="4.3145654,14.734803 5.2568518,23.824478 1.4850325,20.203716 -3.126388e-013,8.36945 "
+         style="fill:#6ac1b9" />
+      <polyline
+         id="Fill-17"
+         points="9.7238378 32.640855 6.91942261 7.9889592 7.85133801 6.69556 10.3791339 32.3257492 9.7238378 32.640855"
+         style="fill:#00a2b6" />
+      <polyline
+         id="Fill-18"
+         points="8.64994732 15.901955 11.6765257 11.6869008 10.8583484 -1.7408297e-13 7.85522541 6.9109069"
+         style="fill:#efa684" />
+      <polygon
+         id="Fill-19"
+         points="6.848743,7.2155727 7.868189,16.329057 4.079816,12.671211 2.5947835,0.836945 "
+         style="fill:#efa684" />
+      <polyline
+         id="Fill-20"
+         points="13.2304814 31.3854375 11.2440617 13.4324138 12.1092335 12.1357025 13.8388452 31.0698921 13.2304814 31.3854375"
+         style="fill:#00a2b6" />
+      <polygon
+         id="Fill-21"
+         points="12.10899,12.386909 12.920679,21.361394 16.001165,17.127043 15.182988,5.4401425 "
+         style="fill:#9cca7c" />
+      <polygon
+         id="Fill-22"
+         points="11.198648,12.648171 12.183853,21.758892 8.4043505,18.111353 6.9194226,6.2770875 "
+         style="fill:#9cca7c" />
+      <polyline
+         id="Fill-23"
+         points="20.5720233 26.78224 19.89334 8.75858174 20.9078825 7.53250499 21.1907317 26.1723191 20.5720233 26.78224"
+         style="fill:#00a2b6" />
+      <polygon
+         id="Fill-24"
+         points="20.758268,7.6305306 21.000584,16.728869 24.123459,12.701079 24.217979,0.836945 "
+         style="fill:#f9d69c" />
+      <polyline
+         id="Fill-25"
+         points="20.3755705 17.1074387 16.7364421 13.1868972 16.0011648 1.67389 20.0813918 8.37884079"
+         style="fill:#f9d69c" />
+      <polyline
+         id="Fill-26"
+         points="17.2985565 29.561604 17.2316116 12.4877985 16.0011648 11.2987575 16.4836142 30.13002 17.2985565 29.561604"
+         style="fill:#00a2b6" />
+      <polygon
+         id="Fill-27"
+         points="16.068864,11.887077 16.358345,20.905919 12.737424,16.984896 12.10899,5.02167 "
+         style="fill:#fac922" />
+      <polygon
+         id="Fill-28"
+         points="17.077091,11.704957 17.227145,21.191005 20.586768,17.156902 20.702136,4.9150016 "
+         style="fill:#fac922" />
+      <g
+         id="Group-36"
+         transform="translate(7.211894,4.894839)"
+         style="fill:#ab462c">
+        <polyline
+           id="Fill-30"
+           points="0.00122685938 50.7635483 0.00122685938 54.1097836 1.81544624 54.1097836 1.81544624 50.6587616" />
+        <polyline
+           id="Fill-31"
+           points="2.48880364 50.7635483 2.48880364 54.1097836 4.30302303 54.1097836 4.30302303 50.6587616" />
+        <polyline
+           id="Fill-32"
+           points="4.97638043 50.7635483 4.97638043 54.1097836 6.79059981 54.1097836 6.79059981 50.6587616" />
+        <polyline
+           id="Fill-33"
+           points="7.46395721 50.7635483 7.46395721 54.1097836 9.27817659 54.1097836 9.27817659 50.6587616" />
+        <polyline
+           id="Fill-34"
+           points="9.95191102 50.7635483 9.95191102 54.1097836 11.7661304 54.1097836 11.7661304 50.6587616" />
+        <polyline
+           id="Fill-35"
+           points="12.4394878 50.7635483 12.4394878 54.1097836 14.2537072 54.1097836 14.2537072 50.6587616" />
+      </g>
+      <path
+         d="M 3.8921752,33.230058 7.1315967,55.656843 21.394332,55.4326 24.217979,22.179043 c 0,0 -5.781232,9.705198 -20.3258038,11.051015"
+         id="Fill-37"
+         inkscape:connector-curvature="0"
+         style="fill:#b76141" />
+      <polyline
+         id="Fill-38"
+         points="24.2179791 22.597515 5.62203087 44.6275613 7.17433191 56.075315 21.424365 55.8488735 24.2179791 22.597515"
+         style="fill:#ab462c" />
+      <path
+         d="M 5.6220309,48.766365 C 6.0050418,48.500678 16.12644,43.39267 23.785515,27.200713 L 23.13573,37.281887 c 0,0 -2.706229,9.228144 -16.8753476,15.864121 L 5.6220309,48.766365"
+         id="Fill-39"
+         inkscape:connector-curvature="0"
+         style="fill:#8e3127" />
+      <path
+         d="m 22.920587,36.197684 c 0,0.809154 -0.677609,1.464841 -1.513816,1.464841 -0.835822,0 -1.513431,-0.655687 -1.513431,-1.464841 0,-0.80878 0.677609,-1.464466 1.513431,-1.464466 0.836207,0 1.513816,0.655686 1.513816,1.464466"
+         id="Fill-40"
+         inkscape:connector-curvature="0"
+         style="fill:#ab462c" />
+      <path
+         d="m 9.5142061,50.426123 c 0,0.80878 -0.6776095,1.464467 -1.5138166,1.464467 -0.8358213,0 -1.5134308,-0.655687 -1.5134308,-1.464467 0,-0.809154 0.6776095,-1.46484 1.5134308,-1.46484 0.8362071,0 1.5138166,0.655686 1.5138166,1.46484"
+         id="Fill-41"
+         inkscape:connector-curvature="0"
+         style="fill:#ab462c" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 120 60.000002"
+   version="1.1"
+   id="svg20"
+   sodipodi:docname="bose-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Bose_WhiteSquare_BlackLogo_RGB</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="0.83256899"
+     inkscape:cx="-4.8044066"
+     inkscape:cy="141.73"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg20" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#f8f8f8;}.cls-2{fill:#242424;}</style>
+  </defs>
+  <title
+     id="title6">Bose_WhiteSquare_BlackLogo_RGB</title>
+  <g
+     id="Bose"
+     transform="matrix(0.43769423,0,0,0.43769423,-2.0365917,-32.047534)">
+    <path
+       class="cls-2"
+       d="m 161.26,128 a 6.53,6.53 0 0 0 -5.59,3.24 c -1.06,1.85 -4.06,7.06 -5.14,8.91 a 2.57,2.57 0 0 0 2.24,3.89 h 17.83 l -3.2,5.54 a 2.58,2.58 0 0 1 -2.28,1.35 h -2.77 a 1.11,1.11 0 0 1 -1,-1.6 c 0.33,-0.6 1.07,-1.85 1.07,-1.85 h -16.15 l -2.34,4.06 a 2.61,2.61 0 0 0 2.21,4 h 30.21 a 6.56,6.56 0 0 0 5.69,-3.32 c 1.15,-2 3.85,-6.72 5,-8.73 a 2.58,2.58 0 0 0 -2.17,-4 h -17.8 l 3.29,-5.71 a 2.61,2.61 0 0 1 2.2,-1.2 h 2.78 a 1.09,1.09 0 0 1 1,1.51 c -0.29,0.52 -1.12,1.94 -1.12,1.94 h 16.15 l 2.43,-4.19 a 2.6,2.6 0 0 0 -2.28,-3.82 z"
+       id="path11"
+       inkscape:connector-curvature="0"
+       style="fill:#242424" />
+    <path
+       class="cls-2"
+       d="m 148.47,128 h -30.19 a 6.61,6.61 0 0 0 -5.64,3.21 l -11.79,20.42 a 2.6,2.6 0 0 0 2.25,3.87 h 30.24 a 6.59,6.59 0 0 0 5.64,-3.21 l 11.78,-20.4 A 2.59,2.59 0 0 0 148.47,128 Z m -15.21,6.19 c -0.44,0.75 -8.46,14.66 -8.91,15.44 a 2.62,2.62 0 0 1 -2.25,1.3 h -2.8 a 1.1,1.1 0 0 1 -1,-1.59 l 9,-15.51 a 2.62,2.62 0 0 1 2.23,-1.27 h 2.82 a 1.08,1.08 0 0 1 0.91,1.61 z"
+       id="path13"
+       inkscape:connector-curvature="0"
+       style="fill:#242424" />
+    <path
+       class="cls-2"
+       d="M 105.48,128 H 71.38 L 58.14,150.91 H 27.5 v 4.57 H 90.31 A 6.53,6.53 0 0 0 96,152.21 c 1.21,-2.08 3.1,-5.38 3.91,-6.79 a 2.6,2.6 0 0 0 -1.55,-3.69 6.64,6.64 0 0 0 5.55,-3.2 c 1.09,-1.89 2.83,-4.92 3.83,-6.65 A 2.59,2.59 0 0 0 105.48,128 Z m -18.11,17.64 c -0.4,0.71 -1.77,3.06 -2.31,4 a 2.53,2.53 0 0 1 -2.22,1.28 h -8.56 l 4,-6.89 h 8.16 a 1.08,1.08 0 0 1 0.93,1.61 z M 94,134.16 c -0.4,0.71 -1.77,3.07 -2.31,4 a 2.53,2.53 0 0 1 -2.22,1.28 H 80.9 l 4,-6.9 H 93 a 1.08,1.08 0 0 1 1,1.62 z"
+       id="path15"
+       inkscape:connector-curvature="0"
+       style="fill:#242424" />
+    <polygon
+       class="cls-2"
+       points="214.06,132.54 255.97,132.54 255.97,127.98 200.55,127.98 184.68,155.48 223.15,155.48 225.78,150.91 203.46,150.91 207.44,144.02 229.76,144.02 232.41,139.44 210.08,139.44 "
+       id="polygon17"
+       style="fill:#242424" />
+  </g>
+</svg>
