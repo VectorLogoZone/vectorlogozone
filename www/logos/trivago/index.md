@@ -6,7 +6,7 @@ linkedin: 'https://linkedin.com/company/trivagonv'
 logohandle: trivago
 pinterest: 'https://pinterest.com/trivago'
 sort: trivago
-title: "trivago.com\_- Compare hotel prices worldwide"
+title: "trivago"
 twitter: trivago
 website: 'https://www.trivago.com/'
 youtube: 'https://youtube.com/user/trivago'
