@@ -133,21 +133,24 @@
     {%- endif -%}
     {%- if page.images.size > 0 %}
     <link rel="amphtml" href="{{site.production_url}}/logos/{{page.logohandle}}/index.amp.html" />
-	<meta property="description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
-	<meta property="og:type" content="article">
-	<meta property="og:title" content="{{page.title}} Vector (SVG) Logos">
-	<meta property="og:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
-	<meta property="og:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg">
-    <meta property="og:site_name" content="VectorLogoZone">
-	<meta name="twitter:card" content="summary_large_image">
-	<meta name="twitter:title" content="{{page.title}} Vector (SVG) Logos">
-	<meta name="twitter:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard .SVG file format">
-	<meta name="twitter:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-card.png">
+    <link rel="alternate" type="application/json+oembed"
+          href="https://api.vectorlogo.zone/oembed/oembed.json?url={{site.production_url | url_encode}}%2Flogos%2F{{page.logohandle}}%2Findex.html&format=json"
+          title="oEmbed Link" />
+	<meta property="description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard SVG file format" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{page.title}} SVG Vector Logos" />
+	<meta property="og:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard SVG file format" />
+	<meta property="og:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg" />
+    <meta property="og:site_name" content="VectorLogoZone" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:title" content="{{page.title}} SVG Vector Logos" />
+	<meta name="twitter:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard SVG file format" />
+	<meta name="twitter:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg" />
     <script type="application/ld+json">
     {
       "@context": "http://schema.org",
       "@type": "ImageObject",
-      "contentUrl": "{{page.logohandle}}-ar21.svg",
+      "contentUrl": "{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg",
       "description": "Vector (SVG) logo for {{page.title}}",
       "name": "{{page.title}} SVG Logo"
     }
