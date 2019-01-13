@@ -7,7 +7,6 @@ github: android
 guide: https://developer.android.com/distribute/marketing-tools/brand-guidelines.html
 images:
 - android-ar21.svg
-- android-card.png
 - android-official.svg
 - android-icon.svg
 - android-tile.svg

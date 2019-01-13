@@ -10,7 +10,6 @@ images:
 - postgresql-horizontal.svg
 - postgresql-wordmark.svg
 - postgresql-icon.svg
-- postgresql-card.png
 - postgresql-vertical.svg
 logohandle: postgresql
 posted: true

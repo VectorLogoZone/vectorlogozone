@@ -5,7 +5,6 @@ github: duckduckgo
 guide: https://duckduckgo.com/assets/press/DuckDuckGo-Brand-Logo.zip
 images:
 - duckduckgo-ar21.svg
-- duckduckgo-card.png
 - duckduckgo-icon.svg
 logohandle: duckduckgo
 posted: true

@@ -11,7 +11,6 @@ font:
 github: dart-lang
 guide: https://github.com/dart-lang/logos
 images:
-- dartlang-card.png
 - dartlang-official.svg
 - dartlang-icon.svg
 - dartlang-ar21.svg

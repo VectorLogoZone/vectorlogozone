@@ -8,7 +8,6 @@ github: tripadvisor
 guide: https://www.tripadvisor.com/TripAdvisorInsights/n2716/brand-guidelines-partners
 images:
 - tripadvisor-icon.svg
-- tripadvisor-card.png
 - tripadvisor-ar21.svg
 instagram: https://www.instagram.com/tripadvisor/
 linkedin: https://www.linkedin.com/company/15027/

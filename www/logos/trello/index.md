@@ -7,7 +7,6 @@ images:
 - trello-icon.svg
 - trello-ar21.svg
 - trello-official.svg
-- trello-card.png
 - trello-tile.svg
 logohandle: trello
 posted: true

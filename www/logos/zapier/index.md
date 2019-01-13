@@ -9,7 +9,6 @@ font:
 github: zapier
 guide: https://zapier.com/brand/
 images:
-- zapier-card.png
 - zapier-ar21.svg
 - zapier-icon.svg
 - zapier-official.svg

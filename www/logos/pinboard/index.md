@@ -1,7 +1,6 @@
 ---
 blog: http://blog.pinboard.in/
 images:
-- pinboard-card.png
 - pinboard-tile.svg
 - pinboard-icon.svg
 - pinboard-ar21.svg

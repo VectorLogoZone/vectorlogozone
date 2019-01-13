@@ -7,7 +7,6 @@ github: ardunio
 guide: https://www.arduino.cc/en/Trademark/HomePage?from=Main.Trademark
 images:
 - arduino-ar21.svg
-- arduino-card.png
 - arduino-icon.svg
 - arduino-official.svg
 logohandle: arduino

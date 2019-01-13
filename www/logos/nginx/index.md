@@ -4,7 +4,6 @@ facebook: https://www.facebook.com/nginxinc
 github: nginx
 images:
 - nginx-ar21.svg
-- nginx-card.png
 - nginx-icon.svg
 linkedin: http://www.linkedin.com/company/nginx
 logohandle: nginx

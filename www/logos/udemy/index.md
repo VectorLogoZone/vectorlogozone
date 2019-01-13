@@ -9,7 +9,6 @@ images:
 - udemy-ar21.svg
 - udemy-official.svg
 - udemy-icon.svg
-- udemy-card.png
 instagram: https://www.instagram.com/udemy/
 linkedin: https://www.linkedin.com/company/udemy
 logohandle: udemy

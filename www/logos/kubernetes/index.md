@@ -4,7 +4,6 @@ github: kubernetes
 guide: https://github.com/kubernetes/kubernetes/tree/master/logo
 images:
 - kubernetes-icon.svg
-- kubernetes-card.png
 - kubernetes-ar21.svg
 logohandle: kubernetes
 posted: true

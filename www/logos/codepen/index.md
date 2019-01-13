@@ -7,7 +7,6 @@ guide: https://blog.codepen.io/documentation/brand-assets/logos/
 images:
 - codepen-tile.svg
 - codepen-official.svg
-- codepen-card.png
 - codepen-ar21.svg
 - codepen-icon.svg
 instagram: https://www.instagram.com/codepen/

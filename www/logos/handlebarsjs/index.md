@@ -1,7 +1,6 @@
 ---
 github: wycats/handlebars.js
 images:
-- handlebarsjs-card.png
 - handlebarsjs-icon.svg
 - handlebarsjs-ar21.svg
 logohandle: handlebarsjs

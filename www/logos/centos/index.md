@@ -4,7 +4,6 @@ github: CentOS
 guide: https://wiki.centos.org/ArtWork/Brand/Logo
 images:
 - centos-ar21.svg
-- centos-card.png
 - centos-icon.svg
 logohandle: centos
 posted: true

@@ -2,7 +2,6 @@
 images:
 - json-icon.svg
 - json-ar21.svg
-- json-card.png
 logohandle: json
 posted: true
 sort: json
