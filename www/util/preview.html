@@ -58,7 +58,10 @@ layout: none
   <button type="button" class="btn btn-outline-dark navbar-btn border-btn" data-border="4" title="Thick border">Thick</button>
 </div>
 
-<a class="btn btn-outline-dark navbar-btn d-none d-sm-block" id="color_analysis" title="Color Analysis" data-toggle="popover" data-title="Color Analysis" data-html="true" data-placement="bottom" data-popped="0"><img class="toolbar" src="/images/toolbar/color_palette.svg" /></a>
+<div class="btn-group d-none d-md-inline-flex" role="group" aria-label="Border">
+    <button type="button" class="btn btn-outline-dark navbar-btn d-none d-sm-block" id="color_analysis" title="Color Analysis" data-toggle="popover" data-title="Color Analysis" data-html="true" data-placement="bottom" data-popped="0"><img class="toolbar" src="/images/toolbar/color_palette.svg" /></a>
+    <button type="button" class="btn btn-outline-dark navbar-btn d-none d-sm-block" id="image_dim" title="Dimensions" data-toggle="popover" data-title="Image Dimensions" data-html="true" data-placement="bottom" data-popped="0"><img class="toolbar" src="/images/toolbar/ruler-triangle-solid.svg" /></i></button>
+</div>
 <a class="btn btn-outline-dark navbar-btn d-none d-md-block" id="btn-download" title="Download"><i class="fa fa-download"></i></a>
 <a class="btn btn-outline-dark navbar-btn" href="/" id="btn-exit" title="Exit Preview"><i class="fa fa-sign-out"></i></a>
 			
@@ -102,6 +105,15 @@ layout: none
                 var newZoom = Math.min(zoomX, zoomY) * 0.75;
                 img.width = img.naturalWidth * newZoom;
                 img.height = img.naturalHeight * newZoom;
+
+
+                var content = $("<div>");
+                content.append($("<span>").text("Width: " + img.naturalWidth));
+                content.append($("<br>"));
+                content.append($("<span>").text("Height: " + img.naturalHeight));
+
+                $("#image_dim").attr("data-content", content.html());
+                $("#image_dim").popover();
             });
 
             $("#color_analysis").bind('click', function(e) {
