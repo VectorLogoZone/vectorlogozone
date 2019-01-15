@@ -1,3 +1,7 @@
+---
+layout: none
+permalink: .well-known/dnt-policy.txt
+---
 Do Not Track Compliance Policy 
 
 Version 1.0
