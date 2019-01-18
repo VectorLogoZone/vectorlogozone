@@ -1,9 +1,9 @@
 {%- assign sorted_pages = site.pages | sort:'sort' -%}
-{%- assign pagesize = 144 -%}
+{%- assign pagesize = 12 -%}
 {%- assign pagecount = 0 -%}
 {%- assign imgcount = 0 -%}
 {%- assign targetsuffix = '-icon' -%}
-{%- if jekyll.environment == "production" -%}
+{%- if jekyll.environment != "production" -%}
 {%- for logopage in sorted_pages %}
     {%- if logopage.logohandle %}
         {%- capture targetfile %}{{ logopage.logohandle }}{{ page.targetsuffix }}.svg{% endcapture %}
@@ -13,6 +13,7 @@
     {%- endif -%}
 {%- endfor -%}
 {%- assign maxpage = pagecount | divided_by:pagesize  | plus:1 -%}
+{% if maxpage > 1 %}
 <div class="btn-toolbar d-flex justify-content-center my-3" role="toolbar" aria-label="Paging">
     <div class="btn-group" role="group" aria-label="Pages">
         {%- for pagelink in (1..maxpage) %}
@@ -20,8 +21,9 @@
         {%- endfor %}
     </div>
 </div>
+{%- endif -%}
 
-<div class="logo-container">
+<div class="logo-container my-3">
 {%- assign pagecount = 0 -%}
 {%- for logopage in sorted_pages %}
     {%- if logopage.logohandle %}
@@ -31,13 +33,21 @@
                 {%- assign curpage = pagecount | divided_by:pagesize  | plus:1 %}
                 {%- assign pagecount = pagecount | plus:1 %}
                 {%- assign imgcount = imgcount | plus:1 %}
-    <a class="paged page{{curpage}}{% if curpage > 1 %} d-none{% endif %}" href="{{logopage.url}}{{site.indexpage}}"> <img src="/logos/{{logopage.logohandle}}/{{targetfile}}" alt="{{logopage.title | default: "(untitled)"}}" title="{{logopage.title | default: "(untitled)"}}" /></a>
+    <a class="paged page{{curpage}}{% if curpage > 1 %} d-none{% endif %}" href="{{logopage.url}}{{site.indexpage}}">
+        <img
+            src="/logos/{{logopage.logohandle}}/{{targetfile}}"
+            alt="{{logopage.title | default: '(untitled)'}}"
+            title="{{logopage.title | default: '(untitled)'}}"
+            {%- if page.style %}style="{{page.style}}"{% endif %}
+            />
+    </a>
             {%- endif %}
         {%- endif %}
     {%- endif %}
 {%- endfor %}
 </div>
 
+{% if maxpage > 1 %}
 <div class="btn-toolbar d-flex justify-content-center my-3" role="toolbar" aria-label="Pagings">
     <div class="btn-group" role="group" aria-label="Pages">
         {%- for pagelink in (1..maxpage) %}
@@ -45,6 +55,7 @@
         {%- endfor %}
     </div>
 </div>
+{% endif %}
 
 <p>Total: {{ imgcount | intcomma }} images</p>
 <script>
