@@ -1,9 +1,9 @@
 {%- assign sorted_pages = site.pages | sort:'sort' -%}
-{%- assign pagesize = 12 -%}
+{%- assign pagesize = 144 -%}
 {%- assign pagecount = 0 -%}
 {%- assign imgcount = 0 -%}
 {%- assign targetsuffix = '-icon' -%}
-{%- if jekyll.environment != "production" -%}
+{%- if jekyll.environment == "production" -%}
 {%- for logopage in sorted_pages %}
     {%- if logopage.logohandle %}
         {%- capture targetfile %}{{ logopage.logohandle }}{{ page.targetsuffix }}.svg{% endcapture %}
