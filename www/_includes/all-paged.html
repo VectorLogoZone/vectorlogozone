@@ -1,0 +1,69 @@
+{%- assign sorted_pages = site.pages | sort:'sort' -%}
+{%- assign pagesize = 144 -%}
+{%- assign pagecount = 0 -%}
+{%- assign imgcount = 0 -%}
+{%- assign targetsuffix = '-icon' -%}
+{%- if jekyll.environment == "production" -%}
+{%- for logopage in sorted_pages %}
+    {%- if logopage.logohandle %}
+        {%- capture targetfile %}{{ logopage.logohandle }}{{ page.targetsuffix }}.svg{% endcapture %}
+        {%- if logopage.images %}
+            {%- if logopage.images contains targetfile %}{%- assign pagecount = pagecount | plus:1 %}{% endif %}
+        {%- endif %}
+    {%- endif -%}
+{%- endfor -%}
+{%- assign maxpage = pagecount | divided_by:pagesize  | plus:1 -%}
+<div class="btn-toolbar d-flex justify-content-center my-3" role="toolbar" aria-label="Paging">
+    <div class="btn-group" role="group" aria-label="Pages">
+        {%- for pagelink in (1..maxpage) %}
+        <a href="#page{{pagelink}}" class="btn btn-outline-secondary pagelink pagelink{{pagelink}}">{{pagelink}}</a>
+        {%- endfor %}
+    </div>
+</div>
+
+<div class="logo-container">
+{%- assign pagecount = 0 -%}
+{%- for logopage in sorted_pages %}
+    {%- if logopage.logohandle %}
+        {%- if logopage.images %}
+            {%- capture targetfile %}{{ logopage.logohandle }}{{ page.targetsuffix }}.svg{% endcapture %}
+            {%- if logopage.images contains targetfile %}
+                {%- assign curpage = pagecount | divided_by:pagesize  | plus:1 %}
+                {%- assign pagecount = pagecount | plus:1 %}
+                {%- assign imgcount = imgcount | plus:1 %}
+    <a class="paged page{{curpage}}{% if curpage > 1 %} d-none{% endif %}" href="{{logopage.url}}{{site.indexpage}}"> <img src="/logos/{{logopage.logohandle}}/{{targetfile}}" alt="{{logopage.title | default: "(untitled)"}}" title="{{logopage.title | default: "(untitled)"}}" /></a>
+            {%- endif %}
+        {%- endif %}
+    {%- endif %}
+{%- endfor %}
+</div>
+
+<div class="btn-toolbar d-flex justify-content-center my-3" role="toolbar" aria-label="Pagings">
+    <div class="btn-group" role="group" aria-label="Pages">
+        {%- for pagelink in (1..maxpage) %}
+        <a href="#page{{pagelink}}" class="btn btn-outline-secondary pagelink pagelink{{pagelink}}">{{pagelink}}</a>
+        {%- endfor %}
+    </div>
+</div>
+
+<p>Total: {{ imgcount | intcomma }} images</p>
+<script>
+    function changeTab() {
+        console.log(window.location.hash);
+        var newpage = parseInt(window.location.hash.replace(/#page/, '') || '1');
+        $('.paged').addClass('d-none');
+        $('.page' + newpage).removeClass('d-none');
+        $('.pagelink').removeClass('active');
+        $('.pagelink' + newpage).addClass('active');
+    }
+
+    $(function() {
+        $(window).on('hashchange', function() {
+            changeTab();
+        });
+        changeTab();
+    });
+</script>
+{%- else -%}
+<p>Disabled in development to speed up Jekyll</p>
+{%- endif %}
