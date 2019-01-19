@@ -36,7 +36,7 @@
 				{{ content }}
 			</div><!--/col-->
 		</div><!--/row-->
-		{%- if page.images.size > 0 %}{% include imagelist.html %}{% endif -%}
+		{%- if page.images.size > 0 %}{% include imagelist.html %}{% elsif page.logohandle %}{% include searchresults.html %}{% endif -%}
         {%- if page.colors %}{% include colors.html %}{% endif -%}
         {%- if page.font %}{% include fonts.html %}{% endif -%}
         {%- if page.logohandle -%}
