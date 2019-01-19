@@ -16,7 +16,7 @@ good together next to each other.
 
 I also allow hot-linking, so you do not have to make copies of the images in order to display them on your website, though you are free to do so!
 
-The [search page](https://www.vectorlogo.zone/search.html?q=s) is especially useful, and can search for [svg logos in other repos on Github](https://www.vectorlogo.zone/search-github.html?q=open).
+There is also an expanded [SVG Logo Search](https://search.vectorlogo.zone/?q=s) website that is especially useful: it searches through [79 other open logo sources](https://search.vectorlogo.zone/sources/index.html).
 
 There are [tons](https://www.vectorlogo.zone/search-other.html) of other logo sites, but none met these basic requirements.
 
