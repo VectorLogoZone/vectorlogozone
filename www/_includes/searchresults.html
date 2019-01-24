@@ -22,12 +22,12 @@ $(document).ready(function() {
                 for (var loop in data.results) {
                     console.log(data.results[loop]);
                     var result = data.results[loop];
-                    content.append($("<a>").attr("href", result.source).attr("title", result.description).append($("<img>").attr("src", "https://search.vectorlogo.zone" + result.url).css("max-width", "128px").css("max-height", "64px")));
+                    content.append($("<a>").attr("href", result.source).attr("title", result.description).append($("<img>").attr("src", "https://www.awesomelogos.org" + result.url).css("max-width", "128px").css("max-height", "64px")));
                 }
             }
         },
         timeout: 15000,
-        url: "https://search.vectorlogo.zone/api/search.json"
+        url: "https://www.awesomelogos.org/api/search.json"
     });
 });
 </script>
