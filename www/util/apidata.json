@@ -1,0 +1,22 @@
+---
+layout: none
+noindex: true
+---
+{%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' -%}
+[
+{%- for logopage in sorted_pages -%}
+    {%- if 1 == 1 %}
+    {
+        "ar21": 
+        {%- capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
+        {%- if logopage.images contains logofile %} true{% else %} false{% endif %},
+        "icon":
+        {%- capture logofile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture -%}
+        {%- if logopage.images contains logofile %} true{% else %} false{% endif %},
+        "logohandle": "{{logopage.logohandle}}"
+        "name": "{{logopage.title}}",
+        "website": "{{logopage.website}}"
+    }{% unless forloop.last %},{% endunless %}
+    {%- endif -%}
+{% endfor %}
+]
