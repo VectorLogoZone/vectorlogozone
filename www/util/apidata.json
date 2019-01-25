@@ -13,7 +13,7 @@ noindex: true
         "icon":
         {%- capture logofile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture -%}
         {%- if logopage.images contains logofile %} true{% else %} false{% endif %},
-        "logohandle": "{{logopage.logohandle}}"
+        "logohandle": "{{logopage.logohandle}}",
         "name": "{{logopage.title}}",
         "website": "{{logopage.website}}"
     }{% unless forloop.last %},{% endunless %}
