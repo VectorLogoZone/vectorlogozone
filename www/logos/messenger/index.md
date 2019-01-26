@@ -7,7 +7,7 @@ sort: facebookmessenger
 tags:
 - facebook
 - messaging
-title: Facebook_Messenger
+title: Facebook Messenger
 website: https://www.messenger.com/
 wikipedia: https://en.wikipedia.org/wiki/Facebook_Messenger
 ---
