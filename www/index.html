@@ -197,7 +197,7 @@ $(function() {
 		// Wait for data to load
 		window.data.then(function(loaded_data) {
 
-			if (ga) {
+			if (window.ga) {
 				ga('send', {
 					hitType: 'event',
 					eventCategory: 'search-vlz',
