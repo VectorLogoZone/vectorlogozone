@@ -1,0 +1,28 @@
+---
+layout: none
+noindex: true
+title: Data for AwesomeLogos.org's Search
+---
+{%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' -%}
+{
+    "handle": "vectorlogozone",
+    "images": [
+        {%- for logopage in sorted_pages %}
+            {%- if logopage.images %}
+                {%- for image in logopage.images %}
+        { 
+            "img": "{{site.production_url}}/logos/{{logopage.logohandle}}/{{image}}", 
+            "name": "{{logopage.title}}", 
+            "url": "{{site.production_url}}{{logopage.url}}"
+        },
+                {%- endfor %}
+            {%- endif %}
+        {%- endfor %}
+        { "img": "", "name": "", "url":"" }
+    ],
+    "lastmodified": "{site.time|date_to_xmlschema}}",
+    "logo": "https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-tile.svg",
+    "name": "VectorLogoZone",
+    "provider": "url",
+    "website": "https://www.vectorlogo.zone/"
+}
