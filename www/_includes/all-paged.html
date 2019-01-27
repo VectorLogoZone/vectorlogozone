@@ -33,14 +33,12 @@
                 {%- assign curpage = pagecount | divided_by:pagesize  | plus:1 %}
                 {%- assign pagecount = pagecount | plus:1 %}
                 {%- assign imgcount = imgcount | plus:1 %}
-    <a class="paged page{{curpage}}{% if curpage > 1 %} d-none{% endif %}" href="{{logopage.url}}{{site.indexpage}}">
-        <img
+    <a class="paged page{{curpage}}{% if curpage > 1 %} d-none{% endif %}" href="{{logopage.url}}{{site.indexpage}}"><img
             src="/logos/{{logopage.logohandle}}/{{targetfile}}"
             alt="{{logopage.title | default: '(untitled)'}}"
             title="{{logopage.title | default: '(untitled)'}}"
             {%- if page.style %}style="{{page.style}}"{% endif %}
-            />
-    </a>
+            /></a>
             {%- endif %}
         {%- endif %}
     {%- endif %}
