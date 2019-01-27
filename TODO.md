@@ -1,12 +1,11 @@
 
 ## To Do
+ - [ ] reports: history.replaceState() for paging
+ - [ ] one github history link per logo page (vs per image)
+ - [ ] og:image to be png for FB/Twitter, svg for others
  - [ ] forwarding search.html -> index.html should include query
- - [x] logo spacing from 10px to 6px
- - [ ] change logo colors everywhere (including subprojects)
  - [ ] CORS support
- - [-] display favicon.svg in header bar
  - [ ] manifest.json (for offline support)
- - [x] convert logos/index.html tabs based on first letter
  - [ ] /templates/ directory with image (and index.md) templates
  - [ ] separate site w/dynamic svg's based on parameters
  - [ ] sitemap.xml: add image:title per [Google](https://support.google.com/webmasters/answer/178636?hl=en)
