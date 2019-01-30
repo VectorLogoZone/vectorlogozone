@@ -16,9 +16,9 @@ good together next to each other.
 
 I also allow hot-linking, so you do not have to make copies of the images in order to display them on your website, though you are free to do so!
 
-There is also an expanded search at [Awesome Logos](https://www.awesomelogos.org/?q=s) website that is especially useful: it searches through a bunch of [other open logo sources](https://www.awesomelogos.org/awesome/index.html).
+There is also an expanded search at [Awesome Logos](https://www.awesomelogos.org/search.html?q=s) website that is especially useful: it searches through a bunch of [other open logo sources](https://www.awesomelogos.org/sources/index.html).
 
-There are [tons](https://www.awesomelogos.org/not-awesome/index.html) of other logo sites, but none met these basic requirements.
+There are [tons](https://www.awesomelogos.org/alternatives/index.html) of other logo sites, but none met these basic requirements.
 
 Share:
 <a href="https://simpleshare.io/go?site=facebook&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" height="24" /></a>
