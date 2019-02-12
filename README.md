@@ -3,6 +3,7 @@
 
 [![# of logos](https://img.shields.io/badge/dynamic/json.svg?label=logos&url=https%3A%2F%2Fwww.vectorlogo.zone%2Fstatus.json&query=%24.pages)](https://www.vectorlogo.zone/logos/index.html)
 [![# of images](https://img.shields.io/badge/dynamic/json.svg?label=images&url=https%3A%2F%2Fwww.vectorlogo.zone%2Fstatus.json&query=%24.images)](https://www.vectorlogo.zone/logos/index.html)
+[![30 day uptime](https://img.shields.io/nodeping/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu.svg?label=30-day%20uptime&style=flat)](https://nodeping.com/reports/checks/jy4da3gc-f8yv-4zom-8h9b-pamekbkzl7lj)
 [![Travis CI build status](https://img.shields.io/travis/VectorLogoZone/vectorlogozone.svg)](https://travis-ci.org/VectorLogoZone/vectorlogozone)
 
 <!--
@@ -66,6 +67,7 @@ modifications to the logos are in the public domain.
 [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "build-time scripts")
 [![rsvg](https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg)](https://wiki.gnome.org/Projects/LibRsvg "build-time rasterization")
 [![Shields.IO](https://www.vectorlogo.zone/logos/shieldsio/shieldsio-ar21.svg)](http://shields.io/ "README badges")
+[![SimpleShare.IO](https://www.vectorlogo.zone/logos/simpleshareio/simpleshareio-ar21.svg)](http://simpleshare.io/ "Social media share links")
 [![SuperTinyIcons](https://www.vectorlogo.zone/logos/supertinyicons/supertinyicons-ar21.svg)](https://github.com/edent/SuperTinyIcons "tile versions")
 [![svgo](https://www.vectorlogo.zone/logos/svgo/svgo-ar21.svg)](https://www.github.com/svg/svgo "SVG optimization")
 [![SVGPorn](https://www.vectorlogo.zone/logos/svgporn/svgporn-ar21.svg)](https://svgporn.com/ "Icon versions of various logos")
