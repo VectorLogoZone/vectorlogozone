@@ -7,12 +7,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 31.999997 31.999997"
+   viewBox="0 0 63.999994 63.999994"
    version="1.1"
    id="svg26"
    sodipodi:docname="apple_objectivec-icon.svg"
-   width="32"
-   height="32"
+   width="64"
+   height="64"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <metadata
      id="metadata30">
@@ -35,15 +35,15 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1001"
+     inkscape:window-width="1853"
+     inkscape:window-height="1016"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="256"
-     inkscape:cx="16.913344"
-     inkscape:cy="30.751298"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
+     inkscape:zoom="13.0625"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="67"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg26" />
   <defs
@@ -56,7 +56,7 @@
   <g
      id="Layer_2"
      data-name="Layer 2"
-     transform="matrix(0.41878594,0,0,0.41878594,4.0484523e-4,2.8629781e-4)">
+     transform="matrix(0.83757189,0,0,0.83758654,8.0953085e-4,-2.6765674e-4)">
     <g
        id="Layer_1-2"
        data-name="Layer 1">
