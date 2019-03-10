@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="-5.33 -4.58 120 59.999999"
+   version="1.1"
+   id="svg50"
+   sodipodi:docname="presto-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata56">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Presto logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs54" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview52"
+     showgrid="false"
+     inkscape:zoom="5.8305674"
+     inkscape:cx="102.66806"
+     inkscape:cy="25.497738"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg50" />
+  <title
+     id="title2">Presto logo</title>
+  <g
+     id="g81"
+     transform="matrix(0.31613559,0,0,0.31613559,8.3503867,23.493729)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="m 17.937,35.487998 c -4.23,0 -8.138,-1.708 -10.09,-3.336 v 17.088 H 1.011 V -5.7690015 h 5.777 l 0.57,4.069 c 1.872,-2.605 6.266,-4.883 11.068,-4.883 11.879,0 14.971,9.603 14.971,20.9949995 0,12.694 -4.231,21.076 -15.46,21.076 z m -10.09,-8.707 c 2.035,1.627 5.289,3.173 9.113,3.173 7.893,0 9.602,-6.183 9.602,-15.622 0,-9.4399995 -1.464,-15.3809995 -9.113,-15.3809995 -4.069,0 -7.322,1.95399997 -9.602,3.988 z M 62.365,-0.07200153 c -4.556,0.895 -9.195,2.44100003 -12.613,4.23200003 V 34.591998 H 42.917 V -5.7680015 h 5.615 l 0.731,4.719 c 2.442,-2.44 6.918,-4.8 12.207,-5.289 z M 73.106,17.422998 c 0.408,8.544 2.523,12.613 10.742,12.613 4.312,0 8.788,-1.059 11.88,-2.278 l 1.058,5.206 c -3.336,1.383 -8.627,2.443 -13.02,2.443 -14.566,0 -17.496,-9.929 -17.496,-21.239 0,-11.6349995 3.824,-20.7499995 16.194,-20.7499995 10.985,0 15.542,7.731 15.542,17.4149995 v 6.591 h -24.9 z m 0,-5.369 h 18.309 v -1.466 c 0,-7.4869995 -2.359,-12.0429995 -9.033,-12.0429995 -7.566,0 -9.194,5.452 -9.276,13.5089995 z m 44.266,23.354 c -4.069,0 -9.277,-0.896 -12.776,-2.687 l 1.302,-5.369 c 3.092,1.464 7.568,2.523 11.149,2.523 5.369,0 8.219,-1.466 8.219,-6.022 0,-4.315 -2.93,-5.615 -8.382,-6.918 -8.869,-2.115 -12.205,-5.208 -12.205,-12.1239995 0,-7.569 4.15,-11.393 13.588,-11.393 3.905,0 8.057,0.733 10.904,2.033 l -1.139,5.45399997 c -2.522,-1.059 -6.429,-1.95399997 -9.602,-1.95399997 -5.127,0 -7.08,1.38299997 -7.08,5.453 0,4.231 1.953,5.045 7.73,6.5899995 7.893,2.116 12.857,4.638 12.857,12.37 0,8.461 -6.185,12.044 -14.565,12.044 z m 43.697,-1.222 c -1.709,0.65 -5.697,1.221 -8.299,1.221 -6.917,0 -9.846,-3.826 -9.846,-10.092 V -0.23400153 h -6.998 V -5.7690015 h 6.998 v -9.8460005 l 6.835,-0.976 v 10.8220005 h 11.473 l -0.569,5.53499997 H 149.759 V 24.991998 c 0,3.742 0.895,4.883 4.638,4.883 1.628,0 3.987,-0.327 6.103,-0.816 z m 22.62,1.222 c -11.718,0 -17.008,-8.788 -17.008,-20.995 0,-12.2059995 5.29,-20.9949995 17.008,-20.9949995 11.717,0 17.007,8.788 17.007,20.9949995 0,12.206 -5.29,20.995 -17.007,20.995 z m 0,-36.4569995 c -8.463,0 -10.173,6.916 -10.173,15.4619995 0,8.544 1.71,15.462 10.173,15.462 8.462,0 10.172,-6.918 10.172,-15.462 0,-8.5459995 -1.71,-15.4619995 -10.172,-15.4619995 z" />
+    <circle
+       style="fill:#5b87da"
+       r="4.6329999"
+       id="ellipse6"
+       transform="rotate(-45.001)"
+       cy="161.14516"
+       cx="224.88188" />
+    <circle
+       style="fill:#5b87da"
+       r="5.1469998"
+       id="ellipse8"
+       transform="rotate(-45.001)"
+       cy="179.15675"
+       cx="224.88089" />
+    <ellipse
+       style="fill:#5b87da"
+       id="ellipse10"
+       transform="rotate(-45.001)"
+       ry="5.6599998"
+       rx="5.6609998"
+       cy="197.16934"
+       cx="224.87886" />
+    <ellipse
+       style="fill:#5b87da"
+       id="ellipse12"
+       transform="rotate(-45.001)"
+       ry="6.1739998"
+       rx="6.1750002"
+       cy="215.16263"
+       cx="224.87924" />
+    <circle
+       style="fill:#1edcff"
+       r="4.119"
+       id="ellipse14"
+       transform="rotate(-45.001)"
+       cy="143.14261"
+       cx="206.87996" />
+    <circle
+       style="fill:#1edcff"
+       r="4.6329999"
+       id="ellipse16"
+       transform="rotate(-45.001)"
+       cy="161.1545"
+       cx="206.87865" />
+    <circle
+       style="fill:#1edcff"
+       r="5.1469998"
+       id="ellipse18"
+       transform="rotate(-45.001)"
+       cy="179.14848"
+       cx="206.87874" />
+    <circle
+       style="fill:#1edcff"
+       r="5.6609998"
+       id="ellipse20"
+       transform="rotate(-45.001)"
+       cy="197.15172"
+       cx="206.87915" />
+    <ellipse
+       style="fill:#1edcff"
+       id="ellipse22"
+       transform="rotate(-45.001)"
+       ry="6.1739998"
+       rx="6.1750002"
+       cy="215.17067"
+       cx="206.87489" />
+    <circle
+       r="3.605"
+       id="ellipse24"
+       transform="rotate(-45.001)"
+       cy="125.16036"
+       cx="188.8775" />
+    <circle
+       r="4.119"
+       id="ellipse26"
+       transform="rotate(-45.001)"
+       cy="143.14229"
+       cx="188.87843" />
+    <circle
+       r="4.6329999"
+       id="ellipse28"
+       transform="rotate(-45.001)"
+       cy="161.16454"
+       cx="188.87575" />
+    <circle
+       r="5.1469998"
+       id="ellipse30"
+       transform="rotate(-45.001)"
+       cy="179.16577"
+       cx="188.87572" />
+    <ellipse
+       id="ellipse32"
+       transform="rotate(-45.001)"
+       ry="5.6599998"
+       rx="5.6609998"
+       cy="197.16983"
+       cx="188.87312" />
+    <ellipse
+       id="ellipse34"
+       transform="rotate(-45.001)"
+       ry="6.1739998"
+       rx="6.1750002"
+       cy="215.15393"
+       cx="188.8773" />
+    <g
+       transform="translate(0,-51.650002)"
+       style="fill:#5b87da"
+       id="g48">
+      <circle
+         r="4.119"
+         id="ellipse36"
+         transform="rotate(-45.001,247.498,57.506)"
+         cy="57.500999"
+         cx="247.51199" />
+      <circle
+         r="4.119"
+         id="ellipse38"
+         transform="rotate(-45.001,234.769,70.234)"
+         cy="70.230003"
+         cx="234.783" />
+      <circle
+         r="4.119"
+         id="ellipse40"
+         transform="rotate(-45.001,222.053,82.962)"
+         cy="82.959"
+         cx="222.05299" />
+      <circle
+         r="4.119"
+         id="ellipse42"
+         transform="rotate(-45.001,247.5,82.964)"
+         cy="82.959999"
+         cx="247.51199" />
+      <circle
+         r="4.119"
+         id="ellipse44"
+         transform="rotate(-45.001,272.97,82.965)"
+         cy="82.960999"
+         cx="272.97" />
+      <circle
+         r="4.119"
+         id="ellipse46"
+         transform="rotate(-45.001,260.226,70.235)"
+         cy="70.230003"
+         cx="260.241" />
+    </g>
+  </g>
+</svg>

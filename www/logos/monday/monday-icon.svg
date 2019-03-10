@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 63.999999"
+   version="1.1"
+   id="svg10"
+   sodipodi:docname="monday-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="5.0063272"
+     inkscape:cx="68.855335"
+     inkscape:cy="20.875657"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <g
+     id="g836"
+     transform="matrix(3.2082545,0,0,3.2082545,-35.559129,-63.587202)">
+    <path
+       style="fill:#ff3d57;stroke-width:0.13073041"
+       inkscape:connector-curvature="0"
+       id="path2"
+       d="m 13.512996,35.761146 a 2.4328929,2.4328929 0 0 1 -2.059004,-3.723202 l 4.376854,-6.988848 a 2.4324593,2.4324593 0 1 1 4.123238,2.581926 l -4.378162,6.988848 a 2.4302783,2.4302783 0 0 1 -2.062926,1.141276 z" />
+    <path
+       style="fill:#ffcb00;stroke-width:0.13073041"
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="m 21.056141,35.761146 a 2.4328929,2.4328929 0 0 1 -2.062926,-3.723202 l 4.380776,-6.988848 a 2.4315856,2.4315856 0 1 1 4.116701,2.581926 l -4.371625,6.988848 a 2.4302783,2.4302783 0 0 1 -2.062926,1.141276 z" />
+    <ellipse
+       style="fill:#00d647;stroke-width:0.13073041"
+       id="ellipse6"
+       ry="2.3753715"
+       rx="2.4355075"
+       cy="33.384468"
+       cx="28.596672" />
+  </g>
+</svg>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="quip-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata65">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>quip-salesforce-lockup-vertical</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview63"
+     showgrid="false"
+     inkscape:zoom="4.4701016"
+     inkscape:cx="73.313185"
+     inkscape:cy="47.637781"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#f27557;}.cls-2{fill:#c34027;}.cls-3{fill:#fff;}.cls-4{fill:#3c3d3f;}.cls-5{fill:#998d85;}</style>
+  </defs>
+  <title
+     id="title6">quip-salesforce-lockup-vertical</title>
+  <g
+     id="g92"
+     transform="matrix(2.8001551,0,0,2.8001551,-18.001551,-54.510462)">
+    <path
+       style="fill:#f27557;stroke-width:0.24401115"
+       inkscape:connector-curvature="0"
+       id="path8"
+       d="m 28.036657,19.855346 a 9.5725575,9.5725575 0 0 0 -6.612702,-2.62312 c -0.20497,0 -0.414819,0 -0.622229,0.01952 a 9.6677218,9.6677218 0 0 0 0.617348,19.313482 h 9.665282 v -9.662841 a 9.5701173,9.5701173 0 0 0 -3.047699,-7.047041 z m -10.573003,2.210741 h 7.910841 a 0.87844014,0.87844014 0 1 1 0,1.75688 h -7.910841 a 0.87844014,0.87844014 0 1 1 0,-1.75688 z m 7.910841,9.667721 h -7.910841 a 0.88088025,0.88088025 0 0 1 0,-1.75932 h 7.910841 a 0.88088025,0.88088025 0 0 1 0,1.75932 z m 3.513761,-4.83142 a 0.87844014,0.87844014 0 0 1 -0.878441,0.87844 H 14.833213 a 0.87844014,0.87844014 0 1 1 0,-1.75688 h 13.176602 a 0.87844014,0.87844014 0 0 1 0.878441,0.87844 z"
+       class="cls-1" />
+    <path
+       style="fill:#c34027;stroke-width:0.24401115"
+       inkscape:connector-curvature="0"
+       id="path10"
+       d="m 29.242072,18.574287 a 11.424602,11.424602 0 0 0 -16.148658,16.148658 11.468524,11.468524 0 0 0 8.32566,3.601605 h 10.558363 a 0.88088025,0.88088025 0 0 0 0.87844,-0.87844 V 26.902388 a 11.468524,11.468524 0 0 0 -3.613805,-8.328101 z m 1.842284,17.990942 H 21.419074 A 9.6677218,9.6677218 0 0 1 20.801726,17.251747 c 0.20741,0 0.417259,-0.01952 0.622229,-0.01952 a 9.6701619,9.6701619 0 0 1 9.660401,9.670162 z"
+       class="cls-2" />
+    <path
+       style="fill:#ffffff;stroke-width:0.24401115"
+       inkscape:connector-curvature="0"
+       id="path12"
+       d="m 25.374495,29.974488 h -7.910841 a 0.88088025,0.88088025 0 0 0 0,1.75932 h 7.910841 a 0.88088025,0.88088025 0 0 0 0,-1.75932 z"
+       class="cls-3" />
+    <path
+       style="fill:#ffffff;stroke-width:0.24401115"
+       inkscape:connector-curvature="0"
+       id="path14"
+       d="m 17.463654,23.822967 h 7.910841 a 0.87844014,0.87844014 0 1 0 0,-1.75688 h -7.910841 a 0.87844014,0.87844014 0 1 0 0,1.75688 z"
+       class="cls-3" />
+    <path
+       style="fill:#ffffff;stroke-width:0.24401115"
+       inkscape:connector-curvature="0"
+       id="path16"
+       d="m 14.828333,26.021507 a 0.8784405,0.8784405 0 1 0 0,1.756881 h 13.176602 a 0.8784405,0.8784405 0 1 0 0,-1.756881 z"
+       class="cls-3" />
+  </g>
+</svg>
