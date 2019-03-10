@@ -1,12 +1,12 @@
 ---
 blog: http://blog.pinboard.in/
 images:
-- pinboard-card.png
 - pinboard-tile.svg
 - pinboard-icon.svg
 - pinboard-ar21.svg
 layout: default
 logohandle: pinboard
+posted: true
 sort: pinboard
 tags:
 - bookmarking

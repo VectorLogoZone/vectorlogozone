@@ -1,15 +1,15 @@
 ---
-facebook: 'https://facebook.com/mailjet'
+facebook: https://facebook.com/mailjet
 github: mailjet
-googleplus: 'https://plus.google.com/+MailjetEN'
-instagram: 'https://instagram.com/mailjet'
-linkedin: 'https://linkedin.com/company/mailjet'
+googleplus: https://plus.google.com/+MailjetEN
+instagram: https://instagram.com/mailjet
+linkedin: https://linkedin.com/company/mailjet
 logohandle: mailjet
+posted: true
 sort: mailjet
-title: 'Mailjet'
+title: Mailjet
 twitter: mailjet
-website: 'https://www.mailjet.com/'
+website: https://www.mailjet.com/
 wikipedia: https://en.wikipedia.org/wiki/Mailjet
-youtube: 'https://youtube.com/MailjetTV'
+youtube: https://youtube.com/MailjetTV
 ---
-

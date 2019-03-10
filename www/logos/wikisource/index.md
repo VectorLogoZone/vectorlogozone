@@ -2,10 +2,10 @@
 blog: https://blog.wikimedia.org/c/wikisource/
 github: wikisource
 images:
-- wikisource-card.png
 - wikisource-icon.svg
 - wikisource-ar21.svg
 logohandle: wikisource
+posted: true
 sort: wikisource
 title: Wikisource
 twitter: wikisource

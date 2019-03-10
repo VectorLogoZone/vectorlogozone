@@ -6,9 +6,9 @@ images:
 - travis-ci-ar21.svg
 - travis-ci-official.svg
 - travis-ci-icon.svg
-- travis-ci-card.png
 layout: default
 logohandle: travis-ci
+posted: true
 sort: travis ci
 tags:
 - continuous_integration

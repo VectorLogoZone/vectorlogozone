@@ -4,8 +4,8 @@ github: ocaml
 images:
 - ocaml-ar21.svg
 - ocaml-icon.svg
-- ocaml-card.png
 logohandle: ocaml
+posted: true
 sort: ocaml
 title: OCaml
 website: https://ocaml.org/

@@ -38,12 +38,15 @@ layout: none
 <body>
 	<nav class="navbar navbar-default navbar-fixed-top py-1">
 		<div class="container">
-<p class="navbar-text mb-0 d-none d-lg-block" href="/">Image Preview</p>
-<div class="btn-group" role="group" aria-label="Background">
-  <button class="btn btn-outline-dark navbar-btn background-btn" data-background="grid" title="Checkboard background" type="button"><i class="fas fa-th-large"></i></button>
-  <button class="btn btn-outline-dark navbar-btn background-btn" data-background="dark" title="Dark background" type="button"><i class="fas fa-square"></i></button>
-  <button class="btn btn-outline-dark navbar-btn background-btn active" data-background="light" title="Light Background" type="button"><i class="far fa-square"></i></button>
-</div>
+            <p class="navbar-text mb-0 d-none d-lg-block">
+                <i class="fas fa-eye"></i>
+                Image Preview
+            </p>
+            <div class="btn-group" role="group" aria-label="Background">
+                <button class="btn btn-outline-dark navbar-btn background-btn" data-background="grid" title="Checkboard background" type="button"><i class="fas fa-th-large"></i></button>
+                <button class="btn btn-outline-dark navbar-btn background-btn" data-background="dark" title="Dark background" type="button"><i class="fas fa-square"></i></button>
+                <button class="btn btn-outline-dark navbar-btn background-btn active" data-background="light" title="Light Background" type="button"><i class="far fa-square"></i></button>
+            </div>
 
 <div class="btn-group" role="group" aria-label="Zoom">
   <button type="button" class="btn btn-outline-dark navbar-btn zoom-btn" id="zoom_out" title="Zoom out"><i class="fa fa-search-minus"></i></button>
@@ -58,9 +61,13 @@ layout: none
   <button type="button" class="btn btn-outline-dark navbar-btn border-btn" data-border="4" title="Thick border">Thick</button>
 </div>
 
-<a class="btn btn-outline-dark navbar-btn d-none d-sm-block" id="color_analysis" title="Color Analysis" data-toggle="popover" data-title="Color Analysis" data-html="true" data-placement="bottom" data-popped="0"><img class="toolbar" src="/images/toolbar/color_palette.svg" /></a>
-<a class="btn btn-outline-dark navbar-btn d-none d-md-block" id="btn-download" title="Download"><i class="fa fa-download"></i></a>
-<a class="btn btn-outline-dark navbar-btn" href="/" id="btn-exit" title="Exit Preview"><i class="fa fa-sign-out"></i></a>
+            <div class="btn-group d-none d-md-inline-flex" role="group" aria-label="Border">
+                <button type="button" class="btn btn-outline-dark navbar-btn d-none d-sm-block" id="color_analysis" title="Color Analysis" data-toggle="popover" data-title="Color Analysis" data-html="true" data-placement="bottom" data-popped="0"><img class="toolbar" src="/images/toolbar/color_palette.svg" /></a>
+                <button type="button" class="btn btn-outline-dark navbar-btn d-none d-sm-block" id="image_dim" title="Dimensions" data-toggle="popover" data-title="Image Dimensions" data-html="true" data-placement="bottom" data-popped="0"><img class="toolbar" src="/images/toolbar/ruler-triangle-solid.svg" /></i></button>
+                <a type="button" class="btn btn-outline-dark navbar-btn d-none d-sm-block" id="btn-download" title="Edit on Vecta.io"><img class="toolbar" src="/images/toolbar/edit-solid.svg" /></i></a>
+            </div>
+            <a class="btn btn-outline-dark navbar-btn d-none d-md-block" id="btn-download" title="Download"><i class="fa fa-download"></i></a>
+            <a class="btn btn-outline-dark navbar-btn" href="/" id="btn-exit" title="Exit Preview"><i class="fa fa-sign-out"></i></a>
 			
 			<p class="navbar-text mb-0 navbar-right d-none d-lg-block"><a href="/index.html" class="navbar-link">Vector Logo Zone</a></p>
 		</div>
@@ -102,6 +109,15 @@ layout: none
                 var newZoom = Math.min(zoomX, zoomY) * 0.75;
                 img.width = img.naturalWidth * newZoom;
                 img.height = img.naturalHeight * newZoom;
+
+
+                var content = $("<div>");
+                content.append($("<span>").text("Width: " + img.naturalWidth));
+                content.append($("<br>"));
+                content.append($("<span>").text("Height: " + img.naturalHeight));
+
+                $("#image_dim").attr("data-content", content.html());
+                $("#image_dim").popover();
             });
 
             $("#color_analysis").bind('click', function(e) {
@@ -151,6 +167,7 @@ layout: none
 
 			$("#preview-image").attr("src", imgUrl);
 			$("#btn-download").attr("href", imgUrl).attr("download", imgUrl.substring(imgUrl.lastIndexOf('/')+1, imgUrl.length));
+            $("#btn-download").attr("href", "https://vecta.io/app/link?src={{site.production_url}}" + imgUrl);
 			$("#btn-exit").attr("href", imgUrl.substring(0, imgUrl.lastIndexOf('/')));
 		}
 

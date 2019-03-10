@@ -6,8 +6,8 @@ guide: http://documents.ecosia.org/467523/10551325
 images:
 - ecosia-ar21.svg
 - ecosia-icon.svg
-- ecosia-card.png
 logohandle: ecosia
+posted: true
 sort: ecosia
 title: ecosia
 twitter: ecosia

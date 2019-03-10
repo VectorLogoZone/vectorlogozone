@@ -52,7 +52,7 @@
     <div class="navbar">
         <a class="home-link navbar-brand" href="/index.html"><!--<amp-img src="https://www.vectorlogo.zone/favicon.svg" width="24" height="24" /> -->VectorLogoZone</a>
         {% assign without_logos = page.title  | default: "(untitled)" | split: ' ' | size | minus: 1 %}
-        <a class="search-link" href="/search.html?q={{page.title | default: "(untitled)" | split: ' ' | slice: 0, without_logos | join: ' '}}">Search</a>
+        <a class="search-link" href="/index.html?q={{page.title | default: "(untitled)" | split: ' ' | slice: 0, without_logos | join: ' '}}">Search</a>
     </div>
     <div class="content">
         <h1>{{page.title | default: "(untitled)"}}</h1>

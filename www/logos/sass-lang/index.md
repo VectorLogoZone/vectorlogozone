@@ -1,6 +1,7 @@
 ---
 keywords: scss
 logohandle: sass-lang
+posted: true
 sort: sass
 title: Sass
 twitter: SassCSS

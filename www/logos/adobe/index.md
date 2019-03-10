@@ -9,8 +9,8 @@ guide: https://www.adobe.com/content/dam/acom/en/legal/documents/Adobe_Trademark
 images:
 - adobe-ar21.svg
 - adobe-icon.svg
-- adobe-card.png
 logohandle: adobe
+posted: true
 sort: adobe
 tags:
 - graphics

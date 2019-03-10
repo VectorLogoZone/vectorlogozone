@@ -9,9 +9,9 @@ guide: https://brand.heroku.com/
 images:
 - heroku-icon.svg
 - heroku-ar21.svg
-- heroku-card.png
 layout: default
 logohandle: heroku
+posted: true
 sort: heroku
 tags:
 - hosting

@@ -6,8 +6,8 @@ github: angular/angular
 images:
 - angular-icon.svg
 - angular-ar21.svg
-- angular-card.png
 logohandle: angular
+posted: true
 sort: angular.js
 tags:
 - programming_library

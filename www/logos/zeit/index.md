@@ -6,9 +6,9 @@ guide: https://github.com/zeit/art
 images:
 - zeit-ar21.svg
 - zeit-icon.svg
-- zeit-card.png
 linkedin: https://www.linkedin.com/company/16181286/
 logohandle: zeit
+posted: true
 sort: zeit
 tags:
 - hosting

@@ -1,0 +1,4 @@
+#
+# additional config to speed up rebuilds during local development
+#
+exclude: [ "*.sh", "**/*_src*", "logos/[^im]*" ]

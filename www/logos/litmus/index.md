@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/litmusapp'
+facebook: https://facebook.com/litmusapp
 logohandle: litmus
+posted: true
 sort: litmus
-title: 'Litmus'
+title: Litmus
 twitter: litmusapp
-website: 'https://litmus.com/'
+website: https://litmus.com/
 ---
-

@@ -88,6 +88,9 @@
   "apache_tomcat": [
     "tomcat.svg"
   ],
+  "apigee": [
+    "apigee.svg"
+  ],
   "appdynamics": [
     "appdynamics.svg"
   ],
@@ -228,11 +231,20 @@
   "cocoapods": [
     "cocoapods.svg"
   ],
+  "codacy": [
+    "codacy.svg"
+  ],
   "codecademy": [
     "codecademy.svg"
   ],
+  "codeception": [
+    "codeception.svg"
+  ],
   "codeclimate": [
     "codeclimate.svg"
+  ],
+  "codecovio": [
+    "codecov.svg"
   ],
   "codefundio": [
     "codefund.svg"
@@ -266,6 +278,9 @@
   "coursera": [
     "coursera.svg"
   ],
+  "coverallsio": [
+    "coveralls.svg"
+  ],
   "crateio": [
     "crateio.svg"
   ],
@@ -298,6 +313,9 @@
   ],
   "digitalocean": [
     "digital-ocean.svg"
+  ],
+  "dimerapp": [
+    "dimer.svg"
   ],
   "discordapp": [
     "discord.svg"
@@ -379,6 +397,9 @@
   "ethereum": [
     "ethereum.svg"
   ],
+  "expoio": [
+    "expo.svg"
+  ],
   "expressjs": [
     "express.svg"
   ],
@@ -424,6 +445,9 @@
   ],
   "getgrav": [
     "grav.svg"
+  ],
+  "getkirby": [
+    "kirby.svg"
   ],
   "getmonero": [
     "monero.svg"
@@ -755,6 +779,9 @@
   "mozilla": [
     "mozilla.svg"
   ],
+  "nativescript": [
+    "nativescript.svg"
+  ],
   "neo4j": [
     "neo4j.svg"
   ],
@@ -878,6 +905,9 @@
   "pytorch": [
     "pytorch.svg"
   ],
+  "pyupio": [
+    "pyup.svg"
+  ],
   "qtio": [
     "qt.svg"
   ],
@@ -892,6 +922,9 @@
   ],
   "rackspace": [
     "rackspace.svg"
+  ],
+  "ramdajs": [
+    "ramda.svg"
   ],
   "rancher": [
     "rancher.svg"
@@ -955,6 +988,9 @@
   ],
   "seleniumhq": [
     "selenium.svg"
+  ],
+  "semantic-ui": [
+    "semantic-ui.svg"
   ],
   "semaphoreci": [
     "semaphore.svg"

@@ -34,8 +34,6 @@ redirect_from: /logos/inventory.html
                 <!-- / {% capture logofile %}{{ logopage.logohandle }}-{{imagetype.rastersuffix}}.png{% endcapture %}{% if logopage.images contains logofile %}{{ checkon }}{% assign count = count | minus:1 %}{% else %}{{ checkoff }}{% endif %}-->
             </td>
 {%- endif %}{% endfor -%}
-            {%- capture logocard %}{{ logopage.logohandle }}{{ '-card.png' }}{% endcapture -%}
-            {%- if logopage.images contains logocard %}{% assign count = count | minus:1 %}{% endif -%}
             <td class="text-center d-none d-lg-table-cell d-print-table-cell">
                 {%- if count > 0 %}{{ count }}{% assign imgcount = imgcount | plus:count %}{% endif -%}
             </td>

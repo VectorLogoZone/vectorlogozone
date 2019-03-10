@@ -7,6 +7,7 @@ images:
 instagram: https://www.instagram.com/figmadesign/
 logohandle: figma
 medium: https://medium.com/figma-design
+posted: true
 sort: figma
 title: Figma
 twitter: figmadesign

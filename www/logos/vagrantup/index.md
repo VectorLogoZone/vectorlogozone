@@ -3,10 +3,10 @@ github: mitchellh/vagrant
 images:
 - vagrantup-official.svg
 - vagrantup-ar21.svg
-- vagrantup-card.png
 - vagrantup-icon.svg
 layout: default
 logohandle: vagrantup
+posted: true
 sort: vagrant
 tags:
 - new

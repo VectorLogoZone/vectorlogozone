@@ -1,12 +1,13 @@
 ---
-facebook: 'https://facebook.com/forrester'
-googleplus: 'https://plus.google.com/+forrester'
-linkedin: 'https://linkedin.com/company/forrester-research'
+facebook: https://facebook.com/forrester
+googleplus: https://plus.google.com/+forrester
+linkedin: https://linkedin.com/company/forrester-research
 logohandle: forrester
+posted: true
 sort: forrester
 title: Forrester
 twitter: forrester
-website: 'https://go.forrester.com/'
+website: https://go.forrester.com/
 wikipedia: https://en.wikipedia.org/wiki/Forrester_Research
-youtube: 'https://youtube.com/forresterresearch'
+youtube: https://youtube.com/forresterresearch
 ---

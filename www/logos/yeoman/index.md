@@ -5,10 +5,10 @@ guide: https://github.com/yeoman/media
 images:
 - yeoman-official.svg
 - yeoman-ar21.svg
-- yeoman-card.png
 - yeoman-icon.svg
 layout: default
 logohandle: yeoman
+posted: true
 sort: yeoman
 tags:
 - webdev

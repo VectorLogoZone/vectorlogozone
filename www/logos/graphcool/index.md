@@ -3,10 +3,10 @@ blog: https://blog.graph.cool/
 facebook: https://facebook.com/GraphcoolHQ
 github: graphcool
 images:
-- graphcool-card.png
 - graphcool-ar21.svg
 - graphcool-icon.svg
 logohandle: graphcool
+posted: true
 sort: graphcool
 title: Graphcool
 twitter: graphcool

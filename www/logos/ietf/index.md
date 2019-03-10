@@ -4,8 +4,8 @@ github: ietf
 images:
 - ietf-ar21.svg
 - ietf-icon.svg
-- ietf-card.png
 logohandle: ietf
+posted: true
 sort: ietf
 title: IETF
 website: https://www.ietf.org/

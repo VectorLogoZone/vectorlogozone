@@ -8,8 +8,8 @@ github: aggdata
 images:
 - aggdata-icon.svg
 - aggdata-ar21.svg
-- aggdata-card.png
 logohandle: aggdata
+posted: true
 sort: aggdata
 tags:
 - data

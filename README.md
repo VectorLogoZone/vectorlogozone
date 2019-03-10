@@ -3,6 +3,7 @@
 
 [![# of logos](https://img.shields.io/badge/dynamic/json.svg?label=logos&url=https%3A%2F%2Fwww.vectorlogo.zone%2Fstatus.json&query=%24.pages)](https://www.vectorlogo.zone/logos/index.html)
 [![# of images](https://img.shields.io/badge/dynamic/json.svg?label=images&url=https%3A%2F%2Fwww.vectorlogo.zone%2Fstatus.json&query=%24.images)](https://www.vectorlogo.zone/logos/index.html)
+[![30 day uptime](https://img.shields.io/nodeping/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu.svg?label=30-day%20uptime&style=flat)](https://nodeping.com/reports/checks/jy4da3gc-f8yv-4zom-8h9b-pamekbkzl7lj)
 [![Travis CI build status](https://img.shields.io/travis/VectorLogoZone/vectorlogozone.svg)](https://travis-ci.org/VectorLogoZone/vectorlogozone)
 
 <!--
@@ -16,9 +17,9 @@ good together next to each other.
 
 I also allow hot-linking, so you do not have to make copies of the images in order to display them on your website, though you are free to do so!
 
-The [search page](https://www.vectorlogo.zone/search.html?q=s) is especially useful, and can search for [svg logos in other repos on Github](https://www.vectorlogo.zone/search-github.html?q=open).
+There is also an expanded search at [Awesome Logos](https://www.awesomelogos.org/search.html?q=s) website that is especially useful: it searches through a bunch of [other open logo sources](https://www.awesomelogos.org/sources/index.html).
 
-There are [tons](https://www.vectorlogo.zone/search-other.html) of other logo sites, but none met these basic requirements.
+There are [tons](https://www.awesomelogos.org/alternatives/index.html) of other logo sites, but none met these basic requirements.
 
 Share:
 <a href="https://simpleshare.io/go?site=facebook&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" height="24" /></a>
@@ -66,6 +67,7 @@ modifications to the logos are in the public domain.
 [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "build-time scripts")
 [![rsvg](https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg)](https://wiki.gnome.org/Projects/LibRsvg "build-time rasterization")
 [![Shields.IO](https://www.vectorlogo.zone/logos/shieldsio/shieldsio-ar21.svg)](http://shields.io/ "README badges")
+[![SimpleShare.IO](https://www.vectorlogo.zone/logos/simpleshareio/simpleshareio-ar21.svg)](http://simpleshare.io/ "Social media share links")
 [![SuperTinyIcons](https://www.vectorlogo.zone/logos/supertinyicons/supertinyicons-ar21.svg)](https://github.com/edent/SuperTinyIcons "tile versions")
 [![svgo](https://www.vectorlogo.zone/logos/svgo/svgo-ar21.svg)](https://www.github.com/svg/svgo "SVG optimization")
 [![SVGPorn](https://www.vectorlogo.zone/logos/svgporn/svgporn-ar21.svg)](https://svgporn.com/ "Icon versions of various logos")

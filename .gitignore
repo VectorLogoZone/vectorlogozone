@@ -7,3 +7,4 @@ _site/
 tmp*
 work-in-progress/
 *.tgz
+Gemfile.lock

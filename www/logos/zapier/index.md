@@ -9,12 +9,12 @@ font:
 github: zapier
 guide: https://zapier.com/brand/
 images:
-- zapier-card.png
 - zapier-ar21.svg
 - zapier-icon.svg
 - zapier-official.svg
 linkedin: http://www.linkedin.com/company/zapier/
 logohandle: zapier
+posted: true
 sort: zapier
 title: Zapier
 twitter: zapier

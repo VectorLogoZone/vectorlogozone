@@ -11,9 +11,9 @@
 {% assign sorted_images = page.images | sort %}{% for image in sorted_images %}
 		<tr>
 			<td class="d-none d-md-table-cell" style="white-space:nowrap;vertical-align:middle;">
-				<a class="btn btn-secondary btn-sm" href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" title="preview" rel="nofollow"><i class="fa fa-search"></i></a>
+				<a class="btn btn-secondary btn-sm" href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" title="preview" rel="nofollow"><i class="far fa-eye"></i></a>
 				<a class="btn btn-secondary btn-sm" download="{{image}}" href="{{image}}" title="Download"><i class="fa fa-download"></i></a>
-				<a class="btn btn-secondary btn-sm" href="https://github.com/VectorLogoZone/vectorlogozone/commits/gh-pages/www/logos/{{page.logohandle}}/{{image}}" title="revision history" rel="nofollow"><i class="fa fa-history"></i></a>
+				<a class="btn btn-secondary btn-sm" href="https://vecta.io/app/link?src={{site.production_url}}/logos/{{page.logohandle}}/{{image}}" title="Edit on Vecta.io" rel="nofollow"><i class="far fa-edit"></i></a>
                 <button class="btn btn-secondary btn-sm copy2cb" data-clipboard-text="{{site.production_url}}/logos/{{page.logohandle}}/{{image}}" href="#" title="Copy URL to Clipboard" rel="nofollow"><i class="far fa-clipboard"></i></button>
                 <div style="position:relative;display:inline-block;"><button class="btn btn-primary btn-sm copy2tip" style="position:absolute;left:0;right:0;">Copied to Clipboard</button>
                 <a class="btn btn-secondary btn-sm" href="/util/convert_to_png.html?svg=/logos/{{page.logohandle}}/{{image}}" title="Convert to PNG" rel="nofollow"><i class="fa fa-exchange"></i></a>
@@ -44,7 +44,10 @@
 {% endfor %}
 	</tbody>
 </table>
-{% if page.skipped > 0 %}
-<p><a href="https://github.com/VectorLogoZone/vectorlogozone/tree/gh-pages//www/logos/{{page.logohandle}}" style="btn btn-default">More...</a></p>
-{% endif %}
+<p>
+	<a class="btn btn-secondary" href="https://github.com/VectorLogoZone/vectorlogozone/commits/gh-pages/www/logos/{{page.logohandle}}">
+		<i class="fa fa-history"></i>
+		View history
+	</a>
+</p>
 </div></div>

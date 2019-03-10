@@ -17,7 +17,6 @@ before_script:
 - cd bin
 - python3 chksvgname.py
 - python3 chkmeta.py
-- "./mkcard.sh"
 - python3 frontmatter_update.py
 - python3 fm2tag.py
 - python3 mkamp.py

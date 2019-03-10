@@ -3,8 +3,8 @@ github: svg/svgo
 images:
 - svgo-icon.svg
 - svgo-ar21.svg
-- svgo-card.png
 logohandle: svgo
+posted: true
 sort: svgo
 tags:
 - svg

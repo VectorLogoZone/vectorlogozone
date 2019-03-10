@@ -1,6 +1,8 @@
 ---
 facebook: 'https://facebook.com/infor'
 googleplus: 'https://plus.google.com/+InforGlobal'
+images:
+- infor-ar21.svg
 linkedin: 'http://linkedin.com/company/infor'
 logohandle: infor
 sort: infor

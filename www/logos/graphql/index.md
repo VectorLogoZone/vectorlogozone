@@ -6,6 +6,7 @@ images:
 - graphql-ar21.svg
 - graphql-icon.svg
 logohandle: graphql
+posted: true
 sort: graphql
 title: GraphQL
 twitter: GraphQL

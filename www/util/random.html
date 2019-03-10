@@ -11,7 +11,7 @@ noindex: true
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title }}</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
-    <script src="/js/jquery-2.1.4.js"></script>
+    <script src="/js/jquery-3.3.1.min.js"></script>
     <style type="text/css">
         html, body { width: 100%; height: 100% }
         #preview-container { width: 100%; height:100%;background-image: url("/images/preview/background_light.png"); background-repeat: repeat-x repeat-y;}
@@ -47,8 +47,8 @@ noindex: true
     }
 
     var logos = [
-    {% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
-        "/logos/{{logopage.logohandle}}/{{logopage.logohandle}}-ar21.svg",
+    {% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
+        "/logos/{{logopage.logohandle}}/{{logopage.logohandle}}-icon.svg",
         {% endif %}{% endif %}{% endfor %}
         null
     ];
