@@ -1,4 +1,5 @@
 ---
+colors: [ '#0088BB', '#2FBBCB', '#015B7D' ]
 facebook: 'https://facebook.com/getMoven'
 github: moven
 instagram: 'https://instagram.com/getmoven'
