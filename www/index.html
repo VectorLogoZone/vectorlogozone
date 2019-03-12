@@ -66,7 +66,7 @@ $(function() {
 	window.default_logos = [{%- for logohandle in default_logos %} "{{logohandle}}"{% unless forloop.last %},{% endunless %}{%- endfor %} ];
 
 	// Download the data from the JSON file we generated
-	window.data = $.getJSON('/util/fulltext.json');
+	window.data = $.getJSON('/util/fulltext.json?version={{site.time | date_to_xmlschema | url_encode }}');
 
 	// Wait for the data to load and add it to lunr
 	window.data.then(function(loaded_data){
