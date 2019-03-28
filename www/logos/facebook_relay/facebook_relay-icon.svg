@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="64" height="64" viewBox="0 0 32 32" version="1.1" preserveAspectRatio="xMidYMid" id="svg2" inkscape:version="0.91 r13725" sodipodi:docname="facebook_relay-icon.svg">
-  <metadata id="metadata12">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs id="defs10"/>
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1566" inkscape:window-height="1021" id="namedview8" showgrid="false" inkscape:zoom="1.1640625" inkscape:cx="128" inkscape:cy="75.5" inkscape:window-x="65" inkscape:window-y="24" inkscape:window-maximized="0" inkscape:current-layer="svg2"/>
-  <g id="g4" transform="matrix(0.125,0,0,0.1249969,0,6.165)">
-    <path d="m 208.61511,119.90817 -111.932229,0 c -10.536383,0 -19.109025,-8.57214 -19.109025,-19.10751 0,-10.538403 8.57163,-19.111045 19.109025,-19.111045 l 61.129039,0 c 17.84019,0 32.35264,-14.51296 32.35264,-32.352639 0,-17.839679 -14.51195,-32.354156 -32.35264,-32.354156 l -110.588545,0 C 44.169501,7.1434413 34.994818,0 24.151994,0 10.8107,0 0,10.8107 0,24.151994 c 0,13.341294 10.811712,24.151994 24.153006,24.151994 11.239016,0 20.686787,-7.676762 23.381289,-18.075531 l 0,0 110.278635,0 c 10.53487,0 19.10751,8.572642 19.10751,19.109025 0,10.536384 -8.57214,19.109026 -19.10751,19.109026 l -61.129037,0 c -17.839679,0 -32.354157,14.513971 -32.354157,32.354152 0,17.84019 14.513466,32.35264 32.354157,32.35264 l 111.930647,0 c 2.87778,10.12084 12.18839,17.53044 23.23347,17.53044 13.34129,0 24.15199,-10.8107 24.15199,-24.15199 0,-13.34129 -10.8107,-24.15199 -24.15199,-24.15199 -11.04434,0 -20.35445,7.40861 -23.2329,17.52841 z" id="path6" inkscape:connector-curvature="0" style="fill:#f26b00"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 32 32" preserveAspectRatio="xMidYMid"><path d="M26.077 21.153H12.085a2.39 2.39 0 0 1-2.389-2.388 2.39 2.39 0 0 1 2.389-2.389h7.64a4.05 4.05 0 0 0 4.044-4.044 4.05 4.05 0 0 0-4.044-4.044H5.903A3.02 3.02 0 0 0 0 9.184a3.02 3.02 0 0 0 5.942.76h13.785a2.39 2.39 0 0 1 2.388 2.389 2.39 2.39 0 0 1-2.388 2.389h-7.64a4.05 4.05 0 0 0-4.044 4.044 4.05 4.05 0 0 0 4.044 4.044h14a3.02 3.02 0 1 0 0-1.657z" fill="#f26b00"/></svg>
