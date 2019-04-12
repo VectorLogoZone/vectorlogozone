@@ -1,17 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" viewBox="0 0 32 32" version="1.1" id="svg4" sodipodi:docname="apple_appstore-icon.svg" width="64" height="64" inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
-  <metadata id="metadata10">
-    <rdf:RDF>
-      <cc:Work rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-        <dc:title/>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <defs id="defs8"/>
-  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1920" inkscape:window-height="1001" id="namedview6" showgrid="false" inkscape:zoom="4.72" inkscape:cx="-0.84745763" inkscape:cy="25" inkscape:window-x="-9" inkscape:window-y="-9" inkscape:window-maximized="1" inkscape:current-layer="svg4"/>
-  <g id="g818" transform="matrix(0.69565217,0,0,0.69565217,-1.3913043,11.130435)">
-    <path inkscape:connector-curvature="0" id="path2" d="M 25,-16 C 12.318,-16 2,-5.683 2,7 2,19.683 12.318,30 25,30 37.682,30 48,19.683 48,7 48,-5.683 37.682,-16 25,-16 Z m -3.594,13.826 c 0.315,-0.54 1.008,-0.721 1.548,-0.406 l 1.004,0.588 c 0.539,0.316 0.721,1.009 0.406,1.549 L 23.369,1.26 20.412,-0.47 Z m -11.079,7.5 h 6.147 l -1.957,3.306 h -4.19 z m 1.48,12.748 c -0.072,0.07 -0.183,0.084 -0.27,0.033 -0.087,-0.051 -0.129,-0.154 -0.104,-0.251 l 1.43,-5.412 2.957,1.73 z m 1.429,-6.269 6.932,-11.861 2.957,1.73 -6.932,11.861 z m 6.352,-3.172 1.836,-3.306 h 7.086 l 1.836,3.306 z m 3.595,-13.614 c -0.314,-0.54 -0.13,-1.232 0.409,-1.546 l 0.92,-0.535 c 0.54,-0.314 1.231,-0.13 1.545,0.409 l 7.84,13.497 -2.874,1.671 z m 8.162,14.051 2.874,-1.671 1.662,2.861 -2.874,1.671 z m 6.05,8.916 c -0.066,0.091 -0.236,0.015 -0.286,-0.065 -0.134,-0.212 -0.014,-0.498 -0.438,-1.145 -0.775,-1.182 -1.802,-0.948 -2.797,-2.614 -0.175,-0.293 -0.768,-1.637 10e-4,-2.097 0.409,-0.245 1.106,-0.657 1.573,-0.922 0.789,-0.448 1.52,0.494 1.925,1.085 0.864,1.265 1.216,4.106 0.022,5.758 z M 39.63,8.633 H 35.506 L 33.707,5.327 h 5.923 z"/>
-  </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="64" height="64"><path d="M16 0C7.178 0 0 7.177 0 16s7.178 16 16 16 16-7.177 16-16S24.822 0 16 0zm-2.5 9.618c.22-.376.7-.502 1.077-.282l.698.4a.79.79 0 0 1 .282 1.078L14.865 12l-2.057-1.203zm-7.707 5.217h4.276l-1.36 2.3H5.793zm1.03 8.868c-.05.05-.127.058-.188.023s-.1-.107-.072-.175l.995-3.765 2.057 1.203zm.994-4.36l4.822-8.25 2.057 1.203-4.822 8.25zm4.42-2.207l1.277-2.3h4.93l1.277 2.3zm2.5-9.47c-.218-.376-.1-.857.285-1.075l.64-.372c.376-.218.856-.1 1.075.285l5.454 9.4-2 1.162zm5.678 9.775l2-1.162 1.156 2-2 1.162zm4.2 6.202c-.046.063-.164.01-.2-.045-.093-.147-.01-.346-.305-.797-.54-.822-1.254-.66-1.946-1.818-.122-.204-.534-1.14.001-1.46l1.094-.64c.55-.312 1.057.344 1.34.755.6.88.846 2.856.015 4.006zm1.555-6.506H23.3l-1.25-2.3h4.12z"/></svg>

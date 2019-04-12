@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512" viewBox="0 0 512 512">
-    <rect width="512" height="512" rx="76" fill="#ffb13b"/>
-    <g transform="matrix(1.36472 0 0 1.36472 52.292 50.292)">
-        <g stroke="#000" stroke-width="38.009">
-            <g transform="translate(150 150)" id="b">
-                <path d="M-84.149-15.851a22.417 22.417 0 1 0 0 31.702H84.15a22.417 22.417 0 1 0 0-31.702z" id="a" fill="#fff"/>
-                <use height="100%" width="100%" transform="rotate(45)" xlink:href="#a"/>
-                <use height="100%" width="100%" transform="rotate(90)" xlink:href="#a"/>
-                <use height="100%" width="100%" transform="rotate(135)" xlink:href="#a"/>
-            </g>
-        </g>
-        <use height="100%" width="100%" xlink:href="#b"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="512" height="512"><rect width="512" height="512" rx="76" fill="#ffb13b"/><g transform="matrix(1.36472 0 0 1.36472 52.292 50.292)"><g stroke="#000"><g transform="translate(150 150)" id="A"><path d="M-84.15-15.85a22.417 22.417 0 1 0 0 31.702h168.3a22.417 22.417 0 1 0 0-31.702z" id="B" fill="#fff" stroke-width="38.009"/><g stroke-width="38.009"><use transform="rotate(45)" xlink:href="#B"/><use transform="rotate(90)" xlink:href="#B"/><use transform="rotate(135)" xlink:href="#B"/></g></g></g><use xlink:href="#A"/></g></svg>
