@@ -1,9 +1,9 @@
 ---
 facebook: 'https://facebook.com/prestodb'
-github: facebook/presto
+github: prestosql/presto
 logohandle: prestodb
 sort: prestodb
 title: PrestoDB
-website: 'https://prestodb.io/'
+website: 'https://prestosql.io/'
 ---
 
