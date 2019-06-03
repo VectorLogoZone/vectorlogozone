@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFF00;}
+	.st1{fill:#333333;}
+</style>
+<g>
+	<g id="Clip-11">
+	</g>
+	<path class="st0" d="M0,0v13.55l17.88-0.1l11.88,11.88l-4.63,4.63L15.08,19.92L0,19.95v24.2h15.6l30.52-30.68H64V0C64,0,0,0,0,0z
+		 M48.92,19.95l-30.65,30.6H0V64h64V50.5H45.68L34.2,39.02l4.62-4.62l9.68,9.68H64V19.95C64,19.95,48.92,19.95,48.92,19.95z"/>
+	<polygon class="st1" points="0,19.95 15.08,19.92 25.12,29.95 29.75,25.32 17.88,13.45 0,13.55 	"/>
+	<polygon class="st1" points="0,44.15 15.6,44.15 46.12,13.48 64,13.48 64,19.95 48.92,19.95 18.28,50.55 0,50.55 	"/>
+	<polygon class="st1" points="34.2,39.02 38.82,34.4 48.5,44.08 64,44.08 64,50.5 45.68,50.5 	"/>
+</g>
+</svg>
