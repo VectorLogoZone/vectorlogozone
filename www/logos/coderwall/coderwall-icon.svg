@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}
+</style>
+<g id="Clip-11">
+</g>
+<g>
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="2.5532" y1="-539.8887" x2="2.5532" y2="-534.861" gradientTransform="matrix(12.7292 0 0 12.7292 -0.5 6872.3521)">
+		<stop  offset="0" style="stop-color:#41B8D0"/>
+		<stop  offset="1" style="stop-color:#256FBB"/>
+	</linearGradient>
+	<path class="st0" d="M64,56c0,4.42-3.58,8-8,8H8c-4.42,0-8-3.58-8-8V8c0-4.42,3.58-8,8-8h48c4.42,0,8,3.58,8,8V56z"/>
+	<circle class="st1" cx="12.74" cy="15.26" r="5.18"/>
+	<path class="st1" d="M37.08,15.26c0,2.86-2.32,5.18-5.18,5.18c-2.86,0-5.18-2.32-5.18-5.18c0-2.86,2.32-5.18,5.18-5.18
+		C34.76,10.08,37.08,12.4,37.08,15.26z"/>
+	<path class="st1" d="M56.12,15.26c0,2.86-2.32,5.18-5.18,5.18c-2.86,0-5.18-2.32-5.18-5.18c0-2.86,2.32-5.18,5.18-5.18
+		C53.8,10.08,56.12,12.4,56.12,15.26z"/>
+	<path class="st1" d="M37.08,32.43c0,2.86-2.32,5.18-5.18,5.18c-2.86,0-5.18-2.32-5.18-5.18c0-2.86,2.32-5.18,5.18-5.18
+		C34.76,27.25,37.08,29.57,37.08,32.43z"/>
+	<path class="st1" d="M56.12,32.32c0,2.86-2.32,5.18-5.18,5.18c-2.86,0-5.18-2.32-5.18-5.18c0-2.86,2.32-5.18,5.18-5.18
+		C53.8,27.14,56.12,29.46,56.12,32.32z"/>
+	<path class="st1" d="M56.12,49.84c0,2.86-2.32,5.18-5.18,5.18c-2.86,0-5.18-2.32-5.18-5.18c0-2.86,2.32-5.18,5.18-5.18
+		C53.8,44.66,56.12,46.98,56.12,49.84z"/>
+</g>
+</svg>
