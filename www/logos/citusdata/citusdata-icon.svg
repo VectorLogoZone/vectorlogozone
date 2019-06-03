@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1"
+	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
+	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#Adobe_OpacityMaskFilter);}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st2{mask:url(#mask-2_5_);fill-rule:evenodd;clip-rule:evenodd;fill:#1B324F;}
+	.st3{filter:url(#Adobe_OpacityMaskFilter_1_);}
+	.st4{mask:url(#mask-2_4_);fill-rule:evenodd;clip-rule:evenodd;fill:#239646;}
+</style>
+<g id="Clip-11">
+</g>
+<g>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="1.78" y="2.08" width="61.96" height="40.21">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="1.78" y="2.08" width="61.96" height="40.21" id="mask-2_5_">
+		<g class="st0">
+			<path id="path-1_5_" class="st1" d="M264.06,31.98v29.91H0.04V2.08h264.02V31.98L264.06,31.98z"/>
+		</g>
+	</mask>
+	<path id="Fill-12" class="st2" d="M43.33,26.08c0.9-4.52-11.99-6.41-19.39,2.69c-8.33,10.24,8.41,20.89,27.38,6.57
+		c12.14-9.16,15.99-21.76,8.85-28.23C46.41-5.37,12.97,6.34,1.78,31.29C12.97,12.39,41.08,3.47,52.28,15
+		c4.68,4.82,2.07,14.48-6.53,18.62C31.86,40.06,33.25,25.86,43.33,26.08"/>
+	<defs>
+		<filter id="Adobe_OpacityMaskFilter_1_" filterUnits="userSpaceOnUse" x="0" y="15.12" width="64" height="46.81">
+			<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+		</filter>
+	</defs>
+	<mask maskUnits="userSpaceOnUse" x="0" y="15.12" width="64" height="46.81" id="mask-2_4_">
+		<g class="st3">
+			<path id="path-1_4_" class="st1" d="M264.06,31.98v29.91H0.04V2.08h264.02V31.98L264.06,31.98z"/>
+		</g>
+	</mask>
+	<path id="Fill-13" class="st4" d="M42.58,16.18c-23-6.91-54.19,21.35-38.19,39.92C15.05,68.46,52.05,62.48,64,25.13
+		c-14.15,25.8-40.74,29.55-50.8,22.17C1.32,38.58,16.09,14.23,42.58,16.18"/>
+</g>
+</svg>
