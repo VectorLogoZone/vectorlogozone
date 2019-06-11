@@ -3,6 +3,7 @@ facebook: 'https://www.facebook.com/Maersk/'
 instagram: 'https://www.instagram.com/maerskgroup/'
 linkedin: 'https://www.linkedin.com/company/maersk-group/'
 logohandle: maersk
+noindex: true
 sort: maersk
 title: Maersk
 twitter: Maersk

@@ -22,19 +22,20 @@ layout: default
 	<div role="tabpanel" class="tab-pane vlz-tab-data" id="tab-data-{{ letter }}" {% if forloop.first %}{% else %}style="display:hidden;"{% endif %} >
 		<p></p>
 		<div class="logo-container" id="vector{{ letter }}">
-
-    {%- for logopage in sorted_pages -%}
-        {%- if logopage.logohandle -%}
-            {%- capture logofile %}{{ logopage.logohandle }}-ar21.svg{% endcapture -%}
-            {%- if logopage.images contains logofile -%}
-                {%- assign startsWith = logopage.sort | slice: 0,1 -%}
-                {%- if letter contains startsWith %}
+		{%- if post.noindex %}{% else %}
+			{%- for logopage in sorted_pages -%}
+				{%- if logopage.logohandle -%}
+					{%- capture logofile %}{{ logopage.logohandle }}-ar21.svg{% endcapture -%}
+					{%- if logopage.images contains logofile -%}
+						{%- assign startsWith = logopage.sort | slice: 0,1 -%}
+						{%- if letter contains startsWith %}
             <a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} logo" src="{{ logopage.logohandle }}/{{ logofile }}" title="{{logopage.title}}"/></a>
-                {%- assign logocount = logocount | plus:1 %}
-                {%- endif -%}
-			{%- endif -%}
+							{%- assign logocount = logocount | plus:1 %}
+						{%- endif -%}
+					{%- endif -%}
+				{%- endif %}
+			{%- endfor %}
 		{%- endif -%}
-    {%- endfor %}
 		<p>Count: {{ logocount }}</p>
 		</div>
 	</div>

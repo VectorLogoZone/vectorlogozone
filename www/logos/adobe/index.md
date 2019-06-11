@@ -10,6 +10,7 @@ images:
 - adobe-ar21.svg
 - adobe-icon.svg
 logohandle: adobe
+noindex: true
 posted: true
 sort: adobe
 tags:
@@ -21,3 +22,5 @@ twitter: Adobe
 website: https://www.adobe.com/
 wikipedia: https://en.wikipedia.org/wiki/Adobe_Systems
 ---
+
+The actual logos have been removed at [Adobe's request](2019-04-30_adobe_takedown.pdf).

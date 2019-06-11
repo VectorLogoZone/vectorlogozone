@@ -43,9 +43,11 @@ redirect_from:
 {%- assign all = "" | split: '' %}
 {%- for logopage in sorted_pages %}
     {%- capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
-    {%- if logopage.images contains logofile %}
-        {%- assign all = all | push: logopage.logohandle %}
-    {%- endif %}
+	{%- if post.noindex %}{% else %}
+		{%- if logopage.images contains logofile %}
+        	{%- assign all = all | push: logopage.logohandle %}
+		{%- endif %}
+	{%- endif %}
 {%- endfor %}
 {%- assign default_logos = all | sample: 48 %}
 <script src="/js/lunr.min.js"></script>
