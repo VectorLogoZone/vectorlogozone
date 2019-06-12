@@ -1,19 +1,63 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
-	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
+   xml:space="preserve"
+   sodipodi:docname="cmake-icon.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"><metadata
+     id="metadata19"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs17" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="654"
+     inkscape:window-height="480"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" /><style
+     type="text/css"
+     id="style2">
 	.st0{fill:#064F8C;}
 	.st1{fill:#249847;}
 	.st2{fill:#BE2128;}
 	.st3{fill:#CDCDCE;}
-</style>
-<g>
-	<polygon class="st0" points="31.38,0.18 0.18,61.88 34.2,32.97 	"/>
-	<polygon class="st1" points="61.88,63.82 19.92,46.9 0,63.82 	"/>
-	<polygon class="st2" points="64,63.29 32.79,1.23 37.38,52.54 	"/>
-	<polygon class="st3" points="34.38,34.56 20.98,46.02 35.97,52.01 	"/>
-</g>
-</svg>
+</style><g
+     id="g12"><polygon
+       class="st0"
+       points="31.38,0.18 0.18,61.88 34.2,32.97  "
+       id="polygon4" /><polygon
+       class="st1"
+       points="61.88,63.82 19.92,46.9 0,63.82  "
+       id="polygon6" /><polygon
+       class="st2"
+       points="64,63.29 32.79,1.23 37.38,52.54  "
+       id="polygon8" /><polygon
+       class="st3"
+       points="34.38,34.56 20.98,46.02 35.97,52.01  "
+       id="polygon10" /></g></svg>
