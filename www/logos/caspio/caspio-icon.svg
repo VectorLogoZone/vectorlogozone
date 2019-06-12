@@ -1,29 +1,70 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1"
-	 id="svg2" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg"
-	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64"
-	 style="enable-background:new 0 0 64 64;" xml:space="preserve">
-<style type="text/css">
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="svg2"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   style="enable-background:new 0 0 64 64;"
+   xml:space="preserve"
+   sodipodi:docname="caspio-icon.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"><metadata
+     id="metadata24"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+     id="defs22" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="654"
+     inkscape:window-height="480"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" /><style
+     type="text/css"
+     id="style2">
 	.st0{fill:#B2D0E1;}
 	.st1{fill:#72AAC9;}
 	.st2{fill:#3383B1;}
 	.st3{fill:#00649E;}
-</style>
-<g id="Clip-11">
-</g>
-<g>
-	<path class="st0" d="M28.97,13.45c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81
-		c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L28.97,13.45"/>
-	<path class="st1" d="M45.31,28.88c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81
-		c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L45.31,28.88"/>
-	<path class="st1" d="M27.68,37.14c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81
-		c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L27.68,37.14"/>
-	<path class="st2" d="M44.03,50.36c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81
-		c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L44.03,50.36"/>
-	<path class="st3" d="M39.62,63.22c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81
-		c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L39.62,63.22"/>
-	<path class="st2" d="M26.58,58.63c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81
-		c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L26.58,58.63"/>
-</g>
-</svg>
+</style><g
+     id="Clip-11" /><g
+     id="g17"><path
+       class="st0"
+       d="M28.97,13.45c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81   c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L28.97,13.45"
+       id="path5" /><path
+       class="st1"
+       d="M45.31,28.88c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81   c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L45.31,28.88"
+       id="path7" /><path
+       class="st1"
+       d="M27.68,37.14c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81   c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L27.68,37.14"
+       id="path9" /><path
+       class="st2"
+       d="M44.03,50.36c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81   c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L44.03,50.36"
+       id="path11" /><path
+       class="st3"
+       d="M39.62,63.22c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81   c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L39.62,63.22"
+       id="path13" /><path
+       class="st2"
+       d="M26.58,58.63c-0.18,0.55-0.92,0.92-1.47,0.73l-8.81-3.12c-0.55-0.18-0.92-0.92-0.73-1.47l3.12-8.81   c0.18-0.55,0.92-0.92,1.47-0.73l8.81,3.12c0.55,0.18,0.92,0.92,0.73,1.47L26.58,58.63"
+       id="path15" /></g></svg>
