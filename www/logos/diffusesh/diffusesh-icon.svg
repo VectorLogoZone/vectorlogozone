@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="diffuse-icon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>DIFFUSE-LOGO-BLK</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview13"
+     showgrid="false"
+     inkscape:zoom="6.0133038"
+     inkscape:cx="78.492625"
+     inkscape:cy="67"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg11" />
+  <!-- Generator: Sketch 49 (51002) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">DIFFUSE-LOGO-BLK</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <defs
+     id="defs6" />
+  <path
+     style="fill:#231f20;fill-rule:nonzero;stroke:none;stroke-width:0.3809157"
+     d="m 45.297049,37.333177 c 0,1.942669 -0.495192,3.390149 -1.485573,4.34244 -1.066563,1.02847 -2.47595,1.561751 -3.92343,1.485569 h -4.685264 v -22.32166 h 4.685264 c 3.580606,0 5.409003,1.90458 5.409003,5.751828 z M 57.181617,12.002282 C 52.64872,8.535952 46.858804,6.78374 39.849954,6.78374 H 9.3386091 c -1.942672,-0.03808 -3.542516,1.447477 -3.694883,3.352056 -0.114272,1.980761 1.371298,3.694884 3.352059,3.809158 h 0.228543 7.6944949 c 1.942669,-0.03808 3.542517,1.44748 3.694881,3.352056 0.15235,1.980762 -1.371295,3.694884 -3.352056,3.809159 H 17.033105 3.7010571 c -1.942672,-0.03808 -3.54251605,1.44748 -3.69488405,3.352059 -0.1142745,1.980762 1.37129805,3.69488 3.35206005,3.809155 h 0.228542 6.094649 c 1.9426719,-0.03808 3.5425159,1.44748 3.7329759,3.35206 0.15235,1.980761 -1.371298,3.69488 -3.352059,3.847247 H 9.8337981 9.3386091 c -1.942672,-0.03808 -3.542516,1.44748 -3.694883,3.352056 -0.114272,1.980762 1.371298,3.694884 3.352059,3.809159 h 0.228543 3.2377809 c 0.533281,0 0.952291,0.419006 0.952291,0.952288 v 11.694111 c 0,1.066566 0.876106,1.942672 1.942669,1.942672 h 24.56906 c 7.199307,0 13.027316,-1.67603 17.445938,-5.028089 C 61.790689,48.836831 64,43.884928 64,37.333177 V 26.629446 C 64,20.382427 61.714507,15.506709 57.18161,12.002282 Z"
+     id="Shape"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="sccccssscsccccccccccccccccccccsssssssscc" />
+</svg>
