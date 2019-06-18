@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   height="64"
+   width="64"
+   id="svg32"
+   sodipodi:docname="dojo_toolkit-icon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs36" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview34"
+     showgrid="false"
+     inkscape:zoom="4.52"
+     inkscape:cx="72.123894"
+     inkscape:cy="67"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg32" />
+  <rect
+     style="fill:#f02542;fill-opacity:1;stroke-width:0.8125971"
+     id="rect83"
+     width="64"
+     height="64"
+     x="0"
+     y="0" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 43.487491,10.937504 v 13.230687 c -3.019227,-2.891598 -7.111077,-4.675978 -11.622751,-4.675978 -9.279124,0 -16.805082,7.517287 -16.805082,16.785142 0,9.267854 7.525958,16.785141 16.805082,16.785141 4.511674,0 8.603697,-1.784467 11.622751,-4.675978 v 3.635435 h 5.452851 v -41.0841 H 43.487491 Z M 31.86474,23.722096 c 5.245194,0 9.739527,3.209198 11.622751,7.770899 v 9.568286 c -1.883485,4.561528 -6.377557,7.770898 -11.622751,7.770898 -6.939834,0 -12.569996,-5.623659 -12.569996,-12.554824 0,-6.931599 5.630162,-12.554824 12.569996,-12.554824 z"
+     id="path6-1"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:0.43352291" />
+</svg>
