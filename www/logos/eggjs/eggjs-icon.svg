@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="eggjs-icon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="3.8089888"
+     inkscape:cx="44.5"
+     inkscape:cy="14"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
+  <!-- Generator: Sketch Beta 42 (36780) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Logo</title>
+  <desc
+     id="desc4">Created with Sketch Beta.</desc>
+  <defs
+     id="defs6" />
+  <g
+     style="fill:#494949;fill-rule:evenodd;stroke:none;stroke-width:1"
+     id="Page-1"
+     transform="matrix(2,0,0,2,0,4.4119599)">
+    <path
+       d="M 7.2,15.172634 8,13.793303 12,20.689955 H 4 L 7.2,15.172634 4,20.690061 0,13.793277 4,6.896625 8.00004,5.3092006e-5 h 7.999867 L 14.39996,2.7587137 15.99996,5.3092006e-5 20.000093,6.8967047 H 12 4.0000462 L 8,13.793277 Z M 18.123641,23.92578 16,27.587987 12,20.690008 h 8 l -1.876359,3.235772 1.876452,-3.235825 3.999867,6.897979 h -8 z M 24,13.793277 28,6.896625 32,13.793277 Z M 12,6.8966516 8,13.793303 4,6.8966516 Z M 15.99996,5.3092006e-5 h 8 l 4,6.896651607994 H 20.000093 Z M 28,6.8966516 24,13.793303 20,6.8966516 Z M 3.99996,20.690008 h 8 l 4,6.897979 H 8.0000933 Z"
+       id="path13"
+       inkscape:connector-curvature="0" />
+    <polygon
+       id="Fill-12"
+       points="12.23244,13.793263 14.23244,10.344805 18.23244,10.344805 20.23244,13.793263 18.23244,17.241722 14.23244,17.241722 " />
+  </g>
+</svg>
