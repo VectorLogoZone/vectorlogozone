@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 4.9345536 4.9345536"
+   version="1.1"
+   id="svg14"
+   sodipodi:docname="fedex-icon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata20">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs18" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview16"
+     showgrid="false"
+     inkscape:zoom="4.2720563"
+     inkscape:cx="84.051395"
+     inkscape:cy="68.925818"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg14" />
+  <path
+     style="clip-rule:evenodd;fill:#d5652c;fill-rule:evenodd;stroke-width:0.07521039"
+     inkscape:connector-curvature="0"
+     id="path6"
+     d="M 3.8940933,4.2056899 3.4121451,3.665228 2.9347095,4.2056899 h -1.00451 L 2.9119207,3.102203 1.9301995,1.9987159 H 2.9661474 L 3.4526834,2.5347403 3.9210937,1.9987159 H 4.9208654 L 3.9435817,3.0976152 4.9345534,4.2056899 Z m -3.8940931,0 V 0.7288637 h 1.9301993 v 0.775043 H 0.8174619 V 1.9987159 H 1.9301995 V 2.7442012 H 0.8174619 v 0.6844149 h 1.1127376 v 0.7770738 z" />
+</svg>
