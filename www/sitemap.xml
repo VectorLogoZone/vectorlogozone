@@ -15,8 +15,8 @@ layout: none
         {%- assign not404 = 0 -%}
         {%- if thePage.logohandle %}
             {%- if thePage.images %}
-            {%- else %}
                 {%- assign not404 = 1 %}
+            {%- else %}
             {%- endif %}
         {%- else %}
             {%- assign not404 = 1 %}
