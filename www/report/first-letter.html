@@ -22,7 +22,7 @@ redirect_from: /logos/missing.html
     </thead>
     <tbody>
 {%- for logopage in sorted_pages -%}
-    {%- if logopage.logohandle -%}
+    {%- if logopage.logohandle -%}{% unless logopage.noindex %}
         {%- assign startsWith = logopage.sort | slice: 0,1 -%}
         {%- if startsWith != previousStart -%}
             {%- if previousStart != '#' %}
@@ -45,7 +45,7 @@ redirect_from: /logos/missing.html
         {%- else %}
             {%- assign pendingcount = pendingcount | plus: 1 %}
         {%- endif %}
-    {%- endif -%}
+    {%- endunless %}{%- endif -%}
 {%- endfor %}
 {%- assign uniqueletter = uniqueletter | plus: 1 %}
         <tr>

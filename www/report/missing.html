@@ -26,6 +26,7 @@ redirect_from: /logos/missing.html
     <tbody>
 {%- for logopage in sorted_pages -%}
     {%- if logopage.logohandle -%}
+        {%- unless logopage.noindex -%}
         {%- capture logoar21 %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
         {%- capture logoicon %}{{ logopage.logohandle }}{{ '-icon.svg' }}{% endcapture -%}
         {%- if logopage.images contains logoar21 and logopage.images contains logoicon -%}
@@ -56,6 +57,7 @@ redirect_from: /logos/missing.html
             </td>
         </tr>
         {%- endif %}
+    {%- endunless %}
     {%- endif %}
 {%- endfor %}
     </tbody>

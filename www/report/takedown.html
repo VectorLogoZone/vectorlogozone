@@ -1,0 +1,35 @@
+---
+title: Takedown Requests
+layout: default
+noindex: true
+redirect_from: /logos/missing.html
+---
+<p>The following logos have been removed at their owners' request.</p>
+
+{%- assign sorted_pages = site.pages | sort:'sort' %}
+{%- assign logocount = 0 %}
+
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th class="text-center d-none d-lg-table-cell d-print-table-cell">ID</th>
+            <th>Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        {%- for logopage in sorted_pages -%}
+        {%- if logopage.logohandle -%}
+        {%- if logopage.noindex -%}
+        {%- assign logocount = logocount | plus:1 %}
+        <tr>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell"><a
+                    href="{{logopage.url}}{{site.indexpage}}">{{logopage.logohandle}}</a></td>
+            <td><a href="{{logopage.website}}{{site.indexpage}}?utm_source=vectorlogozone&utm_medium=referrer">{{logopage.title | default: "(untitled)"}}</a></td>
+        </tr>
+        {%- endif %}
+        {%- endif %}
+        {%- endfor %}
+    </tbody>
+</table>
+
+<p>{{ logocount | intcomma }} logos with something missing</p>

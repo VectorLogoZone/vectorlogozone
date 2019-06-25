@@ -40,7 +40,7 @@ redirect_from: /logos/metadata.html
             <th style="text-align:center"># Tags</th>
         </tr>
     </thead>
-    <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign logocount = logocount | plus:1 %}{% assign count = logopage.images.size %}
+    <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% unless logopage.noindex %}{% assign logocount = logocount | plus:1 %}{% assign count = logopage.images.size %}
         <tr>
             <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
             <td class="text-center">
@@ -75,7 +75,7 @@ redirect_from: /logos/metadata.html
                 <a href="{{logopage.url}}{{site.indexpage}}">{% if logopage.tags %}{{ logopage.tags | size }}{% assign tagcount = tagcount | plus:1 %}{% else %}0{% endif %}</a>
             </td>
         </tr>
-{% endif %}{% endfor %}
+{% endunless %}{% endif %}{% endfor %}
     </tbody>
     <tfoot>
         {%- if logocount > 0 %}

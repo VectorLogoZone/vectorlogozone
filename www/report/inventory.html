@@ -24,7 +24,7 @@ redirect_from: /logos/inventory.html
             <th>Total</th>
         </tr>
     </thead>
-    <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% assign pagecount = pagecount | plus:1 %}{% assign logocount = logocount | plus:logopage.images.size %}{% assign count = logopage.images.size %}
+    <tbody>{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% unless logopage.noindex %}{% assign pagecount = pagecount | plus:1 %}{% assign logocount = logocount | plus:logopage.images.size %}{% assign count = logopage.images.size %}
         <tr>
             <!--<td>[{{ logopage.logohandle }}]</td>-->
             <td><a href="{{logopage.url}}{{site.indexpage}}">{{logopage.title | default: "(untitled)"}}</a></td>
@@ -39,7 +39,7 @@ redirect_from: /logos/inventory.html
             </td>
             <td class="text-center">{{logopage.images.size}}</td>
         </tr>
-{%- endif %}{% endfor -%}
+{%- endunless %}{%- endif %}{% endfor -%}
     </tbody>
     <tfoot>
         <tr>

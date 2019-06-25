@@ -5,12 +5,12 @@
 {%- assign targetsuffix = '-icon' -%}
 {%- if jekyll.environment == "production" -%}
 {%- for logopage in sorted_pages %}
-    {%- if logopage.logohandle %}
+    {%- if logopage.logohandle %}{% unless logopage.noindex %}
         {%- capture targetfile %}{{ logopage.logohandle }}{{ page.targetsuffix }}.svg{% endcapture %}
         {%- if logopage.images %}
             {%- if logopage.images contains targetfile %}{%- assign pagecount = pagecount | plus:1 %}{% endif %}
         {%- endif %}
-    {%- endif -%}
+    {%- endunless %}{%- endif -%}
 {%- endfor -%}
 {%- assign maxpage = pagecount | divided_by:pagesize  | plus:1 -%}
 {% if maxpage > 1 %}
@@ -26,7 +26,7 @@
 <div class="logo-container my-3">
 {%- assign pagecount = 0 -%}
 {%- for logopage in sorted_pages %}
-    {%- if logopage.logohandle %}
+    {%- if logopage.logohandle %}{%- unless logopage.noindex %}
         {%- if logopage.images %}
             {%- capture targetfile %}{{ logopage.logohandle }}{{ page.targetsuffix }}.svg{% endcapture %}
             {%- if logopage.images contains targetfile %}
@@ -41,7 +41,7 @@
             /></a>
             {%- endif %}
         {%- endif %}
-    {%- endif %}
+    {% endunless %}{%- endif %}
 {%- endfor %}
 </div>
 

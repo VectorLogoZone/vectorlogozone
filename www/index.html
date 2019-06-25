@@ -43,7 +43,7 @@ redirect_from:
 {%- assign all = "" | split: '' %}
 {%- for logopage in sorted_pages %}
     {%- capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
-	{%- if post.noindex %}{% else %}
+	{%- if logopage.noindex %}{% else %}
 		{%- if logopage.images contains logofile %}
         	{%- assign all = all | push: logopage.logohandle %}
 		{%- endif %}
