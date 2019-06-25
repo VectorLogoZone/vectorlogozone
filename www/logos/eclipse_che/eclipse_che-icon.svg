@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="eclipse_che-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Eclipse_Che</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview15"
+     showgrid="false"
+     inkscape:zoom="4.794184"
+     inkscape:cx="68.619023"
+     inkscape:cy="46.192512"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#58595b}.cls-2{fill:#525c86}.cls-3{fill:#fdb940}</style>
+  </defs>
+  <title
+     id="title6">Eclipse_Che</title>
+  <g
+     id="g29"
+     transform="matrix(2.6006537,0,0,2.6006537,-21.719519,-46.019612)">
+    <path
+       style="fill:#525c86;stroke-width:0.25598848"
+       inkscape:connector-curvature="0"
+       id="path10"
+       d="m 9.9999991,28.490436 v 7.661992 l 10.6560329,6.152171 10.656289,-6.152171 v -7.661992 l -10.656289,6.152428 z"
+       class="cls-2" />
+    <path
+       style="fill:#fdb940;stroke-width:0.25598848"
+       inkscape:connector-curvature="0"
+       id="path12"
+       d="M 20.656032,17.695402 9.9999991,23.847573 v 7.661992 l 10.6560329,-6.152428 4.020811,2.32156 6.635478,-3.831124 z"
+       class="cls-3" />
+  </g>
+</svg>
