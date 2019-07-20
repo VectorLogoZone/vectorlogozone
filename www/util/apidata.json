@@ -1,7 +1,7 @@
 ---
 layout: none
 noindex: true
-title: Data for api.vectorlogo.zone
+title: Data for tools.vectorlogo.zone
 ---
 {%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' -%}
 [
