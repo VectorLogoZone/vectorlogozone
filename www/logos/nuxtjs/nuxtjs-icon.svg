@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64.000001"
+   version="1.1"
+   id="svg22"
+   sodipodi:docname="nuxtjs-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata26">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>NuxtJS</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview24"
+     showgrid="false"
+     inkscape:zoom="4.3626521"
+     inkscape:cx="30.795554"
+     inkscape:cy="18.7365"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg22" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#2c4a5d;}.cls-2{fill:#00c391;}.cls-3{fill:#00c492;}.cls-4{fill:#008776;}.cls-5{fill:#2d4a5d;}</style>
+  </defs>
+  <title
+     id="title6">NuxtJS</title>
+  <g
+     id="g862"
+     transform="matrix(2.5377204,0,0,2.5377204,-12.870824,-44.131613)">
+    <path
+       style="fill:#00c492;stroke-width:0.49989262"
+       inkscape:connector-curvature="0"
+       id="path12"
+       d="m 12.738188,38.728897 a 0.93694872,0.93694872 0 0 1 -0.04999,-0.102478 1.3137678,1.3137678 0 0 1 -0.08933,-0.740991 H 6.6367989 l 8.8603961,-15.59245 2.908826,5.113401 0.843468,-1.492479 -2.535655,-4.467041 A 1.5496671,1.5496671 0 0 0 15.4762,20.629685 1.377804,1.377804 0 0 0 14.275358,21.457407 l -8.9760217,15.78161 a 1.587359,1.587359 0 0 0 -0.078833,1.48968 1.3812533,1.3812533 0 0 0 1.3138177,0.633464 h 7.517685 a 1.377704,1.377704 0 0 1 -1.313818,-0.633264 z"
+       class="cls-3" />
+    <path
+       style="fill:#008776;stroke-width:0.49989262"
+       inkscape:connector-curvature="0"
+       id="path14"
+       d="M 30.022825,37.239017 22.64706,24.245308 a 1.5535663,1.5535663 0 0 0 -1.242883,-0.827672 1.3738049,1.3738049 0 0 0 -1.200843,0.825073 l -0.953845,1.671191 0.848718,1.492479 1.313618,-2.32545 7.297182,12.804499 h -2.774804 a 1.2425831,1.2425831 0 0 1 -0.05779,0.630615 0.79952824,0.79952824 0 0 1 -0.05784,0.128772 l -0.02364,0.04729 a 1.5884088,1.5884088 0 0 1 -1.337462,0.669856 h 4.340867 a 1.5855594,1.5855594 0 0 0 1.337463,-0.669856 1.378004,1.378004 0 0 0 -0.112976,-1.453088 z"
+       class="cls-4" />
+    <path
+       style="fill:#2d4a5d;stroke-width:0.49989262"
+       inkscape:connector-curvature="0"
+       id="path16"
+       d="m 25.794933,38.692105 0.02364,-0.04729 a 0.79952824,0.79952824 0 0 0 0.05784,-0.128772 1.2425831,1.2425831 0 0 0 0.05779,-0.630615 1.9201375,1.9201375 0 0 0 -0.241748,-0.646411 l -5.588799,-9.832638 -0.853967,-1.492479 -0.848717,1.492479 -5.5864,9.832888 a 1.9908223,1.9908223 0 0 0 -0.215454,0.646411 1.3139177,1.3139177 0 0 0 0.08148,0.740991 0.92760073,0.92760073 0 0 0 0.04999,0.102478 1.3813532,1.3813532 0 0 0 1.313868,0.633264 H 24.44962 a 1.592108,1.592108 0 0 0 1.345311,-0.670306 z m -6.545444,-9.793246 5.108153,8.986569 H 14.143986 Z"
+       class="cls-5" />
+  </g>
+</svg>
