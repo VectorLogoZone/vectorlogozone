@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   data-name="Layer 1"
+   viewBox="0 0 120 60"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="notary-ar21.svg"
+   width="120"
+   height="60"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata14">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>notary</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs12" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.57631258"
+     inkscape:cx="38.309322"
+     inkscape:cy="204.75"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8" />
+  <title
+     id="title2">notary</title>
+  <g
+     id="g822"
+     transform="matrix(0.46018693,0,0,0.46018693,-52.739125,26.387763)">
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4"
+       d="M 149.97,25.005 V -2.268 h 13.637 v 27.273 h 13.637 v 11.437 h -40.91 V 25.005 Z m 125.808,-7.038 v -7.038 h -20.675 v 7.038 z m 7.038,1.32 v 5.718 H 248.505 V 4.33 h 27.712 v -7.038 h 7.039 v 21.995 z m 63.783,10.117 v -4.399 h -27.273 v -34.31 h 7.038 v 27.272 h 20.675 V -9.306 h 6.598 V 36.442 H 182.082 V 29.404 Z M 227.83,-9.306 v -11.437 h 7.038 v 11.437 h 47.948 v 7.038 H 234.428 V 25.005 H 227.39 V -2.268 h -7.038 v -7.038 z m -91.496,-11.437 h 41.35 v 11.437 h -41.35 z m 45.748,11.437 h 7.039 v 34.311 h -7.039 z m 27.273,0 h 7.038 v 34.311 h -7.038 z m -20.674,27.273 h 20.674 v 7.038 h -20.674 z m 0,-27.273 h 20.674 v 7.038 h -20.674 z m 45.747,27.273 h 7.039 v 7.038 h -7.039 z m 52.786,-27.273 h 27.273 v 7.038 h -27.272 z m 0,6.598 h 7.039 v 27.273 h -7.039 z m -150.88,-6.598 h 7.039 v 34.311 h -7.039 z m 34.311,0 h 7.039 v 34.311 h -7.039 z" />
+  </g>
+</svg>

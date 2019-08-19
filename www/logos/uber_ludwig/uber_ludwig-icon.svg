@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="ludwig-icon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Ludwig full neg</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="5.8956522"
+     inkscape:cx="64.454277"
+     inkscape:cy="22.507375"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Ludwig full neg</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="g867">
+    <path
+       sodipodi:nodetypes="ccccccccccccccccccccccccc"
+       inkscape:connector-curvature="0"
+       style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:0.39414245"
+       id="Combined-Shape"
+       d="m 28.058576,28.058577 v 7.882849 H 51.707121 V 28.058577 Z M 12.292879,12.292879 v 31.531395 h 7.88285 V 12.292879 Z m 0,31.531395 v 7.882848 H 51.707121 V 43.824274 Z M 28.058576,12.292879 v 15.765697 h 7.882849 V 12.292879 Z m 15.765699,0 v 15.765697 h 7.882846 V 12.292879 Z" />
+    <rect
+       y="0"
+       x="0"
+       height="64"
+       width="5.1146593"
+       id="rect828"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89971137" />
+    <rect
+       y="0"
+       x="58.885342"
+       height="64"
+       width="5.1146593"
+       id="rect828-5"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.89971137" />
+    <rect
+       y="0"
+       x="0"
+       height="4.7619052"
+       width="64"
+       id="rect845"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.83303034" />
+    <rect
+       y="59.238094"
+       x="1.9073486e-06"
+       height="4.7619052"
+       width="64"
+       id="rect845-9"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.83303034" />
+  </g>
+</svg>

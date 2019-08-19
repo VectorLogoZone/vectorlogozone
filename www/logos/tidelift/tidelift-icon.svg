@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Artwork"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   xml:space="preserve"
+   sodipodi:docname="tidelift-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata33"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs31">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview29"
+   showgrid="false"
+   inkscape:zoom="5.0438546"
+   inkscape:cx="95.050003"
+   inkscape:cy="16.5"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Artwork" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#FFFFFF;}
+	.st1{fill:#F6914D;}
+</style>
+<g
+   id="g904"
+   transform="matrix(4.391642,0,0,4.391642,-40.095525,-99.749258)"><path
+     class="st0"
+     d="M 21.473627,22.713431 H 11.305057 C 10,22.713431 10,22.713431 10,23.909733 c 0,1.196302 0,1.196302 1.305057,1.196302 h 3.806417 v 2.555737 1.740076 l 2.610114,-2.011963 v -0.598151 -1.685699 h 3.806416 c 1.305057,0 1.305057,0 1.305057,-1.196302 -0.05438,-1.196302 -0.05438,-1.196302 -1.359434,-1.196302 z"
+     id="path16"
+     style="fill:#f6914d;fill-opacity:1;stroke-width:0.54377377"
+     inkscape:connector-curvature="0" /><path
+     class="st1"
+     d="m 15.111474,31.903208 v 4.132681 c 0,1.250679 0,1.250679 1.305057,1.250679 1.305057,0 1.305057,0 1.305057,-1.250679 v -6.144644 z"
+     id="path18"
+     style="fill:#f6914d;fill-opacity:1;stroke-width:0.54377377"
+     inkscape:connector-curvature="0" /></g>
+</svg>
