@@ -22,8 +22,8 @@ layout: default
 	<div role="tabpanel" class="tab-pane vlz-tab-data" id="tab-data-{{ letter }}" {% if forloop.first %}{% else %}style="display:hidden;"{% endif %} >
 		<p></p>
 		<div class="logo-container" id="vector{{ letter }}">
-		{%- if post.noindex %}{% else %}
-			{%- for logopage in sorted_pages -%}
+		{%- for logopage in sorted_pages -%}
+			{%- if logopage.noindex %}{% else %}
 				{%- if logopage.logohandle -%}
 					{%- capture logofile %}{{ logopage.logohandle }}-ar21.svg{% endcapture -%}
 					{%- if logopage.images contains logofile -%}
@@ -34,8 +34,8 @@ layout: default
 						{%- endif -%}
 					{%- endif -%}
 				{%- endif %}
-			{%- endfor %}
-		{%- endif -%}
+			{%- endif -%}
+		{%- endfor %}
 		<p>Count: {{ logocount }}</p>
 		</div>
 	</div>
