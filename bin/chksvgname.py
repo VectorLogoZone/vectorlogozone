@@ -17,7 +17,7 @@ default_path = "../www/logos"
 parser = argparse.ArgumentParser()
 parser.add_argument("-q", "--quiet", help="hide status messages", default=True, dest='verbose', action="store_false")
 
-allowed_image_types = {'ar21', 'horizontal', 'icon', 'iconwhite', 'official', 'tile', 'vertical', 'wordmark', '_src' }
+allowed_image_types = {'ar21', 'horizontal', 'icon', 'image', 'official', 'tile', 'vertical', 'wordmark', '_src' }
 
 args = parser.parse_args()
 
@@ -33,7 +33,7 @@ for svgfn in found_svgs:
 
     dirhandle = svgfn.parts[-2]
 
-    filere = re.search(r'(.*)-([a-z0-9_]*)\.svg', svgfn.parts[-1])
+    filere = re.search(r'(.*)-([a-z0-9_~]*)\.svg', svgfn.parts[-1])
     if filere is None:
         sys.stdout.write("ERROR: unable to parse '%s' (%s)\n" % (svgfn.parts[-1], svgfn))
         continue
@@ -43,6 +43,9 @@ for svgfn in found_svgs:
         sys.stdout.write("ERROR: handle mismatch %s vs %s (%s)\n" % (dirhandle, filehandle, svgfn))
 
     imagetype = filere.group(2)
+    tilde = imagetype.find('~')
+    if tilde != -1:
+        imagetype = imagetype[0:tilde]
     if imagetype not in allowed_image_types:
         sys.stdout.write("ERROR: unknown image type '%s' (%s)\n" % (imagetype, svgfn))
 
