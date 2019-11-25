@@ -24,7 +24,10 @@ args = parser.parse_args()
 if args.verbose:
     sys.stdout.write("INFO: svg filename check starting at %s\n" % datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S'))
 
+#found_svgs = list(pathlib.Path(default_path).glob('**/*.svg'))
+#found_svgs.sort()
 found_svgs = pathlib.Path(default_path).glob('**/*.svg')
+
 for svgfn in found_svgs:
     #sys.stdout.write("DEBUG: checking %s\n" % (svgfn))
 
@@ -33,7 +36,7 @@ for svgfn in found_svgs:
 
     dirhandle = svgfn.parts[-2]
 
-    filere = re.search(r'(.*)-([a-z0-9_~]*)\.svg', svgfn.parts[-1])
+    filere = re.search(r'(.*)-([a-z0-9]+)(~[a-z0-9_]+)?\.svg', svgfn.parts[-1])
     if filere is None:
         sys.stdout.write("ERROR: unable to parse '%s' (%s)\n" % (svgfn.parts[-1], svgfn))
         continue
@@ -43,9 +46,6 @@ for svgfn in found_svgs:
         sys.stdout.write("ERROR: handle mismatch %s vs %s (%s)\n" % (dirhandle, filehandle, svgfn))
 
     imagetype = filere.group(2)
-    tilde = imagetype.find('~')
-    if tilde != -1:
-        imagetype = imagetype[0:tilde]
     if imagetype not in allowed_image_types:
         sys.stdout.write("ERROR: unknown image type '%s' (%s)\n" % (imagetype, svgfn))
 
