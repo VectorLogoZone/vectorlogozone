@@ -1,7 +1,7 @@
 ---
 facebook: 'https://facebook.com/Bookworldau'
 instagram: 'https://instagram.com/bookworld'
-logohandle: angusrobertsoncom.au
+logohandle: angusrobertsoncomau
 pinterest: 'https://pinterest.com/bookworld'
 sort: angusrobertson
 title: Angus & Robertson

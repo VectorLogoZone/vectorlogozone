@@ -1,5 +1,5 @@
 ---
-logohandle: cnniccom.cn
+logohandle: cnniccomcn
 sort: cnnic
 title: CNNIC
 website: 'https://cnnic.com.cn/'

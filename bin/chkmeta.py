@@ -27,6 +27,7 @@ fileCount = 0
 errCount = 0
 warnCount = 0
 
+handlePattern = re.compile("^[a-z0-9][-_a-z0-9]*[a-z0-9]$")
 colorPattern = re.compile("^#[0-9A-F]{6}$")
 
 found_files = pathlib.Path(default_path).glob('**/index.md')
@@ -46,6 +47,10 @@ for fn in sorted(found_files):
 
     if fm['logohandle'] != fn.parts[-2]:
         sys.stdout.write("ERROR: mismatch dir=%s metadata=%s (%s)\n" % (fn.parts[-2], fm['logohandle'], fn))
+        errCount += 1
+
+    if not handlePattern.match(fm['logohandle']):
+        sys.stdout.write("ERROR: invalid logohandle '%s' (%s)\n" % (fm['logohandle'], fn))
         errCount += 1
 
     if 'website' not in fm.keys() or len(fm['website']) == 0:
