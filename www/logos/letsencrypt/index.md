@@ -1,6 +1,7 @@
 ---
 blog: https://letsencrypt.org/blog/
 github: letsencrypt
+guide: https://letsencrypt.org/trademarks/
 images:
 - letsencrypt-icon.svg
 - letsencrypt-ar21.svg
