@@ -1,0 +1,10 @@
+---
+facebook: 'https://facebook.com/MuxHQ'
+instagram: 'https://instagram.com/muxhq'
+linkedin: 'https://linkedin.com/company/mux'
+logohandle: mux
+sort: mux
+title: Mux
+twitter: muxhq
+website: 'https://mux.com/'
+---
