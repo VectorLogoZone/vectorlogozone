@@ -6,7 +6,7 @@ title: Data for tools.vectorlogo.zone
 {%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' -%}
 [
 {%- for logopage in sorted_pages -%}
-    {%- if 1 == 1 %}
+    {%- if logopage.noindex %}{% else %}
     {
         "ar21": 
         {%- capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
