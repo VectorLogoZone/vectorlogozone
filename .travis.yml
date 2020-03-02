@@ -1,14 +1,16 @@
-dist: trusty
+dist: bionic
 sudo: true
 language: python3
+python:
+- "3.7"
 rvm:
-- 2.4.1
+- 2.7
 before_install:
 - sudo apt-get -qq update
 install:
 - sudo apt-get install -y librsvg2-bin imagemagick
 - sudo apt-get install python3-pip
-- sudo python3 -m pip install python-frontmatter commonmark scour
+- python3 -m pip install python-frontmatter commonmark
 - gem install jekyll
 - gem install jekyll-redirect-from
 - wget https://github.com/RazrFalcon/svgcleaner-gui/releases/download/v0.9.5/svgcleaner_linux_x86_64_0.9.5.tar.gz -O bin/svgcleaner.tar.gz
