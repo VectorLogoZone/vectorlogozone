@@ -42,9 +42,14 @@
         {%- if page.logohandle -%}
         <div class="row">
             <div class="col-md-10 col-md-offset-1">
-                {% include logosearch.html %}
+                {% include uploads.html %}
             </div>
         </div>
+		<div class="row">
+			<div class="col-md-10 col-md-offset-1">
+				{% include logosearch.html %}
+			</div>
+		</div>
         {%- endif -%}
         {%- if page.images.size > 0 -%}
 		<div class="row">

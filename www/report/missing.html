@@ -19,6 +19,7 @@ redirect_from: /logos/missing.html
             <th>Icon</th>
             <th>Rectangle</th>
             <th class="text-center d-none d-lg-table-cell d-print-table-cell">Other</th>
+            <th class="text-center d-none d-lg-table-cell d-print-table-cell">User-submitted</th>
             <th class="text-center d-none d-lg-table-cell d-print-table-cell">Guidelines</th>
             <th class="text-center d-none d-lg-table-cell d-print-table-cell">SVGPorn</th>
         </tr>
@@ -40,6 +41,7 @@ redirect_from: /logos/missing.html
             <td>{% unless logopage.images contains logoicon %}MISSING{% endunless %}</td>
             <td>{% unless logopage.images contains logoar21 %}MISSING{% endunless %}</td>
             <td class="text-center d-none d-lg-table-cell d-print-table-cell">{% if othercount > 0 %}{{othercount}}{% endif %}</td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell" id="pending-{{logopage.logohandle}}"></td>
             <td class="text-center d-none d-lg-table-cell d-print-table-cell">
                 {%- if logopage.guide %}{%- assign guidecount = guidecount | plus:1 %}<a href="{{logopage.guide}}"><i class="fa fa-certificate"></i></a>{% endif -%}
             </td>
@@ -75,3 +77,27 @@ redirect_from: /logos/missing.html
 </table>
 
 <p>{{ logocount | intcomma }} logos with something missing</p>
+
+<script>
+    $(document).ready(function () {
+        $.ajax({
+            dataType: "jsonp",
+            error: function (xhr, status, err) {
+                console.error("ERROR: " + status, err);
+            },
+            method: "GET",
+            success: function (data, status, xhr) {
+                console.log("data=" + JSON.stringify(data));
+                if (data.success) {
+                    for (var loop in data.data) {
+                        var result = data.data[loop];
+                        $(`.pending-${result.logohandle}`).append($("<a>").attr("href", `https://upload.vectorlogo.zone/upload/${result.logohandle}/index.html`).attr("title", "User submissions").text(result.count));
+                    }
+                }
+            },
+            timeout: 15000,
+            url: "https://upload.vectorlogo.zone/public/pending.json"
+        });
+    });
+
+</script>

@@ -1,3 +1,8 @@
+<div class="alert alert-info">
+    Properly sized logos for {{page.title}} are not ready yet. In the meantime, here are some
+    logos from <a class="alert-link" href="https://www.awesomelogos.org/search.html?q={{page.title | cgi_escape}}">Awesome Logos</a>.
+</div>
+<h2>Search results from Awesome Logos</h2>
 <div class="searchresults logo-container">
     <img src="/images/spinner.svg" style="height:64px;" class="align-content-center" />
 </div>
@@ -8,15 +13,15 @@ $(document).ready(function() {
         dataType: "jsonp",
         error: function (xhr, status, err) {
             var content = $(".searchresults").empty();
-            content.append($("<div>").addClass("alert").addClass("alert-info").text(err));
-            console.error("ERROR: " + status + " (" + err + ")");
+            content.append($("<div>").addClass("alert").addClass("alert-danger").text(err));
+            console.error("ERROR: " + status, err);
         },
         method: "POST",
         success: function (data, status, xhr) {
             console.log("data=" + JSON.stringify(data));
             var content = $(".searchresults").empty();
             if (!data.success) {
-                content.append($("<div>").addClass("alert").addClass("alert-info").text(data.message));
+                content.append($("<div>").addClass("alert").addClass("alert-warning").text(data.message));
             }
             else {
                 for (var loop in data.results) {
