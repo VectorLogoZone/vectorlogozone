@@ -24,11 +24,7 @@ def process(logohandle, logodir):
         return
 
     fmdst = frontmatter.loads("---\nlayout: amp\nnoindex: true\n---")
-    fmdst["title"] = fmsrc["title"] + " Logos"
-    fmdst["amphandle"] = fmsrc["logohandle"]
-    fmdst["images"] = fmsrc["images"]
-    fmdst.content = commonmark.commonmark(fmsrc.content)
-    fmdst["amp"] = True
+    fmdst["redirect_to"] = "https://www.vectorlogo.zone/logos/%s/index.html" % logohandle
 
     dstfile = os.path.join(logodir, "index.amp.html")
 
