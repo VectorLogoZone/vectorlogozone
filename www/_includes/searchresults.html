@@ -1,6 +1,5 @@
 <div class="alert alert-info">
-    Properly sized logos for {{page.title}} are not ready yet. In the meantime, here are some
-    logos from <a class="alert-link" href="https://www.awesomelogos.org/search.html?q={{page.title | cgi_escape}}">Awesome Logos</a>.
+    Properly sized logos for {{page.title}} are not ready yet.
 </div>
 <h2>Search results from Awesome Logos</h2>
 <div class="searchresults logo-container">
@@ -18,14 +17,14 @@ $(document).ready(function() {
         },
         method: "POST",
         success: function (data, status, xhr) {
-            console.log("data=" + JSON.stringify(data));
+            //console.log("data=" + JSON.stringify(data));
             var content = $(".searchresults").empty();
             if (!data.success) {
                 content.append($("<div>").addClass("alert").addClass("alert-warning").text(data.message));
             }
             else {
                 for (var loop in data.results) {
-                    console.log(data.results[loop]);
+                    //console.log(data.results[loop]);
                     var result = data.results[loop];
                     content.append($("<a>").attr("href", result.source).attr("title", result.description).append($("<img>").attr("src", "https://www.awesomelogos.org" + result.url).css("max-width", "128px").css("max-height", "64px")));
                 }
