@@ -1,0 +1,7 @@
+---
+github: fluxcd/flux
+logohandle: fluxcdio
+sort: fluxcd
+title: Flux CD
+website: 'https://fluxcd.io/'
+---
