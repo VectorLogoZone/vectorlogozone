@@ -3,6 +3,7 @@ blog: http://blog.zoom.us/
 colors:
 - '#4A8CFF'
 facebook: http://www.facebook.com/zoomwithus
+guidelines: https://zoom.us/brandguidelines
 images:
 - zoomus-ar21.svg
 - zoomus-icon.svg
