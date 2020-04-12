@@ -91,12 +91,12 @@ redirect_from: /logos/missing.html
                 if (data.success) {
                     for (var loop in data.data) {
                         var result = data.data[loop];
-                        $(`.pending-${result.logohandle}`).append($("<a>").attr("href", `https://upload.vectorlogo.zone/upload/${result.logohandle}/index.html`).attr("title", "User submissions").text(result.count));
+                        $(`.pending-${result.logohandle}`).append($("<a>").attr("href", `https://upload.vectorlogo.zone/logos/${result.logohandle}/index.html`).attr("title", "User submissions").text(result.count));
                     }
                 }
             },
             timeout: 15000,
-            url: "https://upload.vectorlogo.zone/public/pending.json"
+            url: "https://upload.vectorlogo.zone/logos/pending.json"
         });
     });
 
