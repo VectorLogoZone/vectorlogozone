@@ -96,6 +96,7 @@ redirect_from: /logos/missing.html
                 if (data.success) {
                     for (const result of data.data) {
                         $(`#contrib-${result.logohandle}`).append($("<a>").attr("href", `https://upload.vectorlogo.zone/logos/${result.logohandle}/index.html`).attr("title", "User submissions").text(result.count));
+
                     }
                     $("#contribcount").empty().text(data.count);
                 } else {
