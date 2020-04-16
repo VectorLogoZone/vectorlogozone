@@ -3,6 +3,9 @@
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/css/fontawesome-all.css" rel="stylesheet" type="text/css" />
 	<meta name="theme-color" content="#2c3e50" />
+    {%- if page.noindex %}
+    <meta name="robots" content="noindex" />
+    {%- endif %}
 	<style>
 
 	/* faded border around logos in lists */

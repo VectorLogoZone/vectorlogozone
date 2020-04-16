@@ -2,7 +2,7 @@
 <div class="uploadresults logo-container">
     <img src="/images/spinner.svg" style="height:64px;box-shadow:none;border:0;" class="align-content-center" />
 </div>
-<p><a class="btn btn-outline-primary" href="https://upload.vectorlogo.zone/upload/{{page.logohandle}}/index.html">Upload</a></p>
+<p><a class="btn btn-outline-primary" href="https://upload.vectorlogo.zone/logos/{{page.logohandle}}/index.html">Contribute!</a></p>
 <script>
     $(document).ready(function () {
         $.ajax({
@@ -27,7 +27,7 @@
                 }
             },
             timeout: 15000,
-            url: "https://upload.vectorlogo.zone/api/{{page.logohandle}}/pending.json"
+            url: "https://upload.vectorlogo.zone/logos/{{page.logohandle}}/pending.json"
         });
     });
 </script>
