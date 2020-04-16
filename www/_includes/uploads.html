@@ -1,21 +1,29 @@
-<h2>Community Contributions</h2>
-<div class="uploadresults logo-container">
+<h2 id="uploadheader">Community Contributions</h2>
+<div class="logo-container" id="uploadresults">
     <img src="/images/spinner.svg" style="height:64px;box-shadow:none;border:0;" class="align-content-center" />
 </div>
-<p><a class="btn btn-outline-primary" href="https://upload.vectorlogo.zone/logos/{{page.logohandle}}/index.html">Contribute!</a></p>
+<p id="uploadbutton"><a class="btn btn-outline-primary" href="https://upload.vectorlogo.zone/logos/{{page.logohandle}}/index.html">Contribute a logo!</a></p>
 <script>
     $(document).ready(function () {
+        if (navigator && navigator.userAgent && navigator.userAgent.toUpperCase().indexOf('GOOGLEBOT') >= 0) {
+            $("#uploadheader").remove();
+            $("#uploadresults").remove();
+            $("#uploadbutton").remove();
+            return;
+        } else {
+            console.log(navigator.userAgent);
+        }
         $.ajax({
             dataType: "jsonp",
             error: function (xhr, status, err) {
-                var content = $(".uploadresults").empty();
+                var content = $("#uploadresults").empty();
                 content.append($("<div>").addClass("alert").addClass("alert-danger").text(err));
                 console.error("ERROR: " + status, err);
             },
             method: "GET",
             success: function (data, status, xhr) {
                 console.log("data=" + JSON.stringify(data));
-                var content = $(".uploadresults").empty();
+                var content = $("#uploadresults").empty();
                 if (!data.success) {
                     content.append($("<div>").addClass("alert").addClass("alert-warning").text(data.message));
                 }
