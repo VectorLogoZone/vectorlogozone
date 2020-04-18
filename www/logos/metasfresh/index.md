@@ -1,0 +1,12 @@
+---
+facebook: 'https://facebook.com/metasfresh'
+github: metasfresh
+linkedin: 'https://linkedin.com/company/metasfresh'
+logohandle: metasfresh
+sort: metasfresh
+title: metasfresh
+twitter: metasfresh
+website: 'https://metasfresh.com/en/'
+wikipedia: 'https://en.wikipedia.org/wiki/Metasfresh'
+youtube: 'https://youtube.com/channel/UCUhUCu7lJNn2tsguGWP7PRw'
+---
