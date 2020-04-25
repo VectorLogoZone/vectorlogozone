@@ -1,7 +1,7 @@
 ---
 layout: none
 noindex: true
-title: Data for AwesomeLogos.org's Search
+title: Data for LogoSear.ch
 ---
 {%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' -%}
 {
