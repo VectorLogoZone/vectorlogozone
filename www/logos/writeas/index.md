@@ -1,0 +1,9 @@
+---
+blog: 'https://write.as/blog/'
+instagram: 'https://instagram.com/write.as'
+logohandle: writeas
+sort: writeas
+title: Write.as
+twitter: writeas__
+website: 'https://write.as/'
+---
