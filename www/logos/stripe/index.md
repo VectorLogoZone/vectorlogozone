@@ -1,5 +1,8 @@
 ---
 blog: https://stripe.com/blog
+font:
+  name: Camphor
+  myfonts: https://www.myfonts.com/fonts/mti/camphor/
 github: stripe
 images:
 - stripe-ar21.svg
