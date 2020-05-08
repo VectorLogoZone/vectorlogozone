@@ -1,0 +1,29 @@
+{%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' -%}
+{%- assign first_image = true -%}
+{
+    "handle": "vlz{{page.targetsuffix}}",
+    "images": [
+        {%- for logopage in sorted_pages %}
+            {%- unless logopage.noindex %}
+            {%- if logopage.images %}
+            {%- capture targetfile %}{{ logopage.logohandle }}{{ page.targetsuffix }}.svg{% endcapture %}
+            {%- if logopage.images contains targetfile %}
+            {%- if first_image %}{% assign first_image = false %}{% else %},{% endif %}
+        { 
+            "img": "{{site.production_url}}/logos/{{logopage.logohandle}}/{{logopage.logohandle}}{{page.targetsuffix}}.svg", 
+            "name": "{{logopage.title}}", 
+            "src": "{{site.production_url}}{{logopage.url}}"
+        }
+                {%- endif %}
+            {%- endif %}
+            {%- endunless %}
+        {%- endfor %}
+    ],
+    "lastmodified": "{{site.time|date_to_xmlschema}}",
+    "logo": "https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-icon.svg",
+    "name": "VectorLogoZone {{page.targetname}}",
+    "provider": "remote",
+    "provider_icon": "https://logosear.ch/images/remote.svg",
+    "url": "https://github.com/VectorLogoZone/vectorlogozone",
+    "website": "https://www.vectorlogo.zone/"
+}

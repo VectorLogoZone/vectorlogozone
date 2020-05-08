@@ -1,0 +1,39 @@
+---
+title: 'Other images data for LogoSear.ch'
+noindex: true
+layout: none
+targetname: '(other)'
+targetsuffix: '-other'
+---
+{%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' -%}
+{%- assign first_image = true -%}
+{
+    "handle": "vlz{{page.targetsuffix}}",
+    "images": [
+        {%- for logopage in sorted_pages %}
+            {%- unless logopage.noindex %}
+            {%- if logopage.images %}
+            {%- for logoimage in logopage.images %}
+            {%- unless logoimage contains '-ar21.svg' %}
+            {%- unless logoimage contains '-icon.svg' %}
+            {%- if first_image %}{% assign first_image = false %}{% else %},{% endif %}
+        { 
+            "img": "{{site.production_url}}/logos/{{logopage.logohandle}}/{{logoimage}}", 
+            "name": "{{logopage.title}}", 
+            "src": "{{site.production_url}}{{logopage.url}}"
+        }
+                {%- endunless %}
+                {%- endunless %}
+            {%- endfor %}
+            {%- endif %}
+            {%- endunless %}
+        {%- endfor %}
+    ],
+    "lastmodified": "{{site.time|date_to_xmlschema}}",
+    "logo": "https://www.vectorlogo.zone/logos/vectorlogozone/vectorlogozone-icon.svg",
+    "name": "VectorLogoZone {{page.targetname}}",
+    "provider": "remote",
+    "provider_icon": "https://logosear.ch/images/remote.svg",
+    "url": "https://github.com/VectorLogoZone/vectorlogozone",
+    "website": "https://www.vectorlogo.zone/"
+}

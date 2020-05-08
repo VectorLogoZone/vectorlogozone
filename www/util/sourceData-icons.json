@@ -1,0 +1,8 @@
+---
+title: 'Icon data for LogoSear.ch'
+noindex: true
+layout: none
+targetname: '(icons)'
+targetsuffix: '-icon'
+---
+{% include logosearch.json %}

@@ -1,0 +1,8 @@
+---
+title: 'ar21 data for LogoSear.ch'
+noindex: true
+layout: none
+targetname: '(rectangles)'
+targetsuffix: '-ar21'
+---
+{% include logosearch.json %}
