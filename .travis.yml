@@ -26,6 +26,7 @@ before_script:
 - cd ..
 script:
 - jekyll build --source www --verbose --profile
+- tar cvzf _site/util/sourceData.tgz _site/util/sourceData*.json 
 branches:
   only:
   - gh-pages
