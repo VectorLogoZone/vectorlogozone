@@ -14,6 +14,7 @@ logohandle: facebook
 posted: true
 sort: facebook
 tags:
+- simpleshare
 - social_network
 title: Facebook
 twitter: facebook

@@ -10,6 +10,7 @@ posted: true
 sort: pinboard
 tags:
 - bookmarking
+- simpleshare
 title: Pinboard
 twitter: Pinboard
 website: https://pinboard.in/

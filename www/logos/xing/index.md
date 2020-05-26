@@ -8,6 +8,9 @@ images:
 - xing-tile.svg
 logohandle: xing
 sort: xing
+tags:
+- simpleshare
+- social_network
 title: xing
 twitter: xing_de
 website: https://www.xing.com/

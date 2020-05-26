@@ -10,6 +10,9 @@ images:
 - pinterest-tile.svg
 logohandle: pinterest
 sort: pinterest
+tags:
+- simpleshare
+- photo_sharing
 title: Pinterest
 twitter: Pinterest
 website: https://www.pinterest.com/

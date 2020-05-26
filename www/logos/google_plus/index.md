@@ -7,6 +7,7 @@ logohandle: google_plus
 sort: googleplus
 tags:
 - google
+- simpleshare
 - social_network
 title: Google+
 twitter: GooglePlus

@@ -11,6 +11,10 @@ images:
 - reddit-icon.svg
 logohandle: reddit
 sort: reddit
+tags:
+- news
+- simpleshare
+- social_network
 title: Reddit
 twitter: reddit
 website: https://www.reddit.com/

@@ -13,6 +13,10 @@ images:
 - linkedin-ar21.svg
 logohandle: linkedin
 sort: linkedin
+tag:
+- job_search
+- simpleshare
+- social_network
 title: LinkedIn
 twitter: linkedin
 website: https://www.linkedin.com/

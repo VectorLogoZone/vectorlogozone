@@ -11,6 +11,7 @@ linkedin: https://www.linkedin.com/company/167872/
 logohandle: ycombinator
 sort: ycombinator
 tags:
+- simpleshare
 - venture_capital
 - news
 title: Y Combinator

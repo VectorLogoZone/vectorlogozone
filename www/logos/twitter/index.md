@@ -14,6 +14,9 @@ images:
 logohandle: twitter
 posted: true
 sort: twitter
+tags:
+- simpleshare
+- social_network
 title: Twitter
 twitter: twitter
 website: https://twitter.com/

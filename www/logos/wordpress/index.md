@@ -14,6 +14,8 @@ logohandle: wordpress
 sort: wordpress
 tags:
 - blogging
+- cms
+- simpleshare
 title: WordPress
 twitter: WordPress
 website: https://www.wordpress.com/

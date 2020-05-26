@@ -11,6 +11,9 @@ images:
 - tumblr-icon.svg
 logohandle: tumblr
 sort: tumblr
+tags:
+- bookmarking
+- simpleshare
 title: tumblr.
 twitter: tumblr
 website: https://www.tumblr.com/

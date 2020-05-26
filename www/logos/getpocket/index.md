@@ -6,6 +6,9 @@ images:
 - getpocket-tile.svg
 logohandle: getpocket
 sort: pocket
+tags:
+- bookmarking
+- simpleshare
 title: Pocket
 twitter: pocket
 website: https://getpocket.com/

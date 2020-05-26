@@ -5,6 +5,9 @@ images:
 - telegram-tile.svg
 logohandle: telegram
 sort: telegram
+tags:
+- messaging
+- simpleshare
 title: Telegram
 twitter: telegram
 website: https://telegram.org/

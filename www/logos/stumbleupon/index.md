@@ -10,6 +10,7 @@ posted: true
 sort: stumbleupon
 tags:
 - bookmarking
+- simpleshare
 title: StumbleUpon
 twitter: StumbleUpon
 website: https://www.stumbleupon.com/

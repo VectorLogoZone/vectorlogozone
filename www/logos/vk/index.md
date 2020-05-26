@@ -7,6 +7,9 @@ images:
 - vk-tile.svg
 logohandle: vk
 sort: vkontakte
+tags:
+- simpleshare
+- social_network
 title: VKontakte
 twitter: vkontakte
 website: https://vk.com/

@@ -8,6 +8,9 @@ images:
 - whatsapp-ar21.svg
 logohandle: whatsapp
 sort: whatsapp
+tags:
+- messaging
+- simpleshare
 title: WhatsApp
 twitter: whatsapp
 website: https://www.whatsapp.com/
