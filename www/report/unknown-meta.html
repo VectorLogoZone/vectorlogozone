@@ -14,7 +14,6 @@ noindex: true
     {%- assign smid = sm.id | split:' ' %}
     {%- assign stdmeta = stdmeta | concat:smid %}
 {%- endfor %}
-<!--<p>{{stdmeta | jsonify}}</p>-->
 
 {%- assign sorted_pages = site.pages | sort:'sort' %}
 {%- assign logocount = 0 %}

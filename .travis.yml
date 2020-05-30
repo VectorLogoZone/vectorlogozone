@@ -11,7 +11,7 @@ install:
 - sudo apt-get install -y librsvg2-bin imagemagick
 - sudo apt-get install python3-pip
 - python3 -m pip install python-frontmatter commonmark
-- gem install jekyll
+- gem install jekyll -v 4.0.1
 - gem install jekyll-redirect-from
 - wget https://github.com/RazrFalcon/svgcleaner-gui/releases/download/v0.9.5/svgcleaner_linux_x86_64_0.9.5.tar.gz -O bin/svgcleaner.tar.gz
 - tar -xvzf bin/svgcleaner.tar.gz --directory bin
@@ -26,7 +26,7 @@ before_script:
 - cd ..
 script:
 - jekyll build --source www --verbose --profile
-- tar cvzf _site/util/sourceData.tgz _site/util/sourceData*.json 
+- tar cvzf _site/util/sourceData.tgz _site/util/sourceData*.json
 branches:
   only:
   - gh-pages

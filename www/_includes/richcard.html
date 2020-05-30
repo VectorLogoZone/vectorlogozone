@@ -2,7 +2,7 @@
 {
   "@context": "http://schema.org",
   "@type": "ImageObject",
-  "name": {{ page.title | default: "(untitled)" | jsonify }},
+  "name": "{{ page.title | default: "(untitled)"}}",
   "description": "Vector (SVG) logos for {{ page.title | default: "(untitled)" | xml_escape}}",
   "fileFormat": "image/svg+xml",
   "thumbnailUrl": "{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-card.png",
