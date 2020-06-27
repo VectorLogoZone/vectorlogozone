@@ -16,7 +16,7 @@ redirect_from:
 <form action="get" class="form-inline justify-content-center" id="site_search" style="display:none;">
     <div class="form-row align-items-center" style="padding-bottom:20px;">
         <div class="col-auto">
-            <img alt="Loading..." src="/images/spinner.svg" style="height:64px" id="wait"/>
+            <img alt="Loading..." src="/images/spinner.svg" style="height:64px;width:64px;" id="wait"/>
             <label class="sr-only" for="q">Search query</label>
             <div class="input-group">
                 <input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search terms" type="text"/>
@@ -97,7 +97,7 @@ $(function() {
 		return false;
 	};
 
-	$("#q").on('input propertychange paste', function() { 
+	$("#q").on('input propertychange paste', function() {
 		console.log("input paste");
 		var previousQuery = getParameterByName("q");
 		var query = $("#q").val();
@@ -177,7 +177,7 @@ $(function() {
 			}
 
 			// Are there any results?
-			if (results.length) 
+			if (results.length)
 			{
 
                 if (results.length > 50) {
@@ -190,7 +190,7 @@ $(function() {
 
 						if (item.haslogo) {
                             // Build a snippet of HTML for this result
-                            var appendString = '<a href="/logos/' + result.ref + '/index.html"><img title="' + item.title + '" src="/logos/' + result.ref + '/' + result.ref + '-ar21.svg" /></a></li>';
+                            var appendString = '<a href="/logos/' + result.ref + '/index.html"><img class="ar21" title="' + item.title + '" src="/logos/' + result.ref + '/' + result.ref + '-ar21.svg" /></a></li>';
 
                             // Add it to the results
                             $search_results.append(appendString);
@@ -200,8 +200,8 @@ $(function() {
                         }
 					});
                 $("#pending-tip").css("display", $pending.children().length > 0 ? "block" : "none");
-			} 
-			else 
+			}
+			else
 			{
 				$search_results.html('<div class="alert alert-warning">No results found for "' + htmlEncode(query) + '".  Try searching at <a href="https://logosear.ch/search.html?q=' + encodeURIComponent(query) + '">LogoSear.ch</a>!</div>');
 			}
@@ -213,7 +213,7 @@ $(function() {
         var $search_results = $("#search_results");
         for (var loop = 0; loop < default_logos.length; loop++) {
             var logohandle = default_logos[loop];
-            var appendString = '<a href="/logos/' + logohandle + '/index.html"><img title="' + logohandle + '" src="/logos/' + logohandle + '/' + logohandle + '-ar21.svg" /></a></li>';
+            var appendString = '<a href="/logos/' + logohandle + '/index.html"><img class="ar21" title="' + logohandle + '" src="/logos/' + logohandle + '/' + logohandle + '-ar21.svg" /></a></li>';
 
             // Add it to the results
             $search_results.append(appendString);
