@@ -1,0 +1,13 @@
+---
+blog: 'https://blog.card.com/'
+facebook: 'https://facebook.com/card'
+googleplus: 'https://plus.google.com/+Carddotcom'
+instagram: 'https://instagram.com/carddotcom'
+linkedin: 'https://linkedin.com/company/card-com'
+logohandle: card
+pinterest: 'https://pinterest.com/carddotcom'
+sort: card
+title: CARD.com
+twitter: card
+website: 'https://www.card.com/'
+---
