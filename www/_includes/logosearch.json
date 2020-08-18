@@ -9,9 +9,15 @@
             {%- capture targetfile %}{{ logopage.logohandle }}{{ page.targetsuffix }}.svg{% endcapture %}
             {%- if logopage.images contains targetfile %}
             {%- if first_image %}{% assign first_image = false %}{% else %},{% endif %}
-        { 
-            "img": "{{site.production_url}}/logos/{{logopage.logohandle}}/{{logopage.logohandle}}{{page.targetsuffix}}.svg", 
-            "name": "{{logopage.title}}", 
+        {
+                {%- if page.height %}
+            "height": {{ page.height }},
+                {%- endif %}
+                {%- if page.width %}
+            "width": {{ page.width }},
+                {%- endif %}
+            "img": "{{site.production_url}}/logos/{{logopage.logohandle}}/{{logopage.logohandle}}{{page.targetsuffix}}.svg",
+            "name": "{{logopage.title}}",
             "src": "{{site.production_url}}{{logopage.url}}"
         }
                 {%- endif %}

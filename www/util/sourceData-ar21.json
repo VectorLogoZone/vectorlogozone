@@ -4,5 +4,7 @@ noindex: true
 layout: none
 targetname: '(rectangles)'
 targetsuffix: '-ar21'
+width: 120
+height: 60
 ---
 {% include logosearch.json %}
