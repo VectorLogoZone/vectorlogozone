@@ -2,7 +2,6 @@
 blog: 'https://gravwell.io/blog'
 facebook: 'https://facebook.com/gravwell'
 github: gravwell
-guide: ''
 linkedin: 'https://linkedin.com/company/gravwell'
 logohandle: gravwellio
 sort: gravwell

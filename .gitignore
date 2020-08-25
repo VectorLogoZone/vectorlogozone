@@ -1,9 +1,12 @@
 *~
 *.amp.html
+.DS_Store
 .env
+foo
 .idea/
 .jekyll-metadata
 _site/
+*.swp
 tmp*
 work-in-progress/
 *.tgz
