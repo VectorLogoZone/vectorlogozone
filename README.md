@@ -49,7 +49,6 @@ modifications to the logos are in the public domain.
 [![AWS S3](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://aws.amazon.com/ "Hosting")
 [![bash](https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg)](https://www.gnu.org/software/bash/ "scripting")
 [![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg)](https://getbootstrap.com/ "HTML/CSS Framework")
-[![Buffer](https://www.vectorlogo.zone/logos/buffer/buffer-ar21.svg)](https://www.buffer.com/ "Social media posting")
 [![Clipboard.js](https://www.vectorlogo.zone/logos/clipboardjs/clipboardjs-ar21.svg)](https://clipboardjs.com/ "Copy to clipboard functionality")
 [![CloudFlare](https://www.vectorlogo.zone/logos/cloudflare/cloudflare-ar21.svg)](https://www.cloudflare.com/ "CDN")
 [![Font Awesome](https://www.vectorlogo.zone/logos/font-awesome/font-awesome-ar21.svg)](https://fortawesome.github.io/Font-Awesome/ "Icon font")
