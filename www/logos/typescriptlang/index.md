@@ -1,5 +1,5 @@
 ---
-blog: https://blogs.msdn.microsoft.com/typescript/
+blog: https://devblogs.microsoft.com/typescript/
 github: Microsoft/TypeScript
 images:
 - typescriptlang-icon.svg
@@ -7,11 +7,16 @@ images:
 - typescriptlang-official.svg
 logohandle: typescriptlang
 sort: typescript
+guide: https://www.typescriptlang.org/branding
+colors:
+- '#3178C6'
 tags:
 - microsoft
 - programming_language
 title: TypeScript
-twitter: Typescriptlang
+twitter: TypeScript
+discord: https://discord.gg/typescript
+stackoverflow: https://stackoverflow.com/questions/tagged/typescript
 website: https://www.typescriptlang.org/
 wikipedia: https://en.wikipedia.org/wiki/TypeScript
 ---
