@@ -1,11 +1,11 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<!--<link href="/css/bootstrap.css" rel="stylesheet" type="text/css" />-->
-    <link rel="stylesheet" href="/css/bootstrap.min.css" />
-    <link href="/css/fontawesome-all.min.css" rel="stylesheet" type="text/css" />
+	<link rel="stylesheet" href="/css/bootstrap.min.css" />
+	<link href="/css/fontawesome-all.min.css" rel="stylesheet" type="text/css" />
 	<meta name="theme-color" content="#2c3e50" />
-    {%- if page.noindex %}
-    <meta name="robots" content="noindex" />
-    {%- endif %}
+	{%- if page.noindex %}
+	<meta name="robots" content="noindex" />
+	{%- endif %}
 	<style>
 
 	/* faded border around logos in lists */
@@ -15,32 +15,32 @@
 		margin: 6px;
 	}
 
-    .card-footer {
-        background-color: inherit;
-        border-top: 0;
-    }
+	.card-footer {
+		background-color: inherit;
+		border-top: 0;
+	}
 
-    .navbar-brand {
-        font-weight: bold;
-    }
+	.navbar-brand {
+		font-weight: bold;
+	}
 
-    .nav-link {
-        font-weight: bold;
-    }
-    .navbar-dark .navbar-nav .nav-link {
-        color: white;
-    }
+	.nav-link {
+		font-weight: bold;
+	}
+	.navbar-dark .navbar-nav .nav-link {
+		color: white;
+	}
 
-    .navbar-logo { height:31px;margin-top:-8px;padding-top:8px;padding-right:8px; }
+	.navbar-logo { height:31px;margin-top:-8px;padding-top:8px;padding-right:8px; }
 
-    h1 {
-        margin-top: 21px;
-    }
+	h1 {
+		margin-top: 21px;
+	}
 
 	/* optional padding on visual inventory */
 	.padded { padding: 5px; }
-    .maxsize { max-width: 120px; max-height: 120px; }
-    .ar21 { height: 60px; width: 120px; }
+	.maxsize { max-width: 120px; max-height: 120px; }
+	.ar21 { height: 60px; width: 120px; }
 
 	/* hide outline on a clicked tab */
 	.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
@@ -51,21 +51,21 @@
 	.icon-link {
 	color: #888;
 	margin-top: 10px;
-    margin-right: 5px;
+	margin-right: 5px;
 	padding: 8px;
 	}
 
-    /* shareing buttons on logo pages */
-    .sharelogo {
-        margin: 6px;
-        width: 32px;
-    }
+	/* shareing buttons on logo pages */
+	.sharelogo {
+		margin: 6px;
+		width: 32px;
+	}
 
-    /* search buttons */
-    .searchlogo {
-        margin: 6px;
-        width: 32px;
-    }
+	/* search buttons */
+	.searchlogo {
+		margin: 6px;
+		width: 32px;
+	}
 
 	/* seems like a Bootstrap bug (or incompatibility with FontAwesome) */
 	.carousel-control { padding-top: 25%; }
@@ -81,81 +81,83 @@
 	padding: 4px 4px 0 4px;
 	margin-left: 5px;
 	}
-    .preview-color {
-        height: 30px;
-        width: 45px;
-        display: inline-block;
-        border: 1px solid #a2a2a2;
-        border-radius: 4px;
-        vertical-align: middle;
-        margin-left: 10px;
-    }
+	.preview-color {
+		height: 30px;
+		width: 45px;
+		display: inline-block;
+		border: 1px solid #a2a2a2;
+		border-radius: 4px;
+		vertical-align: middle;
+		margin-left: 10px;
+	}
 
-    .social-footer {
-        margin-left: 8px;
-        margin-right: 8px;
-        vertical-align:middle;
-        width:20px;
-    }
-    .copy2tip { display: none; }
+	.social-footer {
+		margin-left: 8px;
+		margin-right: 8px;
+		vertical-align:middle;
+		width:20px;
+	}
+	.copy2tip { display: none; }
 
 	</style>
 	<link rel="shortcut icon" href="/favicon.ico">
 	<script>if (window.top.location != window.location) { window.top.location.href = document.location.href; }</script>
-    <script src="/js/jquery-3.3.1.min.js"></script>
-    <script src="/js/popper.min.js"></script>
-    <script src="/js/bootstrap.min.js"></script>
-    {%- if page.images.size > 0 %}
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
-    <script>
-        $(document).ready(function() {
-            if (ClipboardJS.isSupported()) {
-                var clipboard = new ClipboardJS('.copy2cb');
-                clipboard.on('success', function (e) {
-                    console.info('Trigger:', e.trigger);
-                    var tip = $(e.trigger).next().children().first();
-                    tip.show();
-                    window.setTimeout(function() { tip.hide(); }, 1000);
-                    e.clearSelection();
-                });
-            } else {
-                $(".copy2cb").hide();
-            }
-        });
-    </script>
-    {%- endif -%}
+	<script src="/js/jquery-3.3.1.min.js"></script>
+	<script src="/js/popper.min.js"></script>
+	<script src="/js/bootstrap.min.js"></script>
+	{%- if page.images.size > 0 %}
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			if (ClipboardJS.isSupported()) {
+				var clipboard = new ClipboardJS('.copy2cb');
+				clipboard.on('success', function (e) {
+					console.info('Trigger:', e.trigger);
+					var tip = $(e.trigger).next().children().first();
+					tip.show();
+					window.setTimeout(function() { tip.hide(); }, 1000);
+					e.clearSelection();
+				});
+			} else {
+				$(".copy2cb").hide();
+			}
+		});
+	</script>
+	{%- endif -%}
 {%- include nextprev.html -%}
 	{%- if prev_page %}
-    <link rel="prev" href="{{prev_page}}{{site.indexpage}}" />
-    {%- endif -%}
+	<link rel="prev" href="{{prev_page}}{{site.indexpage}}" />
+	{%- endif -%}
 	{%- if next_page %}
-    <link rel="next" href="{{next_page}}{{site.indexpage}}" />
-    {%- endif -%}
+	<link rel="next" href="{{next_page}}{{site.indexpage}}" />
+	{%- endif -%}
 	{%- if page.url == '/index.html' or page.url == '/' %}{% include meta-home.html %}{% endif -%}
-    {%- if page.logohandle %}
-    <link rel="canonical" href="{{site.production_url}}/logos/{{page.logohandle}}/index.html" />
-    {%- endif -%}
-    {%- if page.images.size > 0 %}
-    <link rel="alternate" type="application/json+oembed"
-          href="https://tools.vectorlogo.zone/oembed/oembed.json?url={{site.production_url | url_encode}}%2Flogos%2F{{page.logohandle}}%2Findex.html&format=json"
-          title="oEmbed Link" />
+	{%- if page.logohandle %}
+	<link rel="canonical" href="{{site.production_url}}/logos/{{page.logohandle}}/index.html" />
+	{%- endif -%}
+	{%- if page.images.size > 0 %}
+	<link rel="alternate" type="application/json+oembed"
+		  href="https://tools.vectorlogo.zone/oembed/oembed.json?url={{site.production_url | url_encode}}%2Flogos%2F{{page.logohandle}}%2Findex.html&format=json"
+		  title="oEmbed Link" />
 	<meta property="description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard SVG file format" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="{{page.title}} SVG Vector Logos" />
 	<meta property="og:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard SVG file format" />
 	<meta property="og:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg" />
-    <meta property="og:site_name" content="VectorLogoZone" />
+	<meta property="og:site_name" content="VectorLogoZone" />
 	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="{{page.title}} SVG Vector Logos" />
 	<meta name="twitter:description" content="Vector logos for {{page.title}} in uniform sizes and layouts in the standard SVG file format" />
 	<meta name="twitter:image" content="{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg" />
-    <script type="application/ld+json">
-    {
-      "@context": "http://schema.org",
-      "@type": "ImageObject",
-      "contentUrl": "{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg",
-      "description": "Vector (SVG) logo for {{page.title}}",
-      "name": "{{page.title}} SVG Logo"
-    }
-    </script>
+	<script type="application/ld+json">
+	{
+	  "@context": "http://schema.org",
+	  "@type": "ImageObject",
+	  "contentUrl": "{{site.production_url}}/logos/{{page.logohandle}}/{{page.logohandle}}-ar21.svg",
+	  "description": "Vector (SVG) logo for {{page.title}}",
+	  "name": "{{page.title}} SVG Logo"
+	}
+	</script>
 	{%- endif -%}
+	<meta name="referrer" content="unsafe-url" />
+
