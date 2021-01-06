@@ -23,7 +23,7 @@ logoroot = '../www/logos'
 dirs = [f for f in os.listdir(logoroot) if os.path.isdir(os.path.join(logoroot, f))]
 dirs.sort()
 for logodir in dirs:
-	print("INFO: procssing %s" % logodir)
+	#print("INFO: procssing %s" % logodir)
 
 	indexfn = os.path.join(logoroot, logodir, "index.md")
 	if os.path.exists(indexfn) == False:

@@ -17,11 +17,11 @@ install:
 - tar -xvzf bin/svgcleaner.tar.gz --directory bin
 before_script:
 - cd bin
-- python3 chksvgname.py
-- python3 chkmeta.py
+#- python3 chksvgname.py | grep -v INFO
+#- python3 chkmeta.py
 - python3 frontmatter_update.py
 - python3 fm2tag.py
-- python3 mkamp.py
+#- python3 mkamp.py
 - "./svg-clean.sh"
 - cd ..
 script:

@@ -12,7 +12,7 @@ def process(options, dirparam):
 	logodir = os.path.abspath(dirparam)
 	logohandle = os.path.basename(logodir)
 
-	print("INFO: processing %s (%s)" % (logohandle, logodir))
+	#print("INFO: processing %s (%s)" % (logohandle, logodir))
 	files = [f for f in os.listdir(logodir) if os.path.isfile(os.path.join(logodir, f))]
 
 	images = []
@@ -70,5 +70,5 @@ logoroot = '../www/logos'
 dirs = [f for f in os.listdir(logoroot) if os.path.isdir(os.path.join(logoroot, f))]
 dirs.sort()
 for logodir in dirs:
-	print("INFO: procssing %s" % logodir)
+	#print("INFO: procssing %s" % logodir)
 	process('', os.path.join(logoroot, logodir))
