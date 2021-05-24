@@ -1,0 +1,7 @@
+---
+github: ninja-build/ninja
+logohandle: ninja-build
+sort: ninjabuild
+title: Ninja
+website: 'https://ninja-build.org/'
+---
