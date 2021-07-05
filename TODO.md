@@ -1,5 +1,17 @@
 
-## To Do
+# To Do
+
+## Content
+ - [ ] maersk icon size
+ - [ ] iconsearch icon size
+ - [ ] sandcastlezone icon size
+ - [ ] apex icon: remove text, invert (move current to original)
+ - [ ] start adding categories (first one is "banner")
+
+## Distribution
+
+ - [ ] npm package: [example](https://github.com/simple-icons/simple-icons/blob/develop/scripts/build-package.js)
+
  - [ ] reports: history.replaceState() for paging
  - [ ] one github history link per logo page (vs per image)
  - [ ] og:image to be png for FB/Twitter, svg for others

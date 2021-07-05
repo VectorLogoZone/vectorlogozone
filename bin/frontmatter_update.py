@@ -3,10 +3,17 @@
 # utility to update frontmatter with list of available images
 #
 
-
+import argparse
 import frontmatter
 import os
 
+default_path = "../www/logos"
+
+parser = argparse.ArgumentParser()
+parser.add_argument("--directory", help="directory with logo subdirectories", action="store", default=default_path)
+parser.add_argument("-q", "--quiet", help="hide status messages", default=True, dest='verbose', action="store_false")
+
+args = parser.parse_args()
 
 def process(options, dirparam):
 	logodir = os.path.abspath(dirparam)
@@ -66,7 +73,7 @@ def process(options, dirparam):
 	f.close()
 	#print("%s" % frontmatter.dumps(indexmd))
 
-logoroot = '../www/logos'
+logoroot = args.directory
 dirs = [f for f in os.listdir(logoroot) if os.path.isdir(os.path.join(logoroot, f))]
 dirs.sort()
 for logodir in dirs:

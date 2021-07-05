@@ -2,15 +2,22 @@
 #
 #
 
-
+import argparse
 import frontmatter
 import os
 import yaml
 
-tagfn = '../www/_data/tags.yaml'
+default_tagfn = '../www/_data/tags.yaml'
+default_path = "../www/logos"
 
+parser = argparse.ArgumentParser()
+parser.add_argument("--directory", help="directory with logo subdirectories", action="store", default=default_path)
+parser.add_argument("--tagfile", help="file with tag data", action="store", default=default_tagfn)
+parser.add_argument("-q", "--quiet", help="hide status messages", default=True, dest='verbose', action="store_false")
 
-stream = open(tagfn, 'r')
+args = parser.parse_args()
+
+stream = open(args.tagfile, 'r')
 tags = yaml.load(stream)
 stream.close()
 
@@ -19,7 +26,7 @@ for tag in tags.keys():
 
 print(yaml.dump(tags, default_flow_style=False))
 
-logoroot = '../www/logos'
+logoroot = args.directory
 dirs = [f for f in os.listdir(logoroot) if os.path.isdir(os.path.join(logoroot, f))]
 dirs.sort()
 for logodir in dirs:
@@ -44,6 +51,6 @@ for logodir in dirs:
 			print("WARNING: new tag %s" % tag)
 			tags[tag] = {"count": 1, "title": tag }
 
-stream = open(tagfn, 'w')
+stream = open(args.tagfile, 'w')
 stream.write(yaml.dump(tags, default_flow_style=False))
 stream.close()
