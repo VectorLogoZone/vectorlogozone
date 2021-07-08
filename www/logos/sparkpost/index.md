@@ -1,6 +1,6 @@
 ---
 github: zombodb/zombodb
-guidelines: https://www.sparkpost.com/press-kit/
+guide: https://www.sparkpost.com/press-kit/
 logohandle: sparkpost
 sort: sparkpost
 title: sparkpost

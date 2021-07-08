@@ -12,4 +12,3 @@ website: https://www.wireshark.org/
 wikipedia: https://en.wikipedia.org/wiki/Wireshark
 ---
 
-https://github.com/andyfitz/logomono/blob/gh-pages/logos/wireshark.svg
