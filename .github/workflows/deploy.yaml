@@ -25,6 +25,8 @@ jobs:
 
     - name: Run bin/build.sh
       run: bin/build.sh
+      env:
+        JEKYLL_ENV: production
 
     - name: Copy static site to S3 bucket
       run: aws s3 sync ./_site/ s3://${{ secrets.AWS_BUCKET }}
