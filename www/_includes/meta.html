@@ -124,12 +124,11 @@
 		});
 	</script>
 	{%- endif -%}
-{%- include nextprev.html -%}
-	{%- if prev_page %}
-	<link rel="prev" href="{{prev_page}}{{site.indexpage}}" />
+	{%- if site.data.nextprev[page.logohandle].prev %}
+	<link rel="next" href="../{{site.data.nextprev[page.logohandle].prev.logohandle}}/index.html" />
 	{%- endif -%}
-	{%- if next_page %}
-	<link rel="next" href="{{next_page}}{{site.indexpage}}" />
+	{%- if site.data.nextprev[page.logohandle].next %}
+	<link rel="next" href="../{{site.data.nextprev[page.logohandle].next.logohandle}}/index.html" />
 	{%- endif -%}
 	{%- if page.url == '/index.html' or page.url == '/' %}{% include meta-home.html %}{% endif -%}
 	{%- if page.logohandle %}

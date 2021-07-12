@@ -3,11 +3,12 @@
 .DS_Store
 .env
 foo
+Gemfile.lock
 .idea/
 .jekyll-metadata
 _site/
 *.swp
+*.tgz
 tmp*
 work-in-progress/
-*.tgz
-Gemfile.lock
+www/_data/nextprev.yaml

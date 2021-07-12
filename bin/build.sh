@@ -19,6 +19,9 @@ python3 bin/frontmatter_update.py --directory=www/logos
 echo "INFO: updating tags"
 python3 bin/fm2tag.py --directory=www/logos --tagfile=www/_data/tags.yaml
 
+echo "INFO: generating next/previous links"
+python3 bin/gen_next_prev.py
+
 echo "INFO: running jekyll"
 bundle exec jekyll build --source www --verbose --profile
 
