@@ -44,6 +44,7 @@ for fn in found_files:
 
     fms.append(fm)
 
+fms = sorted(fms, key=lambda fm: fm['sort'])
 data = {}
 for index in range(0, len(fms)):
 
@@ -69,10 +70,6 @@ f = open(args.output, 'w')
 f.write("# auto-generated on %s\n" % (datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')))
 yaml.dump(data, f)
 f.close()
-
-    #sys.stdout.write("DEBUG: candidate %s\n" % fn);
-
-#sys.stdout.write("DEBUG: %d choices\n" % (len(candidates)))
 
 if args.verbose:
     sys.stdout.write("INFO: next/prev calc complete at %s\n" % (datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S')))
