@@ -22,6 +22,7 @@ RESULT=$(
         --data '{"purge_everything":true}' \
         --header "Authorization: Bearer ${CLOUDFLARE_API_TOKEN}" \
         --header "Content-Type: application/json" \
+		--http1.1 \
         --request POST  \
         --show-error \
         --silent \

@@ -3,8 +3,8 @@
 
 [![# of logos](https://img.shields.io/badge/dynamic/json.svg?label=logos&url=https%3A%2F%2Fwww.vectorlogo.zone%2Fstatus.json&query=%24.pages)](https://www.vectorlogo.zone/logos/index.html)
 [![# of images](https://img.shields.io/badge/dynamic/json.svg?label=images&url=https%3A%2F%2Fwww.vectorlogo.zone%2Fstatus.json&query=%24.images)](https://www.vectorlogo.zone/logos/index.html)
-[![30 day uptime](https://img.shields.io/nodeping/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu.svg?label=30-day%20uptime&style=flat)](https://nodeping.com/reports/checks/jy4da3gc-f8yv-4zom-8h9b-pamekbkzl7lj)
-[![Travis CI build status](https://img.shields.io/travis/VectorLogoZone/vectorlogozone.svg)](https://travis-ci.org/VectorLogoZone/vectorlogozone)
+[![30 day uptime](https://img.shields.io/nodeping/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu.svg?label=30-day%20uptime&style=flat)](https://nodeping.com/reports/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu)
+[![Deploy](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/deploy.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/deploy.yaml)
 
 <!--
 [![AGPL 3+](https://img.shields.io/github/license/VectorLogoZone/vectorlogozone.svg)](LICENSE.txt)
@@ -19,10 +19,9 @@ I also allow hot-linking, so you do not have to make copies of the images in ord
 
 There are [tons](https://logosear.ch/sources/index.html) of other logo sites, but none met these basic requirements.
 
-There is an expanded search at [LogoSear.ch](https://logosear.ch/) website that searches through VLZ and these other sites.
+While the [built-in search](https://www.vectorlogo.zone/index.html) is pretty good (IMHO), I also run an expanded logo search engine at [LogoSear.ch](https://logosear.ch/) that searches through VLZ and these other sites.
 
 Share:
-<a href="https://simpleshare.io/go?site=facebook&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on facebook" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" height="24" /></a>
 <a href="https://simpleshare.io/go?site=hn&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on hacker news" src="https://www.vectorlogo.zone/logos/ycombinator/ycombinator-tile.svg" height="24" /></a>
 <a href="https://simpleshare.io/go?site=pinboard&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on pinboard" src="https://www.vectorlogo.zone/logos/pinboard/pinboard-tile.svg" height="24" /></a>
 <a href="https://simpleshare.io/go?site=reddit&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on reddit" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" height="24" /></a>
@@ -32,10 +31,12 @@ Share:
 
 Contributions are welcome!  Please see the [Contribution Guidelines](https://github.com/VectorLogoZone/vlz-contrib)!
 
+If you aren't directly contributing but want to request a logo or report a bad logo, please use [Github Issues for VectorLogoZone/vectorlogozone](https://github.com/VectorLogoZone/vectorlogozone/issues/new/choose).
+
 ## Running
 
 I used to have instructions here on how to get VLZ running locally, but it was never quite up to date.  If you want to run it yourself,
-follow the commands in the [TravisCI file](.travis.yml).
+follow the commands in the [deploy.yaml Github Action](https://github.com/VectorLogoZone/vectorlogozone/blob/main/.github/workflows/deploy.yaml).
 
 ## License
 
@@ -72,6 +73,5 @@ modifications to the logos are in the public domain.
 [![SuperTinyIcons](https://www.vectorlogo.zone/logos/supertinyicons/supertinyicons-ar21.svg)](https://github.com/edent/SuperTinyIcons "tile versions")
 [![svgo](https://www.vectorlogo.zone/logos/svgo/svgo-ar21.svg)](https://www.github.com/svg/svgo "SVG optimization")
 [![SVGPorn](https://www.vectorlogo.zone/logos/svgporn/svgporn-ar21.svg)](https://svgporn.com/ "Icon versions of various logos")
-[![Travis CI](https://www.vectorlogo.zone/logos/travis-ci/travis-ci-ar21.svg)](https://travis-ci.org/ "Continuous integration and deployment")
 [![W3C Markup Validation Service](https://www.vectorlogo.zone/logos/w3c_validator/w3c_validator-ar21.svg)](https://validator.w3.org/ "HTML file validation")
 [![Wufoo](https://www.vectorlogo.zone/logos/wufoo/wufoo-ar21.svg)](http://www.wufoo.com/ "Contact form")
