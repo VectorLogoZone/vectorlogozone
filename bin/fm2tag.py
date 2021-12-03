@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python3
 #
 #
 
@@ -18,7 +18,7 @@ parser.add_argument("-q", "--quiet", help="hide status messages", default=True, 
 args = parser.parse_args()
 
 stream = open(args.tagfile, 'r')
-tags = yaml.load(stream)
+tags = yaml.safe_load(stream)
 stream.close()
 
 for tag in tags.keys():
