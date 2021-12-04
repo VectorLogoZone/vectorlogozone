@@ -19,4 +19,4 @@ website: https://www.codecademy.com/
 wikipedia: https://en.wikipedia.org/wiki/Codecademy
 ---
 
-Article on 2014 [https://www.underconsideration.com/brandnew/archives/new_logo_identity_and_ui_for_codecademy_by_pentagram.php](rebranding)
+Article on 2014 [rebranding](https://www.underconsideration.com/brandnew/archives/new_logo_identity_and_ui_for_codecademy_by_pentagram.php)
