@@ -23,6 +23,9 @@ jobs:
         ruby-version: '2.7'
         bundler-cache: true
 
+    - name: Install rsvg
+      run: sudo apt-get install -y librsvg2-bin
+
     - name: Run bin/build.sh
       run: bin/build.sh
       env:
