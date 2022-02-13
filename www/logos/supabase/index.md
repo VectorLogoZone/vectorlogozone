@@ -1,7 +1,9 @@
 ---
-github: supabase/monorepo
-logohandle: supabaseio
+github: supabase
+guide: https://supabase.com/brand-assets
+logohandle: supabase
 sort: supabase
 title: Supabase
-website: 'https://supabase.io/'
+twitter: supabase
+website: 'https://supabase.com/'
 ---
