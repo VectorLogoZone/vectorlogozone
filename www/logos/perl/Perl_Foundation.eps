@@ -1,846 +1,0 @@
-%!PS-Adobe-3.0 EPSF-3.0%%Creator: Adobe Illustrator(TM) 3.2%%AI8_CreatorVersion: 13.0.0%%For: (Ryland Sanders) ()%%Title: (perl-onion.eps)%%CreationDate: 7/28/08 11:10 PM%%BoundingBox: 26 158 558 689%%DocumentProcessColors: Cyan Magenta Yellow Black%%DocumentSuppliedResources: procset Adobe_packedarray 2.0 0%%+ procset Adobe_cmykcolor 1.1 0%%+ procset Adobe_cshow 1.1 0%%+ procset Adobe_customcolor 1.0 0%%+ procset Adobe_IllustratorA_AI3 1.0 1%AI3_ColorUsage: Color%AI3_IncludePlacedImages%AI3_TemplateBox: 300.5 399.5 300.5 399.5%AI3_TileBox: -6 4 606 796%AI3_DocumentPreview: Header%%PageOrigin:0 0%AI7_GridSettings: 72 8 72 8 1 0 0.8 0.8 0.8 0.9 0.9 0.9%AI9_Flatten: 1%AI12_CMSettings: 00.MS%%EndComments%%BeginProlog%%BeginResource: procset Adobe_packedarray 2.0 0
-%%Title: (Packed Array Operators)
-%%Version: 2.0 0
-%%CreationDate: (8/2/90) ()
-%%Copyright: ((C) 1987-1996 Adobe Systems Incorporated All Rights Reserved)
-userdict /Adobe_packedarray 5 dict dup begin put
-/initialize
-{
-/packedarray where
-	{
-	pop
-	}
-	{
-	Adobe_packedarray begin
-	Adobe_packedarray
-		{
-		dup xcheck
-			{
-			bind
-			} if
-		userdict 3 1 roll put
-		} forall
- end
-	} ifelse
-} def
-/terminate
-{
-} def
-/packedarray
-{
-array astore readonly
-} def
-/setpacking
-{
-pop
-} def
-/currentpacking
-{
-false
-} def
-currentdict readonly pop end
-%%EndResource
-Adobe_packedarray /initialize get exec
-%%BeginResource: procset Adobe_cmykcolor 1.1 0
-%%Title: (CMYK Color Operators)
-%%Version: 1.1 0
-%%CreationDate: (1/23/89) ()
-%%Copyright: ((C) 1987-1996 Adobe Systems Incorporated All Rights Reserved)
-currentpacking true setpacking
-userdict /Adobe_cmykcolor 4 dict dup begin put
-/initialize
-{
-/setcmykcolor where
-	{
-	pop
-	}
-	{
-	userdict /Adobe_cmykcolor_vars 2 dict dup begin put
-	/_setrgbcolor
-		/setrgbcolor load def
-	/_currentrgbcolor
-		/currentrgbcolor load def
-	Adobe_cmykcolor begin
-	Adobe_cmykcolor
-		{
-		dup xcheck
-			{
-			bind
-			} if
-		pop pop
-		} forall
- end
- end
-	Adobe_cmykcolor begin
-	} ifelse
-} def
-/terminate
-{
-currentdict Adobe_cmykcolor eq
-	{
- end
-	} if
-} def
-/setcmykcolor
-{
-1 sub 4 1 roll
-3
-	{
-	3 index add neg dup 0 lt
-		{
-		pop 0
-		} if
-	3 1 roll
-	} repeat
-Adobe_cmykcolor_vars /_setrgbcolor get exec
-pop
-} def 
-/currentcmykcolor
-{
-Adobe_cmykcolor_vars /_currentrgbcolor get exec
-3
-	{
-	1 sub neg 3 1 roll
-	} repeat
-0
-} def
-currentdict readonly pop end
-setpacking
-%%EndResource
-%%BeginResource: procset Adobe_cshow 1.1 0
-%%Title: (cshow Operator)
-%%Version: 1.1 0
-%%CreationDate: (1/23/89) ()
-%%Copyright: ((C) 1987-1996 Adobe Systems Incorporated All Rights Reserved)
-currentpacking true setpacking
-userdict /Adobe_cshow 3 dict dup begin put
-/initialize
-{
-/cshow where
-	{
-	pop
-	}
-	{
-	userdict /Adobe_cshow_vars 1 dict dup begin put
-	/_cshow
-		{} def
-	Adobe_cshow begin
-	Adobe_cshow
-		{
-		dup xcheck
-			{
-			bind
-			} if
-		userdict 3 1 roll put
-		} forall
- end
- end
-	} ifelse
-} def
-/terminate
-{
-} def
-/cshow
-{
-exch
-Adobe_cshow_vars
-	exch /_cshow
-	exch put
-	{
-	0 0 Adobe_cshow_vars /_cshow get exec
-	} forall
-} def
-currentdict readonly pop end
-setpacking
-%%EndResource
-%%BeginResource: procset Adobe_customcolor 1.0 0
-%%Title: (Custom Color Operators)
-%%Version: 1.0 0
-%%CreationDate: (5/9/88) ()
-%%Copyright: ((C) 1987-1996 Adobe Systems Incorporated All Rights Reserved)
-currentpacking true setpacking
-userdict /Adobe_customcolor 5 dict dup begin put
-/initialize
-{
-/setcustomcolor where
-	{
-	pop
-	}
-	{
-	Adobe_customcolor begin
-	Adobe_customcolor
-		{
-		dup xcheck
-			{
-			bind
-			} if
-		pop pop
-		} forall
- end
-	Adobe_customcolor begin
-	} ifelse
-} def
-/terminate
-{
-currentdict Adobe_customcolor eq
-	{
- end
-	} if
-} def
-/findcmykcustomcolor
-{
-5 packedarray
-}  def
-/setcustomcolor
-{
-exch
-aload pop pop
-4
-	{
-	4 index mul 4 1 roll
-	} repeat
-5 -1 roll pop
-setcmykcolor
-} def
-/setoverprint
-{
-pop
-} def
-currentdict readonly pop end
-setpacking
-%%EndResource
-%%BeginResource: procset Adobe_IllustratorA_AI3 1.1 3
-%%Title: (Adobe Illustrator (R) Version 3.0 Abbreviated Prolog)
-%%Version: 1.1 3
-%%CreationDate: (3/7/1994) ()
-%%Copyright: ((C) 1987-1996 Adobe Systems Incorporated All Rights Reserved)
-currentpacking true setpacking
-userdict /Adobe_IllustratorA_AI3 61 dict dup begin put
-/initialize
-{
-userdict /Adobe_IllustratorA_AI3_vars 58 dict dup begin put
-/_lp /none def
-/_pf {} def
-/_ps {} def
-/_psf {} def
-/_pss {} def
-/_pjsf {} def
-/_pjss {} def
-/_pola 0 def
-/_doClip 0 def
-/cf	currentflat def
-/_tm matrix def
-/_renderStart [/e0 /r0 /a0 /o0 /e1 /r1 /a1 /i0] def 
-/_renderEnd [null null null null /i1 /i1 /i1 /i1] def
-/_render -1 def
-/_rise 0 def
-/_ax 0 def
-/_ay 0 def
-/_cx 0 def
-/_cy 0 def
-/_leading [0 0] def
-/_ctm matrix def
-/_mtx matrix def
-/_sp 16#020 def
-/_hyphen (-) def
-/_fScl 0 def
-/_cnt 0 def
-/_hs 1 def
-/_nativeEncoding 0 def
-/_useNativeEncoding 0 def
-/_tempEncode 0 def
-/_pntr 0 def
-/_tDict 2 dict def
-/_wv 0 def
-/Tx {} def
-/Tj {} def
-/CRender {} def
-/_AI3_savepage {} def
-/_gf null def
-/_cf 4 array def
-/_if null def
-/_of false def
-/_fc {} def
-/_gs null def
-/_cs 4 array def
-/_is null def
-/_os false def
-/_sc {} def
-/_i null def
-Adobe_IllustratorA_AI3 begin
-Adobe_IllustratorA_AI3
-	{
-	dup xcheck
-		{
-		bind
-		} if
-	pop pop
-	} forall
-end
-end
-Adobe_IllustratorA_AI3 begin
-Adobe_IllustratorA_AI3_vars begin
-newpath
-} def
-/terminate
-{
-end
-end
-} def
-/_
-null def
-/ddef
-{
-Adobe_IllustratorA_AI3_vars 3 1 roll put
-} def
-/xput
-{
-dup load dup length exch maxlength eq
-	{
-	dup dup load dup
-	length 2 mul dict copy def
-	} if
-load begin def end
-} def
-/npop
-{
-	{
-	pop
-	} repeat
-} def
-/sw
-{
-dup length exch stringwidth
-exch 5 -1 roll 3 index mul add
-4 1 roll 3 1 roll mul add
-} def
-/swj
-{
-dup 4 1 roll
-dup length exch stringwidth 
-exch 5 -1 roll 3 index mul add
-4 1 roll 3 1 roll mul add 
-6 2 roll /_cnt 0 ddef
-{1 index eq {/_cnt _cnt 1 add ddef} if} forall pop
-exch _cnt mul exch _cnt mul 2 index add 4 1 roll 2 index add 4 1 roll pop pop
-} def
-/ss
-{
-4 1 roll
-	{
-	2 npop 
-	(0) exch 2 copy 0 exch put pop
-	gsave
-	false charpath currentpoint
-	4 index setmatrix
-	stroke
-	grestore
-	moveto
-	2 copy rmoveto
-	} exch cshow
-3 npop
-} def
-/jss
-{
-4 1 roll
-	{
-	2 npop 
-	(0) exch 2 copy 0 exch put 
-	gsave
-	_sp eq 
-		{
-		exch 6 index 6 index 6 index 5 -1 roll widthshow  
-		currentpoint
-		}
-		{
-		false charpath currentpoint
-		4 index setmatrix stroke
-		}ifelse
-	grestore
-	moveto
-	2 copy rmoveto
-	} exch cshow
-6 npop
-} def
-/sp
-{
-	{
-	2 npop (0) exch
-	2 copy 0 exch put pop
-	false charpath
-	2 copy rmoveto
-	} exch cshow
-2 npop
-} def
-/jsp
-{
-	{
-	2 npop 
-	(0) exch 2 copy 0 exch put 
-	_sp eq 
-		{
-		exch 5 index 5 index 5 index 5 -1 roll widthshow  
-		}
-		{
-		false charpath
-		}ifelse
-	2 copy rmoveto
-	} exch cshow
-5 npop
-} def
-/pl
-{
-transform
-0.25 sub round 0.25 add exch
-0.25 sub round 0.25 add exch
-itransform
-} def
-/setstrokeadjust where
-	{
-	pop true setstrokeadjust
-	/c
-	{
-	curveto
-	} def
-	/C
-	/c load def
-	/v
-	{
-	currentpoint 6 2 roll curveto
-	} def
-	/V
-	/v load def
-	/y
-	{
-	2 copy curveto
-	} def
-	/Y
-	/y load def
-	/l
-	{
-	lineto
-	} def
-	/L
-	/l load def
-	/m
-	{
-	moveto
-	} def
-	}
-	{
-	/c
-	{
-	pl curveto
-	} def
-	/C
-	/c load def
-	/v
-	{
-	currentpoint 6 2 roll pl curveto
-	} def
-	/V
-	/v load def
-	/y
-	{
-	pl 2 copy curveto
-	} def
-	/Y
-	/y load def
-	/l
-	{
-	pl lineto
-	} def
-	/L
-	/l load def
-	/m
-	{
-	pl moveto
-	} def
-	}ifelse
-/d
-{
-setdash
-} def
-/cf	{} def
-/i
-{
-dup 0 eq
-	{
-	pop cf
-	} if
-setflat
-} def
-/j
-{
-setlinejoin
-} def
-/J
-{
-setlinecap
-} def
-/M
-{
-setmiterlimit
-} def
-/w
-{
-setlinewidth
-} def
-/H
-{} def
-/h
-{
-closepath
-} def
-/N
-{
-_pola 0 eq 
-	{
-	_doClip 1 eq {clip /_doClip 0 ddef} if 
-	newpath
-	} 
-	{
-	/CRender {N} ddef
-	}ifelse
-} def
-/n
-{N} def
-/F
-{
-_pola 0 eq 
-	{
-	_doClip 1 eq 
-		{
-		gsave _pf grestore clip newpath /_lp /none ddef _fc 
-		/_doClip 0 ddef
-		}
-		{
-		_pf
-		}ifelse
-	} 
-	{
-	/CRender {F} ddef
-	}ifelse
-} def
-/f
-{
-closepath
-F
-} def
-/S
-{
-_pola 0 eq 
-	{
-	_doClip 1 eq 
-		{
-		gsave _ps grestore clip newpath /_lp /none ddef _sc 
-		/_doClip 0 ddef
-		}
-		{
-		_ps
-		}ifelse
-	} 
-	{
-	/CRender {S} ddef
-	}ifelse
-} def
-/s
-{
-closepath
-S
-} def
-/B
-{
-_pola 0 eq 
-	{
-	_doClip 1 eq
-	gsave F grestore 
-		{
-		gsave S grestore clip newpath /_lp /none ddef _sc
-		/_doClip 0 ddef
-		} 
-		{
-		S
-		}ifelse
-	}
-	{
-	/CRender {B} ddef
-	}ifelse
-} def
-/b
-{
-closepath
-B
-} def
-/W
-{
-/_doClip 1 ddef
-} def
-/*
-{
-count 0 ne 
-	{
-	dup type (stringtype) eq {pop} if
-	} if 
-_pola 0 eq {newpath} if
-} def
-/u
-{} def
-/U
-{} def
-/q
-{
-_pola 0 eq {gsave} if
-} def
-/Q
-{
-_pola 0 eq {grestore} if
-} def
-/*u
-{
-_pola 1 add /_pola exch ddef
-} def
-/*U
-{
-_pola 1 sub /_pola exch ddef 
-_pola 0 eq {CRender} if
-} def
-/D
-{pop} def
-/*w
-{} def
-/*W
-{} def
-/`
-{
-/_i save ddef
-6 1 roll 4 npop
-concat pop
-userdict begin
-/showpage {} def
-0 setgray
-0 setlinecap
-1 setlinewidth
-0 setlinejoin
-10 setmiterlimit
-[] 0 setdash
-/setstrokeadjust where {pop false setstrokeadjust} if
-newpath
-0 setgray
-false setoverprint
-} def
-/~
-{
-end
-_i restore
-} def
-/O
-{
-0 ne
-/_of exch ddef
-/_lp /none ddef
-} def
-/R
-{
-0 ne
-/_os exch ddef
-/_lp /none ddef
-} def
-/g
-{
-/_gf exch ddef
-/_fc
-{ 
-_lp /fill ne
-	{
-	_of setoverprint
-	_gf setgray
-	/_lp /fill ddef
-	} if
-} ddef
-/_pf
-{
-_fc
-fill
-} ddef
-/_psf
-{
-_fc
-ashow
-} ddef
-/_pjsf
-{
-_fc
-awidthshow
-} ddef
-/_lp /none ddef
-} def
-/G
-{
-/_gs exch ddef
-/_sc
-{
-_lp /stroke ne
-	{
-	_os setoverprint
-	_gs setgray
-	/_lp /stroke ddef
-	} if
-} ddef
-/_ps
-{
-_sc
-stroke
-} ddef
-/_pss
-{
-_sc
-ss
-} ddef
-/_pjss
-{
-_sc
-jss
-} ddef
-/_lp /none ddef
-} def
-/k
-{
-_cf astore pop
-/_fc
-{
-_lp /fill ne
-	{
-	_of setoverprint
-	_cf aload pop setcmykcolor
-	/_lp /fill ddef
-	} if
-} ddef
-/_pf
-{
-_fc
-fill
-} ddef
-/_psf
-{
-_fc
-ashow
-} ddef
-/_pjsf
-{
-_fc
-awidthshow
-} ddef
-/_lp /none ddef
-} def
-/K
-{
-_cs astore pop
-/_sc
-{
-_lp /stroke ne
-	{
-	_os setoverprint
-	_cs aload pop setcmykcolor
-	/_lp /stroke ddef
-	} if
-} ddef
-/_ps
-{
-_sc
-stroke
-} ddef
-/_pss
-{
-_sc
-ss
-} ddef
-/_pjss
-{
-_sc
-jss
-} ddef
-/_lp /none ddef
-} def
-/x
-{
-/_gf exch ddef
-findcmykcustomcolor
-/_if exch ddef
-/_fc
-{ 
-_lp /fill ne
-	{
-	_of setoverprint
-	_if _gf 1 exch sub setcustomcolor
-	/_lp /fill ddef
-	} if
-} ddef
-/_pf
-{
-_fc
-fill
-} ddef
-/_psf
-{
-_fc
-ashow
-} ddef
-/_pjsf
-{
-_fc
-awidthshow
-} ddef
-/_lp /none ddef
-} def
-/X
-{
-/_gs exch ddef
-findcmykcustomcolor
-/_is exch ddef
-/_sc
-{
-_lp /stroke ne
-	{
-	_os setoverprint
-	_is _gs 1 exch sub setcustomcolor
-	/_lp /stroke ddef
-	} if
-} ddef
-/_ps
-{
-_sc
-stroke
-} ddef
-/_pss
-{
-_sc
-ss
-} ddef
-/_pjss
-{
-_sc
-jss
-} ddef
-/_lp /none ddef
-} def
-/A
-{
-pop
-} def
-currentdict readonly pop end
-setpacking
-/annotatepage
-{
-} def
-%%EndResource
-%%EndProlog%%BeginSetupAdobe_cmykcolor /initialize get exec
-Adobe_cshow /initialize get exec
-Adobe_customcolor /initialize get exec
-Adobe_IllustratorA_AI3 /initialize get exec
-%%EndSetup0 Au0 O0.839216 0.792157 0.321569 0.180392 k0 J 0 j 1 w 4 M []0 d557.5 423.5 m557.5 276.8691 438.6309 158 292 158 c145.3677 158 26.5 276.8691 26.5 423.5 c26.5 570.1323 145.3677 689 292 689 c438.6309 689 557.5 570.1323 557.5 423.5 cf*u1 D0 0 0 0 k476.9551 403.8633 m468.0088 460.3105 408.7871 496.8755 364.6875 524.4517 c345.4219 536.4985 314.1885 552.1914 310.1494 577.5273 c308.4814 587.9966 308.542 598.814 308.1924 609.3857 c308.0537 613.5366 307.9902 617.7124 307.6191 621.8525 c307.1387 627.1953 301.7021 620.6108 298.7222 625.2725 c291.3394 636.8154 294.1807 621.7749 294.9067 615.7065 c296.6152 601.4312 298.6211 587.1982 298.5063 572.7891 c298.2852 545.251 293.8477 518.8896 286.9824 492.3584 c270.9014 430.2236 258.2163 366.5625 274.1235 302.9795 c277.4204 289.8057 281.7109 276.8086 287.3481 264.4434 c289.0522 260.7041 292.314 250.2676 297.0029 249.0176 c313.8887 244.5117 326.6582 243.207 340.1436 230.6465 c348.5166 222.8467 354.7969 227.1074 364.7012 231.0703 c394.7012 243.0762 420.7002 258.1846 441.958 282.9092 c471.8398 317.6631 484.168 358.3477 476.9551 403.8633 cF0 D445.2246 347.0273 m442.5635 323.8096 428 303.0127 413.1289 285.7695 c402.3486 273.2715 387.7637 257.0498 371.7813 251.3594 c366.0273 249.3096 372.834 260.8213 373.6777 262.0898 c378.626 269.5303 384.7227 276.0938 390.3838 282.9775 c398.7598 293.1572 406.0137 303.8418 410.916 316.1699 c427.1924 357.084 423.4941 406.6768 399.4063 443.5352 c386.292 463.6035 368.293 480.5654 350.1494 496.0391 c341.3828 503.5156 332.5127 510.5845 325.1357 519.5322 c323.4297 521.5981 308.3643 541.3213 313.0508 544.2373 c314.5654 545.1802 347.4932 510.5435 351.0742 507.8389 c364.6904 497.5576 378.6943 488.0518 391.3008 476.4746 c408.3633 460.8003 425.8857 443.291 435.6611 421.9731 c446.374 398.6152 448.1172 372.2832 445.2246 347.0273 cF*U282.2212 681.8438 m287.1636 678.5483 288.2607 659.3262 288.2607 641.7515 c288.2607 624.1738 289.9092 548.3818 284.417 528.0596 c278.9258 507.7378 266.2935 485.2188 252.5625 465.4473 c238.832 445.6748 222.9038 403.9341 223.4526 378.1211 c224.001 352.3047 238.832 310.0156 250.3657 292.4395 c261.9429 274.7979 281.5962 250.21 277.2773 244.6563 c269.5874 234.7705 238.2832 268.8232 221.8057 288.5938 c205.3276 308.3672 188.8511 348.4629 188.3027 379.7666 c187.7529 411.0737 205.3276 440.1836 217.9614 457.7573 c230.5938 475.3335 255.3081 505.541 261.8994 519.2715 c268.4893 533.0024 275.6299 547.8301 277.8271 567.0552 c280.0239 586.2783 277.8271 654.9326 y277.2773 685.1396 282.2212 681.8438 vf269.0391 649.4395 m273.9814 647.2427 274.5313 641.2017 274.5313 635.1592 c274.5313 629.1182 272.8828 604.4019 271.2358 580.2358 c269.5874 556.0698 250.3657 535.748 236.085 521.4688 c221.8057 507.1895 180.6133 462.7012 165.2339 440.731 c149.856 418.7622 142.1924 389.8242 143.8149 365.4873 c145.4619 340.7715 151.5029 316.6064 174.5718 290.791 c197.6396 264.9775 213.5674 252.8955 225.6494 246.8525 c237.7334 240.8135 249.8169 236.4189 247.0698 230.9248 c244.3232 225.4336 232.7891 229.2793 220.1572 233.6709 c207.5249 238.0674 164.6851 255.6387 139.9692 283.6514 c115.2549 311.6641 102.6226 349.0107 103.7207 384.7119 c104.8184 420.4106 114.7061 435.2397 131.1826 458.3076 c147.6592 481.375 193.2451 515.4263 207.5249 524.2144 c221.8057 533.0024 241.0273 547.8315 250.3657 559.9141 c259.7021 571.9976 264.645 581.8857 264.0947 598.3623 c263.5464 614.8384 265.1948 629.668 264.645 635.1592 c264.0947 640.6514 264.0947 651.6353 269.0391 649.4395 cf270.4146 218.9219 m272.6484 219.0117 271.2373 209.334 267.2935 204.5313 c263.3486 199.7305 256.5757 196.8428 255.7529 198.7744 c254.9263 200.707 260.6436 201.8184 264.8413 206.4902 c268.6953 210.7803 267.6758 218.8105 270.4146 218.9219 cf314.8652 219.1758 m312.6328 219.2686 314.0439 209.5908 317.9883 204.79 c321.9316 199.9893 328.7051 197.0986 329.5273 199.0313 c330.3535 200.9639 324.6357 202.0742 320.4385 206.7471 c316.585 211.0342 317.6055 219.0693 314.8652 219.1758 cf295.106 208.6768 m295.106 200.2236 295.5371 193.374 293.6924 193.374 c291.4199 193.374 292.2769 200.2236 292.2769 208.6768 c292.2769 217.1289 291.5059 223.9824 293.6924 223.9824 c295.7061 223.9824 295.106 217.1289 295.106 208.6768 cfU%%PageTrailergsave annotatepage grestore showpage%%TrailerAdobe_IllustratorA_AI3 /terminate get exec
-Adobe_customcolor /terminate get exec
-Adobe_cshow /terminate get exec
-Adobe_cmykcolor /terminate get exec
-Adobe_packedarray /terminate get exec
-%%EOF
