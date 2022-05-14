@@ -5,7 +5,6 @@ images:
 - ietf-ar21.svg
 - ietf-icon.svg
 logohandle: ietf
-posted: true
 sort: ietf
 title: IETF
 website: https://www.ietf.org/

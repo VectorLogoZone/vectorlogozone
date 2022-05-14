@@ -12,7 +12,6 @@ images:
 - google_analytics-horizontal.svg
 - google_analytics-official.svg
 - google_analytics-icon.svg
-layout: default
 logohandle: google_analytics
 sort: google analytics
 tags:

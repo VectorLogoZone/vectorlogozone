@@ -7,7 +7,6 @@ images:
 - docusaurus-ar21.svg
 - docusaurus-official.svg
 logohandle: docusaurus
-posted: true
 sort: docusaurus
 title: docusaurus
 website: https://docusaurus.io/

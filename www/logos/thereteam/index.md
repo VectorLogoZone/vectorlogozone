@@ -1,9 +1,11 @@
 ---
-angellist: "https://angel.co/company/therepm"
 blog: 'https://medium.com/therepm'
-dribble: "https://dribbble.com/morajabi"
+dribbble: "https://dribbble.com/morajabi"
 github: therehq
 logohandle: thereteam
+other:
+  - name: AngelList
+    url: "https://angel.co/company/therepm"
 sort: there
 title: There
 twitter: therehq

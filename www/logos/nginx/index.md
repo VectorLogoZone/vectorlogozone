@@ -7,7 +7,6 @@ images:
 - nginx-icon.svg
 linkedin: http://www.linkedin.com/company/nginx
 logohandle: nginx
-posted: true
 sort: nginx
 title: NGINX
 twitter: nginx

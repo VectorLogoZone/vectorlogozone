@@ -7,7 +7,6 @@ images:
 - mozilla_persona-horizontal.svg
 - mozilla_persona-icon.svg
 - mozilla_persona-ar21.svg
-layout: default
 logohandle: mozilla_persona
 redirect_from: /logos/persona/index.html
 sort: persona

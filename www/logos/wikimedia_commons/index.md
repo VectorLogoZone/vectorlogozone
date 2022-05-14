@@ -3,9 +3,7 @@ images:
 - wikimedia_commons-icon.svg
 - wikimedia_commons-ar21.svg
 - wikimedia_commons-vertical.svg
-layout: default
 logohandle: wikimedia_commons
-posted: true
 sort: wikimedia commons
 tags:
 - graphics

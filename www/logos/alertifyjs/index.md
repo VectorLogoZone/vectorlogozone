@@ -3,7 +3,6 @@ github: MohammadYounes/AlertifyJS/
 images:
 - alertifyjs-icon.svg
 - alertifyjs-ar21.svg
-layout: default
 logohandle: alertifyjs
 sort: alertifyjs
 tags:

@@ -6,7 +6,6 @@ images:
 - graphcool-ar21.svg
 - graphcool-icon.svg
 logohandle: graphcool
-posted: true
 sort: graphcool
 title: Graphcool
 twitter: graphcool

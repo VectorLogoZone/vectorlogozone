@@ -3,7 +3,6 @@ github: ImageMagick
 images:
 - imagemagick-ar21.svg
 - imagemagick-icon.svg
-layout: default
 logohandle: imagemagick
 sort: imagemagick
 tags:

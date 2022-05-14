@@ -2,7 +2,6 @@
 images:
 - apple_xcode-ar21.svg
 - apple_xcode-icon.svg
-layout: default
 logohandle: apple_xcode
 sort: xcode
 tags:

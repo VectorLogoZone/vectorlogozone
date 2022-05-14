@@ -5,7 +5,6 @@ images:
 - terraformio-ar21.svg
 - terraformio-icon.svg
 logohandle: terraformio
-posted: true
 sort: terraform
 title: Terraform
 website: https://www.terraform.io/

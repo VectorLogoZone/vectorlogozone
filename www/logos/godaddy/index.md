@@ -8,7 +8,6 @@ github: godaddy
 images:
 - godaddy-ar21.svg
 - godaddy-icon.svg
-layout: default
 logohandle: godaddy
 sort: godaddy
 tags:

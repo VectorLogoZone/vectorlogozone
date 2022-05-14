@@ -6,8 +6,9 @@ images:
 - figma-ar21.svg
 instagram: https://www.instagram.com/figmadesign/
 logohandle: figma
-medium: https://medium.com/figma-design
-posted: true
+other:
+  - name: Medium
+    url: https://medium.com/figma-design
 sort: figma
 title: Figma
 twitter: figmadesign

@@ -7,7 +7,6 @@ images:
 - mysql-horizontal.svg
 - mysql-icon.svg
 - mysql-official.svg
-layout: default
 logohandle: mysql
 sort: mysql
 tags:

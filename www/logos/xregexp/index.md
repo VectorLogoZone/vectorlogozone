@@ -9,7 +9,6 @@ images:
 - xregexp-wordmark.svg
 - xregexp-icon.svg
 - xregexp-horizontal.svg
-layout: default
 logohandle: xregexp
 sort: xregexp
 tags:

@@ -4,7 +4,6 @@ facebook: https://facebook.com/appscale
 googleplus: https://plus.google.com/+Appscale
 linkedin: https://linkedin.com/company/appscale-systems
 logohandle: appscale
-posted: true
 sort: appscale
 title: AppScale
 twitter: appscalecloud

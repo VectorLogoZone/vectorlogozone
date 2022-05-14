@@ -6,7 +6,6 @@ images:
 - ni-icon.svg
 linkedin: https://www.linkedin.com/company/national-instruments/
 logohandle: ni
-posted: true
 sort: national_instruments
 title: National Instruments
 twitter: niglobal

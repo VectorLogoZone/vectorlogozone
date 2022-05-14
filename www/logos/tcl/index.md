@@ -8,7 +8,6 @@ images:
 - tcl-horizontal.svg
 - tcl-vertical.svg
 - tcl-icon.svg
-layout: default
 logohandle: tcl
 sort: tcl
 tags:

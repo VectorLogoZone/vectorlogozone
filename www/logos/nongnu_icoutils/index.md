@@ -1,5 +1,4 @@
 ---
-layout: default
 logohandle: nongnu_icoutils
 sort: icoutils
 tags:

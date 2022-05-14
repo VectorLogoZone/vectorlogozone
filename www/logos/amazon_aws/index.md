@@ -7,9 +7,7 @@ github: aws
 images:
 - amazon_aws-icon.svg
 - amazon_aws-ar21.svg
-layout: default
 logohandle: amazon_aws
-posted: true
 sort: amazon web services
 tags:
 - hosting

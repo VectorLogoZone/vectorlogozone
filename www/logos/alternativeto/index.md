@@ -6,7 +6,6 @@ images:
 - alternativeto-icon.svg
 - alternativeto-ar21.svg
 logohandle: alternativeto
-posted: true
 sort: alternativeto
 title: AlternativeTo
 twitter: alternativeto

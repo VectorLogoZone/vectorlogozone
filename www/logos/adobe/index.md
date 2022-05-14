@@ -11,7 +11,6 @@ images:
 - adobe-icon.svg
 logohandle: adobe
 noindex: true
-posted: true
 sort: adobe
 tags:
 - graphics

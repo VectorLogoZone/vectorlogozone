@@ -1,5 +1,4 @@
 ---
-dockerhub: 'https://hub.docker.com/u/asqatasun/'
 github: Asqatasun
 logohandle: asqatasun
 sort: asqatasun

@@ -6,7 +6,6 @@ images:
 - js_webpack-icon.svg
 - js_webpack-ar21.svg
 logohandle: js_webpack
-posted: true
 sort: webpack
 title: webpack
 website: https://webpack.js.org/

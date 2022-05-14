@@ -10,7 +10,6 @@ images:
 - apache-official.svg
 - apache-ar21.svg
 - apache-icon.svg
-layout: default
 logohandle: apache
 sort: apache software foundation
 tags:

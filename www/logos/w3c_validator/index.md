@@ -2,7 +2,6 @@
 images:
 - w3c_validator-ar21.svg
 - w3c_validator-icon.svg
-layout: default
 logohandle: w3c_validator
 sort: w3c markup validator
 tags:

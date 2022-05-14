@@ -10,7 +10,6 @@ images:
 - nearlyfreespeech-icon.svg
 - nearlyfreespeech-ar21.svg
 - nearlyfreespeech-horizontal.svg
-layout: default
 logohandle: nearlyfreespeech
 sort: nearlyfreespeech.net
 tags:

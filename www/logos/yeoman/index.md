@@ -6,9 +6,7 @@ images:
 - yeoman-official.svg
 - yeoman-ar21.svg
 - yeoman-icon.svg
-layout: default
 logohandle: yeoman
-posted: true
 sort: yeoman
 tags:
 - webdev

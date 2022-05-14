@@ -6,7 +6,6 @@ github: appharbor
 images:
 - appharbor-ar21.svg
 - appharbor-icon.svg
-layout: default
 logohandle: appharbor
 sort: appharbor
 tags:

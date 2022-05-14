@@ -8,7 +8,6 @@ images:
 - minioio-icon.svg
 linkedin: https://www.linkedin.com/company-beta/6442270/
 logohandle: minioio
-posted: true
 sort: minio
 title: minio
 twitter: Minio

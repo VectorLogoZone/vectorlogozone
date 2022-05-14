@@ -6,7 +6,6 @@ guide: https://about.flipboard.com/brand-guidelines/
 instagram: https://www.instagram.com/flipboard/
 linkedin: https://www.linkedin.com/company/flipboard-inc-
 logohandle: flipboard
-posted: true
 sort: flipboard
 title: Flipboard
 tumblr: http://flipboard.tumblr.com/

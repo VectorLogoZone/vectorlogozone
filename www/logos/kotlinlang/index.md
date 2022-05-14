@@ -5,7 +5,6 @@ images:
 - kotlinlang-icon.svg
 - kotlinlang-ar21.svg
 logohandle: kotlinlang
-posted: true
 sort: kotlin
 title: Kotlin
 twitter: kotlin

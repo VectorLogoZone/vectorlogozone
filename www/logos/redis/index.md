@@ -7,7 +7,6 @@ images:
 - redis-icon.svg
 - redis-official.svg
 logohandle: redis
-posted: true
 sort: redis
 title: Redis
 twitter: redisfeed

@@ -2,7 +2,7 @@
 blog: 'https://medium.com/decentralized-identity'
 github: decentralized-identity
 logohandle: identityfoundation
-Keywords: "Decentralized Identity Foundation"
+keywords: "Decentralized Identity Foundation"
 sort: dif
 title: DIF
 twitter: DecentralizedID

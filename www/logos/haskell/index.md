@@ -12,7 +12,6 @@ images:
 - haskell-vertical.svg
 - haskell-horizontal.svg
 - haskell-icon.svg
-layout: default
 logohandle: haskell
 sort: haskell
 tags:

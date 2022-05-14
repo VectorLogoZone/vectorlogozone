@@ -14,7 +14,6 @@ images:
 - zapier-official.svg
 linkedin: http://www.linkedin.com/company/zapier/
 logohandle: zapier
-posted: true
 sort: zapier
 title: Zapier
 twitter: zapier

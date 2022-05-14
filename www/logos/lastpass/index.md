@@ -14,7 +14,9 @@ instagram: https://www.instagram.com/lastpassofficial/
 linkedin: https://www.linkedin.com/company/lastpass
 logohandle: lastpass
 sort: lastpass
-spiceworks: https://community.spiceworks.com/pages/lastpass
+other:
+  - name: Spiceworks
+    url: https://community.spiceworks.com/pages/lastpass
 title: LastPass
 twitter: LastPass
 website: https://www.lastpass.com/

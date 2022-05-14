@@ -11,7 +11,6 @@ images:
 - python-horizontal.svg
 - python-official.svg
 - python-vertical.svg
-layout: default
 logohandle: python
 sort: python
 tags:

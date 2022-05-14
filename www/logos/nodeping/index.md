@@ -5,9 +5,7 @@ github: nodeping
 images:
 - nodeping-ar21.svg
 - nodeping-icon.svg
-layout: default
 logohandle: nodeping
-posted: true
 sort: nodeping
 tags:
 - monitoring

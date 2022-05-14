@@ -7,7 +7,6 @@ images:
 - amazon-icon.svg
 - amazon-tile.svg
 - amazon-ar21.svg
-layout: default
 logohandle: amazon
 pinterest: https://www.pinterest.com/amazon
 sort: amazon

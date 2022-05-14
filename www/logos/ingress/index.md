@@ -7,7 +7,6 @@ font:
 images:
 - ingress-icon.svg
 - ingress-ar21.svg
-layout: default
 logohandle: ingress
 sort: ingress
 tags:

@@ -11,7 +11,6 @@ images:
 - ruby-lang-horizontal.svg
 - ruby-lang-vertical.svg
 - ruby-lang-icon.svg
-layout: default
 logohandle: ruby-lang
 redirect_from: /logos/ruby/index.html
 sort: ruby

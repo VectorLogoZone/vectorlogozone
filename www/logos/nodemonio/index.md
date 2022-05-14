@@ -4,7 +4,9 @@ logohandle: nodemonio
 images:
 - nodemonio-ar21.svg
 - nodemonio-icon.svg
-opencollective: 'https://opencollective.com/nodemon'
+other:
+  - name: OpenCollective
+    url: 'https://opencollective.com/nodemon'
 sort: nodemon
 title: nodemon
 twitter: rem

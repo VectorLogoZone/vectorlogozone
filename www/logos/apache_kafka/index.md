@@ -5,7 +5,6 @@ images:
 - apache_kafka-vertical.svg
 - apache_kafka-ar21.svg
 - apache_kafka-icon.svg
-layout: default
 logohandle: apache_kafka
 sort: kafka
 tags:

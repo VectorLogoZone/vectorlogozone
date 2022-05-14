@@ -9,7 +9,6 @@ images:
 - docker-icon.svg
 - docker-tile.svg
 - docker-ar21.svg
-layout: default
 logohandle: docker
 sort: docker
 tags:

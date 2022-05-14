@@ -4,7 +4,6 @@ facebook: https://facebook.com/AkamaiTechnologies
 googleplus: https://plus.google.com/+akamai
 linkedin: https://linkedin.com/company/akamai-technologies
 logohandle: akamai
-posted: true
 sort: akamai
 title: Akamai
 twitter: Akamai

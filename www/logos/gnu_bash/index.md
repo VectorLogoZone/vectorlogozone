@@ -8,7 +8,6 @@ images:
 - gnu_bash-icon.svg
 - gnu_bash-official.svg
 logohandle: gnu_bash
-posted: true
 sort: bash
 title: bash shell
 website: https://www.gnu.org/software/bash/

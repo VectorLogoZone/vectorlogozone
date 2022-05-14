@@ -8,7 +8,6 @@ font:
 images:
 - inkscape-icon.svg
 - inkscape-ar21.svg
-layout: default
 logohandle: inkscape
 sort: inkscape
 tags:

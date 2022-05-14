@@ -1,6 +1,5 @@
 ---
 github: onetrueawk/awk
-layout: default
 logohandle: awk
 sort: awk
 tags:

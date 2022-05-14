@@ -1,7 +1,6 @@
 ---
 blog: http://blog.marcaria.com/
 facebook: https://www.facebook.com/marcariacom/
-layout: default
 logohandle: marcaria
 sort: marcaria
 tags:

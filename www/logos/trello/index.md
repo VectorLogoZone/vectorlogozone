@@ -9,7 +9,6 @@ images:
 - trello-official.svg
 - trello-tile.svg
 logohandle: trello
-posted: true
 sort: trello
 title: Trello
 twitter: trello

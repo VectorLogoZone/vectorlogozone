@@ -3,9 +3,7 @@ blog: https://adsense.googleblog.com/
 images:
 - google_adsense-icon.svg
 - google_adsense-ar21.svg
-layout: default
 logohandle: google_adsense
-posted: true
 sort: adsense
 tags:
 - advertising

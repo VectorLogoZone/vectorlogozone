@@ -5,7 +5,6 @@ images:
 - apple-tile.svg
 - apple-ar21.svg
 - apple-icon.svg
-layout: default
 logohandle: apple
 sort: apple
 tags:

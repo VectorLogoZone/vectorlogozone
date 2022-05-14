@@ -5,7 +5,6 @@ images:
 - leafletjs-ar21.svg
 - leafletjs-icon.svg
 logohandle: leafletjs
-posted: true
 sort: leaflet
 title: Leaflet
 twitter: LeafletJS

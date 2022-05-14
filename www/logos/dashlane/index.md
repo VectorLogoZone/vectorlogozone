@@ -5,7 +5,6 @@ github: Dashlane
 googleplus: https://plus.google.com/+Dashlane
 linkedin: https://linkedin.com/company/dashlane
 logohandle: dashlane
-posted: true
 sort: dashlane
 title: Dashlane
 twitter: dashlane

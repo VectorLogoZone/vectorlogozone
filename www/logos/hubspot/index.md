@@ -7,7 +7,6 @@ instagram: http://www.instagram.com/hubspot
 linkedin: http://www.linkedin.com/company/hubspot
 logohandle: hubspot
 pinterest: http://www.pinterest.com/hubspot
-posted: true
 sort: hubspot
 title: HubSpot
 twitter: hubspot

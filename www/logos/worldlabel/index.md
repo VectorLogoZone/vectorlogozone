@@ -5,7 +5,6 @@ github: worldlabel
 images:
 - worldlabel-ar21.svg
 - worldlabel-icon.svg
-layout: default
 logohandle: worldlabel
 sort: worldlabel
 tags:

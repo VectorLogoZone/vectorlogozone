@@ -10,7 +10,6 @@ images:
 - kik-official.svg
 - kik-ar21.svg
 logohandle: kik
-posted: true
 sort: kik
 title: kik
 twitter: kik

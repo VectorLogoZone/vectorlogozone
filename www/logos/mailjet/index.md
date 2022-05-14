@@ -5,7 +5,6 @@ googleplus: https://plus.google.com/+MailjetEN
 instagram: https://instagram.com/mailjet
 linkedin: https://linkedin.com/company/mailjet
 logohandle: mailjet
-posted: true
 sort: mailjet
 title: Mailjet
 twitter: mailjet

@@ -1,5 +1,4 @@
 ---
-layout: default
 logohandle: apache_poi
 sort: poi
 tags:

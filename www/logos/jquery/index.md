@@ -8,7 +8,6 @@ images:
 - jquery-ar21.svg
 - jquery-icon.svg
 - jquery-official.svg
-layout: default
 logohandle: jquery
 sort: jquery
 tags:

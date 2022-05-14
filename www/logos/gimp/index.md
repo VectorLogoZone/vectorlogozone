@@ -5,7 +5,6 @@ images:
 - gimp-wordmark.svg
 - gimp-ar21.svg
 - gimp-icon.svg
-layout: default
 logohandle: gimp
 sort: gimp
 tags:

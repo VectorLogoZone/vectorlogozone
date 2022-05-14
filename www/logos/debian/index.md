@@ -7,7 +7,6 @@ github: Debian
 images:
 - debian-ar21.svg
 - debian-icon.svg
-layout: default
 logohandle: debian
 sort: debian
 tags:

@@ -4,7 +4,6 @@ guide: https://www.hockeyapp.net/brand-guidelines/
 images:
 - hockeyapp-ar21.svg
 - hockeyapp-icon.svg
-layout: default
 logohandle: hockeyapp
 sort: hockeyapp
 tags:

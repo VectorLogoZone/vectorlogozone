@@ -7,7 +7,6 @@ images:
 - duckduckgo-ar21.svg
 - duckduckgo-icon.svg
 logohandle: duckduckgo
-posted: true
 sort: duckduckgo
 tags:
 - search_engine

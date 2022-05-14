@@ -2,7 +2,9 @@
 blog: 'https://connect.fourthestate.org/'
 linkedin: 'https://linkedin.com/company/fourth-estate-public-benefit-corporation'
 logohandle: fourthestate
-mastodon: 'https://fourthestate.social/'
+other:
+  - name: mastodon
+    url: 'https://fourthestate.social/'
 sort: fourthestate
 title: Fourth Estate
 twitter: FourthEstateOrg

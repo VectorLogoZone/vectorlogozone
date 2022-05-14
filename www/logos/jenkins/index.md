@@ -6,7 +6,6 @@ images:
 - jenkins-official.svg
 - jenkins-ar21.svg
 - jenkins-icon.svg
-layout: default
 logohandle: jenkins
 sort: jenkins
 tags:

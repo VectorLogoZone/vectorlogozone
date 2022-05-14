@@ -11,7 +11,6 @@ images:
 - facebook-tile.svg
 - facebook-ar21.svg
 logohandle: facebook
-posted: true
 sort: facebook
 tags:
 - simpleshare

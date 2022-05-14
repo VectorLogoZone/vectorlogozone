@@ -6,7 +6,6 @@ images:
 - centos-ar21.svg
 - centos-icon.svg
 logohandle: centos
-posted: true
 sort: centos
 title: CentOS
 website: https://www.centos.org/

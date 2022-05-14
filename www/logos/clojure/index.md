@@ -1,7 +1,6 @@
 ---
 github: clojure/clojure
 logohandle: clojure
-posted: true
 sort: clojure
 title: Clojure
 website: https://clojure.org/

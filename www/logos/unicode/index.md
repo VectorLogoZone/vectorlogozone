@@ -4,7 +4,6 @@ github: unicode-org
 images:
 - unicode-icon.svg
 - unicode-ar21.svg
-layout: default
 logohandle: unicode
 sort: unicode
 tags:

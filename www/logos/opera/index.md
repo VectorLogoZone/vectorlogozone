@@ -6,7 +6,7 @@ font:
   url: https://www.colophon-foundry.org/typefaces/basis-grotesque/
 github: operasoftware
 guide: http://brand.opera.com/brandbook/identity-guidelines
-guide-alt: http://www.operasoftware.com/press/resources/opera-for-computers
+#guide-alt: http://www.operasoftware.com/press/resources/opera-for-computers
 images:
 - opera-ar21.svg
 - opera-icon.svg

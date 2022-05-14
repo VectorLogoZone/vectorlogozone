@@ -1,7 +1,6 @@
 ---
 blog: https://www.bipm.org/en/news/
 logohandle: bipm
-posted: true
 sort: bipm
 tags:
 - standards_body

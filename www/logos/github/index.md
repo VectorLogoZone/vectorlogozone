@@ -11,7 +11,6 @@ images:
 - github-ar21.svg
 - github-tile.svg
 - github-icon.svg
-layout: default
 logohandle: github
 sort: github
 tags:

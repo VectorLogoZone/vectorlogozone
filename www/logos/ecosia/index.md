@@ -7,7 +7,6 @@ images:
 - ecosia-ar21.svg
 - ecosia-icon.svg
 logohandle: ecosia
-posted: true
 sort: ecosia
 title: ecosia
 twitter: ecosia

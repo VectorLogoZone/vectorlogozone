@@ -6,7 +6,6 @@ images:
 - bazel-icon.svg
 - bazel-ar21.svg
 logohandle: bazel
-posted: true
 sort: bazel
 title: Bazel
 twitter: bazelbuild

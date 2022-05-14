@@ -4,7 +4,6 @@ facebook: https://facebook.com/cloudsmith.io
 github: cloudsmith-io
 linkedin: https://linkedin.com/company/cloudsmith
 logohandle: cloudsmithio
-posted: true
 sort: cloudsmith
 title: Cloudsmith
 twitter: cloudsmith_io

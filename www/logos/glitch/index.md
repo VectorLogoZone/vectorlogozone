@@ -4,7 +4,6 @@ images:
 - glitch-icon.svg
 - glitch-ar21.svg
 logohandle: glitch
-posted: true
 sort: glitch
 title: Glitch
 twitter: glitch

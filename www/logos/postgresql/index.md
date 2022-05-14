@@ -12,7 +12,6 @@ images:
 - postgresql-icon.svg
 - postgresql-vertical.svg
 logohandle: postgresql
-posted: true
 sort: postgresql
 tags:
 - database

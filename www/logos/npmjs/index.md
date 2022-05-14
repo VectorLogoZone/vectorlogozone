@@ -7,7 +7,6 @@ images:
 - npmjs-ar21.svg
 - npmjs-icon.svg
 logohandle: npmjs
-posted: true
 sort: npmjs
 title: npm
 twitter: npmjs

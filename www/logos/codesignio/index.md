@@ -1,7 +1,9 @@
 ---
 facebook: 'http://facebook.com/codesign.io'
 logohandle: codesignio
-angellist: 'https://angel.co/codesign-io'
+other:
+  - name: AngelList
+    url: 'https://angel.co/codesign-io'
 sort: codesign
 title: Codesign
 twitter: codesignio

@@ -9,7 +9,6 @@ guide: http://git-scm.com/downloads/logos
 images:
 - git-scm-ar21.svg
 - git-scm-icon.svg
-layout: default
 logohandle: git-scm
 sort: git
 tags:

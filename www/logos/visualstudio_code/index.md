@@ -2,7 +2,6 @@
 blog: https://code.visualstudio.com/blogs
 github: Microsoft/vscode
 logohandle: visualstudio_code
-posted: true
 sort: visualstudiocode
 title: Visual Studio Code
 twitter: code

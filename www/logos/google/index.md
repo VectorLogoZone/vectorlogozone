@@ -7,7 +7,6 @@ images:
 - google-tile.svg
 - google-icon.svg
 - google-ar21.svg
-layout: default
 logohandle: google
 sort: google
 tags:

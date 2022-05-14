@@ -8,7 +8,9 @@ images:
 - hashicorp-icon.svg
 linkedin: https://www.linkedin.com/company/hashicorp
 logohandle: hashicorp
-meetup: https://www.meetup.com/pro/hugs
+other:
+  - name: Meetup
+    url: https://www.meetup.com/pro/hugs
 sort: hashicorp
 title: HashiCorp
 twitter: hashicorp

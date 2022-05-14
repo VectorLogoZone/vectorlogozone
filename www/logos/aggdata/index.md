@@ -9,7 +9,6 @@ images:
 - aggdata-icon.svg
 - aggdata-ar21.svg
 logohandle: aggdata
-posted: true
 sort: aggdata
 tags:
 - data

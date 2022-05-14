@@ -7,7 +7,6 @@ github: stripe
 images:
 - stripe-ar21.svg
 - stripe-icon.svg
-layout: default
 logohandle: stripe
 sort: stripe
 tags:

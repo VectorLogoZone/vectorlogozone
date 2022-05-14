@@ -9,7 +9,6 @@ guide: https://go.developer.ebay.com/logos
 images:
 - ebay-ar21.svg
 - ebay-icon.svg
-layout: default
 logohandle: ebay
 sort: ebay
 tags:

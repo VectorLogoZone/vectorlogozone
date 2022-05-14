@@ -5,7 +5,6 @@ guide: https://www.rust-lang.org/en-US/legal.html
 images:
 - rust-lang-icon.svg
 - rust-lang-ar21.svg
-layout: default
 logohandle: rust-lang
 sort: rust
 tags:

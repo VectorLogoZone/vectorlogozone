@@ -7,7 +7,6 @@ facebook: https://www.facebook.com/invisionapp
 googleplus: https://plus.google.com/+Invisionappinc
 guide: https://in.invisionapp.com/boards/FH3LW3S7XSD
 logohandle: invisionapp
-posted: true
 sort: invisionapp
 title: InVision
 twitter: InVisionApp

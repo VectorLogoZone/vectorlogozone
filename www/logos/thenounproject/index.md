@@ -6,7 +6,6 @@ images:
 - thenounproject-official.svg
 - thenounproject-ar21.svg
 - thenounproject-wordmark.svg
-layout: default
 logohandle: thenounproject
 sort: noun project
 tags:

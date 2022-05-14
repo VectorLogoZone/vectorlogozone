@@ -13,7 +13,7 @@ images:
 - linkedin-ar21.svg
 logohandle: linkedin
 sort: linkedin
-tag:
+tags:
 - job_search
 - simpleshare
 - social_network

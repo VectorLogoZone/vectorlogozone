@@ -5,7 +5,6 @@ images:
 - webassembly-icon.svg
 - webassembly-ar21.svg
 logohandle: webassembly
-posted: true
 sort: webassembly
 tags:
 - programming_language

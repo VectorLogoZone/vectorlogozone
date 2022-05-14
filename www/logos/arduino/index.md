@@ -10,7 +10,6 @@ images:
 - arduino-icon.svg
 - arduino-official.svg
 logohandle: arduino
-posted: true
 sort: arduino
 tags:
 - hardware

@@ -3,7 +3,6 @@ facebook: https://facebook.com/forrester
 googleplus: https://plus.google.com/+forrester
 linkedin: https://linkedin.com/company/forrester-research
 logohandle: forrester
-posted: true
 sort: forrester
 title: Forrester
 twitter: forrester

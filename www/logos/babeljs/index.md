@@ -2,7 +2,6 @@
 blog: https://babeljs.io/blog/
 github: babel/babel
 logohandle: babeljs
-posted: true
 slack: https://slack.babeljs.io/
 sort: babeljs
 title: Babel.js

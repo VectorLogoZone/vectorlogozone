@@ -11,7 +11,6 @@ images:
 - fileformatinfo-horizontal.svg
 - fileformatinfo-ar21.svg
 - fileformatinfo-icon.svg
-layout: default
 logohandle: fileformatinfo
 sort: fileformat.info
 tags:

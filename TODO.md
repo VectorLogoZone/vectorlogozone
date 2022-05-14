@@ -1,6 +1,8 @@
 
 # To Do
 
+- move unsupported social links to 'other', add dropdown at end of social links
+
 DomainConnect - background
 Apache Flink
 

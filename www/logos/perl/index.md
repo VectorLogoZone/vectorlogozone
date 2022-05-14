@@ -11,7 +11,6 @@ images:
 - perl-vertical.svg
 - perl-icon.svg
 - perl-horizontal.svg
-layout: default
 logohandle: perl
 sort: perl
 tags:

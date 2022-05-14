@@ -13,7 +13,6 @@ images:
 - digitalocean-icon.svg
 - digitalocean-ar21.svg
 - digitalocean-official.svg
-layout: default
 logohandle: digitalocean
 sort: digital ocean
 tags:

@@ -5,7 +5,6 @@ instagram: https://instagram.com/shopify
 linkedin: https://linkedin.com/company/shopify
 logohandle: shopify
 pinterest: https://pinterest.com/shopify
-posted: true
 sort: shopify
 title: Shopify
 twitter: shopify

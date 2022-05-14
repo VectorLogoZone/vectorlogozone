@@ -3,7 +3,6 @@ github: fileformat/wctv-www
 images:
 - worldclocktv-ar21.svg
 - worldclocktv-icon.svg
-layout: default
 logohandle: worldclocktv
 sort: worldclocktv
 tags:

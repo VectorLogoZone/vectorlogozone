@@ -5,7 +5,6 @@ images:
 - wikisource-icon.svg
 - wikisource-ar21.svg
 logohandle: wikisource
-posted: true
 sort: wikisource
 title: Wikisource
 twitter: wikisource

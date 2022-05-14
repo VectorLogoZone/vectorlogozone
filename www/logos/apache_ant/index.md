@@ -4,7 +4,6 @@ images:
 - apache_ant-icon.svg
 - apache_ant-official.svg
 - apache_ant-ar21.svg
-layout: default
 logohandle: apache_ant
 sort: ant
 tags:

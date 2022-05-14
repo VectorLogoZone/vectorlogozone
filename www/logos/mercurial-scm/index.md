@@ -1,6 +1,5 @@
 ---
 guide: https://www.selenic.com/hg-logo/
-layout: default
 logohandle: mercurial-scm
 reddit: https://www.reddit.com/r/mercurial/
 sort: mercurial

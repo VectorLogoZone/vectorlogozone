@@ -8,7 +8,6 @@ github: FortAwesome/Font-Awesome
 images:
 - font-awesome-ar21.svg
 - font-awesome-icon.svg
-layout: default
 logohandle: font-awesome
 sort: font awesome
 tags:

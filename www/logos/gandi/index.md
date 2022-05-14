@@ -5,9 +5,7 @@ images:
 - gandi-official.svg
 - gandi-icon.svg
 - gandi-ar21.svg
-layout: default
 logohandle: gandi
-posted: true
 sort: gandi
 tags:
 - domains

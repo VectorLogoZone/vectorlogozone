@@ -3,7 +3,6 @@ github: fileformat/sandcastlezone
 images:
 - sandcastlezone-ar21.svg
 - sandcastlezone-icon.svg
-layout: default
 logohandle: sandcastlezone
 sort: sandcastlezone
 tags:

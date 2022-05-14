@@ -3,7 +3,6 @@ blog: https://okta.com/blog
 facebook: https://facebook.com/OktaIdentity
 linkedin: https://linkedin.com/company/okta-inc-
 logohandle: okta
-posted: true
 sort: okta
 title: Okta
 twitter: okta

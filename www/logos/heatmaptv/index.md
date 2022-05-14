@@ -3,7 +3,6 @@ github: fileformat/heatmaptv
 images:
 - heatmaptv-ar21.svg
 - heatmaptv-icon.svg
-layout: default
 logohandle: heatmaptv
 sort: heatmaptv
 tags:

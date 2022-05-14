@@ -6,7 +6,6 @@ images:
 - pocoo_flask-icon.svg
 - pocoo_flask-official.svg
 logohandle: pocoo_flask
-posted: true
 sort: flask
 tags:
 - python

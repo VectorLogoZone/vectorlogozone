@@ -7,7 +7,9 @@ images:
 - foursquare-icon.svg
 instagram: https://www.instagram.com/foursquare/
 logohandle: foursquare
-medium: http://medium.com/foursquare-direct
+other:
+  - name: Medium
+    url: http://medium.com/foursquare-direct
 sort: foursquare
 title: foursquare
 twitter: Foursquare

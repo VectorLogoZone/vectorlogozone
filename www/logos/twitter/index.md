@@ -12,7 +12,6 @@ images:
 - twitter-tile.svg
 - twitter-ar21.svg
 logohandle: twitter
-posted: true
 sort: twitter
 tags:
 - simpleshare

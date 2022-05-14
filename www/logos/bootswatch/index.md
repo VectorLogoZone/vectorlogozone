@@ -8,7 +8,6 @@ guide: https://github.com/thomaspark/bootswatch/tree/v5/docs/_assets/img
 images:
 - bootswatch-icon.svg
 - bootswatch-ar21.svg
-layout: default
 logohandle: bootswatch
 sort: bootswatch
 tags:

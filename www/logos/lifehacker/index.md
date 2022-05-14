@@ -2,7 +2,6 @@
 facebook: https://facebook.com/lifehacker
 instagram: https://instagram.com/lifehackerdotcom
 logohandle: lifehacker
-posted: true
 sort: lifehacker
 title: lifehacker
 twitter: lifehacker

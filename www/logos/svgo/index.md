@@ -4,7 +4,6 @@ images:
 - svgo-icon.svg
 - svgo-ar21.svg
 logohandle: svgo
-posted: true
 sort: svgo
 tags:
 - svg

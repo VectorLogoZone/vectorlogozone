@@ -11,7 +11,6 @@ images:
 instagram: https://www.instagram.com/wufoo/
 linkedin: https://www.linkedin.com/company-beta/3364692/
 logohandle: wufoo
-posted: true
 sort: wufoo
 tags:
 - saas

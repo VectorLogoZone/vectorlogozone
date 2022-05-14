@@ -5,7 +5,6 @@ github: linode
 images:
 - linode-icon.svg
 - linode-ar21.svg
-layout: default
 logohandle: linode
 sort: linode
 tags:
