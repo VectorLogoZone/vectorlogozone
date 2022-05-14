@@ -5,7 +5,7 @@ logohandle: cloudera
 sort: cloudera
 title: Cloudera
 twitter: cloudera
-wikipedia: https://en.wikipedia.org/wiki/Cloudera
 website: 'https://www.cloudera.com/'
+wikipedia: https://en.wikipedia.org/wiki/Cloudera
 ---
 

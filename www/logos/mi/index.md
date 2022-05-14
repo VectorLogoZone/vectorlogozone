@@ -2,8 +2,8 @@
 blog: 'http://blog.mi.com/en'
 facebook: 'https://facebook.com/xiaomiglobal'
 googleplus: 'https://plus.google.com/+MiGlobal'
-logohandle: mi
 keywords: xiaomi
+logohandle: mi
 sort: mi
 title: Mi
 twitter: Xiaomi

@@ -1,8 +1,8 @@
 ---
-github: FreeloaderWTF
 font:
   name: BlackTop
   url: https://sixabovestudios.com/store/blacktop-font/
+github: FreeloaderWTF
 logohandle: freeloaderwtf
 sort: freeloaderwtf
 title: Freeloader.WTF

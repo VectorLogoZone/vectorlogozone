@@ -7,7 +7,7 @@ sort: rd
 title: 'Reader’s Digest'
 twitter: readersdigest
 website: 'https://www.rd.com/'
-youtube: 'https://youtube.com/readersdigest'
 wikipedia: "https://en.wikipedia.org/wiki/Reader's_Digest"
+youtube: 'https://youtube.com/readersdigest'
 ---
 

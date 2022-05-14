@@ -1,6 +1,6 @@
 ---
-logohandle: eosdesignsystem
 gitlab: https://gitlab.com/SUSE-UIUX
+logohandle: eosdesignsystem
 sort: eosdesignsystem
 title: EOS Design System
 twitter: eosdesignsystem

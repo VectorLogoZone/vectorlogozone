@@ -1,7 +1,7 @@
 ---
 github: kitlang/kit
-logohandle: kitlang
 gitter: 'https://gitter.im/kitlang/kit'
+logohandle: kitlang
 sort: kit
 title: Kit
 twitter: kitlanguage

@@ -1,8 +1,8 @@
 ---
 blog: 'https://medium.com/jaegertracing'
 github: jaegertracing/jaeger
-logohandle: jaegertracingio
 gitter: 'https://gitter.im/jaegertracing/Lobby'
+logohandle: jaegertracingio
 sort: jaeger
 title: Jaeger
 twitter: JaegerTracing

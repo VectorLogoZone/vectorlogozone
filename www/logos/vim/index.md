@@ -1,7 +1,9 @@
 ---
 guide: 'https://www.vim.org/logos.php'
 logohandle: vim
-stackexchange: 'https://vi.stackexchange.com/'
+other:
+  - name: StackExchange
+    url: 'https://vi.stackexchange.com/'
 sort: vim
 title: vim
 website: 'https://www.vim.org/'

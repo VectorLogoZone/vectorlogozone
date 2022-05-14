@@ -2,9 +2,9 @@
 blog: 'https://philadelphiapact.com/blog'
 facebook: 'https://facebook.com/PACT-Philadelphia-Alliance-for-Capital-and-Technologies-140450232659090'
 instagram: 'https://instagram.com/pactphl'
+keywords: 'Philadelphia Alliance for Capital and Technologies'
 linkedin: 'https://linkedin.com/company/greater-philadelphia-alliance-for-capital-&-technologies-pact-'
 logohandle: philadelphiapact
-keywords: 'Philadelphia Alliance for Capital and Technologies'
 sort: pact
 title: PACT
 twitter: PhilaPACT

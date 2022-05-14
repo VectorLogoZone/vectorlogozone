@@ -2,7 +2,9 @@
 blog: 'https://flow.org/blog/'
 github: facebook/flow
 logohandle: flow
-stackoverflow: 'http://stackoverflow.com/questions/tagged/flowtype'
+other:
+  - name: StackOverflow
+    url: 'http://stackoverflow.com/questions/tagged/flowtype'
 sort: flow
 title: Flow
 twitter: flowtype

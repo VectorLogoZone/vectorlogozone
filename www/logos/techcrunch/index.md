@@ -1,9 +1,9 @@
 ---
 facebook: https://www.facebook.com/techcrunch
 googleplus: https://plus.google.com/+TechCrunch
+instagram: http://instagram.com/techcrunch
 linkedin: http://www.linkedin.com/company/techcrunch
 logohandle: techcrunch
-instagram: http://instagram.com/techcrunch
 pinterest: http://pinterest.com/techcrunch/
 sort: techcrunch
 title: 'TechCrunch'
