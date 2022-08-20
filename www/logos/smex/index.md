@@ -1,6 +1,6 @@
 ---
 facebook: 'http://facebook.com/smex'
-flickr: 'https://www.flickr.com/photos/smexbeirut'
+flickr: 'https://www.flickr.com/photos/smexbeirut/'
 logohandle: smex
 sort: smex
 title: SMEX

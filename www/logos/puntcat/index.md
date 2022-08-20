@@ -1,6 +1,6 @@
 ---
 facebook: 'https://www.facebook.com/dominipuntCAT'
-flickr: 'https://www.flickr.com/photos/puntcat'
+flickr: 'https://www.flickr.com/photos/puntcat/'
 linkedin: 'https://www.linkedin.com/company/fundaci-puntcat'
 logohandle: puntcat
 sort: puntcat
