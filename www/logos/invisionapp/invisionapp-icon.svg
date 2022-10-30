@@ -1,98 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-
-<svg
-   xmlns:i="&amp;ns_ai;"
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   id="Layer_1"
-   x="0px"
-   y="0px"
-   viewBox="0 0 64 64"
-   xml:space="preserve"
-   sodipodi:docname="invision-icon.svg"
-   width="64"
-   height="64"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"><metadata
-   id="metadata23"><rdf:RDF><cc:Work
-       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-   id="defs21" /><sodipodi:namedview
-   pagecolor="#ffffff"
-   bordercolor="#666666"
-   borderopacity="1"
-   objecttolerance="10"
-   gridtolerance="10"
-   guidetolerance="10"
-   inkscape:pageopacity="0"
-   inkscape:pageshadow="2"
-   inkscape:window-width="1920"
-   inkscape:window-height="1001"
-   id="namedview19"
-   showgrid="false"
-   inkscape:zoom="2.4351411"
-   inkscape:cx="62.711047"
-   inkscape:cy="51.570856"
-   inkscape:window-x="-9"
-   inkscape:window-y="-9"
-   inkscape:window-maximized="1"
-   inkscape:current-layer="Layer_1" />
-<style
-   type="text/css"
-   id="style2">
-	.st0{fill:#FF3366;}
-	.st1{fill:#FFFFFF;}
-</style>
-<switch
-   id="switch16"
-   transform="matrix(0.24242424,0,0,0.24242424,0.01203726,3.2e-7)">
-	<foreignObject
-   requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/"
-   x="0"
-   y="0"
-   width="1"
-   height="1">
-		<i:pgfRef
-   xlink:href="#adobe_illustrator_pgf">
-		</i:pgfRef>
-	</foreignObject>
-	<g
-   i:extraneous="self"
-   id="g14">
-		<path
-   class="st0"
-   d="M 240.1,0 H 23.9 C 10.7,0 0,10.7 0,23.9 V 240 c 0,13.3 10.7,24 23.9,24 H 240 c 13.2,0 23.9,-10.7 23.9,-23.9 V 23.9 C 264,10.7 253.3,0 240.1,0 Z"
-   id="path4"
-   inkscape:connector-curvature="0"
-   style="fill:#ff3366" />
-		
-		<g
-   id="g12">
-			<path
-   class="st1"
-   d="m 88.2,83.1 c 8.8,0 16.1,-6.9 16.1,-15.9 0,-9 -7.4,-15.9 -16.1,-15.9 -8.8,0 -16.1,6.9 -16.1,15.9 0,9 7.4,15.9 16.1,15.9 z"
-   id="path8"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-			<path
-   class="st1"
-   d="m 54.8,168.2 c -0.9,4 -1.4,8.4 -1.4,11.9 0,14 7.6,23.3 23.7,23.3 13.4,0 24.2,-7.9 32,-20.8 l -4.8,19.1 h 26.6 l 15.2,-60.9 c 3.8,-15.4 11.1,-23.4 22.3,-23.4 8.8,0 14.2,5.5 14.2,14.5 0,2.6 -0.2,5.5 -1.2,8.5 l -7.8,28 c -1.2,4 -1.7,8.1 -1.7,11.9 0,13.3 7.8,23 24.2,23 14,0 25.1,-9 31.3,-30.6 l -10.4,-4 c -5.2,14.5 -9.7,17.1 -13.3,17.1 -3.6,0 -5.5,-2.4 -5.5,-7.1 0,-2.1 0.5,-4.5 1.2,-7.4 L 207,144 c 1.9,-6.4 2.6,-12.1 2.6,-17.3 0,-20.4 -12.3,-31 -27.3,-31 -14,0 -28.2,12.6 -35.3,25.9 l 5.2,-23.8 h -40.6 l -5.7,21 h 19 l -11.7,46.8 c -9.2,20.4 -26,20.7 -28.1,20.3 -3.5,-0.8 -5.7,-2.1 -5.7,-6.6 0,-2.6 0.5,-6.3 1.7,-10.9 L 98.9,97.8 H 53.8 l -5.7,21 h 18.7 z"
-   id="path10"
-   inkscape:connector-curvature="0"
-   style="fill:#ffffff" />
-		</g>
-	</g>
-</switch>
-<i:pgf
-   id="adobe_illustrator_pgf">
-	<![CDATA[
+<svg xmlns:i="&amp;ns_ai;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0" y="0" xml:space="preserve" width="64" height="64"><style type="text/css" id="style2">.st1{fill:#fff}</style><switch id="switch16" transform="translate(.012) scale(.24242)"><foreignObject requiredExtensions="http://ns.adobe.com/AdobeIllustrator/10.0/" x="0" y="0" width="1" height="1"><i:pgfRef xlink:href="#adobe_illustrator_pgf"/></foreignObject><g i:extraneous="self" id="g14"><path d="M240.1 0H23.9C10.7 0 0 10.7 0 23.9V240c0 13.3 10.7 24 23.9 24H240c13.2 0 23.9-10.7 23.9-23.9V23.9C264 10.7 253.3 0 240.1 0z" id="path4" fill="#f36"/><g id="g12"><path class="st1" d="M88.2 83.1c8.8 0 16.1-6.9 16.1-15.9s-7.4-15.9-16.1-15.9c-8.8 0-16.1 6.9-16.1 15.9s7.4 15.9 16.1 15.9z" id="path8" fill="#fff"/><path class="st1" d="M54.8 168.2c-.9 4-1.4 8.4-1.4 11.9 0 14 7.6 23.3 23.7 23.3 13.4 0 24.2-7.9 32-20.8l-4.8 19.1h26.6l15.2-60.9c3.8-15.4 11.1-23.4 22.3-23.4 8.8 0 14.2 5.5 14.2 14.5 0 2.6-.2 5.5-1.2 8.5l-7.8 28c-1.2 4-1.7 8.1-1.7 11.9 0 13.3 7.8 23 24.2 23 14 0 25.1-9 31.3-30.6l-10.4-4c-5.2 14.5-9.7 17.1-13.3 17.1-3.6 0-5.5-2.4-5.5-7.1 0-2.1.5-4.5 1.2-7.4L207 144c1.9-6.4 2.6-12.1 2.6-17.3 0-20.4-12.3-31-27.3-31-14 0-28.2 12.6-35.3 25.9l5.2-23.8h-40.6l-5.7 21h19l-11.7 46.8c-9.2 20.4-26 20.7-28.1 20.3-3.5-.8-5.7-2.1-5.7-6.6 0-2.6.5-6.3 1.7-10.9l17.8-70.6H53.8l-5.7 21h18.7z" id="path10" fill="#fff"/></g></g></switch><i:pgf id="adobe_illustrator_pgf"><![CDATA[
 	eJzdvediIruyKPy9AO8AtrHBpM7dOBOdc84mtG3GGDBh1pr94z77rVLn3A3M3ed8e87imG6hkipX
 SSUlE2eXuVK735RzbJ6Kx5LJylBujPvDtTh5Gt/vdiej8RAfpS7ScVrMU9CotC+9qg1v5OGo0++t
 xRk6T5OXdfx16gJ+PRzHLz8bzcZ//pOOp9Lw6qoz7srwstP73cFf5br9j36+0UlrgOFZtTGGJlJB
@@ -165,8 +71,7 @@ FZIy6qiglF8FwzJNHAJEfVXqrPOv3D2Th+9yK1w20S3BhsM4q9ZfKyRr0LFUlPg0h6n+qfb/6Sk7
 Qw872lox7Zpw0H51OWkC89b7vfEFeg2qw8oLAYDwuAtnCYutNYOtr0cyUTJXphSk34BUuboy1TKF
 mDsKIijWq8/Jd7PX6HSNhIbvNCpGeslAmMfo/BaK/CZ0prgjWFJjXoHwxhg5y6NC/IYRyfJ3O77h
 jgZIyYvXh/3vknIAwpEegQQYRg2yWvT3x1BlIX9YlUfjjuJ2nvi6aS4/MM8vJDhlaQ==
-	]]>
-	<![CDATA[
+	]]><![CDATA[
 	FlDUNmVEvDKhGnquhp1vJMKtKaDhXPOE2i+O+72+IVHkHIhSs//bf3q0TkJXYeRdfbSQK9TRkw82
 qcKtBMRaGVTyExGVE11kxD3B6q6KHHra/ZfhdlFMxyH7bdDOnfeO5p9Fk6ML02p7BGydTxqG5mYY
 t7yeO8LsnMYF8GjrE8Yqu9PJVzEp+bhSa9hvNsbKATfT4OdKi5z9J2kTCvssI1F2n5zQc6YkA8Op
@@ -239,8 +144,7 @@ aZnbV6ONvtIOjTb6yhhR0kyeRAUQs/Pjj8pYsDd3dz2zRjMy8NDZ3DTatU2jTeUpYV46kkbzkn2g
 2xw0GvRCNFowjwX3E6zRYqH6mX3tlfTjsx6ULaf0dZyCq+RYCeYWQRs8Zl46dPdS1I1e2i5EiHgc
 uXF85rIAO82eK1wED6WEdM/Mde21AnJ+6q8Zwy4uYFc3iTDr+yG8+oqx+8Gtq1gyXNB4dzNLLK3T
 Belm29Y0jVLAXpyOvcFjEfoJ3gJh68VlpwrpxyOkjjgabeOR1wqvr0tu7ywwkRUL7w==
-	]]>
-	<![CDATA[
+	]]><![CDATA[
 	38P8MnZrCM9yISQnFsoaNhYuPLcIhI747m7n59/futlCNx4LYw1vI4XWloyimapPP1P69zaqqVBm
 7sfm309lxUg/Ufx7DytG+pnZv8dePG0hWX2LZA2ffvzE0N0WWqNXuzV8da4U47PImwA9PCXQQCH3
 YRnbMDxn/zqEyMKbJGZUevgCZhm685RtPUYOL9130T1d76zCXSjpDqO2EWOhRDw4uARK5j19Xpdd
@@ -313,8 +217,7 @@ SK7Pc1Du+7SiD8m+ljRDdaLPLq1o8tL3qVJVR+PYG2s/IQQGurVqVVe1+eSYCV32QywYBtzS5p/c
 inL3030uYCuMZ/jr1DBzSC+/1Gxn2UyTH4t+YJxrfqw2jyXrl5qRWfY6gyhcFWDYQ2j1U83dETNT
 1GLj5GrIoDjMphGXBVa8w24ux0DX5xgjN+pTJoNd8vxYcOfjZ0VKBDTqzjx/1JOHrDkV7sexgeBL
 GtoyvbNUt915Lw2GOSPCUgoY5Ld5U9e2U6W9G6KWKVwlU9GkWh132LlkY72r2/xORg==
-	]]>
-	<![CDATA[
+	]]><![CDATA[
 	DeGNWwblvVnfIJ0//dTsKGD0a2lOpZwud97Yz4QMXQoYfOmVqSslp+TXmf+9xuHGRSpSsTOPm42n
 mKRtvXI2jAXW8kTBWMDKZTSMBd5xHGGSR9yTJ8Yc5cKewWz0G/ViyVmqAL2cc48dqlNWAVrG4FMD
 qHnj01UBhq0BdMsnh68C9GABRw2g3w3sXl1Ev1HPvhsqWhVg2BpAx06VSFWAYfFps5URqwBdGcSl
@@ -387,8 +290,7 @@ Xya86if/ZcITsoN9+buEd7Uv8yS86tiPtzNahZ3HDip9Pz/u4zZd1WGaQdpioOiB+WdfxVWyc8A4
 q/OIt0cRxn5p625qYuMym5e1tuYYt5bNoIgl3Ti8NSwpWLHKVZMzBkqeLv4Ik2Oti7ekvYtJ8+zH
 5IMuPzAHphmQZ4nN+289Or0mVsy46YfQ/N6cDl7m+3V7F+z+o9HFpdKBWpwEGCF74ZRt1PXXFSb9
 XRaR+qdyit59+aCQD9LkKVJwVX32tZDBvXm8vnOv7QiQcM7kxiP9Yp/VndvVBmELeA==
-	]]>
-	<![CDATA[
+	]]><![CDATA[
 	kSe7CPizvvPOH23DrqKx178vLLf/aDZ8vXt9gsNcwBf31guQUma63CX6hZqyyX5Yvn/UpfIz1Vy6
 eKIbC9wu7vbPW1gp39cwNkkg0ISCSm70uKzJFbnqqbioaRgcj5n9mkxfQ8IOa0JCciPxpiGBKxgo
 wNF8mU7xJdfmKCioji5NN0w9mZEweTzVkWC7eiprIMETBezOeSqloqCxfWqzyOSIUKJNFKAJM0mc
@@ -461,8 +363,7 @@ iqxE0TQtsi69UDRKKytQIFEgKWSsHNIK6UeLkksLnsnz+ACEEP7ROBu3NjQHjMFJEoVK4MilDUuD
 PBeBTWmGZhFvDJUHIQbYYFYoJCADWkEUYY6SICESJBYYBQgFeoHheAGYFiYICgelFHgX5L9FNAKo
 RZHiAUyRAzg0n5doXqKKqDkAUUhjSuCKNGgVCUQcWgArAUsAyQQGZcHZgoKRsIxIYb8wApVTbG3Y
 fJEWGYYFPQusgXO2twFVkAfEopRRAqpnUNV5sShRrAA6H1QdtGCA8PC3CLSXgPWBKQ==
-	]]>
-	<![CDATA[
+	]]><![CDATA[
 	8qi2aGJpJdbZAubMor4CfqFAECnBrRdGAiSA2QYFyVNohIrKaAHPfJHjCPJBumgQSWB/wDUNlk9A
 mRRBNCUODadES3kQWyAsaCZJgCZSHnpHxUqBHgEolIACRoF9AS1OA1tTICx0ERSOBPQA2Ycfwnwp
 dCNAI9JgcSWwYKKEGgVmR0QQrCv8GgDQAs2CuyOKIF+SwIH4caA0YahgkzkYlwR4Bp0CLZC1OFB2
@@ -506,6 +407,4 @@ A0CjUQSIowG446jfQJ8IaECdHhQRHhasMoe2WVD6KGJWVzXCqHAwFQE0R03IxXGYMGpWYARlrqhv
 BEkC7crQhBnBCIMEFjFHTeO6AuNKP7tr49KExZUhYBLUfkSOneTjMD6SOIYksDzYINDROrJE1Edl
 ZcW51muTJeFcLpZMnjU+5Ktho9OVh7GPUeO3HG/0ev1xYywP4E38YyiPxv2hDE58/x98Aj/RmieT
 tdN67P8CH7N0QA==
-	]]>
-</i:pgf>
-</svg>
+	]]></i:pgf></svg>

@@ -1,7 +1,7 @@
 ---
 blog: 'http://www.humanrightseurope.org/'
 facebook: 'http://facebook.com/pages/Council-of-Europe/42276542714'
-flickr: 'https://www.flickr.com/photos/councilofeurope/albums'
+flickr: 'https://www.flickr.com/photos/councilofeurope'
 instagram: 'http://instagram.com/councilofeurope'
 logohandle: coeint
 sort: coe

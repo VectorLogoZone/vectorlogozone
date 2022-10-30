@@ -2,6 +2,11 @@
 # To Do
 
 - move unsupported social links to 'other', add dropdown at end of social links
+- badger logo
+- badger GHA
+- vdiffprep DIR
+- visualdiff BEFORE_DIR AFTER_DIR
+- svgo: [standard config](https://github.com/svg/svgo#configuration), sortAttrs --pretty, --indent
 
 DomainConnect - background
 Apache Flink
