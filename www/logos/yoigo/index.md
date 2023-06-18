@@ -1,0 +1,10 @@
+---
+facebook: 'https://facebook.com/Yoigo'
+instagram: 'https://instagram.com/yoigo'
+logohandle: yoigo
+sort: yoigo
+title: Yoigo
+twitter: yoigo
+website: 'https://www.yoigo.com/'
+youtube: 'https://youtube.com/user/SomosYoigo'
+---
