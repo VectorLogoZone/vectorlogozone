@@ -4,7 +4,7 @@ github: vercel
 guide: 'https://vercel.com/design'
 logohandle: vercel
 sort: vercel
-title: Develop. Preview. Ship. For the best frontend teams – Vercel
+title: Vercel
 twitter: vercel
 website: 'https://vercel.com/'
 ---
