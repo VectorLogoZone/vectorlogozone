@@ -5,6 +5,7 @@
 
 import argparse
 import datetime
+# NOTE: this is python-frontmatter, not frontmatter
 import frontmatter
 import os
 import pathlib
