@@ -1,4 +1,5 @@
 ---
+guide: https://www.wappalyzer.com/logos/
 logohandle: wappalyzer
 sort: wappalyzer
 title: Wappalyzer
