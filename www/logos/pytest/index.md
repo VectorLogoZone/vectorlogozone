@@ -5,4 +5,8 @@ logohandle: pytest
 sort: pytest
 title: pytest
 website: 'https://docs.pytest.org/en/latest/'
+wikipedia: 'https://en.wikipedia.org/wiki/Pytest'
+images:
+- pytest-ar21.svg
+- pytest-icon.svg
 ---
