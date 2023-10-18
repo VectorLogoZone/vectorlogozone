@@ -8,4 +8,7 @@ title: CORSAIR
 twitter: Corsair
 website: 'https://www.corsair.com/us/en/'
 youtube: 'https://youtube.com/user/CorsairMemoryInc'
+images:
+- corsair-ar21.svg
+- corsair-icon.svg
 ---
