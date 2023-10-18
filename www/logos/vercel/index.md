@@ -7,4 +7,7 @@ sort: vercel
 title: Vercel
 twitter: vercel
 website: 'https://vercel.com/'
+images:
+- vercel-ar21.svg
+- vercel-icon.svg
 ---
