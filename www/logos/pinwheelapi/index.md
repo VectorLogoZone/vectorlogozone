@@ -2,7 +2,7 @@
 linkedin: 'https://linkedin.com/company/pinwheelhq'
 logohandle: pinwheelapi
 sort: pinwheelapi
-title: 'Pinwheel: Income data engineered for fintech innovation'
+title: 'Pinwheel'
 twitter: PinwheelAPI
 website: 'https://www.pinwheelapi.com/'
 ---
