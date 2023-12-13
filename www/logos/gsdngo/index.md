@@ -1,6 +1,6 @@
 ---
 logohandle: gsdngo
-notes: 'keywords: "Global Support and Development"'
+keywords: "Global Support and Development"
 sort: gsd
 title: GSD
 website: 'https://www.gsd.ngo/'
