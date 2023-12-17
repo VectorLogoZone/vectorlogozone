@@ -5,16 +5,15 @@ font:
   url: http://www.latofonts.com/lato-free-fonts/
 github: fileformat/simpleshare
 images:
-- simpleshareio-ar21.svg
-- simpleshareio-icon.svg
-- simpleshareio-tile.svg
-logohandle: simpleshareio
+- simplesharedev-ar21.svg
+- simplesharedev-icon.svg
+- simplesharedev-tile.svg
+logohandle: simplesharedev
 sort: simpleshare
 tags:
 - andrew_marcuse
 - saas
 - sharing
-title: SimpleShare.IO
-twitter: simpleshareio
-website: https://simpleshare.io/
+title: SimpleShare.dev
+website: https://simpleshare.dev/
 ---

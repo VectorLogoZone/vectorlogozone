@@ -22,10 +22,10 @@ There are [tons](https://logosear.ch/sources/index.html) of other logo sites, bu
 While the [built-in search](https://www.vectorlogo.zone/index.html) is pretty good (IMHO), I also run an expanded logo search engine at [Logo Search](https://logosear.ch/) that searches through VLZ and these other sites.
 
 Share:
-<a href="https://simpleshare.io/go?site=hn&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on hacker news" src="https://www.vectorlogo.zone/logos/ycombinator/ycombinator-tile.svg" height="24" /></a>
-<a href="https://simpleshare.io/go?site=pinboard&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on pinboard" src="https://www.vectorlogo.zone/logos/pinboard/pinboard-tile.svg" height="24" /></a>
-<a href="https://simpleshare.io/go?site=reddit&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on reddit" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" height="24" /></a>
-<a href="https://simpleshare.io/go?site=twitter&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="24" /></a>
+<a href="https://simpleshare.dev/go?site=hn&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on hacker news" src="https://www.vectorlogo.zone/logos/ycombinator/ycombinator-tile.svg" height="24" /></a>
+<a href="https://simpleshare.dev/go?site=pinboard&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on pinboard" src="https://www.vectorlogo.zone/logos/pinboard/pinboard-tile.svg" height="24" /></a>
+<a href="https://simpleshare.dev/go?site=reddit&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on reddit" src="https://www.vectorlogo.zone/logos/reddit/reddit-tile.svg" height="24" /></a>
+<a href="https://simpleshare.dev/go?site=twitter&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on twitter" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" height="24" /></a>
 
 ## Contributing
 
@@ -68,7 +68,7 @@ modifications to the logos are in the public domain.
 [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "build-time scripts")
 [![rsvg](https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg)](https://wiki.gnome.org/Projects/LibRsvg "build-time rasterization")
 [![Shields.IO](https://www.vectorlogo.zone/logos/shieldsio/shieldsio-ar21.svg)](http://shields.io/ "README badges")
-[![SimpleShare.IO](https://www.vectorlogo.zone/logos/simpleshareio/simpleshareio-ar21.svg)](http://simpleshare.io/ "Social media share links")
+[![SimpleShare.dev](https://www.vectorlogo.zone/logos/simplesharedev/simplesharedev-ar21.svg)](http://simpleshare.dev/ "Social media share links")
 [![SuperTinyIcons](https://www.vectorlogo.zone/logos/supertinyicons/supertinyicons-ar21.svg)](https://github.com/edent/SuperTinyIcons "tile versions")
 [![svgo](https://www.vectorlogo.zone/logos/svgo/svgo-ar21.svg)](https://www.github.com/svg/svgo "SVG optimization")
 [![W3C Markup Validation Service](https://www.vectorlogo.zone/logos/w3c_validator/w3c_validator-ar21.svg)](https://validator.w3.org/ "HTML file validation")
