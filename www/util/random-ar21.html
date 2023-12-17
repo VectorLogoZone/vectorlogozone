@@ -1,0 +1,76 @@
+---
+title: Random Logos for Header Image
+layout: none
+noindex: true
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
+    <script src="/js/jquery-3.3.1.min.js"></script>
+    <style type="text/css">
+        html, body { width: 100%; height: 100% }
+        #preview-container { 
+            width: 100%; 
+            height:100%;
+            padding: 20px;
+            background-image: url("/images/preview/background_light.png"); 
+            background-repeat: repeat-x repeat-y;
+        }
+        #xpreview-container { position: relative;}
+        #preview-container img {
+            background-color: white;
+            box-shadow: 0 0 5px #1d1d1d;
+            border: solid #ccc 1px;
+            margin: 10px 0px 0px 10px;
+        }
+    </style>
+</head>
+<body>
+<div id="preview-container">
+
+</div><!--/container-->
+{% include google-analytics.html %}
+{% assign sorted_pages = site.pages | sort:'sort' %}
+<script>
+
+    // from https://www.frankmitchell.org/2015/01/fisher-yates/
+    function shuffle(array) {
+        var i = 0;
+        var j = 0;
+        var temp = null;
+
+        for (i = array.length - 1; i > 0; i -= 1) {
+            j = Math.floor(Math.random() * (i + 1));
+            temp = array[i];
+            array[i] = array[j];
+            array[j] = temp;
+        }
+    }
+
+    var logos = [
+    {% for logopage in sorted_pages %}{% if logopage.logohandle %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}{% if logopage.images contains logofile %}
+        "/logos/{{logopage.logohandle}}/{{logopage.logohandle}}-ar21.svg",
+        {% endif %}{% endif %}{% endfor %}
+        null
+    ];
+
+    shuffle(logos);
+
+    $(document).ready(function() {
+        for (var loop = 0; loop < logos.length; loop++) {
+            var src = logos[loop];
+            if (src != null) {
+                $("#preview-container").append($("<img>").attr("src", src));
+            }
+        }
+    });
+
+</script>
+</body>
+</html>
+
