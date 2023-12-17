@@ -14,6 +14,6 @@ tags:
 - graphics
 - logos
 - reference
-title: LogoSear.ch
+title: Logo Search
 website: https://logosear.ch//
 ---

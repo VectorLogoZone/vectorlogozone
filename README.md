@@ -19,7 +19,7 @@ I also allow hot-linking, so you do not have to make copies of the images in ord
 
 There are [tons](https://logosear.ch/sources/index.html) of other logo sites, but none met these basic requirements.
 
-While the [built-in search](https://www.vectorlogo.zone/index.html) is pretty good (IMHO), I also run an expanded logo search engine at [LogoSear.ch](https://logosear.ch/) that searches through VLZ and these other sites.
+While the [built-in search](https://www.vectorlogo.zone/index.html) is pretty good (IMHO), I also run an expanded logo search engine at [Logo Search](https://logosear.ch/) that searches through VLZ and these other sites.
 
 Share:
 <a href="https://simpleshare.io/go?site=hn&amp;url=https%3A%2F%2Fwww.vectorlogo.zone%2F&amp;text=Vector+Logo+Zone&amp;ga=UA-328425-25" rel="nofollow"><img alt="share on hacker news" src="https://www.vectorlogo.zone/logos/ycombinator/ycombinator-tile.svg" height="24" /></a>
@@ -60,7 +60,6 @@ modifications to the logos are in the public domain.
 [![Github](https://www.vectorlogo.zone/logos/github/github-ar21.svg)](https://www.github.com/ "git hosting")
 [![ImageMagick](https://www.vectorlogo.zone/logos/imagemagick/imagemagick-ar21.svg)](https://www.imagemagick.org/ "Image manipulation")
 [![Inkscape](https://www.vectorlogo.zone/logos/inkscape/inkscape-ar21.svg)](https://inkscape.org/ "SVG Editor")
-[![InstantLogoSearch](https://www.vectorlogo.zone/logos/instantlogosearch/instantlogosearch-ar21.svg)](https://www.instantlogosearch.com/ "Logos")
 [![Jekyll](https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-ar21.svg)](https://jekyllrb.com/ "Static site generator")
 [![jQuery](https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg)](https://jquery.com/ "JavaScript library")
 [![lunr.js](https://www.vectorlogo.zone/logos/lunrjs/lunrjs-ar21.svg)](https://lunrjs.com/ "Client-side search")
@@ -72,6 +71,7 @@ modifications to the logos are in the public domain.
 [![SimpleShare.IO](https://www.vectorlogo.zone/logos/simpleshareio/simpleshareio-ar21.svg)](http://simpleshare.io/ "Social media share links")
 [![SuperTinyIcons](https://www.vectorlogo.zone/logos/supertinyicons/supertinyicons-ar21.svg)](https://github.com/edent/SuperTinyIcons "tile versions")
 [![svgo](https://www.vectorlogo.zone/logos/svgo/svgo-ar21.svg)](https://www.github.com/svg/svgo "SVG optimization")
-[![SVGPorn](https://www.vectorlogo.zone/logos/svgporn/svgporn-ar21.svg)](https://svgporn.com/ "Icon versions of various logos")
 [![W3C Markup Validation Service](https://www.vectorlogo.zone/logos/w3c_validator/w3c_validator-ar21.svg)](https://validator.w3.org/ "HTML file validation")
 [![Wufoo](https://www.vectorlogo.zone/logos/wufoo/wufoo-ar21.svg)](http://www.wufoo.com/ "Contact form")
+
+See the [sources page on Logo Search](https://logosear.ch/sources/index.html) for places where I have found logos.
