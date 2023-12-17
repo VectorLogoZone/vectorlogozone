@@ -2,20 +2,20 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="64mm"
-   height="64mm"
-   viewBox="0 0 64 64"
+   width="64"
+   height="64"
    version="1.1"
    id="svg885"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
-   sodipodi:docname="maersk-icon.svg">
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="maersk-icon.svg"
+   viewBox="0 0 64 64"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs879" />
   <sodipodi:namedview
@@ -25,17 +25,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-481.42857"
-     inkscape:cy="560"
-     inkscape:document-units="mm"
+     inkscape:zoom="12.609375"
+     inkscape:cx="32"
+     inkscape:cy="32"
+     inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1853"
+     inkscape:window-width="1850"
      inkscape:window-height="1016"
-     inkscape:window-x="67"
-     inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:pagecheckerboard="0"
+     units="px" />
   <metadata
      id="metadata882">
     <rdf:RDF>
@@ -44,7 +46,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,8 +56,8 @@
      transform="translate(0,-233)">
     <path
        inkscape:connector-curvature="0"
-       d="m 37.881611,289.01561 q 0,-2.89097 1.694715,-3.88783 1.694714,-1.09658 4.884755,-1.09658 h 3.489072 V 255.22143 L 36.884738,280.34277 H 27.813071 L 16.049848,255.3211 v 28.7101 h 3.489106 q 3.289718,0 4.884721,1.09658 1.694715,0.99686 1.694715,3.88783 0,4.98439 -6.579436,4.98439 H 6.6791131 Q 0,294 0,289.01561 0,284.0312 6.0809825,284.0312 v -38.08072 q -5.1837867,-0.49846 -5.1837867,-5.08409 0,-1.99376 1.3956156,-3.48907 Q 3.6884605,235.882 7.077889,235.882 h 11.26477 L 32.099695,265.58896 45.557631,235.882 h 10.965738 q 6.579469,0 6.579469,4.98439 0,4.48595 -5.18382,4.98437 V 284.0312 Q 64,284.0312 64,289.01561 64,294 57.420564,294 H 44.461081 q -6.57947,0 -6.57947,-4.98439 z"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.80336189px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.49220395"
+       d="m 37.88161,289.13363 q 0,-2.89095 1.694714,-3.88783 1.694714,-1.09658 4.884755,-1.09658 H 47.95015 V 255.33941 L 36.884739,280.46077 H 27.81307 L 16.049847,255.4391 v 28.71012 h 3.489107 q 3.289717,0 4.884721,1.09658 1.694714,0.99688 1.694714,3.88783 0,4.98437 -6.579435,4.98437 H 6.6791129 Q 0,294.118 0,289.13363 q 0,-4.98441 6.0809823,-4.98441 v -38.08075 q -5.1837865,-0.49846 -5.1837865,-5.08406 0,-1.99376 1.3956155,-3.48907 Q 3.6884604,236 7.0778891,236 H 18.342659 L 32.099693,265.70697 45.55763,236 h 10.965738 q 6.579469,0 6.579469,4.98441 0,4.48591 -5.18382,4.98437 v 38.18044 Q 64,284.14922 64,289.13363 64,294.118 57.420561,294.118 H 44.461079 q -6.579469,0 -6.579469,-4.98437 z"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:29.8034px;line-height:1.25;font-family:FreeMono;-inkscape-font-specification:'FreeMono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.4922"
        id="path838" />
   </g>
 </svg>
