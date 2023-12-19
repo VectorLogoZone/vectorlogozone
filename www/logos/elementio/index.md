@@ -10,4 +10,5 @@ sort: element
 title: Element
 twitter: element_hq
 website: 'https://element.io/'
+wikipedia: 'https://en.wikipedia.org/wiki/Element_(software)'
 ---
