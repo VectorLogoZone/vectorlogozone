@@ -64,7 +64,7 @@ modifications to the logos are in the public domain.
 [![jQuery](https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg)](https://jquery.com/ "JavaScript library")
 [![lunr.js](https://www.vectorlogo.zone/logos/lunrjs/lunrjs-ar21.svg)](https://lunrjs.com/ "Client-side search")
 [![Noah Marcuse](https://www.vectorlogo.zone/logos/marcuse_ink/marcuse_ink-ar21.svg)](https://noah.marcuse.ink/ "Making logos!")
-[![NodePing](https://www.vectorlogo.zone/logos/nodeping/nodeping-ar21.svg)](https://www.nodeping.com/ "Uptime monitoring")
+[![NodePing](https://www.vectorlogo.zone/logos/nodeping/nodeping-ar21.svg)](https://nodeping.com?rid=201109281250J5K3P "Uptime monitoring")
 [![Python](https://www.vectorlogo.zone/logos/python/python-ar21.svg)](https://www.python.org/ "build-time scripts")
 [![rsvg](https://www.vectorlogo.zone/logos/gnome/gnome-ar21.svg)](https://wiki.gnome.org/Projects/LibRsvg "build-time rasterization")
 [![Shields.IO](https://www.vectorlogo.zone/logos/shieldsio/shieldsio-ar21.svg)](http://shields.io/ "README badges")
