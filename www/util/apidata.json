@@ -16,6 +16,9 @@ title: Data for tools.vectorlogo.zone
         {%- if logopage.images contains logofile %} true{% else %} false{% endif %},
         "logohandle": "{{logopage.logohandle}}",
         "name": "{{logopage.title}}",
+        "tile": 
+        {%- capture logofile %}{{ logopage.logohandle }}{{ '-tile.svg' }}{% endcapture -%}
+        {%- if logopage.images contains logofile %} true{% else %} false{% endif %},
         "website": "{{logopage.website}}"
     }{% unless forloop.last %},{% endunless %}
     {%- endif -%}
