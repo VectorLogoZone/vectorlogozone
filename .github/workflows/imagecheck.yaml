@@ -1,0 +1,29 @@
+name: imagecheck
+
+on:
+  pull_request:
+    paths:
+      - www/logos/**/*.svg
+  push:
+    paths:
+      - www/logos/**/*.svg
+  workflow_dispatch:
+
+jobs:
+  imagecheck:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup Golang
+      uses: actions/setup-go@v4
+      with:
+        python-version: '1.22'
+
+    - name: Install Golang dependencies
+      run: go install github.com/FileFormatInfo/fflint/cmd/fflint@latest
+
+    - name: Check names
+      run: bin/chksvgimage.sh
+
