@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   overflow="inherit"
+   fill="#0592d0"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="ingress_resistance-icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.83229167"
+     inkscape:cx="360.45056"
+     inkscape:cy="191.0388"
+     inkscape:window-width="1696"
+     inkscape:window-height="895"
+     inkscape:window-x="1884"
+     inkscape:window-y="60"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 33.53375,1.67e-4 c 0.83846,0.664589 1.43785,1.923881 1.55037,3.407377 H 50.22839 V 42.62849 L 32.17489,58.34456 14.12148,42.62849 V 3.407377 H 29.26575 C 29.37902,1.923964 29.97773,0.665425 30.81612,0 H 11 V 45.56572 L 32.17489,64 53.34978,45.56572 V 1.67e-4 Z M 47.33488,13.69254 V 6.17725 H 35.61437 C 34.9456,4.737725 33.65571,3.762577 32.17497,3.762577 c -1.48073,0 -2.76995,0.975148 -3.43939,2.414673 H 17.01499 v 7.51462 l 12.34238,10.74461 v 1.20395 h -1.8244 v 3.289 h 1.8244 v 13.28075 h -4.80118 v -2.72691 h 2.95747 v -2.99742 h -7.43295 v 7.64403 l 7.43286,6.47033 V 48.5797 h 1.84371 v 4.66274 h 1.31882 v 1.41561 h 2.99759 v -1.41561 h 1.31872 V 28.92935 h 1.82432 V 25.64034 H 34.99241 V 24.43631 L 47.33479,13.69254 Z M 32.17489,5.937747 c 1.29574,0 2.34654,1.118349 2.34654,2.497853 0,1.3795 -1.05063,2.49785 -2.34654,2.49785 -1.29591,0 -2.34654,-1.11827 -2.34654,-2.49785 0,-1.379588 1.0508,-2.497853 2.34654,-2.497853 z M 27.79914,18.97916 20.15361,12.3234 v -1.62904 h 8.58197 c 0.66944,1.43953 1.95849,2.41468 3.43939,2.41468 1.48091,0 2.76988,-0.97515 3.4394,-2.41468 h 8.58181 v 1.62904 l -7.64545,6.65576 h -8.75251 z"
+     id="path1"
+     style="stroke-width:0.0835961" />
+</svg>
