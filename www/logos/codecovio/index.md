@@ -7,6 +7,6 @@ title: Codecov
 twitter: codecov
 website: 'https://codecov.io/'
 images:
-- codecov-icon.svg
-- codecov-ar21.svg
+- codecovio-icon.svg
+- codecovio-ar21.svg
 ---
