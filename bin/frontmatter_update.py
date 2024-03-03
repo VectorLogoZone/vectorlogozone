@@ -31,7 +31,7 @@ def process(options, dirparam):
 				print("INFO: skipping " + f)
 				skipped = skipped + 1
 			continue
-		if f.endswith("_src.svg") or f.endswith(".png"):
+		if f.endswith(".png"):
 			print("INFO: skipping " + f)
 			skipped = skipped + 1
 			continue

@@ -36,7 +36,7 @@ Apache Flink
  - [ ] no embedded rasters
  - [ ] no embedded fonts
  - [ ] handle vs directory vs filename mismatch
- - [ ] extra files that aren't _src
+ - [ ] extra files
  - [ ] files over a certain size
  - [ ] run scour on all
 

@@ -26,9 +26,6 @@ found_files = pathlib.Path(default_path).glob('**/*')
 for fn in found_files:
     #sys.stdout.write("DEBUG: checking %s\n" % (fn))
 
-    #if "_src" in fn.parts[-1]:
-    #    continue
-
     if not fn.is_file():
         continue
 

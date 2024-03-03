@@ -18,7 +18,7 @@ parser.add_argument("-q", "--quiet", help="hide status messages", default=True, 
 parser.add_argument("-d", "--directory", help="directory to search", default=default_path, dest='directory')
 parser.add_argument("--debug", help="debugging output", default=False, dest='debug', action="store_true")
 
-allowed_image_codes = {'ar21', 'horizontal', 'icon', 'image', 'official', 'tile', 'vertical', 'wordmark', '_src' }
+allowed_image_codes = {'ar21', 'horizontal', 'icon', 'image', 'official', 'tile', 'vertical', 'wordmark' }
 
 args = parser.parse_args()
 
@@ -29,7 +29,6 @@ found_svgs = list(pathlib.Path(default_path).glob('**/*.svg'))
 found_svgs.sort()   # only so debug output is consistent
 
 imgCount = 0
-srcCount = 0   
 errCount = 0
 
 for svgfn in found_svgs:
@@ -37,10 +36,6 @@ for svgfn in found_svgs:
     imgCount += 1
     if args.debug:
         sys.stdout.write("DEBUG: checking %s\n" % (svgfn))
-
-    if "_src" in svgfn.parts[-1]:
-        srcCount += 1
-        continue
 
     dirhandle = svgfn.parts[-2]
 
@@ -62,7 +57,6 @@ for svgfn in found_svgs:
 
 if args.verbose:
     sys.stdout.write("INFO: files checked: %5d\n" % imgCount)
-    sys.stdout.write("INFO: files skipped: %5d\n" % srcCount)
     sys.stdout.write("INFO: errors       : %5d\n" % errCount)
     sys.stdout.write("INFO: svg filename check complete at %s\n" % datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S'))
 
