@@ -1,0 +1,7 @@
+---
+github: iced-rs/iced
+logohandle: icedrs
+sort: iced
+title: iced
+website: 'https://iced.rs/'
+---
