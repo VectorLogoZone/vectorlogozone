@@ -1,0 +1,31 @@
+name: namecheck
+
+on:
+  pull_request:
+    paths:
+      - www/logos/**/*.svg
+  push:
+    branches:
+      - main
+    paths:
+      - www/logos/**/*.svg
+  workflow_dispatch:
+
+jobs:
+  namecheck:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Install Python dependencies
+      run: pip install python-frontmatter
+
+    - name: Check names
+      run: bin/chksvgname.py
+
