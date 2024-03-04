@@ -25,6 +25,6 @@ jobs:
     - name: Install Golang dependencies
       run: go install github.com/FileFormatInfo/fflint/cmd/fflint@latest
 
-    - name: Check names
+    - name: Check images
       run: bin/chksvgimage.sh
 

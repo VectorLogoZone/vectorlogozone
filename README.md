@@ -5,12 +5,12 @@
 [![# of images](https://img.shields.io/badge/dynamic/json.svg?label=images&url=https%3A%2F%2Fwww.vectorlogo.zone%2Fstatus.json&query=%24.images)](https://www.vectorlogo.zone/logos/index.html)
 [![30 day uptime](https://img.shields.io/nodeping/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu.svg?label=30-day%20uptime&style=flat)](https://nodeping.com/reports/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu)
 [![Deploy](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/deploy.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/deploy.yaml)
+[![namecheck](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/namecheck.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/namecheck.yaml)
+[![imagecheck](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/imagecheck.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/imagecheck.yaml)
+[![icondimensions](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/icondimensions.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/icondimensions.yaml)
+[![ar21dimensions](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/ar21dimensions.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/ar21dimensions.yaml)
+[![CodeQL](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/github-code-scanning/codeql)
 
-<!--
-[![AGPL 3+](https://img.shields.io/github/license/VectorLogoZone/vectorlogozone.svg)](LICENSE.txt)
-![Github watchers](https://img.shields.io/github/watchers/VectorLogoZone/vectorlogozone.svg?style=social)
-![Github stars](https://img.shields.io/github/stars/VectorLogoZone/vectorlogozone.svg?style=social)
--->
 
 [Vector Logo Zone](https://www.vectorlogo.zone/) is my collection of vector (SVG) logos, sized and laid out in a uniform way so they look
 good together next to each other.

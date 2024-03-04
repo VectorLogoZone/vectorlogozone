@@ -1,0 +1,42 @@
+name: icondimensions
+
+on:
+  pull_request:
+    paths:
+      - www/logos/**/*-icon*.svg
+  push:
+    paths:
+      - www/logos/**/*-icon*.svg
+  workflow_dispatch:
+
+jobs:
+  icondimensions:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v4
+
+    - name: Setup Golang
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.22'
+        cache: false
+
+    - name: Install Golang dependencies
+      run: go install github.com/FileFormatInfo/fflint/cmd/fflint@latest
+
+    - name: Check icon dimensions
+      run: |
+        # NOTE: some of the disabled checks are still required, but caught by other CI jobs
+        fflint svg \
+          --foreign=true \
+          --height=64 \
+          --images=any \
+          --namespace=false \
+          --progress=false \
+          --text=true \
+          --width=64 \
+          "www/logos/**/*-icon*.svg"
+
+      
+
