@@ -1,6 +1,6 @@
 ---
 blog: 'https://blog.workday.com/'
-colors: [ '#005CB9", "#f38b00" ]
+colors: [ "#005CB9", "#f38b00" ]
 facebook: 'https://facebook.com/workday'
 font: 
   name: "Adelle Sans"
