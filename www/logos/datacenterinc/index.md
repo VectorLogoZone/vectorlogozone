@@ -1,5 +1,5 @@
 ---
-keywords: dci
+keywords: [ "dci" ]
 logohandle: datacenterinc
 sort: datacenterinc
 title: Data Center Inc.

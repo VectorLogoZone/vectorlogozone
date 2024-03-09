@@ -1,7 +1,7 @@
 ---
 facebook: 'https://facebook.com/onnxai'
 github: onnx
-keywords: 'Open Neural Network Exchange'
+keywords: [ 'Open Neural Network Exchange' ]
 logohandle: onnxai
 sort: onnx
 title: ONNX

@@ -1,6 +1,6 @@
 ---
 facebook: 'https://facebook.com/DFINSolutions'
-keywords: "Donnelley Financial Solutions"
+keywords: [ "Donnelley Financial Solutions" ]
 linkedin: 'https://linkedin.com/company/dfinsolutions'
 logohandle: dfinsolutions
 sort: dfin

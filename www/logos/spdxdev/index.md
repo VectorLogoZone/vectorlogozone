@@ -1,6 +1,6 @@
 ---
 github: spdx
-keywords: "Software Package Data Exchange"
+keywords: [ "Software Package Data Exchange" ]
 logohandle: spdxdev
 sort: spdx
 title: SPDX

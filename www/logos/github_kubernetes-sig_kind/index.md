@@ -1,6 +1,6 @@
 ---
 github: kubernetes-sigs/kind
-keywords: "Kubernetes IN Docker"
+keywords: [ "Kubernetes IN Docker" ]
 logohandle: github_kubernetes-sig_kind
 sort: kind
 title: KIND

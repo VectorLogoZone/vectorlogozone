@@ -1,9 +1,9 @@
 ---
 facebook: 'https://facebook.com/ConsumerTechnologyAssociation'
 instagram: 'https://instagram.com/cta'
+keywords: [ "Consumer Technology Association" ]
 linkedin: 'https://linkedin.com/company/consumer-technology-association'
 logohandle: ctatech
-keywords: "Consumer Technology Association"
 sort: cta
 title: CTA
 twitter: CTATech

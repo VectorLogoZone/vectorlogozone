@@ -1,5 +1,5 @@
 ---
-keywords: "European card payment association"
+keywords: [ "European card payment association" ]
 logohandle: europeancardpaymentassociation
 sort: europeancardpaymentassociation
 title: ECPA

@@ -11,7 +11,7 @@ guide: https://creativecommons.org/about/downloads/
 images:
 - creativecommons-ar21.svg
 - creativecommons-icon.svg
-keywords: cc
+keywords: [ "cc" ]
 logohandle: creativecommons
 sort: creativecommons
 title: Creative Commons

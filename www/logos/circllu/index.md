@@ -1,6 +1,6 @@
 ---
 github: CIRCL
-keywords: Computer Incident Response Center Luxembourg
+keywords: [ "Computer Incident Response Center Luxembourg" ]
 logohandle: circllu
 sort: circl
 title: CIRCL

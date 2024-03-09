@@ -1,8 +1,8 @@
 ---
 facebook: 'https://facebook.com/worldipday'
+keywords: [ "World Intellectual Property Organization" ]
 linkedin: 'https://linkedin.com/company/wipo'
 logohandle: wipoint
-keywords: "World Intellectual Property Organization"
 sort: wipo
 title: WIPO
 twitter: wipo

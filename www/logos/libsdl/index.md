@@ -1,5 +1,5 @@
 ---
-keywords: "Simple DirectMedia Layer"
+keywords: [ "Simple DirectMedia Layer" ]
 logohandle: libsdl
 sort: libsdl
 title: SDL

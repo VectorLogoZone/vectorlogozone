@@ -2,9 +2,9 @@
 facebook: 'https://facebook.com/gbifnews'
 github: gbif
 instagram: 'https://instagram.com/gbifs'
+keywords: [ "Global Biodiversity Information Facility" ]
 linkedin: 'https://linkedin.com/company/gbif'
 logohandle: gbif
-keywords: "Global Biodiversity Information Facility"
 sort: gbif
 title: GBIF
 twitter: GBIF

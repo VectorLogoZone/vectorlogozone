@@ -1,7 +1,7 @@
 ---
 facebook: 'https://facebook.com/isostandards'
 instagram: 'https://instagram.com/isostandards'
-keywords: "International Organization for Standardization"
+keywords: [ "International Organization for Standardization" ]
 linkedin: 'https://linkedin.com/company/isostandards'
 logohandle: iso
 sort: iso

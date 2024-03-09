@@ -1,7 +1,7 @@
 ---
 blog: 'https://blog.getdbt.com/'
 github: fishtown-analytics/dbt
-keywords: "data build tool"
+keywords: [ "data build tool" ]
 logohandle: getdbt
 sort: dbt
 title: dbt

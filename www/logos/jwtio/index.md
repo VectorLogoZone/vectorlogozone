@@ -1,5 +1,5 @@
 ---
-keywords: "JSON Web Tokens"
+keywords: [ "JSON Web Tokens" ]
 linkedin: 'https://linkedin.com/company/auth0'
 logohandle: jwtio
 sort: jwt

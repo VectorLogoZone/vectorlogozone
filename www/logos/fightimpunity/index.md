@@ -1,7 +1,7 @@
 ---
 facebook: 'https://facebook.com/fightimpunity'
+keywords: [ "AIJT" ]
 logohandle: fightimpunity
-keywords: [ AIJT ]
 sort: fightimpunity
 title: Fight Impunity
 twitter: fightimpunity

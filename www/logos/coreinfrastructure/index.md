@@ -1,6 +1,6 @@
 ---
 blog: 'https://coreinfrastructure.org/news/blog'
-keywords: cii
+keywords: [ "cii" ]
 logohandle: coreinfrastructure
 sort: coreinfrastructure
 title: Core Infrastructure Initiative

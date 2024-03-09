@@ -1,6 +1,6 @@
 ---
 facebook: 'http://facebook.com/sil.international'
-keywords: 'Summer Institute of Linguistics'
+keywords: [ 'Summer Institute of Linguistics' ]
 logohandle: sil
 sort: sil
 title: SIL International

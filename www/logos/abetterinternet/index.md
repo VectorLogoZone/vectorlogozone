@@ -1,5 +1,5 @@
 ---
-keywords: ["Internet Security Research Group"]
+keywords: [ "Internet Security Research Group" ]
 logohandle: abetterinternet
 sort: isrg
 title: ISRG

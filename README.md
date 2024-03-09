@@ -9,6 +9,7 @@
 [![imagecheck](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/imagecheck.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/imagecheck.yaml)
 [![icondimensions](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/icondimensions.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/icondimensions.yaml)
 [![ar21dimensions](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/ar21dimensions.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/ar21dimensions.yaml)
+[![metadata](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/metadata.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/metadata.yaml)
 [![CodeQL](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/github-code-scanning/codeql/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/github-code-scanning/codeql)
 
 

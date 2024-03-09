@@ -1,6 +1,6 @@
 ---
 github: jgraph
-keywords: "draw.io"
+keywords: [ "draw.io" ]
 logohandle: diagramsnet
 sort: diagramsnet
 title: Diagrams.net

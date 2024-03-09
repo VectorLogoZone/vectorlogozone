@@ -1,7 +1,7 @@
 ---
 blog: 'https://medium.com/we-are-serverless'
 github: weareserverless
-keywords: was
+keywords: [ "was" ]
 logohandle: weareserverless
 sort: weareserverless
 title: We Are Serverless

@@ -1,8 +1,8 @@
 ---
 facebook: 'https://facebook.com/ooni.org'
 instagram: 'https://instagram.com/openobservatory/'
+keywords: [ "Open Observatory of Network Interference" ]
 logohandle: ooni
-keywords: "Open Observatory of Network Interference"
 sort: ooni
 title: OONI
 twitter: OpenObservatory

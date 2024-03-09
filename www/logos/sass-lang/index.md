@@ -1,5 +1,5 @@
 ---
-keywords: scss
+keywords: [ "scss" ]
 logohandle: sass-lang
 sort: sass
 title: Sass

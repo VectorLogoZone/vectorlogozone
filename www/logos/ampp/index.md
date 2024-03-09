@@ -1,7 +1,7 @@
 ---
 facebook: 'https://facebook.com/AMPPorg'
 instagram: 'https://instagram.com/ampporg'
-keywords: "Association for Materials Protection and Performance"
+keywords: [ "Association for Materials Protection and Performance" ]
 linkedin: 'https://linkedin.com/company/ampporg'
 logohandle: ampp
 sort: ampp

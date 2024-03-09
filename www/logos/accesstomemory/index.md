@@ -1,6 +1,6 @@
 ---
 github: artefactual/atom
-keywords: "Access to Memory"
+keywords: [ "Access to Memory" ]
 logohandle: accesstomemory
 sort: accesstomemory
 title: AtoM

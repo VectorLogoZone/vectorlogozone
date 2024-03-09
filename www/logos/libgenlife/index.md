@@ -1,5 +1,5 @@
 ---
-keywords: "Capsule"
+keywords: [ "Capsule" ]
 logohandle: libgenlife
 sort: libgen
 title: LibGen

@@ -1,9 +1,9 @@
 ---
 guide: 'https://github.com/apache/maven-site/tree/master/content/resources/images'
-logohandle: apache_maven
 images:
 - apache_maven-ar21.svg
 - apache_maven-icon.svg
+logohandle: apache_maven
 sort: maven
 title: Maven
 twitter: ASFMavenProject

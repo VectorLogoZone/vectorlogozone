@@ -1,6 +1,6 @@
 ---
 facebook: 'https://facebook.com/InternationalUnionGeodesyGeophysics'
-keywords: "International Union of Geodesy and Geophysics"
+keywords: [ "International Union of Geodesy and Geophysics" ]
 logohandle: iugg
 sort: iugg
 title: IUGG

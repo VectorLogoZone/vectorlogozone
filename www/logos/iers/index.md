@@ -1,5 +1,5 @@
 ---
-keywords: "International Earth Rotation Service"
+keywords: [ "International Earth Rotation Service" ]
 logohandle: iers
 sort: iers
 title: IERS

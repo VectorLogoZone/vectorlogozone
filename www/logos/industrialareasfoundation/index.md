@@ -1,7 +1,7 @@
 ---
 facebook: 'https://facebook.com/115917837205232'
+keywords: [ "IAF" ]
 logohandle: industrialareasfoundation
-keywords: "IAF"
 sort: industrialareasfoundation
 title: Industrial Areas Foundation
 twitter: IndAreasFdn
