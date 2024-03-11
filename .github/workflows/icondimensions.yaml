@@ -16,14 +16,13 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Setup Golang
-      uses: actions/setup-go@v5
-      with:
-        go-version: '1.22'
-        cache: false
-
-    - name: Install Golang dependencies
-      run: go install github.com/FileFormatInfo/fflint/cmd/fflint@latest
+    - name: Install fflint
+      run: |
+        curl \
+          --location \
+          --verbose \
+          https://github.com/FileFormatInfo/fflint/releases/latest/download/fflint_Linux_arm64.tar.gz \
+          | tar -xz - fflint
 
     - name: Check icon dimensions
       run: |

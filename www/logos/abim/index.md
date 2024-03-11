@@ -1,7 +1,7 @@
 ---
 blog: 'https://blog.abim.org/'
-facebook: [ 'https://facebook.com/abim.certification' ]
-keywords: "American Board of Internal Medicine"
+facebook: "https://facebook.com/abim.certification"
+keywords: [ "American Board of Internal Medicine" ]
 logohandle: abim
 sort: abim
 title: ABIM

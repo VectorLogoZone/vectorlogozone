@@ -1,9 +1,9 @@
 ---
 blog: https://keybase.io/blog
 font:
-- name: Open Sans
-- url: https://en.wikipedia.org/wiki/Open_Sans
-- google: https://fonts.google.com/specimen/Open+Sans
+  name: Open Sans
+  url: https://en.wikipedia.org/wiki/Open_Sans
+  google: https://fonts.google.com/specimen/Open+Sans
 github: keybase
 images:
 - keybase-tile.svg

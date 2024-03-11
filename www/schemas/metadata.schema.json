@@ -1,0 +1,91 @@
+{
+    "$id": "https://www.vectorlogo.zone/schema/vlzmeta.schema.json",
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "Metadata for every logo on VectorLogoZone",
+  "description": "Located in the frontmatter of every `index.md` file.",
+  "type": "object",
+  "properties": {
+    "blog": {
+      "type": "string"
+    },
+    "facebook": {
+      "type": "string"
+    },
+    "font": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "name"
+      ]
+    },
+    "colors": {
+      "type": "array",
+      "items": 
+        {
+          "type": "string"
+        }
+    },
+    "github": {
+      "type": "string"
+    },
+    "guide": {
+      "type": "string"
+    },
+    "images": {
+      "type": "array",
+      "items":         {
+          "type": "string"
+        }
+    },
+    "instagram": {
+      "type": "string"
+    },
+    "linkedin": {
+      "type": "string"
+    },
+    "logohandle": {
+      "type": "string"
+    },
+    "pinterest": {
+      "type": "string"
+    },
+    "sort": {
+      "type": "string"
+    },
+    "tags": {
+      "type": "array",
+      "items": 
+        {
+          "type": "string"
+        }
+    },
+    "title": {
+      "type": "string"
+    },
+    "tumblr": {
+      "type": "string"
+    },
+    "twitter": {
+      "type": "string"
+    },
+    "website": {
+      "type": "string"
+    },
+    "wikipedia": {
+      "type": "string"
+    },
+    "youtube": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "logohandle",
+    "sort",
+    "title",
+    "website"
+  ]
+}

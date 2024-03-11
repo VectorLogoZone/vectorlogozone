@@ -1,7 +1,7 @@
 ---
 font:
-- name: Cinzel
-- google: https://fonts.google.com/specimen/Cinzel
+  name: Cinzel
+  google: https://fonts.google.com/specimen/Cinzel
 images:
 - languageicon-official.svg
 - languageicon-icon.svg

@@ -1,6 +1,7 @@
 ---
 colors: ['#AF0011']
-font: name:Helvetica
+font: 
+  name: "Helvetica"
 github: regexplanet
 images:
 - regexplanet-ar21.svg

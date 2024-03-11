@@ -9,8 +9,9 @@ set -o nounset
 
 if [ ! command -v fflint &> /dev/null ]; then
     echo "ERROR: fflint is not installed"
-    echo "try:"
-    echo "    go install github.com/FileFormatInfo/fflint/cmd/fflint@latest"
+    echo ""
+    echo "Download from:"
+    echo "https://github.com/FileFormatInfo/fflint/releases/latest"
     exit 1
 fi
 

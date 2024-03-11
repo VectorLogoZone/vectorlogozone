@@ -1,5 +1,6 @@
 ---
-font: "Bank Gothic"
+font: 
+  name: "Bank Gothic"
 images:
 - optimus-mine-ar21.svg
 - optimus-mine-icon.svg

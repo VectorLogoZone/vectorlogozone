@@ -2,10 +2,6 @@
 colors:
 - '#FFB13B'
 - '#005A9C'
-font:
-  myfonts: null
-  name: null
-  url: null
 guide: https://www.w3.org/2009/08/svg-logos.html
 images:
 - w3_svg-icon.svg
