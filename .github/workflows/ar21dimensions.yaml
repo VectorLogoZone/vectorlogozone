@@ -20,14 +20,14 @@ jobs:
       run: |
         curl \
           --location \
-          --verbose \
-          https://github.com/FileFormatInfo/fflint/releases/latest/download/fflint_Linux_arm64.tar.gz \
-          | tar -xz - fflint
+          --silent \
+          https://github.com/FileFormatInfo/fflint/releases/latest/download/fflint_Linux_x86_64.tar.gz \
+          | tar -xz fflint
 
     - name: Check ar21 dimensions
       run: |
         # NOTE: some of the disabled checks are still required, but caught by other CI jobs
-        fflint svg \
+        ./fflint svg \
           --foreign=true \
           --height=60 \
           --images=any \

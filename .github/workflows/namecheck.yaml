@@ -27,5 +27,5 @@ jobs:
       run: pip install python-frontmatter
 
     - name: Check names
-      run: bin/chksvgname.py --verbose
+      run: bin/chksvgname.py
 
