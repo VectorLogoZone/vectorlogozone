@@ -1,4 +1,5 @@
 ---
+activitypub: 'https://mastodon.social/@csstricks'
 facebook: 'https://facebook.com/CSSTricks'
 instagram: 'https://instagram.com/real_css_tricks'
 logohandle: css-tricks
