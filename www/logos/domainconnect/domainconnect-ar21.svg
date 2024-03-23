@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="Layer_1"
    x="0px"
@@ -18,89 +10,18 @@
    style="enable-background:new 0 0 120 60;"
    xml:space="preserve"
    sodipodi:docname="domainconnect-ar21.svg"
-   inkscape:version="1.0.1 (c497b03c, 2020-09-10)"><metadata
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
    id="metadata115"><rdf:RDF><cc:Work
        rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
          rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
-   id="defs113">
-	
-	
-
-		
-		
-		<defs
-   id="defs11">
-			<filter
-   id="Adobe_OpacityMaskFilter"
-   filterUnits="userSpaceOnUse"
-   x="13.5"
-   y="14.3"
-   width="29.200001"
-   height="32.599998">
-				<feColorMatrix
-   type="matrix"
-   values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"
-   id="feColorMatrix8" />
-			</filter>
-		</defs>
-		<mask
-   maskUnits="userSpaceOnUse"
-   x="13.5"
-   y="14.3"
-   width="29.2"
-   height="32.6"
-   id="mask_1_">
-			<g
-   class="st1"
-   id="g15">
-				
-					<image
-   xlink:href="545305084047245.jpg"
-   id="image13"
-   transform="matrix(0.1934,0,0,0.1934,12.5032,13.5014)"
-   height="178"
-   width="161"
-   style="overflow:visible;enable-background:new">
-				</image>
-			</g>
-		</mask>
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-	<clipPath
-   id="clip1"><path
-     d="M 0 0 L 413 0 L 413 454.328125 L 0 454.328125 Z M 0 0 "
-     id="path371" /></clipPath><clipPath
-   id="clip2"><path
-     d="M 2559 124 L 2657.839844 124 L 2657.839844 332 L 2559 332 Z M 2559 124 "
-     id="path374" /></clipPath></defs><sodipodi:namedview
+   id="defs1" /><sodipodi:namedview
    pagecolor="#ffffff"
    bordercolor="#666666"
    borderopacity="1"
@@ -109,26 +30,21 @@
    guidetolerance="10"
    inkscape:pageopacity="0"
    inkscape:pageshadow="2"
-   inkscape:window-width="1438"
+   inkscape:window-width="1440"
    inkscape:window-height="927"
    id="namedview111"
    showgrid="false"
    inkscape:zoom="5.2948544"
-   inkscape:cx="89.19852"
-   inkscape:cy="25.53573"
-   inkscape:window-x="1877"
-   inkscape:window-y="40"
+   inkscape:cx="61.002622"
+   inkscape:cy="25.685314"
+   inkscape:window-x="1844"
+   inkscape:window-y="25"
    inkscape:window-maximized="0"
-   inkscape:current-layer="Layer_1" />
-<style
-   type="text/css"
-   id="style2">
-	.st0{fill:#50B84C;}
-	.st1{filter:url(#Adobe_OpacityMaskFilter);}
-	.st2{mask:url(#mask_1_);}
-	.st3{opacity:0.75;fill:#FFFFFF;enable-background:new    ;}
-	.st4{opacity:0.69;}
-</style>
+   inkscape:current-layer="g485"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1" />
+
 
 <g
    id="g485"
