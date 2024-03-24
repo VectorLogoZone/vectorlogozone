@@ -1,6 +1,6 @@
 ---
 logohandle: "marcuseinfo_greta"
-name: Greta
 sort: greta
+title: Greta
 website: "https://greta.marcuse.info/"
 ---

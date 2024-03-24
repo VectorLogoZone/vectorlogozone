@@ -36,7 +36,7 @@ echo "INFO: starting at $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 fflint frontmatter \
     --strict=true \
     --required=title,website,logohandle,sort \
-    --optional=blog,colors,discord,dribbble,facebook,flickr,font,googleplus,git,github,gitlab,gitter,guide,images,instagram,keywords,linkedin,noindex,other,pinterest,reddit,redirect_from,slack,slideshare,snapchat,soundcloud,stackexchange,stackoverflow,tags,tiktok,tumblr,twitter,wikipedia,vimeo,vine,weibo,xing,youtube \
+    --optional=activitypub,blog,colors,discord,dribbble,facebook,flickr,font,googleplus,git,github,gitlab,gitter,guide,images,instagram,keywords,linkedin,noindex,other,pinterest,reddit,redirect_from,slack,slideshare,snapchat,soundcloud,stackexchange,stackoverflow,tags,tiktok,tumblr,twitter,wikipedia,vimeo,vine,weibo,xing,youtube \
     --sorted=true \
     --schema="${SCHEMA}" \
     "${LOGODIR}/*/index.md"
