@@ -1,7 +1,7 @@
 ---
 font:
   name: Sansita
-  url: https://fonts.google.com/specimen/Sansita
+  google: https://fonts.google.com/specimen/Sansita
 github: VectorLogoZone/LogoSearch
 images:
 - logosearch-ar21.svg

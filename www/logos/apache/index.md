@@ -4,7 +4,6 @@ font:
   microsoft: https://www.microsoft.com/typography/fonts/font.aspx?FMID=1818
   myfonts: https://www.myfonts.com/fonts/ascender/verdana/bold/
   name: Verdana Bold
-  url: null
 guide: http://apache.org/foundation/press/kit/#links
 images:
 - apache-official.svg

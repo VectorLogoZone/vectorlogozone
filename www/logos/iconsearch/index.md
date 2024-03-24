@@ -1,7 +1,7 @@
 ---
 font:
   name: Noticia Text
-  url: https://fonts.google.com/specimen/Noticia+Text
+  google: https://fonts.google.com/specimen/Noticia+Text
 github: VectorLogoZone/LogoSearch
 images:
 - iconsearch-ar21.svg
