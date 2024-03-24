@@ -1,5 +1,6 @@
 ---
 blog: 'https://isocpp.org/blog/'
+keywords: [ "cplusplus", "c plus plus" ]
 logohandle: isocpp
 sort: cpp
 title: C++

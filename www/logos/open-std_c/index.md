@@ -1,4 +1,5 @@
 ---
+keywords: [ "c", "clang", "c language" ]
 logohandle: open-std_c
 sort: c
 title: C
