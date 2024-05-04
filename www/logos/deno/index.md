@@ -1,4 +1,5 @@
 ---
+activitypub: 'https://fosstodon.org/@deno_land'
 github: denoland/deno
 logohandle: deno
 sort: deno
