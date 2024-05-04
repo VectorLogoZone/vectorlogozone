@@ -1,1 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64"><path d="M29.563 20.56v35.692H0zm0-12.81c.005 8.167-6.614 14.79-14.782 14.79S-.005 15.915 0 7.748zm4.87 48.504c0-8.164 6.618-14.782 14.782-14.782s14.782 6.618 14.782 14.782zm0-12.81V7.748H64z" fill="#03363d"/></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="zendesk-icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="8.359375"
+     inkscape:cx="32"
+     inkscape:cy="31.940187"
+     inkscape:window-width="1392"
+     inkscape:window-height="997"
+     inkscape:window-x="1864"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1" />
+  <path
+     d="m 55.27456,12.881872 q -2.256417,1.394876 -5.53848,3.569241 -6.933356,5.128227 -16.410314,17.641092 -7.261563,9.764136 -14.523127,19.569296 l -0.164126,0.205144 q 2.994884,-0.08203 14.441075,-0.574358 8.984646,-0.410288 14.318,-0.410288 5.866687,0 7.959001,0.451306 4.923094,1.066674 5.087198,4.717967 0.123109,2.7077 -1.887187,4.266679 -1.723083,1.353853 -4.143604,1.353853 -1.189744,0 -3.569242,-0.164127 -2.379498,-0.123052 -3.569241,-0.123052 -6.235918,0 -18.748783,0.287179 Q 16.053888,64 9.81797,64 7.151293,64 5.42821,62.646147 3.5,61.16922 3.5,58.502543 3.5,55.548688 6.084625,51.487135 6.905143,50.215334 10.72054,45.29224 17.44877,36.307593 24.218022,27.363976 32.259075,17.025476 39.274483,10.625455 32.874461,11.07676 29.510346,11.07676 H 12.935929 q -0.451305,0 -1.312824,0.08203 -0.861542,0.04125 -1.312824,0.04125 -2.420521,0 -4.102581,-1.3948758 Q 4.320519,8.2461856 4.320519,5.620532 4.320519,0 12.64875,0 q 2.830781,0 8.451313,0.3692133 5.620532,0.32819596 8.451312,0.32819596 3.158982,0 9.435929,-0.16412663 6.31797,-0.16412662 9.476952,-0.16412662 12.225686,0 12.225686,5.33335339 0,3.4051377 -5.415405,7.1795116 z"
+     id="text1"
+     style="font-weight:bold;font-size:14.6667px;line-height:1;font-family:'Comic Sans MS';-inkscape-font-specification:'Comic Sans MS Bold';fill:#333333;stroke-width:5.72868"
+     aria-label="Z" />
+</svg>
