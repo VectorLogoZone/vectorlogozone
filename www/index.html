@@ -6,25 +6,25 @@ redirect_from:
 - /search.html
 ---
 <div class="jumbotron jumbotron-fluid bg-transparent pb-0 pt-2">
-    <div class="container px-0">
-        <h1 class="display-4 d-flex justify-content-center"><a href="/about.html"><img alt="logo" src="/images/about/vlzlogo-grey.svg" style="max-width: 100%;object-fit: contain;"/></a></h1>
-        <p class="lead d-flex justify-content-center" style="font-size:1.75rem;">3,000+ gorgeous SVG logos, perfect for your README or credits page</p>
-    </div>
+	<div class="container px-0">
+		<h1 class="display-4 d-flex justify-content-center"><a href="/about.html"><img alt="VectorLogoZone logo" src="/images/about/vlzlogo-grey.svg" style="max-width: 100%;object-fit: contain;"/></a></h1>
+		<p class="lead d-flex justify-content-center" style="font-size:1.75rem;">3,000+ gorgeous SVG logos, perfect for your README or credits page</p>
+	</div>
 </div>
 
 <form action="get" class="form-inline justify-content-center" id="site_search" style="display:none;">
-    <div class="form-row align-items-center" style="padding-bottom:20px;">
-        <div class="col-auto">
-            <img alt="Loading..." src="/images/spinner.svg" style="height:64px;width:64px;" id="wait"/>
-            <label class="sr-only" for="q">Search query</label>
-            <div class="input-group">
-                <input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search terms" type="text"/>
-                <div class="input-group-append">
-                    <button type="submit" class="btn" style="background-color:#1d8286;color:white;font-weight:bold;">Search</button>
-                </div>
-            </div>
-        </div>
-    </div>
+	<div class="form-row align-items-center" style="padding-bottom:20px;">
+		<div class="col-auto">
+			<img alt="Loading..." src="/images/spinner.svg" style="height:64px;width:64px;" id="wait"/>
+			<label class="sr-only" for="q">Search query</label>
+			<div class="input-group">
+				<input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search terms" type="text"/>
+				<div class="input-group-append">
+					<button type="submit" class="btn" style="background-color:#1d8286;color:white;font-weight:bold;">Search</button>
+				</div>
+			</div>
+		</div>
+	</div>
 </form>
 
 <div class="row clearfix">
@@ -32,19 +32,19 @@ redirect_from:
 </div>
 
 <div class="row clearfix">
-    <div class="col">
-        <p id="pending-tip" class="alert alert-primary" style="display:none;">The following logos are on the &quot;To Do&quot; list and should be ready shortly.</p>
-        <ul id="pending"></ul>
-    </div>
+	<div class="col">
+		<p id="pending-tip" class="alert alert-primary" style="display:none;">The following logos are on the &quot;To Do&quot; list and should be ready shortly.</p>
+		<ul id="pending"></ul>
+	</div>
 </div>
 {%- comment %}NOTE: this is random at *build time*, so a given deploy will always have the same set of logos (which is the desired result) {% endcomment %}
 {%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' %}
 {%- assign all = "" | split: '' %}
 {%- for logopage in sorted_pages %}
-    {%- capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
+	{%- capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
 	{%- if logopage.noindex %}{% else %}
 		{%- if logopage.images contains logofile %}
-        	{%- assign all = all | push: logopage.logohandle %}
+			{%- assign all = all | push: logopage.logohandle %}
 		{%- endif %}
 	{%- endif %}
 {%- endfor %}
@@ -76,16 +76,16 @@ $(function() {
 			window.idx.add($.extend({ "id": index }, value));
 		});
 		console.log("data loaded");
-        $("#wait").hide();
-        $("#site_search").show();
-        show_default();
+		$("#wait").hide();
+		$("#site_search").show();
+		show_default();
 	});
 
 	var doSearch = function(query)
 	{
 		if (!query || query.length == 0)
 		{
-            $("#search_results").empty();
+			$("#search_results").empty();
 			$("#pending").empty();
 			$("#pending-tip").css('display', 'none');
 			show_default();
@@ -102,12 +102,12 @@ $(function() {
 		var previousQuery = getParameterByName("q");
 		var query = $("#q").val();
 		if (query && previousQuery && query.length > 0 && previousQuery.length > 0 && (query.startsWith(previousQuery) || previousQuery.startsWith(query))) {
-            history.replaceState({ "q": query}, "", "?q=" + query);
-        }
-        else {
-            history.pushState({"q": query}, "", "?q=" + query);
-        }
-        document.title = "Search logos for '" + query + "'";
+			history.replaceState({ "q": query}, "", "?q=" + query);
+		}
+		else {
+			history.pushState({"q": query}, "", "?q=" + query);
+		}
+		document.title = "Search logos for '" + query + "'";
 		doSearch(query);
 	});
 
@@ -143,9 +143,9 @@ $(function() {
 		return match && decodeURIComponent(match[1].replace(/\+/g, ' '));
 	}
 
-    function htmlEncode(value){
-        return $("<div>").text(value).html();
-    }
+	function htmlEncode(value){
+		return $("<div>").text(value).html();
+	}
 
 	var query = getParameterByName("q");
 	if (query && query.length)
@@ -160,9 +160,9 @@ $(function() {
 	function display_search_results(query, results) {
 		var $search_results = $("#search_results");
 		var $pending = $("#pending");
-        $search_results.empty(); // Clear any old results
+		$search_results.empty(); // Clear any old results
 		$pending.empty();
-        $("#pending-tip").css("display",'none');
+		$("#pending-tip").css("display",'none');
 
 		// Wait for data to load
 		window.data.then(function(loaded_data) {
@@ -180,26 +180,26 @@ $(function() {
 			if (results.length)
 			{
 
-                if (results.length > 50) {
-                    results.length = 50;
-                }
+				if (results.length > 50) {
+					results.length = 50;
+				}
 
 				// Iterate over the results
 				results.forEach(function(result) {
 						var item = loaded_data[result.ref];
 
 						if (item.haslogo) {
-                            // Build a snippet of HTML for this result
-                            var appendString = '<a href="/logos/' + result.ref + '/index.html"><img class="ar21" title="' + item.title + '" src="/logos/' + result.ref + '/' + result.ref + '-ar21.svg" /></a></li>';
+							// Build a snippet of HTML for this result
+							var appendString = '<a href="/logos/' + result.ref + '/index.html" title="' + htmlEncode(item.title) + '"><img class="ar21" alt="' + htmlEncode(item.title) + '" src="/logos/' + result.ref + '/' + result.ref + '-ar21.svg" /></a></li>';
 
-                            // Add it to the results
-                            $search_results.append(appendString);
-                        }
-                        else {
-						    $pending.append($("<li>").append($("<a>").text(item.title).attr("href", "/logos/" + result.ref + "/index.html")));
-                        }
+							// Add it to the results
+							$search_results.append(appendString);
+						}
+						else {
+							$pending.append($("<li>").append($("<a>").text(item.title).attr("href", "/logos/" + result.ref + "/index.html")));
+						}
 					});
-                $("#pending-tip").css("display", $pending.children().length > 0 ? "block" : "none");
+				$("#pending-tip").css("display", $pending.children().length > 0 ? "block" : "none");
 			}
 			else
 			{
@@ -209,16 +209,16 @@ $(function() {
 	}
 
 	function show_default() {
-	    console.log("showing defaults");
-        var $search_results = $("#search_results");
-        for (var loop = 0; loop < default_logos.length; loop++) {
-            var logohandle = default_logos[loop];
-            var appendString = '<a href="/logos/' + logohandle + '/index.html"><img class="ar21" title="' + logohandle + '" src="/logos/' + logohandle + '/' + logohandle + '-ar21.svg" /></a></li>';
+		console.log("showing defaults");
+		var $search_results = $("#search_results");
+		for (var loop = 0; loop < default_logos.length; loop++) {
+			var logohandle = default_logos[loop];
+			var appendString = '<a href="/logos/' + logohandle + '/index.html"><img class="ar21" title="' + logohandle + '" src="/logos/' + logohandle + '/' + logohandle + '-ar21.svg" /></a></li>';
 
-            // Add it to the results
-            $search_results.append(appendString);
-        }
-    }
+			// Add it to the results
+			$search_results.append(appendString);
+		}
+	}
 });
 /*]]>*/
 </script>
