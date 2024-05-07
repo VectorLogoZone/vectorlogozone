@@ -213,7 +213,7 @@ $(function() {
 		var $search_results = $("#search_results");
 		for (var loop = 0; loop < default_logos.length; loop++) {
 			var logohandle = default_logos[loop];
-			var appendString = '<a href="/logos/' + logohandle + '/index.html"><img class="ar21" title="' + logohandle + '" src="/logos/' + logohandle + '/' + logohandle + '-ar21.svg" /></a></li>';
+			var appendString = '<a href="/logos/' + logohandle + '/index.html" title="' + htmlEncode(logohandle) + '"><img class="ar21" alt="' + htmlEncode(logohandle) + '" src="/logos/' + logohandle + '/' + logohandle + '-ar21.svg" /></a></li>';
 
 			// Add it to the results
 			$search_results.append(appendString);
