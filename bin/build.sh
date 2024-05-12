@@ -22,8 +22,9 @@ python3 bin/fm2tag.py --directory=www/logos --tagfile=www/_data/tags.yaml
 echo "INFO: generating next/previous links"
 python3 bin/gen_next_prev.py
 
-echo "INFO: generating social media banner images"
-bin/mkcard.sh
+# disabled for Cloudflare build process
+#echo "INFO: generating social media banner images"
+#bin/mkcard.sh
 
 echo "INFO: running jekyll"
 bundle exec jekyll build --source www --verbose --profile
