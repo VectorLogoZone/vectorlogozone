@@ -5,6 +5,7 @@ font:
   myfonts: https://www.myfonts.com/fonts/softmaker/volkswagen-serial/bold/
   name: Volkswagen Serial Bold
 github: reddit
+guide: 'https://www.redditinc.com/press'
 images:
 - reddit-ar21.svg
 - reddit-tile.svg

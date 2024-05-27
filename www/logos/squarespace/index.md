@@ -3,6 +3,7 @@ blog: 'https://blog.squarespace.com/'
 facebook: 'http://facebook.com/squarespace'
 github: squarespace
 googleplus: 'https://plus.google.com/108155307945418790534'
+guide: 'https://www.squarespace.com/brand-guidelines/'
 instagram: 'https://instagram.com/squarespace'
 linkedin: 'https://linkedin.com/company/squarespace'
 logohandle: squarespace

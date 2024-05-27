@@ -1,5 +1,6 @@
 ---
 github: tootsuite/mastodon
+guide: 'https://joinmastodon.org/branding'
 images:
 - joinmastodon-tile.svg
 logohandle: joinmastodon
