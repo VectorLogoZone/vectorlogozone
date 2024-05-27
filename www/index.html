@@ -12,10 +12,25 @@ redirect_from:
 	</div>
 </div>
 
+<div class="row" id="wait">
+    <div class="col">
+        <div class="alert alert-info" role="alert">
+            <img alt="Loading..." class="float-start" src="/images/spinner.svg" style="height:64px;width:64px;" />
+            Please wait...  If you have JavaScript disabled or 
+            the index never finishes loading, please try 
+            <ul>
+                <li><a class="alert-link" href="javascript:location.reload();">Reload the page</a></li>
+                <li>Browsing the <a class="alert-link" href="/logos/index.html">A-Z list</a></li>
+                <li>Searching with <a class="alert-link" href="https://logosear.ch/">LogoSearch</a></li>
+                <li>Letting me know via the <a class="alert-link" href="/support/contact.html">contact page</li>
+            </ul>
+        </div>
+    </div>
+</div>
+
 <form action="get" class="form-inline justify-content-center" id="site_search" style="display:none;">
 	<div class="form-row align-items-center" style="padding-bottom:20px;">
 		<div class="col-auto">
-			<img alt="Loading..." src="/images/spinner.svg" style="height:64px;width:64px;" id="wait"/>
 			<label class="sr-only" for="q">Search query</label>
 			<div class="input-group">
 				<input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search terms" type="text"/>
