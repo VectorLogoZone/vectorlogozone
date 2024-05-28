@@ -5,6 +5,9 @@ images:
 - apache_maven-icon.svg
 logohandle: apache_maven
 sort: maven
+tags:
+- apache
+- java
 title: Maven
 twitter: ASFMavenProject
 website: 'https://maven.apache.org/'

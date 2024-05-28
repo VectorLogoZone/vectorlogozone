@@ -13,6 +13,8 @@ images:
 - stackoverflow-tile.svg
 logohandle: stackoverflow
 sort: stackoverflow
+tags:
+- answers
 title: Stack Overflow
 twitter: stackoverflow
 website: https://stackoverflow.com/

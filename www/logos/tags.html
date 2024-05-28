@@ -9,7 +9,7 @@ title: Logos by Tag
     <div class="card-header" id="heading{{tag[0]}}">
       <h5 class="mb-0">
         <a alt="Expand {{tag[1]["title"]}}" class="btn btn-link" href="#{{tag[0]}}" aria-expanded="false" title="{{tag[1]["title"]}} ({{tag[0]}})">
-          {{tag[1]["title"]}}
+          {{tag[1]["title"] | replace: "_", " "}}
         </a>
           <span class="badge badge-info float-right">{{tag[1]["count"]}}</span>
       </h5>

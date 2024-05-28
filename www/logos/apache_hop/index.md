@@ -4,6 +4,8 @@ github: apache/hop
 linkedin: 'https://linkedin.com/company/apachehop'
 logohandle: apache_hop
 sort: hop
+tags:
+- apache
 title: Hop
 twitter: ApacheHop
 website: 'https://hop.apache.org/'

@@ -11,9 +11,8 @@ logohandle: iconsearch
 sort: iconsearch
 tags:
 - andrew_marcuse
-- graphics
 - icons
-- reference
+- search
 title: IconSear.ch
 website: https://iconsear.ch//
 ---

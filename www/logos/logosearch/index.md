@@ -11,9 +11,8 @@ logohandle: logosearch
 sort: logosearch
 tags:
 - andrew_marcuse
-- graphics
 - logos
-- reference
+- search
 title: Logo Search
 website: https://logosear.ch//
 ---

@@ -13,6 +13,7 @@ images:
 logohandle: facebook
 sort: facebook
 tags:
+- facebook
 - simpleshare
 - social_network
 title: Facebook

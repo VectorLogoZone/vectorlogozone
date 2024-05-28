@@ -61,7 +61,7 @@
 		{%- if page.tags -%}
 		<div class="row">
 			<div class="col-md-10 col-md-offset-1">
-				<p> Tags:{% for tag in page.tags %} <a class="badge badge-secondary" href="/logos/tags.html#{{tag}}">{{site.data.tags[tag].title | default: tag}}</a>{% endfor %}</p>
+				<p> Tags:{% for tag in page.tags %} <a class="badge badge-secondary" href="/logos/tags.html#{{tag}}">{{site.data.tags[tag].title | default: tag | replace: "_", " "}}</a>{% endfor %}</p>
 			</div>
 		</div>
 		{%- endif -%}

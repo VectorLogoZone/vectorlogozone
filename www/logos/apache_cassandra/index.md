@@ -1,6 +1,9 @@
 ---
 logohandle: apache_cassandra
 sort: cassandra
+tags:
+- apache
+- database
 title: Apache Cassandra
 twitter: cassandra
 website: 'https://cassandra.apache.org/'

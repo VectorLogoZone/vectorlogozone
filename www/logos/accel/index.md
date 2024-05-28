@@ -4,6 +4,8 @@ facebook: 'https://facebook.com/Accel'
 linkedin: 'https://linkedin.com/company/accel-vc'
 logohandle: accel
 sort: accel
+tags:
+- venture_capital
 title: Accel
 twitter: accel
 website: 'https://www.accel.com/'

@@ -6,8 +6,7 @@ images:
 logohandle: asyncjs
 sort: async.js
 tags:
-- office_supplies
-- labels
+- javascript
 title: async.js
 website: http://caolan.github.io/async/
 ---

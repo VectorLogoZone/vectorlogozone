@@ -5,8 +5,8 @@ images:
 logohandle: apache_batik
 sort: batik
 tags:
+- apache
 - java
-- programming_library
 - svg
 title: Apache Batik
 website: https://xmlgraphics.apache.org/batik/

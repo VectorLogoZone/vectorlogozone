@@ -12,6 +12,7 @@ images:
 logohandle: apache
 sort: apache software foundation
 tags:
+- apache
 - webserver
 - charity
 - open_source

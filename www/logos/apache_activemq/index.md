@@ -8,6 +8,9 @@ images:
 - apache_activemq-official.svg
 logohandle: apache_activemq
 sort: activemq
+tags:
+- apache
+- mq
 title: ActiveMQ
 website: http://activemq.apache.org/
 wikipedia: https://en.wikipedia.org/wiki/Apache_ActiveMQ

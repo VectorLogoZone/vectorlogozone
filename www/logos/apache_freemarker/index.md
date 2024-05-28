@@ -2,6 +2,9 @@
 github: apache/freemarker
 logohandle: apache_freemarker
 sort: freemarker
+tags:
+- apache
+- template_engine
 title: FreeMarker
 twitter: freemarker
 website: 'https://freemarker.apache.org/'

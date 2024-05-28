@@ -7,7 +7,7 @@ images:
 logohandle: apache_cordova
 sort: cordova
 tags:
-- programming_library
+- apache
 - mobile
 title: Apache Cordova
 website: https://cordova.apache.org/

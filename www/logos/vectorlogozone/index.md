@@ -15,7 +15,6 @@ tags:
 - andrew_marcuse
 - graphics
 - logos
-- reference
 title: VectorLogo.Zone
 twitter: VectorLogoZone
 website: https://www.vectorlogo.zone/

@@ -6,7 +6,8 @@ images:
 logohandle: avery
 sort: avery
 tags:
-- office_products
+- office_supplies
+- labels
 title: Avery
 twitter: AveryProducts
 website: https://www.avery.com/

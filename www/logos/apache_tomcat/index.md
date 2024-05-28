@@ -7,8 +7,9 @@ images:
 logohandle: apache_tomcat
 sort: tomcat
 tags:
+- apache
 - java
-- appserver
+- application_server
 title: Apache Tomcat
 twitter: TheApacheTomcat
 website: http://tomcat.apache.org/

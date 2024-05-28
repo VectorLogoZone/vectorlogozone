@@ -6,6 +6,8 @@ github: Algolia
 guide: https://www.algolia.com/press
 logohandle: algolia
 sort: algolia
+tags:
+- search
 title: 'Algolia'
 twitter: Algolia
 website: 'https://www.algolia.com/'

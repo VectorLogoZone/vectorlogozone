@@ -8,7 +8,8 @@ images:
 logohandle: apache_kafka
 sort: kafka
 tags:
-- software
+- apache
+- mq
 title: Apache Kafka
 twitter: apachekafka
 website: http://kafka.apache.org/

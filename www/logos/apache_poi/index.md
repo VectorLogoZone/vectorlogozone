@@ -2,9 +2,7 @@
 logohandle: apache_poi
 sort: poi
 tags:
-- microsoft
-- open_source
-- programming_library
+- apache
 - java
 title: Apache POI
 website: http://poi.apache.org/

@@ -7,6 +7,7 @@ images:
 logohandle: apache_ant
 sort: ant
 tags:
+- apache
 - build_tools
 title: Apache Ant
 website: http://ant.apache.org/
