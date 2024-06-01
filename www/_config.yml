@@ -20,3 +20,4 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+viewer: "https://view.svg.zone/view.html"

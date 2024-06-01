@@ -11,7 +11,7 @@
 {% assign sorted_images = page.images | sort %}{% for image in sorted_images %}
 		<tr>
 			<td class="d-none d-md-table-cell" style="white-space:nowrap;vertical-align:middle;">
-				<a class="btn btn-secondary btn-sm" href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" title="preview" rel="nofollow"><i class="far fa-eye"></i></a>
+				<a class="btn btn-secondary btn-sm" href="{{site.viewer}}?url={{site.production_url}}/logos/{{page.logohandle}}/{{image}}&amp;zoom=max&amp;backUrl={{site.production_url}}/logos/{{page.logohandle}}/index.html&amp;backText=Return+to+VectorLogoZone" title="preview" rel="nofollow"><i class="far fa-eye"></i></a>
 				<a class="btn btn-secondary btn-sm" download="{{image}}" href="{{image}}" title="Download"><i class="fa fa-download"></i></a>
 				<button class="btn btn-secondary btn-sm copy2cb" data-clipboard-text="{{site.production_url}}/logos/{{page.logohandle}}/{{image}}" href="#" title="Copy URL to Clipboard" rel="nofollow"><i class="far fa-clipboard"></i></button>
 				<div style="position:relative;display:inline-block;"><button class="btn btn-primary btn-sm copy2tip" style="position:absolute;left:0;right:0;">Copied to Clipboard</button>
@@ -38,7 +38,7 @@
 				(Raster)
 			{% endif %}
 			</td>
-			<td><a href="/util/preview.html?image=/logos/{{page.logohandle}}/{{image}}" rel="nofollow"><img alt="{{alt_text}}" src="{{image}}" style="{% if customstyle%}{{customstyle}}{% else %}height:120px;{% endif %}" /></a></td>
+			<td><a href="{{site.viewer}}?url={{site.production_url}}/logos/{{page.logohandle}}/{{image}}&amp;zoom=max&amp;backUrl={{site.production_url}}/logos/{{page.logohandle}}/index.html&amp;backText=Return+to+VectorLogoZone" rel="nofollow"><img alt="{{alt_text}}" src="{{image}}" style="{% if customstyle%}{{customstyle}}{% else %}height:120px;{% endif %}" /></a></td>
 		</tr>
 {% endfor %}
 	</tbody>
