@@ -1,4 +1,6 @@
 ---
+font:
+  name: Inter Semi-bold
 github: vitejs/vite
 logohandle: vitejsdev
 sort: vitejs
