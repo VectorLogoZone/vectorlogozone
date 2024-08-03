@@ -5,7 +5,6 @@
 [![# of images](https://img.shields.io/badge/dynamic/json.svg?label=images&url=https%3A%2F%2Fwww.vectorlogo.zone%2Fstatus.json&query=%24.images)](https://www.vectorlogo.zone/logos/index.html)
 [![NodePing status](https://img.shields.io/nodeping/status/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu?label=Current%20status)](https://nodeping.com/reports/statusevents/check/201109281250J5K3P-SO7ILTZ4)
 [![NodePing uptime](https://img.shields.io/nodeping/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu.svg?label=30-day%20uptime&style=flat)](https://nodeping.com/reports/uptime/wbe44oj5-13fx-4h6l-8ojp-tlbno9b01gmu)
-[![Deploy](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/deploy.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/deploy.yaml)
 [![namecheck](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/namecheck.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/namecheck.yaml)
 [![imagecheck](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/imagecheck.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/imagecheck.yaml)
 [![metacheck](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/metacheck.yaml/badge.svg)](https://github.com/VectorLogoZone/vectorlogozone/actions/workflows/metacheck.yaml)
