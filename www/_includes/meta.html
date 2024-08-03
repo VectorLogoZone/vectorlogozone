@@ -6,6 +6,13 @@
 	{%- if page.noindex %}
 	<meta name="robots" content="noindex" />
 	{%- endif %}
+	<noscript>
+		<style>
+			.scriptonly {
+				display: none !important;
+			}
+		</style>
+	</noscript>
 	<style>
 
 	/* faded border around logos in lists */

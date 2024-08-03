@@ -5,6 +5,19 @@ redirect_from:
 - /util/index.html
 - /search.html
 ---
+{%- comment %}NOTE: this is random at *build time*, so a given deploy will always have the same set of logos (which is the desired result) {% endcomment %}
+{%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' %}
+{%- assign all = "" | split: '' %}
+{%- for logopage in sorted_pages %}
+	{%- capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
+	{%- if logopage.noindex %}{% else %}
+		{%- if logopage.images contains logofile %}
+			{%- assign all = all | push: logopage.logohandle %}
+		{%- endif %}
+	{%- endif %}
+{%- endfor %}
+{%- assign default_logos = all | sample: 72 -%}
+
 <div class="jumbotron jumbotron-fluid bg-transparent pb-0 pt-2">
 	<div class="container px-0">
 		<h1 class="display-4 d-flex justify-content-center"><a href="/about.html"><img alt="VectorLogoZone logo" src="/images/about/vlzlogo-grey.svg" style="max-width: 100%;object-fit: contain;"/></a></h1>
@@ -12,23 +25,39 @@ redirect_from:
 	</div>
 </div>
 
-<div class="row" id="wait">
-    <div class="col">
-        <div class="alert alert-info" role="alert">
-            <img alt="Loading..." class="float-start" src="/images/spinner.svg" style="height:64px;width:64px;" />
-            Please wait...  If you have JavaScript disabled or 
-            the index never finishes loading, please try 
-            <ul>
-                <li><a class="alert-link" href="javascript:location.reload();">Reloading this page</a> - only if you have JavaScript enabled</li>
-                <li>Browsing the <a class="alert-link" href="/logos/index.html">A-Z list</a> - works without JavaScript, but so many SVGs can crash your browser</li>
-                <li>Searching with <a class="alert-link" href="https://logosear.ch/">LogoSearch</a> - works without JavaScript</li>
-                <li>Letting me know via the <a class="alert-link" href="/support/contact.html">contact page</a></li>
-            </ul>
-        </div>
-    </div>
+<noscript>
+	<div class="alert alert-info" role="alert">
+		You have disabled JavaScript.  While pages will display properly, the search function relies on JavaScript.<br/
+		<br/><br/>
+		Please use <a class="alert-link" href="https://logosear.ch/">LogoSearch</a> or browse the <a class="alert-link" href="/logos/index.html">A-Z index</a> to find logos.
+	</div>
+	<div class="row" id="default_div">
+		<div class="col logo-container">
+			{%- for theLogoHandle in default_logos %}
+			<a href="/logos/{{theLogoHandle}}/index.html" title="{{theLogoHandle}}"><img class="ar21"
+					alt="{{theLogoHandle}}" src="/logos/{{theLogoHandle}}/{{theLogoHandle}}-ar21.svg" /></a>
+			{%- endfor %}
+		</div>
+	</div>
+</noscript>
+
+<div class="row scriptonly" id="wait">
+	<div class="col">
+		<div class="alert alert-info" role="alert">
+			<img alt="Loading..." class="float-start" src="/images/spinner.svg" style="height:64px;width:64px;" />
+			Please wait...  If you have JavaScript disabled or 
+			the index never finishes loading, please try 
+			<ul>
+				<li><a class="alert-link" href="javascript:location.reload();">Reloading this page</a> - only if you have JavaScript enabled</li>
+				<li>Browsing the <a class="alert-link" href="/logos/index.html">A-Z list</a> - works without JavaScript, but so many SVGs can crash your browser</li>
+				<li>Searching with <a class="alert-link" href="https://logosear.ch/">LogoSearch</a> - works without JavaScript</li>
+				<li>Letting me know via the <a class="alert-link" href="/support/contact.html">contact page</a></li>
+			</ul>
+		</div>
+	</div>
 </div>
 
-<form action="get" class="form-inline justify-content-center" id="site_search" style="display:none;">
+<form action="" method="get" class="form-inline justify-content-center noscript" id="site_search" style="display:none;">
 	<div class="form-row align-items-center" style="padding-bottom:20px;">
 		<div class="col-auto">
 			<label class="sr-only" for="q">Search query</label>
@@ -46,24 +75,12 @@ redirect_from:
 	<div class="logo-container" id="search_results"></div>
 </div>
 
-<div class="row clearfix">
+<div class="row clearfix mt-3">
 	<div class="col">
 		<p id="pending-tip" class="alert alert-primary" style="display:none;">The following logos are on the &quot;To Do&quot; list and should be ready shortly.</p>
 		<ul id="pending"></ul>
 	</div>
 </div>
-{%- comment %}NOTE: this is random at *build time*, so a given deploy will always have the same set of logos (which is the desired result) {% endcomment %}
-{%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' %}
-{%- assign all = "" | split: '' %}
-{%- for logopage in sorted_pages %}
-	{%- capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture -%}
-	{%- if logopage.noindex %}{% else %}
-		{%- if logopage.images contains logofile %}
-			{%- assign all = all | push: logopage.logohandle %}
-		{%- endif %}
-	{%- endif %}
-{%- endfor %}
-{%- assign default_logos = all | sample: 48 %}
 <script src="/js/lunr.min.js"></script>
 <script>
 /*<![CDATA[*/
