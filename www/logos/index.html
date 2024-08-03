@@ -1,72 +1,31 @@
 ---
-title: Complete list of SVG Logos
-h1: Logos
+title: Complete list of available SVG logos
+h1: Logo Index
 ---
-{%- assign sorted_pages = site.pages | sort:'sort' -%}
-{%- capture checkon %}<i class="fa fa-check"></i>{% endcapture -%}
-{%-capture checkoff %}<i class="fa fa-fw"></i>{% endcapture -%}
+{%- assign sorted_pages = site.pages 
+    | where_exp: 'item', 'item.images != nil'
+    | sort:'sort' 
+    -%}
 
-{%- assign letters = "abc def ghi jkl mno pqrs tuv wxyz 0123456789" | split: ' ' -%}
+{%- assign start = sorted_pages | first %}
 
-<ul class="nav nav-tabs" id="vlz-tabs" role="tablist">
-{%- for letter in letters %}
-	<li role="presentation"  class="nav-item" id="tab-{{letter}}"><a aria-controls="tab-data-{{ letter }}" class="nav-link{% if forloop.first %} active{% endif %}" href="#{{ letter }}" id="tab-link-{{ letter }}" role="tab">{% if letter == "0123456789" %}0-9{% else %}{{ letter | upcase }}{% endif %}</a></li>
-{% endfor -%}
-</ul>
-<p id="focustarget"></p>
+<details class="py-2 logo-container">
+{%- for logopage in sorted_pages %}
+    <a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} logo" src="{{ logopage.logohandle }}/{{ logopage.logohandle }}-ar21.svg" title="{{logopage.title}}"/></a>
+    {%- assign loopmod = forloop.index | modulo: 144 -%}
+    {%- if loopmod == 0 %}
+    <summary class="">{{start.title}} - {{logopage.title}}</summary>
+        {%- assign nextindex = forloop.index | plus: 1 -%}
+        {%- assign nextpage = sorted_pages[nextindex] -%}
+        {%- assign start = nextpage %}
+</details>
+<details class="py-2 logo-container">
+    {%- endif -%}
+{%- endfor -%}
+{%- if start -%}
+    {% assign lastpage = sorted_pages | last %}
+    <summary class="">{{start.title}} - {{lastpage.title}}</summary>
+{%- endif %}
+</details>
 
-<div class="tab-content">
-{%- for letter in letters -%}
-	{%- assign logocount = 0 %}
-	<div role="tabpanel" class="tab-pane vlz-tab-data" id="tab-data-{{ letter }}" {% if forloop.first %}{% else %}style="display:hidden;"{% endif %} >
-		<p></p>
-		<div class="logo-container" id="vector{{ letter }}">
-		{%- for logopage in sorted_pages -%}
-			{%- if logopage.noindex %}{% else %}
-				{%- if logopage.logohandle -%}
-					{%- capture logofile %}{{ logopage.logohandle }}-ar21.svg{% endcapture -%}
-					{%- if logopage.images contains logofile -%}
-						{%- assign startsWith = logopage.sort | slice: 0,1 -%}
-						{%- if letter contains startsWith %}
-            <a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} logo" src="{{ logopage.logohandle }}/{{ logofile }}" title="{{logopage.title}}"/></a>
-							{%- assign logocount = logocount | plus:1 %}
-						{%- endif -%}
-					{%- endif -%}
-				{%- endif %}
-			{%- endif -%}
-		{%- endfor %}
-		<p>Count: {{ logocount }}</p>
-		</div>
-	</div>
-{%- endfor %}
-</div>
-<script>
-
-	function switchTabs()
-	{
-		$("#vlz-tabs > li").removeClass("active");
-		var hash = window.location.hash;
-		console.log("hash=" + hash);
-		if (!hash || hash == '#')
-		{
-			$("#tab-link-{{ letters[0] }}").addClass("active");
-			$("#tab-data-{{ letters[0] }}").show();
-		}
-		else
-		{
-			$(".vlz-tab-data").hide();
-			$("#vlz-tabs > li > .nav-link").removeClass("active");
-			$("#tab-data-" + hash.substring(1)).show();
-			$("#tab-link-" + hash.substring(1)).addClass("active");
-			$("#focustarget").focus();
-		}
-	}
-
-	$(document).ready(function() {
-		switchTabs();
-		$(window).bind('hashchange', switchTabs);
-	});
-
-</script>
-
-
+<p class="pt-2">Count: {{ sorted_pages | size }}</p>
