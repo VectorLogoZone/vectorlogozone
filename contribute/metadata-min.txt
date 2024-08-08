@@ -1,8 +1,0 @@
----
-guide: https://www.blah.com/official
-logohandle: blah
-sort: blah
-title: blah
-website: https://www.blah.com/
-wikipedia: https://en.wikipedia.org/wiki/blah
----
