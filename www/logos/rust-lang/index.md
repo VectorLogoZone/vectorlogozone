@@ -1,7 +1,9 @@
 ---
+activitypub: https://social.rust-lang.org/@rust
 blog: https://blog.rust-lang.org/
+discord: https://discord.gg/rust-lang
 github: rust-lang
-guide: https://www.rust-lang.org/en-US/legal.html
+guide: https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/
 images:
 - rust-lang-icon.svg
 - rust-lang-ar21.svg
@@ -12,4 +14,5 @@ tags:
 title: Rust Language
 twitter: rustlang
 website: https://www.rust-lang.org/
+youtube: https://www.youtube.com/channel/UCaYhcUwRBNscFNUKTjgPFiA
 ---
