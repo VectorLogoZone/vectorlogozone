@@ -1,0 +1,31 @@
+name: imagecheck
+
+on:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  imagecheck:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Print data
+      run: |
+        echo "Processing: ${{ github.event.pull_request.number }}"
+        echo "By: ${{ github.event.pull_request.user.name }} (${{ github.event.pull_request.user.login }})"
+        echo "Head: ${{ github.event.pull_request.head.ref }} (${{ github.event.pull_request.head.sha }})"
+        echo "Base: ${{ github.event.pull_request.base.ref }} (${{ github.event.pull_request.base.sha }})"
+
+    - name: Dump all data for debugging
+      env:
+        GITHUB_CONTEXT: ${{ toJson(github) }}
+      run: |
+        echo "$GITHUB_CONTEXT" | jq .
+
+    - name: Checkout
+      uses: actions/checkout@v4
+      with:
+        fetch-depth: 0
+
+    - name: Checkout parent
+      run: |
+        git fetch origin ${{ github.event.pull_request.base.ref }}:$GITHUB_SHA
