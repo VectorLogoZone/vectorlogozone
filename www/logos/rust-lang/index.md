@@ -4,6 +4,10 @@ blog: https://blog.rust-lang.org/
 discord: https://discord.gg/rust-lang
 github: rust-lang
 guide: https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/
+font:
+  name: Alfa Slab One
+  url: "https://github.com/jmsole/alfaslab"
+  google: "https://fonts.google.com/specimen/Alfa+Slab+One"
 images:
 - rust-lang-icon.svg
 - rust-lang-ar21.svg
