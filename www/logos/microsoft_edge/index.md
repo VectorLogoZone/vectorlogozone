@@ -9,8 +9,8 @@ sort: edge
 tags:
 - browser
 - microsoft
-title: Edge
+title: Microsoft Edge
 twitter: MicrosoftEdge
-website: https://www.microsoft.com/en-us/windows/microsoft-edge
+website: https://www.microsoft.com/en-us/edge/
 wikipedia: https://en.wikipedia.org/wiki/Microsoft_Edge
 ---
