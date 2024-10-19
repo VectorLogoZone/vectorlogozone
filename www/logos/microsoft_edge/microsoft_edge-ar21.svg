@@ -1,23 +1,132 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="120" height="60" aria-label="Edge">
-    <radialGradient id="a" cx="276.913" cy="346.817" r="121.663" fx="276.913" fy="346.817" gradientTransform="matrix(.09523 0 0 .08474 1.62 7.182)" gradientUnits="userSpaceOnUse">
-        <stop offset=".8" stop-color="#159"/>
-        <stop offset="1" stop-color="#148"/>
-    </radialGradient>
-    <radialGradient id="b" cx="205.352" cy="330.898" r="190.057" fx="205.352" fy="330.898" gradientTransform="matrix(.08332 0 0 .09685 1.62 7.182)" gradientUnits="userSpaceOnUse">
-        <stop offset=".8" stop-color="#18d"/>
-        <stop offset="1" stop-color="#07a"/>
-    </radialGradient>
-    <radialGradient id="c" cx="83.629" cy="141.15" r="313.665" fx="83.629" fy="141.15" gradientTransform="matrix(.11083 0 0 .0728 1.62 7.182)" gradientUnits="userSpaceOnUse">
-        <stop offset=".4" stop-color="#3ce"/>
-        <stop offset="1" stop-color="#3c5"/>
-    </radialGradient>
-    <radialGradient id="d" cx="473.163" cy="166.08" r="113.777" fx="473.163" fy="166.08" gradientTransform="matrix(.08162 0 0 .09886 1.62 7.182)" gradientUnits="userSpaceOnUse">
-        <stop offset="0" stop-color="#6e7"/>
-        <stop offset="1" stop-color="#6e7" stop-opacity="0"/>
-    </radialGradient>
-    <path fill="url(#a)" d="M22.708 26.26s-2.263 1.07-2.263 3.745a12.038 9.985 0 0 0 18.283 8.38.543.535 0 0 1 .814.624C30.22 53.006 9.765 47.657 18.544 28.311" style="fill:url(#a);stroke-width:.0898277"/>
-    <path fill="url(#b)" d="M28.772 20.822H10.127A17.378 17.117 0 0 0 30.039 46.32a10.725 10.499 86.587 0 1-6.698-20.327 4.344 4.368 0 0 1 5.793 3.655" style="fill:url(#b);stroke-width:.0898277"/>
-    <path fill="url(#c)" d="M7.412 29.738c.362-9.807 16.834-12.303 21.088-2.764 2.353 6.24-3.077 5.795.272 7.845 6.426 2.675 14.39-.624 13.304-9.093C37.822 7.45 8.407 8.609 7.412 29.738" style="fill:url(#c);stroke-width:.0898277"/>
-    <path fill="url(#d)" d="M23.522 12.353c22.718 1.248 23.713 25.854 7.784 22.11" style="fill:url(#d);stroke-width:.0898277"/>
-    <text xml:space="preserve" x="47.471" y="41.118" style="font-weight:500;font-stretch:semi-condensed;font-size:29.3333px;line-height:1;font-family:&quot;Barlow Semi Condensed&quot;;-inkscape-font-specification:&quot;Barlow Semi Condensed, Medium Semi-Condensed&quot;;fill:#333;stroke-width:2.471;stroke-linecap:square;fill-opacity:1"><tspan x="47.471" y="41.118" style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:29.3333px;font-family:&quot;Segoe UI&quot;;-inkscape-font-specification:&quot;Segoe UI Semi-Bold&quot;;fill:#333;fill-opacity:1">Edge</tspan></text>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="120"
+   height="60"
+   aria-label="Edge"
+   version="1.1"
+   id="svg11"
+   sodipodi:docname="microsoft_edge-ar21.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs11" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="4.4666667"
+     inkscape:cx="59.88806"
+     inkscape:cy="29.88806"
+     inkscape:window-width="1408"
+     inkscape:window-height="942"
+     inkscape:window-x="1818"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg11" />
+  <radialGradient
+     id="a"
+     cx="276.913"
+     cy="346.817"
+     r="121.663"
+     fx="276.913"
+     fy="346.817"
+     gradientTransform="matrix(.09523 0 0 .08474 1.62 7.182)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset=".8"
+       stop-color="#159"
+       id="stop1" />
+    <stop
+       offset="1"
+       stop-color="#148"
+       id="stop2" />
+  </radialGradient>
+  <radialGradient
+     id="b"
+     cx="205.352"
+     cy="330.898"
+     r="190.057"
+     fx="205.352"
+     fy="330.898"
+     gradientTransform="matrix(.08332 0 0 .09685 1.62 7.182)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset=".8"
+       stop-color="#18d"
+       id="stop3" />
+    <stop
+       offset="1"
+       stop-color="#07a"
+       id="stop4" />
+  </radialGradient>
+  <radialGradient
+     id="c"
+     cx="83.629"
+     cy="141.15"
+     r="313.665"
+     fx="83.629"
+     fy="141.15"
+     gradientTransform="matrix(.11083 0 0 .0728 1.62 7.182)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset=".4"
+       stop-color="#3ce"
+       id="stop5" />
+    <stop
+       offset="1"
+       stop-color="#3c5"
+       id="stop6" />
+  </radialGradient>
+  <radialGradient
+     id="d"
+     cx="473.163"
+     cy="166.08"
+     r="113.777"
+     fx="473.163"
+     fy="166.08"
+     gradientTransform="matrix(.08162 0 0 .09886 1.62 7.182)"
+     gradientUnits="userSpaceOnUse">
+    <stop
+       offset="0"
+       stop-color="#6e7"
+       id="stop7" />
+    <stop
+       offset="1"
+       stop-color="#6e7"
+       stop-opacity="0"
+       id="stop8" />
+  </radialGradient>
+  <path
+     fill="url(#a)"
+     d="M22.708 26.26s-2.263 1.07-2.263 3.745a12.038 9.985 0 0 0 18.283 8.38.543.535 0 0 1 .814.624C30.22 53.006 9.765 47.657 18.544 28.311"
+     style="fill:url(#a);stroke-width:.0898277"
+     id="path8" />
+  <path
+     fill="url(#b)"
+     d="M28.772 20.822H10.127A17.378 17.117 0 0 0 30.039 46.32a10.725 10.499 86.587 0 1-6.698-20.327 4.344 4.368 0 0 1 5.793 3.655"
+     style="fill:url(#b);stroke-width:.0898277"
+     id="path9" />
+  <path
+     fill="url(#c)"
+     d="M7.412 29.738c.362-9.807 16.834-12.303 21.088-2.764 2.353 6.24-3.077 5.795.272 7.845 6.426 2.675 14.39-.624 13.304-9.093C37.822 7.45 8.407 8.609 7.412 29.738"
+     style="fill:url(#c);stroke-width:.0898277"
+     id="path10" />
+  <path
+     fill="url(#d)"
+     d="M23.522 12.353c22.718 1.248 23.713 25.854 7.784 22.11"
+     style="fill:url(#d);stroke-width:.0898277"
+     id="path11" />
+  <path
+     style="font-weight:600;font-size:29.3333px;line-height:1;font-family:'Segoe UI';-inkscape-font-specification:'Segoe UI Semi-Bold';fill:#333333;stroke-width:2.471;stroke-linecap:square"
+     d="M 61.536089,41.118 H 50.006154 V 20.578961 h 11.071602 v 2.893226 h -7.662752 v 5.815097 h 7.06119 v 2.878903 h -7.06119 v 6.07291 h 8.121085 z m 16.614564,0 H 74.82774 v -2.492185 h -0.05729 q -1.604165,2.835935 -4.9414,2.835935 -2.707029,0 -4.339839,-1.962238 -1.618488,-1.97656 -1.618488,-5.371087 0,-3.638017 1.790363,-5.829421 1.804685,-2.191403 4.798171,-2.191403 2.96484,0 4.311193,2.377601 h 0.05729 v -9.080719 h 3.322913 z m -3.279945,-6.703117 v -1.919269 q 0,-1.561196 -1.016925,-2.649736 -1.016926,-1.088541 -2.592445,-1.088541 -1.861977,0 -2.936195,1.389321 -1.059895,1.389322 -1.059895,3.852861 0,2.234372 1.016926,3.537756 1.031249,1.289061 2.76432,1.289061 1.704425,0 2.76432,-1.246092 1.059894,-1.260416 1.059894,-3.165361 z m 20.968729,5.528639 q 0,8.078116 -8.121085,8.078116 -2.86458,0 -4.998692,-0.959634 v -3.036455 q 2.406247,1.374998 4.569005,1.374998 5.227859,0 5.227859,-5.141921 v -1.604165 h -0.05729 q -1.647133,2.807289 -4.955723,2.807289 -2.678382,0 -4.325516,-1.947915 -1.632811,-1.962237 -1.632811,-5.256504 0,-3.738277 1.761717,-5.944004 1.761717,-2.205726 4.84114,-2.205726 2.907549,0 4.311193,2.377601 h 0.05729 V 26.45135 h 3.322913 z M 92.54517,34.40056 v -1.904946 q 0,-1.546873 -1.031249,-2.635414 -1.016926,-1.102863 -2.549476,-1.102863 -1.890623,0 -2.964841,1.403644 -1.059894,1.389322 -1.059894,3.895829 0,2.162758 1.016926,3.466142 1.031249,1.289061 2.721351,1.289061 1.718748,0 2.792965,-1.231769 1.074218,-1.246093 1.074218,-3.179684 z m 20.03774,0.286458 h -9.99739 q 0.0573,2.033852 1.24609,3.136715 1.20313,1.102863 3.29427,1.102863 2.34896,0 4.31119,-1.403644 v 2.678382 q -2.0052,1.260416 -5.29947,1.260416 -3.23697,0 -5.08463,-1.990883 -1.83333,-2.005207 -1.83333,-5.6289 0,-3.423173 2.01953,-5.571608 2.03385,-2.162758 5.04166,-2.162758 3.00781,0 4.65494,1.933591 1.64714,1.933592 1.64714,5.371088 z m -3.20833,-2.348956 q -0.0143,-1.790362 -0.84505,-2.778642 -0.83073,-1.002603 -2.29167,-1.002603 -1.43229,0 -2.43489,1.045571 -0.98828,1.045572 -1.21745,2.735674 z"
+     id="text11"
+     aria-label="Edge" />
 </svg>
