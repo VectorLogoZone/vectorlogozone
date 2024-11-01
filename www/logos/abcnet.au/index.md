@@ -2,7 +2,7 @@
 facebook: 'https://facebook.com/abc'
 instagram: 'https://instagram.com/abcaustralia'
 logohandle: abcnet.au
-notes: 'keywords: ["Australian Broadcasting Corporation"]'
+keywords: ["Australian Broadcasting Corporation"]
 sort: abc
 title: ABC
 twitter: abcaustralia
