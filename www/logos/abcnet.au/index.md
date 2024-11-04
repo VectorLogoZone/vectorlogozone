@@ -1,8 +1,8 @@
 ---
 facebook: 'https://facebook.com/abc'
 instagram: 'https://instagram.com/abcaustralia'
-logohandle: abcnet.au
 keywords: ["Australian Broadcasting Corporation"]
+logohandle: abcnetau
 sort: abc
 title: ABC
 twitter: abcaustralia
