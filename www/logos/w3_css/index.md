@@ -1,4 +1,5 @@
 ---
+colors: [ "#663399", "#FFFFFF" ]
 logohandle: w3_css
 sort: css
 title: CSS
