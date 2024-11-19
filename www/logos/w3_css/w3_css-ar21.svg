@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="120"
+   height="60"
+   viewBox="0 0 120 60"
+   role="img"
+   aria-labelledby="css-logo-title css-logo-description"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="tmp-ar21.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="6.4083333"
+     inkscape:cx="68.036411"
+     inkscape:cy="30.039012"
+     inkscape:window-width="1600"
+     inkscape:window-height="942"
+     inkscape:window-x="1820"
+     inkscape:window-y="27"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="css-logo-title">CSS Logo</title>
+  <desc
+     id="css-logo-description">A purple square with rounded corners and the letters CSS inside in white</desc>
+  <path
+     fill="#663399"
+     d="M 4.8374512,13.576073 H 32.11069 a 5.1949025,5.1949025 0 0 1 5.194902,5.194902 V 40.849311 A 5.1949025,5.1949025 0 0 1 32.11069,46.044213 H 10.032354 A 5.1949025,5.1949025 0 0 1 4.8374512,40.849311 Z"
+     id="path1"
+     style="stroke-width:0.0324681" />
+  <path
+     fill="#ffffff"
+     d="m 31.348987,43.443515 c -1.051643,0 -1.855879,-0.305849 -2.418876,-0.920471 -0.556829,-0.617869 -0.846769,-1.499379 -0.872744,-2.650699 h 2.266277 c 0.01299,1.018201 0.370786,1.5286 1.074046,1.5286 0.358448,0 0.612349,-0.113639 0.75878,-0.338318 0.143185,-0.224031 0.218186,-0.582154 0.218186,-1.073072 0,-0.390267 -0.09773,-0.715598 -0.286694,-0.972421 a 2.3766679,2.3766679 0 0 0 -0.957161,-0.686377 l -0.83995,-0.403579 c -0.748716,-0.357799 -1.292557,-0.780534 -1.627953,-1.275024 -0.325655,-0.491243 -0.488321,-1.180541 -0.488321,-2.061726 0,-0.985733 0.286694,-1.785748 0.856185,-2.400695 0.58605,-0.614622 1.383792,-0.920147 2.402643,-0.920147 0.983784,0 1.745487,0.302279 2.28251,0.903913 0.547088,0.605206 0.833457,1.470158 0.856509,2.601997 H 32.39089 c 0.01299,-0.370137 -0.06169,-0.737676 -0.218186,-1.073397 -0.123379,-0.246758 -0.364617,-0.370461 -0.722741,-0.370461 -0.637999,0 -0.95716,0.380202 -0.95716,1.138008 0,0.384098 0.07792,0.68313 0.23442,0.910731 a 2.1162734,2.1162734 0 0 0 0.823716,0.566245 l 0.804236,0.354552 c 0.83021,0.380526 1.429248,0.845795 1.797112,1.408468 0.37111,0.559426 0.553581,1.307492 0.553581,2.244198 0,1.122099 -0.293187,1.983803 -0.888977,2.585438 -0.592544,0.601634 -1.416261,0.904237 -2.467579,0.904237 z m -7.318968,0 c -1.051968,0 -1.855879,-0.305849 -2.419201,-0.920471 -0.556829,-0.617869 -0.846444,-1.499379 -0.872419,-2.650699 h 2.265952 c 0.01299,1.018201 0.37111,1.5286 1.074695,1.5286 0.357799,0 0.6117,-0.113639 0.754884,-0.338318 0.146756,-0.224031 0.218186,-0.582154 0.218186,-1.073072 0,-0.390267 -0.09416,-0.715598 -0.283122,-0.972421 a 2.3766679,2.3766679 0 0 0 -0.957161,-0.686377 l -0.839951,-0.403579 c -0.74904,-0.357799 -1.292556,-0.780534 -1.627952,-1.275024 -0.325656,-0.491243 -0.488321,-1.180541 -0.488321,-2.061726 0,-0.985733 0.286369,-1.785748 0.856185,-2.400695 0.58605,-0.614622 1.383792,-0.920147 2.402642,-0.920147 0.98346,0 1.745163,0.302279 2.279264,0.903913 0.553582,0.605206 0.836704,1.470158 0.859431,2.601997 h -2.181209 c 0.01299,-0.370137 -0.06169,-0.737676 -0.218186,-1.073397 -0.123704,-0.246758 -0.364617,-0.370461 -0.722741,-0.370461 -0.638324,0 -0.957485,0.380202 -0.957485,1.138008 0,0.384098 0.07825,0.68313 0.23442,0.910731 a 2.1162734,2.1162734 0 0 0 0.823716,0.566245 l 0.804236,0.354552 c 0.830211,0.380526 1.429248,0.845795 1.797436,1.408468 0.367864,0.559426 0.553258,1.307492 0.553258,2.244198 0,1.122099 -0.29611,1.983803 -0.888653,2.585438 -0.592544,0.601634 -1.416261,0.904237 -2.467904,0.904237 z m -7.621896,0 c -1.02924,0 -1.846138,-0.279875 -2.451669,-0.839301 -0.605531,-0.555855 -0.905212,-1.391909 -0.905212,-2.497774 v -5.464063 c 0,-1.099047 0.319162,-1.931855 0.957161,-2.504268 0.648064,-0.56592 1.497755,-0.851964 2.549398,-0.851964 1.019175,0 1.823086,0.292538 2.418877,0.871445 0.602608,0.582154 0.905212,1.447429 0.905212,2.601997 v 0.432475 h -2.399396 v -0.419488 c 0,-0.445463 -0.09773,-0.774041 -0.286694,-0.988655 a 0.859107,0.859107 0 0 0 -0.70326,-0.335071 c -0.390591,0 -0.66722,0.133119 -0.823716,0.403254 a 2.5662818,2.5662818 0 0 0 -0.218186,1.190282 v 4.74879 c 0,0.991902 0.348708,1.496132 1.042227,1.505873 0.325331,0 0.569491,-0.11721 0.738975,-0.351306 a 1.6799016,1.6799016 0 0 0 0.250654,-0.988979 v -0.354228 h 2.399396 v 0.370787 c 0,0.770793 -0.149679,1.414636 -0.452606,1.928607 a 2.8831709,2.8831709 0 0 1 -1.240283,1.157814 3.9435803,3.9435803 0 0 1 -1.780878,0.383773 z"
+     id="path2"
+     style="stroke-width:0.0324681" />
+  <metadata
+     id="metadata2">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:title>CSS Logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;line-height:1;font-family:'DINish Condensed';-inkscape-font-specification:'DINish Condensed,  Bold';fill:#04233e;stroke-width:2.471;stroke-linecap:square"
+     x="42.912872"
+     y="44.629387"
+     id="text1"><tspan
+       sodipodi:role="line"
+       x="42.912872"
+       y="44.629387"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.3333px;font-family:'DINish Condensed';-inkscape-font-specification:'DINish Condensed,  Condensed'"
+       id="tspan2">Style Sheets</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:17.3333px;line-height:1;font-family:'DINish Condensed';-inkscape-font-specification:'DINish Condensed,  Bold';fill:#04233e;stroke-width:2.471;stroke-linecap:square"
+     x="47.774441"
+     y="26.801172"
+     id="text1-0"><tspan
+       sodipodi:role="line"
+       x="47.774441"
+       y="26.801172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:17.3333px;font-family:'DINish Condensed';-inkscape-font-specification:'DINish Condensed,  Condensed'"
+       id="tspan2-6">Cascading</tspan></text>
+</svg>
