@@ -1,11 +1,8 @@
 ---
+colors: [ "#EFDE72", "#2b2729" ]
 font:
-  freename: (available on Github)
-  freeurl: https://github.com/aosp-mirror/platform_frameworks_base/tree/master/data/fonts
-  google: https://www.google.com/fonts/specimen/Droid+Sans
-  myfonts: https://www.myfonts.com/fonts/ascender/droid-sans-pro/bold/
-  name: Droid Sans Bold
-  url: https://www.fonts.com/font/ascender/droid-sans/wgl-bold
+  name: "Neutraface Text Bold"
+  url: https://housefonts.com/hi/neutraface
 images:
 - javascript-vertical.svg
 - javascript-horizontal.svg
