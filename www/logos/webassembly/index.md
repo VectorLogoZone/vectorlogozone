@@ -1,4 +1,9 @@
 ---
+colors: [ "#654ff0" ]
+font:
+  github: https://github.com/googlefonts/opensans
+  google: https://fonts.google.com/specimen/Open+Sans
+  name: Open Sans
 github: WebAssembly
 guide: https://github.com/carlosbaraza/web-assembly-logo
 images:
