@@ -1,0 +1,8 @@
+---
+github: microsoft/DeepSpeed
+logohandle: deepspeedai
+sort: deepspeed
+title: DeepSpeed
+website: 'https://www.deepspeed.ai/'
+wikipedia: 'https://en.wikipedia.org/wiki/DeepSpeed'
+---

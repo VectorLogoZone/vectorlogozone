@@ -1,0 +1,7 @@
+---
+github: apache/mahout
+logohandle: apache_mahout
+sort: mahout
+title: Mahout
+website: 'https://mahout.apache.org/'
+---
