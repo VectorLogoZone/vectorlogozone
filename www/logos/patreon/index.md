@@ -1,7 +1,7 @@
 ---
 blog: https://blog.patreon.com/
 facebook: https://www.facebook.com/patreon
-github: patreon
+git: https://github.com/patreon
 googleplus: https://plus.google.com/+Patreon
 guide: https://www.patreon.com/brand
 images:
@@ -15,7 +15,7 @@ sort: patreon
 tags:
 - monetization
 title: Patreon
-twitter: patreon
+twitter: https://x.com/patreon
 website: https://www.patreon.com/
 wikipedia: https://en.wikipedia.org/wiki/Patreon
 ---

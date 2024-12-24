@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/xpression.jp'
-instagram: 'https://instagram.com/xpression_app'
+facebook: https://facebook.com/xpression.jp
+instagram: https://instagram.com/xpression_app
 logohandle: xpressioncamera
 sort: xpressioncamera
 title: xpression camera
-twitter: xpression_app
-website: 'https://xpressioncamera.com/'
+twitter: https://x.com/xpression_app
+website: https://xpressioncamera.com/
 ---

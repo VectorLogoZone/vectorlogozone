@@ -1,10 +1,10 @@
 ---
-blog: 'https://sureswiftcapital.com/blog'
-facebook: 'https://facebook.com/SureSwift'
-linkedin: 'https://linkedin.com/company/sureswiftcapital'
+blog: https://sureswiftcapital.com/blog
+facebook: https://facebook.com/SureSwift
+linkedin: https://linkedin.com/company/sureswiftcapital
 logohandle: sureswiftcapital
 sort: sureswiftcapital
 title: SureSwift Capital
-twitter: SureSwiftCap
-website: 'https://www.sureswiftcapital.com/'
+twitter: https://x.com/SureSwiftCap
+website: https://www.sureswiftcapital.com/
 ---

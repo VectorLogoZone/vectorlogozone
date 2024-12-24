@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.tito.io/'
+blog: https://blog.tito.io/
 logohandle: tito
 sort: tito
 title: Tito
-twitter: usetito
-website: 'https://ti.to/home'
+twitter: https://x.com/usetito
+website: https://ti.to/home
 ---

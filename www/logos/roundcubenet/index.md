@@ -1,8 +1,8 @@
 ---
-github: roundcube/roundcubemail
+git: https://github.com/roundcube/roundcubemail
 logohandle: roundcubenet
 sort: roundcube
 title: Roundcube
-twitter: roundcube
-website: 'https://roundcube.net/'
+twitter: https://x.com/roundcube
+website: https://roundcube.net/
 ---

@@ -1,7 +1,7 @@
 ---
-github: tapjs/node-tap
+git: https://github.com/tapjs/node-tap
 logohandle: node-tap
 sort: tap
 title: tap
-website: 'https://node-tap.org/'
+website: https://node-tap.org/
 ---

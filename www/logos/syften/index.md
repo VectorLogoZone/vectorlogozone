@@ -1,8 +1,8 @@
 ---
-blog: 'https://syften.com/blog'
+blog: https://syften.com/blog
 logohandle: syften
 sort: syften
 title: Syften
-twitter: syften_com
-website: 'https://syften.com/'
+twitter: https://x.com/syften_com
+website: https://syften.com/
 ---

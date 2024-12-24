@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/compound-finance'
-github: compound-finance/compound-protocol
+blog: https://medium.com/compound-finance
+git: https://github.com/compound-finance/compound-protocol
 logohandle: compoundfinance
 sort: compound
 title: Compound
-twitter: compoundfinance
-website: 'https://compound.finance/'
+twitter: https://x.com/compoundfinance
+website: https://compound.finance/
 ---

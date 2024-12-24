@@ -1,7 +1,7 @@
 ---
-github: mailvelope/mailvelope
+git: https://github.com/mailvelope/mailvelope
 logohandle: mailvelope
 sort: mailvelope
 title: Mailvelope
-website: 'https://www.mailvelope.com/en'
+website: https://www.mailvelope.com/en
 ---

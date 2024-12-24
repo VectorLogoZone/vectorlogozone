@@ -1,8 +1,8 @@
 ---
-facebook: 'http://facebook.com/citaviteam'
+facebook: http://facebook.com/citaviteam
 logohandle: citavi
 sort: citavi
 title: Citavi
-twitter: citavi
-website: 'https://www.citavi.com/en'
+twitter: https://x.com/citavi
+website: https://www.citavi.com/en
 ---

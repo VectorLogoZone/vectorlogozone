@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/ensenta-corporation'
+linkedin: https://linkedin.com/company/ensenta-corporation
 logohandle: ensenta
 sort: ensenta
 title: Ensenta
-twitter: Ensenta
-website: 'https://ensenta.com/'
+twitter: https://x.com/Ensenta
+website: https://ensenta.com/
 ---

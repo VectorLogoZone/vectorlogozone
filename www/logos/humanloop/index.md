@@ -1,9 +1,9 @@
 ---
-github: humanloop
-linkedin: 'https://linkedin.com/company/humanloop'
+git: https://github.com/humanloop
+linkedin: https://linkedin.com/company/humanloop
 logohandle: humanloop
 sort: humanloop
 title: Humanloop
-twitter: humanloop
-website: 'https://humanloop.com/'
+twitter: https://x.com/humanloop
+website: https://humanloop.com/
 ---

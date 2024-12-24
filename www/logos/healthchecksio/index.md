@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.healthchecks.io/'
-github: healthchecks/healthchecks
+blog: https://blog.healthchecks.io/
+git: https://github.com/healthchecks/healthchecks
 logohandle: healthchecksio
 sort: healthchecks
 title: Healthchecks.io
-website: 'https://healthchecks.io/'
+website: https://healthchecks.io/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.js.wiki/'
-github: Requarks/wiki
+blog: https://blog.js.wiki/
+git: https://github.com/Requarks/wiki
 logohandle: jswiki
 sort: wikijs
 title: Wiki.js
-twitter: requarks
-website: 'https://js.wiki/'
+twitter: https://x.com/requarks
+website: https://js.wiki/
 ---

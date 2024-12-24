@@ -1,6 +1,6 @@
 ---
 blog: http://planet.centos.org/
-github: CentOS
+git: https://github.com/CentOS
 guide: https://wiki.centos.org/ArtWork/Brand/Logo
 images:
 - centos-ar21.svg

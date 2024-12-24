@@ -4,7 +4,7 @@ facebook: https://www.facebook.com/siriusxm/
 logohandle: siriusxm
 sort: siriusxm
 title: siriusxm
-twitter: siriusxm
+twitter: https://x.com/siriusxm
 website: https://www.siriusxm.com/
 wikipedia: https://en.wikipedia.org/wiki/Sirius_XM_Holdings
 ---

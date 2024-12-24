@@ -1,9 +1,9 @@
 ---
-blog: 'https://zod.dev/blog/'
-github: colinhacks/zod
+blog: https://zod.dev/blog/
+git: https://github.com/colinhacks/zod
 logohandle: zoddev
 sort: zod
 title: Zod
-twitter: colinhacks
-website: 'https://zod.dev/'
+twitter: https://x.com/colinhacks
+website: https://zod.dev/
 ---

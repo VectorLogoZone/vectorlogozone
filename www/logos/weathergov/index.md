@@ -1,9 +1,9 @@
 ---
-facebook: 'http://facebook.com/nws'
+facebook: http://facebook.com/nws
 logohandle: weathergov
 sort: national weather service
 title: National Weather Service
-twitter: nws
-website: 'https://www.weather.gov/'
-youtube: 'http://youtube.com/usweathergov'
+twitter: https://x.com/nws
+website: https://www.weather.gov/
+youtube: http://youtube.com/usweathergov
 ---

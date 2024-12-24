@@ -2,6 +2,6 @@
 logohandle: unicodebot
 sort: unicodebot
 title: Unicode.Bot
-twitter: UnicodeDotBot
+twitter: https://x.com/UnicodeDotBot
 website: http://www.unicode.bot/
 ---

@@ -1,9 +1,9 @@
 ---
-github: lodash
+git: https://github.com/lodash
 logohandle: lodash
 sort: lodash
 title: Lodash
-twitter: bestiejs
+twitter: https://x.com/bestiejs
 website: https://www.lodash.com/
 wikipedia: https://en.wikipedia.org/wiki/Lodash
 ---

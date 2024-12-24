@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/bankjoy'
+linkedin: https://linkedin.com/company/bankjoy
 logohandle: bankjoy
 sort: bankjoy
 title: BankJoy
-twitter: bankjoy
-website: 'https://bankjoy.com/'
+twitter: https://x.com/bankjoy
+website: https://bankjoy.com/
 ---

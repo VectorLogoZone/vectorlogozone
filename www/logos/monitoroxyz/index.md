@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/TheMonitoro'
+facebook: https://facebook.com/TheMonitoro
 logohandle: monitoroxyz
 sort: monitoro
 title: Monitoro
-twitter: themonitoro
-website: 'https://www.monitoro.xyz/'
+twitter: https://x.com/themonitoro
+website: https://www.monitoro.xyz/
 ---

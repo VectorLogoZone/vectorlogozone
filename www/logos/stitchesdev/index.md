@@ -1,8 +1,8 @@
 ---
-github: modulz/stitches
+git: https://github.com/modulz/stitches
 logohandle: stitchesdev
 sort: stitches
 title: Stitches
-twitter: stitchesjs
-website: 'https://stitches.dev/'
+twitter: https://x.com/stitchesjs
+website: https://stitches.dev/
 ---

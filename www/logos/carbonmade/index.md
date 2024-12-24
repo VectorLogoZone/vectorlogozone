@@ -2,6 +2,6 @@
 logohandle: carbonmade
 sort: carbonmade
 title: Carbonmade
-twitter: carbonmade
-website: 'https://carbonmade.com/'
+twitter: https://x.com/carbonmade
+website: https://carbonmade.com/
 ---

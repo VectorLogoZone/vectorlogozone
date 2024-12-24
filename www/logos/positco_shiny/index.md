@@ -1,7 +1,7 @@
 ---
-github: rstudio/shiny
+git: https://github.com/rstudio/shiny
 logohandle: positco_shiny
 sort: shiny
 title: Shiny
-website: 'https://shiny.posit.co/'
+website: https://shiny.posit.co/
 ---

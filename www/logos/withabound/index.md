@@ -1,9 +1,9 @@
 ---
-blog: 'https://withabound.com/blog'
-linkedin: 'https://linkedin.com/company/withabound'
+blog: https://withabound.com/blog
+linkedin: https://linkedin.com/company/withabound
 logohandle: withabound
 sort: abound
 title: Abound
-twitter: withabound
-website: 'https://www.withabound.com/'
+twitter: https://x.com/withabound
+website: https://www.withabound.com/
 ---

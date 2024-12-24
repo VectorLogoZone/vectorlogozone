@@ -1,9 +1,9 @@
 ---
-blog: 'http://blog.blitline.com/'
-github: blitline-source/blitline
+blog: http://blog.blitline.com/
+git: https://github.com/blitline-source/blitline
 logohandle: blitline
 sort: blitline
 title: Blitline
-twitter: Blitline
-website: 'https://www.blitline.com/v4/home'
+twitter: https://x.com/Blitline
+website: https://www.blitline.com/v4/home
 ---

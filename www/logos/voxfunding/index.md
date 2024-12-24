@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/voxfunding'
-instagram: 'http://instagram.com/'
+facebook: https://facebook.com/voxfunding
+instagram: http://instagram.com/
 logohandle: voxfunding
 sort: voxfunding
 title: VOX Funding
-twitter: voxfunding
-website: 'https://www.voxfunding.com/'
+twitter: https://x.com/voxfunding
+website: https://www.voxfunding.com/
 ---

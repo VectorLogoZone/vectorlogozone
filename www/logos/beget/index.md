@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/LTDBeGet'
-github: LTD-Beget
+facebook: https://facebook.com/LTDBeGet
+git: https://github.com/LTD-Beget
 logohandle: beget
 sort: beget
 title: Beget
-twitter: begetru
-website: 'https://www.beget.com/en'
+twitter: https://x.com/begetru
+website: https://www.beget.com/en
 ---

@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.locationiq.com/'
-github: location-iq
-linkedin: 'https://linkedin.com/company/unwired-labs'
+blog: https://blog.locationiq.com/
+git: https://github.com/location-iq
+linkedin: https://linkedin.com/company/unwired-labs
 logohandle: locationiq
 sort: locationiq
 title: LocationIQ
-twitter: location_iq
-website: 'https://locationiq.com/'
+twitter: https://x.com/location_iq
+website: https://locationiq.com/
 ---

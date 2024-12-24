@@ -1,7 +1,7 @@
 ---
-github: kstenerud/concise-encoding
+git: https://github.com/kstenerud/concise-encoding
 logohandle: concise-encoding
 sort: concise-encoding
 title: Concise Encoding
-website: 'https://concise-encoding.org/'
+website: https://concise-encoding.org/
 ---

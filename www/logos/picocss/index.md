@@ -1,7 +1,7 @@
 ---
-github: picocss/pico
+git: https://github.com/picocss/pico
 logohandle: picocss
 sort: picocss
 title: Pico.css
-website: 'https://picocss.com/'
+website: https://picocss.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: ChaiScript/ChaiScript
+git: https://github.com/ChaiScript/ChaiScript
 logohandle: chaiscript
 sort: chaiscript
 title: ChaiScript
-website: 'http://chaiscript.com/'
+website: http://chaiscript.com/
 ---

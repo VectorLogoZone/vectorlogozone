@@ -1,9 +1,9 @@
 ---
-github: CesiumGS
-linkedin: 'https://linkedin.com/company/cesium-gs'
+git: https://github.com/CesiumGS
+linkedin: https://linkedin.com/company/cesium-gs
 logohandle: cesium
 sort: cesium
 title: Cesium
-twitter: CesiumJS
-website: 'https://cesium.com/'
+twitter: https://x.com/CesiumJS
+website: https://cesium.com/
 ---

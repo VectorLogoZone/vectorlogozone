@@ -1,8 +1,8 @@
 ---
-github: azure/draft
+git: https://github.com/azure/draft
 logohandle: draftsh
 sort: draft
 title: Draft
-twitter: helmpack
-website: 'https://draft.sh/'
+twitter: https://x.com/helmpack
+website: https://draft.sh/
 ---

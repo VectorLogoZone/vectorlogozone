@@ -7,7 +7,7 @@ colors:
 - '#FFB900'
 - '#737373'
 facebook: https://www.facebook.com/Microsoft
-github: Microsoft
+git: https://github.com/Microsoft
 images:
 - microsoft-ar21.svg
 - microsoft-icon.svg
@@ -16,7 +16,7 @@ sort: microsoft
 tags:
 - microsoft
 title: Microsoft
-twitter: microsoft
+twitter: https://x.com/microsoft
 website: https://www.microsoft.com/
 wikipedia: https://en.wikipedia.org/wiki/Microsoft
 ---

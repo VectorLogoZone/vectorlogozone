@@ -2,6 +2,6 @@
 logohandle: juneso
 sort: june
 title: June
-twitter: JuneDotSo
-website: 'https://june.so/'
+twitter: https://x.com/JuneDotSo
+website: https://june.so/
 ---

@@ -1,10 +1,10 @@
 ---
-github: gluufederation
-linkedin: 'http://linkedin.com/company/gluu-inc'
+git: https://github.com/gluufederation
+linkedin: http://linkedin.com/company/gluu-inc
 logohandle: gluu
 sort: gluu
 title: Gluu
-twitter: GluuFederation
-website: 'https://gluu.org/'
-youtube: 'https://youtube.com/user/GluuOrg'
+twitter: https://x.com/GluuFederation
+website: https://gluu.org/
+youtube: https://youtube.com/user/GluuOrg
 ---

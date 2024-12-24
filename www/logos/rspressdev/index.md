@@ -1,7 +1,7 @@
 ---
-github: web-infra-dev/rspress
+git: https://github.com/web-infra-dev/rspress
 logohandle: rspressdev
 sort: rspress
 title: GitHub
-website: 'https://rspress.dev/'
+website: https://rspress.dev/
 ---

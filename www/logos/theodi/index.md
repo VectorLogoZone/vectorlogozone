@@ -1,10 +1,10 @@
 ---
-blog: 'https://theodi.org/knowledge-opinion/blog'
-github: orgs/theodi
+blog: https://theodi.org/knowledge-opinion/blog
+git: https://github.com/orgs/theodi
 logohandle: theodi
 sort: odi
 title: Open Data Institute
-twitter: ODIHQ
-website: 'https://theodi.org/'
-youtube: 'http://youtube.com/user/OpenDataInstituteUK'
+twitter: https://x.com/ODIHQ
+website: https://theodi.org/
+youtube: http://youtube.com/user/OpenDataInstituteUK
 ---

@@ -1,8 +1,8 @@
 ---
-github: kyverno/kyverno
+git: https://github.com/kyverno/kyverno
 logohandle: kyvernoio
 sort: kyverno
 title: Kyverno
-twitter: kyverno
-website: 'https://kyverno.io/'
+twitter: https://x.com/kyverno
+website: https://kyverno.io/
 ---

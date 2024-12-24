@@ -1,8 +1,8 @@
 ---
-github: browserslist/browserslist
+git: https://github.com/browserslist/browserslist
 logohandle: browserslist
 sort: browserslist
 title: Browserslist
-twitter: Browserslist
-website: 'https://browsersl.ist/'
+twitter: https://x.com/Browserslist
+website: https://browsersl.ist/
 ---

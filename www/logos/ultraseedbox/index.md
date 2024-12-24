@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/ultrasbox'
+facebook: https://facebook.com/ultrasbox
 logohandle: ultraseedbox
 sort: ultraseedbox
 title: Ultraseedbox
-twitter: ultraseedbox
-website: 'https://ultraseedbox.com/'
+twitter: https://x.com/ultraseedbox
+website: https://ultraseedbox.com/
 ---

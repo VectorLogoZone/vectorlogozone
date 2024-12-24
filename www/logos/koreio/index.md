@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.kore.io/'
+blog: https://blog.kore.io/
 logohandle: koreio
 sort: kore
 title: Kore
-twitter: sircoma
-website: 'https://kore.io/'
+twitter: https://x.com/sircoma
+website: https://kore.io/
 ---

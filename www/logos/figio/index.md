@@ -1,8 +1,8 @@
 ---
-github: withfig/autocomplete
+git: https://github.com/withfig/autocomplete
 logohandle: figio
 sort: fig
 title: Fig
-twitter: fig
-website: 'https://fig.io/'
+twitter: https://x.com/fig
+website: https://fig.io/
 ---

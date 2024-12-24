@@ -1,8 +1,8 @@
 ---
-github: bhauman/figwheel-main
+git: https://github.com/bhauman/figwheel-main
 logohandle: figwheel
 sort: figwheel
 title: Figwheel
-twitter: bhauman
-website: 'https://figwheel.org/'
+twitter: https://x.com/bhauman
+website: https://figwheel.org/
 ---

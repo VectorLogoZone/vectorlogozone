@@ -1,8 +1,8 @@
 ---
-blog: 'https://hosting.de/blog/'
+blog: https://hosting.de/blog/
 logohandle: hostingde
 sort: hosting
 title: hosting.de
-twitter: hostingde
-website: 'https://www.hosting.de/'
+twitter: https://x.com/hostingde
+website: https://www.hosting.de/
 ---

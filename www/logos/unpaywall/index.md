@@ -1,8 +1,8 @@
 ---
-github: Impactstory
+git: https://github.com/Impactstory
 logohandle: unpaywall
 sort: unpaywall
 title: Unpaywall
-twitter: unpaywall_data
-website: 'http://unpaywall.org/'
+twitter: https://x.com/unpaywall_data
+website: http://unpaywall.org/
 ---

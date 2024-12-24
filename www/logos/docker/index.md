@@ -1,8 +1,9 @@
 ---
 blog: https://blog.docker.com/
-colors: ['#136EA3']
+colors:
+- '#136EA3'
 facebook: https://www.facebook.com/docker.run
-github: docker/docker
+git: https://github.com/docker/docker
 guide: https://www.docker.com/brand-guidelines
 images:
 - docker-official.svg
@@ -14,7 +15,7 @@ sort: docker
 tags:
 - software
 title: Docker
-twitter: docker
+twitter: https://x.com/docker
 website: https://www.docker.com/
 wikipedia: https://en.wikipedia.org/wiki/Docker_(software)
 ---

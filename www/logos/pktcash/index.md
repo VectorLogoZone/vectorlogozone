@@ -1,8 +1,8 @@
 ---
-github: pkt-cash
+git: https://github.com/pkt-cash
 logohandle: pktcash
 sort: pktcash
 title: PKT Cash
-twitter: pkt_cash
-website: 'https://pkt.cash/'
+twitter: https://x.com/pkt_cash
+website: https://pkt.cash/
 ---

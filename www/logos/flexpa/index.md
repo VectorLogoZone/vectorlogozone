@@ -1,9 +1,9 @@
 ---
-github: flexpa
-linkedin: 'https://linkedin.com/company/flexpa'
+git: https://github.com/flexpa
+linkedin: https://linkedin.com/company/flexpa
 logohandle: flexpa
 sort: flexpa
 title: Flexpa
-twitter: flexpa
-website: 'https://www.flexpa.com/'
+twitter: https://x.com/flexpa
+website: https://www.flexpa.com/
 ---

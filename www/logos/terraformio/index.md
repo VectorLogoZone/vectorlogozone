@@ -1,5 +1,5 @@
 ---
-github: hashicorp/terraform
+git: https://github.com/hashicorp/terraform
 guide: https://www.hashicorp.com/brand
 images:
 - terraformio-ar21.svg

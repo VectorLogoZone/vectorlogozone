@@ -1,8 +1,7 @@
 ---
-github: hashicorp/vault
+git: https://github.com/hashicorp/vault
 logohandle: vaultproject
 sort: vaultproject
 title: Vault
-website: 'https://www.vaultproject.io/'
+website: https://www.vaultproject.io/
 ---
-

@@ -5,7 +5,7 @@ font:
   freeurl: http://www.fontspace.com/roger-white/swansea
   myfonts: http://www.myfonts.com/fonts/linotype/helvetica/bold/
   name: Helvetica
-github: haskell-infra/hl
+git: https://github.com/haskell-infra/hl
 images:
 - haskell-ar21.svg
 - haskell-wordmark.svg

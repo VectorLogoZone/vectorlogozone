@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/onehousehq'
+linkedin: https://linkedin.com/company/onehousehq
 logohandle: onehouseai
 sort: onehouse
 title: Onehouse
-twitter: Onehousehq
-website: 'https://www.onehouse.ai/'
+twitter: https://x.com/Onehousehq
+website: https://www.onehouse.ai/
 ---

@@ -4,6 +4,6 @@ linkedin: http://linkedin.com/company/6kites
 logohandle: 6kites
 sort: 6kites
 title: 6kites
-twitter: 6kites
+twitter: https://x.com/6kites
 website: http://www.6kites.com/
 ---

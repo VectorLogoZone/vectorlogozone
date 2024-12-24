@@ -1,7 +1,7 @@
 ---
-github: bufbuild/buf
+git: https://github.com/bufbuild/buf
 logohandle: bufbuild
 sort: buf
 title: Buf
-website: 'https://buf.build/'
+website: https://buf.build/
 ---

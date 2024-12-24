@@ -1,8 +1,8 @@
 ---
-github: fossfox-com/fossfox
+git: https://github.com/fossfox-com/fossfox
 logohandle: fossfox
 sort: fossfox
 title: Fossfox
-twitter: FossfoxTweets
-website: 'https://fossfox.com/'
+twitter: https://x.com/FossfoxTweets
+website: https://fossfox.com/
 ---

@@ -5,7 +5,7 @@ colors:
 - '#F38020'
 - '#404041'
 facebook: https://www.facebook.com/Cloudflare/
-github: cloudflare
+git: https://github.com/cloudflare
 googleplus: https://plus.google.com/+cloudflare
 guide: https://www.cloudflare.com/logo/
 images:
@@ -19,7 +19,7 @@ tags:
 - cdn
 - service
 title: Cloudflare
-twitter: Cloudflare
+twitter: https://x.com/Cloudflare
 website: https://www.cloudflare.com/
 wikipedia: https://en.wikipedia.org/wiki/Cloudflare
 ---

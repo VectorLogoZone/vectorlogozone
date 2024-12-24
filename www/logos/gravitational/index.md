@@ -1,9 +1,9 @@
 ---
-blog: 'https://gravitational.com/blog'
-github: gravitational
+blog: https://gravitational.com/blog
+git: https://github.com/gravitational
 logohandle: gravitational
 sort: gravitational
 title: Gravitational
-twitter: gravitationalco
-website: 'https://gravitational.com/'
+twitter: https://x.com/gravitationalco
+website: https://gravitational.com/
 ---

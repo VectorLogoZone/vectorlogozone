@@ -1,8 +1,8 @@
 ---
-github: kubedb
+git: https://github.com/kubedb
 logohandle: kubedb
 sort: kubedb
 title: KubeDB
-twitter: KubeDB
-website: 'https://kubedb.com/'
+twitter: https://x.com/KubeDB
+website: https://kubedb.com/
 ---

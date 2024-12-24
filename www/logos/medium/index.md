@@ -1,8 +1,9 @@
 ---
 blog: https://medium.com/3minread
-colors: ['#00AB6C']
+colors:
+- '#00AB6C'
 facebook: https://www.facebook.com/medium
-github: medium
+git: https://github.com/medium
 guide: https://medium.design/logos-and-brand-guidelines-f1a01a733592
 images:
 - medium-tile.svg
@@ -13,7 +14,7 @@ sort: medium
 tags:
 - blogging
 title: medium
-twitter: medium
+twitter: https://x.com/medium
 website: https://medium.com/
 wikipedia: https://en.wikipedia.org/wiki/Medium_(website)
 ---

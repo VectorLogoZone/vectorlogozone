@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/chatroll'
+facebook: https://facebook.com/chatroll
 logohandle: chatroll
 sort: chatroll
 title: Chatroll
-twitter: chatroll
-website: 'https://chatroll.com/'
+twitter: https://x.com/chatroll
+website: https://chatroll.com/
 ---

@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.onyxframework.org/'
-github: onyxframework
+blog: https://blog.onyxframework.org/
+git: https://github.com/onyxframework
 logohandle: onyxframework
 sort: onyxframework
 title: Onyx Framework
-website: 'https://onyxframework.org/'
+website: https://onyxframework.org/
 ---

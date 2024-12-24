@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/ERPNext'
-github: frappe/books
+facebook: https://facebook.com/ERPNext
+git: https://github.com/frappe/books
 logohandle: frappebooks
 sort: frappebooks
 title: Frappe Books
-twitter: erpnext
-website: 'https://frappebooks.com/'
+twitter: https://x.com/erpnext
+website: https://frappebooks.com/
 ---

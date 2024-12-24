@@ -1,8 +1,8 @@
 ---
-github: buildpack
+git: https://github.com/buildpack
 logohandle: buildpacksio
 sort: buildpacks
 title: Buildpacks
-twitter: buildpacks_io
-website: 'https://buildpacks.io/'
+twitter: https://x.com/buildpacks_io
+website: https://buildpacks.io/
 ---

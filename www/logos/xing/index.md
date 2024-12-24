@@ -1,6 +1,6 @@
 ---
 blog: https://blog.xing.com/de/startseite/
-github: xing
+git: https://github.com/xing
 guide: https://dev.xing.com/logo_rules
 images:
 - xing-ar21.svg
@@ -12,7 +12,7 @@ tags:
 - simpleshare
 - social_network
 title: xing
-twitter: xing_de
+twitter: https://x.com/xing_de
 website: https://www.xing.com/
 wikipedia: https://en.wikipedia.org/wiki/XING
 ---

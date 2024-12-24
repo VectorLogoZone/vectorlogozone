@@ -1,7 +1,7 @@
 ---
-github: solo-io/sqoop
+git: https://github.com/solo-io/sqoop
 logohandle: soloio_sqoop
 sort: sqoop
 title: Sqoop
-website: 'https://sqoop.solo.io/'
+website: https://sqoop.solo.io/
 ---

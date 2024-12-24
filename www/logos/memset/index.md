@@ -2,6 +2,6 @@
 logohandle: memset
 sort: memset
 title: Memset
-twitter: Memset_Ltd
-website: 'https://www.memset.com/'
+twitter: https://x.com/Memset_Ltd
+website: https://www.memset.com/
 ---

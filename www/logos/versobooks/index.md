@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/VersoBks'
-instagram: 'https://instagram.com/versobooks'
+facebook: https://facebook.com/VersoBks
+instagram: https://instagram.com/versobooks
 logohandle: versobooks
 sort: verso
 title: Verso
-twitter: versobooks
-website: 'https://www.versobooks.com/'
+twitter: https://x.com/versobooks
+website: https://www.versobooks.com/
 ---

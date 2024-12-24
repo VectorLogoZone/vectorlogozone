@@ -1,11 +1,11 @@
 ---
 font:
-  name: Manrope
   google: https://fonts.google.com/specimen/Manrope
-github: phosphor-icons
+  name: Manrope
+git: https://github.com/phosphor-icons
 logohandle: phosphoricons
 sort: phosphoricons
 title: Phosphor Icons
-twitter: _phosphoricons
-website: 'https://phosphoricons.com/'
+twitter: https://x.com/_phosphoricons
+website: https://phosphoricons.com/
 ---

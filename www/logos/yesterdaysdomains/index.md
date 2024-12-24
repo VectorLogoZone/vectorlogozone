@@ -2,6 +2,6 @@
 logohandle: yesterdaysdomains
 sort: yesterdaysdomains
 title: Yesterday's Domains
-twitter: yesterdaysdoms
-website: 'https://yesterdaysdomains.com/'
+twitter: https://x.com/yesterdaysdoms
+website: https://yesterdaysdomains.com/
 ---

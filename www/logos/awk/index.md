@@ -1,5 +1,5 @@
 ---
-github: onetrueawk/awk
+git: https://github.com/onetrueawk/awk
 logohandle: awk
 sort: awk
 tags:

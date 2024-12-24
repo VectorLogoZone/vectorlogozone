@@ -2,6 +2,6 @@
 logohandle: tellerio
 sort: teller
 title: Teller
-twitter: tellerapi
-website: 'https://teller.io/'
+twitter: https://x.com/tellerapi
+website: https://teller.io/
 ---

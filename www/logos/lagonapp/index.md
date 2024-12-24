@@ -1,8 +1,8 @@
 ---
-github: lagonapp/lagon
+git: https://github.com/lagonapp/lagon
 logohandle: lagonapp
 sort: lagon
 title: Lagon
-twitter: lagonapp
-website: 'https://lagon.app/'
+twitter: https://x.com/lagonapp
+website: https://lagon.app/
 ---

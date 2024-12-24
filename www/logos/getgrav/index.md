@@ -1,8 +1,8 @@
 ---
-github: getgrav/grav
+git: https://github.com/getgrav/grav
 logohandle: getgrav
 sort: getgrav
 title: Grav
-twitter: getgrav
+twitter: https://x.com/getgrav
 website: https://getgrav.org/
 ---

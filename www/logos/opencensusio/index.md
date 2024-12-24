@@ -1,8 +1,8 @@
 ---
-github: census-instrumentation
+git: https://github.com/census-instrumentation
 logohandle: opencensusio
 sort: opencensus
 title: OpenCensus
-twitter: opencensusio
-website: 'https://opencensus.io/'
+twitter: https://x.com/opencensusio
+website: https://opencensus.io/
 ---

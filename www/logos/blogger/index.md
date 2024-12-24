@@ -10,7 +10,7 @@ images:
 logohandle: blogger
 sort: blogger
 title: Blogger
-twitter: blogger
+twitter: https://x.com/blogger
 website: https://www.blogger.com/
 wikipedia: https://en.wikipedia.org/wiki/Blogger_(service)
 ---

@@ -1,8 +1,8 @@
 ---
-github: iasql/iasql
+git: https://github.com/iasql/iasql
 logohandle: iasql
 sort: iasql
 title: IASQL
-twitter: iasql
-website: 'https://iasql.com/'
+twitter: https://x.com/iasql
+website: https://iasql.com/
 ---

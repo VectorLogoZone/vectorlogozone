@@ -1,8 +1,8 @@
 ---
-github: microlinkhq
+git: https://github.com/microlinkhq
 logohandle: microlinkio
 sort: microlink
 title: microlink
-twitter: microlinkhq
-website: 'https://microlink.io/'
+twitter: https://x.com/microlinkhq
+website: https://microlink.io/
 ---

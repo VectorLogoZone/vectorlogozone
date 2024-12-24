@@ -1,8 +1,8 @@
 ---
-github: tajo/ladle
+git: https://github.com/tajo/ladle
 logohandle: ladledev
 sort: ladle
 title: Ladle
-twitter: ladlejs
-website: 'https://ladle.dev/'
+twitter: https://x.com/ladlejs
+website: https://ladle.dev/
 ---

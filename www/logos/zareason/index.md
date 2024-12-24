@@ -2,6 +2,6 @@
 logohandle: zareason
 sort: zareason
 title: ZaReason
-twitter: zareason
-website: 'https://zareason.com/'
+twitter: https://x.com/zareason
+website: https://zareason.com/
 ---

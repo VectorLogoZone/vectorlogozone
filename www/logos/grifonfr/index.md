@@ -2,6 +2,6 @@
 logohandle: grifonfr
 sort: grifon
 title: Grifon
-twitter: AssoGrifon
-website: 'https://grifon.fr/'
+twitter: https://x.com/AssoGrifon
+website: https://grifon.fr/
 ---

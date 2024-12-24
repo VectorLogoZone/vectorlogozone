@@ -1,7 +1,7 @@
 ---
-github: neondatabase/neon
+git: https://github.com/neondatabase/neon
 logohandle: neontech
 sort: neon
 title: Neon
-website: 'https://neon.tech/'
+website: https://neon.tech/
 ---

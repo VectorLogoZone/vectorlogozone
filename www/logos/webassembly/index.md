@@ -1,10 +1,11 @@
 ---
-colors: [ "#654ff0" ]
+colors:
+- '#654ff0'
 font:
   github: https://github.com/googlefonts/opensans
   google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans
-github: WebAssembly
+git: https://github.com/WebAssembly
 guide: https://github.com/carlosbaraza/web-assembly-logo
 images:
 - webassembly-icon.svg

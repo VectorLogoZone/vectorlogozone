@@ -2,6 +2,6 @@
 logohandle: craftdo
 sort: craft
 title: Craft
-twitter: craftdocsapp
-website: 'https://www.craft.do/'
+twitter: https://x.com/craftdocsapp
+website: https://www.craft.do/
 ---

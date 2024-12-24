@@ -1,13 +1,13 @@
 ---
-blog: 'https://blog.ballerina.io/'
-github: ballerina-platform
+blog: https://blog.ballerina.io/
+git: https://github.com/ballerina-platform
 logohandle: ballerinaio
 other:
-  - name: StackOverflow
-    url: 'https://stackoverflow.com/questions/tagged/ballerina'
-slack: 'https://ballerina.io/open-source/slack/'
+- name: StackOverflow
+  url: https://stackoverflow.com/questions/tagged/ballerina
+slack: https://ballerina.io/open-source/slack/
 sort: ballerina
 title: Ballerina.io
-twitter: ballerinalang
-website: 'https://ballerina.io/'
+twitter: https://x.com/ballerinalang
+website: https://ballerina.io/
 ---

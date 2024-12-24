@@ -1,12 +1,12 @@
 ---
-blog: 'https://corelight.com/blog'
-facebook: 'https://facebook.com/CorelightInc'
-github: corelight
-linkedin: 'https://linkedin.com/company/corelight'
+blog: https://corelight.com/blog
+facebook: https://facebook.com/CorelightInc
+git: https://github.com/corelight
+linkedin: https://linkedin.com/company/corelight
 logohandle: corelight
 sort: corelight
 title: Corelight
-twitter: corelight_inc
-website: 'https://corelight.com/'
-youtube: 'https://youtube.com/c/CorelightInc'
+twitter: https://x.com/corelight_inc
+website: https://corelight.com/
+youtube: https://youtube.com/c/CorelightInc
 ---

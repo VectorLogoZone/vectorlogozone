@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/argylesystems'
+linkedin: https://linkedin.com/company/argylesystems
 logohandle: argyle
 sort: argyle
 title: Argyle
-twitter: withArgyle
-website: 'https://argyle.com/'
+twitter: https://x.com/withArgyle
+website: https://argyle.com/
 ---

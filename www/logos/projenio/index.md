@@ -1,7 +1,7 @@
 ---
-github: projen/projen
+git: https://github.com/projen/projen
 logohandle: projenio
 sort: projen
 title: Projen
-website: 'https://projen.io/'
+website: https://projen.io/
 ---

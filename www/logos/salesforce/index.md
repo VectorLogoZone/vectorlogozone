@@ -9,7 +9,7 @@ logohandle: salesforce
 pinterest: https://www.pinterest.com/salesforce/
 sort: salesforce
 title: salesforce
-twitter: salesforce
+twitter: https://x.com/salesforce
 website: https://www.salesforce.com/
 wikipedia: https://en.wikipedia.org/wiki/Salesforce.com
 youtube: https://www.youtube.com/user/salesforce

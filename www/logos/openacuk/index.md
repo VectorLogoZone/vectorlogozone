@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/theopenuniversity'
-googleplus: 'https://plus.google.com/+TheOpenUniversity'
+facebook: https://facebook.com/theopenuniversity
+googleplus: https://plus.google.com/+TheOpenUniversity
 logohandle: openacuk
 sort: openuniversity
 title: The Open University
-twitter: OpenUniversity
-website: 'https://www.open.ac.uk/'
-youtube: 'https://youtube.com/user/TheOpenUniversity'
+twitter: https://x.com/OpenUniversity
+website: https://www.open.ac.uk/
+youtube: https://youtube.com/user/TheOpenUniversity
 ---

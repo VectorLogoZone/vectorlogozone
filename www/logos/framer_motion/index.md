@@ -1,7 +1,7 @@
 ---
-github: framer/motion
+git: https://github.com/framer/motion
 logohandle: framer_motion
 sort: framermotion
 title: Framer Motion
-website: 'https://www.framer.com/motion/'
+website: https://www.framer.com/motion/
 ---

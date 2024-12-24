@@ -2,6 +2,6 @@
 logohandle: opengl
 sort: opengl
 title: OpenGL
-twitter: opengl
-website: 'https://opengl.org/'
+twitter: https://x.com/opengl
+website: https://opengl.org/
 ---

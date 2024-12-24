@@ -1,8 +1,7 @@
 ---
-github: broccolijs/broccoli
+git: https://github.com/broccolijs/broccoli
 logohandle: broccolijs
 sort: broccolijs
 title: Broccoli.js
-website: 'http://broccolijs.com/'
+website: http://broccolijs.com/
 ---
-

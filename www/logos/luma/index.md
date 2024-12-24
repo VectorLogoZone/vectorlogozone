@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.lu.ma/'
+blog: https://blog.lu.ma/
 logohandle: luma
 sort: luma
 title: Luma
-twitter: LumaHQ
-website: 'https://lu.ma/'
+twitter: https://x.com/LumaHQ
+website: https://lu.ma/
 ---

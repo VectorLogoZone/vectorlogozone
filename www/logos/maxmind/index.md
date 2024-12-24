@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.maxmind.com/'
-linkedin: 'https://linkedin.com/company/maxmind'
+blog: https://blog.maxmind.com/
+linkedin: https://linkedin.com/company/maxmind
 logohandle: maxmind
 sort: maxmind
 title: MaxMind
-twitter: maxmind
-website: 'https://www.maxmind.com/'
+twitter: https://x.com/maxmind
+website: https://www.maxmind.com/
 ---

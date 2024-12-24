@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/SuperTokenss'
-github: supertokens
-linkedin: 'https://linkedin.com/company/supertokens'
+facebook: https://facebook.com/SuperTokenss
+git: https://github.com/supertokens
+linkedin: https://linkedin.com/company/supertokens
 logohandle: supertokens
 sort: supertokens
 title: SuperTokens
-twitter: supertokensio
-website: 'https://supertokens.com/'
+twitter: https://x.com/supertokensio
+website: https://supertokens.com/
 ---

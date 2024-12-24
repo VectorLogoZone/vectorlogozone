@@ -1,7 +1,7 @@
 ---
-github: microlinkhq/metascraper
+git: https://github.com/microlinkhq/metascraper
 logohandle: metascraperjs
 sort: metascraper
 title: Metascraper
-website: 'https://metascraper.js.org/'
+website: https://metascraper.js.org/
 ---

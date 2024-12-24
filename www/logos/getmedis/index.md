@@ -1,8 +1,8 @@
 ---
-github: luin/medis
+git: https://github.com/luin/medis
 logohandle: getmedis
 sort: medis
 title: Medis
-twitter: medisclient
-website: 'https://getmedis.com/'
+twitter: https://x.com/medisclient
+website: https://getmedis.com/
 ---

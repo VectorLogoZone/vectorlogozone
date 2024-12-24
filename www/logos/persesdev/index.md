@@ -1,8 +1,8 @@
 ---
-github: perses/perses
+git: https://github.com/perses/perses
 logohandle: persesdev
 sort: perses
 title: Perses
-twitter: PersesDev
-website: 'https://perses.dev/'
+twitter: https://x.com/PersesDev
+website: https://perses.dev/
 ---

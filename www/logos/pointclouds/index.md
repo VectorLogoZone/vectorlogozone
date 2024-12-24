@@ -1,8 +1,8 @@
 ---
-github: PointCloudLibrary
+git: https://github.com/PointCloudLibrary
 logohandle: pointclouds
 sort: pointclouds
 title: Point Cloud Library
-twitter: pointclouds
-website: 'https://pointclouds.org/'
+twitter: https://x.com/pointclouds
+website: https://pointclouds.org/
 ---

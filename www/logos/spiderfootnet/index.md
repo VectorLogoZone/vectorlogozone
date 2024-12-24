@@ -1,8 +1,8 @@
 ---
-github: smicallef/spiderfoot
+git: https://github.com/smicallef/spiderfoot
 logohandle: spiderfootnet
 sort: spiderfoot
 title: SpiderFoot
-twitter: spiderfoot
-website: 'https://www.spiderfoot.net/'
+twitter: https://x.com/spiderfoot
+website: https://www.spiderfoot.net/
 ---

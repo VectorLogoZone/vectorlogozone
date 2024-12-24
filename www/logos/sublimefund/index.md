@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/sublimefund'
+facebook: https://facebook.com/sublimefund
 logohandle: sublimefund
 sort: sublimefund
 title: Sublime Fund
-twitter: sublimefund
-website: 'https://sublimefund.org/'
+twitter: https://x.com/sublimefund
+website: https://sublimefund.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: hybridgroup/gobot
+git: https://github.com/hybridgroup/gobot
 logohandle: gobotio
 sort: gobot
 title: Gobot
-twitter: gobotio
-website: 'https://gobot.io/'
+twitter: https://x.com/gobotio
+website: https://gobot.io/
 ---

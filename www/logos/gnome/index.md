@@ -8,7 +8,7 @@ images:
 logohandle: gnome
 sort: gnome
 title: GNOME
-twitter: gnome
+twitter: https://x.com/gnome
 website: https://www.gnome.org/
 wikipedia: https://en.wikipedia.org/wiki/GNOME
 ---

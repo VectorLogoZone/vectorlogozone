@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/Conotext'
+facebook: https://facebook.com/Conotext
 logohandle: conotext
 sort: conotext
 title: Conotext
-twitter: Conotext
-website: 'https://conotext.com/'
+twitter: https://x.com/Conotext
+website: https://conotext.com/
 ---

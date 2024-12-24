@@ -1,10 +1,10 @@
 ---
-blog: 'https://tillitis.se/blog'
-github: tillitis
-linkedin: 'https://linkedin.com/company/tillitis-ab'
+blog: https://tillitis.se/blog
+git: https://github.com/tillitis
+linkedin: https://linkedin.com/company/tillitis-ab
 logohandle: tillitisse
 sort: tillitis
 title: Tillitis
-twitter: TillitisAB
-website: 'https://tillitis.se/'
+twitter: https://x.com/TillitisAB
+website: https://tillitis.se/
 ---

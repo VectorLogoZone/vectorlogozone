@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/tifin'
+linkedin: https://linkedin.com/company/tifin
 logohandle: tifin
 sort: tifin
 title: TIFIN
-twitter: tifinfintech
-website: 'https://tifin.com/'
+twitter: https://x.com/tifinfintech
+website: https://tifin.com/
 ---

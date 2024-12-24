@@ -1,8 +1,8 @@
 ---
-blog: 'https://coralproject.net/blog'
+blog: https://coralproject.net/blog
 logohandle: coralprojectnet
 sort: coralproject
 title: Coral Project
-twitter: coralproject
-website: 'https://coralproject.net/'
+twitter: https://x.com/coralproject
+website: https://coralproject.net/
 ---

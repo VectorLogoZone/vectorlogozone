@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/radai'
+linkedin: https://linkedin.com/company/radai
 logohandle: radai
 sort: radai
 title: Rad AI
-twitter: radai
-website: 'https://www.radai.com/'
+twitter: https://x.com/radai
+website: https://www.radai.com/
 ---

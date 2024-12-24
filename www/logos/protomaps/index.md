@@ -1,9 +1,9 @@
 ---
-blog: 'https://protomaps.com/blog/serverless-self-hosted-maps'
-github: protomaps
+blog: https://protomaps.com/blog/serverless-self-hosted-maps
+git: https://github.com/protomaps
 logohandle: protomaps
 sort: protomaps
 title: ProtoMaps
-twitter: protomaps
-website: 'https://protomaps.com/'
+twitter: https://x.com/protomaps
+website: https://protomaps.com/
 ---

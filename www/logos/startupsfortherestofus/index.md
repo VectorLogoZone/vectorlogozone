@@ -2,6 +2,6 @@
 logohandle: startupsfortherestofus
 sort: startupsfortherestofus
 title: Startups For the Rest of Us
-twitter: startupspod
-website: 'https://www.startupsfortherestofus.com/'
+twitter: https://x.com/startupspod
+website: https://www.startupsfortherestofus.com/
 ---

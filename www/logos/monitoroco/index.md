@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/TheMonitoro'
-linkedin: 'https://linkedin.com/company/monitoro'
+facebook: https://facebook.com/TheMonitoro
+linkedin: https://linkedin.com/company/monitoro
 logohandle: monitoroco
-pinterest: 'https://pinterest.com/themonitoro'
+pinterest: https://pinterest.com/themonitoro
 sort: monitoro
 title: Monitoro
-twitter: themonitoro
-website: 'https://monitoro.co/'
-youtube: 'https://youtube.com/@monitoro'
+twitter: https://x.com/themonitoro
+website: https://monitoro.co/
+youtube: https://youtube.com/@monitoro
 ---

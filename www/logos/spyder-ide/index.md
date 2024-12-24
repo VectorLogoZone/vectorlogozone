@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/SpyderIDE'
-github: spyder-ide/spyder
+facebook: https://facebook.com/SpyderIDE
+git: https://github.com/spyder-ide/spyder
 logohandle: spyder-ide
 sort: spyder-ide
 title: Spyder
-twitter: spyder_ide
-website: 'https://www.spyder-ide.org/'
-wikipedia: 'https://en.wikipedia.org/wiki/Spyder_(software)'
+twitter: https://x.com/spyder_ide
+website: https://www.spyder-ide.org/
+wikipedia: https://en.wikipedia.org/wiki/Spyder_(software)
 ---

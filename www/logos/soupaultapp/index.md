@@ -1,7 +1,7 @@
 ---
-github: dmbaturin/soupault-website
+git: https://github.com/dmbaturin/soupault-website
 logohandle: soupaultapp
 sort: soupault
 title: soupault
-website: 'https://soupault.app/'
+website: https://soupault.app/
 ---

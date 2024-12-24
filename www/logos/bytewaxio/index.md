@@ -1,9 +1,9 @@
 ---
-github: bytewax
-linkedin: 'https://linkedin.com/company/bytewax'
+git: https://github.com/bytewax
+linkedin: https://linkedin.com/company/bytewax
 logohandle: bytewaxio
 sort: bytewax
 title: bytewax
-twitter: bytewax
-website: 'https://bytewax.io/'
+twitter: https://x.com/bytewax
+website: https://bytewax.io/
 ---

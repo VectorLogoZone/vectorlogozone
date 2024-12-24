@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/rapids-ai'
-github: rapidsai
+blog: https://medium.com/rapids-ai
+git: https://github.com/rapidsai
 logohandle: rapidsai
 sort: rapids
 title: RAPIDS
-twitter: rapidsai
-website: 'https://rapids.ai/'
+twitter: https://x.com/rapidsai
+website: https://rapids.ai/
 ---

@@ -1,8 +1,8 @@
 ---
-github: aspen-cloud/triplit
+git: https://github.com/aspen-cloud/triplit
 logohandle: triplitdev
 sort: triplit
 title: Triplit
-twitter: triplit_dev
-website: 'https://www.triplit.dev/'
+twitter: https://x.com/triplit_dev
+website: https://www.triplit.dev/
 ---

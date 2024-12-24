@@ -1,7 +1,7 @@
 ---
-github: tobymao/sqlglot
+git: https://github.com/tobymao/sqlglot
 logohandle: sqlglot
 sort: sqlglot
 title: sqlglot
-website: 'https://sqlglot.com/'
+website: https://sqlglot.com/
 ---

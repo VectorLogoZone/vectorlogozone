@@ -1,8 +1,8 @@
 ---
-github: bottlesdevs
+git: https://github.com/bottlesdevs
 logohandle: usebottles
 sort: bottles
 title: Bottles
-twitter: usebottles
-website: 'https://usebottles.com/'
+twitter: https://x.com/usebottles
+website: https://usebottles.com/
 ---

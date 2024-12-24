@@ -1,7 +1,7 @@
 ---
-github: linkerd/linkerd2
+git: https://github.com/linkerd/linkerd2
 logohandle: conduitio
 sort: conduit
 title: Conduit
-website: 'https://conduit.io/'
+website: https://conduit.io/
 ---

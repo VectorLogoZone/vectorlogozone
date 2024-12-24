@@ -1,7 +1,7 @@
 ---
-github: gofiber/fiber
+git: https://github.com/gofiber/fiber
 logohandle: fiberwiki
 sort: fiber
 title: Fiber
-website: 'https://fiber.wiki/'
+website: https://fiber.wiki/
 ---

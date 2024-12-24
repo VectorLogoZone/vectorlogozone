@@ -1,8 +1,8 @@
 ---
-github: caryll
-guide: 'https://github.com/caryll/design'
+git: https://github.com/caryll
+guide: https://github.com/caryll/design
 logohandle: caryll
 sort: caryll
 title: Caryll
-website: 'https://github.com/caryll'
+website: https://github.com/caryll
 ---

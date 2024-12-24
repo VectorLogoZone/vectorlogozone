@@ -1,6 +1,6 @@
 ---
 facebook: https://www.facebook.com/fitbit
-github: fitbit
+git: https://github.com/fitbit
 guide: https://brandisty.com/fitbit
 images:
 - fitbit-icon.svg
@@ -8,7 +8,7 @@ images:
 logohandle: fitbit
 sort: fitbit
 title: Fitbit
-twitter: fitbit
+twitter: https://x.com/fitbit
 website: https://www.fitbit.com/
 wikipedia: https://en.wikipedia.org/wiki/Fitbit
 ---

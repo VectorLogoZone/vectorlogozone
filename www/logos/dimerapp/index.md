@@ -2,6 +2,6 @@
 logohandle: dimerapp
 sort: dimer
 title: Dimer
-twitter: dimerapp
-website: 'https://dimerapp.com/'
+twitter: https://x.com/dimerapp
+website: https://dimerapp.com/
 ---

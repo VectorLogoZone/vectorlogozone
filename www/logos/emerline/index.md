@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/emerlinedev'
-instagram: 'https://instagram.com/emerline.global'
-linkedin: 'https://linkedin.com/company/emerline'
+facebook: https://facebook.com/emerlinedev
+instagram: https://instagram.com/emerline.global
+linkedin: https://linkedin.com/company/emerline
 logohandle: emerline
 sort: emerline
 title: Emerline
-twitter: EmerlineDev
-website: 'https://emerline.com/'
+twitter: https://x.com/EmerlineDev
+website: https://emerline.com/
 ---

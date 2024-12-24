@@ -1,8 +1,8 @@
 ---
-github: regolith-linux
+git: https://github.com/regolith-linux
 logohandle: regolith-linux
 sort: regolith-linux
 title: Regolith
-twitter: RegolithL
-website: 'https://regolith-linux.org/'
+twitter: https://x.com/RegolithL
+website: https://regolith-linux.org/
 ---

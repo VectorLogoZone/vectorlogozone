@@ -7,7 +7,7 @@ linkedin: http://linkedin.com/company/workato
 logohandle: workato
 sort: workato
 title: Workato
-twitter: workato
+twitter: https://x.com/workato
 website: https://www.workato.com/
 wikipedia: https://en.wikipedia.org/wiki/Workato
 ---

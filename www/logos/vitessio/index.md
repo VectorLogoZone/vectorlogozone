@@ -1,12 +1,12 @@
 ---
-blog: 'http://blog.vitess.io/'
-github: vitessio/vitess
+blog: http://blog.vitess.io/
+git: https://github.com/vitessio/vitess
 logohandle: vitessio
 other:
-  - name: StackOverflow
-    url: 'https://stackoverflow.com/search?tab=newest&q=vitess'
+- name: StackOverflow
+  url: https://stackoverflow.com/search?tab=newest&q=vitess
 sort: vitess
 title: Vitess
-twitter: vitessio
-website: 'https://vitess.io/'
+twitter: https://x.com/vitessio
+website: https://vitess.io/
 ---

@@ -1,8 +1,8 @@
 ---
-github: editorconfig
+git: https://github.com/editorconfig
 logohandle: editorconfig
 sort: editorconfig
 title: EditorConfig
-twitter: EditorConfig
-website: 'https://editorconfig.org/'
+twitter: https://x.com/EditorConfig
+website: https://editorconfig.org/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/@valyala'
-github: VictoriaMetrics/VictoriaMetrics
+blog: https://medium.com/@valyala
+git: https://github.com/VictoriaMetrics/VictoriaMetrics
 logohandle: victoriametrics
 sort: victoriametrics
 title: VictoriaMetrics
-twitter: MetricsVictoria
-website: 'https://victoriametrics.com/'
+twitter: https://x.com/MetricsVictoria
+website: https://victoriametrics.com/
 ---

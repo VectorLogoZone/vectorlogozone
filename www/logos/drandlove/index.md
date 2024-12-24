@@ -1,7 +1,7 @@
 ---
-github: drand/drand
+git: https://github.com/drand/drand
 logohandle: drandlove
 sort: drand
 title: Drand
-website: 'https://drand.love/'
+website: https://drand.love/
 ---

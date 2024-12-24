@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.railway.com/'
-github: railwayapp
+blog: https://blog.railway.com/
+git: https://github.com/railwayapp
 logohandle: railway
 sort: railway
 title: Railway
-twitter: Railway
-website: 'https://railway.com/'
+twitter: https://x.com/Railway
+website: https://railway.com/
 ---

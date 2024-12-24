@@ -9,7 +9,7 @@ linkedin: https://linkedin.com/company/plex-inc
 logohandle: plextv
 sort: plex
 title: Plex
-twitter: plex
+twitter: https://x.com/plex
 website: https://www.plex.tv/
 wikipedia: https://en.wikipedia.org/wiki/Plex_(software)
 youtube: https://youtube.com/user/plextvapp

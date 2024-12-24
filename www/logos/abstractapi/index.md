@@ -1,6 +1,6 @@
 ---
-facebook: 'https://facebook.com/abstractapi'
-linkedin: 'https://linkedin.com/company/abstractapi'
+facebook: https://facebook.com/abstractapi
+linkedin: https://linkedin.com/company/abstractapi
 logohandle: abstractapi
 sort: abstractapi
 tags:
@@ -9,6 +9,6 @@ tags:
 - geolocation
 - research
 title: Abstract API
-twitter: abstractapi
-website: 'https://www.abstractapi.com/'
+twitter: https://x.com/abstractapi
+website: https://www.abstractapi.com/
 ---

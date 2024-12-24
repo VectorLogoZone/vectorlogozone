@@ -13,7 +13,7 @@ sort: libreoffice
 tags:
 - software
 title: LibreOffice
-twitter: libreoffice
+twitter: https://x.com/libreoffice
 website: http://www.libreoffice.org/
 wikipedia: https://en.wikipedia.org/wiki/LibreOffice
 ---

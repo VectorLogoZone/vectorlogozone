@@ -2,6 +2,6 @@
 logohandle: arqbackup
 sort: arqbackup
 title: Arq
-twitter: arqbackup
-website: 'https://www.arqbackup.com/'
+twitter: https://x.com/arqbackup
+website: https://www.arqbackup.com/
 ---

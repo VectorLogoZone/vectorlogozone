@@ -1,8 +1,8 @@
 ---
-github: HostedHooks
+git: https://github.com/HostedHooks
 logohandle: hostedhooks
 sort: hostedhooks
 title: HostedHooks
-twitter: hostedhooks
-website: 'https://www.hostedhooks.com/'
+twitter: https://x.com/hostedhooks
+website: https://www.hostedhooks.com/
 ---

@@ -1,8 +1,8 @@
 ---
-blog: 'https://porter.sh/blog'
-github: getporter/porter
+blog: https://porter.sh/blog
+git: https://github.com/getporter/porter
 logohandle: portersh
 sort: porter
 title: Porter
-website: 'https://porter.sh/'
+website: https://porter.sh/
 ---

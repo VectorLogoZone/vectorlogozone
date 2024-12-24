@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/carters'
-instagram: 'https://instagram.com/carters'
+facebook: https://facebook.com/carters
+instagram: https://instagram.com/carters
 logohandle: carters
-pinterest: 'https://pinterest.com/cartersbabykids'
+pinterest: https://pinterest.com/cartersbabykids
 sort: carters
 title: Carter's
-twitter: carters
-website: 'https://www.carters.com/'
-youtube: 'https://youtube.com/user/cartersbabiesandkids'
+twitter: https://x.com/carters
+website: https://www.carters.com/
+youtube: https://youtube.com/user/cartersbabiesandkids
 ---

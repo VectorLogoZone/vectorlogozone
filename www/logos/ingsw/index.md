@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/ingenious'
-github: ingsw-dev
+blog: https://medium.com/ingenious
+git: https://github.com/ingsw-dev
 logohandle: ingsw
 sort: ingenious
 title: Ingenious
-twitter: ingsoftworks
-website: 'https://www.ingsw.com/'
+twitter: https://x.com/ingsoftworks
+website: https://www.ingsw.com/
 ---

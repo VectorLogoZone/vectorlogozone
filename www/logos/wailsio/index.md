@@ -1,8 +1,8 @@
 ---
-github: wailsapp/wails
+git: https://github.com/wailsapp/wails
 logohandle: wailsio
 sort: wails
 title: Wails
-twitter: wailsapp
-website: 'https://wails.io/'
+twitter: https://x.com/wailsapp
+website: https://wails.io/
 ---

@@ -5,7 +5,7 @@ colors:
 - '#B2215A'
 dribbble: dribbble
 facebook: https://www.facebook.com/dribbble
-github: dribbble
+git: https://github.com/dribbble
 guide: https://dribbble.com/branding
 images:
 - dribbble-icon.svg
@@ -15,7 +15,7 @@ linkedin: https://www.linkedin.com/company/dribbble/
 logohandle: dribbble
 sort: dribbble
 title: Dribbble
-twitter: dribbble
+twitter: https://x.com/dribbble
 website: https://dribbble.com/
 wikipedia: https://en.wikipedia.org/wiki/Dribbble
 ---

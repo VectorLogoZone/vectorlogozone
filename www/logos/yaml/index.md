@@ -1,5 +1,5 @@
 ---
-github: yaml
+git: https://github.com/yaml
 images:
 - yaml-icon.svg
 - yaml-ar21.svg

@@ -1,9 +1,9 @@
 ---
-blog: 'https://proscia.com/blog'
-linkedin: 'https://linkedin.com/company/proscia'
+blog: https://proscia.com/blog
+linkedin: https://linkedin.com/company/proscia
 logohandle: proscia
 sort: proscia
 title: Proscia
-twitter: Proscia
-website: 'https://proscia.com/'
+twitter: https://x.com/Proscia
+website: https://proscia.com/
 ---

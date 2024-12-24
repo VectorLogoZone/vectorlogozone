@@ -2,6 +2,6 @@
 logohandle: panelbear
 sort: panelbear
 title: Panelbear
-twitter: PanelbearHQ
-website: 'https://panelbear.com/'
+twitter: https://x.com/PanelbearHQ
+website: https://panelbear.com/
 ---

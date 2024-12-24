@@ -1,8 +1,8 @@
 ---
-github: orangeduck/Cello
+git: https://github.com/orangeduck/Cello
 logohandle: libcello
 sort: libcello
 title: Cello
-twitter: anorangeduck
-website: 'http://libcello.org/'
+twitter: https://x.com/anorangeduck
+website: http://libcello.org/
 ---

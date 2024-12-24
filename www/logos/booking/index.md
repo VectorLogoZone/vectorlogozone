@@ -8,7 +8,7 @@ linkedin: http://nl.linkedin.com/company/booking.com
 logohandle: booking
 sort: booking.com
 title: booking.com
-twitter: bookingcom
+twitter: https://x.com/bookingcom
 website: https://www.booking.com/
 wikipedia: https://en.wikipedia.org/wiki/Booking.com
 ---

@@ -1,8 +1,8 @@
 ---
-github: node-red
+git: https://github.com/node-red
 logohandle: nodered
 sort: nodered
 title: Node-RED
-twitter: nodered
-website: 'https://nodered.org/'
+twitter: https://x.com/nodered
+website: https://nodered.org/
 ---

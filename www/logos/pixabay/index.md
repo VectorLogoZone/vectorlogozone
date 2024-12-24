@@ -9,7 +9,7 @@ instagram: https://www.instagram.com/pixabay/
 logohandle: pixabay
 sort: pixabay
 title: Pixabay
-twitter: pixabay
+twitter: https://x.com/pixabay
 website: https://pixabay.com/
 wikipedia: https://en.wikipedia.org/wiki/Pixabay
 ---

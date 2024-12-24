@@ -1,8 +1,8 @@
 ---
-github: skeema
+git: https://github.com/skeema
 logohandle: skeemaio
 sort: skeema
 title: Skeema.io
-twitter: skeema_io
-website: 'https://www.skeema.io/'
+twitter: https://x.com/skeema_io
+website: https://www.skeema.io/
 ---

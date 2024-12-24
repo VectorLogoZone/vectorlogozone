@@ -1,8 +1,8 @@
 ---
-github: fluent/fluent-bit
+git: https://github.com/fluent/fluent-bit
 logohandle: fluentbitio
 sort: fluentbit
 title: Fluent Bit
-twitter: fluentbit
-website: 'https://fluentbit.io/'
+twitter: https://x.com/fluentbit
+website: https://fluentbit.io/
 ---

@@ -1,7 +1,7 @@
 ---
-github: microg
+git: https://github.com/microg
 logohandle: microg
 sort: microg
 title: microG
-website: 'https://microg.org/'
+website: https://microg.org/
 ---

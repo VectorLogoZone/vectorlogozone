@@ -1,10 +1,10 @@
 ---
-facebook: 'http://facebook.com/SmartyStreetsInfo'
-github: smartystreets
-linkedin: 'http://linkedin.com/company/smartystreets'
+facebook: http://facebook.com/SmartyStreetsInfo
+git: https://github.com/smartystreets
+linkedin: http://linkedin.com/company/smartystreets
 logohandle: smartystreets
 sort: smartystreets
 title: SmartyStreets
-twitter: smartystreets
-website: 'https://smartystreets.com/'
+twitter: https://x.com/smartystreets
+website: https://smartystreets.com/
 ---

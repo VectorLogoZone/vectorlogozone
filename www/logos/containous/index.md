@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.containo.us/'
-github: containous
-linkedin: 'https://linkedin.com/company/containous'
+blog: https://blog.containo.us/
+git: https://github.com/containous
+linkedin: https://linkedin.com/company/containous
 logohandle: containous
 sort: containo
 title: Containous
-twitter: containous
-website: 'https://containo.us/'
+twitter: https://x.com/containous
+website: https://containo.us/
 ---

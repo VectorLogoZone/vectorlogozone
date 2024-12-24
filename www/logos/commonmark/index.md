@@ -1,5 +1,5 @@
 ---
-github: commonmark
+git: https://github.com/commonmark
 guide: https://github.com/dcurtis/markdown-mark
 images:
 - commonmark-icon.svg

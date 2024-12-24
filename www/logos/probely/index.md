@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.probely.com/'
-facebook: 'https://facebook.com/probely'
-github: probely
+blog: https://blog.probely.com/
+facebook: https://facebook.com/probely
+git: https://github.com/probely
 logohandle: probely
 sort: probely
 title: Probely
-twitter: probely
-website: 'https://probely.com/'
+twitter: https://x.com/probely
+website: https://probely.com/
 ---

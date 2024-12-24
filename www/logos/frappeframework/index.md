@@ -1,7 +1,7 @@
 ---
-github: frappe/frappe
+git: https://github.com/frappe/frappe
 logohandle: frappeframework
 sort: frappeframework
 title: Frappe Framework
-website: 'https://frappeframework.com/'
+website: https://frappeframework.com/
 ---

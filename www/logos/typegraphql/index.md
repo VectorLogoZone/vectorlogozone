@@ -1,9 +1,9 @@
 ---
-blog: 'https://typegraphql.com/blog/'
-github: MichalLytek/type-graphql
+blog: https://typegraphql.com/blog/
+git: https://github.com/MichalLytek/type-graphql
 logohandle: typegraphql
 sort: typegraphql
 title: TypeGraphQL
-twitter: typegraphql
-website: 'https://typegraphql.com/'
+twitter: https://x.com/typegraphql
+website: https://typegraphql.com/
 ---

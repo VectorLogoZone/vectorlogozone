@@ -2,6 +2,6 @@
 logohandle: stencila
 sort: stencila
 title: Stencila
-twitter: stencila
-website: 'https://stenci.la/'
+twitter: https://x.com/stencila
+website: https://stenci.la/
 ---

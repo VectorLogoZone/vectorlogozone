@@ -1,11 +1,11 @@
 ---
-blog: 'https://robocorp.com/blog/'
-github: robocorp
-linkedin: 'https://linkedin.com/company/robocorp'
+blog: https://robocorp.com/blog/
+git: https://github.com/robocorp
+linkedin: https://linkedin.com/company/robocorp
 logohandle: robocorp
 sort: robocorp
 title: Robocorp
-twitter: RobocorpInc
-website: 'https://robocorp.com/'
-youtube: 'https://youtube.com/robocorp'
+twitter: https://x.com/RobocorpInc
+website: https://robocorp.com/
+youtube: https://youtube.com/robocorp
 ---

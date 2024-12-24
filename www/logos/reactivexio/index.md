@@ -1,8 +1,8 @@
 ---
-github: ReactiveX
+git: https://github.com/ReactiveX
 logohandle: reactivexio
 sort: reactivex
 title: ReactiveX
-twitter: ReactiveX
-website: 'http://reactivex.io/'
+twitter: https://x.com/ReactiveX
+website: http://reactivex.io/
 ---

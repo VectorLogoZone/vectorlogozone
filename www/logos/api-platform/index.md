@@ -1,8 +1,8 @@
 ---
-github: api-platform/api-platform
+git: https://github.com/api-platform/api-platform
 logohandle: api-platform
 sort: api-platform
 title: API Platform
-twitter: ApiPlatform
-website: 'https://api-platform.com/'
+twitter: https://x.com/ApiPlatform
+website: https://api-platform.com/
 ---

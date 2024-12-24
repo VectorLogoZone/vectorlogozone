@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.zulip.com/'
-github: zulip/zulip
+blog: https://blog.zulip.com/
+git: https://github.com/zulip/zulip
 logohandle: zulip
 sort: zulip
 title: Zulip
-twitter: zulip
-website: 'https://zulip.com/'
+twitter: https://x.com/zulip
+website: https://zulip.com/
 ---

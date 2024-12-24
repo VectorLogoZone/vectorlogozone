@@ -1,10 +1,10 @@
 ---
-blog: 'https://medium.com/tiledb'
-github: TileDB-Inc/TileDB
-linkedin: 'https://linkedin.com/company/tiledb-inc'
+blog: https://medium.com/tiledb
+git: https://github.com/TileDB-Inc/TileDB
+linkedin: https://linkedin.com/company/tiledb-inc
 logohandle: tiledb
 sort: tiledb
 title: TileDB
-twitter: tiledb
-website: 'https://tiledb.com/'
+twitter: https://x.com/tiledb
+website: https://tiledb.com/
 ---

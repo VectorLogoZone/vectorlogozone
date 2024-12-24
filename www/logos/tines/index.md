@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/tines-io'
+linkedin: https://linkedin.com/company/tines-io
 logohandle: tines
 sort: tines
 title: Tines
-twitter: tines_io
-website: 'https://www.tines.com/'
+twitter: https://x.com/tines_io
+website: https://www.tines.com/
 ---

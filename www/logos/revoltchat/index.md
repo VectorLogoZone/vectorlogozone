@@ -1,8 +1,8 @@
 ---
-github: revoltchat
+git: https://github.com/revoltchat
 logohandle: revoltchat
 sort: revoltchat
 title: Revolt Chat
-twitter: revoltchat
-website: 'https://revolt.chat/'
+twitter: https://x.com/revoltchat
+website: https://revolt.chat/
 ---

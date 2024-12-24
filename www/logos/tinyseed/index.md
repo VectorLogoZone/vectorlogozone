@@ -1,8 +1,8 @@
 ---
-linkedin: 'http://linkedin.com/company/tinyseed'
+linkedin: http://linkedin.com/company/tinyseed
 logohandle: tinyseed
 sort: tinyseed
 title: TinySeed
-twitter: tinyseedfund
-website: 'https://tinyseed.com/'
+twitter: https://x.com/tinyseedfund
+website: https://tinyseed.com/
 ---

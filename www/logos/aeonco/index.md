@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/AeonMagazine'
-instagram: 'https://instagram.com/aeonmag'
+facebook: https://facebook.com/AeonMagazine
+instagram: https://instagram.com/aeonmag
 logohandle: aeonco
 sort: aeon
 title: Aeon
-twitter: aeonmag
-website: 'https://aeon.co/'
+twitter: https://x.com/aeonmag
+website: https://aeon.co/
 ---

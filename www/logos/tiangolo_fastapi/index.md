@@ -1,10 +1,10 @@
 ---
-blog: 'https://medium.com/@tiangolo'
-github: tiangolo/fastapi
-linkedin: 'https://linkedin.com/in/tiangolo'
+blog: https://medium.com/@tiangolo
+git: https://github.com/tiangolo/fastapi
+linkedin: https://linkedin.com/in/tiangolo
 logohandle: tiangolo_fastapi
 sort: fastapi
 title: FastAPI
-twitter: tiangolo
-website: 'https://fastapi.tiangolo.com/'
+twitter: https://x.com/tiangolo
+website: https://fastapi.tiangolo.com/
 ---

@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/weloveglowee'
-instagram: 'https://instagram.com/weloveglowee'
+facebook: https://facebook.com/weloveglowee
+instagram: https://instagram.com/weloveglowee
 logohandle: glowee
 sort: glowee
 title: Glowee
-twitter: weloveglowee
-website: 'https://www.glowee.com/'
+twitter: https://x.com/weloveglowee
+website: https://www.glowee.com/
 ---

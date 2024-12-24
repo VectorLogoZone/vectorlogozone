@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.fishtownanalytics.com/'
+blog: https://blog.fishtownanalytics.com/
 logohandle: fishtownanalytics
 sort: fishtownanalytics
 title: Fishtown Analytics
-twitter: fishtowndata
-website: 'https://www.fishtownanalytics.com/'
+twitter: https://x.com/fishtowndata
+website: https://www.fishtownanalytics.com/
 ---

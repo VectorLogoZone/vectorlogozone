@@ -1,8 +1,8 @@
 ---
-github: CapRover/CapRover
+git: https://github.com/CapRover/CapRover
 logohandle: caprover
 sort: caprover
 title: CapRover
-twitter: cap_rover
-website: 'https://caprover.com/'
+twitter: https://x.com/cap_rover
+website: https://caprover.com/
 ---

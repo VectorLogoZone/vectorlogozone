@@ -1,8 +1,8 @@
 ---
-github: pyscript/pyscript
+git: https://github.com/pyscript/pyscript
 logohandle: pyscriptnet
 sort: pyscript
 title: PyScript
-twitter: pyscript_dev
-website: 'https://pyscript.net/'
+twitter: https://x.com/pyscript_dev
+website: https://pyscript.net/
 ---

@@ -1,8 +1,8 @@
 ---
-github: coredns
+git: https://github.com/coredns
 logohandle: corednsio
 sort: coredns
 title: cordns
-twitter: corednsio
-website: 'https://coredns.io/'
+twitter: https://x.com/corednsio
+website: https://coredns.io/
 ---

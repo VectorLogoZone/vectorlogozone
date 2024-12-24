@@ -5,14 +5,14 @@ font:
   myfonts: null
   name: Printed Circuit Board
   url: https://www.dafont.com/printed-circuit-board.font
-github: hp-hq
+git: https://github.com/hp-hq
 images:
 - hp-icon.svg
 - hp-ar21.svg
 logohandle: hp
 sort: hp
 title: Hewlett Packard
-twitter: HP
+twitter: https://x.com/HP
 website: https://www.hp.com/
 wikipedia: https://en.wikipedia.org/wiki/Hewlett-Packard
 ---

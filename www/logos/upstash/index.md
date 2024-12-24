@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.upstash.com/'
+blog: https://blog.upstash.com/
 logohandle: upstash
 sort: upstash
 title: Upstash
-twitter: upstash
-website: 'https://upstash.com/'
+twitter: https://x.com/upstash
+website: https://upstash.com/
 ---

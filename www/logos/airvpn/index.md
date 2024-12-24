@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/airvpn.org'
-github: AirVPN
+facebook: https://facebook.com/airvpn.org
+git: https://github.com/AirVPN
 logohandle: airvpn
 sort: airvpn
 title: AirVPN
-twitter: airvpn
-website: 'https://airvpn.org/'
+twitter: https://x.com/airvpn
+website: https://airvpn.org/
 ---

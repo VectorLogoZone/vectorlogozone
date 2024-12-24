@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.litestar.dev/'
-github: litestar-org/litestar
+blog: https://blog.litestar.dev/
+git: https://github.com/litestar-org/litestar
 logohandle: litestardev
 sort: litestar
 title: Litestar
-twitter: LitestarAPI
-website: 'https://litestar.dev/'
+twitter: https://x.com/LitestarAPI
+website: https://litestar.dev/
 ---

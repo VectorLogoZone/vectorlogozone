@@ -4,7 +4,7 @@ facebook: https://www.facebook.com/adobe
 font:
   name: Myriad Condensed Bold
   url: http://www.myfonts.com/fonts/adobe/myriad/
-github: adobe
+git: https://github.com/adobe
 guide: https://www.adobe.com/content/dam/acom/en/legal/documents/Adobe_Trademark_Guidelines_11012014.pdf
 images:
 - adobe-ar21.svg
@@ -17,7 +17,7 @@ tags:
 - software
 - fonts
 title: Adobe
-twitter: Adobe
+twitter: https://x.com/Adobe
 website: https://www.adobe.com/
 wikipedia: https://en.wikipedia.org/wiki/Adobe_Systems
 ---

@@ -1,7 +1,7 @@
 ---
-github: zuixjs/zuix
+git: https://github.com/zuixjs/zuix
 logohandle: zuixjs
 sort: zuixjs
 title: zUIx.js
-website: 'https://zuixjs.org/'
+website: https://zuixjs.org/
 ---

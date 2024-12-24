@@ -16,7 +16,7 @@ tags:
 - java
 - programming_language
 title: Java
-twitter: java
+twitter: https://x.com/java
 website: https://www.java.com/
 wikipedia: https://en.wikipedia.org/wiki/Java_(programming_language)
 youtube: https://www.youtube.com/java

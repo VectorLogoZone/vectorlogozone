@@ -1,8 +1,8 @@
 ---
-blog: 'https://versionxl.com/blog'
+blog: https://versionxl.com/blog
 logohandle: versionxl
 sort: versionxl
 title: VersionXL
-twitter: VersionXL
-website: 'https://www.versionxl.com/'
+twitter: https://x.com/VersionXL
+website: https://www.versionxl.com/
 ---

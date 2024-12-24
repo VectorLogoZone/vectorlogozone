@@ -3,7 +3,7 @@ font:
   google: https://fonts.google.com/specimen/Lato
   name: Lato Heavy
   url: http://www.latofonts.com/lato-free-fonts/
-github: fileformat/simpleshare
+git: https://github.com/fileformat/simpleshare
 images:
 - simplesharedev-ar21.svg
 - simplesharedev-icon.svg

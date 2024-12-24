@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.begin.com/'
-github: smallwins
+blog: https://blog.begin.com/
+git: https://github.com/smallwins
 logohandle: begin
 sort: begin
 title: Begin
-twitter: begin
-website: 'https://begin.com/'
+twitter: https://x.com/begin
+website: https://begin.com/
 ---

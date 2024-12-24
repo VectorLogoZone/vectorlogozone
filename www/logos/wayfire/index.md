@@ -1,7 +1,7 @@
 ---
-github: WayfireWM/wayfire
+git: https://github.com/WayfireWM/wayfire
 logohandle: wayfire
 sort: wayfire
 title: Wayfire
-website: 'https://wayfire.org/'
+website: https://wayfire.org/
 ---

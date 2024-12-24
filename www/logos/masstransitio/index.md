@@ -1,8 +1,8 @@
 ---
-github: MassTransit/MassTransit
+git: https://github.com/MassTransit/MassTransit
 logohandle: masstransitio
 sort: masstransit
 title: MassTransit
-twitter: mtproj
-website: 'https://masstransit.io/'
+twitter: https://x.com/mtproj
+website: https://masstransit.io/
 ---

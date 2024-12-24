@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/Vultr'
+facebook: https://facebook.com/Vultr
 logohandle: vultr
 sort: vultr
 title: Vultr
-twitter: vultr
-website: 'https://www.vultr.com/'
+twitter: https://x.com/vultr
+website: https://www.vultr.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: DefinitelyTyped/DefinitelyTyped
+git: https://github.com/DefinitelyTyped/DefinitelyTyped
 logohandle: definitelytyped
 sort: definitelytyped
 title: DefinitelyTyped
-website: 'http://definitelytyped.org/'
+website: http://definitelytyped.org/
 ---

@@ -2,7 +2,7 @@
 colors:
 - '#FF9900'
 facebook: https://www.facebook.com/amazon
-github: amzn
+git: https://github.com/amzn
 images:
 - amazon-icon.svg
 - amazon-tile.svg
@@ -13,7 +13,7 @@ sort: amazon
 tags:
 - ecommerce
 title: Amazon.com
-twitter: amazon
+twitter: https://x.com/amazon
 website: https://www.amazon.com/
 wikipedia: https://en.wikipedia.org/wiki/Amazon.com
 ---

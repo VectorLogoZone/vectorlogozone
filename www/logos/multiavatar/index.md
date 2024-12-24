@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/multiavatar'
-github: multiavatar/Multiavatar
-instagram: 'https://instagram.com/multiavatarcom'
+facebook: https://facebook.com/multiavatar
+git: https://github.com/multiavatar/Multiavatar
+instagram: https://instagram.com/multiavatarcom
 logohandle: multiavatar
-pinterest: 'https://pinterest.com/multiavatar'
+pinterest: https://pinterest.com/multiavatar
 sort: multiavatar
 title: Multiavatar
-twitter: multiavatarcom
-website: 'https://multiavatar.com/'
+twitter: https://x.com/multiavatarcom
+website: https://multiavatar.com/
 ---

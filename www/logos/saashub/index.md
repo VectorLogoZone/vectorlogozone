@@ -2,6 +2,6 @@
 logohandle: saashub
 sort: saashub
 title: SaaSHub
-twitter: SaaSHubCom
-website: 'https://www.saashub.com/'
+twitter: https://x.com/SaaSHubCom
+website: https://www.saashub.com/
 ---

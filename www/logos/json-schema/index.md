@@ -1,5 +1,5 @@
 ---
-github: json-schema-org
+git: https://github.com/json-schema-org
 logohandle: json-schema
 sort: json-schema
 title: JSON Schema

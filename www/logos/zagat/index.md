@@ -13,7 +13,7 @@ tags:
 - food
 - reviews
 title: Zagat
-twitter: zagat
+twitter: https://x.com/zagat
 website: https://www.zagat.com/
 wikipedia: https://en.wikipedia.org/wiki/Zagat
 ---

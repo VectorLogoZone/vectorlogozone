@@ -1,7 +1,7 @@
 ---
-github: wren-lang/wren
+git: https://github.com/wren-lang/wren
 logohandle: wrenio
 sort: wren
 title: Wren
-website: 'https://wren.io/'
+website: https://wren.io/
 ---

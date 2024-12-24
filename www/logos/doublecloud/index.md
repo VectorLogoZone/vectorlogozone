@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/doublecloudplatform'
+linkedin: https://linkedin.com/company/doublecloudplatform
 logohandle: doublecloud
 sort: doublecloud
 title: DoubleCloud
-twitter: getdoublecloud
-website: 'https://double.cloud/'
+twitter: https://x.com/getdoublecloud
+website: https://double.cloud/
 ---

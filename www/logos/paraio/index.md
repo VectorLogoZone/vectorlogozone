@@ -1,8 +1,8 @@
 ---
-github: erudika/para
+git: https://github.com/erudika/para
 logohandle: paraio
 sort: paraio
 title: Para
-twitter: para_io
-website: 'https://paraio.com/'
+twitter: https://x.com/para_io
+website: https://paraio.com/
 ---

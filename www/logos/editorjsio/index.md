@@ -1,7 +1,7 @@
 ---
-github: editor-js
+git: https://github.com/editor-js
 logohandle: editorjsio
 sort: editorjs
 title: Editor.js
-website: 'https://editorjs.io/'
+website: https://editorjs.io/
 ---

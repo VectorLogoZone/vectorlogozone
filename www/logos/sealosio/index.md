@@ -1,7 +1,7 @@
 ---
-github: labring/sealos
+git: https://github.com/labring/sealos
 logohandle: sealosio
 sort: sealos
 title: Sealos
-website: 'https://sealos.io/'
+website: https://sealos.io/
 ---

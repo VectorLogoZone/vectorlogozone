@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/IntraFish-Media-117849188285395'
-linkedin: 'https://linkedin.com/groups/3859689/profile'
+facebook: https://facebook.com/IntraFish-Media-117849188285395
+linkedin: https://linkedin.com/groups/3859689/profile
 logohandle: intrafish
 sort: intrafish
 title: IntraFish
-twitter: intrafish
-website: 'https://www.intrafish.com/'
+twitter: https://x.com/intrafish
+website: https://www.intrafish.com/
 ---

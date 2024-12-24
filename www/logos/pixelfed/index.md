@@ -1,8 +1,8 @@
 ---
-github: pixelfed/pixelfed
+git: https://github.com/pixelfed/pixelfed
 logohandle: pixelfed
 sort: pixelfed
 title: Pixelfed
-twitter: '@Pixelfed'
-website: 'https://pixelfed.org/'
+twitter: https://x.com/@Pixelfed
+website: https://pixelfed.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: tinacms/tinacms
+git: https://github.com/tinacms/tinacms
 logohandle: tinacms
 sort: tinacms
 title: TinaCMS
-twitter: tina_cms
-website: 'https://tinacms.org/'
+twitter: https://x.com/tina_cms
+website: https://tinacms.org/
 ---

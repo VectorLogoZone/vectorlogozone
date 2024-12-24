@@ -1,8 +1,8 @@
 ---
-github: axiomhq
+git: https://github.com/axiomhq
 logohandle: axiomco
 sort: axiom
 title: Axiom
-twitter: AxiomFM
-website: 'https://www.axiom.co/'
+twitter: https://x.com/AxiomFM
+website: https://www.axiom.co/
 ---

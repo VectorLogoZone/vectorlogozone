@@ -5,7 +5,7 @@ images:
 logohandle: virtualbox
 sort: virtualbox
 title: VirtualBox
-twitter: virtualbox
+twitter: https://x.com/virtualbox
 website: https://www.virtualbox.org/
 wikipedia: https://en.wikipedia.org/wiki/VirtualBox
 ---

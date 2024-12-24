@@ -1,12 +1,11 @@
 ---
-blog: 'https://blog.treasuredata.com/'
-facebook: 'https://facebook.com/TreasureData'
-github: treasure-data
-linkedin: 'https://linkedin.com/company/treasure-data-inc-'
+blog: https://blog.treasuredata.com/
+facebook: https://facebook.com/TreasureData
+git: https://github.com/treasure-data
+linkedin: https://linkedin.com/company/treasure-data-inc-
 logohandle: treasuredata
 sort: treasuredata
 title: Treasure Data
-twitter: TreasureData
-website: 'https://www.treasuredata.com/'
+twitter: https://x.com/TreasureData
+website: https://www.treasuredata.com/
 ---
-

@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/lightmeter'
+linkedin: https://linkedin.com/company/lightmeter
 logohandle: lightmeterio
 sort: lightmeter
 title: Lightmeter
-twitter: lightmeterio
-website: 'https://lightmeter.io/'
+twitter: https://x.com/lightmeterio
+website: https://lightmeter.io/
 ---

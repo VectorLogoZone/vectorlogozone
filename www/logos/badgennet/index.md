@@ -1,8 +1,8 @@
 ---
-github: amio/badgen
+git: https://github.com/amio/badgen
 logohandle: badgennet
 sort: badgen
 title: Badgen
-twitter: badgen_net
-website: 'https://badgen.net/'
+twitter: https://x.com/badgen_net
+website: https://badgen.net/
 ---

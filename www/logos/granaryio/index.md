@@ -1,7 +1,7 @@
 ---
-github: snarfed/granary
+git: https://github.com/snarfed/granary
 logohandle: granaryio
 sort: granaryio
 title: Granary
-website: 'https://granary.io/'
+website: https://granary.io/
 ---

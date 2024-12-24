@@ -1,7 +1,7 @@
 ---
-github: bestofjs
+git: https://github.com/bestofjs
 logohandle: bestofjs
 sort: bestofjs
 title: Best of JavaScript
-website: 'https://bestofjs.org/'
+website: https://bestofjs.org/
 ---

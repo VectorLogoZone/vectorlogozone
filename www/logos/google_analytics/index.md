@@ -5,7 +5,7 @@ colors:
 - '#EE7406'
 - '#F57E02'
 - '#757575'
-github: googleanalytics
+git: https://github.com/googleanalytics
 guide: https://developers.google.com/analytics/terms/branding-policy
 images:
 - google_analytics-ar21.svg
@@ -18,7 +18,7 @@ tags:
 - analytics
 - google
 title: Google Analytics
-twitter: googleanalytics
+twitter: https://x.com/googleanalytics
 website: https://www.google.com/analytics/
 ---
 

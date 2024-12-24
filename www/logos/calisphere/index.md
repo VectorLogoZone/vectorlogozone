@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/calisphere'
+facebook: https://facebook.com/calisphere
 logohandle: calisphere
 sort: calisphere
 title: Calisphere
-twitter: calisphere
-website: 'https://calisphere.org/'
+twitter: https://x.com/calisphere
+website: https://calisphere.org/
 ---

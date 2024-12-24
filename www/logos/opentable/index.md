@@ -8,7 +8,7 @@ images:
 logohandle: opentable
 sort: opentable
 title: OpenTable
-twitter: opentable
+twitter: https://x.com/opentable
 website: https://www.opentable.com/
 wikipedia: https://en.wikipedia.org/wiki/OpenTable
 ---

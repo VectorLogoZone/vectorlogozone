@@ -1,9 +1,9 @@
 ---
-github: barrysteyn
-linkedin: 'https://linkedin.com/in/barrysteyn'
+git: https://github.com/barrysteyn
+linkedin: https://linkedin.com/in/barrysteyn
 logohandle: doctrina
 sort: doctrina
 title: Doctrina
-twitter: barrysteyn
-website: 'http://doctrina.org/index.html'
+twitter: https://x.com/barrysteyn
+website: http://doctrina.org/index.html
 ---

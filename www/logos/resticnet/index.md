@@ -1,9 +1,9 @@
 ---
-blog: 'https://restic.net/blog'
-github: restic/restic
+blog: https://restic.net/blog
+git: https://github.com/restic/restic
 logohandle: resticnet
 sort: restic
 title: restic
-twitter: resticbackup
-website: 'https://restic.net/'
+twitter: https://x.com/resticbackup
+website: https://restic.net/
 ---

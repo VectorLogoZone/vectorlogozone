@@ -1,9 +1,9 @@
 ---
-github: rollbar
-linkedin: 'https://linkedin.com/company/rollbar'
+git: https://github.com/rollbar
+linkedin: https://linkedin.com/company/rollbar
 logohandle: rollbar
 sort: rollbar
 title: Rollbar
-twitter: rollbar
-website: 'https://rollbar.com/'
+twitter: https://x.com/rollbar
+website: https://rollbar.com/
 ---

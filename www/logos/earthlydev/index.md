@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.earthly.dev/'
-github: earthly/earthly
+blog: https://blog.earthly.dev/
+git: https://github.com/earthly/earthly
 logohandle: earthlydev
 sort: earthly
 title: Earthly
-twitter: EarthlyTech
-website: 'https://www.earthly.dev/'
+twitter: https://x.com/EarthlyTech
+website: https://www.earthly.dev/
 ---

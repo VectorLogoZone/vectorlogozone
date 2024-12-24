@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/primeflowhq'
+linkedin: https://linkedin.com/company/primeflowhq
 logohandle: primeflow
 sort: primeflow
 title: Primeflow
-twitter: primeflowhq
-website: 'https://www.primeflow.com/'
+twitter: https://x.com/primeflowhq
+website: https://www.primeflow.com/
 ---

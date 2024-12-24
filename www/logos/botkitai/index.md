@@ -1,10 +1,10 @@
 ---
-blog: 'http://blog.howdy.ai/'
-github: howdyai/botkit
+blog: http://blog.howdy.ai/
+git: https://github.com/howdyai/botkit
 logohandle: botkitai
 sort: botkit
 title: Botkit
-twitter: botkitstudio
-website: 'https://www.botkit.ai/'
-youtube: 'https://www.youtube.com/channel/UCwa8DkDPrstVj9R20Uf9rpg'
+twitter: https://x.com/botkitstudio
+website: https://www.botkit.ai/
+youtube: https://www.youtube.com/channel/UCwa8DkDPrstVj9R20Uf9rpg
 ---

@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/scrapingdog'
+linkedin: https://linkedin.com/company/scrapingdog
 logohandle: scrapingdog
 sort: scrapingdog
 title: Scrapingdog
-twitter: scrapingdog
-website: 'https://www.scrapingdog.com/'
+twitter: https://x.com/scrapingdog
+website: https://www.scrapingdog.com/
 ---

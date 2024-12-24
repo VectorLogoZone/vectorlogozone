@@ -1,8 +1,8 @@
 ---
-github: kedacore/keda
+git: https://github.com/kedacore/keda
 logohandle: kedash
 sort: keda
 title: KEDA
-twitter: kedaorg
-website: 'https://keda.sh/'
+twitter: https://x.com/kedaorg
+website: https://keda.sh/
 ---

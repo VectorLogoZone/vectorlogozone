@@ -1,8 +1,8 @@
 ---
-github: pankod/refine
+git: https://github.com/pankod/refine
 logohandle: refinedev
 sort: refine
 title: Refine
-twitter: refine_dev
-website: 'https://refine.dev/'
+twitter: https://x.com/refine_dev
+website: https://refine.dev/
 ---

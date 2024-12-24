@@ -1,8 +1,8 @@
 ---
-github: sylvainjule/kirby-matomo
+git: https://github.com/sylvainjule/kirby-matomo
 logohandle: getkirby
 sort: kirby
 title: Kirby
-twitter: getkirby
-website: 'https://getkirby.com/'
+twitter: https://x.com/getkirby
+website: https://getkirby.com/
 ---

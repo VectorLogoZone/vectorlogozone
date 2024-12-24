@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/backhub.co'
-github: marketplace/backhub
+facebook: https://facebook.com/backhub.co
+git: https://github.com/marketplace/backhub
 logohandle: backhubco
 sort: backhub
 title: BackHub
-twitter: back_hub
-website: 'https://backhub.co/'
+twitter: https://x.com/back_hub
+website: https://backhub.co/
 ---

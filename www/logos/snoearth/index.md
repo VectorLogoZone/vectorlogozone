@@ -1,8 +1,8 @@
 ---
-github: koordinates/sno
+git: https://github.com/koordinates/sno
 logohandle: snoearth
 sort: sno
 title: Sno
-twitter: SnoForData
-website: 'https://sno.earth/'
+twitter: https://x.com/SnoForData
+website: https://sno.earth/
 ---

@@ -1,8 +1,8 @@
 ---
-github: itteco/iframely
+git: https://github.com/itteco/iframely
 logohandle: iframely
 sort: iframely
 title: Iframely
-twitter: iframely
-website: 'https://iframely.com/'
+twitter: https://x.com/iframely
+website: https://iframely.com/
 ---

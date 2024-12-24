@@ -1,8 +1,8 @@
 ---
-github: formspark
+git: https://github.com/formspark
 logohandle: formsparkio
 sort: formspark
 title: Formspark
-twitter: formsparkapp
-website: 'https://formspark.io/'
+twitter: https://x.com/formsparkapp
+website: https://formspark.io/
 ---

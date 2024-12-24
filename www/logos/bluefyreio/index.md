@@ -1,9 +1,9 @@
 ---
-blog: 'https://bluefyre.io/blog'
-github: bluefyreio
+blog: https://bluefyre.io/blog
+git: https://github.com/bluefyreio
 logohandle: bluefyreio
 sort: bluefyre
 title: Bluefyre
-twitter: bluefyreio
-website: 'https://www.bluefyre.io/'
+twitter: https://x.com/bluefyreio
+website: https://www.bluefyre.io/
 ---

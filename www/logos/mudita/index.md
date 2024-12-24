@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/wearemudita'
-instagram: 'https://instagram.com/wearemudita'
+facebook: https://facebook.com/wearemudita
+instagram: https://instagram.com/wearemudita
 logohandle: mudita
-pinterest: 'https://pinterest.com/wearemudita'
+pinterest: https://pinterest.com/wearemudita
 sort: mudita
 title: Mudita
-twitter: wearemudita
-website: 'https://mudita.com/'
-youtube: 'https://youtube.com/MuditaBrand'
+twitter: https://x.com/wearemudita
+website: https://mudita.com/
+youtube: https://youtube.com/MuditaBrand
 ---

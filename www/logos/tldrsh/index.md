@@ -1,8 +1,8 @@
 ---
-github: tldr-pages/tldr
+git: https://github.com/tldr-pages/tldr
 logohandle: tldrsh
 sort: tldr
 title: tldr pages
-twitter: tldr_pages
-website: 'https://tldr.sh/'
+twitter: https://x.com/tldr_pages
+website: https://tldr.sh/
 ---

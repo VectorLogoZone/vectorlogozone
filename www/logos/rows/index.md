@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.rows.com/'
-github: rows
+blog: https://blog.rows.com/
+git: https://github.com/rows
 logohandle: rows
 sort: rows
 title: Rows
-twitter: RowsHQ
-website: 'https://rows.com/'
-youtube: 'https://youtube.com/c/RowsHQ'
+twitter: https://x.com/RowsHQ
+website: https://rows.com/
+youtube: https://youtube.com/c/RowsHQ
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://enternest.com/blog'
-linkedin: 'https://linkedin.com/company/-enternest'
+blog: https://enternest.com/blog
+linkedin: https://linkedin.com/company/-enternest
 logohandle: enternest
 sort: nest
 title: NEST
-twitter: enterNEST
-website: 'https://www.enternest.com/'
+twitter: https://x.com/enterNEST
+website: https://www.enternest.com/
 ---

@@ -1,11 +1,11 @@
 ---
-blog: 'https://emeditor.com/blog'
-facebook: 'https://facebook.com/emeditor'
-github: Emurasoft
+blog: https://emeditor.com/blog
+facebook: https://facebook.com/emeditor
+git: https://github.com/Emurasoft
 logohandle: emeditor
 sort: emeditor
 title: EmEditor
-twitter: Emurasoft
-website: 'https://www.emeditor.com/'
-youtube: 'https://youtube.com/c/emeditor-en'
+twitter: https://x.com/Emurasoft
+website: https://www.emeditor.com/
+youtube: https://youtube.com/c/emeditor-en
 ---

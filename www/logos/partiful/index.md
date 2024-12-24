@@ -1,8 +1,8 @@
 ---
-instagram: 'https://instagram.com/partiful'
+instagram: https://instagram.com/partiful
 logohandle: partiful
 sort: partiful
 title: Partiful
-twitter: partiful
-website: 'https://partiful.com/'
+twitter: https://x.com/partiful
+website: https://partiful.com/
 ---

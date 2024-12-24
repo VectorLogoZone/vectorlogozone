@@ -1,8 +1,8 @@
 ---
-github: angular/protractor
+git: https://github.com/angular/protractor
 logohandle: protractortest
 sort: protractor
 title: Protractor
-twitter: ProtractorTest
-website: 'https://www.protractortest.org/'
+twitter: https://x.com/ProtractorTest
+website: https://www.protractortest.org/
 ---

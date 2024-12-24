@@ -3,7 +3,7 @@ blog: https://blog.wikimedia.org/
 font:
   myfonts: https://www.myfonts.com/fonts/adobe/gill-sans/bold/
   name: Gill Sans Bold
-github: wikimedia
+git: https://github.com/wikimedia
 guide: https://wikimediafoundation.org/wiki/Visual_identity_guidelines
 images:
 - wikimedia-ar21.svg
@@ -11,7 +11,7 @@ images:
 logohandle: wikimedia
 sort: wikimedia
 title: Wikimedia
-twitter: wikimedia
+twitter: https://x.com/wikimedia
 website: https://www.wikimedia.org/
 wikipedia: https://en.wikipedia.org/wiki/Wikimedia_Foundation
 ---

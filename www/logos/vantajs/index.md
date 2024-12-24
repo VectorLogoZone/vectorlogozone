@@ -1,7 +1,7 @@
 ---
-github: tengbao/vanta
+git: https://github.com/tengbao/vanta
 logohandle: vantajs
 sort: vantajs
 title: Vanta.js
-website: 'https://www.vantajs.com/'
+website: https://www.vantajs.com/
 ---

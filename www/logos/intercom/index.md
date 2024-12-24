@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/company/intercom
 logohandle: intercom
 sort: intercom
 title: Intercom
-twitter: intercom
+twitter: https://x.com/intercom
 website: https://www.intercom.com/
 wikipedia: https://en.wikipedia.org/wiki/Intercom_(company)
 ---

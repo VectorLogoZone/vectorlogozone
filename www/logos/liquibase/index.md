@@ -1,8 +1,8 @@
 ---
-github: liquibase
+git: https://github.com/liquibase
 logohandle: liquibase
 sort: liquibase
 title: Liquibase
-twitter: liquibase
-website: 'http://www.liquibase.org/'
+twitter: https://x.com/liquibase
+website: http://www.liquibase.org/
 ---

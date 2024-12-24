@@ -1,8 +1,8 @@
 ---
-blog: 'http://blog.launchpad.net/'
+blog: http://blog.launchpad.net/
 logohandle: launchpadnet
 sort: launchpad
 title: Launchpad
-twitter: launchpadstatus
-website: 'https://launchpad.net/'
+twitter: https://x.com/launchpadstatus
+website: https://launchpad.net/
 ---

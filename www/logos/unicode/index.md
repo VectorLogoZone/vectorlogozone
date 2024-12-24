@@ -1,6 +1,6 @@
 ---
 facebook: http://www.facebook.com/pages/Friends-of-Unicode/127785250588285
-github: unicode-org
+git: https://github.com/unicode-org
 images:
 - unicode-icon.svg
 - unicode-ar21.svg
@@ -11,6 +11,6 @@ tags:
 - reference
 - standards_body
 title: Unicode
-twitter: unicode
+twitter: https://x.com/unicode
 website: http://www.unicode.org/
 ---

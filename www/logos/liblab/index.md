@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.liblab.com/'
-github: liblaber
+blog: https://blog.liblab.com/
+git: https://github.com/liblaber
 logohandle: liblab
 sort: liblab
 title: liblab
-twitter: libLaber
-website: 'https://liblab.com/'
+twitter: https://x.com/libLaber
+website: https://liblab.com/
 ---

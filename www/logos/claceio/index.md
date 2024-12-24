@@ -1,8 +1,8 @@
 ---
-github: claceio/clace
+git: https://github.com/claceio/clace
 logohandle: claceio
 sort: clace
 title: Clace
-twitter: akclace
-website: 'https://clace.io/'
+twitter: https://x.com/akclace
+website: https://clace.io/
 ---

@@ -1,7 +1,7 @@
 ---
-github: goproxyio/goproxy
+git: https://github.com/goproxyio/goproxy
 logohandle: goproxyio
 sort: goproxy
 title: GoProxy
-website: 'https://goproxy.io/'
+website: https://goproxy.io/
 ---

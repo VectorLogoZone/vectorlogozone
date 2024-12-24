@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/SeekStorm'
-github: SeekStorm
-linkedin: 'https://linkedin.com/company/seekstorm'
+facebook: https://facebook.com/SeekStorm
+git: https://github.com/SeekStorm
+linkedin: https://linkedin.com/company/seekstorm
 logohandle: seekstorm
 sort: seekstorm
 title: SeekStorm
-twitter: SeekStorm
-website: 'https://seekstorm.com/'
+twitter: https://x.com/SeekStorm
+website: https://seekstorm.com/
 ---

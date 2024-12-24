@@ -1,8 +1,8 @@
 ---
-github: inngest/inngest
+git: https://github.com/inngest/inngest
 logohandle: inngest
 sort: inngest
 title: Inngest
-twitter: inngest
-website: 'https://www.inngest.com/'
+twitter: https://x.com/inngest
+website: https://www.inngest.com/
 ---

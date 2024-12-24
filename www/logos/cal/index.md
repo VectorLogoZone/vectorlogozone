@@ -1,9 +1,9 @@
 ---
-blog: 'https://cal.com/blog/'
-github: calcom
+blog: https://cal.com/blog/
+git: https://github.com/calcom
 logohandle: cal
 sort: calcom
 title: Cal.com
-twitter: calcom
-website: 'https://cal.com/'
+twitter: https://x.com/calcom
+website: https://cal.com/
 ---

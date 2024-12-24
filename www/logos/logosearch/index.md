@@ -1,8 +1,8 @@
 ---
 font:
-  name: Sansita
   google: https://fonts.google.com/specimen/Sansita
-github: VectorLogoZone/LogoSearch
+  name: Sansita
+git: https://github.com/VectorLogoZone/LogoSearch
 images:
 - logosearch-ar21.svg
 - logosearch-icon.svg

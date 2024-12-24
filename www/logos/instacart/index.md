@@ -1,13 +1,13 @@
 ---
-facebook: 'https://facebook.com/Instacart'
-googleplus: 'https://plus.google.com/+Instacart'
-instagram: 'https://instagram.com/instacart'
-linkedin: 'https://linkedin.com/company/instacart'
+facebook: https://facebook.com/Instacart
+googleplus: https://plus.google.com/+Instacart
+instagram: https://instagram.com/instacart
+linkedin: https://linkedin.com/company/instacart
 logohandle: instacart
-pinterest: 'https://pinterest.com/Instacart'
+pinterest: https://pinterest.com/Instacart
 sort: instacart
 title: Instacart
-twitter: instacart
-website: 'http://www.instacart.com/'
-wikipedia: 'https://en.wikipedia.org/wiki/Instacart'
+twitter: https://x.com/instacart
+website: http://www.instacart.com/
+wikipedia: https://en.wikipedia.org/wiki/Instacart
 ---

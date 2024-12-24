@@ -1,8 +1,8 @@
 ---
-github: bridgetownrb/bridgetown
+git: https://github.com/bridgetownrb/bridgetown
 logohandle: bridgetownrb
 sort: bridgetownrb
 title: Bridgetown
-twitter: bridgetownrb
-website: 'https://www.bridgetownrb.com/'
+twitter: https://x.com/bridgetownrb
+website: https://www.bridgetownrb.com/
 ---

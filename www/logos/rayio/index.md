@@ -1,8 +1,8 @@
 ---
-github: ray-project/ray
+git: https://github.com/ray-project/ray
 logohandle: rayio
 sort: ray
 title: Ray
-twitter: raydistributed
-website: 'https://www.ray.io/'
+twitter: https://x.com/raydistributed
+website: https://www.ray.io/
 ---

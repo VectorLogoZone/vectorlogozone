@@ -1,5 +1,5 @@
 ---
-github: apache/lucenenet
+git: https://github.com/apache/lucenenet
 logohandle: apache_lucenenet
 sort: lucenenet
 tags:
@@ -7,5 +7,5 @@ tags:
 - dotnet
 - search
 title: Lucene.NET
-website: 'https://lucenenet.apache.org/'
+website: https://lucenenet.apache.org/
 ---

@@ -1,7 +1,7 @@
 ---
-github: ianstormtaylor/slate
+git: https://github.com/ianstormtaylor/slate
 logohandle: slatejs
 sort: slatejs
 title: Slate
-website: 'https://www.slatejs.org/'
+website: https://www.slatejs.org/
 ---

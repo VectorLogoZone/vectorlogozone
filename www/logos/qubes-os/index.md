@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/QubesOS'
-github: QubesOS
+facebook: https://facebook.com/QubesOS
+git: https://github.com/QubesOS
 logohandle: qubes-os
 sort: qubes-os
 title: Qubes OS
-twitter: QubesOS
-website: 'https://www.qubes-os.org/'
+twitter: https://x.com/QubesOS
+website: https://www.qubes-os.org/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://visidata.org/blog/rss.xml'
-github: saulpw/visidata
+blog: https://visidata.org/blog/rss.xml
+git: https://github.com/saulpw/visidata
 logohandle: visidata
 sort: visidata
 title: VisiData
-twitter: visidata
-website: 'https://www.visidata.org/'
+twitter: https://x.com/visidata
+website: https://www.visidata.org/
 ---

@@ -9,7 +9,7 @@ tags:
 - advertising
 - google
 title: Google AdSense
-twitter: AdSense
+twitter: https://x.com/AdSense
 website: https://www.google.com/adsense/
 wikipedia: https://en.wikipedia.org/wiki/AdSense
 ---

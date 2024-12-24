@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/CPASL'
+facebook: https://facebook.com/CPASL
 logohandle: cpalanka
 sort: cpalanka
 title: Centre for Policy Alternatives
-twitter: CPASL
-website: 'https://www.cpalanka.org/'
+twitter: https://x.com/CPASL
+website: https://www.cpalanka.org/
 ---

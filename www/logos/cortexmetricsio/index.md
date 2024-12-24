@@ -1,8 +1,8 @@
 ---
-github: cortexproject
+git: https://github.com/cortexproject
 logohandle: cortexmetricsio
 sort: cortexmetrics
 title: Cortex
-twitter: cortexmetrics
-website: 'https://cortexmetrics.io/'
+twitter: https://x.com/cortexmetrics
+website: https://cortexmetrics.io/
 ---

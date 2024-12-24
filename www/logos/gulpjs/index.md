@@ -1,11 +1,11 @@
 ---
-blog: 'https://medium.com/gulpjs'
-github: gulpjs/gulp
-guide: 'https://github.com/gulpjs/gulpjs.github.io/tree/master/img'
+blog: https://medium.com/gulpjs
+git: https://github.com/gulpjs/gulp
+guide: https://github.com/gulpjs/gulpjs.github.io/tree/master/img
 logohandle: gulpjs
 sort: gulpjs
 title: gulp.js
-twitter: gulpjs
-website: 'https://gulpjs.com/'
-wikipedia: 'https://en.wikipedia.org/wiki/Gulp.js'
+twitter: https://x.com/gulpjs
+website: https://gulpjs.com/
+wikipedia: https://en.wikipedia.org/wiki/Gulp.js
 ---

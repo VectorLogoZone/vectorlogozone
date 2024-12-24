@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.tilt.dev/'
-github: windmilleng/tilt
+blog: https://blog.tilt.dev/
+git: https://github.com/windmilleng/tilt
 logohandle: tiltdev
 sort: tilt
 title: Tilt
-twitter: tilt_dev
-website: 'https://tilt.dev/'
+twitter: https://x.com/tilt_dev
+website: https://tilt.dev/
 ---

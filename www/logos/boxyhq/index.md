@@ -1,8 +1,8 @@
 ---
-github: boxyhq
+git: https://github.com/boxyhq
 logohandle: boxyhq
 sort: boxyhq
 title: BoxyHQ
-twitter: boxyhq
-website: 'https://boxyhq.com/'
+twitter: https://x.com/boxyhq
+website: https://boxyhq.com/
 ---

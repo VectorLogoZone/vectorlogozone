@@ -1,9 +1,9 @@
 ---
-blog: 'https://clearbit.com/blog'
-facebook: 'https://facebook.com/clearbitinc'
+blog: https://clearbit.com/blog
+facebook: https://facebook.com/clearbitinc
 logohandle: clearbit
 sort: clearbit
 title: Clearbit
-twitter: clearbit
-website: 'https://clearbit.com/'
+twitter: https://x.com/clearbit
+website: https://clearbit.com/
 ---

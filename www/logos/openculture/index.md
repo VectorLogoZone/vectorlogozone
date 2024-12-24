@@ -6,6 +6,6 @@ images:
 logohandle: openculture
 sort: openculture
 title: Open Culture
-twitter: openculture
+twitter: https://x.com/openculture
 website: http://www.openculture.com/
 ---

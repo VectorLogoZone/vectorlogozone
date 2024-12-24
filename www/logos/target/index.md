@@ -8,7 +8,7 @@ images:
 logohandle: target
 sort: target
 title: Target
-twitter: target
+twitter: https://x.com/target
 website: https://www.target.com/
 wikipedia: https://en.wikipedia.org/wiki/Target_Corporation
 ---

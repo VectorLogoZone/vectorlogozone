@@ -1,14 +1,14 @@
 ---
-blog: 'https://blog.sonatype.com/'
-facebook: 'https://facebook.com/Sonatype'
-github: sonatype
-googleplus: 'https://plus.google.com/+Sonatypeinc/'
-instagram: 'https://instagram.com/sonatypedotcom/'
-linkedin: 'https://linkedin.com/company/sonatype'
+blog: https://blog.sonatype.com/
+facebook: https://facebook.com/Sonatype
+git: https://github.com/sonatype
+googleplus: https://plus.google.com/+Sonatypeinc/
+instagram: https://instagram.com/sonatypedotcom/
+linkedin: https://linkedin.com/company/sonatype
 logohandle: sonatype
 sort: sonatype
 title: Sonatype
-twitter: sonatype
-website: 'https://www.sonatype.com/'
-youtube: 'https://youtube.com/user/sonatype'
+twitter: https://x.com/sonatype
+website: https://www.sonatype.com/
+youtube: https://youtube.com/user/sonatype
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/wasmer'
-github: wasmerio/wasmer
+blog: https://medium.com/wasmer
+git: https://github.com/wasmerio/wasmer
 logohandle: wasmerio
 sort: wasmer
 title: Wasmer
-twitter: wasmerio
-website: 'https://wasmer.io/'
+twitter: https://x.com/wasmerio
+website: https://wasmer.io/
 ---

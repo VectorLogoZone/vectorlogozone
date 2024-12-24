@@ -1,7 +1,7 @@
 ---
-github: libfive/libfive
+git: https://github.com/libfive/libfive
 logohandle: libfive
 sort: libfive
 title: libfive
-website: 'https://libfive.com/'
+website: https://libfive.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: nsqio/nsq
+git: https://github.com/nsqio/nsq
 logohandle: nsqio
 sort: nsq
 title: NSQ
-website: 'https://nsq.io/'
+website: https://nsq.io/
 ---

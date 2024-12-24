@@ -1,8 +1,8 @@
 ---
-github: forem
+git: https://github.com/forem
 logohandle: foremdev
 sort: forem
 title: forem
-twitter: forem
-website: 'https://forem.dev/'
+twitter: https://x.com/forem
+website: https://forem.dev/
 ---

@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/TriblerTeam'
-github: Tribler/tribler
+facebook: https://facebook.com/TriblerTeam
+git: https://github.com/Tribler/tribler
 logohandle: tribler
 sort: tribler
 title: Tribler
-twitter: TriblerTeam
-website: 'https://www.tribler.org/'
+twitter: https://x.com/TriblerTeam
+website: https://www.tribler.org/
 ---

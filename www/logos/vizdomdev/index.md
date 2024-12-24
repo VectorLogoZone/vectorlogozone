@@ -1,7 +1,7 @@
 ---
-github: vizdom-dev/vizdom
+git: https://github.com/vizdom-dev/vizdom
 logohandle: vizdomdev
 sort: vizdom
 title: Vizdom
-website: 'https://vizdom.dev/'
+website: https://vizdom.dev/
 ---

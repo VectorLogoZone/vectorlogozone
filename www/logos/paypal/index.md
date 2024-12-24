@@ -7,7 +7,7 @@ facebook: https://www.facebook.com/PayPalUSA
 font:
   myfonts: https://www.myfonts.com/fonts/itc/avant-garde-gothic/
   name: Avant Garde Gothic Bold Oblique
-github: paypal
+git: https://github.com/paypal
 guide: https://issuu.com/lukaszkulakowski/docs/pp_masterbrandguidelines_v21_mm
 images:
 - paypal-ar21.svg
@@ -19,7 +19,7 @@ sort: paypal
 tags:
 - payments
 title: PayPal
-twitter: paypal
+twitter: https://x.com/paypal
 website: https://www.paypal.com/
 wikipedia: https://en.wikipedia.org/wiki/PayPal
 youtube: http://www.youtube.com/user/PayPal

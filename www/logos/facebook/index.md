@@ -4,7 +4,7 @@ font:
   myfonts: https://www.myfonts.com/fonts/processtype/klavika/bold/
   name: Klavika
   url: https://processtypefoundry.com/fonts/klavika/
-github: facebook
+git: https://github.com/facebook
 guide: https://en.facebookbrand.com/guidelines/brand
 images:
 - facebook-icon.svg
@@ -17,7 +17,7 @@ tags:
 - simpleshare
 - social_network
 title: Facebook
-twitter: facebook
+twitter: https://x.com/facebook
 website: https://www.facebook.com/
 wikipedia: https://en.wikipedia.org/wiki/Facebook
 ---

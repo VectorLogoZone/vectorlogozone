@@ -1,7 +1,7 @@
 ---
-github: uptrace/bun
+git: https://github.com/uptrace/bun
 logohandle: uptracedev_bun
 sort: bun
 title: Bun
-website: 'https://bun.uptrace.dev/'
+website: https://bun.uptrace.dev/
 ---

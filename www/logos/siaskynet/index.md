@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.sia.tech/'
-github: NebulousLabs/skynet-webportal
+blog: https://blog.sia.tech/
+git: https://github.com/NebulousLabs/skynet-webportal
 logohandle: siaskynet
 sort: siasky
 title: Sia Skynet
-twitter: SiaTechHQ
-website: 'https://siasky.net/'
+twitter: https://x.com/SiaTechHQ
+website: https://siasky.net/
 ---

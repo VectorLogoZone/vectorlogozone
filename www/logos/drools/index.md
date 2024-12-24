@@ -2,6 +2,6 @@
 logohandle: drools
 sort: drools
 title: Drools
-twitter: DroolsRules
-website: 'https://www.drools.org/'
+twitter: https://x.com/DroolsRules
+website: https://www.drools.org/
 ---

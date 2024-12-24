@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/zelfco'
-instagram: 'https://instagram.com/zelf_co'
+blog: https://medium.com/zelfco
+instagram: https://instagram.com/zelf_co
 logohandle: zelfco
 sort: zelf
 title: Zelf
-twitter: zelfco
-website: 'https://zelf.co/'
+twitter: https://x.com/zelfco
+website: https://zelf.co/
 ---

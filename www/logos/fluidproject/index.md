@@ -1,7 +1,7 @@
 ---
-github: fluid-project
+git: https://github.com/fluid-project
 logohandle: fluidproject
 sort: fluidproject
 title: fluid project
-website: 'https://fluidproject.org/'
+website: https://fluidproject.org/
 ---

@@ -1,7 +1,7 @@
 ---
-github: schemahero/schemahero
+git: https://github.com/schemahero/schemahero
 logohandle: schemaheroio
 sort: schemahero
 title: SchemaHero
-website: 'https://schemahero.io/'
+website: https://schemahero.io/
 ---

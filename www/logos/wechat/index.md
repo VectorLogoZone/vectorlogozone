@@ -12,7 +12,7 @@ sort: wechat
 tags:
 - messaging
 title: WeChat
-twitter: wechatapp
+twitter: https://x.com/wechatapp
 website: https://www.wechat.com/en/
 wikipedia: https://en.wikipedia.org/wiki/WeChat
 ---

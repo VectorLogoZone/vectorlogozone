@@ -1,5 +1,5 @@
 ---
-github: pallets/flask
+git: https://github.com/pallets/flask
 logohandle: palletsprojects_flask
 sort: flask
 tags:

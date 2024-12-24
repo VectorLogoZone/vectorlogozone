@@ -1,8 +1,8 @@
 ---
-github: serverless-stack/serverless-stack
+git: https://github.com/serverless-stack/serverless-stack
 logohandle: serverless-stack
 sort: serverless-stack
 title: Serverless Stack
-twitter: ServerlessStack
-website: 'https://serverless-stack.com/'
+twitter: https://x.com/ServerlessStack
+website: https://serverless-stack.com/
 ---

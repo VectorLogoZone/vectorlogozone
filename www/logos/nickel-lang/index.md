@@ -1,8 +1,8 @@
 ---
-github: tweag/nickel
+git: https://github.com/tweag/nickel
 logohandle: nickel-lang
 sort: nickellang
 title: Nickel
-twitter: nickel_lang
-website: 'https://nickel-lang.org/'
+twitter: https://x.com/nickel_lang
+website: https://nickel-lang.org/
 ---

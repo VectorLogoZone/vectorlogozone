@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/edgeuno'
+linkedin: https://linkedin.com/company/edgeuno
 logohandle: edgeunocloud
 sort: edgeuno
 title: EdgeUno
-twitter: EdgeUno
-website: 'https://edgeuno.cloud/'
+twitter: https://x.com/EdgeUno
+website: https://edgeuno.cloud/
 ---

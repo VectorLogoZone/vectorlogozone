@@ -1,7 +1,7 @@
 ---
-github: electric-sql/pglite
+git: https://github.com/electric-sql/pglite
 logohandle: pglitedev
 sort: pglite
 title: PGlite
-website: 'https://pglite.dev/'
+website: https://pglite.dev/
 ---

@@ -1,7 +1,7 @@
 ---
-github: protocolbuffers/protobuf
+git: https://github.com/protocolbuffers/protobuf
 logohandle: protobufdev
 sort: protobuf
 title: Protocol Buffers
-website: 'https://protobuf.dev/'
+website: https://protobuf.dev/
 ---

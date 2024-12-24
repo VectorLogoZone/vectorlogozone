@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/heyartis'
+linkedin: https://linkedin.com/company/heyartis
 logohandle: heyartis
 sort: artis
 title: Artis
-twitter: hey_artis
-website: 'https://heyartis.com/'
+twitter: https://x.com/hey_artis
+website: https://heyartis.com/
 ---

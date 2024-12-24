@@ -1,8 +1,8 @@
 ---
-github: webfactory
+git: https://github.com/webfactory
 logohandle: webfactoryde
 sort: webfactoryde
 title: webfactory
-twitter: webfactory
-website: 'https://www.webfactory.de/'
+twitter: https://x.com/webfactory
+website: https://www.webfactory.de/
 ---

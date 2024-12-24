@@ -1,9 +1,9 @@
 ---
-blog: 'http://blog.vespa.ai/'
-github: vespa-engine
+blog: http://blog.vespa.ai/
+git: https://github.com/vespa-engine
 logohandle: vespaai
 sort: vespa
 title: Vespa
-twitter: vespaengine
-website: 'https://vespa.ai/'
+twitter: https://x.com/vespaengine
+website: https://vespa.ai/
 ---

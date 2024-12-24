@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/questionscout'
-instagram: 'https://instagram.com/questionscout'
+facebook: https://facebook.com/questionscout
+instagram: https://instagram.com/questionscout
 logohandle: questionscout
 sort: questionscout
 title: QuestionScout
-twitter: questionscout
-website: 'https://www.questionscout.com/'
+twitter: https://x.com/questionscout
+website: https://www.questionscout.com/
 ---

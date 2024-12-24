@@ -1,10 +1,10 @@
 ---
-blog: 'https://mrocorp.com/blog'
-facebook: 'https://facebook.com/MROCorporation'
-linkedin: 'https://linkedin.com/company/445193'
+blog: https://mrocorp.com/blog
+facebook: https://facebook.com/MROCorporation
+linkedin: https://linkedin.com/company/445193
 logohandle: mrocorp
 sort: mrocorp
 title: MRO
-twitter: MROCorp
-website: 'https://mrocorp.com/'
+twitter: https://x.com/MROCorp
+website: https://mrocorp.com/
 ---

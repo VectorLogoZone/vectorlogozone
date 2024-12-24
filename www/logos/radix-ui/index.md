@@ -1,8 +1,8 @@
 ---
-github: radix-ui
+git: https://github.com/radix-ui
 logohandle: radix-ui
 sort: radix-ui
 title: Radix UI
-twitter: radix_ui
-website: 'https://www.radix-ui.com/'
+twitter: https://x.com/radix_ui
+website: https://www.radix-ui.com/
 ---

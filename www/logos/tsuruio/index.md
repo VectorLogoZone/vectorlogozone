@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.tsuru.io/'
-github: tsuru
+blog: https://blog.tsuru.io/
+git: https://github.com/tsuru
 logohandle: tsuruio
 sort: tsuru
 title: Tsuru
-twitter: tsurupaas
-website: 'https://tsuru.io/'
+twitter: https://x.com/tsurupaas
+website: https://tsuru.io/
 ---

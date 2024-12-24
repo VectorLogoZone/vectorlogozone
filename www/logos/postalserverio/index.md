@@ -1,7 +1,7 @@
 ---
-github: postalserver/docs
+git: https://github.com/postalserver/docs
 logohandle: postalserverio
 sort: postalserver
 title: PostalServer
-website: 'https://docs.postalserver.io/'
+website: https://docs.postalserver.io/
 ---

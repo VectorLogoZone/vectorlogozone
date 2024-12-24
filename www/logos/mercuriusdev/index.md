@@ -1,7 +1,7 @@
 ---
-github: mercurius-js/mercurius
+git: https://github.com/mercurius-js/mercurius
 logohandle: mercuriusdev
 sort: mercurius
 title: Mercurius
-website: 'https://mercurius.dev/'
+website: https://mercurius.dev/
 ---

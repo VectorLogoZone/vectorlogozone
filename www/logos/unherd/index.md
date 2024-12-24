@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/UnHerd-459077787806717'
+facebook: https://facebook.com/UnHerd-459077787806717
 logohandle: unherd
 sort: unherd
 title: UnHerd
-twitter: unherd
-website: 'https://unherd.com/'
+twitter: https://x.com/unherd
+website: https://unherd.com/
 ---

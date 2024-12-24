@@ -2,6 +2,6 @@
 logohandle: reactbricks
 sort: reactbricks
 title: React Bricks
-twitter: ReactBricks
-website: 'https://reactbricks.com/'
+twitter: https://x.com/ReactBricks
+website: https://reactbricks.com/
 ---

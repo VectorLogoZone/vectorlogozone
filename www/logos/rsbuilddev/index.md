@@ -1,8 +1,8 @@
 ---
-github: web-infra-dev/rsbuild
+git: https://github.com/web-infra-dev/rsbuild
 logohandle: rsbuilddev
 sort: rsbuild
 title: RSBuild
-twitter: rspack_dev
-website: 'https://rsbuild.dev/'
+twitter: https://x.com/rspack_dev
+website: https://rsbuild.dev/
 ---

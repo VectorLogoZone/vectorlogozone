@@ -1,8 +1,8 @@
 ---
-github: volcano-sh
+git: https://github.com/volcano-sh
 logohandle: volcanosh
 sort: volcano
 title: Volcano
-twitter: volcano_sh
-website: 'https://volcano.sh/'
+twitter: https://x.com/volcano_sh
+website: https://volcano.sh/
 ---

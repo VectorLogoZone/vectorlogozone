@@ -2,6 +2,6 @@
 logohandle: rabbitholegg
 sort: rabbithole
 title: Rabbit Hole
-twitter: rabbithole_gg
-website: 'https://rabbithole.gg/'
+twitter: https://x.com/rabbithole_gg
+website: https://rabbithole.gg/
 ---

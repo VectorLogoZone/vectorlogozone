@@ -5,7 +5,7 @@ font:
   myfonts: https://www.myfonts.com/fonts/linotype/optima/
   name: Optima
   note: based on [Optima](https://fontsinuse.com/uses/4713/yahoo-logo-2013)
-github: yahoo
+git: https://github.com/yahoo
 guide: https://policies.yahoo.com/us/en/yahoo/permissions/branduseguidelines/index.htm
 images:
 - yahoo-icon.svg
@@ -16,7 +16,7 @@ logohandle: yahoo
 sort: yahoo
 title: Yahoo!
 tumblr: https://yahoo.tumblr.com/
-twitter: Yahoo
+twitter: https://x.com/Yahoo
 website: https://www.yahoo.com/
 wikipedia: https://en.wikipedia.org/wiki/Yahoo!
 ---

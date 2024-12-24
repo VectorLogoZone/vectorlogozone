@@ -1,8 +1,8 @@
 ---
-github: narrowlink/narrowlink
+git: https://github.com/narrowlink/narrowlink
 logohandle: narrowlink
 sort: narrowlink
 title: NarrowLink
-twitter: NarrowlinkCom
-website: 'https://narrowlink.com/'
+twitter: https://x.com/NarrowlinkCom
+website: https://narrowlink.com/
 ---

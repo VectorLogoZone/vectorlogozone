@@ -1,7 +1,7 @@
 ---
-github: dagster-io/dagster
+git: https://github.com/dagster-io/dagster
 logohandle: dagsterio
 sort: dagster
 title: Dagster
-website: 'http://dagster.io'
+website: http://dagster.io
 ---

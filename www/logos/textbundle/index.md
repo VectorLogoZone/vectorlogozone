@@ -1,8 +1,8 @@
 ---
-github: textbundle
+git: https://github.com/textbundle
 logohandle: textbundle
 sort: textbundle
 title: TextBundle
-twitter: txtbndl
-website: 'https://textbundle.org/'
+twitter: https://x.com/txtbndl
+website: https://textbundle.org/
 ---

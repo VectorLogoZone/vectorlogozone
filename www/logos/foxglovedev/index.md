@@ -1,8 +1,8 @@
 ---
-github: foxglove
+git: https://github.com/foxglove
 logohandle: foxglovedev
 sort: foxglove
 title: Foxglove
-twitter: foxglovedev
-website: 'https://foxglove.dev/'
+twitter: https://x.com/foxglovedev
+website: https://foxglove.dev/
 ---

@@ -1,8 +1,8 @@
 ---
-github: cherrypy/cherrypy
+git: https://github.com/cherrypy/cherrypy
 logohandle: cherrypydev
 sort: cherrypy
 title: CherryPy
-website: 'https://cherrypy.dev/'
-wikipedia: 'https://en.m.wikipedia.org/wiki/CherryPy'
+website: https://cherrypy.dev/
+wikipedia: https://en.m.wikipedia.org/wiki/CherryPy
 ---

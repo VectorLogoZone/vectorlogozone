@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/WakaTime'
-github: wakatime
+facebook: https://facebook.com/WakaTime
+git: https://github.com/wakatime
 logohandle: wakatime
 sort: wakatime
 title: WakaTime
-twitter: WakaTime
-website: 'https://wakatime.com/'
+twitter: https://x.com/WakaTime
+website: https://wakatime.com/
 ---

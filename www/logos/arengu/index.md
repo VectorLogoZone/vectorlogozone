@@ -1,9 +1,9 @@
 ---
-github: arengu
-linkedin: 'https://linkedin.com/company/arengu'
+git: https://github.com/arengu
+linkedin: https://linkedin.com/company/arengu
 logohandle: arengu
 sort: arengu
 title: Arengu
-twitter: arengu
-website: 'https://www.arengu.com/'
+twitter: https://x.com/arengu
+website: https://www.arengu.com/
 ---

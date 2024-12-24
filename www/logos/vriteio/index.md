@@ -1,9 +1,9 @@
 ---
-github: vriteio/vrite
-linkedin: 'https://linkedin.com/company/vrite'
+git: https://github.com/vriteio/vrite
+linkedin: https://linkedin.com/company/vrite
 logohandle: vriteio
 sort: vrite
 title: Vrite
-twitter: vriteio
-website: 'https://vrite.io/'
+twitter: https://x.com/vriteio
+website: https://vrite.io/
 ---

@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/xethub'
+linkedin: https://linkedin.com/company/xethub
 logohandle: xetdata
 sort: xetdata
 title: XetData
-twitter: xetdata
-website: 'https://xetdata.com/'
+twitter: https://x.com/xetdata
+website: https://xetdata.com/
 ---

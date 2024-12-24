@@ -1,7 +1,7 @@
 ---
-github: jashkenas/underscore
+git: https://github.com/jashkenas/underscore
 logohandle: underscorejs
 sort: underscorejs
 title: Underscore.js
-website: 'https://underscorejs.org/'
+website: https://underscorejs.org/
 ---

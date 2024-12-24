@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/monadical'
-github: Monadical-SAS
-linkedin: 'https://linkedin.com/company/monadical'
+facebook: https://facebook.com/monadical
+git: https://github.com/Monadical-SAS
+linkedin: https://linkedin.com/company/monadical
 logohandle: monadical
 sort: monadical
 title: Monadical
-twitter: MonadicalSAS
-website: 'https://monadical.com/'
+twitter: https://x.com/MonadicalSAS
+website: https://monadical.com/
 ---

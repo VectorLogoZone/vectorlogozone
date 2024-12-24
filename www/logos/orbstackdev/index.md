@@ -1,8 +1,8 @@
 ---
-github: orbstack
+git: https://github.com/orbstack
 logohandle: orbstackdev
 sort: orbstack
 title: OrbStack
-twitter: orbstack
-website: 'https://orbstack.dev/'
+twitter: https://x.com/orbstack
+website: https://orbstack.dev/
 ---

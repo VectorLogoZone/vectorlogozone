@@ -6,6 +6,6 @@ images:
 logohandle: glitch
 sort: glitch
 title: Glitch
-twitter: glitch
+twitter: https://x.com/glitch
 website: https://www.glitch.com/
 ---

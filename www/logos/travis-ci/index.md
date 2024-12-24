@@ -1,6 +1,6 @@
 ---
 blog: https://blog.travis-ci.com/
-github: aws
+git: https://github.com/aws
 guide: https://travis-ci.com/logo
 images:
 - travis-ci-ar21.svg
@@ -11,6 +11,6 @@ sort: travis ci
 tags:
 - continuous_integration
 title: Travis CI
-twitter: travisci
+twitter: https://x.com/travisci
 website: https://travis-ci.org/
 ---

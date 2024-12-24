@@ -1,5 +1,5 @@
 ---
-github: fileformat/wctv-www
+git: https://github.com/fileformat/wctv-www
 images:
 - worldclocktv-ar21.svg
 - worldclocktv-icon.svg

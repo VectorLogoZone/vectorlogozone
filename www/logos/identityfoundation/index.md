@@ -1,10 +1,11 @@
 ---
-blog: 'https://medium.com/decentralized-identity'
-github: decentralized-identity
-keywords: [ "Decentralized Identity Foundation" ]
+blog: https://medium.com/decentralized-identity
+git: https://github.com/decentralized-identity
+keywords:
+- Decentralized Identity Foundation
 logohandle: identityfoundation
 sort: dif
 title: DIF
-twitter: DecentralizedID
-website: 'https://identity.foundation/'
+twitter: https://x.com/DecentralizedID
+website: https://identity.foundation/
 ---

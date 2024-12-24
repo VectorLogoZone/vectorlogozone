@@ -1,7 +1,7 @@
 ---
-github: luau-lang/luau
+git: https://github.com/luau-lang/luau
 logohandle: luau
 sort: luau
 title: Luau
-website: 'https://luau.org/'
+website: https://luau.org/
 ---

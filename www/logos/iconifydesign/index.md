@@ -1,7 +1,7 @@
 ---
-github: iconify
+git: https://github.com/iconify
 logohandle: iconifydesign
 sort: iconify
 title: Iconify
-website: 'https://iconify.design/'
+website: https://iconify.design/
 ---

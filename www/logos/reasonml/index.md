@@ -1,13 +1,13 @@
 ---
 blog: https://reasonml.github.io/community/blog/
-github: reasonml
+git: https://github.com/reasonml
 images:
 - reasonml-icon.svg
 - reasonml-ar21.svg
 logohandle: reasonml
 sort: reasonml
 title: Reason
-twitter: reasonml
+twitter: https://x.com/reasonml
 website: https://reasonml.github.io/
 ---
 

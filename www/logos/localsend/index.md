@@ -1,7 +1,7 @@
 ---
-github: localsend/localsend
+git: https://github.com/localsend/localsend
 logohandle: localsend
 sort: localsend
 title: LocalSend
-website: 'https://localsend.org/'
+website: https://localsend.org/
 ---

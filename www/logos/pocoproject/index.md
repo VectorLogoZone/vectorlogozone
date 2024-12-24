@@ -1,9 +1,9 @@
 ---
-blog: 'https://pocoproject.org/blog/'
-github: pocoproject/poco
+blog: https://pocoproject.org/blog/
+git: https://github.com/pocoproject/poco
 logohandle: pocoproject
 sort: pocoproject
 title: POCO Project
-twitter: pocoproject
-website: 'https://pocoproject.org/'
+twitter: https://x.com/pocoproject
+website: https://pocoproject.org/
 ---

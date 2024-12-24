@@ -1,8 +1,8 @@
 ---
-github: testanything
+git: https://github.com/testanything
 logohandle: testanything
 sort: testanything
 title: Test Anything Protocol
-website: 'https://testanything.org/'
-wikipedia: 'https://en.wikipedia.org/wiki/Test_Anything_Protocol'
+website: https://testanything.org/
+wikipedia: https://en.wikipedia.org/wiki/Test_Anything_Protocol
 ---

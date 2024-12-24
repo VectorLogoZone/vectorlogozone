@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/goPackwire'
-instagram: 'https://instagram.com/gopackwire'
+facebook: https://facebook.com/goPackwire
+instagram: https://instagram.com/gopackwire
 logohandle: packwire
-pinterest: 'https://pinterest.com/packwire_boxes'
+pinterest: https://pinterest.com/packwire_boxes
 sort: packwire
 title: Packwire
-twitter: goPackwire
-website: 'https://packwire.com/'
+twitter: https://x.com/goPackwire
+website: https://packwire.com/
 ---

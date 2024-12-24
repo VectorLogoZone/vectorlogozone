@@ -1,7 +1,7 @@
 ---
-github: 99designs/gqlgen
+git: https://github.com/99designs/gqlgen
 logohandle: gqlgen
 sort: gqlgen
 title: gqlgen
-website: 'https://gqlgen.com/'
+website: https://gqlgen.com/
 ---

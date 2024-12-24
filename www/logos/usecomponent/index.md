@@ -2,6 +2,6 @@
 logohandle: usecomponent
 sort: component
 title: Component
-twitter: componentHQ
-website: 'https://www.usecomponent.com/'
+twitter: https://x.com/componentHQ
+website: https://www.usecomponent.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: paxengine/pax
+git: https://github.com/paxengine/pax
 logohandle: paxdev
 sort: paxdev
 title: Pax
-website: 'https://www.pax.dev/'
+website: https://www.pax.dev/
 ---

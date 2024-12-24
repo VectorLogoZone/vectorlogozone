@@ -1,8 +1,8 @@
 ---
-github: ohmjs/ohm
+git: https://github.com/ohmjs/ohm
 logohandle: ohmjs
 sort: ohmjs
 title: Ohm.js
-twitter: _ohmjs
-website: 'https://ohmjs.org/'
+twitter: https://x.com/_ohmjs
+website: https://ohmjs.org/
 ---

@@ -1,6 +1,6 @@
 ---
 blog: https://poedit.net/news
-github: vslavik/poedit
+git: https://github.com/vslavik/poedit
 logohandle: poeditnet
 sort: poedit
 title: Poedit

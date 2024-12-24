@@ -1,8 +1,9 @@
 ---
-github: spdx
-keywords: [ "Software Package Data Exchange" ]
+git: https://github.com/spdx
+keywords:
+- Software Package Data Exchange
 logohandle: spdxdev
 sort: spdx
 title: SPDX
-website: 'https://spdx.dev/'
+website: https://spdx.dev/
 ---

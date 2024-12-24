@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.jquerymobile.com/'
-github: jquery/jquery-mobile
+blog: https://blog.jquerymobile.com/
+git: https://github.com/jquery/jquery-mobile
 logohandle: jquerymobile
 sort: jquerymobile
 title: jQuery Mobile
-twitter: jquerymobile
-website: 'http://jquerymobile.com/'
+twitter: https://x.com/jquerymobile
+website: http://jquerymobile.com/
 wikipedia: https://en.wikipedia.org/wiki/JQuery_Mobile
 ---

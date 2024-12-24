@@ -1,7 +1,7 @@
 ---
-github: Microsoft/bond
+git: https://github.com/Microsoft/bond
 logohandle: microsoft_bond
 sort: bond
 title: Bond
-website: 'https://github.com/Microsoft/Bond'
+website: https://github.com/Microsoft/Bond
 ---

@@ -1,6 +1,6 @@
 ---
 blog: https://ocaml.org/community/planet/
-github: ocaml
+git: https://github.com/ocaml
 images:
 - ocaml-ar21.svg
 - ocaml-icon.svg

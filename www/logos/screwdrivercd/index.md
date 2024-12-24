@@ -1,9 +1,9 @@
 ---
-blog: 'http://blog.screwdriver.cd/'
-github: screwdriver-cd
+blog: http://blog.screwdriver.cd/
+git: https://github.com/screwdriver-cd
 logohandle: screwdrivercd
 sort: screwdriver
 title: screwdriver
-twitter: screwdrivercd
-website: 'https://screwdriver.cd/'
+twitter: https://x.com/screwdrivercd
+website: https://screwdriver.cd/
 ---

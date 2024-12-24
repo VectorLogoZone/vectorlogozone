@@ -1,13 +1,13 @@
 ---
-facebook: 'https://facebook.com/RollingStone'
-googleplus: 'https://plus.google.com/+RollingStone/posts'
-instagram: 'https://instagram.com/rollingstone'
+facebook: https://facebook.com/RollingStone
+googleplus: https://plus.google.com/+RollingStone/posts
+instagram: https://instagram.com/rollingstone
 logohandle: rollingstone
-pinterest: 'https://pinterest.com/rollingstone'
+pinterest: https://pinterest.com/rollingstone
 sort: rollingstone
 title: Rolling Stone
-twitter: RollingStone
-website: 'https://www.rollingstone.com/'
+twitter: https://x.com/RollingStone
+website: https://www.rollingstone.com/
 wikipedia: https://en.wikipedia.org/wiki/Rolling_Stone
-youtube: 'https://youtube.com/user/RollingStone'
+youtube: https://youtube.com/user/RollingStone
 ---

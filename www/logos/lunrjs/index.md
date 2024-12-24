@@ -1,7 +1,7 @@
 ---
 font:
   name: Helvetica Neue
-github: olivernn/lunr.js
+git: https://github.com/olivernn/lunr.js
 images:
 - lunrjs-icon.svg
 - lunrjs-ar21.svg

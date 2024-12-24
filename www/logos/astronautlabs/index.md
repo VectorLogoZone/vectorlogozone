@@ -1,7 +1,7 @@
 ---
-github: astronautlabs
+git: https://github.com/astronautlabs
 logohandle: astronautlabs
 sort: astronautlabs
 title: astronaut labs
-website: 'https://astronautlabs.com/'
+website: https://astronautlabs.com/
 ---

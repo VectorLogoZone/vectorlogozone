@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.woobox.com/'
-facebook: 'https://facebook.com/woobox'
+blog: https://blog.woobox.com/
+facebook: https://facebook.com/woobox
 logohandle: woobox
 sort: woobox
 title: Woobox
-twitter: woobox
-website: 'https://woobox.com/'
+twitter: https://x.com/woobox
+website: https://woobox.com/
 ---

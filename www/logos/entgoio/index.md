@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.golang.org/gopher'
-github: ent/ent
+blog: https://blog.golang.org/gopher
+git: https://github.com/ent/ent
 logohandle: entgoio
 sort: entgo
 title: Ent
-twitter: entgo_io
-website: 'https://entgo.io/'
+twitter: https://x.com/entgo_io
+website: https://entgo.io/
 ---

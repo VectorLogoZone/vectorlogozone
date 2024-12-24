@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/zycada-networks'
+linkedin: https://linkedin.com/company/zycada-networks
 logohandle: zycada
 sort: zycada
 title: Zycada
-twitter: zycada
-website: 'https://www.zycada.com/'
+twitter: https://x.com/zycada
+website: https://www.zycada.com/
 ---

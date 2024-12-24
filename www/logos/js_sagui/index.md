@@ -1,7 +1,7 @@
 ---
-github: saguijs/sagui
+git: https://github.com/saguijs/sagui
 logohandle: js_sagui
-sort: sagui  
+sort: sagui
 title: Sagui
-website: 'http://sagui.js.org/'
+website: http://sagui.js.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: slidevjs/slidev
+git: https://github.com/slidevjs/slidev
 logohandle: slidev
 sort: sli
 title: Slidev
-twitter: slidevjs
-website: 'https://sli.dev/'
+twitter: https://x.com/slidevjs
+website: https://sli.dev/
 ---

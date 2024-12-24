@@ -1,8 +1,8 @@
 ---
-github: lit/lit
+git: https://github.com/lit/lit
 logohandle: litdev
 sort: litdev
 title: Lit
-twitter: buildWithLit
-website: 'https://lit.dev/'
+twitter: https://x.com/buildWithLit
+website: https://lit.dev/
 ---

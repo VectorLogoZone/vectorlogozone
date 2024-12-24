@@ -10,7 +10,7 @@ tags:
 - google
 - browser
 title: Chrome
-twitter: googlechrome
+twitter: https://x.com/googlechrome
 website: https://www.google.com/chrome/browser/
 wikipedia: https://en.wikipedia.org/wiki/Google_Chrome
 ---

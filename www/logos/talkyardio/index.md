@@ -1,7 +1,7 @@
 ---
-github: debiki/talkyard
+git: https://github.com/debiki/talkyard
 logohandle: talkyardio
 sort: talkyard
 title: Talkyard
-website: 'https://www.talkyard.io/'
+website: https://www.talkyard.io/
 ---

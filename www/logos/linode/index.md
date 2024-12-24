@@ -1,7 +1,7 @@
 ---
 blog: https://blog.linode.com/
 facebook: https://facebook.com/linode
-github: linode
+git: https://github.com/linode
 images:
 - linode-icon.svg
 - linode-ar21.svg
@@ -10,7 +10,7 @@ sort: linode
 tags:
 - hosting
 title: Linode
-twitter: linode
+twitter: https://x.com/linode
 website: https://www.linode.com/
 wikipedia: https://en.wikipedia.org/wiki/Linode
 ---

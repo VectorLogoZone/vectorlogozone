@@ -2,6 +2,6 @@
 logohandle: modernizr
 sort: modernizr
 title: Modernizr
-twitter: Modernizr
-website: 'https://modernizr.com/'
+twitter: https://x.com/Modernizr
+website: https://modernizr.com/
 ---

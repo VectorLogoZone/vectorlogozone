@@ -1,8 +1,8 @@
 ---
-github: lukasz-madon/awesome-remote-job
+git: https://github.com/lukasz-madon/awesome-remote-job
 logohandle: remoteleaf
 sort: remoteleaf
 title: Remote Leaf
-twitter: abinaya_rl
-website: 'https://remoteleaf.com/'
+twitter: https://x.com/abinaya_rl
+website: https://remoteleaf.com/
 ---

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.quora.com/
 facebook: https://www.facebook.com/quora
-github: quora
+git: https://github.com/quora
 images:
 - quora-card.png
 - quora-ar21.svg
@@ -11,7 +11,7 @@ sort: quora
 tags:
 - answers
 title: Quora
-twitter: Quora
+twitter: https://x.com/Quora
 website: https://www.quora.com/
 wikipedia: https://en.wikipedia.org/wiki/Quora
 ---

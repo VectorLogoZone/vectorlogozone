@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/mistralai/'
+linkedin: https://linkedin.com/company/mistralai/
 logohandle: mistralai
 sort: mistral
 title: Mistral AI
-twitter: MistralAI
-website: 'https://mistral.ai/'
+twitter: https://x.com/MistralAI
+website: https://mistral.ai/
 ---

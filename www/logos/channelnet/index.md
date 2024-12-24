@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/channelnet'
+linkedin: https://linkedin.com/company/channelnet
 logohandle: channelnet
 sort: channelnet
 title: ChannelNet
-twitter: ChannelNet
-website: 'https://www.channelnet.com/'
+twitter: https://x.com/ChannelNet
+website: https://www.channelnet.com/
 ---

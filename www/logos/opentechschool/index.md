@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/OpenTechSchool'
-github: OpenTechSchool
+facebook: https://facebook.com/OpenTechSchool
+git: https://github.com/OpenTechSchool
 logohandle: opentechschool
 sort: opentechschool
 title: OpenTechSchool
-twitter: OpenTechSchool
-website: 'https://www.opentechschool.org/'
+twitter: https://x.com/OpenTechSchool
+website: https://www.opentechschool.org/
 ---

@@ -2,6 +2,6 @@
 logohandle: supermaven
 sort: supermaven
 title: Supermaven
-twitter: SupermavenAI
-website: 'https://supermaven.com/'
+twitter: https://x.com/SupermavenAI
+website: https://supermaven.com/
 ---

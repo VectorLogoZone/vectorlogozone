@@ -2,6 +2,6 @@
 logohandle: museapp
 sort: museapp
 title: Muse
-twitter: MuseAppHQ
-website: 'https://museapp.com/'
+twitter: https://x.com/MuseAppHQ
+website: https://museapp.com/
 ---

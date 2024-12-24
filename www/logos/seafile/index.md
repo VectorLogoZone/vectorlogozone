@@ -1,8 +1,8 @@
 ---
-github: haiwen/seafile
+git: https://github.com/haiwen/seafile
 logohandle: seafile
 sort: seafile
 title: Seafile
-twitter: seafile
-website: 'https://www.seafile.com/en/home/'
+twitter: https://x.com/seafile
+website: https://www.seafile.com/en/home/
 ---

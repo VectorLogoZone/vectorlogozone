@@ -1,7 +1,7 @@
 ---
-github: flecs-hub/explorer
+git: https://github.com/flecs-hub/explorer
 logohandle: flecsdev
 sort: flecs
 title: Flecs
-website: 'https://www.flecs.dev/'
+website: https://www.flecs.dev/
 ---

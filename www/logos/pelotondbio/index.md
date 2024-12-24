@@ -1,8 +1,8 @@
 ---
-github: cmu-db/peloton
+git: https://github.com/cmu-db/peloton
 logohandle: pelotondbio
 sort: pelotondb
 title: Peloton
-twitter: cmudb
-website: 'https://pelotondb.io/'
+twitter: https://x.com/cmudb
+website: https://pelotondb.io/
 ---

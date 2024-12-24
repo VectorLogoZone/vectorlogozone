@@ -1,7 +1,7 @@
 ---
-github: facebook/componentkit
+git: https://github.com/facebook/componentkit
 logohandle: componentkit
 sort: componentkit
 title: ComponentKit
-website: 'https://componentkit.org/'
+website: https://componentkit.org/
 ---

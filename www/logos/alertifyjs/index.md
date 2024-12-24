@@ -1,5 +1,5 @@
 ---
-github: MohammadYounes/AlertifyJS/
+git: https://github.com/MohammadYounes/AlertifyJS/
 images:
 - alertifyjs-icon.svg
 - alertifyjs-ar21.svg
@@ -9,6 +9,6 @@ tags:
 - javascript
 - programming_library
 title: Alertify.js
-twitter: AlertifyJS
+twitter: https://x.com/AlertifyJS
 website: http://alertifyjs.com/
 ---

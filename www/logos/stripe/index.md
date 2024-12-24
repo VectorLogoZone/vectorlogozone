@@ -1,9 +1,9 @@
 ---
 blog: https://stripe.com/blog
 font:
-  name: Camphor
   myfonts: https://www.myfonts.com/fonts/mti/camphor/
-github: stripe
+  name: Camphor
+git: https://github.com/stripe
 images:
 - stripe-ar21.svg
 - stripe-icon.svg
@@ -12,7 +12,7 @@ sort: stripe
 tags:
 - payments
 title: Stripe
-twitter: stripe
+twitter: https://x.com/stripe
 website: https://www.stripe.com/
 wikipedia: https://en.wikipedia.org/wiki/Stripe_(company)
 ---

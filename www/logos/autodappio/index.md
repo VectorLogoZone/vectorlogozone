@@ -1,7 +1,7 @@
 ---
-github: autodapp/autodapp
+git: https://github.com/autodapp/autodapp
 logohandle: autodappio
 sort: autodapp
 title: AutoDapp
-website: 'https://autodapp.io/'
+website: https://autodapp.io/
 ---

@@ -2,6 +2,6 @@
 logohandle: captainmetrics
 sort: captainmetrics
 title: Captain Metrics
-twitter: captainmetrics
-website: 'https://captainmetrics.com/'
+twitter: https://x.com/captainmetrics
+website: https://captainmetrics.com/
 ---

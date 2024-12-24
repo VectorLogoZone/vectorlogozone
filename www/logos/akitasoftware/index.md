@@ -1,8 +1,8 @@
 ---
-github: akitasoftware
+git: https://github.com/akitasoftware
 logohandle: akitasoftware
 sort: akitasoftware
 title: Akita
-twitter: akitasoftware
-website: 'https://www.akitasoftware.com/'
+twitter: https://x.com/akitasoftware
+website: https://www.akitasoftware.com/
 ---

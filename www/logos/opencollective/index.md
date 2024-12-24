@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/open-collective'
-github: opencollective
+blog: https://medium.com/open-collective
+git: https://github.com/opencollective
 logohandle: opencollective
 sort: opencollective
 title: Open Collective
-twitter: opencollect
-website: 'https://opencollective.com/'
+twitter: https://x.com/opencollect
+website: https://opencollective.com/
 ---

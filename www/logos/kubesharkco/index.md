@@ -1,8 +1,8 @@
 ---
-github: kubeshark/kubeshark
+git: https://github.com/kubeshark/kubeshark
 logohandle: kubesharkco
 sort: kubeshark
 title: Kubeshark
-twitter: kubeshark_oss
-website: 'https://kubeshark.co/'
+twitter: https://x.com/kubeshark_oss
+website: https://kubeshark.co/
 ---

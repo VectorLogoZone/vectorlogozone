@@ -1,7 +1,7 @@
 ---
-github: VectorLogoZone/logosearch
+git: https://github.com/VectorLogoZone/logosearch
 logohandle: emojisearch
 sort: emojisearch
 title: Emoji Search
-website: 'https://www.emojisearch.org/'
+website: https://www.emojisearch.org/
 ---

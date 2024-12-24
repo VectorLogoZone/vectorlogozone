@@ -1,7 +1,7 @@
 ---
-github: LAION-AI
+git: https://github.com/LAION-AI
 logohandle: laionai
 sort: laion
 title: LAION
-website: 'https://laion.ai/'
+website: https://laion.ai/
 ---

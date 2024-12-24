@@ -1,8 +1,8 @@
 ---
-github: spectacles-ci
+git: https://github.com/spectacles-ci
 logohandle: spectaclesdev
 sort: spectacles
 title: Spectacles
-twitter: SpectaclesCI
-website: 'https://www.spectacles.dev/'
+twitter: https://x.com/SpectaclesCI
+website: https://www.spectacles.dev/
 ---

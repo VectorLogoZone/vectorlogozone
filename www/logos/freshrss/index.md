@@ -1,8 +1,8 @@
 ---
-github: FreshRSS/FreshRSS
+git: https://github.com/FreshRSS/FreshRSS
 logohandle: freshrss
 sort: freshrss
 title: FreshRSS
-twitter: FreshRSS
-website: 'https://freshrss.org/'
+twitter: https://x.com/FreshRSS
+website: https://freshrss.org/
 ---

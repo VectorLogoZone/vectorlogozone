@@ -1,8 +1,8 @@
 ---
-facebook: 'http://facebook.com/CNIL'
+facebook: http://facebook.com/CNIL
 logohandle: cnilfr
 sort: cnilfr
 title: CNIL
-twitter: cnil
-website: 'https://www.cnil.fr/'
+twitter: https://x.com/cnil
+website: https://www.cnil.fr/
 ---

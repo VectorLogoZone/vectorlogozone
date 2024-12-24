@@ -2,6 +2,6 @@
 logohandle: aragon
 sort: aragon
 title: Aragon
-twitter: aragonproject
-website: 'https://aragon.org/'
+twitter: https://x.com/aragonproject
+website: https://aragon.org/
 ---

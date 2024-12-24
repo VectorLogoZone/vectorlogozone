@@ -1,9 +1,9 @@
 ---
-facebook: 'http://facebook.com/TrackOFF.PrivacySoftware'
-linkedin: 'http://linkedin.com/company/trackoff'
+facebook: http://facebook.com/TrackOFF.PrivacySoftware
+linkedin: http://linkedin.com/company/trackoff
 logohandle: trackoff
 sort: trackoff
 title: TrackOFF
-twitter: TrackOFF
-website: 'https://www.trackoff.com/en'
+twitter: https://x.com/TrackOFF
+website: https://www.trackoff.com/en
 ---

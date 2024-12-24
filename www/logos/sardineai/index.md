@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/sardineai'
+linkedin: https://linkedin.com/company/sardineai
 logohandle: sardineai
 sort: sardine
 title: Sardine
-twitter: sardine
-website: 'https://www.sardine.ai/'
+twitter: https://x.com/sardine
+website: https://www.sardine.ai/
 ---

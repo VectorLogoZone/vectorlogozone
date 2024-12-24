@@ -1,7 +1,7 @@
 ---
 blog: http://blog.nodeping.com/
 facebook: https://www.facebook.com/nodeping
-github: nodeping
+git: https://github.com/nodeping
 images:
 - nodeping-ar21.svg
 - nodeping-icon.svg
@@ -10,6 +10,6 @@ sort: nodeping
 tags:
 - monitoring
 title: NodePing
-twitter: nodeping
+twitter: https://x.com/nodeping
 website: https://nodeping.com/
 ---

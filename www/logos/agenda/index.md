@@ -2,6 +2,6 @@
 logohandle: agenda
 sort: agenda
 title: Agenda
-twitter: agenda
-website: 'https://agenda.com/'
+twitter: https://x.com/agenda
+website: https://agenda.com/
 ---

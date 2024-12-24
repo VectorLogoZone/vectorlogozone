@@ -2,6 +2,6 @@
 logohandle: containerops
 sort: containerops
 title: Container Ops
-twitter: kelseyhightower
-website: 'https://containerops.org/'
+twitter: https://x.com/kelseyhightower
+website: https://containerops.org/
 ---

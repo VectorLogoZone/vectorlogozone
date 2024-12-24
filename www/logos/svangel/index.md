@@ -1,10 +1,10 @@
 ---
-blog: 'https://medium.com/@svangel'
-linkedin: 'https://linkedin.com/company/sv-angel'
+blog: https://medium.com/@svangel
+linkedin: https://linkedin.com/company/sv-angel
 logohandle: svangel
-pinterest: 'https://pinterest.com/'
+pinterest: https://pinterest.com/
 sort: svangel
 title: SV Angel
-twitter: svangel
-website: 'https://www.svangel.com/'
+twitter: https://x.com/svangel
+website: https://www.svangel.com/
 ---

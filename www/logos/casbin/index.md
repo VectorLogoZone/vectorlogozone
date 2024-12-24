@@ -1,9 +1,9 @@
 ---
-blog: 'https://casbin.org/blog/'
-github: casbin
+blog: https://casbin.org/blog/
+git: https://github.com/casbin
 logohandle: casbin
 sort: casbin
 title: Casbin
-twitter: CasbinNews
-website: 'https://casbin.org/en/'
+twitter: https://x.com/CasbinNews
+website: https://casbin.org/en/
 ---

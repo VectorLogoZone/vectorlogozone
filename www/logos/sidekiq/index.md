@@ -1,8 +1,8 @@
 ---
-github: mperham/sidekiq
+git: https://github.com/mperham/sidekiq
 logohandle: sidekiq
 sort: sidekiq
 title: Sidekiq
-twitter: sidekiq
-website: 'https://sidekiq.org/'
+twitter: https://x.com/sidekiq
+website: https://sidekiq.org/
 ---

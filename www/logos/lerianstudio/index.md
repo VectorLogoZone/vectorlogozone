@@ -1,8 +1,8 @@
 ---
-instagram: 'https://instagram.com/lerian.studio'
+instagram: https://instagram.com/lerian.studio
 logohandle: lerianstudio
 sort: lerian
 title: Lerian
-twitter: lerianstudio
-website: 'https://lerian.studio/'
+twitter: https://x.com/lerianstudio
+website: https://lerian.studio/
 ---

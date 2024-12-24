@@ -9,7 +9,7 @@ images:
 logohandle: pepsi
 sort: pepsi
 title: Pepsi
-twitter: pepsi
+twitter: https://x.com/pepsi
 website: https://www.pepsi.com/
 wikipedia: https://en.wikipedia.org/wiki/Pepsi
 ---

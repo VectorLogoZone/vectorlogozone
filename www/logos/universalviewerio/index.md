@@ -1,8 +1,8 @@
 ---
-github: universalviewer/universalviewer
+git: https://github.com/universalviewer/universalviewer
 logohandle: universalviewerio
 sort: universalviewer
 title: Universal Viewer
-twitter: universalviewer
-website: 'http://universalviewer.io/'
+twitter: https://x.com/universalviewer
+website: http://universalviewer.io/
 ---

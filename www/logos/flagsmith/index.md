@@ -1,7 +1,7 @@
 ---
-github: Flagsmith/flagsmith-api
+git: https://github.com/Flagsmith/flagsmith-api
 logohandle: flagsmith
 sort: flagsmith
 title: FlagSmith
-website: 'https://flagsmith.com/'
+website: https://flagsmith.com/
 ---

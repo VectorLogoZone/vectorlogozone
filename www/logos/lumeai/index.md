@@ -2,6 +2,6 @@
 logohandle: lumeai
 sort: lume
 title: Lume AI
-twitter: TryLume
-website: 'https://www.lume.ai/'
+twitter: https://x.com/TryLume
+website: https://www.lume.ai/
 ---

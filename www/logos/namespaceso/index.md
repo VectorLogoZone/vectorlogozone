@@ -1,9 +1,9 @@
 ---
-github: namespacelabs
-linkedin: 'https://linkedin.com/company/76501897'
+git: https://github.com/namespacelabs
+linkedin: https://linkedin.com/company/76501897
 logohandle: namespaceso
 sort: namespace
 title: Namespace
-twitter: namespacelabs
-website: 'https://namespace.so/'
+twitter: https://x.com/namespacelabs
+website: https://namespace.so/
 ---

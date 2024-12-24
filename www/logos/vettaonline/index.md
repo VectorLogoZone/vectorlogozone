@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/VettaOnline'
+facebook: https://facebook.com/VettaOnline
 logohandle: vettaonline
 sort: vettaonline
 title: Vetta Online
-twitter: VettaOnline
-website: 'https://www.vetta.online/'
+twitter: https://x.com/VettaOnline
+website: https://www.vetta.online/
 ---

@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/simplepractice'
-instagram: 'https://instagram.com/simplepractice'
-linkedin: 'https://linkedin.com/company/simplepractice'
+facebook: https://facebook.com/simplepractice
+instagram: https://instagram.com/simplepractice
+linkedin: https://linkedin.com/company/simplepractice
 logohandle: simplepractice
 sort: simplepractice
 title: SimplePractice
-twitter: simplepractice
-website: 'https://www.simplepractice.com/'
+twitter: https://x.com/simplepractice
+website: https://www.simplepractice.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: roadrunner-server
+git: https://github.com/roadrunner-server
 logohandle: roadrunnerdev
 sort: roadrunner
 title: Roadrunner
-website: 'https://roadrunner.dev/'
+website: https://roadrunner.dev/
 ---

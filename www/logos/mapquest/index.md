@@ -1,7 +1,7 @@
 ---
 blog: https://devblog.mapquest.com/
 facebook: https://www.facebook.com/MapQuest
-github: MapQuest
+git: https://github.com/MapQuest
 guide: http://hello.mapquest.com/press/
 images:
 - mapquest-ar21.svg
@@ -11,7 +11,7 @@ sort: mapquest
 tags:
 - mapping
 title: MapQuest
-twitter: MapQuest
+twitter: https://x.com/MapQuest
 website: https://www.mapquest.com/
 wikipedia: https://en.wikipedia.org/wiki/MapQuest
 ---

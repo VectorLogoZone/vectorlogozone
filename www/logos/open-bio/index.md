@@ -1,9 +1,9 @@
 ---
-blog: 'https://open-bio.org/blog'
-github: OBF
+blog: https://open-bio.org/blog
+git: https://github.com/OBF
 logohandle: open-bio
 sort: open-bio
 title: Open Bioinformatics Foundation
-twitter: obf_news
-website: 'https://www.open-bio.org/'
+twitter: https://x.com/obf_news
+website: https://www.open-bio.org/
 ---

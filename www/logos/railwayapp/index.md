@@ -1,8 +1,8 @@
 ---
-github: railwayapp
+git: https://github.com/railwayapp
 logohandle: railwayapp
 sort: railway
 title: Railway
-twitter: Railway_App
-website: 'https://railway.app/'
+twitter: https://x.com/Railway_App
+website: https://railway.app/
 ---

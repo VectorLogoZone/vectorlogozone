@@ -1,8 +1,8 @@
 ---
-github: RetroShare
+git: https://github.com/RetroShare
 logohandle: retrosharecc
 sort: retroshare
 title: Retroshare
-twitter: retroshare
-website: 'https://retroshare.cc/'
+twitter: https://x.com/retroshare
+website: https://retroshare.cc/
 ---

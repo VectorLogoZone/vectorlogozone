@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/namebase'
+facebook: https://facebook.com/namebase
 logohandle: namebaseio
 sort: namebase
 title: Namebase
-twitter: namebasehq
-website: 'https://www.namebase.io/'
+twitter: https://x.com/namebasehq
+website: https://www.namebase.io/
 ---

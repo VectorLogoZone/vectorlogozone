@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.replicache.dev/'
+blog: https://blog.replicache.dev/
 logohandle: replicachedev
 sort: replicache
 title: Replicache
-twitter: replicache
-website: 'https://replicache.dev/'
+twitter: https://x.com/replicache
+website: https://replicache.dev/
 ---

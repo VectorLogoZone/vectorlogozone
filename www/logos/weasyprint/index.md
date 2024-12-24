@@ -1,8 +1,8 @@
 ---
-github: Kozea/WeasyPrint
+git: https://github.com/Kozea/WeasyPrint
 logohandle: weasyprint
 sort: weasyprint
 title: WeasyPrint
-twitter: communitykozea
-website: 'https://weasyprint.org/'
+twitter: https://x.com/communitykozea
+website: https://weasyprint.org/
 ---

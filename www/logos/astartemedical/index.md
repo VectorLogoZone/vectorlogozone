@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/astarte-medical'
+linkedin: https://linkedin.com/company/astarte-medical
 logohandle: astartemedical
 sort: astartemedical
 title: Astarte Medical
-twitter: AstarteMedical
-website: 'http://astartemedical.com/'
+twitter: https://x.com/AstarteMedical
+website: http://astartemedical.com/
 ---

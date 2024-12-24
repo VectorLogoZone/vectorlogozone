@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.altinity.com/'
-facebook: 'https://facebook.com/AltinityDB'
-linkedin: 'https://linkedin.com/company/10955938'
+blog: https://blog.altinity.com/
+facebook: https://facebook.com/AltinityDB
+linkedin: https://linkedin.com/company/10955938
 logohandle: altinity
 sort: altinity
 title: Altinity
-twitter: AltinityDB
-website: 'https://www.altinity.com/'
+twitter: https://x.com/AltinityDB
+website: https://www.altinity.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: lbovet/yglu
+git: https://github.com/lbovet/yglu
 logohandle: ygluio
 sort: yglu
 title: Yglu
-website: 'https://yglu.io/'
+website: https://yglu.io/
 ---

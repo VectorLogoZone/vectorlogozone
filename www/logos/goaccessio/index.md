@@ -2,6 +2,6 @@
 logohandle: goaccessio
 sort: goaccess
 title: GoAccess
-twitter: goaccess
-website: 'https://goaccess.io/'
+twitter: https://x.com/goaccess
+website: https://goaccess.io/
 ---

@@ -1,7 +1,7 @@
 ---
-github: javalin/javalin
+git: https://github.com/javalin/javalin
 logohandle: javalinio
 sort: javalin
 title: Javalin
-website: 'https://javalin.io/'
+website: https://javalin.io/
 ---

@@ -1,7 +1,7 @@
 ---
-github: QuiteRSS/quiterss
+git: https://github.com/QuiteRSS/quiterss
 logohandle: quiterss
 sort: quiterss
 title: QuiteRSS
-website: 'https://quiterss.org/'
+website: https://quiterss.org/
 ---

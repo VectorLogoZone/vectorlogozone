@@ -1,12 +1,11 @@
 ---
-blog: 'https://keycdn.com/blog'
-facebook: 'http://facebook.com/keycdn'
-github: keycdn
-linkedin: 'https://linkedin.com/company/keycdn'
+blog: https://keycdn.com/blog
+facebook: http://facebook.com/keycdn
+git: https://github.com/keycdn
+linkedin: https://linkedin.com/company/keycdn
 logohandle: keycdn
 sort: keycdn
 title: KeyCDN
-twitter: keycdn
-website: 'https://www.keycdn.com/'
+twitter: https://x.com/keycdn
+website: https://www.keycdn.com/
 ---
-

@@ -1,11 +1,11 @@
 ---
-blog: 'https://gravwell.io/blog'
-facebook: 'https://facebook.com/gravwell'
-github: gravwell
-linkedin: 'https://linkedin.com/company/gravwell'
+blog: https://gravwell.io/blog
+facebook: https://facebook.com/gravwell
+git: https://github.com/gravwell
+linkedin: https://linkedin.com/company/gravwell
 logohandle: gravwellio
 sort: gravwell
 title: Gravwell
-twitter: gravwell_io
-website: 'https://www.gravwell.io/'
+twitter: https://x.com/gravwell_io
+website: https://www.gravwell.io/
 ---

@@ -1,8 +1,8 @@
 ---
-github: brentsimmons/NetNewsWire
+git: https://github.com/brentsimmons/NetNewsWire
 logohandle: netnewswire
 sort: netnewswire
 title: NetNewsWire
-twitter: netnewswire
-website: 'https://netnewswire.com/'
+twitter: https://x.com/netnewswire
+website: https://netnewswire.com/
 ---

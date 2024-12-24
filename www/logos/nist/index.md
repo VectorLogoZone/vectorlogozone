@@ -8,7 +8,7 @@ images:
 logohandle: nist
 sort: nist
 title: nist
-twitter: USNISTGOV
+twitter: https://x.com/USNISTGOV
 website: https://www.nist.gov/
 wikipedia: https://en.wikipedia.org/wiki/National_Institute_of_Standards_and_Technology
 ---

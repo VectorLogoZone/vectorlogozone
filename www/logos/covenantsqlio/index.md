@@ -1,10 +1,10 @@
 ---
-blog: 'https://medium.com/@covenant_labs'
-github: CovenantSQL/CovenantSQL
+blog: https://medium.com/@covenant_labs
+git: https://github.com/CovenantSQL/CovenantSQL
 logohandle: covenantsqlio
 sort: covenantsql
 title: CovenantSQL
-twitter: CovenantLabs
-website: 'https://covenantsql.io/'
-youtube: 'https://youtube.com/channel/UCe9P_TMiexSHW2GGV5qBmZw'
+twitter: https://x.com/CovenantLabs
+website: https://covenantsql.io/
+youtube: https://youtube.com/channel/UCe9P_TMiexSHW2GGV5qBmZw
 ---

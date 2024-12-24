@@ -1,8 +1,8 @@
 ---
-github: tannerlinsley/react-query
+git: https://github.com/tannerlinsley/react-query
 logohandle: tanstack_react-query
 sort: react-query
 title: React Query
-twitter: tannerlinsley
-website: 'https://react-query.tanstack.com/'
+twitter: https://x.com/tannerlinsley
+website: https://react-query.tanstack.com/
 ---

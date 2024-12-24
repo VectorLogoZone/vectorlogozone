@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/ELECTRONEEKRPA'
-linkedin: 'https://linkedin.com/company/electroneek'
+facebook: https://facebook.com/ELECTRONEEKRPA
+linkedin: https://linkedin.com/company/electroneek
 logohandle: electroneek
 sort: electroneek
 title: ElectroNeek
-twitter: electroneek
-website: 'https://electroneek.com/'
+twitter: https://x.com/electroneek
+website: https://electroneek.com/
 ---

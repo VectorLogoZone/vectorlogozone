@@ -1,8 +1,8 @@
 ---
-blog: 'http://kiwiirc.com/blog/'
-github: kiwiirc/kiwiirc
+blog: http://kiwiirc.com/blog/
+git: https://github.com/kiwiirc/kiwiirc
 logohandle: kiwiirc
 sort: kiwiirc
 title: KiwiIRC
-website: 'https://kiwiirc.com/'
+website: https://kiwiirc.com/
 ---

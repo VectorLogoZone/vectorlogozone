@@ -1,9 +1,9 @@
 ---
-facebook: 'https://code.facebook.com/projects'
-github: facebook/litho
+facebook: https://code.facebook.com/projects
+git: https://github.com/facebook/litho
 logohandle: fblitho
 sort: fblitho
 title: Litho
-twitter: fblitho
-website: 'https://fblitho.com/'
+twitter: https://x.com/fblitho
+website: https://fblitho.com/
 ---

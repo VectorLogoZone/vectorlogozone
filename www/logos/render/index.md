@@ -1,9 +1,9 @@
 ---
-github: renderinc
-linkedin: 'https://linkedin.com/company/renderco'
+git: https://github.com/renderinc
+linkedin: https://linkedin.com/company/renderco
 logohandle: render
 sort: render
 title: Render
-twitter: getrender
-website: 'https://render.com/'
+twitter: https://x.com/getrender
+website: https://render.com/
 ---

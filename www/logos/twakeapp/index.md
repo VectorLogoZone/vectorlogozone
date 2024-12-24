@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/TwakeApp'
-github: linagora/Twake
-linkedin: 'https://linkedin.com/company/twake'
+facebook: https://facebook.com/TwakeApp
+git: https://github.com/linagora/Twake
+linkedin: https://linkedin.com/company/twake
 logohandle: twakeapp
 sort: twake
 title: TWAKE
-twitter: Twake
-website: 'https://twake.app/'
+twitter: https://x.com/Twake
+website: https://twake.app/
 ---

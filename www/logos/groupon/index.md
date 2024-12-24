@@ -8,7 +8,7 @@ images:
 logohandle: groupon
 sort: groupon
 title: Groupon
-twitter: groupon
+twitter: https://x.com/groupon
 website: https://www.groupon.com/
 wikipedia: https://en.wikipedia.org/wiki/Groupon
 ---

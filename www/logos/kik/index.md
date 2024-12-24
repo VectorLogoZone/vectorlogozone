@@ -3,7 +3,7 @@ blog: https://www.kik.com/news
 colors:
 - '#5DCD11'
 facebook: https://www.facebook.com/kikplaynice
-github: kikinteractive
+git: https://github.com/kikinteractive
 images:
 - kik-icon.svg
 - kik-tile.svg
@@ -12,7 +12,7 @@ images:
 logohandle: kik
 sort: kik
 title: kik
-twitter: kik
+twitter: https://x.com/kik
 website: https://www.kik.com/
 wikipedia: https://en.wikipedia.org/wiki/Kik_Messenger
 ---

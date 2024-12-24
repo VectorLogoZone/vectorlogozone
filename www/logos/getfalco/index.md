@@ -1,7 +1,7 @@
 ---
-github: theodo/falco
+git: https://github.com/theodo/falco
 logohandle: getfalco
 sort: falco
 title: Falco
-website: 'https://getfal.co/'
+website: https://getfal.co/
 ---

@@ -10,6 +10,6 @@ tags:
 - mobile
 - saas
 title: HockeyApp
-twitter: mobilecenter
+twitter: https://x.com/mobilecenter
 website: https://hockeyapp.net/
 ---

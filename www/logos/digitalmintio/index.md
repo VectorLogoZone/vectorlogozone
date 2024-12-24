@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/digital-mint-io'
+linkedin: https://linkedin.com/company/digital-mint-io
 logohandle: digitalmintio
 sort: digitalmint
 title: DigitalMint
-twitter: DigitalMintIO
-website: 'https://www.digitalmint.io/'
+twitter: https://x.com/DigitalMintIO
+website: https://www.digitalmint.io/
 ---

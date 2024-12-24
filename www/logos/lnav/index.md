@@ -1,8 +1,8 @@
 ---
-github: tstack/lnav
+git: https://github.com/tstack/lnav
 logohandle: lnav
 sort: lnav
 title: Log File Navigator
-twitter: lnavapp
-website: 'http://lnav.org/'
+twitter: https://x.com/lnavapp
+website: http://lnav.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: SertoID
+git: https://github.com/SertoID
 logohandle: sertoid
 sort: sertoid
 title: Serto.id
-twitter: serto_id
-website: 'https://www.serto.id/'
+twitter: https://x.com/serto_id
+website: https://www.serto.id/
 ---

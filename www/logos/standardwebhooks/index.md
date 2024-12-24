@@ -1,7 +1,7 @@
 ---
-github: standard-webhooks/standard-webhooks
+git: https://github.com/standard-webhooks/standard-webhooks
 logohandle: standardwebhooks
 sort: standardwebhooks
 title: Standard Webhooks
-website: 'https://www.standardwebhooks.com/'
+website: https://www.standardwebhooks.com/
 ---

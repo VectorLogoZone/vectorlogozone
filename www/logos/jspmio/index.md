@@ -1,8 +1,8 @@
 ---
-dribbble: 'https://dribbble.com/luukdv'
-github: jspm/project
+dribbble: https://dribbble.com/luukdv
+git: https://github.com/jspm/project
 logohandle: jspmio
 sort: jspm
 title: jspm.io
-website: 'https://jspm.io/'
+website: https://jspm.io/
 ---

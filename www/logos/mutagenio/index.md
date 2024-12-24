@@ -1,8 +1,8 @@
 ---
-github: mutagen-io/mutagen
+git: https://github.com/mutagen-io/mutagen
 logohandle: mutagenio
 sort: mutagen
 title: Mutagen
-twitter: mutagen_io
-website: 'https://mutagen.io/'
+twitter: https://x.com/mutagen_io
+website: https://mutagen.io/
 ---

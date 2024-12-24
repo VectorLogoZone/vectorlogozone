@@ -1,6 +1,6 @@
 ---
 blog: http://blog.jquery.com/
-github: jquery
+git: https://github.com/jquery
 images:
 - jquery-wordmark.svg
 - jquery-vertical.svg
@@ -14,7 +14,7 @@ tags:
 - programming_library
 - javascript
 title: jQuery
-twitter: jquery
+twitter: https://x.com/jquery
 website: https://jquery.com/
 wikipedia: https://en.wikipedia.org/wiki/JQuery
 ---

@@ -6,7 +6,7 @@ images:
 logohandle: softbank
 sort: softbank
 title: SoftBank
-twitter: SoftBank
+twitter: https://x.com/SoftBank
 website: https://www.softbank.jp/en/
 wikipedia: https://en.wikipedia.org/wiki/SoftBank_Group
 ---

@@ -1,12 +1,12 @@
 ---
-blog: 'http://info.larky.com/blog/'
-facebook: 'https://facebook.com/getlarky'
-googleplus: 'https://plus.google.com/+Larky/posts'
-linkedin: 'https://linkedin.com/company/larky'
+blog: http://info.larky.com/blog/
+facebook: https://facebook.com/getlarky
+googleplus: https://plus.google.com/+Larky/posts
+linkedin: https://linkedin.com/company/larky
 logohandle: larky
 sort: larky
 title: Larky
-twitter: getlarky
-website: 'https://www.larky.com/'
-youtube: 'https://youtube.com/channel/UCoLsM833zBYJlMqy0QDdGqQ'
+twitter: https://x.com/getlarky
+website: https://www.larky.com/
+youtube: https://youtube.com/channel/UCoLsM833zBYJlMqy0QDdGqQ
 ---

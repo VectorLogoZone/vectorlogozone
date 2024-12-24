@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.crowdin.com/'
-facebook: 'https://facebook.com/crowdin'
-github: crowdin
+blog: https://blog.crowdin.com/
+facebook: https://facebook.com/crowdin
+git: https://github.com/crowdin
 logohandle: crowdin
 sort: crowdin
 title: Crowdin
-twitter: crowdin
-website: 'https://crowdin.com/'
+twitter: https://x.com/crowdin
+website: https://crowdin.com/
 ---

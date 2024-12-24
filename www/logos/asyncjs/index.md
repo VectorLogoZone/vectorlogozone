@@ -1,5 +1,5 @@
 ---
-github: caolan/async
+git: https://github.com/caolan/async
 images:
 - asyncjs-icon.svg
 - asyncjs-ar21.svg

@@ -1,7 +1,7 @@
 ---
-github: osscapital
+git: https://github.com/osscapital
 logohandle: osscapital
 sort: osscapital
 title: OSS Capital
-website: 'https://oss.capital/'
+website: https://oss.capital/
 ---

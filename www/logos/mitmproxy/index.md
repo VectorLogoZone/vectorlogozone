@@ -1,8 +1,8 @@
 ---
-github: mitmproxy/mitmproxy
+git: https://github.com/mitmproxy/mitmproxy
 logohandle: mitmproxy
 sort: mitmproxy
 title: mitmproxy
-twitter: mitmproxy
-website: 'https://mitmproxy.org/'
+twitter: https://x.com/mitmproxy
+website: https://mitmproxy.org/
 ---

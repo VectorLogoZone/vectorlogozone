@@ -1,9 +1,9 @@
 ---
-github: depot
-linkedin: 'https://linkedin.com/company/depot-technologies'
+git: https://github.com/depot
+linkedin: https://linkedin.com/company/depot-technologies
 logohandle: depotdev
 sort: depot
 title: Depot
-twitter: depotdev
-website: 'https://depot.dev/'
+twitter: https://x.com/depotdev
+website: https://depot.dev/
 ---

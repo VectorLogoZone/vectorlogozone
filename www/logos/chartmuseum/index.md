@@ -1,7 +1,7 @@
 ---
-github: helm/chartmuseum
+git: https://github.com/helm/chartmuseum
 logohandle: chartmuseum
 sort: chartmuseum
 title: ChartMuseum
-website: 'https://chartmuseum.com/'
+website: https://chartmuseum.com/
 ---

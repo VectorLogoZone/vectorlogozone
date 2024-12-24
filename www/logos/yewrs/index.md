@@ -1,8 +1,8 @@
 ---
-github: yewstack/yew
+git: https://github.com/yewstack/yew
 logohandle: yewrs
 sort: yew
 title: Yew
-twitter: yewstack
-website: 'https://yew.rs/'
+twitter: https://x.com/yewstack
+website: https://yew.rs/
 ---

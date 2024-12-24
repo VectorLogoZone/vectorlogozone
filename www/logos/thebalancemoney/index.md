@@ -1,12 +1,12 @@
 ---
-facebook: 'https://facebook.com/thebalancemoney'
-instagram: 'https://instagram.com/thebalancemoney'
-linkedin: 'https://linkedin.com/company/thebalancemoney'
+facebook: https://facebook.com/thebalancemoney
+instagram: https://instagram.com/thebalancemoney
+linkedin: https://linkedin.com/company/thebalancemoney
 logohandle: thebalancemoney
-pinterest: 'https://pinterest.com/thebalance'
+pinterest: https://pinterest.com/thebalance
 sort: balancemoney
 title: The Balance
-twitter: thebalance
-website: 'https://www.thebalancemoney.com/'
-wikipedia: 'https://en.wikipedia.org/wiki/The_Balance_(website)'
+twitter: https://x.com/thebalance
+website: https://www.thebalancemoney.com/
+wikipedia: https://en.wikipedia.org/wiki/The_Balance_(website)
 ---

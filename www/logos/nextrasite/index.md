@@ -1,8 +1,8 @@
 ---
-blog: 'https://mdxjs.com/blog/v2'
-github: shuding/nextra
+blog: https://mdxjs.com/blog/v2
+git: https://github.com/shuding/nextra
 logohandle: nextrasite
 sort: nextra
 title: Nextra
-website: 'https://nextra.site/'
+website: https://nextra.site/
 ---

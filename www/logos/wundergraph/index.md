@@ -1,7 +1,7 @@
 ---
-github: wundergraph
+git: https://github.com/wundergraph
 logohandle: wundergraph
 sort: wundergraph
 title: Wundergraph
-website: 'https://wundergraph.com/'
+website: https://wundergraph.com/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.codeforscience.org/'
-github: codeforscience
+blog: https://blog.codeforscience.org/
+git: https://github.com/codeforscience
 logohandle: codeforscience
 sort: codeforscience
 title: Code for Science & Society
-twitter: codeforsociety
-website: 'https://codeforscience.org/'
+twitter: https://x.com/codeforsociety
+website: https://codeforscience.org/
 ---

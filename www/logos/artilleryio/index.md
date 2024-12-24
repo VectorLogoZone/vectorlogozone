@@ -1,8 +1,8 @@
 ---
-github: artilleryio/artillery
+git: https://github.com/artilleryio/artillery
 logohandle: artilleryio
 sort: artillery
 title: Artillery.io
-twitter: artilleryio
-website: 'https://artillery.io/'
+twitter: https://x.com/artilleryio
+website: https://artillery.io/
 ---

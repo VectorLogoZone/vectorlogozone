@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.pyodide.org/'
-github: pyodide/pyodide
+blog: https://blog.pyodide.org/
+git: https://github.com/pyodide/pyodide
 logohandle: pyodide
 sort: pyodide
 title: Pyodide
-twitter: pyodide
-website: 'https://pyodide.org/en/stable/'
+twitter: https://x.com/pyodide
+website: https://pyodide.org/en/stable/
 ---

@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/TheDaveApp'
-instagram: 'https://instagram.com/thedaveapp'
+facebook: https://facebook.com/TheDaveApp
+instagram: https://instagram.com/thedaveapp
 logohandle: dave
 sort: dave
 title: Dave
-twitter: davesavesyou
-website: 'https://dave.com/'
+twitter: https://x.com/davesavesyou
+website: https://dave.com/
 ---

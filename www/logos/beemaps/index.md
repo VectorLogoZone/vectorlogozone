@@ -1,7 +1,7 @@
 ---
-github: hivemapper
+git: https://github.com/hivemapper
 logohandle: beemaps
 sort: beemaps
 title: Bee Maps
-website: 'https://beemaps.com/'
+website: https://beemaps.com/
 ---

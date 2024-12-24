@@ -1,7 +1,7 @@
 ---
-github: osquery
+git: https://github.com/osquery
 logohandle: osqueryio
 sort: osquery
 title: Osquery
-website: 'https://osquery.io/'
+website: https://osquery.io/
 ---

@@ -1,7 +1,7 @@
 ---
-github: gaia-pipeline/gaia
+git: https://github.com/gaia-pipeline/gaia
 logohandle: gaia-pipelineio
 sort: gaia-pipeline
 title: Gaia
-website: 'https://gaia-pipeline.io/'
+website: https://gaia-pipeline.io/
 ---

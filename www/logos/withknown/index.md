@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/withknown'
+facebook: https://facebook.com/withknown
 logohandle: withknown
 sort: known
 title: Known
-twitter: withknown
-website: 'https://withknown.com/'
+twitter: https://x.com/withknown
+website: https://withknown.com/
 ---

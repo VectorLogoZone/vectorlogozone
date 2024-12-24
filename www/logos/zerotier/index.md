@@ -1,8 +1,8 @@
 ---
-github: zerotier
+git: https://github.com/zerotier
 logohandle: zerotier
 sort: zerotier
 title: ZeroTier
-twitter: zerotier
-website: 'https://www.zerotier.com/'
+twitter: https://x.com/zerotier
+website: https://www.zerotier.com/
 ---

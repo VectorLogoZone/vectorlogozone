@@ -1,7 +1,7 @@
 ---
-github: aws/karpenter
+git: https://github.com/aws/karpenter
 logohandle: karpentersh
 sort: karpenter
 title: Karpenter
-website: 'https://karpenter.sh/'
+website: https://karpenter.sh/
 ---

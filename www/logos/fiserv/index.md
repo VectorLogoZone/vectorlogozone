@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/fiserv'
-linkedin: 'https://linkedin.com/company/fiserv'
+facebook: https://facebook.com/fiserv
+linkedin: https://linkedin.com/company/fiserv
 logohandle: fiserv
 sort: fiserv
 title: Fiserv
-twitter: fiserv
-website: 'https://www.fiserv.com/'
+twitter: https://x.com/fiserv
+website: https://www.fiserv.com/
 ---

@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/Econlib'
+facebook: https://facebook.com/Econlib
 logohandle: econlib
 sort: econlib
 title: Econlib
-twitter: econlib
-website: 'https://www.econlib.org/'
+twitter: https://x.com/econlib
+website: https://www.econlib.org/
 ---

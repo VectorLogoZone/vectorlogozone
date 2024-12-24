@@ -8,7 +8,7 @@ sort: minecraft
 tags:
 - game
 title: Minecraft
-twitter: minecraft
+twitter: https://x.com/minecraft
 website: https://minecraft.net
 wikipedia: https://en.wikipedia.org/wiki/Minecraft
 ---

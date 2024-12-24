@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/feedpress'
+facebook: https://facebook.com/feedpress
 logohandle: feedpress
 sort: feedpress
 title: FeedPress
-twitter: feedpress
-website: 'https://feedpress.com/'
+twitter: https://x.com/feedpress
+website: https://feedpress.com/
 ---

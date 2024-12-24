@@ -2,6 +2,6 @@
 logohandle: wildlandio
 sort: wildland
 title: Wildland
-twitter: WildlandIO
-website: 'https://wildland.io/'
+twitter: https://x.com/WildlandIO
+website: https://wildland.io/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/oasis-protocol-project'
-github: oasislabs
+blog: https://medium.com/oasis-protocol-project
+git: https://github.com/oasislabs
 logohandle: oasis-protocol
 sort: oasis-protocol
 title: Oasis Protocol
-twitter: Oasis_Protocol
-website: 'https://www.oasis-protocol.org/'
+twitter: https://x.com/Oasis_Protocol
+website: https://www.oasis-protocol.org/
 ---

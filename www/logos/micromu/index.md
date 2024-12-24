@@ -1,8 +1,8 @@
 ---
-github: micro
+git: https://github.com/micro
 logohandle: micromu
 sort: micro
 title: Micro
-twitter: microhq
-website: 'https://micro.mu/'
+twitter: https://x.com/microhq
+website: https://micro.mu/
 ---

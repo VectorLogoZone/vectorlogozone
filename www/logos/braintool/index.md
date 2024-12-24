@@ -1,8 +1,8 @@
 ---
-github: tconfrey/BrainTool
+git: https://github.com/tconfrey/BrainTool
 logohandle: braintool
 sort: braintool
 title: BrainTool
-twitter: abraintool
-website: 'https://braintool.org/'
+twitter: https://x.com/abraintool
+website: https://braintool.org/
 ---

@@ -1,7 +1,7 @@
 ---
-github: sandstorm-io/sandstorm
+git: https://github.com/sandstorm-io/sandstorm
 logohandle: sandstorm
 sort: sandstorm
 title: Sandstorm
-website: 'https://sandstorm.org/'
+website: https://sandstorm.org/
 ---

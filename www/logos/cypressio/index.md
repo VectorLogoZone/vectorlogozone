@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/cypressio'
-github: cypress-io/cypress
+facebook: https://facebook.com/cypressio
+git: https://github.com/cypress-io/cypress
 logohandle: cypressio
 sort: cypress
 title: Cypress
-twitter: Cypress_io
-website: 'https://www.cypress.io/'
+twitter: https://x.com/Cypress_io
+website: https://www.cypress.io/
 ---

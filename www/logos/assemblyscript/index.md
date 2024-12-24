@@ -1,8 +1,8 @@
 ---
-github: AssemblyScript
+git: https://github.com/AssemblyScript
 logohandle: assemblyscript
 sort: assemblyscript
 title: AssemblyScript
-twitter: AssemblyScript
-website: 'https://www.assemblyscript.org/'
+twitter: https://x.com/AssemblyScript
+website: https://www.assemblyscript.org/
 ---

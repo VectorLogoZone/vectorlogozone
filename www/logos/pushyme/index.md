@@ -1,8 +1,8 @@
 ---
-github: pushy
+git: https://github.com/pushy
 logohandle: pushyme
 sort: pushy
 title: Pushy
-twitter: pushyofficial
-website: 'https://pushy.me/'
+twitter: https://x.com/pushyofficial
+website: https://pushy.me/
 ---

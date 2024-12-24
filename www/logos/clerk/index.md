@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/clerkdev'
-github: clerkinc
-linkedin: 'https://linkedin.com/company/clerkinc'
+facebook: https://facebook.com/clerkdev
+git: https://github.com/clerkinc
+linkedin: https://linkedin.com/company/clerkinc
 logohandle: clerk
 sort: clerk
 title: Clerk
-twitter: ClerkDev
-website: 'https://clerk.com/'
+twitter: https://x.com/ClerkDev
+website: https://clerk.com/
 ---

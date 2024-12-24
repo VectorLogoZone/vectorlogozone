@@ -1,8 +1,8 @@
 ---
-github: dunglas/mercure
+git: https://github.com/dunglas/mercure
 logohandle: mercurerocks
 sort: mercure
 title: Mercure.rocks
-twitter: MercureRealtime
-website: 'https://mercure.rocks/'
+twitter: https://x.com/MercureRealtime
+website: https://mercure.rocks/
 ---

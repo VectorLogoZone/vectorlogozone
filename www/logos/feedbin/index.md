@@ -1,9 +1,9 @@
 ---
-blog: 'https://feedbin.com/blo'
-github: feedbin
+blog: https://feedbin.com/blo
+git: https://github.com/feedbin
 logohandle: feedbin
 sort: feedbin
 title: Feedbin
-twitter: feedbin
-website: 'https://feedbin.com/'
+twitter: https://x.com/feedbin
+website: https://feedbin.com/
 ---

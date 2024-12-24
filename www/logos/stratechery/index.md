@@ -2,6 +2,6 @@
 logohandle: stratechery
 sort: stratechery
 title: Stratechery
-twitter: stratechery
-website: 'https://stratechery.com/'
+twitter: https://x.com/stratechery
+website: https://stratechery.com/
 ---

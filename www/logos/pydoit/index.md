@@ -1,8 +1,8 @@
 ---
-github: pydoit/doit
+git: https://github.com/pydoit/doit
 logohandle: pydoit
 sort: doit
 title: doit
-twitter: py_doit
-website: 'https://pydoit.org/'
+twitter: https://x.com/py_doit
+website: https://pydoit.org/
 ---

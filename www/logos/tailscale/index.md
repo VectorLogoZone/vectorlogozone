@@ -2,6 +2,6 @@
 logohandle: tailscale
 sort: tailscale
 title: Tailscale
-twitter: tailscale
-website: 'https://tailscale.com/'
+twitter: https://x.com/tailscale
+website: https://tailscale.com/
 ---

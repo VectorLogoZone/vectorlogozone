@@ -1,9 +1,8 @@
 ---
-github: stdlib/lib
+git: https://github.com/stdlib/lib
 logohandle: stdlib
 sort: stdlib
 title: StdLib
-twitter: stdlibhq
-website: 'https://stdlib.com/'
+twitter: https://x.com/stdlibhq
+website: https://stdlib.com/
 ---
-

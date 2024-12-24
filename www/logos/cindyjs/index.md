@@ -1,7 +1,7 @@
 ---
-github: CindyJS/CindyJS
+git: https://github.com/CindyJS/CindyJS
 logohandle: cindyjs
 sort: cindyjs
 title: CindyJS
-website: 'https://cindyjs.org/'
+website: https://cindyjs.org/
 ---

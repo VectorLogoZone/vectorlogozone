@@ -1,10 +1,10 @@
 ---
-blog: 'https://graphistry.com/blog'
-github: graphistry
-linkedin: 'https://linkedin.com/company/graphistry'
+blog: https://graphistry.com/blog
+git: https://github.com/graphistry
+linkedin: https://linkedin.com/company/graphistry
 logohandle: graphistry
 sort: graphistry
 title: Graphistry
-twitter: Graphistry
-website: 'https://www.graphistry.com/'
+twitter: https://x.com/Graphistry
+website: https://www.graphistry.com/
 ---

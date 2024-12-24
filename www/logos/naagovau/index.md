@@ -6,7 +6,7 @@ tags:
 - australia
 - digital_preservation
 title: National Archives (Australia)
-twitter: naagovau
+twitter: https://x.com/naagovau
 website: http://www.naa.gov.au/
 wikipedia: https://en.wikipedia.org/wiki/National_Archives_of_Australia
 ---

@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/42813987'
+linkedin: https://linkedin.com/company/42813987
 logohandle: signadot
 sort: signadot
 title: Signadot
-twitter: signadot
-website: 'https://www.signadot.com/'
+twitter: https://x.com/signadot
+website: https://www.signadot.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: remy/wm
+git: https://github.com/remy/wm
 logohandle: webmentionapp
 sort: webmention
 title: Webmention.app
-website: 'https://webmention.app/'
+website: https://webmention.app/
 ---

@@ -6,7 +6,7 @@ images:
 logohandle: fsf
 sort: fsf
 title: FSF
-twitter: fsf
+twitter: https://x.com/fsf
 website: https://www.fsf.org/
 wikipedia: https://en.wikipedia.org/wiki/Free_Software_Foundation
 ---

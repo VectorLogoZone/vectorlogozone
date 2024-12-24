@@ -2,6 +2,6 @@
 logohandle: skreensite
 sort: skreen
 title: sKreen
-twitter: smartskreen
-website: 'https://skreen.site/'
+twitter: https://x.com/smartskreen
+website: https://skreen.site/
 ---

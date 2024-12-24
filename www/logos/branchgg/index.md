@@ -2,6 +2,6 @@
 logohandle: branchgg
 sort: branch
 title: Branch
-twitter: branch_gg
-website: 'https://branch.gg/'
+twitter: https://x.com/branch_gg
+website: https://branch.gg/
 ---

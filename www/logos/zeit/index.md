@@ -1,7 +1,7 @@
 ---
 blog: https://zeit.co/blog
 facebook: https://facebook.com/zeithq
-github: zeit
+git: https://github.com/zeit
 guide: https://github.com/zeit/art
 images:
 - zeit-ar21.svg
@@ -13,7 +13,7 @@ tags:
 - hosting
 - cloud
 title: ZEIT
-twitter: zeithq
+twitter: https://x.com/zeithq
 website: https://zeit.co/
 youtube: https://youtube.com/channel/UCLq8gNoee7oXM7MvTdjyQvA
 ---

@@ -1,8 +1,8 @@
 ---
-github: aptabase/aptabase
+git: https://github.com/aptabase/aptabase
 logohandle: aptabase
 sort: aptabase
 title: Aptabase
-twitter: aptabase
-website: 'https://aptabase.com/'
+twitter: https://x.com/aptabase
+website: https://aptabase.com/
 ---

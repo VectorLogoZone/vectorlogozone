@@ -1,7 +1,7 @@
 ---
-github: timothymiller/t4-app
+git: https://github.com/timothymiller/t4-app
 logohandle: t4stack
 sort: t4stack
 title: T4
-website: 'https://t4stack.com/'
+website: https://t4stack.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: airyhq
+git: https://github.com/airyhq
 logohandle: airyco
 sort: airy
 title: Airy
-twitter: airy_hq
-website: 'https://airy.co/'
+twitter: https://x.com/airy_hq
+website: https://airy.co/
 ---

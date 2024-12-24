@@ -1,8 +1,8 @@
 ---
-github: paperwork/paperwork
+git: https://github.com/paperwork/paperwork
 logohandle: paperworkcloud
 sort: paperwork
 title: Paperwork
-twitter: paperworkcloud
-website: 'https://paperwork.cloud/'
+twitter: https://x.com/paperworkcloud
+website: https://paperwork.cloud/
 ---

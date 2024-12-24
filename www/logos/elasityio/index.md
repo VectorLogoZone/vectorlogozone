@@ -1,10 +1,10 @@
 ---
-blog: 'https://elasity.io/blog'
-googleplus: 'https://plus.google.com/+itmethods/posts'
-linkedin: 'https://linkedin.com/company/elasity'
+blog: https://elasity.io/blog
+googleplus: https://plus.google.com/+itmethods/posts
+linkedin: https://linkedin.com/company/elasity
 logohandle: elasityio
 sort: elasity
 title: Elasity
-twitter: elasity
-website: 'https://elasity.io/'
+twitter: https://x.com/elasity
+website: https://elasity.io/
 ---

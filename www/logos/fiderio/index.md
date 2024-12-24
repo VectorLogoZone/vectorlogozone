@@ -1,8 +1,8 @@
 ---
-github: getfider/fider
+git: https://github.com/getfider/fider
 logohandle: fiderio
 sort: fider
 title: Fider
-twitter: getfider
-website: 'https://fider.io/'
+twitter: https://x.com/getfider
+website: https://fider.io/
 ---

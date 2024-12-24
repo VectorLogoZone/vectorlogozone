@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.weechat.org/'
-github: weechat
+blog: https://blog.weechat.org/
+git: https://github.com/weechat
 logohandle: weechat
 sort: weechat
 title: WeeChat
-twitter: WeeChatClient
-website: 'https://weechat.org/'
+twitter: https://x.com/WeeChatClient
+website: https://weechat.org/
 ---

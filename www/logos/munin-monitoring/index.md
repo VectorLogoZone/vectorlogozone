@@ -1,7 +1,7 @@
 ---
-github: munin-monitoring/munin
+git: https://github.com/munin-monitoring/munin
 logohandle: munin-monitoring
 sort: munin-monitoring
 title: Munin
-website: 'https://munin-monitoring.org/'
+website: https://munin-monitoring.org/
 ---

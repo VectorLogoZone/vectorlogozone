@@ -1,9 +1,9 @@
 ---
-github: digitalbazaar
-linkedin: 'https://linkedin.com/company/digital-bazaar-inc-/about'
+git: https://github.com/digitalbazaar
+linkedin: https://linkedin.com/company/digital-bazaar-inc-/about
 logohandle: digitalbazaar
 sort: digitalbazaar
 title: Digital Bazaar
-twitter: digitalbazaar
-website: 'https://www.digitalbazaar.com/'
+twitter: https://x.com/digitalbazaar
+website: https://www.digitalbazaar.com/
 ---

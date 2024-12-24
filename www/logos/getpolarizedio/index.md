@@ -1,8 +1,8 @@
 ---
-github: burtonator/polar-bookshelf
+git: https://github.com/burtonator/polar-bookshelf
 logohandle: getpolarizedio
 sort: polar
 title: POLAR
-twitter: getpolarized
-website: 'https://getpolarized.io/'
+twitter: https://x.com/getpolarized
+website: https://getpolarized.io/
 ---

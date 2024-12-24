@@ -1,8 +1,8 @@
 ---
-blog: 'https://speedcurve.com/blog/'
+blog: https://speedcurve.com/blog/
 logohandle: speedcurve
 sort: speedcurve
 title: SpeedCurve
-twitter: speedcurve
-website: 'https://speedcurve.com/'
+twitter: https://x.com/speedcurve
+website: https://speedcurve.com/
 ---

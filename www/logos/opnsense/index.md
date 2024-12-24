@@ -1,10 +1,10 @@
 ---
-blog: 'https://opnsense.org/blog'
-github: opnsense
-linkedin: 'https://linkedin.com/groups/6958160'
+blog: https://opnsense.org/blog
+git: https://github.com/opnsense
+linkedin: https://linkedin.com/groups/6958160
 logohandle: opnsense
 sort: opnsense
 title: OPNsense
-twitter: opnsense
-website: 'https://opnsense.org/'
+twitter: https://x.com/opnsense
+website: https://opnsense.org/
 ---

@@ -10,7 +10,7 @@ images:
 logohandle: walmart
 sort: walmart
 title: Walmart
-twitter: walmart
+twitter: https://x.com/walmart
 website: https://www.walmart.com
 wikipedia: https://en.wikipedia.org/wiki/Walmart
 ---

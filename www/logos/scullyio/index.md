@@ -1,8 +1,8 @@
 ---
-github: scullyio/scully
+git: https://github.com/scullyio/scully
 logohandle: scullyio
 sort: scully
 title: Scully
-twitter: ScullyIO
-website: 'https://scully.io/'
+twitter: https://x.com/ScullyIO
+website: https://scully.io/
 ---

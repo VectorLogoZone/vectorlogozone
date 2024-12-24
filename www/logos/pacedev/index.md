@@ -1,9 +1,9 @@
 ---
-blog: 'https://pace.dev/blog/'
-github: pacedotdev
+blog: https://pace.dev/blog/
+git: https://github.com/pacedotdev
 logohandle: pacedev
 sort: pace
 title: PACE
-twitter: pacedotdev
-website: 'https://pace.dev/'
+twitter: https://x.com/pacedotdev
+website: https://pace.dev/
 ---

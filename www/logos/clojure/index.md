@@ -1,5 +1,5 @@
 ---
-github: clojure/clojure
+git: https://github.com/clojure/clojure
 logohandle: clojure
 sort: clojure
 title: Clojure

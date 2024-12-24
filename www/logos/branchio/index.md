@@ -6,6 +6,6 @@ logohandle: branchio
 sort: branch
 soundcloud: https://soundcloud.com/branchmetrics
 title: Branch
-twitter: branchmetrics
-website: 'https://branch.io/'
+twitter: https://x.com/branchmetrics
+website: https://branch.io/
 ---

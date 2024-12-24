@@ -13,7 +13,7 @@ sort: zoom
 tags:
 - videoconference
 title: Zoom
-twitter: zoom_us
+twitter: https://x.com/zoom_us
 website: https://zoom.us/
 wikipedia: https://en.wikipedia.org/wiki/Zoom_Video_Communications
 ---

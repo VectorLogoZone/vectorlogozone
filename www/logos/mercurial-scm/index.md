@@ -6,7 +6,7 @@ sort: mercurial
 tags:
 - version_control
 title: mercurial
-twitter: mercurialscm
+twitter: https://x.com/mercurialscm
 website: https://www.mercurial-scm.org/
 wikipedia: https://en.wikipedia.org/wiki/Mercurial
 ---

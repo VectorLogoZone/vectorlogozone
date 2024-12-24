@@ -1,10 +1,10 @@
 ---
-blog: 'https://macrometa.co/blog'
-github: macrometacorp
-linkedin: 'https://linkedin.com/company/macrometa-corporation'
+blog: https://macrometa.co/blog
+git: https://github.com/macrometacorp
+linkedin: https://linkedin.com/company/macrometa-corporation
 logohandle: macrometaco
 sort: macrometa
 title: Macrometa
-twitter: macrometacorp
-website: 'https://www.macrometa.co/'
+twitter: https://x.com/macrometacorp
+website: https://www.macrometa.co/
 ---

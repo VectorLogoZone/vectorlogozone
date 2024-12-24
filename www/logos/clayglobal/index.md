@@ -1,9 +1,9 @@
 ---
-dribbble: 'https://dribbble.com/clayglobal'
-instagram: 'https://instagram.com/clayglobal'
+dribbble: https://dribbble.com/clayglobal
+instagram: https://instagram.com/clayglobal
 logohandle: clayglobal
 sort: clay
 title: Clay
-twitter: clayglobal
-website: 'https://clay.global/'
+twitter: https://x.com/clayglobal
+website: https://clay.global/
 ---

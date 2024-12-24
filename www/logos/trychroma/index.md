@@ -1,8 +1,8 @@
 ---
-github: chroma-core/chroma
+git: https://github.com/chroma-core/chroma
 logohandle: trychroma
 sort: chroma
 title: Chroma
-twitter: trychroma
-website: 'https://www.trychroma.com/'
+twitter: https://x.com/trychroma
+website: https://www.trychroma.com/
 ---

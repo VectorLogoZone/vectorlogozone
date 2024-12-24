@@ -2,6 +2,6 @@
 logohandle: stumbledto
 sort: stumbled
 title: Stumbled
-twitter: StumbleTheWeb
-website: 'https://stumbled.to/'
+twitter: https://x.com/StumbleTheWeb
+website: https://stumbled.to/
 ---

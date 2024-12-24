@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/loopia'
-instagram: 'https://instagram.com/loopiaab'
-linkedin: 'https://linkedin.com/company/loopia-ab'
+facebook: https://facebook.com/loopia
+instagram: https://instagram.com/loopiaab
+linkedin: https://linkedin.com/company/loopia-ab
 logohandle: loopiase
 sort: loopia
 title: Loopia
-twitter: loopia
-website: 'https://www.loopia.se/'
-youtube: 'https://youtube.com/loopiawebbhotell'
+twitter: https://x.com/loopia
+website: https://www.loopia.se/
+youtube: https://youtube.com/loopiawebbhotell
 ---

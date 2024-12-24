@@ -1,7 +1,7 @@
 ---
-github: openwebdocs
+git: https://github.com/openwebdocs
 logohandle: openwebdocs
 sort: openwebdocs
 title: Open Web Docs
-website: 'https://openwebdocs.org/'
+website: https://openwebdocs.org/
 ---

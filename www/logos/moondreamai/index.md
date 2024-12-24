@@ -1,7 +1,7 @@
 ---
-github: vikhyat/moondream
+git: https://github.com/vikhyat/moondream
 logohandle: moondreamai
 sort: moondream
 title: moondream
-website: 'https://moondream.ai/'
+website: https://moondream.ai/
 ---

@@ -2,6 +2,6 @@
 logohandle: multiverseplus
 sort: multiverse
 title: Multiverse
-twitter: surfMultiverse
-website: 'https://multiverse.plus/'
+twitter: https://x.com/surfMultiverse
+website: https://multiverse.plus/
 ---

@@ -1,8 +1,8 @@
 ---
-blog: 'https://dokku.github.io/'
-github: dokku/dokku
+blog: https://dokku.github.io/
+git: https://github.com/dokku/dokku
 logohandle: dokku
 sort: dokku
 title: Dokku
-website: 'http://dokku.viewdocs.io/dokku/'
+website: http://dokku.viewdocs.io/dokku/
 ---

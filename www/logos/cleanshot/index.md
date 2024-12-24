@@ -2,6 +2,6 @@
 logohandle: cleanshot
 sort: cleanshot
 title: CleanShot
-twitter: cleanshot
-website: 'https://cleanshot.com/'
+twitter: https://x.com/cleanshot
+website: https://cleanshot.com/
 ---

@@ -1,11 +1,11 @@
 ---
-github: apache/rocketmq
+git: https://github.com/apache/rocketmq
 logohandle: apache_rocketmq
 sort: rocketmq
 tags:
 - apache
 - mq
 title: Apache RocketMQ
-twitter: ApacheRocketMQ
-website: 'https://rocketmq.apache.org/'
+twitter: https://x.com/ApacheRocketMQ
+website: https://rocketmq.apache.org/
 ---

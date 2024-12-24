@@ -1,7 +1,7 @@
 ---
-github: bigskysoftware/htmx
+git: https://github.com/bigskysoftware/htmx
 logohandle: htmx
 sort: htmx
 title: htmx
-website: 'https://htmx.org/'
+website: https://htmx.org/
 ---

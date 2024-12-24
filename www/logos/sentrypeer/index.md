@@ -1,8 +1,8 @@
 ---
-github: SentryPeer/SentryPeer
+git: https://github.com/SentryPeer/SentryPeer
 logohandle: sentrypeer
 sort: sentrypeer
 title: SentryPeer
-twitter: SentryPeer
-website: 'https://sentrypeer.org/'
+twitter: https://x.com/SentryPeer
+website: https://sentrypeer.org/
 ---

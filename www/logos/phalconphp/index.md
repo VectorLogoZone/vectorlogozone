@@ -1,10 +1,10 @@
 ---
 blog: https://phalcon.link/blog
-github: phalcon/cphalcon
+git: https://github.com/phalcon/cphalcon
 logohandle: phalconphp
 sort: phalconphp
 title: Phalcon
-twitter: phalconphp
+twitter: https://x.com/phalconphp
 website: https://phalconphp.com/en/
 wikipedia: https://en.wikipedia.org/wiki/Phalcon_(framework)
 ---

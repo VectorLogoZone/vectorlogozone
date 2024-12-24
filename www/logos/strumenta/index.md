@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/strumenta'
+linkedin: https://linkedin.com/company/strumenta
 logohandle: strumenta
 sort: strumenta
 title: Strumenta
-twitter: strumenta
-website: 'https://strumenta.com/'
+twitter: https://x.com/strumenta
+website: https://strumenta.com/
 ---

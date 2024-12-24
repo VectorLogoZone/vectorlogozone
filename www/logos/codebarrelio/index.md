@@ -1,8 +1,8 @@
 ---
-blog: 'http://blog.codebarrel.io/'
+blog: http://blog.codebarrel.io/
 logohandle: codebarrelio
 sort: codebarrelio
 title: Code Barrel
-twitter: Code_Barrel
-website: 'https://codebarrel.io/'
+twitter: https://x.com/Code_Barrel
+website: https://codebarrel.io/
 ---

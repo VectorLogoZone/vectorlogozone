@@ -2,6 +2,6 @@
 logohandle: mltshp
 sort: mltshp
 title: MLTSHP
-twitter: mltshphq
-website: 'https://mltshp.com/'
+twitter: https://x.com/mltshphq
+website: https://mltshp.com/
 ---

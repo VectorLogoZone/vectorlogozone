@@ -1,9 +1,9 @@
 ---
-dribbble: 'https://dribbble.com/salesforce'
-github: salesforce-ux/design-system
+dribbble: https://dribbble.com/salesforce
+git: https://github.com/salesforce-ux/design-system
 logohandle: lightningdesignsystem
 sort: lightningdesignsystem
 title: Lightning Design System
-twitter: salesforceux
-website: 'https://www.lightningdesignsystem.com/'
+twitter: https://x.com/salesforceux
+website: https://www.lightningdesignsystem.com/
 ---

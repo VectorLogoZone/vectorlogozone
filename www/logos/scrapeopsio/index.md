@@ -1,7 +1,7 @@
 ---
-github: ScrapeOps
+git: https://github.com/ScrapeOps
 logohandle: scrapeopsio
 sort: scrapeops
 title: ScrapeOps
-website: 'https://scrapeops.io/'
+website: https://scrapeops.io/
 ---

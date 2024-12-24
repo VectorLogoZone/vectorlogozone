@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/InterNetworX'
+facebook: https://facebook.com/InterNetworX
 logohandle: inwx
 sort: inwx
 title: INWX
-twitter: INWX
-website: 'https://www.inwx.com/en'
+twitter: https://x.com/INWX
+website: https://www.inwx.com/en
 ---

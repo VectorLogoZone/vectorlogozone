@@ -1,7 +1,7 @@
 ---
-github: chaskiq/chaskiq
+git: https://github.com/chaskiq/chaskiq
 logohandle: chaskiqio
 sort: chaskiq
 title: Chaskiq
-website: 'https://www.chaskiq.io/'
+website: https://www.chaskiq.io/
 ---

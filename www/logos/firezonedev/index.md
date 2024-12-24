@@ -1,9 +1,9 @@
 ---
-github: firezone/firezone
-linkedin: 'https://linkedin.com/company/firezonehq'
+git: https://github.com/firezone/firezone
+linkedin: https://linkedin.com/company/firezonehq
 logohandle: firezonedev
 sort: firezone
 title: Firezone
-twitter: firezonehq
-website: 'https://www.firezone.dev/'
+twitter: https://x.com/firezonehq
+website: https://www.firezone.dev/
 ---

@@ -1,8 +1,8 @@
 ---
-github: tursodatabase
+git: https://github.com/tursodatabase
 logohandle: tursotech
 sort: turso
 title: Turso
-twitter: tursodatabase
-website: 'https://turso.tech/'
+twitter: https://x.com/tursodatabase
+website: https://turso.tech/
 ---

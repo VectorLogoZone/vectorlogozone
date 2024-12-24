@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/deltec'
+linkedin: https://linkedin.com/company/deltec
 logohandle: deltecbank
 sort: deltecbank
 title: Deltec Bank
-twitter: deltecbank
-website: 'https://www.deltecbank.com/'
+twitter: https://x.com/deltecbank
+website: https://www.deltecbank.com/
 ---

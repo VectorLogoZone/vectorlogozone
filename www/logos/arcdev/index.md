@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/arcdotdev'
+facebook: https://facebook.com/arcdotdev
 logohandle: arcdev
 sort: arc
 title: arc
-twitter: arcdotdev
-website: 'https://arc.dev/'
+twitter: https://x.com/arcdotdev
+website: https://arc.dev/
 ---

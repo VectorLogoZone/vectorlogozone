@@ -1,12 +1,12 @@
 ---
-facebook: 'https://facebook.com/shrinedev'
-github: shrinedev
-instagram: 'https://instagram.com/shrinedev'
-linkedin: 'https://linkedin.com/shrinedev'
+facebook: https://facebook.com/shrinedev
+git: https://github.com/shrinedev
+instagram: https://instagram.com/shrinedev
+linkedin: https://linkedin.com/shrinedev
 logohandle: shrinedev
 sort: shrinedev
 title: ShrineDev
-twitter: shrinedev
-website: 'https://shrinedev.com/'
-youtube: 'https://youtube.com/channel/UCW8mJNdBSx2lxiJoRfr0_3Q'
+twitter: https://x.com/shrinedev
+website: https://shrinedev.com/
+youtube: https://youtube.com/channel/UCW8mJNdBSx2lxiJoRfr0_3Q
 ---

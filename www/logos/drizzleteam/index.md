@@ -1,8 +1,8 @@
 ---
-github: drizzle-team
+git: https://github.com/drizzle-team
 logohandle: drizzleteam
 sort: drizzle
 title: Drizzle Team
-twitter: DrizzleOrm
-website: 'https://drizzle.team/'
+twitter: https://x.com/DrizzleOrm
+website: https://drizzle.team/
 ---

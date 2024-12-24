@@ -10,7 +10,7 @@ linkedin: https://www.linkedin.com/company/oracle
 logohandle: oracle
 sort: oracle
 title: Oracle
-twitter: oracle
+twitter: https://x.com/oracle
 website: https://www.oracle.com/
 wikipedia: https://en.wikipedia.org/wiki/Oracle_Corporation
 youtube: http://www.youtube.com/oracle/

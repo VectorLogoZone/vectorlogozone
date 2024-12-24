@@ -1,8 +1,8 @@
 ---
-github: pandas-dev/pandas
+git: https://github.com/pandas-dev/pandas
 logohandle: pydata_pandas
 sort: pandas
 title: pandas
-twitter: pandas_dev
-website: 'https://pandas.pydata.org/'
+twitter: https://x.com/pandas_dev
+website: https://pandas.pydata.org/
 ---

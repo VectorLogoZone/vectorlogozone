@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.binaris.com/'
-github: binaris/jobs
+blog: https://blog.binaris.com/
+git: https://github.com/binaris/jobs
 logohandle: binaris
 sort: binaris
 title: Binaris
-twitter: gobinaris
-website: 'https://www.binaris.com/'
+twitter: https://x.com/gobinaris
+website: https://www.binaris.com/
 ---

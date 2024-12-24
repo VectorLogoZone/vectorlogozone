@@ -1,6 +1,6 @@
 ---
 facebook: https://www.facebook.com/iTextPDF/
-github: itext
+git: https://github.com/itext
 googleplus: https://plus.google.com/+itext
 images:
 - itextpdf-icon.svg
@@ -13,7 +13,7 @@ tags:
 - pdf
 - programming_library
 title: iText
-twitter: iText
+twitter: https://x.com/iText
 website: http://itextpdf.com/
 wikipedia: https://en.wikipedia.org/wiki/IText
 youtube: https://www.youtube.com/channel/UC6kL1_Vm712V3XDM1_RSY8w

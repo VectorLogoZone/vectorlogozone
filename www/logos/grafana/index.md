@@ -1,8 +1,8 @@
 ---
-github: grafana/grafana
+git: https://github.com/grafana/grafana
 logohandle: grafana
 sort: grafana
 title: Grafana
-twitter: grafana
-website: 'https://grafana.com/'
+twitter: https://x.com/grafana
+website: https://grafana.com/
 ---

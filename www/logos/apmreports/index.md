@@ -1,9 +1,9 @@
 ---
-facebook: 'http://facebook.com/apmreports'
-instagram: 'http://instagram.com/apmreports'
+facebook: http://facebook.com/apmreports
+instagram: http://instagram.com/apmreports
 logohandle: apmreports
 sort: apmreports
 title: APM Reports
-twitter: apmreports
-website: 'https://www.apmreports.org/'
+twitter: https://x.com/apmreports
+website: https://www.apmreports.org/
 ---

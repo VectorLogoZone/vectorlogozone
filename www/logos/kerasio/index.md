@@ -1,7 +1,7 @@
 ---
-github: keras-team
+git: https://github.com/keras-team
 logohandle: kerasio
 sort: keras
 title: Keras
-website: 'https://keras.io/'
+website: https://keras.io/
 ---

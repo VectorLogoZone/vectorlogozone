@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/arrofinance'
-instagram: 'https://instagram.com/arrofinance'
-linkedin: 'https://linkedin.com/company/arrofinance'
+facebook: https://facebook.com/arrofinance
+instagram: https://instagram.com/arrofinance
+linkedin: https://linkedin.com/company/arrofinance
 logohandle: arrofinance
 sort: arrofinance
 title: Arro
-twitter: arrofinance
-website: 'https://arrofinance.com/'
+twitter: https://x.com/arrofinance
+website: https://arrofinance.com/
 ---

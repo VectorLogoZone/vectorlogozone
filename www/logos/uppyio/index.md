@@ -1,8 +1,8 @@
 ---
-github: transloadit/uppy
+git: https://github.com/transloadit/uppy
 logohandle: uppyio
 sort: uppy
 title: Uppy
-twitter: uppy_io
-website: 'https://uppy.io/'
+twitter: https://x.com/uppy_io
+website: https://uppy.io/
 ---

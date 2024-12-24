@@ -1,7 +1,7 @@
 ---
-github: versatiles-org
+git: https://github.com/versatiles-org
 logohandle: versatiles
 sort: versatiles
 title: VersaTiles
-website: 'https://versatiles.org/'
+website: https://versatiles.org/
 ---

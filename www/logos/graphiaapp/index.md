@@ -1,7 +1,7 @@
 ---
-github: graphia-app
+git: https://github.com/graphia-app
 logohandle: graphiaapp
 sort: graphia
 title: Graphia
-website: 'https://graphia.app/'
+website: https://graphia.app/
 ---

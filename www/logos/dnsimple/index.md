@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.dnsimple.com/'
-dribbble: 'https://dribbble.com/'
-facebook: 'https://facebook.com/dnsimple'
+blog: https://blog.dnsimple.com/
+dribbble: https://dribbble.com/
+facebook: https://facebook.com/dnsimple
 logohandle: dnsimple
 sort: dnsimple
 title: DNSimple
-twitter: dnsimple
-website: 'https://dnsimple.com/'
+twitter: https://x.com/dnsimple
+website: https://dnsimple.com/
 ---

@@ -1,10 +1,10 @@
 ---
-blog: 'https://semaphoreci.com/blog'
-facebook: 'https://facebook.com/SemaphoreCI'
-github: SemaphoreCI
+blog: https://semaphoreci.com/blog
+facebook: https://facebook.com/SemaphoreCI
+git: https://github.com/SemaphoreCI
 logohandle: semaphoreci
 sort: semaphoreci
 title: SemaphoreCI
-twitter: semaphoreci
-website: 'https://semaphoreci.com/'
+twitter: https://x.com/semaphoreci
+website: https://semaphoreci.com/
 ---

@@ -9,7 +9,7 @@ instagram: https://www.instagram.com/braintree/
 logohandle: braintreepayments
 sort: braintreepayments
 title: Braintree
-twitter: braintree
+twitter: https://x.com/braintree
 website: https://www.braintreepayments.com/
 wikipedia: https://en.wikipedia.org/wiki/Braintree_(company)
 ---

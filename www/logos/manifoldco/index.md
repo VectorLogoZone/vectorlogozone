@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.manifold.co/'
+blog: https://blog.manifold.co/
 logohandle: manifoldco
 sort: manifold
 title: Manifold
-twitter: manifoldco
-website: 'https://www.manifold.co/'
+twitter: https://x.com/manifoldco
+website: https://www.manifold.co/
 ---

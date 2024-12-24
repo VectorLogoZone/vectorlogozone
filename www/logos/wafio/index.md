@@ -1,8 +1,8 @@
 ---
-blog: 'https://waf.io/blog'
-github: ita1024/waf
+blog: https://waf.io/blog
+git: https://github.com/ita1024/waf
 logohandle: wafio
 sort: waf
 title: Waf
-website: 'https://waf.io/'
+website: https://waf.io/
 ---

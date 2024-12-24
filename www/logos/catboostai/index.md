@@ -1,8 +1,8 @@
 ---
-github: catboost
+git: https://github.com/catboost
 logohandle: catboostai
 sort: catboost
 title: CatBoost
-twitter: CatBoostML
-website: 'https://catboost.ai/'
+twitter: https://x.com/CatBoostML
+website: https://catboost.ai/
 ---

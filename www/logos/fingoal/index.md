@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/fingoal'
+linkedin: https://linkedin.com/company/fingoal
 logohandle: fingoal
 sort: fingoal
 title: FinGoal
-twitter: therealfingoal
-website: 'https://fingoal.com/'
+twitter: https://x.com/therealfingoal
+website: https://fingoal.com/
 ---

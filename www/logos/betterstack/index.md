@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/betterstack'
+linkedin: https://linkedin.com/company/betterstack
 logohandle: betterstack
 sort: betterstack
 title: Better Stack
-twitter: betterstackhq
-website: 'https://betterstack.com/'
+twitter: https://x.com/betterstackhq
+website: https://betterstack.com/
 ---

@@ -6,7 +6,7 @@ facebook: https://www.facebook.com/disqus/
 font:
   myfonts: https://www.myfonts.com/fonts/exljbris/museo-sans-cyrillic/900/
   name: Museo Sans Cyrl-900
-github: disqus
+git: https://github.com/disqus
 guide: https://disqus.com/brand/
 images:
 - disqus-ar21.svg
@@ -16,7 +16,7 @@ images:
 logohandle: disqus
 sort: disqus
 title: Disqus
-twitter: disqus
+twitter: https://x.com/disqus
 website: https://disqus.com/
 wikipedia: https://en.wikipedia.org/wiki/Disqus
 ---

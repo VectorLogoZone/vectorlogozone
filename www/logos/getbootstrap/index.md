@@ -1,6 +1,6 @@
 ---
 blog: https://blog.getbootstrap.com/
-github: twbs/bootstrap
+git: https://github.com/twbs/bootstrap
 images:
 - getbootstrap-icon.svg
 - getbootstrap-ar21.svg
@@ -10,6 +10,6 @@ tags:
 - webdesign
 - site_template
 title: Bootstrap
-twitter: getbootstrap
+twitter: https://x.com/getbootstrap
 website: http://getbootstrap.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: microsoft/onnxruntime
+git: https://github.com/microsoft/onnxruntime
 logohandle: onnxruntimeai
 sort: onnxruntime
 title: ONNX Runtime
-twitter: hashtag/ONNXRuntime
-website: 'https://onnxruntime.ai/'
+twitter: https://x.com/hashtag/ONNXRuntime
+website: https://onnxruntime.ai/
 ---

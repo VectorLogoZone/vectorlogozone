@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/groups/kitecompositor'
-github: kitecomp
+facebook: https://facebook.com/groups/kitecompositor
+git: https://github.com/kitecomp
 logohandle: kiteappco
 sort: kiteapp
 title: Kite Compositor
-twitter: kitecompositor
-website: 'https://kiteapp.co/'
+twitter: https://x.com/kitecompositor
+website: https://kiteapp.co/
 ---

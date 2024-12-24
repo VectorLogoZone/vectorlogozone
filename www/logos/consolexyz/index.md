@@ -2,6 +2,6 @@
 logohandle: consolexyz
 sort: consolexyz
 title: Console.xyz
-twitter: consoledao
-website: 'https://www.console.xyz/'
+twitter: https://x.com/consoledao
+website: https://www.console.xyz/
 ---

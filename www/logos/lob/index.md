@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/lob'
-linkedin: 'https://linkedin.com/company/lob'
+facebook: https://facebook.com/lob
+linkedin: https://linkedin.com/company/lob
 logohandle: lob
 sort: lob
 title: Lob
-twitter: lob
-website: 'https://lob.com/'
+twitter: https://x.com/lob
+website: https://lob.com/
 ---

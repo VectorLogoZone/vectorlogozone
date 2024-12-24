@@ -1,7 +1,7 @@
 ---
-github: arx-deidentifier/arx
+git: https://github.com/arx-deidentifier/arx
 logohandle: deidentifier_arx
 sort: arx
 title: ARX
-website: 'https://arx.deidentifier.org/'
+website: https://arx.deidentifier.org/
 ---

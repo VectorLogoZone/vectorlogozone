@@ -1,12 +1,12 @@
 ---
-facebook: 'https://facebook.com/carbondata'
-github: cncf/landscape
-linkedin: 'https://linkedin.com/groups/10334501'
+facebook: https://facebook.com/carbondata
+git: https://github.com/cncf/landscape
+linkedin: https://linkedin.com/groups/10334501
 logohandle: apache_carbondata
 sort: carbondata
 tags:
 - apache
 title: CarbonData
-twitter: ApacheCarbonDat
-website: 'https://carbondata.apache.org/'
+twitter: https://x.com/ApacheCarbonDat
+website: https://carbondata.apache.org/
 ---

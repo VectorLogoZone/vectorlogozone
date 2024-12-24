@@ -1,8 +1,8 @@
 ---
-github: blend2d/blend2d
+git: https://github.com/blend2d/blend2d
 logohandle: blend2d
 sort: blend2d
 title: Blend2D
-twitter: blend2d
-website: 'https://blend2d.com/'
+twitter: https://x.com/blend2d
+website: https://blend2d.com/
 ---

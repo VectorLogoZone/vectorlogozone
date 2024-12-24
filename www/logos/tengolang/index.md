@@ -1,7 +1,7 @@
 ---
-github: d5/tengo
+git: https://github.com/d5/tengo
 logohandle: tengolang
 sort: tengolang
 title: Tengo
-website: 'https://tengolang.com/'
+website: https://tengolang.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: zanata/zanata-platform
+git: https://github.com/zanata/zanata-platform
 logohandle: zanata
 sort: zanata
 title: Zanata
-website: 'http://zanata.org/'
+website: http://zanata.org/
 ---

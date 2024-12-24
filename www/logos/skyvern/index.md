@@ -1,9 +1,9 @@
 ---
-github: Skyvern-AI/Skyvern
-linkedin: 'https://linkedin.com/company/95726232'
+git: https://github.com/Skyvern-AI/Skyvern
+linkedin: https://linkedin.com/company/95726232
 logohandle: skyvern
 sort: skyvern
 title: Skyvern
-twitter: skyvernai
-website: 'https://www.skyvern.com/'
+twitter: https://x.com/skyvernai
+website: https://www.skyvern.com/
 ---

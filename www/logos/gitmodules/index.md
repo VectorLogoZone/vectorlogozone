@@ -2,6 +2,6 @@
 logohandle: gitmodules
 sort: gitmodules
 title: Git X-Modules
-twitter: gitmodules
-website: 'https://gitmodules.com/'
+twitter: https://x.com/gitmodules
+website: https://gitmodules.com/
 ---

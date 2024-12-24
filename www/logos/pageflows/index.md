@@ -1,9 +1,9 @@
 ---
-linkedin: 'https://linkedin.com/company/pageflows/posts/?feedView=all'
+linkedin: https://linkedin.com/company/pageflows/posts/?feedView=all
 logohandle: pageflows
-pinterest: 'https://pinterest.com/PageFlowsDesign'
+pinterest: https://pinterest.com/PageFlowsDesign
 sort: pageflows
 title: Page Flows
-twitter: pageflows
-website: 'https://pageflows.com/'
+twitter: https://x.com/pageflows
+website: https://pageflows.com/
 ---

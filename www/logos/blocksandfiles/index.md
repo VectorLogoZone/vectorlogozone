@@ -2,6 +2,6 @@
 logohandle: blocksandfiles
 sort: blocksandfiles
 title: Blocks and Files
-twitter: blocksandfiles
-website: 'https://blocksandfiles.com/'
+twitter: https://x.com/blocksandfiles
+website: https://blocksandfiles.com/
 ---

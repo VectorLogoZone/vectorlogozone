@@ -1,6 +1,6 @@
 ---
 facebook: https://www.facebook.com/MicrosoftEdge/
-github: MicrosoftEdge
+git: https://github.com/MicrosoftEdge
 images:
 - microsoft_edge-icon.svg
 - microsoft_edge-ar21.svg
@@ -10,7 +10,7 @@ tags:
 - browser
 - microsoft
 title: Microsoft Edge
-twitter: MicrosoftEdge
+twitter: https://x.com/MicrosoftEdge
 website: https://www.microsoft.com/en-us/edge/
 wikipedia: https://en.wikipedia.org/wiki/Microsoft_Edge
 ---

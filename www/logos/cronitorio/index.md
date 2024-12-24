@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.cronitor.io/'
+blog: https://blog.cronitor.io/
 logohandle: cronitorio
 sort: cronitor
 title: Cronitor
-twitter: cronitorio
-website: 'https://cronitor.io/'
+twitter: https://x.com/cronitorio
+website: https://cronitor.io/
 ---

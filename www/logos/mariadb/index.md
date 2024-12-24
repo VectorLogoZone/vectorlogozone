@@ -7,7 +7,7 @@ images:
 logohandle: mariadb
 sort: mariadb
 title: MariaDB
-twitter: mariadb
+twitter: https://x.com/mariadb
 website: https://mariadb.org/
 wikipedia: https://en.wikipedia.org/wiki/MariaDB
 ---

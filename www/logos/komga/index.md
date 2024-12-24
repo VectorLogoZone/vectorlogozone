@@ -1,7 +1,7 @@
 ---
-github: gotson/komga
+git: https://github.com/gotson/komga
 logohandle: komga
 sort: komga
 title: Komga
-website: 'https://komga.org/'
+website: https://komga.org/
 ---

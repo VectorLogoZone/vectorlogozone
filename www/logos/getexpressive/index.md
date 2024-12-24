@@ -1,8 +1,8 @@
 ---
-github: zendframework/zend-expressive
+git: https://github.com/zendframework/zend-expressive
 logohandle: getexpressive
 sort: getexpressive
 title: Expressive
-twitter: zfdevteam
-website: 'https://getexpressive.org/'
+twitter: https://x.com/zfdevteam
+website: https://getexpressive.org/
 ---

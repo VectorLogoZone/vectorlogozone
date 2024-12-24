@@ -1,9 +1,9 @@
 ---
-blog: 'https://upstart.com/blog/'
-facebook: 'https://facebook.com/TeamUpstart'
+blog: https://upstart.com/blog/
+facebook: https://facebook.com/TeamUpstart
 logohandle: upstart
 sort: upstart
 title: Upstart
-twitter: Upstart
-website: 'https://www.upstart.com/'
+twitter: https://x.com/Upstart
+website: https://www.upstart.com/
 ---

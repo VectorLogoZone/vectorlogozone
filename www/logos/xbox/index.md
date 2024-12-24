@@ -13,7 +13,7 @@ tags:
 - gameconsole
 - microsoft
 title: Xbox
-twitter: xbox
+twitter: https://x.com/xbox
 website: https://www.xbox.com
 wikipedia: https://en.wikipedia.org/wiki/Xbox
 ---

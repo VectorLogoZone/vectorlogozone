@@ -1,8 +1,8 @@
 ---
-github: tailwindcss/tailwindcss
+git: https://github.com/tailwindcss/tailwindcss
 logohandle: tailwindcss
 sort: tailwindcss
 title: Tailwind CSS
-twitter: tailwindcss
-website: 'https://tailwindcss.com/'
+twitter: https://x.com/tailwindcss
+website: https://tailwindcss.com/
 ---

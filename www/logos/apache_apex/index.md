@@ -1,10 +1,10 @@
 ---
-github: apache/apex-core
+git: https://github.com/apache/apex-core
 logohandle: apache_apex
 sort: apex
 tags:
 - apache
 title: Apex
-twitter: ApacheApex
+twitter: https://x.com/ApacheApex
 website: https://apex.apache.org/
 ---

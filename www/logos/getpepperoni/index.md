@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/getpepperoni'
-github: futurice/pepperoni-app-kit
+facebook: https://facebook.com/getpepperoni
+git: https://github.com/futurice/pepperoni-app-kit
 logohandle: getpepperoni
 sort: getpepperoni
 title: Pepperoni
-twitter: getpepperoni
-website: 'http://getpepperoni.com/'
+twitter: https://x.com/getpepperoni
+website: http://getpepperoni.com/
 ---

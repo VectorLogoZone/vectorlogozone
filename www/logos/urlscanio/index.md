@@ -1,8 +1,8 @@
 ---
-blog: 'https://urlscan.io/blog/'
+blog: https://urlscan.io/blog/
 logohandle: urlscanio
 sort: urlscanio
 title: urlscan.io
-twitter: urlscanio
-website: 'https://urlscan.io/'
+twitter: https://x.com/urlscanio
+website: https://urlscan.io/
 ---

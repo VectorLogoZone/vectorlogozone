@@ -1,5 +1,5 @@
 ---
-github: fileformat/sandcastlezone
+git: https://github.com/fileformat/sandcastlezone
 images:
 - sandcastlezone-ar21.svg
 - sandcastlezone-icon.svg

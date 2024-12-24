@@ -1,7 +1,7 @@
 ---
-github: brownplt/pyret-lang
+git: https://github.com/brownplt/pyret-lang
 logohandle: pyret
 sort: pyret
 title: Pyret
-website: 'https://www.pyret.org/index.html'
+website: https://www.pyret.org/index.html
 ---

@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/YablaLanguages'
+facebook: https://facebook.com/YablaLanguages
 logohandle: yabla
 sort: yabla
 title: Yabla
-twitter: yabla
-website: 'https://www.yabla.com/'
+twitter: https://x.com/yabla
+website: https://www.yabla.com/
 ---

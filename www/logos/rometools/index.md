@@ -1,8 +1,8 @@
 ---
-github: rome/tools
+git: https://github.com/rome/tools
 logohandle: rometools
 sort: rome
 title: Rome Tools
-twitter: rometools
-website: 'https://rome.tools/'
+twitter: https://x.com/rometools
+website: https://rome.tools/
 ---

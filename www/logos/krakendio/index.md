@@ -1,10 +1,10 @@
 ---
-blog: 'https://krakend.io/blog'
-facebook: 'https://facebook.com/apigateway'
-github: devopsfaith/krakend
+blog: https://krakend.io/blog
+facebook: https://facebook.com/apigateway
+git: https://github.com/devopsfaith/krakend
 logohandle: krakendio
 sort: krakend
 title: KrakenD
-twitter: devopsfaith
-website: 'https://www.krakend.io/'
+twitter: https://x.com/devopsfaith
+website: https://www.krakend.io/
 ---

@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/emailitin'
+facebook: https://facebook.com/emailitin
 logohandle: emailitin
 sort: emailitin
 title: Email It In
-twitter: emailitin
-website: 'https://www.emailitin.com/'
+twitter: https://x.com/emailitin
+website: https://www.emailitin.com/
 ---

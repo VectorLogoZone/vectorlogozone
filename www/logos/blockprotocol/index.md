@@ -1,8 +1,8 @@
 ---
-github: blockprotocol
+git: https://github.com/blockprotocol
 logohandle: blockprotocol
 sort: blockprotocol
 title: Block Protocol
-twitter: blockprotocol
-website: 'https://blockprotocol.org/'
+twitter: https://x.com/blockprotocol
+website: https://blockprotocol.org/
 ---

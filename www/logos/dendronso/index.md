@@ -1,8 +1,8 @@
 ---
-github: dendronhq/dendron
+git: https://github.com/dendronhq/dendron
 logohandle: dendronso
 sort: dendron
 title: Dendron
-twitter: dendronhq
-website: 'https://www.dendron.so/'
+twitter: https://x.com/dendronhq
+website: https://www.dendron.so/
 ---

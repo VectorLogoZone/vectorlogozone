@@ -2,6 +2,6 @@
 logohandle: barclays
 sort: barclays
 title: Barclays
-twitter: Barclays
-website: 'https://www.home.barclays/'
+twitter: https://x.com/Barclays
+website: https://www.home.barclays/
 ---

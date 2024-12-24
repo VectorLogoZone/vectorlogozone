@@ -1,9 +1,9 @@
 ---
-blog: 'https://gatsbyjs.org/blog'
-github: gatsbyjs/gatsby
+blog: https://gatsbyjs.org/blog
+git: https://github.com/gatsbyjs/gatsby
 logohandle: gatsbyjs
 sort: gatsbyjs
-title: 'Gatsby.js'
-twitter: gatsbyjs
-website: 'https://www.gatsbyjs.com/'
+title: Gatsby.js
+twitter: https://x.com/gatsbyjs
+website: https://www.gatsbyjs.com/
 ---

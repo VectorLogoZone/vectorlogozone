@@ -2,6 +2,6 @@
 logohandle: ideaboardz
 sort: ideaboardz
 title: IdeaBoardz
-twitter: ideaboardz
-website: 'https://ideaboardz.com/'
+twitter: https://x.com/ideaboardz
+website: https://ideaboardz.com/
 ---

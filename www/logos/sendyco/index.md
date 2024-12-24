@@ -2,6 +2,6 @@
 logohandle: sendyco
 sort: sendy
 title: Sendy
-twitter: getSendy
-website: 'https://sendy.co/'
+twitter: https://x.com/getSendy
+website: https://sendy.co/
 ---

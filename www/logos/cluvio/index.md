@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/Cluvio'
-linkedin: 'https://linkedin.com/company/cluvio'
+facebook: https://facebook.com/Cluvio
+linkedin: https://linkedin.com/company/cluvio
 logohandle: cluvio
 sort: cluvio
 title: Cluvio
-twitter: Cluvio
-website: 'https://www.cluvio.com/'
+twitter: https://x.com/Cluvio
+website: https://www.cluvio.com/
 ---

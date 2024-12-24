@@ -1,8 +1,9 @@
 ---
-colors: ['#AF0011']
-font: 
-  name: "Helvetica"
-github: regexplanet
+colors:
+- '#AF0011'
+font:
+  name: Helvetica
+git: https://github.com/regexplanet
 images:
 - regexplanet-ar21.svg
 - regexplanet-icon.svg

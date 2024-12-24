@@ -1,8 +1,8 @@
 ---
-github: google/docsy
+git: https://github.com/google/docsy
 logohandle: docsydev
 sort: docsy
 title: Docsy
-twitter: docsydocs
-website: 'https://www.docsy.dev/'
+twitter: https://x.com/docsydocs
+website: https://www.docsy.dev/
 ---

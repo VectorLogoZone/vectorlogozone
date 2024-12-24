@@ -7,7 +7,7 @@ images:
 logohandle: firstinspires
 sort: first
 title: FIRST
-twitter: firstweets
+twitter: https://x.com/firstweets
 website: https://www.firstinspires.org/
 wikipedia: https://en.wikipedia.org/wiki/FIRST_Robotics_Competition
 ---

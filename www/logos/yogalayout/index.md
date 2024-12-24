@@ -1,8 +1,8 @@
 ---
-github: facebook/yoga
+git: https://github.com/facebook/yoga
 logohandle: yogalayout
 sort: yogalayout
 title: Yoga Layout
-twitter: yogalayout
-website: 'https://yogalayout.com/'
+twitter: https://x.com/yogalayout
+website: https://yogalayout.com/
 ---

@@ -1,8 +1,8 @@
 ---
-instagram: 'https://www.instagram.com/gchq/'
+instagram: https://www.instagram.com/gchq/
 logohandle: gchqgovuk
 sort: gchq
 title: GCHQ
-twitter: gchq
-website: 'https://www.gchq.gov.uk/'
+twitter: https://x.com/gchq
+website: https://www.gchq.gov.uk/
 ---

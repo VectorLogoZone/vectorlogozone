@@ -1,8 +1,8 @@
 ---
-github: micrometer-metrics/micrometer
+git: https://github.com/micrometer-metrics/micrometer
 logohandle: micrometerio
 sort: micrometer
 title: Micrometer
-twitter: micrometerio
-website: 'https://micrometer.io/'
+twitter: https://x.com/micrometerio
+website: https://micrometer.io/
 ---

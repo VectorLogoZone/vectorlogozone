@@ -1,8 +1,8 @@
 ---
-github: browserify/browserify
+git: https://github.com/browserify/browserify
 logohandle: browserify
 sort: browserify
 title: Browserify
-twitter: browserify
-website: 'http://browserify.org/'
+twitter: https://x.com/browserify
+website: http://browserify.org/
 ---

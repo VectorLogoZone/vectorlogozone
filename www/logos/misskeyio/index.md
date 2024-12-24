@@ -1,7 +1,7 @@
 ---
-github: misskey-dev/misskey
+git: https://github.com/misskey-dev/misskey
 logohandle: misskeyio
 sort: misskey
 title: Misskey
-website: 'https://misskey.io/'
+website: https://misskey.io/
 ---

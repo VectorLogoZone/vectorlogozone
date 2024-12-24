@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.rightcapital.com/'
+blog: https://blog.rightcapital.com/
 logohandle: rightcapital
 sort: rightcapital
 title: RightCapital
-twitter: RightCapitalHQ
-website: 'https://www.rightcapital.com/'
+twitter: https://x.com/RightCapitalHQ
+website: https://www.rightcapital.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: ThreeDotsLabs
-linkedin: 'https://linkedin.com/company/three-dots-labs'
+git: https://github.com/ThreeDotsLabs
+linkedin: https://linkedin.com/company/three-dots-labs
 logohandle: threedotslabs
 sort: threedotslabs
 title: Three Dots Labs
-website: 'https://threedotslabs.com/'
+website: https://threedotslabs.com/
 ---

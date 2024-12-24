@@ -2,6 +2,6 @@
 logohandle: feelmuddy
 sort: muddy
 title: Muddy
-twitter: feelmuddy
-website: 'https://www.feelmuddy.com/'
+twitter: https://x.com/feelmuddy
+website: https://www.feelmuddy.com/
 ---

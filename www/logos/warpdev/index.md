@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.warp.dev/'
-github: warpdotdev/warp
+blog: https://blog.warp.dev/
+git: https://github.com/warpdotdev/warp
 logohandle: warpdev
 sort: warp
 title: Warp
-twitter: warpdotdev
-website: 'https://www.warp.dev/'
+twitter: https://x.com/warpdotdev
+website: https://www.warp.dev/
 ---

@@ -1,8 +1,8 @@
 ---
-github: splitbee
+git: https://github.com/splitbee
 logohandle: splitbeeio
 sort: splitbee
 title: Splitbee
-twitter: splitbee
-website: 'https://splitbee.io/'
+twitter: https://x.com/splitbee
+website: https://splitbee.io/
 ---

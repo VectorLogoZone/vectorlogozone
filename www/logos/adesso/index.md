@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/AdessoInc'
-linkedin: 'https://linkedin.com/company/adesso-incorporated'
+facebook: https://facebook.com/AdessoInc
+linkedin: https://linkedin.com/company/adesso-incorporated
 logohandle: adesso
 sort: adesso
 title: Adesso
-twitter: marketingadesso
-website: 'https://www.adesso.com/'
-youtube: 'https://youtube.com/channel/UC0U49AD2l9pxYVAAWgXdW_g'
+twitter: https://x.com/marketingadesso
+website: https://www.adesso.com/
+youtube: https://youtube.com/channel/UC0U49AD2l9pxYVAAWgXdW_g
 ---

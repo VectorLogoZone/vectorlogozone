@@ -1,7 +1,7 @@
 ---
-github: forseti-security/forseti-security
+git: https://github.com/forseti-security/forseti-security
 logohandle: forsetisecurity
 sort: forsetisecurity
 title: Forseti Security
-website: 'https://forsetisecurity.org/'
+website: https://forsetisecurity.org/
 ---

@@ -1,7 +1,7 @@
 ---
-github: SeismicData
+git: https://github.com/SeismicData
 logohandle: seismic-data
 sort: seismic-data
 title: Seismic Data
-website: 'https://seismic-data.org/'
+website: https://seismic-data.org/
 ---

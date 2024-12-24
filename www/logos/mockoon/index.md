@@ -1,8 +1,8 @@
 ---
-github: mockoon/mockoon
+git: https://github.com/mockoon/mockoon
 logohandle: mockoon
 sort: mockoon
 title: Mockoon
-twitter: GetMockoon
-website: 'https://mockoon.com/'
+twitter: https://x.com/GetMockoon
+website: https://mockoon.com/
 ---

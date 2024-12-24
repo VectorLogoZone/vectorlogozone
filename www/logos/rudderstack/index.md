@@ -1,10 +1,10 @@
 ---
-blog: 'https://rudderstack.com/blog'
-github: rudderlabs/rudder-server
-linkedin: 'https://linkedin.com/company/rudderlabs/about'
+blog: https://rudderstack.com/blog
+git: https://github.com/rudderlabs/rudder-server
+linkedin: https://linkedin.com/company/rudderlabs/about
 logohandle: rudderstack
 sort: rudderstack
 title: Rudder Stack
-twitter: rudderlabs
-website: 'https://rudderstack.com/'
+twitter: https://x.com/rudderlabs
+website: https://rudderstack.com/
 ---

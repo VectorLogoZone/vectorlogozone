@@ -1,8 +1,8 @@
 ---
-github: purescript/purescript
+git: https://github.com/purescript/purescript
 logohandle: purescript
 sort: purescript
 title: PureScript
-twitter: purescript
-website: 'http://www.purescript.org/'
+twitter: https://x.com/purescript
+website: http://www.purescript.org/
 ---

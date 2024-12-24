@@ -1,8 +1,8 @@
 ---
-github: pocketbase/pocketbase
+git: https://github.com/pocketbase/pocketbase
 logohandle: pocketbaseio
 sort: pocketbase
 title: PocketBase
-twitter: pocketbase
-website: 'https://pocketbase.io/'
+twitter: https://x.com/pocketbase
+website: https://pocketbase.io/
 ---

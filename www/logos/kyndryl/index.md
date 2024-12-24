@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/kyndryl'
+linkedin: https://linkedin.com/company/kyndryl
 logohandle: kyndryl
 sort: kyndryl
 title: Kyndryl
-twitter: kyndryl
-website: 'https://www.kyndryl.com/'
+twitter: https://x.com/kyndryl
+website: https://www.kyndryl.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: metabase/metabase
+git: https://github.com/metabase/metabase
 logohandle: metabase
 sort: metabase
 title: Metabase
-twitter: metabase
-website: 'https://www.metabase.com/'
+twitter: https://x.com/metabase
+website: https://www.metabase.com/
 ---

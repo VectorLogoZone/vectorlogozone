@@ -1,6 +1,6 @@
 ---
 blog: http://blogs.apache.org/tomcat/
-github: apache/tomcat
+git: https://github.com/apache/tomcat
 images:
 - apache_tomcat-icon.svg
 - apache_tomcat-ar21.svg
@@ -11,7 +11,7 @@ tags:
 - java
 - application_server
 title: Apache Tomcat
-twitter: TheApacheTomcat
+twitter: https://x.com/TheApacheTomcat
 website: http://tomcat.apache.org/
 wikipedia: https://en.wikipedia.org/wiki/Apache_Tomcat
 youtube: https://www.youtube.com/c/ApacheTomcatOfficial

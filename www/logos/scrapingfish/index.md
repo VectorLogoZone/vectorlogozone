@@ -2,6 +2,6 @@
 logohandle: scrapingfish
 sort: scrapingfish
 title: Scraping Fish
-twitter: ScrapingF
-website: 'https://scrapingfish.com/'
+twitter: https://x.com/ScrapingF
+website: https://scrapingfish.com/
 ---

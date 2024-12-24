@@ -1,11 +1,11 @@
 ---
-blog: 'https://blog.apollographql.com/'
-github: apollographql
+blog: https://blog.apollographql.com/
+git: https://github.com/apollographql
 logohandle: apollographql
-slack: 'https://www.apollographql.com/slack'
+slack: https://www.apollographql.com/slack
 sort: apollographql
 title: Apollo
-twitter: apollographql
-website: 'https://www.apollographql.com/'
-youtube: 'https://youtube.com/c/ApolloGraphQL'
+twitter: https://x.com/apollographql
+website: https://www.apollographql.com/
+youtube: https://youtube.com/c/ApolloGraphQL
 ---

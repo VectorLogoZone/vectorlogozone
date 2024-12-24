@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/Zillow'
-instagram: 'https://instagram.com/zillow'
+facebook: https://facebook.com/Zillow
+instagram: https://instagram.com/zillow
 logohandle: zillow
 sort: zillow
 title: Zillow
-twitter: zillow
-website: 'https://www.zillow.com/'
+twitter: https://x.com/zillow
+website: https://www.zillow.com/
 ---

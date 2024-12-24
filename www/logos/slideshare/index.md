@@ -12,7 +12,7 @@ tags:
 - presentation
 - saas
 title: SlideShare
-twitter: slideshare
+twitter: https://x.com/slideshare
 website: https://www.slideshare.net/
 wikipedia: https://en.wikipedia.org/wiki/SlideShare
 ---

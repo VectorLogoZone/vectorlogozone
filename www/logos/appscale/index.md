@@ -6,7 +6,7 @@ linkedin: https://linkedin.com/company/appscale-systems
 logohandle: appscale
 sort: appscale
 title: AppScale
-twitter: appscalecloud
+twitter: https://x.com/appscalecloud
 website: https://www.appscale.com/
 wikipedia: https://en.wikipedia.org/wiki/AppScale
 ---

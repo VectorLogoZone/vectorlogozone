@@ -1,8 +1,8 @@
 ---
-github: mockito/mockito
+git: https://github.com/mockito/mockito
 logohandle: mockito
 sort: mockito
 title: Mockito
-twitter: mockitojava
-website: 'https://site.mockito.org/'
+twitter: https://x.com/mockitojava
+website: https://site.mockito.org/
 ---

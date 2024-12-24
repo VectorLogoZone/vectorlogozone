@@ -1,8 +1,8 @@
 ---
-github: keygen-sh
+git: https://github.com/keygen-sh
 logohandle: keygensh
 sort: keygen
 title: Keygen
-twitter: keygen_sh
-website: 'https://keygen.sh/'
+twitter: https://x.com/keygen_sh
+website: https://keygen.sh/
 ---

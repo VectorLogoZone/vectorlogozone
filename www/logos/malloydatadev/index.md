@@ -1,7 +1,7 @@
 ---
-github: malloydata/malloy
+git: https://github.com/malloydata/malloy
 logohandle: malloydatadev
 sort: malloy
 title: malloy
-website: 'https://www.malloydata.dev/'
+website: https://www.malloydata.dev/
 ---

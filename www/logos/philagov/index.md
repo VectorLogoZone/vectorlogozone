@@ -1,12 +1,12 @@
 ---
-facebook: 'https://facebook.com/cityofphiladelphia'
-github: CityOfPhiladelphia
-instagram: 'https://instagram.com/cityofphiladelphia'
-linkedin: 'https://linkedin.com/showcase/phlcitycareers'
+facebook: https://facebook.com/cityofphiladelphia
+git: https://github.com/CityOfPhiladelphia
+instagram: https://instagram.com/cityofphiladelphia
+linkedin: https://linkedin.com/showcase/phlcitycareers
 logohandle: philagov
 sort: philadelphia
 title: City of Philadelphia
-twitter: PhiladelphiaGov
-website: 'https://www.phila.gov/'
-youtube: 'https://youtube.com/user/PhilaGov'
+twitter: https://x.com/PhiladelphiaGov
+website: https://www.phila.gov/
+youtube: https://youtube.com/user/PhilaGov
 ---

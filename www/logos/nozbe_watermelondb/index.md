@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.github.com/'
-github: Nozbe/WatermelonDB
+blog: https://blog.github.com/
+git: https://github.com/Nozbe/WatermelonDB
 logohandle: nozbe_watermelondb
 sort: watermelondb
 title: WatermelonDB
-website: 'https://github.com/Nozbe/WatermelonDB'
+website: https://github.com/Nozbe/WatermelonDB
 ---

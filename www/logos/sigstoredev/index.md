@@ -1,7 +1,7 @@
 ---
-github: sigstore
+git: https://github.com/sigstore
 logohandle: sigstoredev
 sort: sigstore
 title: sigstore
-website: 'https://sigstore.dev/'
+website: https://sigstore.dev/
 ---

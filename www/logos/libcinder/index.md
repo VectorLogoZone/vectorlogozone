@@ -1,7 +1,7 @@
 ---
-github: cinder/Cinder
+git: https://github.com/cinder/Cinder
 logohandle: libcinder
 sort: cinder
 title: Cinder
-website: 'https://libcinder.org/'
+website: https://libcinder.org/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/gravitdesigner'
-facebook: 'https://facebook.com/GravitDesigner'
+blog: https://medium.com/gravitdesigner
+facebook: https://facebook.com/GravitDesigner
 logohandle: gravitio
 sort: gravit
 title: Gravit
-twitter: GravitDesigner
-website: 'https://gravit.io/'
+twitter: https://x.com/GravitDesigner
+website: https://gravit.io/
 ---

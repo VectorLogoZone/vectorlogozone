@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/ChaptersIndigo'
-instagram: 'https://instagram.com/indigo'
+facebook: https://facebook.com/ChaptersIndigo
+instagram: https://instagram.com/indigo
 logohandle: indigoca
-pinterest: 'https://pinterest.com/chaptersindigo'
+pinterest: https://pinterest.com/chaptersindigo
 sort: indigoca
 title: Indigo
-twitter: chaptersindigo
-website: 'https://www.chapters.indigo.ca/en-ca/'
-youtube: 'https://youtube.com/indigochapters'
+twitter: https://x.com/chaptersindigo
+website: https://www.chapters.indigo.ca/en-ca/
+youtube: https://youtube.com/indigochapters
 ---

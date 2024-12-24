@@ -1,12 +1,11 @@
 ---
-github: apache/tinkerpop
+git: https://github.com/apache/tinkerpop
 logohandle: apache_tinkerpop
 sort: tinkerpop
 tags:
 - apache
 - graph_database
 title: TinkerPop
-twitter: apachetinkerpop
-website: 'http://tinkerpop.apache.org/'
+twitter: https://x.com/apachetinkerpop
+website: http://tinkerpop.apache.org/
 ---
-

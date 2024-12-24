@@ -1,8 +1,8 @@
 ---
-github: facebook/react-native
+git: https://github.com/facebook/react-native
 logohandle: reactnativedev
 sort: reactnative
 title: React Native
-twitter: reactnative
-website: 'https://reactnative.dev/'
+twitter: https://x.com/reactnative
+website: https://reactnative.dev/
 ---

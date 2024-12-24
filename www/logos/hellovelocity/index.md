@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/hellovelocity'
-instagram: 'https://instagram.com/hellovelocity'
+facebook: https://facebook.com/hellovelocity
+instagram: https://instagram.com/hellovelocity
 logohandle: hellovelocity
 sort: hellovelocity
 title: Hello Velocity
-twitter: hellovelocity
-website: 'https://www.hellovelocity.com/'
+twitter: https://x.com/hellovelocity
+website: https://www.hellovelocity.com/
 ---

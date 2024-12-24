@@ -1,6 +1,6 @@
 ---
 blog: https://blog.bazel.build/
-github: bazelbuild
+git: https://github.com/bazelbuild
 guide: https://blog.bazel.build/2017/07/05/new-logo-and-homepage.html
 images:
 - bazel-icon.svg
@@ -8,7 +8,7 @@ images:
 logohandle: bazel
 sort: bazel
 title: Bazel
-twitter: bazelbuild
+twitter: https://x.com/bazelbuild
 website: https://bazel.build/
 wikipedia: https://en.wikipedia.org/wiki/Bazel_(software)
 ---

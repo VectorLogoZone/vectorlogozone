@@ -1,8 +1,8 @@
 ---
-github: argyleink/open-props
+git: https://github.com/argyleink/open-props
 logohandle: open-propsstyle
 sort: openprops
 title: Open Props
-twitter: argyleink
-website: 'https://open-props.style/'
+twitter: https://x.com/argyleink
+website: https://open-props.style/
 ---

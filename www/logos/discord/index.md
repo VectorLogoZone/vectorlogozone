@@ -11,7 +11,7 @@ font:
   myfonts: https://www.myfonts.com/fonts/font-fabric/uni-sans/
   name: Uni Sans
   url: http://www.fontfabric.com/uni-sans-free/
-github: discordapp
+git: https://github.com/discordapp
 guide: https://discord.com/branding
 images:
 - discordapp-official.svg
@@ -24,7 +24,7 @@ redirect_from: /logos/discordapp/index.html
 sort: discord
 tiktok: https://www.tiktok.com/@discord
 title: Discord
-twitter: discord
+twitter: https://x.com/discord
 website: https://discord.com/
 wikipedia: https://en.wikipedia.org/wiki/Discord_(software)
 youtube: https://www.youtube.com/discord

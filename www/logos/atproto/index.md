@@ -1,9 +1,9 @@
 ---
-blog: 'https://blueskyweb.xyz/blog'
-github: bluesky-social
+blog: https://blueskyweb.xyz/blog
+git: https://github.com/bluesky-social
 logohandle: atproto
 sort: atproto
 title: AT Protocol
-twitter: bluesky
-website: 'https://atproto.com/'
+twitter: https://x.com/bluesky
+website: https://atproto.com/
 ---

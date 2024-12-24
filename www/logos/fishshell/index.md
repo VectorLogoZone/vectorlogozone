@@ -1,7 +1,7 @@
 ---
-github: fish-shell/fish-shell
+git: https://github.com/fish-shell/fish-shell
 logohandle: fishshell
 sort: fishshell
 title: fish shell
-website: 'https://fishshell.com/'
+website: https://fishshell.com/
 ---

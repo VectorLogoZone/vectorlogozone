@@ -1,8 +1,8 @@
 ---
-github: macaroons-io
+git: https://github.com/macaroons-io
 logohandle: macaroonsio
 sort: macaroons
 title: Macaroons
-twitter: nitram509
-website: 'http://macaroons.io/'
+twitter: https://x.com/nitram509
+website: http://macaroons.io/
 ---

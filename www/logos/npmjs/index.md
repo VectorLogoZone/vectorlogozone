@@ -1,6 +1,6 @@
 ---
 blog: https://blog.npmjs.com/
-github: npm
+git: https://github.com/npm
 guide: https://github.com/npm/logos
 images:
 - npmjs-tile.svg
@@ -9,7 +9,7 @@ images:
 logohandle: npmjs
 sort: npmjs
 title: npm
-twitter: npmjs
+twitter: https://x.com/npmjs
 website: https://www.npmjs.com/
 wikipedia: https://en.wikipedia.org/wiki/Npm_(software)
 ---

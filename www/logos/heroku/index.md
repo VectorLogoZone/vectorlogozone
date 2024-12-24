@@ -4,7 +4,7 @@ facebook: https://facebook.com/heroku
 font:
   myfonts: https://www.myfonts.com/fonts/typodermic/hybrea/
   name: Hybrea
-github: heroku
+git: https://github.com/heroku
 guide: https://brand.heroku.com/
 images:
 - heroku-icon.svg
@@ -14,7 +14,7 @@ sort: heroku
 tags:
 - hosting
 title: Heroku
-twitter: heroku
+twitter: https://x.com/heroku
 website: https://www.heroku.com/
 wikipedia: https://en.wikipedia.org/wiki/Heroku
 ---

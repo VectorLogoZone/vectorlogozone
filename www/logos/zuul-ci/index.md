@@ -9,6 +9,6 @@ tags:
 - software
 - continuous_integration
 title: Zuul
-twitter: ZuulCI
+twitter: https://x.com/ZuulCI
 website: https://zuul-ci.org/
 ---

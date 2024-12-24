@@ -1,8 +1,8 @@
 ---
-github: lingui/js-lingui
+git: https://github.com/lingui/js-lingui
 logohandle: linguidev
 sort: lingui
 title: Lingui
-twitter: LinguiJS
-website: 'https://lingui.dev/'
+twitter: https://x.com/LinguiJS
+website: https://lingui.dev/
 ---

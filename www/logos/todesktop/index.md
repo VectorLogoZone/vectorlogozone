@@ -1,8 +1,8 @@
 ---
-github: ToDesktop
+git: https://github.com/ToDesktop
 logohandle: todesktop
 sort: todesktop
 title: ToDesktop
-twitter: ToDesktop
-website: 'https://www.todesktop.com/'
+twitter: https://x.com/ToDesktop
+website: https://www.todesktop.com/
 ---

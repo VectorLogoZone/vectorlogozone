@@ -1,7 +1,7 @@
 ---
-github: openSUSE/open-build-service
+git: https://github.com/openSUSE/open-build-service
 logohandle: openbuildservice
 sort: openbuildservice
 title: Open Build Service
-website: 'https://openbuildservice.org/'
+website: https://openbuildservice.org/
 ---

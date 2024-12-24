@@ -7,7 +7,7 @@ font:
   myfonts: null
   name: Gotham
   url: https://www.typography.com/fonts/gotham/overview/
-github: suse
+git: https://github.com/suse
 googleplus: https://plus.google.com/+SUSE
 guide: https://www.suse.com/brandcentral/suse/identity.php
 images:
@@ -17,7 +17,7 @@ linkedin: https://www.linkedin.com/company/suse
 logohandle: suse
 sort: suse
 title: SUSE
-twitter: SUSE
+twitter: https://x.com/SUSE
 website: https://www.suse.com/
 wikipedia: https://en.wikipedia.org/wiki/SUSE
 ---

@@ -7,7 +7,7 @@ images:
 logohandle: openshift
 sort: openshift
 title: OpenShift
-twitter: OpenShift
+twitter: https://x.com/OpenShift
 website: https://www.openshift.com/
 wikipedia: https://en.wikipedia.org/wiki/OpenShift
 ---

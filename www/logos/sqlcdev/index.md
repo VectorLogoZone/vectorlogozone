@@ -1,8 +1,8 @@
 ---
-github: kyleconroy/sqlc
+git: https://github.com/kyleconroy/sqlc
 logohandle: sqlcdev
 sort: sqlc
 title: sqlc
-twitter: kyle_conroy
-website: 'https://sqlc.dev/'
+twitter: https://x.com/kyle_conroy
+website: https://sqlc.dev/
 ---

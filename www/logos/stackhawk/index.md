@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/StackHawk'
-github: kaakaww
-linkedin: 'https://linkedin.com/company/stackhawk/mycompany'
+facebook: https://facebook.com/StackHawk
+git: https://github.com/kaakaww
+linkedin: https://linkedin.com/company/stackhawk/mycompany
 logohandle: stackhawk
 sort: stackhawk
 title: StackHawk
-twitter: stackhawk
-website: 'https://www.stackhawk.com/'
+twitter: https://x.com/stackhawk
+website: https://www.stackhawk.com/
 ---

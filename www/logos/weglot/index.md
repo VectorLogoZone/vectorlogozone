@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.weglot.com/'
-facebook: 'https://facebook.com/weglot'
+blog: https://blog.weglot.com/
+facebook: https://facebook.com/weglot
 logohandle: weglot
 sort: weglot
 title: Weglot
-twitter: weglot
-website: 'https://weglot.com/'
+twitter: https://x.com/weglot
+website: https://weglot.com/
 ---

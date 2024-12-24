@@ -1,8 +1,8 @@
 ---
-blog: 'http://blog.purecss.io/'
-github: pure-css/pure
+blog: http://blog.purecss.io/
+git: https://github.com/pure-css/pure
 logohandle: purecssio
 sort: purecss
 title: PureCSS
-website: 'https://purecss.io/'
+website: https://purecss.io/
 ---

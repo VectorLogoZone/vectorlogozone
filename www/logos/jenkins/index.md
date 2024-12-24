@@ -1,6 +1,6 @@
 ---
 blog: https://jenkins.io/node
-github: jenkinsci
+git: https://github.com/jenkinsci
 guide: https://wiki.jenkins-ci.org/display/JENKINS/Logo
 images:
 - jenkins-official.svg
@@ -12,7 +12,7 @@ tags:
 - software
 - continuous_integration
 title: The Jenkins Project
-twitter: jenkinsci
+twitter: https://x.com/jenkinsci
 website: https://jenkins.io/
 wikipedia: https://en.wikipedia.org/wiki/Jenkins_(software)
 ---

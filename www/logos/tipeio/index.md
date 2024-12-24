@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/tipecms'
-github: tipeio
+facebook: https://facebook.com/tipecms
+git: https://github.com/tipeio
 logohandle: tipeio
 sort: tipe
 title: Tipe
-twitter: tipeio
-website: 'https://tipe.io/'
+twitter: https://x.com/tipeio
+website: https://tipe.io/
 ---

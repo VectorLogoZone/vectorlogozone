@@ -1,8 +1,8 @@
 ---
-blog: 'https://acumos.org/blog'
+blog: https://acumos.org/blog
 logohandle: acumos
 sort: acumos
 title: Acumos
-twitter: AcumosAI
-website: 'https://www.acumos.org/'
+twitter: https://x.com/AcumosAI
+website: https://www.acumos.org/
 ---

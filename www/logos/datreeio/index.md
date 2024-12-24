@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/datreeio'
-github: datreeio/datree
-linkedin: 'https://linkedin.com/company/datreeio'
+facebook: https://facebook.com/datreeio
+git: https://github.com/datreeio/datree
+linkedin: https://linkedin.com/company/datreeio
 logohandle: datreeio
 sort: datree
 title: Datree
-twitter: datreeio
-website: 'https://www.datree.io/'
+twitter: https://x.com/datreeio
+website: https://www.datree.io/
 ---

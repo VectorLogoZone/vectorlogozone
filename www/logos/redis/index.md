@@ -1,6 +1,6 @@
 ---
 blog: https://redis.io/buzz
-github: antirez/redis
+git: https://github.com/antirez/redis
 guide: https://github.com/antirez/redis-io/tree/master/public/images
 images:
 - redis-ar21.svg
@@ -9,7 +9,7 @@ images:
 logohandle: redis
 sort: redis
 title: Redis
-twitter: redisfeed
+twitter: https://x.com/redisfeed
 website: https://www.redis.io/
 wikipedia: https://en.wikipedia.org/wiki/Redis
 ---

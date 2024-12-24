@@ -6,6 +6,6 @@ sort: marcaria
 tags:
 - domains
 title: Marcaria
-twitter: marcaria
+twitter: https://x.com/marcaria
 website: https://www.marcaria.com/
 ---

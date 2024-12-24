@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/trabian'
-github: trabian
+blog: https://medium.com/trabian
+git: https://github.com/trabian
 logohandle: trabian
 sort: trabian
 title: Trabian
-twitter: trabian
-website: 'https://www.trabian.com/'
+twitter: https://x.com/trabian
+website: https://www.trabian.com/
 ---

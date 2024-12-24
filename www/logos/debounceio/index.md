@@ -1,10 +1,10 @@
 ---
-blog: 'https://debounce.io/blog'
-github: debounceio
-linkedin: 'https://linkedin.com/company/debounceio'
+blog: https://debounce.io/blog
+git: https://github.com/debounceio
+linkedin: https://linkedin.com/company/debounceio
 logohandle: debounceio
 sort: debounce
 title: DeBounce
-twitter: debounceio
-website: 'https://debounce.io/'
+twitter: https://x.com/debounceio
+website: https://debounce.io/
 ---

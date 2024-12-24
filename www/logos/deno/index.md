@@ -1,10 +1,10 @@
 ---
-activitypub: 'https://fosstodon.org/@deno_land'
-github: denoland/deno
+activitypub: https://fosstodon.org/@deno_land
+git: https://github.com/denoland/deno
 logohandle: deno
 sort: deno
 title: Deno
-twitter: deno_land
-website: 'https://deno.com/'
-youtube: 'https://youtube.com/@deno_land'
+twitter: https://x.com/deno_land
+website: https://deno.com/
+youtube: https://youtube.com/@deno_land
 ---

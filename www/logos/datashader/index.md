@@ -1,8 +1,8 @@
 ---
-github: holoviz/datashader
+git: https://github.com/holoviz/datashader
 logohandle: datashader
 sort: datashader
 title: Datashader
-twitter: datashader
-website: 'https://datashader.org/'
+twitter: https://x.com/datashader
+website: https://datashader.org/
 ---

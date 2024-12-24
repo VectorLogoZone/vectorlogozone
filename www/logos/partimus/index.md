@@ -1,8 +1,8 @@
 ---
-blog: 'http://blog.partimus.org/'
+blog: http://blog.partimus.org/
 logohandle: partimus
 sort: partimus
 title: Partimus
-twitter: partimus
-website: 'http://partimus.org/'
+twitter: https://x.com/partimus
+website: http://partimus.org/
 ---

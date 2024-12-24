@@ -1,7 +1,7 @@
 ---
-github: emojidex
+git: https://github.com/emojidex
 logohandle: emojidex
 sort: emojidex
 title: emojidex
-website: 'https://www.emojidex.com/'
+website: https://www.emojidex.com/
 ---

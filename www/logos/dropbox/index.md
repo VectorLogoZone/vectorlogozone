@@ -1,11 +1,12 @@
 ---
 blog: https://blog.dropbox.com/
-colors: ['#0061FE']
+colors:
+- '#0061FE'
 facebook: https://www.facebook.com/Dropbox
 font:
   myfonts: https://www.myfonts.com/fonts/itc/franklin/std-narrow-bold/
   name: ITC Franklin Std Narrow Bold
-github: dropbox
+git: https://github.com/dropbox
 guide: https://www.dropbox.com/branding
 images:
 - dropbox-official.svg
@@ -17,7 +18,7 @@ sort: dropbox
 tags:
 - file_sharing
 title: Dropbox
-twitter: Dropbox
+twitter: https://x.com/Dropbox
 website: https://www.dropbox.com/
 wikipedia: https://en.wikipedia.org/wiki/Dropbox_(service)
 ---

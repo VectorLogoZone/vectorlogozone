@@ -1,7 +1,7 @@
 ---
-github: tailwindlabs/headlessui
+git: https://github.com/tailwindlabs/headlessui
 logohandle: headlessui
 sort: headlessui
 title: Headless UI
-website: 'https://headlessui.com/'
+website: https://headlessui.com/
 ---

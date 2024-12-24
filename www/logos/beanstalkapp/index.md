@@ -6,6 +6,6 @@ images:
 logohandle: beanstalkapp
 sort: beanstalkapp
 title: Beanstalk
-twitter: beanstalkapp
+twitter: https://x.com/beanstalkapp
 website: https://beanstalkapp.com/
 ---

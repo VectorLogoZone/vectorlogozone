@@ -1,8 +1,8 @@
 ---
-blog: 'https://coreui.io/blog/'
-github: coreui
+blog: https://coreui.io/blog/
+git: https://github.com/coreui
 logohandle: coreuiio
 sort: coreui
 title: CoreUI
-website: 'https://coreui.io/'
+website: https://coreui.io/
 ---

@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/endoffice'
+facebook: https://facebook.com/endoffice
 logohandle: endoffice
 sort: endoffice
 title: EndOffice
-twitter: endofficecolo
-website: 'https://endoffice.com/'
+twitter: https://x.com/endofficecolo
+website: https://endoffice.com/
 ---

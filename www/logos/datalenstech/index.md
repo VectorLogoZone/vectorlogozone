@@ -1,7 +1,7 @@
 ---
-github: datalens-tech/datalens
+git: https://github.com/datalens-tech/datalens
 logohandle: datalenstech
 sort: datalens
 title: DataLens
-website: 'https://datalens.tech/'
+website: https://datalens.tech/
 ---

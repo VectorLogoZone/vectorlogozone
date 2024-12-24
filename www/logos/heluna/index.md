@@ -2,6 +2,6 @@
 logohandle: heluna
 sort: heluna
 title: Heluna
-twitter: nomorespam
-website: 'https://heluna.com/'
+twitter: https://x.com/nomorespam
+website: https://heluna.com/
 ---

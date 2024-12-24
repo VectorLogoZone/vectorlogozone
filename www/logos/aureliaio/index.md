@@ -1,8 +1,8 @@
 ---
-github: aurelia
+git: https://github.com/aurelia
 logohandle: aureliaio
 sort: aurelia
 title: Aurelia
-twitter: aureliaeffect
-website: 'https://aurelia.io/'
+twitter: https://x.com/aureliaeffect
+website: https://aurelia.io/
 ---

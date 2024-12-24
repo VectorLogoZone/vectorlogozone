@@ -1,9 +1,9 @@
 ---
-github: Netflix/Hystrix
-guide: 'https://github.com/Netflix/Hystrix/tree/gh-pages/images'
+git: https://github.com/Netflix/Hystrix
+guide: https://github.com/Netflix/Hystrix/tree/gh-pages/images
 logohandle: netflix_hystrix
 sort: hystrix
 title: Hystrix
-twitter: HystrixOSS
-website: 'https://github.com/Netflix/Hystrix'
+twitter: https://x.com/HystrixOSS
+website: https://github.com/Netflix/Hystrix
 ---

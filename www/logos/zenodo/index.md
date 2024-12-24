@@ -1,9 +1,9 @@
 ---
-blog: 'http://blog.zenodo.org/'
-github: zenodo/zenodo
+blog: http://blog.zenodo.org/
+git: https://github.com/zenodo/zenodo
 logohandle: zenodo
 sort: zenodo
 title: Zenodo
-twitter: ZENODO_ORG
-website: 'https://zenodo.org/'
+twitter: https://x.com/ZENODO_ORG
+website: https://zenodo.org/
 ---

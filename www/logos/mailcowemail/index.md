@@ -1,7 +1,7 @@
 ---
-github: mailcow
+git: https://github.com/mailcow
 logohandle: mailcowemail
 sort: mailcow
 title: mailcow
-website: 'https://mailcow.email/'
+website: https://mailcow.email/
 ---

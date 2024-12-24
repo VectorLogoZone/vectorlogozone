@@ -3,6 +3,6 @@ blog: https://news.docnow.io/
 logohandle: docnowio
 sort: docnow
 title: DocNow
-twitter: documentnow
+twitter: https://x.com/documentnow
 website: https://www.docnow.io/
 ---

@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/strongloop'
-github: strongloop
-linkedin: 'https://linkedin.com/groups/5046525'
+facebook: https://facebook.com/strongloop
+git: https://github.com/strongloop
+linkedin: https://linkedin.com/groups/5046525
 logohandle: strongloop
 sort: strongloop
 title: StrongLoop
-twitter: StrongLoop
-website: 'https://strongloop.com/'
+twitter: https://x.com/StrongLoop
+website: https://strongloop.com/
 ---

@@ -1,8 +1,8 @@
 ---
-blog: 'https://newpipe.net/blog/'
-github: TeamNewPipe/NewPipe
+blog: https://newpipe.net/blog/
+git: https://github.com/TeamNewPipe/NewPipe
 logohandle: newpipenet
 sort: newpipe
 title: NewPipe
-website: 'https://newpipe.net/'
+website: https://newpipe.net/
 ---

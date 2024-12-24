@@ -1,7 +1,7 @@
 ---
-github: browsh-org/browsh
+git: https://github.com/browsh-org/browsh
 logohandle: browsh
 sort: brow
 title: Browsh
-website: 'https://www.brow.sh/'
+website: https://www.brow.sh/
 ---

@@ -1,9 +1,9 @@
 ---
 facebook: https://facebook.com/formspree
-github: formspree
+git: https://github.com/formspree
 logohandle: formspree
 sort: formspree
 title: formspree
-twitter: formspree
+twitter: https://x.com/formspree
 website: https://formspree.io/
 ---

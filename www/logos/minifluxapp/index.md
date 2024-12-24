@@ -1,7 +1,7 @@
 ---
-github: miniflux
+git: https://github.com/miniflux
 logohandle: minifluxapp
 sort: miniflux
 title: Miniflux
-website: 'https://miniflux.app/'
+website: https://miniflux.app/
 ---

@@ -1,8 +1,8 @@
 ---
-github: mojocss/mojocss
+git: https://github.com/mojocss/mojocss
 logohandle: mojocss
 sort: mojocss
 title: Mojo CSS
-twitter: mojocss
-website: 'https://mojocss.com/'
+twitter: https://x.com/mojocss
+website: https://mojocss.com/
 ---

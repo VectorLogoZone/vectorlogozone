@@ -1,12 +1,12 @@
 ---
-blog: 'https://medium.com/@hopper_travel'
-facebook: 'https://facebook.com/hoppertravel'
-instagram: 'https://instagram.com/hopper'
-linkedin: 'https://linkedin.com/company/hopper'
+blog: https://medium.com/@hopper_travel
+facebook: https://facebook.com/hoppertravel
+instagram: https://instagram.com/hopper
+linkedin: https://linkedin.com/company/hopper
 logohandle: hopper
 sort: hopper
 title: Hopper
-twitter: hopper
-website: 'https://www.hopper.com/'
-youtube: 'https://youtube.com/user/HopperBoston'
+twitter: https://x.com/hopper
+website: https://www.hopper.com/
+youtube: https://youtube.com/user/HopperBoston
 ---

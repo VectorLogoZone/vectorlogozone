@@ -1,7 +1,7 @@
 ---
-github: petkaantonov/bluebird
+git: https://github.com/petkaantonov/bluebird
 logohandle: bluebirdjs
 sort: bluebirdjs
 title: bluebird
-website: 'http://bluebirdjs.com/'
+website: http://bluebirdjs.com/
 ---

@@ -1,9 +1,9 @@
 ---
-instagram: 'https://instagram.com/mascontext'
+instagram: https://instagram.com/mascontext
 logohandle: mascontext
-pinterest: 'https://pinterest.com/mascontext'
+pinterest: https://pinterest.com/mascontext
 sort: mascontext
 title: MAS Context
-twitter: mascontext
-website: 'https://mascontext.com/'
+twitter: https://x.com/mascontext
+website: https://mascontext.com/
 ---

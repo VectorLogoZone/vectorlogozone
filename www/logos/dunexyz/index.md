@@ -1,8 +1,8 @@
 ---
-github: duneanalytics
+git: https://github.com/duneanalytics
 logohandle: dunexyz
 sort: dune
 title: Dune Analytics
-twitter: DuneAnalytics
-website: 'https://dune.xyz/home'
+twitter: https://x.com/DuneAnalytics
+website: https://dune.xyz/home
 ---

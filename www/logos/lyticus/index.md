@@ -1,8 +1,8 @@
 ---
-github: lyticus
+git: https://github.com/lyticus
 logohandle: lyticus
 sort: lyticus
 title: Lyticus
-twitter: lyticus
-website: 'https://lyticus.com/'
+twitter: https://x.com/lyticus
+website: https://lyticus.com/
 ---

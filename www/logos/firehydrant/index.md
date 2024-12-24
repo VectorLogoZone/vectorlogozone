@@ -1,9 +1,9 @@
 ---
-github: firehydrant
-linkedin: 'https://linkedin.com/company/firehydrant'
+git: https://github.com/firehydrant
+linkedin: https://linkedin.com/company/firehydrant
 logohandle: firehydrant
 sort: firehydrant
 title: FireHydrant
-twitter: FireHydrant
-website: 'https://firehydrant.com/'
+twitter: https://x.com/FireHydrant
+website: https://firehydrant.com/
 ---

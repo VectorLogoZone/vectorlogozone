@@ -11,7 +11,7 @@ tags:
 - apache
 - mq
 title: Apache Kafka
-twitter: apachekafka
+twitter: https://x.com/apachekafka
 website: http://kafka.apache.org/
 wikipedia: https://en.wikipedia.org/wiki/Apache_Kafka
 ---

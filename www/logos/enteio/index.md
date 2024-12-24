@@ -1,11 +1,11 @@
 ---
-blog: 'https://ente.io/blog/'
-github: ente-io
-instagram: 'https://instagram.com/ente.app'
-linkedin: 'https://linkedin.com/company/ente-io'
+blog: https://ente.io/blog/
+git: https://github.com/ente-io
+instagram: https://instagram.com/ente.app
+linkedin: https://linkedin.com/company/ente-io
 logohandle: enteio
 sort: ente
 title: Ente
-twitter: enteio
-website: 'https://ente.io/'
+twitter: https://x.com/enteio
+website: https://ente.io/
 ---

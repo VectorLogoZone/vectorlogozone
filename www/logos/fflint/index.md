@@ -1,8 +1,8 @@
 ---
 font:
-  name: Bitter Bold Italic
   google: https://fonts.google.com/specimen/Bitter
-github: FileFormatInfo/fflint
+  name: Bitter Bold Italic
+git: https://github.com/FileFormatInfo/fflint
 logohandle: fflint
 sort: fflint
 title: fflint

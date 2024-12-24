@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/swan-baas'
+linkedin: https://linkedin.com/company/swan-baas
 logohandle: swanio
 sort: swan
 title: Swan
-twitter: swanapi
-website: 'https://www.swan.io/'
+twitter: https://x.com/swanapi
+website: https://www.swan.io/
 ---

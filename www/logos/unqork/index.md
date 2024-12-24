@@ -1,8 +1,8 @@
 ---
-linkedin: 'http://linkedin.com/company/unqork'
+linkedin: http://linkedin.com/company/unqork
 logohandle: unqork
 sort: unqork
 title: Unqork
-twitter: unqork
-website: 'https://www.unqork.com/'
+twitter: https://x.com/unqork
+website: https://www.unqork.com/
 ---

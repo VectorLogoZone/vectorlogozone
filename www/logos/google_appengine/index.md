@@ -9,7 +9,7 @@ tags:
 - hosting
 - paas
 title: Google AppEngine
-twitter: appengine
+twitter: https://x.com/appengine
 website: https://cloud.google.com/appengine/
 wikipedia: https://en.wikipedia.org/wiki/Google_App_Engine
 ---

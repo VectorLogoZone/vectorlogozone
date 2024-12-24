@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/requestly'
+linkedin: https://linkedin.com/company/requestly
 logohandle: requestlyio
 sort: requestly
 title: Requestly
-twitter: requestlyio
-website: 'https://requestly.io/'
+twitter: https://x.com/requestlyio
+website: https://requestly.io/
 ---

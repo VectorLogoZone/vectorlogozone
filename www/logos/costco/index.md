@@ -9,7 +9,7 @@ sort: costco
 tags:
 - new
 title: Costco
-twitter: Costco
+twitter: https://x.com/Costco
 website: https://www.costco.com/
 wikipedia: https://en.wikipedia.org/wiki/Costco
 ---

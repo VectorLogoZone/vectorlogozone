@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/@uniform'
-github: uniformdev
+blog: https://medium.com/@uniform
+git: https://github.com/uniformdev
 logohandle: uniformdev
 sort: uniform
 title: Uniform
-twitter: uniformdev
-website: 'https://uniform.dev/'
+twitter: https://x.com/uniformdev
+website: https://uniform.dev/
 ---

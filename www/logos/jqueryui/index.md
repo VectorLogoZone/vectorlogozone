@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.jqueryui.com/'
-github: jquery/jquery-ui
+blog: https://blog.jqueryui.com/
+git: https://github.com/jquery/jquery-ui
 logohandle: jqueryui
 sort: jqueryui
 title: jQuery UI
-twitter: jqueryui
-website: 'http://jqueryui.com/'
+twitter: https://x.com/jqueryui
+website: http://jqueryui.com/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.kool.dev/'
-github: kool-dev
+blog: https://blog.kool.dev/
+git: https://github.com/kool-dev
 logohandle: kooldev
 sort: kool
 title: kool
-twitter: devwithkool
-website: 'https://kool.dev/'
+twitter: https://x.com/devwithkool
+website: https://kool.dev/
 ---

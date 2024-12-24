@@ -1,7 +1,7 @@
 ---
-github: controlplane-com
+git: https://github.com/controlplane-com
 logohandle: controlplane
 sort: controlplane
 title: Control Plane
-website: 'https://controlplane.com/'
+website: https://controlplane.com/
 ---

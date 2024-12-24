@@ -4,6 +4,6 @@ facebook: https://www.facebook.com/codeclimate
 logohandle: codeclimate
 sort: codeclimate
 title: Code Climate
-twitter: codeclimate
+twitter: https://x.com/codeclimate
 website: https://codeclimate.com/
 ---

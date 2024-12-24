@@ -1,8 +1,8 @@
 ---
-blog: 'https://jobrunr.io/blog/'
-github: jobrunr/jobrunr
+blog: https://jobrunr.io/blog/
+git: https://github.com/jobrunr/jobrunr
 logohandle: jobrunrio
 sort: jobrunr
 title: JobRunr
-website: 'https://www.jobrunr.io/en/'
+website: https://www.jobrunr.io/en/
 ---

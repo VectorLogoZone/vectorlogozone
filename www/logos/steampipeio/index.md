@@ -1,8 +1,8 @@
 ---
-github: turbot/steampipe
+git: https://github.com/turbot/steampipe
 logohandle: steampipeio
 sort: steampipeio
 title: Steampipe.io
-twitter: steampipeio
-website: 'https://steampipe.io/'
+twitter: https://x.com/steampipeio
+website: https://steampipe.io/
 ---

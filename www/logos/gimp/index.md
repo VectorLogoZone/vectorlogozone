@@ -11,7 +11,7 @@ tags:
 - graphics
 - software
 title: Gimp
-twitter: gimp_official
+twitter: https://x.com/gimp_official
 website: https://www.gimp.org/
 wikipedia: https://en.wikipedia.org/wiki/GIMP
 ---

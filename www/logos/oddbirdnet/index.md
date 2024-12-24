@@ -1,8 +1,8 @@
 ---
-blog: 'https://medium.com/medcurbside'
+blog: https://medium.com/medcurbside
 logohandle: oddbirdnet
 sort: oddbird
 title: OddBird
-twitter: oddbird
-website: 'https://www.oddbird.net/'
+twitter: https://x.com/oddbird
+website: https://www.oddbird.net/
 ---

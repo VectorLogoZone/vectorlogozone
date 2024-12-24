@@ -1,5 +1,5 @@
 ---
-github: pugjs/pug
+git: https://github.com/pugjs/pug
 logohandle: pugjs
 sort: pugjs
 title: Pug

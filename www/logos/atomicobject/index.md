@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/atomicobject'
-github: atomicobject
-instagram: 'https://instagram.com/atomicobject'
-linkedin: 'https://linkedin.com/company/atomic-object'
+facebook: https://facebook.com/atomicobject
+git: https://github.com/atomicobject
+instagram: https://instagram.com/atomicobject
+linkedin: https://linkedin.com/company/atomic-object
 logohandle: atomicobject
 sort: atomicobject
 title: Atomic Object
-twitter: atomicobject
-website: 'https://atomicobject.com/'
+twitter: https://x.com/atomicobject
+website: https://atomicobject.com/
 ---

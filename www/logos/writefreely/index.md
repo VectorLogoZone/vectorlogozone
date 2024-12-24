@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.writefreely.org/'
-github: writefreely/writefreely
+blog: https://blog.writefreely.org/
+git: https://github.com/writefreely/writefreely
 logohandle: writefreely
 sort: writefreely
 title: WriteFreely
-twitter: writeas__
-website: 'https://writefreely.org/'
+twitter: https://x.com/writeas__
+website: https://writefreely.org/
 ---

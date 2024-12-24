@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/column-bank'
+linkedin: https://linkedin.com/company/column-bank
 logohandle: column
 sort: column
 title: Column
-twitter: columnbank
-website: 'https://column.com/'
+twitter: https://x.com/columnbank
+website: https://column.com/
 ---

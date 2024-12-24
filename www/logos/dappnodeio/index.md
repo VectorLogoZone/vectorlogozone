@@ -1,8 +1,8 @@
 ---
-github: dappnode
+git: https://github.com/dappnode
 logohandle: dappnodeio
 sort: dappnode
 title: DAppNode
-twitter: dappnode
-website: 'https://dappnode.io/'
+twitter: https://x.com/dappnode
+website: https://dappnode.io/
 ---

@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/BaseDashHQ'
-linkedin: 'https://linkedin.com/company/BaseDash'
+facebook: https://facebook.com/BaseDashHQ
+linkedin: https://linkedin.com/company/BaseDash
 logohandle: basedash
 sort: basedash
 title: BaseDash
-twitter: BaseDashHQ
-website: 'https://www.basedash.com/'
+twitter: https://x.com/BaseDashHQ
+website: https://www.basedash.com/
 ---

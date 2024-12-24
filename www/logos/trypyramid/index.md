@@ -2,6 +2,6 @@
 logohandle: trypyramid
 sort: pyramid
 title: Pyramid
-twitter: PylonsProject
-website: 'https://trypyramid.com/'
+twitter: https://x.com/PylonsProject
+website: https://trypyramid.com/
 ---

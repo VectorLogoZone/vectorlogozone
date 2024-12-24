@@ -1,8 +1,8 @@
 ---
-github: up9inc/mizu
+git: https://github.com/up9inc/mizu
 logohandle: getmizuio
 sort: mizu
 title: Mizu
-twitter: up9inc
-website: 'https://getmizu.io/'
+twitter: https://x.com/up9inc
+website: https://getmizu.io/
 ---

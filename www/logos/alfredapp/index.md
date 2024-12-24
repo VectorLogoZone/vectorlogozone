@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/alfredapp'
+facebook: https://facebook.com/alfredapp
 logohandle: alfredapp
 sort: alfredapp
 title: Alfred
-twitter: alfredapp
-website: 'https://www.alfredapp.com/'
+twitter: https://x.com/alfredapp
+website: https://www.alfredapp.com/
 ---

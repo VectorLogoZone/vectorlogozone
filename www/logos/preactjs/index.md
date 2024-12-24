@@ -1,7 +1,7 @@
 ---
-github: developit/preact
+git: https://github.com/developit/preact
 logohandle: preactjs
 sort: preactjs
 title: Preact
-website: 'https://preactjs.com/'
+website: https://preactjs.com/
 ---

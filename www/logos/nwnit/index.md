@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/NWNCorporation'
-linkedin: 'https://linkedin.com/company/nwncorporation'
+facebook: https://facebook.com/NWNCorporation
+linkedin: https://linkedin.com/company/nwncorporation
 logohandle: nwnit
 sort: nwn
 title: NWN
-twitter: NWNCorporation
-website: 'https://www.nwnit.com/'
-youtube: 'https://youtube.com/user/NWNitCorporation'
+twitter: https://x.com/NWNCorporation
+website: https://www.nwnit.com/
+youtube: https://youtube.com/user/NWNitCorporation
 ---

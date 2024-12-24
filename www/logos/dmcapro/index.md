@@ -1,9 +1,9 @@
 ---
-blog: 'https://dmca.pro/blog'
-facebook: 'https://facebook.com/dmcapro'
+blog: https://dmca.pro/blog
+facebook: https://facebook.com/dmcapro
 logohandle: dmcapro
 sort: dmcapro
 title: DMCA Pro
-twitter: dmcapro
-website: 'https://dmca.pro/'
+twitter: https://x.com/dmcapro
+website: https://dmca.pro/
 ---

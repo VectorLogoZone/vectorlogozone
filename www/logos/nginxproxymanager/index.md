@@ -1,7 +1,7 @@
 ---
-github: jc21/nginx-proxy-manager
+git: https://github.com/jc21/nginx-proxy-manager
 logohandle: nginxproxymanager
 sort: nginxproxymanager
 title: Nginx Proxy Manager
-website: 'https://nginxproxymanager.com/'
+website: https://nginxproxymanager.com/
 ---

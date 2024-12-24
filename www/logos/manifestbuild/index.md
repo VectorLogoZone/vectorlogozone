@@ -1,7 +1,7 @@
 ---
-github: mnfst/manifest
+git: https://github.com/mnfst/manifest
 logohandle: manifestbuild
 sort: manifestbuild
 title: Manifest
-website: 'https://manifest.build/'
+website: https://manifest.build/
 ---

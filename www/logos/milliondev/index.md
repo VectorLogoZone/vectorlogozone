@@ -1,8 +1,8 @@
 ---
-github: aidenybai/million
+git: https://github.com/aidenybai/million
 logohandle: milliondev
 sort: millionjs
 title: Million.js
-twitter: milliondotjs
-website: 'https://million.dev/'
+twitter: https://x.com/milliondotjs
+website: https://million.dev/
 ---

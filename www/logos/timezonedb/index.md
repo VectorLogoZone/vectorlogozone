@@ -2,6 +2,6 @@
 logohandle: timezonedb
 sort: timezonedb
 title: TimeZoneDB
-twitter: TimeZoneDB
-website: 'https://timezonedb.com/'
+twitter: https://x.com/TimeZoneDB
+website: https://timezonedb.com/
 ---

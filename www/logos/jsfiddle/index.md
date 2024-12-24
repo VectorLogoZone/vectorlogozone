@@ -2,7 +2,6 @@
 logohandle: jsfiddle
 sort: jsfiddle
 title: JSFiddle
-twitter: zalun
-website: 'https://jsfiddle.net/'
+twitter: https://x.com/zalun
+website: https://jsfiddle.net/
 ---
-

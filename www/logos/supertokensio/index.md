@@ -1,7 +1,7 @@
 ---
-github: supertokens/supertokens-core
+git: https://github.com/supertokens/supertokens-core
 logohandle: supertokensio
 sort: supertokens
 title: SuperTokens
-website: 'https://supertokens.io/'
+website: https://supertokens.io/
 ---

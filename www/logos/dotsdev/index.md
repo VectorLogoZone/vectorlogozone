@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/senddots'
+linkedin: https://linkedin.com/company/senddots
 logohandle: dotsdev
 sort: dots
 title: Dots
-twitter: Dots_dev
-website: 'https://dots.dev/'
+twitter: https://x.com/Dots_dev
+website: https://dots.dev/
 ---

@@ -2,6 +2,6 @@
 logohandle: omeka
 sort: omeka
 title: Omeka
-twitter: omeka
-website: 'https://omeka.org/'
+twitter: https://x.com/omeka
+website: https://omeka.org/
 ---

@@ -1,9 +1,9 @@
 ---
-github: sieve-data
-linkedin: 'https://linkedin.com/company/sievedata'
+git: https://github.com/sieve-data
+linkedin: https://linkedin.com/company/sievedata
 logohandle: sievedata
 sort: sievedata
 title: Sieve
-twitter: sievedata
-website: 'https://www.sievedata.com/'
+twitter: https://x.com/sievedata
+website: https://www.sievedata.com/
 ---

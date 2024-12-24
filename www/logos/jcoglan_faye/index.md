@@ -1,7 +1,7 @@
 ---
-github: faye/faye
+git: https://github.com/faye/faye
 logohandle: jcoglan_faye
 sort: faye
 title: Faye
-website: 'https://faye.jcoglan.com/'
+website: https://faye.jcoglan.com/
 ---

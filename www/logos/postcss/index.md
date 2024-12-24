@@ -1,8 +1,8 @@
 ---
-github: postcss/postcss
+git: https://github.com/postcss/postcss
 logohandle: postcss
 sort: postcss
 title: PostCSS
-twitter: postcss
-website: 'https://postcss.org/'
+twitter: https://x.com/postcss
+website: https://postcss.org/
 ---

@@ -1,7 +1,7 @@
 ---
-github: agershun/alasql
+git: https://github.com/agershun/alasql
 logohandle: alasql
 sort: alasql
 title: alaSQL
-website: 'http://alasql.org/'
+website: http://alasql.org/
 ---

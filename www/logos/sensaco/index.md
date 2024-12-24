@@ -1,8 +1,8 @@
 ---
-github: sensadesign
+git: https://github.com/sensadesign
 logohandle: sensaco
 sort: sensa
 title: sensa
-twitter: sensa
-website: 'https://sensa.co/'
+twitter: https://x.com/sensa
+website: https://sensa.co/
 ---

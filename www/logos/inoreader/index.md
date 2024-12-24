@@ -1,9 +1,9 @@
 ---
-blog: 'https://inoreader.com/blog'
-facebook: 'https://facebook.com/Inoreader'
+blog: https://inoreader.com/blog
+facebook: https://facebook.com/Inoreader
 logohandle: inoreader
 sort: inoreader
 title: Inoreader
-twitter: Inoreader
-website: 'https://www.inoreader.com/'
+twitter: https://x.com/Inoreader
+website: https://www.inoreader.com/
 ---

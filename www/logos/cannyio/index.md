@@ -1,8 +1,8 @@
 ---
-blog: 'https://canny.io/blog'
+blog: https://canny.io/blog
 logohandle: cannyio
 sort: canny
 title: Canny
-twitter: cannyHQ
-website: 'https://canny.io/'
+twitter: https://x.com/cannyHQ
+website: https://canny.io/
 ---

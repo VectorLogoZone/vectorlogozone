@@ -1,10 +1,10 @@
 ---
 blog: https://gruntjs.com/blog
-github: gruntjs
+git: https://github.com/gruntjs
 logohandle: gruntjs
 sort: gruntjs
 title: Grunt
-twitter: gruntjs
+twitter: https://x.com/gruntjs
 website: https://gruntjs.com/
 wikipedia: https://en.wikipedia.org/wiki/Grunt_(software)
 ---

@@ -1,8 +1,8 @@
 ---
-blog: 'https://medium.com/toyboxsystems'
+blog: https://medium.com/toyboxsystems
 logohandle: toyboxsystems
 sort: toybox
 title: Toybox
-twitter: toyboxsystems
-website: 'https://www.toyboxsystems.com/'
+twitter: https://x.com/toyboxsystems
+website: https://www.toyboxsystems.com/
 ---

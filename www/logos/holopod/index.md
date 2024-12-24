@@ -2,6 +2,6 @@
 logohandle: holopod
 sort: holopod
 title: Holopod
-twitter: holopodhq
-website: 'https://holopod.com/'
+twitter: https://x.com/holopodhq
+website: https://holopod.com/
 ---

@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/serverless'
-github: serverless/examples
-instagram: 'https://instagram.com/serverlessinc'
+facebook: https://facebook.com/serverless
+git: https://github.com/serverless/examples
+instagram: https://instagram.com/serverlessinc
 logohandle: serverless
 sort: serverless
 title: serverless
-twitter: goserverless
-website: 'https://serverless.com/'
+twitter: https://x.com/goserverless
+website: https://serverless.com/
 ---

@@ -4,7 +4,7 @@ facebook: https://www.facebook.com/digg
 font:
   name: FFF Forward
   url: https://www.ffonts.net/FFF-Forward.font
-github: digg
+git: https://github.com/digg
 images:
 - digg-icon.svg
 - digg-ar21.svg
@@ -13,6 +13,6 @@ sort: digg
 tags:
 - bookmarking
 title: Digg
-twitter: digg
+twitter: https://x.com/digg
 website: http://digg.com/
 ---

@@ -1,10 +1,10 @@
 ---
-dribbble: 'https://dribbble.com/postlight'
-facebook: 'https://facebook.com/postlightstudio/'
-instagram: 'https://instagram.com/postlightstudio/'
+dribbble: https://dribbble.com/postlight
+facebook: https://facebook.com/postlightstudio/
+instagram: https://instagram.com/postlightstudio/
 logohandle: postlight
 sort: postlight
 title: Postlight
-twitter: Postlight
-website: 'https://postlight.com/'
+twitter: https://x.com/Postlight
+website: https://postlight.com/
 ---

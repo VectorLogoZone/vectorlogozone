@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/ZURB'
+facebook: https://facebook.com/ZURB
 logohandle: zurb
 sort: zurb
 title: ZURB
-twitter: zurb
-website: 'https://zurb.com/'
-youtube: 'https://youtube.com/user/zurb'
+twitter: https://x.com/zurb
+website: https://zurb.com/
+youtube: https://youtube.com/user/zurb
 ---

@@ -1,11 +1,11 @@
 ---
-github: OpenBB-finance/OpenBBTerminal
-instagram: 'https://instagram.com/openbb.finance'
-linkedin: 'https://linkedin.com/company/openbb-finance'
+git: https://github.com/OpenBB-finance/OpenBBTerminal
+instagram: https://instagram.com/openbb.finance
+linkedin: https://linkedin.com/company/openbb-finance
 logohandle: openbbco
 sort: openbb
 title: OpenBB
-twitter: openbb
-website: 'https://openbb.co/'
-youtube: 'https://youtube.com/channel/UCaeFEx-W16IuxRsHlM1ywBQ'
+twitter: https://x.com/openbb
+website: https://openbb.co/
+youtube: https://youtube.com/channel/UCaeFEx-W16IuxRsHlM1ywBQ
 ---

@@ -4,7 +4,7 @@ colors:
 - '#EC1C24'
 - '#51575C'
 facebook: https://www.facebook.com/authysec
-github: authy
+git: https://github.com/authy
 images:
 - authy-ar21.svg
 - authy-icon.svg
@@ -17,6 +17,6 @@ tags:
 - programming_library
 - saas
 title: Authy
-twitter: Authy
+twitter: https://x.com/Authy
 website: https://authy.com/
 ---

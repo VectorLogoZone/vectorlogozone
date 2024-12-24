@@ -1,8 +1,8 @@
 ---
-github: getsheety
+git: https://github.com/getsheety
 logohandle: sheetyco
 sort: sheety
 title: Sheety
-twitter: getsheety
-website: 'https://sheety.co/'
+twitter: https://x.com/getsheety
+website: https://sheety.co/
 ---

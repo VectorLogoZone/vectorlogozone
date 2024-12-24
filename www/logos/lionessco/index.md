@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/Lioness.Stories.LLC'
-instagram: 'http://instagram.com/lioness.stories'
+facebook: https://facebook.com/Lioness.Stories.LLC
+instagram: http://instagram.com/lioness.stories
 logohandle: lionessco
 sort: lioness
 title: Lioness
-twitter: lioness_stories
-website: 'https://www.lioness.co/'
+twitter: https://x.com/lioness_stories
+website: https://www.lioness.co/
 ---

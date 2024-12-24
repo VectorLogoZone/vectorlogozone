@@ -1,8 +1,8 @@
 ---
-github: robusta-dev/robusta
+git: https://github.com/robusta-dev/robusta
 logohandle: robustadev
 sort: robusta
 title: Robusta
-twitter: aantn
-website: 'https://home.robusta.dev/'
+twitter: https://x.com/aantn
+website: https://home.robusta.dev/
 ---

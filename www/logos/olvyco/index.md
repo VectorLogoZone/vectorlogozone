@@ -1,8 +1,8 @@
 ---
-linkedin: 'http://linkedin.com/company/olvyhq'
+linkedin: http://linkedin.com/company/olvyhq
 logohandle: olvyco
 sort: olvy
 title: Olvy
-twitter: olvyhq
-website: 'https://olvy.co/'
+twitter: https://x.com/olvyhq
+website: https://olvy.co/
 ---

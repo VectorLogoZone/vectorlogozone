@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/coolors.co'
-instagram: 'https://instagram.com/coolors.co'
+facebook: https://facebook.com/coolors.co
+instagram: https://instagram.com/coolors.co
 logohandle: coolorsco
-pinterest: 'https://pinterest.com/coolors_co'
+pinterest: https://pinterest.com/coolors_co
 sort: coolors
 title: Coolors
-twitter: coolors_co
-website: 'https://coolors.co/'
+twitter: https://x.com/coolors_co
+website: https://coolors.co/
 ---

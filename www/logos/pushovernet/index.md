@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.pushover.net/'
+blog: https://blog.pushover.net/
 logohandle: pushovernet
 sort: pushover
 title: Pushover
-twitter: PushoverApp
-website: 'https://pushover.net/'
+twitter: https://x.com/PushoverApp
+website: https://pushover.net/
 ---

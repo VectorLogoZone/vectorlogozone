@@ -1,8 +1,8 @@
 ---
-blog: 'http://blog.helftone.com/'
+blog: http://blog.helftone.com/
 logohandle: helftone_monodraw
 sort: monodraw
 title: Monodraw
-twitter: monodraw
-website: 'https://monodraw.helftone.com/'
+twitter: https://x.com/monodraw
+website: https://monodraw.helftone.com/
 ---

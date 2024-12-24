@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/OWASPFoundation'
-linkedin: 'https://linkedin.com/company/owasp'
+facebook: https://facebook.com/OWASPFoundation
+linkedin: https://linkedin.com/company/owasp
 logohandle: owasp
 sort: owasp
 title: OWASP
-twitter: owasp
-website: 'https://owasp.org/'
-youtube: 'https://youtube.com/user/OWASPGLOBAL'
+twitter: https://x.com/owasp
+website: https://owasp.org/
+youtube: https://youtube.com/user/OWASPGLOBAL
 ---

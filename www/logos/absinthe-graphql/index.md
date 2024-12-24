@@ -1,8 +1,8 @@
 ---
-github: absinthe-graphql
+git: https://github.com/absinthe-graphql
 logohandle: absinthe-graphql
-slack: 'https://elixir-slackin.herokuapp.com/'
+slack: https://elixir-slackin.herokuapp.com/
 sort: absinthe
 title: Absinthe
-website: 'http://absinthe-graphql.org/'
+website: http://absinthe-graphql.org/
 ---

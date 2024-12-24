@@ -1,7 +1,8 @@
 ---
-colors: ['#00BF8F']
-github: vine
-guide: 'http://brand.vine.co/'
+colors:
+- '#00BF8F'
+git: https://github.com/vine
+guide: http://brand.vine.co/
 images:
 - vine-icon.svg
 - vine-ar21.svg

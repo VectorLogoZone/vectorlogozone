@@ -8,7 +8,7 @@ sort: george_mason
 tags:
 - university
 title: George Mason University
-twitter: georgemasonu
+twitter: https://x.com/georgemasonu
 website: https://www2.gmu.edu/
 wikipedia: https://en.wikipedia.org/wiki/George_Mason_University
 ---

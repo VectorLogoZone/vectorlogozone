@@ -1,8 +1,8 @@
 ---
-github: geany
+git: https://github.com/geany
 logohandle: geany
 sort: geany
 title: Geany
-twitter: GeanyIDE
-website: 'https://www.geany.org/'
+twitter: https://x.com/GeanyIDE
+website: https://www.geany.org/
 ---

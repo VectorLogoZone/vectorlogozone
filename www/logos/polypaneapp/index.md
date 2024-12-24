@@ -2,6 +2,6 @@
 logohandle: polypaneapp
 sort: polypane
 title: Polypane
-twitter: polypane
-website: 'https://polypane.app/'
+twitter: https://x.com/polypane
+website: https://polypane.app/
 ---

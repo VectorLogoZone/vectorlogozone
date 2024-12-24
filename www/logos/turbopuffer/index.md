@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/turbopuffer'
+linkedin: https://linkedin.com/company/turbopuffer
 logohandle: turbopuffer
 sort: turbopuffer
 title: turbopuffer
-twitter: turbopuffer
-website: 'https://turbopuffer.com/'
+twitter: https://x.com/turbopuffer
+website: https://turbopuffer.com/
 ---

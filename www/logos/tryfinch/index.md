@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.tryfinch.com/'
-linkedin: 'https://linkedin.com/company/finchapi'
+blog: https://blog.tryfinch.com/
+linkedin: https://linkedin.com/company/finchapi
 logohandle: tryfinch
 sort: finch
 title: Finch
-twitter: tryfinch
-website: 'https://www.tryfinch.com/'
+twitter: https://x.com/tryfinch
+website: https://www.tryfinch.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: ruffle-rs/ruffle
+git: https://github.com/ruffle-rs/ruffle
 logohandle: rufflers
 sort: ruffle
 title: Ruffle
-website: 'https://ruffle.rs/'
+website: https://ruffle.rs/
 ---

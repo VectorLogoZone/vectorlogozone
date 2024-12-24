@@ -1,9 +1,9 @@
 ---
-blog: 'http://blog.nushell.sh/'
-github: nushell
+blog: http://blog.nushell.sh/
+git: https://github.com/nushell
 logohandle: nushellsh
 sort: nushell
 title: Nushell
-twitter: nu_shell
-website: 'https://www.nushell.sh/'
+twitter: https://x.com/nu_shell
+website: https://www.nushell.sh/
 ---

@@ -1,8 +1,8 @@
 ---
-github: BuilderIO/qwik
+git: https://github.com/BuilderIO/qwik
 logohandle: qwikdev
 sort: qwik
 title: Qwik
-twitter: QwikDev
-website: 'https://qwik.dev/'
+twitter: https://x.com/QwikDev
+website: https://qwik.dev/
 ---

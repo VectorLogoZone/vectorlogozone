@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/PayWith'
+facebook: https://facebook.com/PayWith
 logohandle: paywith
 sort: paywith
 title: paywith
-twitter: paywithphone
-website: 'https://www.paywith.com/'
+twitter: https://x.com/paywithphone
+website: https://www.paywith.com/
 ---

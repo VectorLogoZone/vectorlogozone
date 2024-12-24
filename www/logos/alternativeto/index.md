@@ -8,7 +8,7 @@ images:
 logohandle: alternativeto
 sort: alternativeto
 title: AlternativeTo
-twitter: alternativeto
+twitter: https://x.com/alternativeto
 website: https://alternativeto.net/
 wikipedia: https://en.wikipedia.org/wiki/AlternativeTo
 ---

@@ -1,9 +1,9 @@
 ---
-dribbble: 'http://dribbble.com/bjango'
-github: bjango
+dribbble: http://dribbble.com/bjango
+git: https://github.com/bjango
 logohandle: bjango
 sort: bjango
 title: Bjango
-twitter: bjango
-website: 'https://bjango.com/'
+twitter: https://x.com/bjango
+website: https://bjango.com/
 ---

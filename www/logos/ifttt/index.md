@@ -6,7 +6,7 @@ images:
 logohandle: ifttt
 sort: ifttt
 title: IFTTT
-twitter: ifttt
+twitter: https://x.com/ifttt
 website: https://ifttt.com/
 wikipedia: https://en.wikipedia.org/wiki/IFTTT
 ---

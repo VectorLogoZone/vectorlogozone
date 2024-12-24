@@ -2,7 +2,7 @@
 blog: http://blog.appharbor.com/
 colors:
 - '#113C5B'
-github: appharbor
+git: https://github.com/appharbor
 images:
 - appharbor-ar21.svg
 - appharbor-icon.svg
@@ -12,6 +12,6 @@ tags:
 - hosting
 - dotnet
 title: AppHarbor
-twitter: appharbor
+twitter: https://x.com/appharbor
 website: https://appharbor.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: redwoodjs/redwood
+git: https://github.com/redwoodjs/redwood
 logohandle: redwoodjs
 sort: redwoodjs
 title: RedwoodJS
-website: 'https://redwoodjs.com/'
+website: https://redwoodjs.com/
 ---

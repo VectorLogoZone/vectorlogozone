@@ -1,7 +1,7 @@
 ---
-github: jsoftware
+git: https://github.com/jsoftware
 logohandle: jsoftware
 sort: jsoftware
 title: Jsoftware
-website: 'https://www.jsoftware.com/'
+website: https://www.jsoftware.com/
 ---

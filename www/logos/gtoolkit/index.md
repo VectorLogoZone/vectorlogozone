@@ -1,10 +1,10 @@
 ---
-blog: 'https://medium.com/feenk'
-github: feenkcom/gtoolkit
-linkedin: 'https://linkedin.com/company/feenk'
+blog: https://medium.com/feenk
+git: https://github.com/feenkcom/gtoolkit
+linkedin: https://linkedin.com/company/feenk
 logohandle: gtoolkit
 sort: gtoolkit
 title: Glamorous Toolkit
-twitter: feenkcom
-website: 'https://gtoolkit.com/'
+twitter: https://x.com/feenkcom
+website: https://gtoolkit.com/
 ---

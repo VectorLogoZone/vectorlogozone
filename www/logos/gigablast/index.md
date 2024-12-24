@@ -1,7 +1,7 @@
 ---
-github: gigablast
+git: https://github.com/gigablast
 logohandle: gigablast
 sort: gigablast
 title: Gigablast
-website: 'http://gigablast.com/'
+website: http://gigablast.com/
 ---

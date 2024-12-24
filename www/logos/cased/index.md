@@ -1,8 +1,8 @@
 ---
-github: cased
+git: https://github.com/cased
 logohandle: cased
 sort: cased
 title: Cased
-twitter: casedinc
-website: 'https://cased.com/'
+twitter: https://x.com/casedinc
+website: https://cased.com/
 ---

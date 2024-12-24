@@ -1,8 +1,8 @@
 ---
-blog: 'http://blog.darlinghq.org/'
-github: darlinghq/darling
+blog: http://blog.darlinghq.org/
+git: https://github.com/darlinghq/darling
 logohandle: darlinghq
 sort: darlinghq
 title: Darling
-website: 'http://darlinghq.org/'
+website: http://darlinghq.org/
 ---

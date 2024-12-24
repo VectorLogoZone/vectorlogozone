@@ -1,8 +1,8 @@
 ---
-github: fizzed
+git: https://github.com/fizzed
 logohandle: fizzed
 sort: fizzed
 title: Fizzed
-twitter: fizzed_inc
-website: 'http://fizzed.com/'
+twitter: https://x.com/fizzed_inc
+website: http://fizzed.com/
 ---

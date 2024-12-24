@@ -1,7 +1,7 @@
 ---
-github: mitsuhiko/werkzeug
+git: https://github.com/mitsuhiko/werkzeug
 logohandle: pocoo_werkzeug
 sort: werkzeug
 title: Werkzeug
-website: 'http://werkzeug.pocoo.org/'
+website: http://werkzeug.pocoo.org/
 ---

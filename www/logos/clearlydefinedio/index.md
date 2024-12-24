@@ -1,8 +1,8 @@
 ---
-github: clearlydefined
+git: https://github.com/clearlydefined
 logohandle: clearlydefinedio
 sort: clearlydefined
 title: ClearlyDefined
-twitter: clearlydefd
-website: 'https://clearlydefined.io/'
+twitter: https://x.com/clearlydefd
+website: https://clearlydefined.io/
 ---

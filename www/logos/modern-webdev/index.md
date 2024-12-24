@@ -1,8 +1,8 @@
 ---
-github: modernweb-dev/web
+git: https://github.com/modernweb-dev/web
 logohandle: modern-webdev
 sort: modern-web
 title: Modern Web
-twitter: modern_web_dev
-website: 'https://modern-web.dev/'
+twitter: https://x.com/modern_web_dev
+website: https://modern-web.dev/
 ---

@@ -1,7 +1,7 @@
 ---
-github: mweagle/Sparta
+git: https://github.com/mweagle/Sparta
 logohandle: gospartaio
 sort: sparta
 title: Sparta
-website: 'https://gosparta.io/'
+website: https://gosparta.io/
 ---

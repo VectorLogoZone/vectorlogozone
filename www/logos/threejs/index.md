@@ -1,7 +1,7 @@
 ---
-github: mrdoob/three.js
+git: https://github.com/mrdoob/three.js
 logohandle: threejs
 sort: threejs
 title: three.js
-website: 'https://threejs.org/'
+website: https://threejs.org/
 ---

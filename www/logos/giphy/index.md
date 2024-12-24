@@ -8,7 +8,7 @@ instagram: httpw://www.instagram.com/giphy/
 logohandle: giphy
 sort: giphy
 title: GIPHY
-twitter: giphy
+twitter: https://x.com/giphy
 website: https://giphy.com/
 wikipedia: https://en.wikipedia.org/wiki/Giphy
 ---

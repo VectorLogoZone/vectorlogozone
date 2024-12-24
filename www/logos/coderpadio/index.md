@@ -2,6 +2,6 @@
 logohandle: coderpadio
 sort: coderpad
 title: CoderPad
-twitter: coderpad
-website: 'https://coderpad.io/'
+twitter: https://x.com/coderpad
+website: https://coderpad.io/
 ---

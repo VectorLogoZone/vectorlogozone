@@ -2,6 +2,6 @@
 logohandle: beamanalyticsio
 sort: beamanalytics
 title: Beam Analytics
-twitter: BeamAnalyticsIO
-website: 'https://beamanalytics.io/'
+twitter: https://x.com/BeamAnalyticsIO
+website: https://beamanalytics.io/
 ---

@@ -1,8 +1,8 @@
 ---
-github: pion
+git: https://github.com/pion
 logohandle: pionly
 sort: pion
 title: Pion
-twitter: _pion
-website: 'https://pion.ly/'
+twitter: https://x.com/_pion
+website: https://pion.ly/
 ---

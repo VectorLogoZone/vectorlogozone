@@ -1,7 +1,7 @@
 ---
-github: balderdashy/waterline
+git: https://github.com/balderdashy/waterline
 logohandle: waterlinejs
 sort: waterlinejs
 title: waterline.js
-website: 'http://waterlinejs.org/'
+website: http://waterlinejs.org/
 ---

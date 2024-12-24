@@ -1,9 +1,9 @@
 ---
-github: facebook/watchman
+git: https://github.com/facebook/watchman
 logohandle: facebook_watchman
 sort: watchman
 tags:
 - facebook
 title: Watchman
-website: 'https://facebook.github.io/watchman/'
+website: https://facebook.github.io/watchman/
 ---

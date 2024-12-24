@@ -1,8 +1,8 @@
 ---
-github: briefercloud
+git: https://github.com/briefercloud
 logohandle: briefercloud
 sort: briefer
 title: Briefer
-twitter: briefercloud
-website: 'https://briefer.cloud/'
+twitter: https://x.com/briefercloud
+website: https://briefer.cloud/
 ---

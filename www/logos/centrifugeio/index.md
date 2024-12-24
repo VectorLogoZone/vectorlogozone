@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/centrifuge'
-github: centrifuge
+blog: https://medium.com/centrifuge
+git: https://github.com/centrifuge
 logohandle: centrifugeio
 sort: centrifuge
 title: Centrifuge
-twitter: centrifuge
-website: 'https://centrifuge.io/'
+twitter: https://x.com/centrifuge
+website: https://centrifuge.io/
 ---

@@ -1,10 +1,9 @@
 ---
-blog: 'https://blog.waterfoxproject.org/'
-github: MrAlex94/Waterfox
+blog: https://blog.waterfoxproject.org/
+git: https://github.com/MrAlex94/Waterfox
 logohandle: waterfoxproject
 sort: waterfoxproject
 title: Waterfox
-twitter: waterfoxproject
-website: 'https://www.waterfoxproject.org/'
+twitter: https://x.com/waterfoxproject
+website: https://www.waterfoxproject.org/
 ---
-

@@ -1,7 +1,7 @@
 ---
 blog: https://slackhq.com/
 facebook: https://www.facebook.com/slackhq
-github: slackhq
+git: https://github.com/slackhq
 guide: https://slack.com/brand-guidelines
 images:
 - slack-icon.svg
@@ -10,7 +10,7 @@ images:
 logohandle: slack
 sort: slack
 title: Slack
-twitter: slackhq
+twitter: https://x.com/slackhq
 website: https://slack.com/
 wikipedia: https://en.wikipedia.org/wiki/Slack_(software)
 ---

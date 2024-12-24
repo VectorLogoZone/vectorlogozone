@@ -2,6 +2,6 @@
 logohandle: mailbrew
 sort: mailbrew
 title: Mailbrew
-twitter: mailbrew
-website: 'https://mailbrew.com/'
+twitter: https://x.com/mailbrew
+website: https://mailbrew.com/
 ---

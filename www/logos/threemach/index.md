@@ -1,8 +1,8 @@
 ---
-github: threema-ch
+git: https://github.com/threema-ch
 logohandle: threemach
 sort: threema
 title: Threema
-twitter: ThreemaApp
-website: 'https://threema.ch/en'
+twitter: https://x.com/ThreemaApp
+website: https://threema.ch/en
 ---

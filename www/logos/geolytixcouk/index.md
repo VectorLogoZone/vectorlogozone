@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.geolytix.net/'
-github: dbauszus-glx
-linkedin: 'https://linkedin.com/company/geolytix'
+blog: https://blog.geolytix.net/
+git: https://github.com/dbauszus-glx
+linkedin: https://linkedin.com/company/geolytix
 logohandle: geolytixcouk
 sort: geolytix
 title: GEOLYTIX
-twitter: geolytix
-website: 'https://geolytix.co.uk/'
+twitter: https://x.com/geolytix
+website: https://geolytix.co.uk/
 ---

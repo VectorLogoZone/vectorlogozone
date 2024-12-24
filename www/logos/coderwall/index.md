@@ -1,8 +1,8 @@
 ---
-github: coderwall
+git: https://github.com/coderwall
 logohandle: coderwall
 sort: coderwall
 title: Coderwall
-twitter: coderwall
-website: 'https://coderwall.com/'
+twitter: https://x.com/coderwall
+website: https://coderwall.com/
 ---

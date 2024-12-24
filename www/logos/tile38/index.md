@@ -1,8 +1,8 @@
 ---
-github: tidwall/tile38
+git: https://github.com/tidwall/tile38
 logohandle: tile38
 sort: tile38
 title: Tile38
-twitter: tile38db
-website: 'https://tile38.com/'
+twitter: https://x.com/tile38db
+website: https://tile38.com/
 ---

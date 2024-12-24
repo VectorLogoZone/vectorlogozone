@@ -1,8 +1,8 @@
 ---
-github: anycable/anycable
+git: https://github.com/anycable/anycable
 logohandle: anycableio
 sort: anycable
 title: AnyCable
-twitter: any_cable
-website: 'https://anycable.io/'
+twitter: https://x.com/any_cable
+website: https://anycable.io/
 ---

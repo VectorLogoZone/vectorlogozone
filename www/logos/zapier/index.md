@@ -6,7 +6,7 @@ facebook: http://www.facebook.com/ZapierApp
 font:
   google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans
-github: zapier
+git: https://github.com/zapier
 guide: https://zapier.com/brand/
 images:
 - zapier-ar21.svg
@@ -16,7 +16,7 @@ linkedin: http://www.linkedin.com/company/zapier/
 logohandle: zapier
 sort: zapier
 title: Zapier
-twitter: zapier
+twitter: https://x.com/zapier
 website: https://zapier.com/
 wikipedia: https://en.wikipedia.org/wiki/Zapier
 youtube: http://www.youtube.com/user/ZapierApp/videos

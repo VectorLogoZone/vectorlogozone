@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/OrganicMaps'
-github: organicmaps/organicmaps
-instagram: 'https://instagram.com/organicmaps.app'
-linkedin: 'https://linkedin.com/company/organic-maps'
+facebook: https://facebook.com/OrganicMaps
+git: https://github.com/organicmaps/organicmaps
+instagram: https://instagram.com/organicmaps.app
+linkedin: https://linkedin.com/company/organic-maps
 logohandle: organicmapsapp
 sort: organicmaps
 title: Organic Maps
-twitter: OrganicMapsApp
-website: 'https://organicmaps.app/'
+twitter: https://x.com/OrganicMapsApp
+website: https://organicmaps.app/
 ---

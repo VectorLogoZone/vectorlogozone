@@ -1,8 +1,8 @@
 ---
-github: 18alantom/strawberry
+git: https://github.com/18alantom/strawberry
 logohandle: strawberryquest
 sort: strawberry
 title: Strawberry
-twitter: 18alantom
-website: 'https://strawberry.quest/'
+twitter: https://x.com/18alantom
+website: https://strawberry.quest/
 ---

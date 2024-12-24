@@ -1,9 +1,9 @@
 ---
-github: stackbit
-linkedin: 'https://linkedin.com/company/stackbit'
+git: https://github.com/stackbit
+linkedin: https://linkedin.com/company/stackbit
 logohandle: stackbit
 sort: stackbit
 title: Stackbit
-twitter: stackbit
-website: 'https://www.stackbit.com/'
+twitter: https://x.com/stackbit
+website: https://www.stackbit.com/
 ---

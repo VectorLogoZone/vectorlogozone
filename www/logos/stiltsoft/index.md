@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/stiltsoft'
+linkedin: https://linkedin.com/company/stiltsoft
 logohandle: stiltsoft
 sort: stiltsoft
 title: StiltSoft
-twitter: stiltsoft
-website: 'https://stiltsoft.com/'
+twitter: https://x.com/stiltsoft
+website: https://stiltsoft.com/
 ---

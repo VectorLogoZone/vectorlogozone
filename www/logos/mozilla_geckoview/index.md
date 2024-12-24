@@ -1,7 +1,7 @@
 ---
-github: mozilla/geckoview
+git: https://github.com/mozilla/geckoview
 logohandle: mozilla_geckoview
 sort: geckoview
 title: GeckoView
-website: 'https://mozilla.github.io/geckoview/'
+website: https://mozilla.github.io/geckoview/
 ---

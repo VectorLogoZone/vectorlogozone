@@ -1,7 +1,7 @@
 ---
-github: yiliansource/party-js
+git: https://github.com/yiliansource/party-js
 logohandle: js_party
 sort: partyjs
 title: party.js
-website: 'https://party.js.org/'
+website: https://party.js.org/
 ---

@@ -1,9 +1,8 @@
 ---
-facebook: 'https://facebook.com/AcornsGrow'
+facebook: https://facebook.com/AcornsGrow
 logohandle: acorns
 sort: acorns
 title: Acorns
-twitter: acorns
-website: 'https://www.acorns.com/'
+twitter: https://x.com/acorns
+website: https://www.acorns.com/
 ---
-

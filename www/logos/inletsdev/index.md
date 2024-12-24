@@ -1,8 +1,8 @@
 ---
-github: inlets/inlets
+git: https://github.com/inlets/inlets
 logohandle: inletsdev
 sort: inlets
 title: Inlets
-twitter: inletsdev
-website: 'https://docs.inlets.dev/'
+twitter: https://x.com/inletsdev
+website: https://docs.inlets.dev/
 ---

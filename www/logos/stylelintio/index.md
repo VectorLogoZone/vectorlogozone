@@ -1,8 +1,8 @@
 ---
-github: stylelint/stylelint
+git: https://github.com/stylelint/stylelint
 logohandle: stylelintio
 sort: stylelint
 title: StyleLint
-twitter: stylelint
-website: 'https://stylelint.io/'
+twitter: https://x.com/stylelint
+website: https://stylelint.io/
 ---

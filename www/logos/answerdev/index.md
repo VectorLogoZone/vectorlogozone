@@ -1,8 +1,8 @@
 ---
-github: answerdev/answer
+git: https://github.com/answerdev/answer
 logohandle: answerdev
 sort: answer
 title: AnswerDev
-twitter: answerdev
-website: 'https://answer.dev/'
+twitter: https://x.com/answerdev
+website: https://answer.dev/
 ---

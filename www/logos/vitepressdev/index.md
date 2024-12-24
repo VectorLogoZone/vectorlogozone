@@ -1,7 +1,7 @@
 ---
-github: vuejs/vitepress
+git: https://github.com/vuejs/vitepress
 logohandle: vitepressdev
 sort: vitepress
 title: VitePress
-website: 'https://vitepress.dev/'
+website: https://vitepress.dev/
 ---

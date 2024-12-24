@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/GlobalDataplc'
-linkedin: 'https://linkedin.com/company/gd-research-center-pvt-ltd'
+facebook: https://facebook.com/GlobalDataplc
+linkedin: https://linkedin.com/company/gd-research-center-pvt-ltd
 logohandle: globaldata
 sort: globaldata
 title: GlobalData
-twitter: globaldataplc
-website: 'https://www.globaldata.com/'
+twitter: https://x.com/globaldataplc
+website: https://www.globaldata.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: vmware-tanzu/octant
+git: https://github.com/vmware-tanzu/octant
 logohandle: octantdev
 sort: octant
 title: Octant
-twitter: projectoctant
-website: 'https://octant.dev/'
+twitter: https://x.com/projectoctant
+website: https://octant.dev/
 ---

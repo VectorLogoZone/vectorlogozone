@@ -1,7 +1,7 @@
 ---
-github: devicons/devicon
+git: https://github.com/devicons/devicon
 logohandle: techiconsdev
 sort: techicons
 title: TechIcons
-website: 'https://techicons.dev/'
+website: https://techicons.dev/
 ---

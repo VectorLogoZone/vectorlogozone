@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/legionofthebouncycastle'
-github: bcgit
+facebook: https://facebook.com/legionofthebouncycastle
+git: https://github.com/bcgit
 logohandle: bouncycastle
 sort: bouncycastle
 title: bouncycastle
-twitter: bccrypto
-website: 'https://www.bouncycastle.org/'
+twitter: https://x.com/bccrypto
+website: https://www.bouncycastle.org/
 ---

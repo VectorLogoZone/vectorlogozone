@@ -1,8 +1,8 @@
 ---
-github: opencitations
+git: https://github.com/opencitations
 logohandle: opencitationsnet
 sort: opencitations
 title: OpenCitations
-twitter: opencitations
-website: 'https://opencitations.net/'
+twitter: https://x.com/opencitations
+website: https://opencitations.net/
 ---

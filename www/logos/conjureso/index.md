@@ -2,6 +2,6 @@
 logohandle: conjureso
 sort: conjure
 title: Conjure
-twitter: ConjureSo
-website: 'https://conjure.so/'
+twitter: https://x.com/ConjureSo
+website: https://conjure.so/
 ---

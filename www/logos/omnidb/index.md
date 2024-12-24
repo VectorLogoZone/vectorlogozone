@@ -1,7 +1,7 @@
 ---
-github: OmniDB/OmniDB
+git: https://github.com/OmniDB/OmniDB
 logohandle: omnidb
 sort: omnidb
 title: OmniDB
-website: 'https://omnidb.org/en/'
+website: https://omnidb.org/en/
 ---

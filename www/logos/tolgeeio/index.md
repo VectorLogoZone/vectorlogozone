@@ -1,9 +1,9 @@
 ---
-github: tolgee
-linkedin: 'https://linkedin.com/company/tolgee'
+git: https://github.com/tolgee
+linkedin: https://linkedin.com/company/tolgee
 logohandle: tolgeeio
 sort: tolgee
 title: Tolgee
-twitter: tolgee_i18n
-website: 'https://tolgee.io/'
+twitter: https://x.com/tolgee_i18n
+website: https://tolgee.io/
 ---

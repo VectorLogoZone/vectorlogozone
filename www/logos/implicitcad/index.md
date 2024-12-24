@@ -1,7 +1,7 @@
 ---
-github: colah/ImplicitCAD
+git: https://github.com/colah/ImplicitCAD
 logohandle: implicitcad
 sort: implicitcad
 title: ImplicitCad
-website: 'https://www.implicitcad.org/'
+website: https://www.implicitcad.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: personium
+git: https://github.com/personium
 logohandle: personiumio
 sort: personium
 title: Personium
-twitter: personium
-website: 'https://personium.io/'
+twitter: https://x.com/personium
+website: https://personium.io/
 ---

@@ -1,8 +1,8 @@
 ---
-github: Automattic/mongoose
+git: https://github.com/Automattic/mongoose
 logohandle: mongoosejs
 sort: mongoosejs
 title: MongooseJS
-twitter: mongoosejs
-website: 'https://mongoosejs.com/'
+twitter: https://x.com/mongoosejs
+website: https://mongoosejs.com/
 ---

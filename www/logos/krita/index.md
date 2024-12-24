@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/pages/Krita-Foundation/511943358879536'
-instagram: 'https://instagram.com/krita_foundation'
+facebook: https://facebook.com/pages/Krita-Foundation/511943358879536
+instagram: https://instagram.com/krita_foundation
 logohandle: krita
 sort: krita
 title: Krita
-twitter: Krita_Painting
-website: 'https://krita.org/en'
+twitter: https://x.com/Krita_Painting
+website: https://krita.org/en
 ---

@@ -1,7 +1,7 @@
 ---
-github: fabienvauchelles/scrapoxy
+git: https://github.com/fabienvauchelles/scrapoxy
 logohandle: scrapoxyio
 sort: scrapoxy
 title: Scrapoxy
-website: 'https://scrapoxy.io/'
+website: https://scrapoxy.io/
 ---

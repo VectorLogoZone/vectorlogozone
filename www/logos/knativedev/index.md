@@ -1,8 +1,8 @@
 ---
-github: knative
+git: https://github.com/knative
 logohandle: knativedev
 sort: knative
 title: Knative
-twitter: KnativeProject
-website: 'https://knative.dev/'
+twitter: https://x.com/KnativeProject
+website: https://knative.dev/
 ---

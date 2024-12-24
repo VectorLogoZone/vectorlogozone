@@ -1,11 +1,11 @@
 ---
-blog: 'https://blog.feedspot.com/'
-facebook: 'https://facebook.com/Feedspot'
-instagram: 'https://instagram.com/feedspotdotcom'
+blog: https://blog.feedspot.com/
+facebook: https://facebook.com/Feedspot
+instagram: https://instagram.com/feedspotdotcom
 logohandle: feedspot
-pinterest: 'https://pinterest.com/feedspot'
+pinterest: https://pinterest.com/feedspot
 sort: feedspot
 title: Feedspot
-twitter: _feedspot
-website: 'https://www.feedspot.com/'
+twitter: https://x.com/_feedspot
+website: https://www.feedspot.com/
 ---

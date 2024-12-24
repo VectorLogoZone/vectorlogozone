@@ -1,8 +1,8 @@
 ---
-blog: 'https://flexibits.com/blog/'
+blog: https://flexibits.com/blog/
 logohandle: flexibits
 sort: flexibits
 title: Flexibits
-twitter: flexibits
-website: 'https://flexibits.com/'
+twitter: https://x.com/flexibits
+website: https://flexibits.com/
 ---

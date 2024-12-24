@@ -1,7 +1,7 @@
 ---
-github: Fizzadar/pyinfra
+git: https://github.com/Fizzadar/pyinfra
 logohandle: pyinfra
 sort: pyinfra
 title: pyinfra
-website: 'https://pyinfra.com/'
+website: https://pyinfra.com/
 ---

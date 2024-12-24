@@ -1,8 +1,8 @@
 ---
-github: snikket-im
+git: https://github.com/snikket-im
 logohandle: snikket
 sort: snikket
 title: Snikket
-twitter: snikket_im
-website: 'https://snikket.org/'
+twitter: https://x.com/snikket_im
+website: https://snikket.org/
 ---

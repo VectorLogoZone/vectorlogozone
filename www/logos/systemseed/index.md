@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/SystemSeed'
-github: systemseed
-linkedin: 'https://linkedin.com/company/systemseed'
+facebook: https://facebook.com/SystemSeed
+git: https://github.com/systemseed
+linkedin: https://linkedin.com/company/systemseed
 logohandle: systemseed
 sort: systemseed
 title: SystemSeed
-twitter: systemseed
-website: 'https://systemseed.com/'
+twitter: https://x.com/systemseed
+website: https://systemseed.com/
 ---

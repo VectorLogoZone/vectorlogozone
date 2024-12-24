@@ -1,8 +1,8 @@
 ---
-blog: 'https://gvisor.dev/blog/'
-github: google/gvisor
+blog: https://gvisor.dev/blog/
+git: https://github.com/google/gvisor
 logohandle: gvisordev
 sort: gvisor
 title: gVisor
-website: 'https://gvisor.dev/'
+website: https://gvisor.dev/
 ---

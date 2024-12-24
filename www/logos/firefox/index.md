@@ -10,7 +10,7 @@ tags:
 - browser
 - open_source
 title: Firefox
-twitter: firefox
+twitter: https://x.com/firefox
 website: https://www.mozilla.org/en-US/firefox/
 wikipedia: https://en.wikipedia.org/wiki/Firefox
 ---

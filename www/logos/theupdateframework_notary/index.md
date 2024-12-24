@@ -1,7 +1,7 @@
 ---
-github: theupdateframework/notary
+git: https://github.com/theupdateframework/notary
 logohandle: theupdateframework_notary
 sort: notary
 title: Notary
-website: 'https://github.com/theupdateframework/notary'
+website: https://github.com/theupdateframework/notary
 ---

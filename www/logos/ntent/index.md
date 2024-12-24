@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/withntent'
-instagram: 'https://instagram.com/withntent'
-linkedin: 'https://linkedin.com/company/ntent'
+facebook: https://facebook.com/withntent
+instagram: https://instagram.com/withntent
+linkedin: https://linkedin.com/company/ntent
 logohandle: ntent
 sort: ntent
 title: NTENT
-twitter: WithNTENT
-website: 'https://ntent.com/'
+twitter: https://x.com/WithNTENT
+website: https://ntent.com/
 ---

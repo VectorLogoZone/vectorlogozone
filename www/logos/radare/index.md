@@ -1,8 +1,8 @@
 ---
-github: radare/radare2
+git: https://github.com/radare/radare2
 logohandle: radare
 sort: radare
 title: radare
-twitter: radareorg
-website: 'https://rada.re/r/'
+twitter: https://x.com/radareorg
+website: https://rada.re/r/
 ---

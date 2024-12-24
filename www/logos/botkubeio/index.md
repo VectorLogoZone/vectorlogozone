@@ -1,8 +1,8 @@
 ---
-github: infracloudio/botkube
+git: https://github.com/infracloudio/botkube
 logohandle: botkubeio
 sort: botkube
 title: BotKube
-twitter: infracloudio
-website: 'https://www.botkube.io/'
+twitter: https://x.com/infracloudio
+website: https://www.botkube.io/
 ---

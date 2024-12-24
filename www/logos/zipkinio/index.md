@@ -1,8 +1,8 @@
 ---
-github: openzipkin/zipkin
+git: https://github.com/openzipkin/zipkin
 logohandle: zipkinio
 sort: zipkin
 title: OpenZipkin
-twitter: zipkinproject
-website: 'https://zipkin.io/'
+twitter: https://x.com/zipkinproject
+website: https://zipkin.io/
 ---

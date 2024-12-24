@@ -1,10 +1,10 @@
 ---
-blog: 'https://ntirety.com/blog'
-facebook: 'https://facebook.com/NtiretyTeam'
-linkedin: 'https://linkedin.com/company/ntirety'
+blog: https://ntirety.com/blog
+facebook: https://facebook.com/NtiretyTeam
+linkedin: https://linkedin.com/company/ntirety
 logohandle: ntirety
 sort: ntirety
 title: Ntirety
-twitter: ntirety
-website: 'https://www.ntirety.com/'
+twitter: https://x.com/ntirety
+website: https://www.ntirety.com/
 ---

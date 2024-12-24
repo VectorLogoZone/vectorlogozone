@@ -1,10 +1,10 @@
 ---
-blog: 'https://kickfin.com/blog/'
-facebook: 'https://facebook.com/kickfin'
-linkedin: 'https://linkedin.com/company/kickfin'
+blog: https://kickfin.com/blog/
+facebook: https://facebook.com/kickfin
+linkedin: https://linkedin.com/company/kickfin
 logohandle: kickfin
 sort: kickfin
 title: Kickfin
-twitter: gokickfin
-website: 'https://kickfin.com/'
+twitter: https://x.com/gokickfin
+website: https://kickfin.com/
 ---

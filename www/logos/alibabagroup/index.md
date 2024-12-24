@@ -5,7 +5,7 @@ linkedin: https://www.linkedin.com/company/3839570
 logohandle: alibabagroup
 sort: alibabagroup
 title: Alibaba Group
-twitter: AlibabaGroup
+twitter: https://x.com/AlibabaGroup
 website: https://www.alibabagroup.com/
 weibo: http://weibo.com/aligroup
 wikipedia: https://en.wikipedia.org/wiki/Alibaba_Group

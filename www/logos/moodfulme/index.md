@@ -2,6 +2,6 @@
 logohandle: moodfulme
 sort: moodful
 title: Moodful
-twitter: moodfulApp
-website: 'https://moodful.me/'
+twitter: https://x.com/moodfulApp
+website: https://moodful.me/
 ---

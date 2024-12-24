@@ -1,9 +1,9 @@
 ---
-blog: 'https://webdriver.io/blog/'
-github: webdriverio/webdriverio
+blog: https://webdriver.io/blog/
+git: https://github.com/webdriverio/webdriverio
 logohandle: webdriverio
 sort: webdriver
 title: WebdriverIO
-twitter: webdriverio
-website: 'https://webdriver.io/'
+twitter: https://x.com/webdriverio
+website: https://webdriver.io/
 ---

@@ -1,11 +1,11 @@
 ---
-blog: 'https://discuss.luxonis.com/blog'
-github: luxonis
-linkedin: 'https://linkedin.com/company/luxonis'
+blog: https://discuss.luxonis.com/blog
+git: https://github.com/luxonis
+linkedin: https://linkedin.com/company/luxonis
 logohandle: luxonis
 sort: luxonis
 title: Luxonis
-twitter: luxonis
-website: 'https://www.luxonis.com/'
-youtube: 'https://youtube.com/c/Luxonis'
+twitter: https://x.com/luxonis
+website: https://www.luxonis.com/
+youtube: https://youtube.com/c/Luxonis
 ---

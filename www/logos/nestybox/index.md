@@ -1,8 +1,8 @@
 ---
-blog: 'http://blog.nestybox.com/'
-github: nestybox
+blog: http://blog.nestybox.com/
+git: https://github.com/nestybox
 logohandle: nestybox
 sort: nestybox
 title: Nestybox
-website: 'https://www.nestybox.com/'
+website: https://www.nestybox.com/
 ---

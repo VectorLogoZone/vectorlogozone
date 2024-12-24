@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/neimanmarcus'
-instagram: 'https://instagram.com/neimanmarcus'
+facebook: https://facebook.com/neimanmarcus
+instagram: https://instagram.com/neimanmarcus
 logohandle: neimanmarcus
-pinterest: 'https://pinterest.com/neimanmarcus'
+pinterest: https://pinterest.com/neimanmarcus
 sort: neimanmarcus
 title: Neiman Marcus
-twitter: neimanmarcus
-website: 'https://www.neimanmarcus.com/'
+twitter: https://x.com/neimanmarcus
+website: https://www.neimanmarcus.com/
 ---

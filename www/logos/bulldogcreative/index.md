@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/BulldogCreativeServices'
-instagram: 'https://instagram.com/bulldogcreativeservices'
-linkedin: 'http://linkedin.com/company/bulldog-creative-services'
+facebook: https://facebook.com/BulldogCreativeServices
+instagram: https://instagram.com/bulldogcreativeservices
+linkedin: http://linkedin.com/company/bulldog-creative-services
 logohandle: bulldogcreative
 sort: bulldogcreative
 title: Bulldog Creative
-twitter: bulldogcreative
-website: 'https://www.bulldogcreative.com/'
-youtube: 'https://youtube.com/user/BulldogWorks'
+twitter: https://x.com/bulldogcreative
+website: https://www.bulldogcreative.com/
+youtube: https://youtube.com/user/BulldogWorks
 ---

@@ -2,6 +2,6 @@
 logohandle: briarproject
 sort: briarproject
 title: Briar
-twitter: BriarApp
-website: 'https://briarproject.org/'
+twitter: https://x.com/BriarApp
+website: https://briarproject.org/
 ---

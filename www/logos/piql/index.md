@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/Piql.preservation'
+facebook: https://facebook.com/Piql.preservation
 logohandle: piql
 sort: piql
 title: piql
-twitter: piqlas
-website: 'https://www.piql.com/'
+twitter: https://x.com/piqlas
+website: https://www.piql.com/
 ---

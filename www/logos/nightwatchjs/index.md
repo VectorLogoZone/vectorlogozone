@@ -1,8 +1,8 @@
 ---
-github: nightwatchjs
+git: https://github.com/nightwatchjs
 logohandle: nightwatchjs
 sort: nightwatchjs
 title: Nightwatch.js
-twitter: nightwatchjs
-website: 'https://nightwatchjs.org/'
+twitter: https://x.com/nightwatchjs
+website: https://nightwatchjs.org/
 ---

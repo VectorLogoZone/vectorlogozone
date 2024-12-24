@@ -1,8 +1,8 @@
 ---
-github: riok/kreya
+git: https://github.com/riok/kreya
 logohandle: kreyaapp
 sort: kreya
 title: Kreya
-twitter: KreyaApp
-website: 'https://kreya.app/'
+twitter: https://x.com/KreyaApp
+website: https://kreya.app/
 ---

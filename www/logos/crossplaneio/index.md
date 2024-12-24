@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.crossplane.io/'
-github: crossplane/crossplane
+blog: https://blog.crossplane.io/
+git: https://github.com/crossplane/crossplane
 logohandle: crossplaneio
 sort: crossplane
 title: Crossplane
-twitter: crossplane_io
-website: 'https://www.crossplane.io/'
-youtube: 'https://youtube.com/channel/UC19FgzMBMqBro361HbE46Fw'
+twitter: https://x.com/crossplane_io
+website: https://www.crossplane.io/
+youtube: https://youtube.com/channel/UC19FgzMBMqBro361HbE46Fw
 ---

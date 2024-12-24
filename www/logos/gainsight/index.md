@@ -1,11 +1,11 @@
 ---
-blog: 'https://gainsight.com/blog/'
-facebook: 'https://facebook.com/gainsight'
-instagram: 'https://instagram.com/gainsight'
-linkedin: 'https://linkedin.com/company/gainsight'
+blog: https://gainsight.com/blog/
+facebook: https://facebook.com/gainsight
+instagram: https://instagram.com/gainsight
+linkedin: https://linkedin.com/company/gainsight
 logohandle: gainsight
 sort: gainsight
 title: Gainsight
-twitter: gainsighthq
-website: 'https://www.gainsight.com/'
+twitter: https://x.com/gainsighthq
+website: https://www.gainsight.com/
 ---

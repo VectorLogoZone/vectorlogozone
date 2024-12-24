@@ -1,8 +1,8 @@
 ---
-blog: 'https://terser.org/blog/'
-github: terser-js
+blog: https://terser.org/blog/
+git: https://github.com/terser-js
 logohandle: terser
 sort: terser
 title: terser
-website: 'https://terser.org/'
+website: https://terser.org/
 ---

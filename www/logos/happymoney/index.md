@@ -1,9 +1,9 @@
 ---
-instagram: 'https://instagram.com/happymoney'
-linkedin: 'https://linkedin.com/company/happy-money'
+instagram: https://instagram.com/happymoney
+linkedin: https://linkedin.com/company/happy-money
 logohandle: happymoney
 sort: happymoney
 title: Happy Money
-twitter: happymoney
-website: 'https://happymoney.com/'
+twitter: https://x.com/happymoney
+website: https://happymoney.com/
 ---

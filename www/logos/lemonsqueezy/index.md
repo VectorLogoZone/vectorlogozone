@@ -1,8 +1,8 @@
 ---
-blog: 'https://lemonsqueezy.com/blog/l'
+blog: https://lemonsqueezy.com/blog/l
 logohandle: lemonsqueezy
 sort: lemonsqueezy
 title: Lemon Squeezy
-twitter: lmsqueezy
-website: 'https://www.lemonsqueezy.com/'
+twitter: https://x.com/lmsqueezy
+website: https://www.lemonsqueezy.com/
 ---

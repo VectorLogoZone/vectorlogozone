@@ -1,9 +1,9 @@
 ---
-blog: 'http://blog.memcachier.com/'
-github: memcachier
+blog: http://blog.memcachier.com/
+git: https://github.com/memcachier
 logohandle: memcachier
 sort: memcachier
 title: MemCachier
-twitter: memcachier
-website: 'https://www.memcachier.com/'
+twitter: https://x.com/memcachier
+website: https://www.memcachier.com/
 ---

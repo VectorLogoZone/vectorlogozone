@@ -3,7 +3,7 @@ blog: https://azure.microsoft.com/en-us/blog/
 colors:
 - '#035BDA'
 facebook: https://www.facebook.com/microsoftazure
-github: Azure
+git: https://github.com/Azure
 images:
 - microsoft_azure-icon.svg
 - microsoft_azure-ar21.svg
@@ -14,7 +14,7 @@ tags:
 - hosting
 - paas
 title: Microsoft Azure
-twitter: azure
+twitter: https://x.com/azure
 website: https://azure.microsoft.com/en-us/
 wikipedia: https://en.wikipedia.org/wiki/Microsoft_Azure
 ---

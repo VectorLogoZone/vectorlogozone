@@ -1,5 +1,5 @@
 ---
-github: jashkenas/backbone/
+git: https://github.com/jashkenas/backbone/
 images:
 - backbonejs-icon.svg
 - backbonejs-ar21.svg

@@ -1,8 +1,8 @@
 ---
-github: solana-labs
+git: https://github.com/solana-labs
 logohandle: solana
 sort: solana
 title: Solana
-website: 'https://solana.com/'
-youtube: 'https://youtube.com/solanalabs'
+website: https://solana.com/
+youtube: https://youtube.com/solanalabs
 ---

@@ -1,9 +1,9 @@
 ---
-github: vlang/v
+git: https://github.com/vlang/v
 logohandle: vlangio
 sort: vlang
 title: V
-twitter: v_language
-website: 'https://vlang.io/'
-youtube: 'https://youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A'
+twitter: https://x.com/v_language
+website: https://vlang.io/
+youtube: https://youtube.com/channel/UCLZIElNyubHOvbfudT7KS1A
 ---

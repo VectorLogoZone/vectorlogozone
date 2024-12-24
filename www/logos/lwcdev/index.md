@@ -1,8 +1,8 @@
 ---
-github: salesforce/lwc
+git: https://github.com/salesforce/lwc
 logohandle: lwcdev
 sort: lwc
 title: Lightning Web Components
-twitter: SalesforceEng
-website: 'https://lwc.dev/'
+twitter: https://x.com/SalesforceEng
+website: https://lwc.dev/
 ---

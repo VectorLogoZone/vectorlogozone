@@ -1,8 +1,8 @@
 ---
-github: aerobatic
+git: https://github.com/aerobatic
 logohandle: aerobatic
 sort: aerobatic
 title: Aerobatic
-twitter: aerobaticapp
-website: 'https://www.aerobatic.com/'
+twitter: https://x.com/aerobaticapp
+website: https://www.aerobatic.com/
 ---

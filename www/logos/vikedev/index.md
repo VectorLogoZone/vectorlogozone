@@ -1,7 +1,7 @@
 ---
-github: vikejs/vike
+git: https://github.com/vikejs/vike
 logohandle: vikedev
 sort: vike
 title: Vike
-website: 'https://vike.dev/'
+website: https://vike.dev/
 ---

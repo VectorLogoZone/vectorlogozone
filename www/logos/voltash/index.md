@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.volta.sh/'
-github: volta-cli/volta
+blog: https://blog.volta.sh/
+git: https://github.com/volta-cli/volta
 logohandle: voltash
 sort: volta
 title: Volta
-twitter: usevolta
-website: 'https://volta.sh/'
+twitter: https://x.com/usevolta
+website: https://volta.sh/
 ---

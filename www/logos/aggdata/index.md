@@ -4,7 +4,7 @@ colors:
 - '#008FFF'
 - '#8ED800'
 facebook: http://www.facebook.com/pages/AggDatacom/99221817174
-github: aggdata
+git: https://github.com/aggdata
 images:
 - aggdata-icon.svg
 - aggdata-ar21.svg
@@ -13,6 +13,6 @@ sort: aggdata
 tags:
 - data
 title: AggData
-twitter: aggdata
+twitter: https://x.com/aggdata
 website: https://www.aggdata.com/
 ---

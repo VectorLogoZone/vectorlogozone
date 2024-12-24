@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.auctus.org/'
-facebook: 'https://facebook.com/auctusproject'
-github: AuctusProject
+blog: https://blog.auctus.org/
+facebook: https://facebook.com/auctusproject
+git: https://github.com/AuctusProject
 logohandle: auctus
 sort: auctus
 title: Auctus
-twitter: AuctusProject
-website: 'https://auctus.org/'
+twitter: https://x.com/AuctusProject
+website: https://auctus.org/
 ---

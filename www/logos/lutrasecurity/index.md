@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/lutrasecurity%3E%3Csvg'
+linkedin: https://linkedin.com/company/lutrasecurity%3E%3Csvg
 logohandle: lutrasecurity
 sort: lutrasecurity
 title: Lutra Security
-twitter: lutrasecurity
-website: 'https://lutrasecurity.com/en/'
+twitter: https://x.com/lutrasecurity
+website: https://lutrasecurity.com/en/
 ---

@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/ShopItalic'
-instagram: 'https://instagram.com/italic'
+facebook: https://facebook.com/ShopItalic
+instagram: https://instagram.com/italic
 logohandle: italic
 sort: italic
 title: Italic
-twitter: italic
-website: 'https://italic.com/'
+twitter: https://x.com/italic
+website: https://italic.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: SerenityOS/serenity
+git: https://github.com/SerenityOS/serenity
 logohandle: serenityos
 sort: serenityos
 title: SerenityOS
-website: 'https://serenityos.org/'
+website: https://serenityos.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: pshihn/rough
+git: https://github.com/pshihn/rough
 logohandle: roughjs
 sort: roughjs
 title: Rough.js
-twitter: RoughLib
-website: 'https://roughjs.com/'
+twitter: https://x.com/RoughLib
+website: https://roughjs.com/
 ---

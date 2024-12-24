@@ -2,6 +2,6 @@
 logohandle: freshmantech
 sort: freshmantech
 title: Freshman Tech
-twitter: freshmandottech
-website: 'https://freshman.tech/'
+twitter: https://x.com/freshmandottech
+website: https://freshman.tech/
 ---

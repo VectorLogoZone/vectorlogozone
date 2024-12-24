@@ -1,11 +1,11 @@
 ---
-blog: 'http://runeaudio.com/blog'
-facebook: 'https://facebook.com/runeaudio'
-github: RuneAudio
-googleplus: 'https://plus.google.com/+Runeaudio'
+blog: http://runeaudio.com/blog
+facebook: https://facebook.com/runeaudio
+git: https://github.com/RuneAudio
+googleplus: https://plus.google.com/+Runeaudio
 logohandle: runeaudio
 sort: runeaudio
 title: RuneAudio
-twitter: runeaudio
-website: 'http://www.runeaudio.com/'
+twitter: https://x.com/runeaudio
+website: http://www.runeaudio.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: Podcastindex-org
+git: https://github.com/Podcastindex-org
 logohandle: podcastindex
 sort: podcastindex
 title: Podcastindex
-twitter: PodcastindexOrg
-website: 'https://podcastindex.org/'
+twitter: https://x.com/PodcastindexOrg
+website: https://podcastindex.org/
 ---

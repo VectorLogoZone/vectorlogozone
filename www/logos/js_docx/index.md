@@ -1,7 +1,7 @@
 ---
-github: dolanmiu/docx
+git: https://github.com/dolanmiu/docx
 logohandle: js_docx
 sort: docx
 title: docx
-website: 'https://docx.js.org/#/'
+website: https://docx.js.org/#/
 ---

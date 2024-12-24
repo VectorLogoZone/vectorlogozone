@@ -2,6 +2,6 @@
 logohandle: blogsurfio
 sort: blogsurf
 title: BlogSurf
-twitter: dkb868
-website: 'https://blogsurf.io/'
+twitter: https://x.com/dkb868
+website: https://blogsurf.io/
 ---

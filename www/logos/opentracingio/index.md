@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/opentracing'
-github: opentracing
+blog: https://medium.com/opentracing
+git: https://github.com/opentracing
 logohandle: opentracingio
 sort: opentracing
 title: The OpenTracing project
-twitter: opentracing
-website: 'https://opentracing.io/'
+twitter: https://x.com/opentracing
+website: https://opentracing.io/
 ---

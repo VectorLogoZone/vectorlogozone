@@ -1,10 +1,10 @@
 ---
-blog: 'https://banzaicloud.com/blog'
-github: banzaicloud
-linkedin: 'https://linkedin.com/company/27129691'
+blog: https://banzaicloud.com/blog
+git: https://github.com/banzaicloud
+linkedin: https://linkedin.com/company/27129691
 logohandle: banzaicloud
 sort: banzaicloud
 title: Banzai Cloud
-twitter: banzaicloud
-website: 'https://banzaicloud.com/'
+twitter: https://x.com/banzaicloud
+website: https://banzaicloud.com/
 ---

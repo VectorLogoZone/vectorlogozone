@@ -2,6 +2,6 @@
 logohandle: updownio
 sort: updownio
 title: updown.io
-twitter: updownio
-website: 'https://updown.io/'
+twitter: https://x.com/updownio
+website: https://updown.io/
 ---

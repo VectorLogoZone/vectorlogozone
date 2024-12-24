@@ -2,6 +2,6 @@
 logohandle: stackdiary
 sort: stackdiary
 title: Stack Diary
-twitter: stackdiary
-website: 'https://stackdiary.com/'
+twitter: https://x.com/stackdiary
+website: https://stackdiary.com/
 ---

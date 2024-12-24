@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/webhooksio'
-github: Webhooksio
-googleplus: 'https://plus.google.com/+Webhooksio'
+facebook: https://facebook.com/webhooksio
+git: https://github.com/Webhooksio
+googleplus: https://plus.google.com/+Webhooksio
 logohandle: webhooksio
 sort: webhooks
 title: webhooks.io
-twitter: webhooksio
-website: 'https://www.webhooks.io/'
+twitter: https://x.com/webhooksio
+website: https://www.webhooks.io/
 ---

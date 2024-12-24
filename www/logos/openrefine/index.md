@@ -1,8 +1,8 @@
 ---
-github: OpenRefine/OpenRefine
+git: https://github.com/OpenRefine/OpenRefine
 logohandle: openrefine
 sort: openrefine
 title: OpenRefine
-twitter: openrefine
-website: 'https://openrefine.org/'
+twitter: https://x.com/openrefine
+website: https://openrefine.org/
 ---

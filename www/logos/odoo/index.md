@@ -1,8 +1,8 @@
 ---
-blog: 'https://odoo.com/blog/'
-github: odoo/odoo
+blog: https://odoo.com/blog/
+git: https://github.com/odoo/odoo
 logohandle: odoo
 sort: odoo
 title: Odoo
-website: 'https://www.odoo.com/'
+website: https://www.odoo.com/
 ---

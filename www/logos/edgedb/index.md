@@ -1,9 +1,9 @@
 ---
-github: edgedb
+git: https://github.com/edgedb
 logohandle: edgedb
 sort: edgedb
 title: EdgeDB
-twitter: edgedatabase
-website: 'https://www.edgedb.com/'
-youtube: 'https://youtube.com/c/EdgeDB'
+twitter: https://x.com/edgedatabase
+website: https://www.edgedb.com/
+youtube: https://youtube.com/c/EdgeDB
 ---

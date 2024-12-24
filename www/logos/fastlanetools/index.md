@@ -2,6 +2,6 @@
 logohandle: fastlanetools
 sort: fastlane
 title: fastlane
-twitter: FastlaneTools
-website: 'https://fastlane.tools/'
+twitter: https://x.com/FastlaneTools
+website: https://fastlane.tools/
 ---

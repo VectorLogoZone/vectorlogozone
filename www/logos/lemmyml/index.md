@@ -1,7 +1,7 @@
 ---
-github: LemmyNet
+git: https://github.com/LemmyNet
 logohandle: lemmyml
 sort: lemmyml
 title: Lemmy.ml
-website: 'https://lemmy.ml/'
+website: https://lemmy.ml/
 ---

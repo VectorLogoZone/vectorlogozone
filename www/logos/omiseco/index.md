@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/Omise'
-github: omise
+facebook: https://facebook.com/Omise
+git: https://github.com/omise
 logohandle: omiseco
 sort: omise
 title: Omise
-twitter: Omise
-website: 'https://www.omise.co/'
-youtube: 'https://youtube.com/channel/UCno4-I9LMeMc1FZGU8q6-Lw'
+twitter: https://x.com/Omise
+website: https://www.omise.co/
+youtube: https://youtube.com/channel/UCno4-I9LMeMc1FZGU8q6-Lw
 ---

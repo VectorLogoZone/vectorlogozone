@@ -1,8 +1,9 @@
 ---
 blog: https://blog.pinterest.com/en
-colors: ['#BD081C']
+colors:
+- '#BD081C'
 facebook: https://www.facebook.com/pinterest/
-github: pinterest
+git: https://github.com/pinterest
 guide: https://business.pinterest.com/en-gb/brand-guidelines
 images:
 - pinterest-icon.svg
@@ -14,7 +15,7 @@ tags:
 - simpleshare
 - photo_sharing
 title: Pinterest
-twitter: Pinterest
+twitter: https://x.com/Pinterest
 website: https://www.pinterest.com/
 wikipedia: https://en.wikipedia.org/wiki/Pinterest
 ---

@@ -1,12 +1,12 @@
 ---
 facebook: https://www.facebook.com/goldmansachs
-googleplus: 'https://plus.google.com/+GoldmanSachs'
-linkedin: 'https://linkedin.com/company/goldman-sachs'
+googleplus: https://plus.google.com/+GoldmanSachs
+linkedin: https://linkedin.com/company/goldman-sachs
 logohandle: goldmansachs
 sort: goldmansachs
 title: Goldman Sachs
-twitter: goldmansachs
-website: 'http://www.goldmansachs.com/'
+twitter: https://x.com/goldmansachs
+website: http://www.goldmansachs.com/
 wikipedia: https://en.wikipedia.org/wiki/Goldman_Sachs
-youtube: 'https://youtube.com/GoldmanSachs'
+youtube: https://youtube.com/GoldmanSachs
 ---

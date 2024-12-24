@@ -1,9 +1,9 @@
 ---
-github: flox/flox
-linkedin: 'https://linkedin.com/company/floxdev'
+git: https://github.com/flox/flox
+linkedin: https://linkedin.com/company/floxdev
 logohandle: floxdev
 sort: flox
 title: Flox
-twitter: floxdevelopment
-website: 'https://flox.dev/'
+twitter: https://x.com/floxdevelopment
+website: https://flox.dev/
 ---

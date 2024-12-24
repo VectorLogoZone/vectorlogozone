@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/fbflipper/public/mac'
-github: facebook/flipper
+facebook: https://facebook.com/fbflipper/public/mac
+git: https://github.com/facebook/flipper
 logohandle: fbflipper
 sort: flipper
 title: Flipper
-twitter: flipper_fb
-website: 'https://fbflipper.com/'
+twitter: https://x.com/flipper_fb
+website: https://fbflipper.com/
 ---

@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.metabrainz.org/'
+blog: https://blog.metabrainz.org/
 logohandle: musicbrainz
 sort: musicbrainz
 title: MusicBrainz
-twitter: MusicBrainz
-website: 'https://musicbrainz.org/'
+twitter: https://x.com/MusicBrainz
+website: https://musicbrainz.org/
 ---

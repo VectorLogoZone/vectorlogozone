@@ -1,14 +1,13 @@
 ---
-blog: 'https://saltstack.com/blog'
-facebook: 'https://facebook.com/SaltStack'
-github: saltstack
-googleplus: 'https://plus.google.com/u/0/+SaltStackInc'
-linkedin: 'https://linkedin.com/company/salt-stack-inc'
+blog: https://saltstack.com/blog
+facebook: https://facebook.com/SaltStack
+git: https://github.com/saltstack
+googleplus: https://plus.google.com/u/0/+SaltStackInc
+linkedin: https://linkedin.com/company/salt-stack-inc
 logohandle: saltstack
 sort: saltstack
 title: SaltStack
-twitter: SaltStack
-website: 'https://saltstack.com/'
-youtube: 'https://youtube.com/user/SaltStack'
+twitter: https://x.com/SaltStack
+website: https://saltstack.com/
+youtube: https://youtube.com/user/SaltStack
 ---
-

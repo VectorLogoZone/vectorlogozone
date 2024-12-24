@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.fission.io/'
-github: fission/fission
+blog: https://blog.fission.io/
+git: https://github.com/fission/fission
 logohandle: fissionio
 sort: fission
 title: Fission
-twitter: fissionio
-website: 'https://fission.io/'
+twitter: https://x.com/fissionio
+website: https://fission.io/
 ---

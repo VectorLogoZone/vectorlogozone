@@ -1,8 +1,8 @@
 ---
-github: facebook/hermes
+git: https://github.com/facebook/hermes
 logohandle: hermesenginedev
 sort: hermesengine
 title: Hermes Engine
-twitter: HermesEngine
-website: 'https://hermesengine.dev/'
+twitter: https://x.com/HermesEngine
+website: https://hermesengine.dev/
 ---

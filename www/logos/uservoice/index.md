@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/uservoice'
+linkedin: https://linkedin.com/company/uservoice
 logohandle: uservoice
 sort: uservoice
 title: UserVoice
-twitter: uservoice
-website: 'https://www.uservoice.com/'
+twitter: https://x.com/uservoice
+website: https://www.uservoice.com/
 ---

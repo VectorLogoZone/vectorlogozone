@@ -1,7 +1,7 @@
 ---
-github: kopia/kopia
+git: https://github.com/kopia/kopia
 logohandle: kopiaio
 sort: kopia
 title: Kopia
-website: 'https://kopia.io/'
+website: https://kopia.io/
 ---

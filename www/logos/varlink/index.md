@@ -1,7 +1,7 @@
 ---
-github: varlink/libvarlink
+git: https://github.com/varlink/libvarlink
 logohandle: varlink
 sort: varlink
 title: VARLINK
-website: 'https://varlink.org/'
+website: https://varlink.org/
 ---

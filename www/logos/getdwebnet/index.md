@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/decentralized-web'
-github: dweb-camp-2019
+blog: https://medium.com/decentralized-web
+git: https://github.com/dweb-camp-2019
 logohandle: getdwebnet
 sort: dweb
 title: Dweb
-twitter: GETDWeb
-website: 'https://getdweb.net/'
+twitter: https://x.com/GETDWeb
+website: https://getdweb.net/
 ---

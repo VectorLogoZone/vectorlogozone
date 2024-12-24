@@ -1,7 +1,7 @@
 ---
 colors:
 - '#FB0000'
-github: gilbarbara/logos
+git: https://github.com/gilbarbara/logos
 images:
 - svgporn-official.svg
 - svgporn-icon.svg

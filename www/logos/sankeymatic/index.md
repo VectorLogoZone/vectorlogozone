@@ -1,7 +1,7 @@
 ---
-github: nowthis/sankeymatic
+git: https://github.com/nowthis/sankeymatic
 logohandle: sankeymatic
 sort: sankeymatic
 title: SankeyMATIC
-website: 'https://sankeymatic.com/'
+website: https://sankeymatic.com/
 ---

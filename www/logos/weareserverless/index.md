@@ -1,10 +1,11 @@
 ---
-blog: 'https://medium.com/we-are-serverless'
-github: weareserverless
-keywords: [ "was" ]
+blog: https://medium.com/we-are-serverless
+git: https://github.com/weareserverless
+keywords:
+- was
 logohandle: weareserverless
 sort: weareserverless
 title: We Are Serverless
-twitter: weareserverless
-website: 'https://www.weareserverless.com/'
+twitter: https://x.com/weareserverless
+website: https://www.weareserverless.com/
 ---

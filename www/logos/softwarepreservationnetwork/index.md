@@ -2,6 +2,6 @@
 logohandle: softwarepreservationnetwork
 sort: softwarepreservationnetwork
 title: Software Preservation Network
-twitter: softpresnetwork
-website: 'https://www.softwarepreservationnetwork.org/'
+twitter: https://x.com/softpresnetwork
+website: https://www.softwarepreservationnetwork.org/
 ---

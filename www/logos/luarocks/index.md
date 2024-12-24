@@ -1,8 +1,8 @@
 ---
-github: leafo/luarocks-site
+git: https://github.com/leafo/luarocks-site
 logohandle: luarocks
 sort: luarocks
 title: LuaRocks
-twitter: luarocksorg
-website: 'https://luarocks.org/'
+twitter: https://x.com/luarocksorg
+website: https://luarocks.org/
 ---

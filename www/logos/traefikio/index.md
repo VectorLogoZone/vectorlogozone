@@ -1,8 +1,8 @@
 ---
-github: containous/traefik
+git: https://github.com/containous/traefik
 logohandle: traefikio
 sort: traefik
 title: Traefik
-twitter: traefik
-website: 'https://traefik.io/'
+twitter: https://x.com/traefik
+website: https://traefik.io/
 ---

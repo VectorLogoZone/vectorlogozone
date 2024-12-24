@@ -1,6 +1,6 @@
 ---
 blog: https://jekyllrb.com/news/
-github: jekyll
+git: https://github.com/jekyll
 guide: https://github.com/jekyll/brand
 images:
 - jekyllrb-icon.svg
@@ -10,7 +10,7 @@ sort: jekyll
 tags:
 - static_website
 title: Jekyll
-twitter: jekyllrb
+twitter: https://x.com/jekyllrb
 website: https://jekyllrb.com/
 wikipedia: https://en.wikipedia.org/wiki/Jekyll_(software)
 ---

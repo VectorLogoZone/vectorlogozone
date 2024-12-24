@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/simplemobiletools'
-github: SimpleMobileTools
+facebook: https://facebook.com/simplemobiletools
+git: https://github.com/SimpleMobileTools
 logohandle: simplemobiletools
 sort: simplemobiletools
 title: Simple Mobile Tools
-website: 'https://www.simplemobiletools.com/'
+website: https://www.simplemobiletools.com/
 ---

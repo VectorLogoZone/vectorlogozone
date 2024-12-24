@@ -1,7 +1,7 @@
 ---
-github: appium/appium
+git: https://github.com/appium/appium
 logohandle: appiumio
 sort: appium
 title: Appium
-website: 'https://appium.io/'
+website: https://appium.io/
 ---

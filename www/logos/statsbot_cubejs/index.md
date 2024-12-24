@@ -1,8 +1,8 @@
 ---
-github: statsbotco/cubejs-client
+git: https://github.com/statsbotco/cubejs-client
 logohandle: statsbot_cubejs
 sort: cubejs
 title: Cube.js
-twitter: thecubejs
-website: 'https://statsbot.co/cubejs/'
+twitter: https://x.com/thecubejs
+website: https://statsbot.co/cubejs/
 ---

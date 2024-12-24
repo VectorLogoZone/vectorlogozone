@@ -1,9 +1,9 @@
 ---
-github: apache/plc4x
+git: https://github.com/apache/plc4x
 logohandle: apache_plc4x
 sort: plc4x
 tags:
 - apache
 title: PLC4X
-website: 'https://plc4x.apache.org/'
+website: https://plc4x.apache.org/
 ---

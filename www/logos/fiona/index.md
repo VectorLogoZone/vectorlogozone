@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/hifionafinance'
+facebook: https://facebook.com/hifionafinance
 logohandle: fiona
 sort: fiona
 title: Fiona
-twitter: hifionafinance
-website: 'https://fiona.com/'
+twitter: https://x.com/hifionafinance
+website: https://fiona.com/
 ---

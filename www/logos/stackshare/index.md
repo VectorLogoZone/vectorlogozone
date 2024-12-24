@@ -5,6 +5,6 @@ linkedin: https://www.linkedin.com/company/stackshare
 logohandle: stackshare
 sort: stackshare
 title: StackShare
-twitter: stackshareio
+twitter: https://x.com/stackshareio
 website: https://stackshare.io/
 ---

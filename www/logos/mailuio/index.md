@@ -1,7 +1,7 @@
 ---
-github: mailu/mailu
+git: https://github.com/mailu/mailu
 logohandle: mailuio
 sort: mailu
 title: Mailu
-website: 'https://mailu.io/'
+website: https://mailu.io/
 ---

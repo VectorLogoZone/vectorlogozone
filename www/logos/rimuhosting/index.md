@@ -1,8 +1,8 @@
 ---
-blog: 'http://blog.rimuhosting.com/'
+blog: http://blog.rimuhosting.com/
 logohandle: rimuhosting
 sort: rimuhosting
 title: RimuHosting
-twitter: rimuhosting
-website: 'https://rimuhosting.com/'
+twitter: https://x.com/rimuhosting
+website: https://rimuhosting.com/
 ---

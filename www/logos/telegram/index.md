@@ -9,7 +9,7 @@ tags:
 - messaging
 - simpleshare
 title: Telegram
-twitter: telegram
+twitter: https://x.com/telegram
 website: https://telegram.org/
 wikipedia: https://en.wikipedia.org/wiki/Telegram_(messaging_service)
 ---

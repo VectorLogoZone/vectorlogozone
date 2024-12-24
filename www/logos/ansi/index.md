@@ -12,7 +12,7 @@ sort: ansi
 tags:
 - standards_body
 title: ANSI
-twitter: ansidotorg
+twitter: https://x.com/ansidotorg
 website: https://www.ansi.org/
 wikipedia: https://en.wikipedia.org/wiki/American_National_Standards_Institute
 ---

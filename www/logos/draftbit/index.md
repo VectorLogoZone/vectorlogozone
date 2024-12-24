@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.draftbit.com/'
-facebook: 'https://facebook.com/pages/category/Internet-Company/Draftbit-285179798962070'
-github: draftbit
+blog: https://blog.draftbit.com/
+facebook: https://facebook.com/pages/category/Internet-Company/Draftbit-285179798962070
+git: https://github.com/draftbit
 logohandle: draftbit
 sort: draftbit
 title: Draftbit
-twitter: draftbit
-website: 'https://draftbit.com/'
+twitter: https://x.com/draftbit
+website: https://draftbit.com/
 ---

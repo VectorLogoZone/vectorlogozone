@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/SpaceworxUSA'
-linkedin: 'https://linkedin.com/company/spaceworx-usa'
+facebook: https://facebook.com/SpaceworxUSA
+linkedin: https://linkedin.com/company/spaceworx-usa
 logohandle: spaceworxus
 sort: spaceworx
 title: Spaceworx
-twitter: SpaceworxUSA
-website: 'http://spaceworx.us/'
+twitter: https://x.com/SpaceworxUSA
+website: http://spaceworx.us/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'http://blog.flowdock.com/'
-facebook: 'http://facebook.com/flowdock'
+blog: http://blog.flowdock.com/
+facebook: http://facebook.com/flowdock
 logohandle: flowdock
 sort: flowdock
 title: Flowdock
-twitter: flowdock
-website: 'https://www.flowdock.com/'
+twitter: https://x.com/flowdock
+website: https://www.flowdock.com/
 ---

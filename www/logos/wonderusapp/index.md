@@ -1,9 +1,9 @@
 ---
-blog: 'https://wonderus.app/blog'
-facebook: 'https://facebook.com/bewonderus'
+blog: https://wonderus.app/blog
+facebook: https://facebook.com/bewonderus
 logohandle: wonderusapp
 sort: wonderus
 title: Wonderus
-twitter: bewonderus
-website: 'https://wonderus.app/'
+twitter: https://x.com/bewonderus
+website: https://wonderus.app/
 ---

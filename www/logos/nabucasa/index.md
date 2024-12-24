@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/NabuCasa'
-github: nabucasa
+facebook: https://facebook.com/NabuCasa
+git: https://github.com/nabucasa
 logohandle: nabucasa
 sort: nabucasa
 title: Nabu Casa
-twitter: nabucasa
-website: 'https://www.nabucasa.com/'
+twitter: https://x.com/nabucasa
+website: https://www.nabucasa.com/
 ---

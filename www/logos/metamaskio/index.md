@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/metamask'
-github: MetaMask/metamask-extension
+blog: https://medium.com/metamask
+git: https://github.com/MetaMask/metamask-extension
 logohandle: metamaskio
 sort: metamask
 title: MetaMask
-twitter: metamask_io
-website: 'https://metamask.io/'
+twitter: https://x.com/metamask_io
+website: https://metamask.io/
 ---

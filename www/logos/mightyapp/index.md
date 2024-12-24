@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/mightyapp'
+linkedin: https://linkedin.com/company/mightyapp
 logohandle: mightyapp
 sort: mightyapp
 title: Mighty
-twitter: mightyapp
-website: 'https://www.mightyapp.com/'
+twitter: https://x.com/mightyapp
+website: https://www.mightyapp.com/
 ---

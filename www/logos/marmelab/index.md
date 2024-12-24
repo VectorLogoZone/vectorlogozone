@@ -1,9 +1,9 @@
 ---
-github: marmelab
-linkedin: 'https://linkedin.com/company/marmelab'
+git: https://github.com/marmelab
+linkedin: https://linkedin.com/company/marmelab
 logohandle: marmelab
 sort: marmelab
 title: marmelab
-twitter: marmelab
-website: 'https://marmelab.com/en/'
+twitter: https://x.com/marmelab
+website: https://marmelab.com/en/
 ---

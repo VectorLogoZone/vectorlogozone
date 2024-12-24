@@ -1,8 +1,8 @@
 ---
-github: Kong/kuma
+git: https://github.com/Kong/kuma
 logohandle: kumaio
 sort: kuma
 title: Kuma
-twitter: KumaMesh
-website: 'https://kuma.io/'
+twitter: https://x.com/KumaMesh
+website: https://kuma.io/
 ---

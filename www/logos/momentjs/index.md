@@ -1,5 +1,5 @@
 ---
-github: moment
+git: https://github.com/moment
 logohandle: momentjs
 sort: momentjs
 tags:

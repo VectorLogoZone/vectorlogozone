@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/microacquire'
-linkedin: 'https://linkedin.com/company/microacquire/about'
+facebook: https://facebook.com/microacquire
+linkedin: https://linkedin.com/company/microacquire/about
 logohandle: microacquire
 sort: microacquire
 title: MicroAcquire
-twitter: microacquire
-website: 'https://microacquire.com/'
+twitter: https://x.com/microacquire
+website: https://microacquire.com/
 ---

@@ -1,13 +1,13 @@
 ---
 blog: http://www.scala-lang.org/blog/
-github: scala
+git: https://github.com/scala
 images:
 - scala-lang-ar21.svg
 - scala-lang-icon.svg
 logohandle: scala-lang
 sort: scala
 title: Scala
-twitter: scala_lang
+twitter: https://x.com/scala_lang
 website: http://www.scala-lang.org/
 wikipedia: https://en.wikipedia.org/wiki/Scala_(programming_language)
 ---

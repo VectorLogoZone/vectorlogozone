@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/RebootTheInternet'
-linkedin: 'https://linkedin.com/company/join-the-reboot'
+facebook: https://facebook.com/RebootTheInternet
+linkedin: https://linkedin.com/company/join-the-reboot
 logohandle: thereboot
 sort: reboot
 title: The Reboot
-twitter: ProjectReboot
-website: 'https://thereboot.com/'
+twitter: https://x.com/ProjectReboot
+website: https://thereboot.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: dwyl
+git: https://github.com/dwyl
 logohandle: dwyl
 sort: dwyl
 title: dwyl
-twitter: dwyl
-website: 'https://dwyl.com/'
+twitter: https://x.com/dwyl
+website: https://dwyl.com/
 ---

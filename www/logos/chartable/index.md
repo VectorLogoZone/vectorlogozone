@@ -1,8 +1,8 @@
 ---
-blog: 'https://chartable.com/blog/'
+blog: https://chartable.com/blog/
 logohandle: chartable
 sort: chartable
 title: Chartable
-twitter: ChartableDotCom
-website: 'https://chartable.com/'
+twitter: https://x.com/ChartableDotCom
+website: https://chartable.com/
 ---

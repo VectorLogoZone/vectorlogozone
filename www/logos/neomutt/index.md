@@ -1,8 +1,8 @@
 ---
-github: neomutt/neomutt
+git: https://github.com/neomutt/neomutt
 logohandle: neomutt
 sort: neomutt
 title: NeoMutt
-twitter: NeoMutt_Org
-website: 'https://neomutt.org/'
+twitter: https://x.com/NeoMutt_Org
+website: https://neomutt.org/
 ---

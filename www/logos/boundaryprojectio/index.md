@@ -1,7 +1,7 @@
 ---
-github: hashicorp/boundary
+git: https://github.com/hashicorp/boundary
 logohandle: boundaryprojectio
 sort: boundaryproject
 title: Boundary
-website: 'https://www.boundaryproject.io/'
+website: https://www.boundaryproject.io/
 ---

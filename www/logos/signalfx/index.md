@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/SignalFxInc'
-github: signalfx
-linkedin: 'https://linkedin.com/company/signalfx'
+facebook: https://facebook.com/SignalFxInc
+git: https://github.com/signalfx
+linkedin: https://linkedin.com/company/signalfx
 logohandle: signalfx
 sort: signalfx
 title: SignalFx
-twitter: signalfx
-website: 'https://www.signalfx.com/'
+twitter: https://x.com/signalfx
+website: https://www.signalfx.com/
 ---

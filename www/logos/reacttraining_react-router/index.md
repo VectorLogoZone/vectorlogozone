@@ -1,7 +1,7 @@
 ---
-github: ReactTraining/react-router
+git: https://github.com/ReactTraining/react-router
 logohandle: reacttraining_react-router
 sort: react-router
 title: React Router
-website: 'https://reacttraining.com/react-router/'
+website: https://reacttraining.com/react-router/
 ---

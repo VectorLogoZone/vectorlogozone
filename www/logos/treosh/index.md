@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/@treo'
-github: treosh
+blog: https://medium.com/@treo
+git: https://github.com/treosh
 logohandle: treosh
 sort: treo
 title: Treo
-twitter: __treo
-website: 'https://treo.sh/'
+twitter: https://x.com/__treo
+website: https://treo.sh/
 ---

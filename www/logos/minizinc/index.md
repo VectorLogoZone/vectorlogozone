@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/minizinclanguage'
-github: MiniZinc
+facebook: https://facebook.com/minizinclanguage
+git: https://github.com/MiniZinc
 logohandle: minizinc
 sort: minizinc
 title: MiniZinc
-twitter: MiniZinc
-website: 'https://www.minizinc.org/'
+twitter: https://x.com/MiniZinc
+website: https://www.minizinc.org/
 ---

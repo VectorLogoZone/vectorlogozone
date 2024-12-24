@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.yax.com/'
-instagram: 'https://instagram.com/yaxdotcom'
+blog: https://blog.yax.com/
+instagram: https://instagram.com/yaxdotcom
 logohandle: yax
 sort: yax
 title: Yax.com
-twitter: yaxdotcom
-website: 'https://yax.com/'
+twitter: https://x.com/yaxdotcom
+website: https://yax.com/
 ---

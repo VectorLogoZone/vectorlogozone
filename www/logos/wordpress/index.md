@@ -4,7 +4,7 @@ facebook: https://www.facebook.com/WordPress/
 font:
   myfonts: https://www.myfonts.com/fonts/emigre/mrs-eaves-xl-ot/
   name: Mrs Eaves XL Serif Bold
-github: WordPress
+git: https://github.com/WordPress
 guide: https://wordpress.org/about/logos/
 images:
 - wordpress-ar21.svg
@@ -17,7 +17,7 @@ tags:
 - cms
 - simpleshare
 title: WordPress
-twitter: WordPress
+twitter: https://x.com/WordPress
 website: https://www.wordpress.com/
 wikipedia: https://en.wikipedia.org/wiki/WordPress
 ---

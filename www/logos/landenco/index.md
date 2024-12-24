@@ -2,6 +2,6 @@
 logohandle: landenco
 sort: landen
 title: Landen
-twitter: landenapp
-website: 'https://www.landen.co/'
+twitter: https://x.com/landenapp
+website: https://www.landen.co/
 ---

@@ -1,8 +1,8 @@
 ---
-github: pmndrs/jotai
+git: https://github.com/pmndrs/jotai
 logohandle: jotai
 sort: jotai
 title: Jotai
-twitter: jotaijs
-website: 'https://jotai.org/'
+twitter: https://x.com/jotaijs
+website: https://jotai.org/
 ---

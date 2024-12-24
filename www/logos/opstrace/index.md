@@ -1,7 +1,7 @@
 ---
-github: opstrace/opstrace
+git: https://github.com/opstrace/opstrace
 logohandle: opstrace
 sort: opstrace
 title: Opstrace
-website: 'https://opstrace.com/'
+website: https://opstrace.com/
 ---

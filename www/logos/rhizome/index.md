@@ -1,11 +1,11 @@
 ---
 blog: https://rhizome.org/editorial/
 facebook: https://www.facebook.com/Rhizomedotorg/
-github: rhizomedotorg
+git: https://github.com/rhizomedotorg
 logohandle: rhizome
 sort: rhizome
 title: Rhizome
-twitter: rhizome
+twitter: https://x.com/rhizome
 website: https://rhizome.org/
 wikipedia: https://en.wikipedia.org/wiki/Rhizome_(organization)
 ---

@@ -3,7 +3,7 @@ blog: https://blog.angel.co/
 colors:
 - '#000000'
 facebook: https://www.facebook.com/angellist/
-github: AngelList
+git: https://github.com/AngelList
 images:
 - angel-ar21.svg
 - angel-icon.svg
@@ -11,7 +11,7 @@ linkedin: https://www.linkedin.com/company/angellist
 logohandle: angel
 sort: angellist
 title: AngelList
-twitter: angellist
+twitter: https://x.com/angellist
 website: https://angel.co/
 wikipedia: https://en.wikipedia.org/wiki/AngelList
 ---

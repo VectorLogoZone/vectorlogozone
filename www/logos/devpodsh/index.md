@@ -1,8 +1,8 @@
 ---
-github: loft-sh/devpod
+git: https://github.com/loft-sh/devpod
 logohandle: devpodsh
 sort: devpod
 title: DevPod
-twitter: devpod_sh
-website: 'https://devpod.sh/'
+twitter: https://x.com/devpod_sh
+website: https://devpod.sh/
 ---

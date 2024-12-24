@@ -2,6 +2,6 @@
 logohandle: queuegg
 sort: queue
 title: Queue.gg
-twitter: queuegg
-website: 'https://queue.gg/'
+twitter: https://x.com/queuegg
+website: https://queue.gg/
 ---

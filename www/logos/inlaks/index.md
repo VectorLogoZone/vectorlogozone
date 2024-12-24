@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/Inlakslimited'
-linkedin: 'https://linkedin.com/company/inlaks-computers-limited'
+facebook: https://facebook.com/Inlakslimited
+linkedin: https://linkedin.com/company/inlaks-computers-limited
 logohandle: inlaks
 sort: inlaks
 title: Inlaks
-twitter: inlaks
-website: 'https://www.inlaks.com/'
+twitter: https://x.com/inlaks
+website: https://www.inlaks.com/
 ---

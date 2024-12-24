@@ -1,9 +1,9 @@
 ---
-github: uideck/play-bootstrap
-linkedin: 'https://linkedin.com/showcase/cophone'
+git: https://github.com/uideck/play-bootstrap
+linkedin: https://linkedin.com/showcase/cophone
 logohandle: cophoneio
 sort: cophone
 title: Cophone
-twitter: cophone
-website: 'https://cophone.io/'
+twitter: https://x.com/cophone
+website: https://cophone.io/
 ---

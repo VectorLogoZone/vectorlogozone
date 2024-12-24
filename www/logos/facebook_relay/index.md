@@ -1,5 +1,5 @@
 ---
-github: facebook/relay
+git: https://github.com/facebook/relay
 images:
 - facebook_relay-icon.svg
 logohandle: facebook_relay

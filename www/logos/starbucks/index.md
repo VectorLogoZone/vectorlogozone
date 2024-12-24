@@ -8,7 +8,7 @@ images:
 logohandle: starbucks
 sort: starbucks
 title: Starbucks
-twitter: starbucks
+twitter: https://x.com/starbucks
 website: https://www.starbucks.com/
 wikipedia: https://en.wikipedia.org/wiki/Starbucks
 ---

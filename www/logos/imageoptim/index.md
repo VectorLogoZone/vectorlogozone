@@ -1,7 +1,7 @@
 ---
-github: ImageOptim
+git: https://github.com/ImageOptim
 logohandle: imageoptim
 sort: imageoptim
 title: ImageOptim
-website: 'https://imageoptim.com/'
+website: https://imageoptim.com/
 ---

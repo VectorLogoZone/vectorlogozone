@@ -1,8 +1,8 @@
 ---
-github: webhintio
+git: https://github.com/webhintio
 logohandle: webhintio
 sort: webhint
 title: webhint
-twitter: narwhalnellie
-website: 'https://webhint.io/'
+twitter: https://x.com/narwhalnellie
+website: https://webhint.io/
 ---

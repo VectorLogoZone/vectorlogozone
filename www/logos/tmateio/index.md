@@ -1,7 +1,7 @@
 ---
-github: tmate-io/tmate
+git: https://github.com/tmate-io/tmate
 logohandle: tmateio
 sort: tmate
 title: tmate
-website: 'https://tmate.io/'
+website: https://tmate.io/
 ---

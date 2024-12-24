@@ -1,7 +1,7 @@
 ---
-github: frctl/fractal
+git: https://github.com/frctl/fractal
 logohandle: fractalbuild
 sort: fractal
 title: Fractal
-website: 'https://fractal.build/'
+website: https://fractal.build/
 ---

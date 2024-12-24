@@ -10,7 +10,7 @@ tags:
 - simpleshare
 - social_network
 title: Google+
-twitter: GooglePlus
+twitter: https://x.com/GooglePlus
 website: https://plus.google.com/
 wikipedia: https://en.wikipedia.org/wiki/Google%2B
 ---

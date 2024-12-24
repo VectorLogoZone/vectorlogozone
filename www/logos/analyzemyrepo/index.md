@@ -1,8 +1,8 @@
 ---
-github: CrowdDotDev/analyzemyrepo
+git: https://github.com/CrowdDotDev/analyzemyrepo
 logohandle: analyzemyrepo
 sort: analyzemyrepo
 title: Analyze My Repo
-twitter: CrowdDotDev
-website: 'https://analyzemyrepo.com/'
+twitter: https://x.com/CrowdDotDev
+website: https://analyzemyrepo.com/
 ---

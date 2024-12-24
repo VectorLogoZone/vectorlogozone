@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/covve'
+facebook: https://facebook.com/covve
 logohandle: covve
 sort: covve
 title: Covve
-twitter: covve
-website: 'https://covve.com/'
-youtube: 'https://youtube.com/covve'
+twitter: https://x.com/covve
+website: https://covve.com/
+youtube: https://youtube.com/covve
 ---

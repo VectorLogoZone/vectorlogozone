@@ -11,7 +11,7 @@ tags:
 - graphics
 - svg
 title: Adobe Illustrator
-twitter: Illustrator
+twitter: https://x.com/Illustrator
 website: https://www.adobe.com/products/illustrator.html
 wikipedia: https://en.wikipedia.org/wiki/Adobe_Illustrator
 ---

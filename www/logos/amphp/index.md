@@ -1,9 +1,10 @@
 ---
-github: amphp
-keywords: [ "Asynchronous Multitasking PHP" ]
+git: https://github.com/amphp
+keywords:
+- Asynchronous Multitasking PHP
 logohandle: amphp
 sort: amphp
 title: AMPHP
-twitter: asyncphp
-website: 'https://amphp.org/'
+twitter: https://x.com/asyncphp
+website: https://amphp.org/
 ---

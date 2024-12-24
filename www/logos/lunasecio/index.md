@@ -1,8 +1,8 @@
 ---
-github: lunasec-io/lunasec
+git: https://github.com/lunasec-io/lunasec
 logohandle: lunasecio
 sort: lunasec
 title: LunaSec
-twitter: LunaSecIO
-website: 'https://www.lunasec.io/'
+twitter: https://x.com/LunaSecIO
+website: https://www.lunasec.io/
 ---

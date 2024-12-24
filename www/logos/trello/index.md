@@ -1,7 +1,7 @@
 ---
 blog: https://blog.trello.com/
 facebook: http://www.facebook.com/trelloapp
-github: trello
+git: https://github.com/trello
 guide: https://design.trello.com/
 images:
 - trello-icon.svg
@@ -11,7 +11,7 @@ images:
 logohandle: trello
 sort: trello
 title: Trello
-twitter: trello
+twitter: https://x.com/trello
 website: https://trello.com/
 wikipedia: https://en.wikipedia.org/wiki/Trello
 ---

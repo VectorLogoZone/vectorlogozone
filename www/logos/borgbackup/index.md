@@ -1,7 +1,7 @@
 ---
-github: borgbackup/borg
+git: https://github.com/borgbackup/borg
 logohandle: borgbackup
 sort: borgbackup
 title: BorgBackup
-website: 'https://www.borgbackup.org/'
+website: https://www.borgbackup.org/
 ---

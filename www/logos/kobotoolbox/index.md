@@ -1,8 +1,8 @@
 ---
-github: kobotoolbox
+git: https://github.com/kobotoolbox
 logohandle: kobotoolbox
 sort: kobotoolbox
 title: KoBoToolbox
-twitter: kobotoolbox
-website: 'https://www.kobotoolbox.org/'
+twitter: https://x.com/kobotoolbox
+website: https://www.kobotoolbox.org/
 ---

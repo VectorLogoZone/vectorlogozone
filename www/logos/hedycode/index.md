@@ -1,7 +1,7 @@
 ---
-github: Felienne/hedy
+git: https://github.com/Felienne/hedy
 logohandle: hedycode
 sort: hedy
 title: Hedy
-website: 'https://www.hedycode.com/'
+website: https://www.hedycode.com/
 ---

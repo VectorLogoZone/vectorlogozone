@@ -1,7 +1,7 @@
 ---
 blog: https://www.khanacademy.org/about/blog
 facebook: http://www.facebook.com/khanacademy
-github: khan
+git: https://github.com/khan
 guide: https://khanacademy.zendesk.com/hc/en-us/articles/202263034-What-is-Khan-Academy-s-Trademark-and-Brand-Usage-Policy-
 images:
 - khanacademy-official.svg
@@ -14,7 +14,7 @@ pinterest: https://www.pinterest.com/KhanAcademy/
 sort: khanacademy
 title: Khan Academy
 tumblr: http://life.khanacademy.org/
-twitter: khanacademy
+twitter: https://x.com/khanacademy
 website: https://www.khanacademy.org/
 wikipedia: https://en.wikipedia.org/wiki/Khan_Academy
 youtube: https://www.youtube.com/khanacademy

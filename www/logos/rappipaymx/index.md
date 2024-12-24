@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/RappiColombia'
-instagram: 'https://instagram.com/rappimx'
+facebook: https://facebook.com/RappiColombia
+instagram: https://instagram.com/rappimx
 logohandle: rappipaymx
 sort: rappipay
 title: RappiPay
-twitter: rappimexico
-website: 'https://rappipay.mx/'
+twitter: https://x.com/rappimexico
+website: https://rappipay.mx/
 ---

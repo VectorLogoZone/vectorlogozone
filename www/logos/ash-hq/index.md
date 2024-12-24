@@ -1,8 +1,8 @@
 ---
-github: ash-project
+git: https://github.com/ash-project
 logohandle: ash-hq
 sort: ash
 title: Ash
-twitter: AshFramework
-website: 'https://ash-hq.org/'
+twitter: https://x.com/AshFramework
+website: https://ash-hq.org/
 ---

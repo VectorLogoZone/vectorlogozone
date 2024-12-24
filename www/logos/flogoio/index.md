@@ -1,7 +1,7 @@
 ---
-github: tibcosoftware/flogo
+git: https://github.com/tibcosoftware/flogo
 logohandle: flogoio
 sort: flogo
 title: Project Flogo
-website: 'http://www.flogo.io/'
+website: http://www.flogo.io/
 ---

@@ -1,8 +1,8 @@
 ---
-github: replicate/rtv
+git: https://github.com/replicate/rtv
 logohandle: replicate
 sort: replicate
 title: Replicate
-twitter: replicatehq
-website: 'https://replicate.com/'
+twitter: https://x.com/replicatehq
+website: https://replicate.com/
 ---

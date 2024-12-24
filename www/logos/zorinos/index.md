@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.zorin.com/'
-facebook: 'https://facebook.com/ZorinOS'
+blog: https://blog.zorin.com/
+facebook: https://facebook.com/ZorinOS
 logohandle: zorinos
 sort: zorinos
 title: Zorin OS
-twitter: ZorinOS
-website: 'https://zorinos.com/'
+twitter: https://x.com/ZorinOS
+website: https://zorinos.com/
 ---

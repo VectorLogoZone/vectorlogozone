@@ -1,7 +1,7 @@
 ---
-github: joyent/containerpilot
+git: https://github.com/joyent/containerpilot
 logohandle: joyent_containerpilot
 sort: containerpilot
 title: ContainerPilot
-website: 'https://www.joyent.com/containerpilot'
+website: https://www.joyent.com/containerpilot
 ---

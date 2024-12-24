@@ -2,6 +2,6 @@
 logohandle: promlabs
 sort: promlabs
 title: PromLabs
-twitter: promlabs
-website: 'https://promlabs.com/'
+twitter: https://x.com/promlabs
+website: https://promlabs.com/
 ---

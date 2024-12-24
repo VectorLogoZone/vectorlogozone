@@ -1,8 +1,8 @@
 ---
-github: novnc/noVNC
+git: https://github.com/novnc/noVNC
 logohandle: novnc
 sort: novnc
 title: noVNC
-twitter: noVNC
-website: 'https://novnc.com/info.html'
+twitter: https://x.com/noVNC
+website: https://novnc.com/info.html
 ---

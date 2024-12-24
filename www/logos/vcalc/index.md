@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/vCalc'
-linkedin: 'https://linkedin.com/company/vcalc'
+facebook: https://facebook.com/vCalc
+linkedin: https://linkedin.com/company/vcalc
 logohandle: vcalc
-pinterest: 'http://pinterest.com/vCalc'
+pinterest: http://pinterest.com/vCalc
 sort: vcalc
 title: vCalc
-twitter: vcalcllc
-website: 'https://www.vcalc.com/'
+twitter: https://x.com/vcalcllc
+website: https://www.vcalc.com/
 ---

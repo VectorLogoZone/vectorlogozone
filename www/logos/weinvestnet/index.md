@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/weinvest.net'
+facebook: https://facebook.com/weinvest.net
 logohandle: weinvestnet
 sort: weinvest
 title: WeInvest
-twitter: WeInvestNet
-website: 'https://www.weinvest.net/'
+twitter: https://x.com/WeInvestNet
+website: https://www.weinvest.net/
 ---

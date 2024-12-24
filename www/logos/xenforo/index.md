@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/XenForo'
+facebook: https://facebook.com/XenForo
 logohandle: xenforo
 sort: xenforo
 title: XenForo
-twitter: xenforo
-website: 'https://xenforo.com/'
+twitter: https://x.com/xenforo
+website: https://xenforo.com/
 ---

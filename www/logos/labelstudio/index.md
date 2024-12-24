@@ -1,8 +1,8 @@
 ---
-github: heartexlabs/label-studio
+git: https://github.com/heartexlabs/label-studio
 logohandle: labelstudio
 sort: labelstudio
 title: Label Studio
-twitter: heartexlabs
-website: 'https://labelstud.io/'
+twitter: https://x.com/heartexlabs
+website: https://labelstud.io/
 ---

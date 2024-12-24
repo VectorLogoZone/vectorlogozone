@@ -1,8 +1,8 @@
 ---
-blog: 'https://mabl.com/blog'
+blog: https://mabl.com/blog
 logohandle: mabl
 sort: mabl
 title: mabl
-twitter: mablhq
-website: 'https://www.mabl.com/'
+twitter: https://x.com/mablhq
+website: https://www.mabl.com/
 ---

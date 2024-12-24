@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.technitium.com/'
+blog: https://blog.technitium.com/
 logohandle: technitium
 sort: technitium
 title: Technitium
-twitter: Technitium
-website: 'https://technitium.com/'
+twitter: https://x.com/Technitium
+website: https://technitium.com/
 ---

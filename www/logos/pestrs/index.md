@@ -1,7 +1,7 @@
 ---
-github: pest-parser/pest
+git: https://github.com/pest-parser/pest
 logohandle: pestrs
 sort: pest
 title: pest
-website: 'https://pest.rs/'
+website: https://pest.rs/
 ---

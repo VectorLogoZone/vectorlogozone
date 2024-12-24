@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.uncensoreddns.org/'
+blog: https://blog.uncensoreddns.org/
 logohandle: uncensoreddns
 sort: uncensoreddns
 title: UncensoredDNS
-twitter: censurfridns
-website: 'https://blog.uncensoreddns.org/'
+twitter: https://x.com/censurfridns
+website: https://blog.uncensoreddns.org/
 ---

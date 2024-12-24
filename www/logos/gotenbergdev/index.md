@@ -1,8 +1,8 @@
 ---
-github: gotenberg/gotenberg
+git: https://github.com/gotenberg/gotenberg
 logohandle: gotenbergdev
 sort: gotenberg
 title: Gotenberg
-twitter: gulnap
-website: 'https://gotenberg.dev/'
+twitter: https://x.com/gulnap
+website: https://gotenberg.dev/
 ---

@@ -1,8 +1,8 @@
 ---
-github: uploadcare
+git: https://github.com/uploadcare
 logohandle: uploadcare
 sort: uploadcare
 title: UploadCare
-twitter: uploadcare
-website: 'https://uploadcare.com/'
+twitter: https://x.com/uploadcare
+website: https://uploadcare.com/
 ---

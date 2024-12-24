@@ -1,10 +1,10 @@
 ---
-github: apache/incubator-fury
+git: https://github.com/apache/incubator-fury
 logohandle: apache_fury
 sort: fury
 tags:
 - apache
 title: Apache Fury
-twitter: ApacheFury
-website: 'https://fury.apache.org/'
+twitter: https://x.com/ApacheFury
+website: https://fury.apache.org/
 ---

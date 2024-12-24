@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/fleepio'
+facebook: https://facebook.com/fleepio
 logohandle: fleepio
 sort: fleep
 title: Fleep
-twitter: fleepio
-website: 'https://fleep.io/'
+twitter: https://x.com/fleepio
+website: https://fleep.io/
 ---

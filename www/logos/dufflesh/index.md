@@ -1,7 +1,7 @@
 ---
-github: cnabio/duffle
+git: https://github.com/cnabio/duffle
 logohandle: dufflesh
 sort: duffle
 title: Duffle
-website: 'https://duffle.sh/'
+website: https://duffle.sh/
 ---

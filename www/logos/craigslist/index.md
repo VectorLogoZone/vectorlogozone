@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/company/craigslist
 logohandle: craigslist
 sort: craigslist
 title: craigslist
-twitter: craigslist
+twitter: https://x.com/craigslist
 website: https://www.craigslist.org/
 wikipedia: https://en.wikipedia.org/wiki/Craigslist
 ---

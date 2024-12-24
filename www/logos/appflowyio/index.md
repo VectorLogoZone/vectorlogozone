@@ -1,8 +1,8 @@
 ---
-github: AppFlowy-IO/appflowy
+git: https://github.com/AppFlowy-IO/appflowy
 logohandle: appflowyio
 sort: appflowy
 title: AppFlowy
-twitter: appflowy
-website: 'https://www.appflowy.io/'
+twitter: https://x.com/appflowy
+website: https://www.appflowy.io/
 ---

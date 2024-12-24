@@ -1,8 +1,8 @@
 ---
-blog: 'https://userlist.com/blog'
+blog: https://userlist.com/blog
 logohandle: userlist
 sort: userlist
 title: Userlist
-twitter: userlist
-website: 'https://userlist.com/'
+twitter: https://x.com/userlist
+website: https://userlist.com/
 ---

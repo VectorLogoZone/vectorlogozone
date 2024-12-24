@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.jetstack.io/'
-github: jetstack
-linkedin: 'https://linkedin.com/company/jetstack'
+blog: https://blog.jetstack.io/
+git: https://github.com/jetstack
+linkedin: https://linkedin.com/company/jetstack
 logohandle: jetstackio
 sort: jetstack
 title: Jetstack
-twitter: jetstackhq
-website: 'https://www.jetstack.io/'
+twitter: https://x.com/jetstackhq
+website: https://www.jetstack.io/
 ---

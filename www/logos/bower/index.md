@@ -1,9 +1,8 @@
 ---
-github: bower/bower
+git: https://github.com/bower/bower
 logohandle: bower
 sort: bower
 title: Bower
-twitter: bower
-website: 'https://bower.io/'
+twitter: https://x.com/bower
+website: https://bower.io/
 ---
-

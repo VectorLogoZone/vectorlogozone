@@ -1,9 +1,9 @@
 ---
-facebook: 'https://www.facebook.com/apigee'
-linkedin: 'https://linkedin.com/company/apigee'
+facebook: https://www.facebook.com/apigee
+linkedin: https://linkedin.com/company/apigee
 logohandle: apigee
 sort: apigee
 title: Apigee
-twitter: apigee
-website: 'https://apigee.com/'
+twitter: https://x.com/apigee
+website: https://apigee.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: owncast
+git: https://github.com/owncast
 logohandle: owncastonline
 sort: owncast
 title: Owncast
-website: 'https://owncast.online/'
+website: https://owncast.online/
 ---

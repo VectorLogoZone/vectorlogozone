@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.datalust.co/'
-github: datalust/seqcli
+blog: https://blog.datalust.co/
+git: https://github.com/datalust/seqcli
 logohandle: datalustco_seq
 sort: seq
 title: Seq
-twitter: datalust_seq
-website: 'https://datalust.co/seq'
+twitter: https://x.com/datalust_seq
+website: https://datalust.co/seq
 ---

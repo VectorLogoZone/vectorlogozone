@@ -1,8 +1,8 @@
 ---
-github: vmware-tanzu/antrea
+git: https://github.com/vmware-tanzu/antrea
 logohandle: antreaio
 sort: antrea
 title: Antrea
-twitter: projectantrea
-website: 'https://antrea.io/'
+twitter: https://x.com/projectantrea
+website: https://antrea.io/
 ---

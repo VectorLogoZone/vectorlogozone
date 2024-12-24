@@ -1,8 +1,8 @@
 ---
-blog: 'https://mapzen.com/blog'
+blog: https://mapzen.com/blog
 logohandle: mapzen
 sort: mapzen
 title: MapZen
-twitter: mapzen
-website: 'https://mapzen.com/'
+twitter: https://x.com/mapzen
+website: https://mapzen.com/
 ---

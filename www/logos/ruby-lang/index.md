@@ -4,7 +4,7 @@ font:
   microsoft: https://www.microsoft.com/typography/fonts/font.aspx?FMID=1932
   myfonts: http://www.myfonts.com/fonts/ascender/georgia/regular/
   name: Georgia
-github: ruby
+git: https://github.com/ruby
 guide: https://www.ruby-lang.org/en/about/logo/
 images:
 - ruby-lang-ar21.svg

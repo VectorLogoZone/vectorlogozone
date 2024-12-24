@@ -1,8 +1,8 @@
 ---
-github: hostman-examples
+git: https://github.com/hostman-examples
 logohandle: hostman
 sort: hostman
 title: Hostman
-twitter: hostman_com
-website: 'https://hostman.com/'
+twitter: https://x.com/hostman_com
+website: https://hostman.com/
 ---

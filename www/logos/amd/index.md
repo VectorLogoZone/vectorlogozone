@@ -1,13 +1,12 @@
 ---
-facebook: 'http://facebook.com/amd'
-googleplus: 'https://plus.google.com/+AMD'
-linkedin: 'https://linkedin.com/company/amd'
+facebook: http://facebook.com/amd
+googleplus: https://plus.google.com/+AMD
+linkedin: https://linkedin.com/company/amd
 logohandle: amd
-pinterest: 'https://pinterest.com/amd'
+pinterest: https://pinterest.com/amd
 sort: amd
 title: AMD
-twitter: amd
-website: 'https://www.amd.com/en'
+twitter: https://x.com/amd
+website: https://www.amd.com/en
 wikipedia: https://en.wikipedia.org/wiki/Advanced_Micro_Devices
 ---
-

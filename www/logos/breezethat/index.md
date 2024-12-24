@@ -2,6 +2,6 @@
 logohandle: breezethat
 sort: breeze
 title: Breeze
-twitter: HeyBreezeThat
-website: 'https://breezethat.com/'
+twitter: https://x.com/HeyBreezeThat
+website: https://breezethat.com/
 ---

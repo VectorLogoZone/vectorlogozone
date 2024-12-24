@@ -1,7 +1,7 @@
 ---
-github: jankammerath/gophie
+git: https://github.com/jankammerath/gophie
 logohandle: gophie
 sort: gophie
 title: Gophie
-website: 'https://gophie.org/'
+website: https://gophie.org/
 ---

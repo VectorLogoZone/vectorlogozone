@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/commonsstack'
-github: commons-stack
+blog: https://medium.com/commonsstack
+git: https://github.com/commons-stack
 logohandle: commonsstack
 sort: commonsstack
 title: Commons Stack
-twitter: commonsstack
-website: 'https://commonsstack.org/'
+twitter: https://x.com/commonsstack
+website: https://commonsstack.org/
 ---

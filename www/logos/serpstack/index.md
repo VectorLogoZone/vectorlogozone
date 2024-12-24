@@ -1,7 +1,7 @@
 ---
-github: apilayer/serpstack
+git: https://github.com/apilayer/serpstack
 logohandle: serpstack
 sort: serpstack
 title: serpstack
-website: 'https://serpstack.com/'
+website: https://serpstack.com/
 ---

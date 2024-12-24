@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/OpenSearchProject'
-github: opensearch-project
-linkedin: 'https://linkedin.com/company/opensearch-project'
+facebook: https://facebook.com/OpenSearchProject
+git: https://github.com/opensearch-project
+linkedin: https://linkedin.com/company/opensearch-project
 logohandle: opensearch
 sort: opensearch
 title: OpenSearch
-twitter: OpenSearchProj
-website: 'https://opensearch.org/'
+twitter: https://x.com/OpenSearchProj
+website: https://opensearch.org/
 ---

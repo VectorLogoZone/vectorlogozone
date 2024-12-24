@@ -1,9 +1,9 @@
 ---
-blog: 'https://dbos.dev/blog/'
-github: dbos-inc
-linkedin: 'https://linkedin.com/company/dbos-inc'
+blog: https://dbos.dev/blog/
+git: https://github.com/dbos-inc
+linkedin: https://linkedin.com/company/dbos-inc
 logohandle: dbosdev
 sort: dbos
 title: DBOS
-website: 'https://www.dbos.dev/'
+website: https://www.dbos.dev/
 ---

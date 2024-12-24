@@ -1,8 +1,8 @@
 ---
-github: renode/renode
+git: https://github.com/renode/renode
 logohandle: renodeio
 sort: renode
 title: Renode
-twitter: renodeio
-website: 'https://renode.io/'
+twitter: https://x.com/renodeio
+website: https://renode.io/
 ---

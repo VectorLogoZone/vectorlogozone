@@ -1,8 +1,8 @@
 ---
-github: ratpack/ratpack
+git: https://github.com/ratpack/ratpack
 logohandle: ratpackio
 sort: ratpack
 title: Ratpack
-twitter: ratpackweb
-website: 'https://ratpack.io/'
+twitter: https://x.com/ratpackweb
+website: https://ratpack.io/
 ---

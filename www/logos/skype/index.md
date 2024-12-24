@@ -16,7 +16,7 @@ tags:
 - voip
 - messaging
 title: Skype
-twitter: Skype
+twitter: https://x.com/Skype
 website: https://www.skype.com/en/
 wikipedia: https://en.wikipedia.org/wiki/Skype
 ---

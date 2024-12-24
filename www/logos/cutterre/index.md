@@ -1,8 +1,8 @@
 ---
-github: radareorg/cutter
+git: https://github.com/radareorg/cutter
 logohandle: cutterre
 sort: cutter
 title: Cutter
-twitter: r2gui
-website: 'https://cutter.re/'
+twitter: https://x.com/r2gui
+website: https://cutter.re/
 ---

@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/Factorio'
+facebook: https://facebook.com/Factorio
 logohandle: factorio
 sort: factorio
 title: Factorio
-twitter: factoriogame
-website: 'https://factorio.com/'
+twitter: https://x.com/factoriogame
+website: https://factorio.com/
 ---

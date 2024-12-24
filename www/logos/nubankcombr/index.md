@@ -1,12 +1,12 @@
 ---
-blog: 'https://blog.nubank.com.br/'
-facebook: 'https://facebook.com/nubank'
-instagram: 'https://instagram.com/nubank'
-linkedin: 'https://linkedin.com/company/nubank'
+blog: https://blog.nubank.com.br/
+facebook: https://facebook.com/nubank
+instagram: https://instagram.com/nubank
+linkedin: https://linkedin.com/company/nubank
 logohandle: nubankcombr
 sort: nubank
 title: Nubank
-twitter: nubank
-website: 'https://nubank.com.br/en/'
-youtube: 'https://youtube.com/nubank'
+twitter: https://x.com/nubank
+website: https://nubank.com.br/en/
+youtube: https://youtube.com/nubank
 ---

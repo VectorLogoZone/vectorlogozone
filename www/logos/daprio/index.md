@@ -1,8 +1,8 @@
 ---
-github: dapr
+git: https://github.com/dapr
 logohandle: daprio
 sort: dapr
 title: Dapr
-twitter: DaprDev
-website: 'https://dapr.io/'
+twitter: https://x.com/DaprDev
+website: https://dapr.io/
 ---

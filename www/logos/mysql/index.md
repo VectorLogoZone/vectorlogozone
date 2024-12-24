@@ -1,6 +1,6 @@
 ---
 facebook: http://www.facebook.com/mysql
-github: mysql
+git: https://github.com/mysql
 guide: https://www.mysql.com/about/legal/logos.html
 images:
 - mysql-ar21.svg
@@ -12,7 +12,7 @@ sort: mysql
 tags:
 - database
 title: MySQL
-twitter: mysql
+twitter: https://x.com/mysql
 website: https://www.mysql.com/
 wikipedia: https://en.wikipedia.org/wiki/MySQL
 ---

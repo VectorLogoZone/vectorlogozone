@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.cronhub.io/'
-github: cronhub
+blog: https://blog.cronhub.io/
+git: https://github.com/cronhub
 logohandle: cronhubio
 sort: cronhub
 title: Cronhub
-twitter: cronhubio
-website: 'https://cronhub.io/'
+twitter: https://x.com/cronhubio
+website: https://cronhub.io/
 ---

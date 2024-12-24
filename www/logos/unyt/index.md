@@ -1,7 +1,7 @@
 ---
-github: unyt-org
+git: https://github.com/unyt-org
 logohandle: unyt
 sort: unyt
 title: unyt
-website: 'https://unyt.org/'
+website: https://unyt.org/
 ---

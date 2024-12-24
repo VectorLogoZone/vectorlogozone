@@ -1,8 +1,8 @@
 ---
-github: fedora-silverblue
+git: https://github.com/fedora-silverblue
 logohandle: fedoraproject_silverblue
 sort: silverblue
 title: Silverblue
-twitter: teamsilverblue
-website: 'https://silverblue.fedoraproject.org/'
+twitter: https://x.com/teamsilverblue
+website: https://silverblue.fedoraproject.org/
 ---

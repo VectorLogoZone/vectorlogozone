@@ -1,8 +1,8 @@
 ---
-github: quarkusio/quarkus
+git: https://github.com/quarkusio/quarkus
 logohandle: quarkusio
 sort: quarkus
 title: Quarkus
-twitter: quarkusio
-website: 'https://quarkus.io/'
+twitter: https://x.com/quarkusio
+website: https://quarkus.io/
 ---

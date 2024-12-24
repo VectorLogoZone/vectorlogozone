@@ -1,9 +1,9 @@
 ---
-blog: 'http://blog.getambassador.io/'
-github: datawire/ambassador
+blog: http://blog.getambassador.io/
+git: https://github.com/datawire/ambassador
 logohandle: ambassadorio
 sort: ambassador
 title: Ambassador
-twitter: getambassadorio
-website: 'https://www.getambassador.io/'
+twitter: https://x.com/getambassadorio
+website: https://www.getambassador.io/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/carbondesign'
-github: carbon-design-system/carbon
+blog: https://medium.com/carbondesign
+git: https://github.com/carbon-design-system/carbon
 logohandle: carbondesignsystem
 sort: carbondesignsystem
 title: Carbon Design
-twitter: _carbondesign
-website: 'https://carbondesignsystem.com/'
+twitter: https://x.com/_carbondesign
+website: https://carbondesignsystem.com/
 ---

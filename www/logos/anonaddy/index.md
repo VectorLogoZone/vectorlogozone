@@ -1,8 +1,8 @@
 ---
-github: anonaddy/anonaddy
+git: https://github.com/anonaddy/anonaddy
 logohandle: anonaddy
 sort: anonaddy
 title: AnonAddy
-twitter: anonaddy
-website: 'https://anonaddy.com/'
+twitter: https://x.com/anonaddy
+website: https://anonaddy.com/
 ---

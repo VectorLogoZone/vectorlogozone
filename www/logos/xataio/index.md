@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/xataio'
+linkedin: https://linkedin.com/company/xataio
 logohandle: xataio
 sort: xata
 title: Xata
-twitter: xatabase
-website: 'https://www.xata.io/'
+twitter: https://x.com/xatabase
+website: https://www.xata.io/
 ---

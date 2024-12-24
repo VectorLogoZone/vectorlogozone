@@ -1,9 +1,9 @@
 ---
-github: metafizzy
-instagram: 'https://instagram.com/metafizzy'
+git: https://github.com/metafizzy
+instagram: https://instagram.com/metafizzy
 logohandle: metafizzyco
 sort: metafizzy
 title: Metafizzy
-twitter: metafizzyco
-website: 'https://metafizzy.co/'
+twitter: https://x.com/metafizzyco
+website: https://metafizzy.co/
 ---

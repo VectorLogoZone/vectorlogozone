@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/kubeflow'
-github: kubeflow
+blog: https://medium.com/kubeflow
+git: https://github.com/kubeflow
 logohandle: kubeflow
 sort: kubeflow
 title: Kubeflow
-twitter: kubeflow
-website: 'https://www.kubeflow.org/'
+twitter: https://x.com/kubeflow
+website: https://www.kubeflow.org/
 ---

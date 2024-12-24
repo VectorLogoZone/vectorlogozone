@@ -1,8 +1,8 @@
 ---
-github: galaxykate/tracery
+git: https://github.com/galaxykate/tracery
 logohandle: traceryio
 sort: tracery
 title: Tracery
-twitter: GalaxyKate
-website: 'https://tracery.io/'
+twitter: https://x.com/GalaxyKate
+website: https://tracery.io/
 ---

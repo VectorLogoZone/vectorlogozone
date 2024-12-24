@@ -1,7 +1,7 @@
 ---
-github: OnionBrowser/OnionBrowser
+git: https://github.com/OnionBrowser/OnionBrowser
 logohandle: onionbrowser
 sort: onionbrowser
 title: Onion Browser
-website: 'https://onionbrowser.com/'
+website: https://onionbrowser.com/
 ---

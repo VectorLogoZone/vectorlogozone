@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/sitespeed.io'
-github: sitespeedio
+facebook: https://facebook.com/sitespeed.io
+git: https://github.com/sitespeedio
 logohandle: sitespeedio
 sort: sitespeed
 title: sitespeed.io
-twitter: SiteSpeedio
-website: 'https://www.sitespeed.io/'
+twitter: https://x.com/SiteSpeedio
+website: https://www.sitespeed.io/
 ---

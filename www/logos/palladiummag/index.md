@@ -2,6 +2,6 @@
 logohandle: palladiummag
 sort: palladiummag
 title: Palladium Magazine
-twitter: palladiummag
-website: 'https://palladiummag.com/'
+twitter: https://x.com/palladiummag
+website: https://palladiummag.com/
 ---

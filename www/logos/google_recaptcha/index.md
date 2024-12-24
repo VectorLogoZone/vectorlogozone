@@ -4,7 +4,7 @@ colors:
 - '#4285F4'
 - '#ABABAB'
 - '#A6A6A6'
-github: google/recaptcha
+git: https://github.com/google/recaptcha
 images:
 - google_recaptcha-official.svg
 - google_recaptcha-icon.svg

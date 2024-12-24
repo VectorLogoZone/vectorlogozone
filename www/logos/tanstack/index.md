@@ -1,8 +1,8 @@
 ---
-github: tanstack
+git: https://github.com/tanstack
 logohandle: tanstack
 sort: tanstack
 title: TanStack
-twitter: tan_stack
-website: 'https://tanstack.com/'
+twitter: https://x.com/tan_stack
+website: https://tanstack.com/
 ---

@@ -1,5 +1,5 @@
 ---
-github: mitchellh/vagrant
+git: https://github.com/mitchellh/vagrant
 images:
 - vagrantup-official.svg
 - vagrantup-ar21.svg

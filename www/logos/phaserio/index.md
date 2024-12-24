@@ -1,8 +1,8 @@
 ---
-github: photonstorm/phaser
+git: https://github.com/photonstorm/phaser
 logohandle: phaserio
 sort: phaser
 title: Phaser
-twitter: phaser_
-website: 'http://phaser.io/'
+twitter: https://x.com/phaser_
+website: http://phaser.io/
 ---

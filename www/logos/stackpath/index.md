@@ -5,6 +5,6 @@ linkedin: https://www.linkedin.com/company/stackpath
 logohandle: stackpath
 sort: stackpath
 title: StackPath
-twitter: StackPath
+twitter: https://x.com/StackPath
 website: https://www.stackpath.com/
 ---

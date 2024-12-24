@@ -1,7 +1,7 @@
 ---
-github: yegor256/cactoos
+git: https://github.com/yegor256/cactoos
 logohandle: cactoos
 sort: cactoos
 title: cactoos
-website: 'https://www.cactoos.org/'
+website: https://www.cactoos.org/
 ---

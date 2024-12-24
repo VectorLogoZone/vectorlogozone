@@ -1,8 +1,8 @@
 ---
-github: easybase
+git: https://github.com/easybase
 logohandle: easybaseio
 sort: easybase
 title: Easybase
-twitter: easybase_io
-website: 'https://easybase.io/'
+twitter: https://x.com/easybase_io
+website: https://easybase.io/
 ---

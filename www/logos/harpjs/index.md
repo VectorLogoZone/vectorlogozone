@@ -1,8 +1,8 @@
 ---
-github: sintaxi/harp
+git: https://github.com/sintaxi/harp
 logohandle: harpjs
 sort: harpjs
 title: Harp
-twitter: HarpWebServer
-website: 'https://harpjs.com/'
+twitter: https://x.com/HarpWebServer
+website: https://harpjs.com/
 ---

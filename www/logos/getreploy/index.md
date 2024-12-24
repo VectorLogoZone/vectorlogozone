@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/getreploy'
+facebook: https://facebook.com/getreploy
 logohandle: getreploy
 sort: reploy
 title: Reploy
-twitter: getreploy
-website: 'https://getreploy.com/'
+twitter: https://x.com/getreploy
+website: https://getreploy.com/
 ---

@@ -2,6 +2,6 @@
 logohandle: cleanbrowsing
 sort: cleanbrowsing
 title: CleanBrowsing
-twitter: cleanbrowsing
+twitter: https://x.com/cleanbrowsing
 website: https://cleanbrowsing.org/
 ---

@@ -1,7 +1,7 @@
 ---
-github: czhu12/canine
+git: https://github.com/czhu12/canine
 logohandle: caninesh
 sort: canine
 title: Canine
-website: 'https://canine.sh/'
+website: https://canine.sh/
 ---

@@ -1,10 +1,10 @@
 ---
-blog: 'https://github.com/parse-community/blog'
-facebook: 'https://facebook.com/parseit'
-github: parse-community
+blog: https://github.com/parse-community/blog
+facebook: https://facebook.com/parseit
+git: https://github.com/parse-community
 logohandle: parseplatform
 sort: parseplatform
 title: Parse Platform
-twitter: parseplatform
-website: 'https://parseplatform.org/'
+twitter: https://x.com/parseplatform
+website: https://parseplatform.org/
 ---

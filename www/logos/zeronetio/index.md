@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/HelloZeroNet'
-github: HelloZeroNet/ZeroNet
+facebook: https://facebook.com/HelloZeroNet
+git: https://github.com/HelloZeroNet/ZeroNet
 logohandle: zeronetio
 sort: zeronet
 title: ZeroNet
-twitter: HelloZeroNet
-website: 'https://zeronet.io/'
-wikipedia: 'https://en.wikipedia.org/wiki/ZeroNet'
+twitter: https://x.com/HelloZeroNet
+website: https://zeronet.io/
+wikipedia: https://en.wikipedia.org/wiki/ZeroNet
 ---

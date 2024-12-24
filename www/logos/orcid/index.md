@@ -1,10 +1,10 @@
 ---
-blog: 'https://info.orcid.org/blog/'
-github: ORCID
-guide: 'https://info.orcid.org/brand-guidelines/'
+blog: https://info.orcid.org/blog/
+git: https://github.com/ORCID
+guide: https://info.orcid.org/brand-guidelines/
 logohandle: orcid
 sort: orcid
 title: ORCID
-twitter: orcid_org
-website: 'https://orcid.org/'
+twitter: https://x.com/orcid_org
+website: https://orcid.org/
 ---

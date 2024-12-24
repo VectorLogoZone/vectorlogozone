@@ -1,7 +1,7 @@
 ---
 blog: https://blog.mozilla.org/
 facebook: https://www.facebook.com/mozilla
-github: mozilla
+git: https://github.com/mozilla
 guide: https://mozilla.ninja/mlogo
 images:
 - mozilla-icon.svg
@@ -12,7 +12,7 @@ tags:
 - open_source
 - charity
 title: Mozilla
-twitter: mozilla
+twitter: https://x.com/mozilla
 website: https://www.mozilla.org/
 wikipedia: https://en.wikipedia.org/wiki/Mozilla
 ---

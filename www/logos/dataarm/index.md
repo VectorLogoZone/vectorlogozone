@@ -1,10 +1,10 @@
 ---
 facebook: https://www.facebook.com/dataarm/
-github: DataArm
+git: https://github.com/DataArm
 linkedin: https://www.linkedin.com/company/dataarm
 logohandle: dataarm
 sort: dataarm
 title: DataArm
-twitter: data_arm
+twitter: https://x.com/data_arm
 website: http://www.dataarm.com/
 ---

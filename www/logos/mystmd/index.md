@@ -1,9 +1,9 @@
 ---
-blog: 'https://executablebooks.org/en/latest/blog'
-github: myst-templates
+blog: https://executablebooks.org/en/latest/blog
+git: https://github.com/myst-templates
 logohandle: mystmd
 sort: mystmd
 title: MyST Markdown
-twitter: mystmarkdown
-website: 'https://mystmd.org/'
+twitter: https://x.com/mystmarkdown
+website: https://mystmd.org/
 ---

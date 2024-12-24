@@ -1,7 +1,7 @@
 ---
 blog: https://www.blog.google/products/maps/
 facebook: https://www.facebook.com/GoogleMaps/
-github: googlemaps
+git: https://github.com/googlemaps
 images:
 - google_maps-icon.svg
 - google_maps-tile.svg
@@ -12,7 +12,7 @@ tags:
 - google
 - mapping
 title: Google Maps
-twitter: googlemaps
+twitter: https://x.com/googlemaps
 website: https://maps.google.com/
 wikipedia: https://en.wikipedia.org/wiki/Google_Maps
 ---

@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.totaljs.com/blogs/'
-github: totaljs
+blog: https://blog.totaljs.com/blogs/
+git: https://github.com/totaljs
 logohandle: totaljs
 sort: totaljs
 title: Total.js
-website: 'https://www.totaljs.com/'
+website: https://www.totaljs.com/
 ---

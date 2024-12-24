@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/forkast.news'
-instagram: 'https://instagram.com/forkast.news'
-linkedin: 'https://linkedin.com/company/forkast'
+facebook: https://facebook.com/forkast.news
+instagram: https://instagram.com/forkast.news
+linkedin: https://linkedin.com/company/forkast
 logohandle: forkastnews
 sort: forkast
 title: Forkast
-twitter: Forkast_News
-website: 'https://forkast.news/'
+twitter: https://x.com/Forkast_News
+website: https://forkast.news/
 ---

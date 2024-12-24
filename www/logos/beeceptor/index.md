@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/beeceptor'
+linkedin: https://linkedin.com/company/beeceptor
 logohandle: beeceptor
 sort: beeceptor
 title: Beeceptor
-twitter: beeceptor
-website: 'https://beeceptor.com/'
+twitter: https://x.com/beeceptor
+website: https://beeceptor.com/
 ---

@@ -1,6 +1,6 @@
 ---
 blog: http://geonames.wordpress.com/
-github: geonames
+git: https://github.com/geonames
 images:
 - geonames-ar21.svg
 - geonames-icon.svg

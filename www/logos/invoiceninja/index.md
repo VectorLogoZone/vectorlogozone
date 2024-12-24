@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/invoiceninja'
-github: invoiceninja/invoiceninja
+facebook: https://facebook.com/invoiceninja
+git: https://github.com/invoiceninja/invoiceninja
 logohandle: invoiceninja
 sort: invoiceninja
 title: Invoice Ninja
-twitter: invoiceninja
-website: 'https://www.invoiceninja.com/'
-youtube: 'https://youtube.com/channel/UCXAHcBvhW05PDtWYIq7WDFA'
+twitter: https://x.com/invoiceninja
+website: https://www.invoiceninja.com/
+youtube: https://youtube.com/channel/UCXAHcBvhW05PDtWYIq7WDFA
 ---

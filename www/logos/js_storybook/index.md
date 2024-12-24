@@ -1,10 +1,10 @@
 ---
-blog: 'https://medium.com/storybookjs'
-github: storybookjs/storybook
+blog: https://medium.com/storybookjs
+git: https://github.com/storybookjs/storybook
 logohandle: js_storybook
 sort: storybook
 title: Storybook
-twitter: storybookjs
-website: 'https://storybook.js.org/'
-youtube: 'https://youtube.com/channel/UCr7Quur3eIyA_oe8FNYexfg'
+twitter: https://x.com/storybookjs
+website: https://storybook.js.org/
+youtube: https://youtube.com/channel/UCr7Quur3eIyA_oe8FNYexfg
 ---

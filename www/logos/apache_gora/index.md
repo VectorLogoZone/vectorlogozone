@@ -4,7 +4,7 @@ sort: gora
 tags:
 - apache
 title: Apache Gora
-twitter: ApacheGora
-website: 'https://gora.apache.org/'
-wikipedia: 'http://en.wikipedia.org/wiki/Apache_Gora'
+twitter: https://x.com/ApacheGora
+website: https://gora.apache.org/
+wikipedia: http://en.wikipedia.org/wiki/Apache_Gora
 ---

@@ -1,8 +1,8 @@
 ---
-github: deadmanssnitch
+git: https://github.com/deadmanssnitch
 logohandle: deadmanssnitch
 sort: deadmanssnitch
 title: Dead Man's Snitch
-twitter: deadmanssnitch
-website: 'https://deadmanssnitch.com/'
+twitter: https://x.com/deadmanssnitch
+website: https://deadmanssnitch.com/
 ---

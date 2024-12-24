@@ -1,9 +1,9 @@
 ---
-blog: 'https://blueprintsys.com/blog'
-linkedin: 'https://linkedin.com/company/blueprint-software-systems'
+blog: https://blueprintsys.com/blog
+linkedin: https://linkedin.com/company/blueprint-software-systems
 logohandle: blueprintsys
 sort: blueprintsys
 title: Blueprint
-twitter: blueprintsys
-website: 'https://www.blueprintsys.com/'
+twitter: https://x.com/blueprintsys
+website: https://www.blueprintsys.com/
 ---

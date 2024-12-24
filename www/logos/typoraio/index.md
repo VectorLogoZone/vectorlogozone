@@ -2,6 +2,6 @@
 logohandle: typoraio
 sort: typora
 title: Typora
-twitter: typora
-website: 'https://typora.io/'
+twitter: https://x.com/typora
+website: https://typora.io/
 ---

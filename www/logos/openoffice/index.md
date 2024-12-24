@@ -10,7 +10,7 @@ sort: openoffice
 tags:
 - software
 title: Apache OpenOffice
-twitter: ApacheOO
+twitter: https://x.com/ApacheOO
 website: http://www.openoffice.org/
 wikipedia: https://en.wikipedia.org/wiki/Apache_OpenOffice
 ---

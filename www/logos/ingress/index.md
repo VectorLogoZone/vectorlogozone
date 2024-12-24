@@ -12,7 +12,7 @@ sort: ingress
 tags:
 - game
 title: Ingress
-twitter: ingress
+twitter: https://x.com/ingress
 website: https://www.ingress.com/
 wikipedia: https://en.wikipedia.org/wiki/Ingress_(video_game)
 ---

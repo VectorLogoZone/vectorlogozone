@@ -1,9 +1,9 @@
 ---
-github: iipc
+git: https://github.com/iipc
 logohandle: netpreserve
 sort: iipc
 title: IIPC
-twitter: netpreserve
-website: 'http://netpreserve.org/'
-youtube: 'http://youtube.com/channel/UCkUsw2Lo1ahekgy_xEb11BA'
+twitter: https://x.com/netpreserve
+website: http://netpreserve.org/
+youtube: http://youtube.com/channel/UCkUsw2Lo1ahekgy_xEb11BA
 ---

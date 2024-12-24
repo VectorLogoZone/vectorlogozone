@@ -1,9 +1,9 @@
 ---
-blog: 'http://blog.phacility.com/'
-github: phacility/phabricator
+blog: http://blog.phacility.com/
+git: https://github.com/phacility/phabricator
 logohandle: phacility
 sort: phacility
 title: Phacility
-twitter: phacilitystatus
-website: 'https://phacility.com/'
+twitter: https://x.com/phacilitystatus
+website: https://phacility.com/
 ---

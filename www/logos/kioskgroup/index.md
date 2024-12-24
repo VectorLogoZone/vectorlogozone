@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/kioskgroupinc'
-instagram: 'https://instagram.com/kioskgroupinc'
-linkedin: 'https://linkedin.com/company/kiosk-group-inc-'
+facebook: https://facebook.com/kioskgroupinc
+instagram: https://instagram.com/kioskgroupinc
+linkedin: https://linkedin.com/company/kiosk-group-inc-
 logohandle: kioskgroup
-pinterest: 'https://pinterest.com/kioskgroup'
+pinterest: https://pinterest.com/kioskgroup
 sort: kioskgroup
 title: Kiosk Group
-twitter: kioskgroupinc
-website: 'https://www.kioskgroup.com/'
+twitter: https://x.com/kioskgroupinc
+website: https://www.kioskgroup.com/
 ---

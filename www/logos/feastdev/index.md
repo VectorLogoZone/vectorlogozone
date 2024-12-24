@@ -1,8 +1,8 @@
 ---
-blog: 'https://feast.dev/blog/'
-github: feast-dev/feast
+blog: https://feast.dev/blog/
+git: https://github.com/feast-dev/feast
 logohandle: feastdev
 sort: feastdev
 title: Feast
-website: 'https://feast.dev/'
+website: https://feast.dev/
 ---

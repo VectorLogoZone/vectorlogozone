@@ -8,7 +8,7 @@ tags:
 - microsoft
 - search_engine
 title: bing
-twitter: bing
+twitter: https://x.com/bing
 website: https://www.bing.com/
 wikipedia: https://en.wikipedia.org/wiki/Bing_(search_engine)
 ---

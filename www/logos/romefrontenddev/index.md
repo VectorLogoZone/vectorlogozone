@@ -1,8 +1,8 @@
 ---
-github: romefrontend/rome
+git: https://github.com/romefrontend/rome
 logohandle: romefrontenddev
 sort: romefrontend
 title: Rome Frontend
-twitter: romefrontend
-website: 'https://romefrontend.dev/'
+twitter: https://x.com/romefrontend
+website: https://romefrontend.dev/
 ---

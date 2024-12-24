@@ -1,12 +1,12 @@
 ---
-facebook: 'https://facebook.com/Visual-Paradigm-822068561487170'
-instagram: 'https://instagram.com/visualparadigm'
-linkedin: 'https://linkedin.com/company/visual-paradigm'
+facebook: https://facebook.com/Visual-Paradigm-822068561487170
+instagram: https://instagram.com/visualparadigm
+linkedin: https://linkedin.com/company/visual-paradigm
 logohandle: visual-paradigm
-pinterest: 'https://pinterest.com/visualparadigm'
+pinterest: https://pinterest.com/visualparadigm
 sort: visual-paradigm
 title: Visual Paradigm
-twitter: visualparadigm
-website: 'https://www.visual-paradigm.com/'
-youtube: 'https://youtube.com/user/VisualParadigm'
+twitter: https://x.com/visualparadigm
+website: https://www.visual-paradigm.com/
+youtube: https://youtube.com/user/VisualParadigm
 ---

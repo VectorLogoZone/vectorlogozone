@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/LibreTexts'
+facebook: https://facebook.com/LibreTexts
 logohandle: libretexts
 sort: libretexts
 title: LibreTexts
-twitter: libretexts
-website: 'https://libretexts.org/'
+twitter: https://x.com/libretexts
+website: https://libretexts.org/
 ---

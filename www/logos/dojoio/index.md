@@ -1,8 +1,8 @@
 ---
-github: dojo/framework
+git: https://github.com/dojo/framework
 logohandle: dojoio
 sort: dojo
 title: Dojo Framework
-twitter: DojoFramework
-website: 'https://dojo.io/'
+twitter: https://x.com/DojoFramework
+website: https://dojo.io/
 ---

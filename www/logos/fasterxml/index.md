@@ -1,7 +1,7 @@
 ---
-github: FasterXML
+git: https://github.com/FasterXML
 logohandle: fasterxml
 sort: fasterxml
 title: FasterXML
-website: 'http://fasterxml.com/'
+website: http://fasterxml.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: hotgluexyz
+git: https://github.com/hotgluexyz
 logohandle: hotgluexyz
 sort: hotglue
 title: Hotglue
-twitter: hotgluexyz
-website: 'https://hotglue.xyz/'
+twitter: https://x.com/hotgluexyz
+website: https://hotglue.xyz/
 ---

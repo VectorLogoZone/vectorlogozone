@@ -1,8 +1,8 @@
 ---
-github: werf/werf
+git: https://github.com/werf/werf
 logohandle: werfio
 sort: werf
 title: werf
-twitter: werf_io
-website: 'https://werf.io/'
+twitter: https://x.com/werf_io
+website: https://werf.io/
 ---

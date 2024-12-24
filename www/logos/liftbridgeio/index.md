@@ -1,8 +1,8 @@
 ---
-github: liftbridge-io/liftbridge
+git: https://github.com/liftbridge-io/liftbridge
 logohandle: liftbridgeio
 sort: liftbridge
 title: Liftbridge
-twitter: liftbridge_io
-website: 'https://liftbridge.io/'
+twitter: https://x.com/liftbridge_io
+website: https://liftbridge.io/
 ---

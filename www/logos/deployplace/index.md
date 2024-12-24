@@ -1,9 +1,9 @@
 ---
-blog: 'https://deployplace.com/blog'
-facebook: 'https://facebook.com/deployplace'
+blog: https://deployplace.com/blog
+facebook: https://facebook.com/deployplace
 logohandle: deployplace
 sort: deployplace
 title: DeployPlace
-twitter: deployplace
-website: 'https://deployplace.com/'
+twitter: https://x.com/deployplace
+website: https://deployplace.com/
 ---

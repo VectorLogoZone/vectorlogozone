@@ -1,8 +1,8 @@
 ---
-github: botfront
+git: https://github.com/botfront
 logohandle: botfrontio
 sort: botfront
 title: Botfront
-twitter: botfront
-website: 'https://botfront.io/'
+twitter: https://x.com/botfront
+website: https://botfront.io/
 ---

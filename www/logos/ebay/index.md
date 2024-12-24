@@ -4,7 +4,7 @@ facebook: https://www.facebook.com/eBay
 font:
   myfonts: https://www.myfonts.com/fonts/linotype/univers/53-extended/
   name: Univers 53 Extended
-github: ebay
+git: https://github.com/ebay
 guide: https://go.developer.ebay.com/logos
 images:
 - ebay-ar21.svg
@@ -14,7 +14,7 @@ sort: ebay
 tags:
 - ecommerce
 title: eBay
-twitter: eBay
+twitter: https://x.com/eBay
 website: https://www.ebay.com/
 wikipedia: https://en.wikipedia.org/wiki/EBay
 ---

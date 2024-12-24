@@ -1,10 +1,10 @@
 ---
-blog: 'https://openkoda.com/blog'
-facebook: 'https://facebook.com/Openkoda'
-github: openkoda/openkoda
-linkedin: 'https://linkedin.com/company/openkoda'
+blog: https://openkoda.com/blog
+facebook: https://facebook.com/Openkoda
+git: https://github.com/openkoda/openkoda
+linkedin: https://linkedin.com/company/openkoda
 logohandle: openkoda
 sort: openkoda
 title: Openkoda
-website: 'https://openkoda.com/'
+website: https://openkoda.com/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/nextdns'
-github: nextdns
+blog: https://medium.com/nextdns
+git: https://github.com/nextdns
 logohandle: nextdnsio
 sort: nextdns
 title: NextDNS
-twitter: NextDNS
-website: 'https://nextdns.io/'
+twitter: https://x.com/NextDNS
+website: https://nextdns.io/
 ---

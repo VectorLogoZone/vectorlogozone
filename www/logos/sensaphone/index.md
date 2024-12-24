@@ -1,11 +1,11 @@
 ---
-blog: 'https://blog.sensaphone.com/'
-facebook: 'https://facebook.com/sensaphone'
-linkedin: 'https://linkedin.com/company/9372170'
+blog: https://blog.sensaphone.com/
+facebook: https://facebook.com/sensaphone
+linkedin: https://linkedin.com/company/9372170
 logohandle: sensaphone
 sort: sensaphone
 title: Sensaphone
-twitter: sensaphone
-website: 'https://www.sensaphone.com/'
-youtube: 'https://youtube.com/user/sensaphone'
+twitter: https://x.com/sensaphone
+website: https://www.sensaphone.com/
+youtube: https://youtube.com/user/sensaphone
 ---

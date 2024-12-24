@@ -1,7 +1,7 @@
 ---
-github: coollabsio/coolify
+git: https://github.com/coollabsio/coolify
 logohandle: coolifyio
 sort: coolify
 title: Coolify
-website: 'https://coolify.io/'
+website: https://coolify.io/
 ---

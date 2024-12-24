@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/Kantega'
+facebook: https://facebook.com/Kantega
 logohandle: kantegano
 sort: kantega
 title: Kantega
-twitter: kantega
-website: 'https://www.kantega.no/english'
+twitter: https://x.com/kantega
+website: https://www.kantega.no/english
 ---

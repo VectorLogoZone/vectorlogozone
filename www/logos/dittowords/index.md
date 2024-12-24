@@ -1,8 +1,8 @@
 ---
-blog: 'http://dittowords.com/blog/'
+blog: http://dittowords.com/blog/
 logohandle: dittowords
 sort: dittowords
 title: Ditto
-twitter: dittowords
-website: 'https://www.dittowords.com/'
+twitter: https://x.com/dittowords
+website: https://www.dittowords.com/
 ---

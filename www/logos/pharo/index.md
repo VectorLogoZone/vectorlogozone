@@ -2,6 +2,6 @@
 logohandle: pharo
 sort: pharo
 title: Pharo
-twitter: pharoproject
-website: 'http://pharo.org/'
+twitter: https://x.com/pharoproject
+website: http://pharo.org/
 ---

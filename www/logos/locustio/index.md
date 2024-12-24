@@ -1,8 +1,8 @@
 ---
-github: locustio/locust
+git: https://github.com/locustio/locust
 logohandle: locustio
 sort: locust
 title: Locust
-twitter: locustio
-website: 'https://locust.io/'
+twitter: https://x.com/locustio
+website: https://locust.io/
 ---

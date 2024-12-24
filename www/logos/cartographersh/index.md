@@ -2,6 +2,6 @@
 logohandle: cartographersh
 sort: cartographer
 title: Cartographer
-twitter: OssCartographer
-website: 'https://cartographer.sh/'
+twitter: https://x.com/OssCartographer
+website: https://cartographer.sh/
 ---

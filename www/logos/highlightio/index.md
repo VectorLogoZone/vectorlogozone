@@ -1,9 +1,9 @@
 ---
-github: highlight/highlight
-linkedin: 'https://linkedin.com/company/highlightrun'
+git: https://github.com/highlight/highlight
+linkedin: https://linkedin.com/company/highlightrun
 logohandle: highlightio
 sort: highlightio
 title: highlight.io
-twitter: highlightio
-website: 'https://www.highlight.io/'
+twitter: https://x.com/highlightio
+website: https://www.highlight.io/
 ---

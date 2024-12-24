@@ -1,7 +1,7 @@
 ---
-github: solo-io/squash
+git: https://github.com/solo-io/squash
 logohandle: soloio_squash
 sort: squash
 title: Squash
-website: 'https://github.com/solo-io/squash'
+website: https://github.com/solo-io/squash
 ---

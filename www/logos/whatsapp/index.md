@@ -1,6 +1,6 @@
 ---
 facebook: https://www.facebook.com/WhatsApp
-github: WhatsApp
+git: https://github.com/WhatsApp
 guide: https://www.whatsappbrand.com/
 images:
 - whatsapp-icon.svg
@@ -12,7 +12,7 @@ tags:
 - messaging
 - simpleshare
 title: WhatsApp
-twitter: whatsapp
+twitter: https://x.com/whatsapp
 website: https://www.whatsapp.com/
 wikipedia: https://en.wikipedia.org/wiki/WhatsApp
 ---

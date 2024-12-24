@@ -1,8 +1,8 @@
 ---
-github: kanboard
+git: https://github.com/kanboard
 logohandle: kanboard
 sort: kanboard
 title: Kanboard
-twitter: kanboard
-website: 'https://kanboard.org/'
+twitter: https://x.com/kanboard
+website: https://kanboard.org/
 ---

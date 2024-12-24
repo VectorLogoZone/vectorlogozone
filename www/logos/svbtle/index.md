@@ -2,6 +2,6 @@
 logohandle: svbtle
 sort: svbtle
 title: Svbtle
-twitter: svbtle
-website: 'https://svbtle.com/'
+twitter: https://x.com/svbtle
+website: https://svbtle.com/
 ---

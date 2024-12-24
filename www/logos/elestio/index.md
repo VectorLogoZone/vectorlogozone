@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.elest.io/'
-github: elestio
-linkedin: 'https://linkedin.com/company/elestio'
+blog: https://blog.elest.io/
+git: https://github.com/elestio
+linkedin: https://linkedin.com/company/elestio
 logohandle: elestio
 sort: elestio
 title: Elestio
-twitter: elestio
-website: 'https://elest.io/'
+twitter: https://x.com/elestio
+website: https://elest.io/
 ---

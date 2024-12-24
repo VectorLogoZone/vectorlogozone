@@ -2,6 +2,6 @@
 logohandle: memberful
 sort: memberful
 title: Memberful
-twitter: memberful
-website: 'https://memberful.com/'
+twitter: https://x.com/memberful
+website: https://memberful.com/
 ---

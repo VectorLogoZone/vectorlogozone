@@ -1,8 +1,8 @@
 ---
-blog: 'https://jshint.com/blog/'
-github: jshint/jshint
+blog: https://jshint.com/blog/
+git: https://github.com/jshint/jshint
 logohandle: jshint
 sort: jshint
 title: JSHint
-website: 'https://jshint.com/'
+website: https://jshint.com/
 ---

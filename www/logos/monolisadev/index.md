@@ -2,6 +2,6 @@
 logohandle: monolisadev
 sort: monolisa
 title: MonoLisa
-twitter: monolisafont
-website: 'https://www.monolisa.dev/'
+twitter: https://x.com/monolisafont
+website: https://www.monolisa.dev/
 ---

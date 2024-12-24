@@ -1,8 +1,8 @@
 ---
-github: openshiporg/openship
+git: https://github.com/openshiporg/openship
 logohandle: openship
 sort: openship
 title: Openship
-twitter: openshiporg
-website: 'https://www.openship.org/'
+twitter: https://x.com/openshiporg
+website: https://www.openship.org/
 ---

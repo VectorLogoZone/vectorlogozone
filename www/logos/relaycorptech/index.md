@@ -1,7 +1,7 @@
 ---
-github: relaycorp
+git: https://github.com/relaycorp
 logohandle: relaycorptech
 sort: relaycorp
 title: Relaycorp
-website: 'https://relaycorp.tech/'
+website: https://relaycorp.tech/
 ---

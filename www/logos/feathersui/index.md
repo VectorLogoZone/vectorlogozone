@@ -1,10 +1,10 @@
 ---
-blog: 'https://feathersui.com/blog/'
-facebook: 'https://facebook.com/feathersui'
-github: BowlerHatLLC/feathers-sdk
+blog: https://feathersui.com/blog/
+facebook: https://facebook.com/feathersui
+git: https://github.com/BowlerHatLLC/feathers-sdk
 logohandle: feathersui
 sort: feathersui
 title: Feathers UI
-twitter: feathersui
-website: 'https://feathersui.com/'
+twitter: https://x.com/feathersui
+website: https://feathersui.com/
 ---

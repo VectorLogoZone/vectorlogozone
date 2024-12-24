@@ -1,8 +1,8 @@
 ---
-facebook: 'http://facebook.com/hexbrain'
+facebook: http://facebook.com/hexbrain
 logohandle: hexbrain
 sort: hexbrain
 title: HexBrain
-twitter: hexbrain
-website: 'https://hexbrain.com/'
+twitter: https://x.com/hexbrain
+website: https://hexbrain.com/
 ---

@@ -4,6 +4,6 @@ facebook: http://facebook.com/icon.drawer
 logohandle: icondrawer
 sort: icondrawer
 title: Icon Drawer
-twitter: icondrawer
+twitter: https://x.com/icondrawer
 website: http://icondrawer.com/
 ---

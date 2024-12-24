@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.pocketcasts.com/'
-instagram: 'https://instagram.com/pocketcasts'
+blog: https://blog.pocketcasts.com/
+instagram: https://instagram.com/pocketcasts
 logohandle: pocketcasts
 sort: pocketcasts
 title: Pocketcasts
-twitter: pocketcasts
-website: 'https://www.pocketcasts.com/'
+twitter: https://x.com/pocketcasts
+website: https://www.pocketcasts.com/
 ---

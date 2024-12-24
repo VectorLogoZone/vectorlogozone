@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/HotjarApps'
+facebook: https://facebook.com/HotjarApps
 logohandle: hotjar
 sort: hotjar
 title: Hotjar
-twitter: hotjar
-website: 'https://www.hotjar.com/'
+twitter: https://x.com/hotjar
+website: https://www.hotjar.com/
 ---

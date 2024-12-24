@@ -2,6 +2,6 @@
 logohandle: scarfsh
 sort: scarf
 title: Scarf
-twitter: scarf_oss
-website: 'https://scarf.sh/'
+twitter: https://x.com/scarf_oss
+website: https://scarf.sh/
 ---

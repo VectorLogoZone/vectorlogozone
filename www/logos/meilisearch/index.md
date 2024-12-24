@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.meilisearch.com/'
-github: meilisearch/MeiliSearch
-linkedin: 'https://linkedin.com/company/meilisearch'
+blog: https://blog.meilisearch.com/
+git: https://github.com/meilisearch/MeiliSearch
+linkedin: https://linkedin.com/company/meilisearch
 logohandle: meilisearch
 sort: meilisearch
 title: MeiliSearch
-twitter: meilisearch
-website: 'https://www.meilisearch.com/'
+twitter: https://x.com/meilisearch
+website: https://www.meilisearch.com/
 ---

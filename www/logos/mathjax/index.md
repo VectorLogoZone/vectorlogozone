@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/mathjax'
-github: mathjax
-linkedin: 'http://linkedin.com/groups/MathJax-Community-3772588'
+facebook: https://facebook.com/mathjax
+git: https://github.com/mathjax
+linkedin: http://linkedin.com/groups/MathJax-Community-3772588
 logohandle: mathjax
 sort: mathjax
 title: MathJax
-twitter: mathjax
-website: 'https://www.mathjax.org/'
+twitter: https://x.com/mathjax
+website: https://www.mathjax.org/
 ---

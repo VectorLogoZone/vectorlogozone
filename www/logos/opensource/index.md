@@ -1,6 +1,6 @@
 ---
 blog: https://opensource.org/blog
-github: OpenSourceOrg
+git: https://github.com/OpenSourceOrg
 guide: https://opensource.org/logo-usage-guidelines
 images:
 - opensource-ar21.svg
@@ -8,7 +8,7 @@ images:
 logohandle: opensource
 sort: opensource
 title: Open Source Initiative
-twitter: OpenSourceOrg
+twitter: https://x.com/OpenSourceOrg
 website: https://opensource.org/
 wikipedia: https://en.wikipedia.org/wiki/Open_Source_Initiative
 ---

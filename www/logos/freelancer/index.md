@@ -9,7 +9,7 @@ instagram: https://www.instagram.com/freelancerofficial/
 logohandle: freelancer
 sort: freelancer
 title: freelancer
-twitter: freelancer
+twitter: https://x.com/freelancer
 website: https://www.freelancer.com/
 wikipedia: https://en.wikipedia.org/wiki/Freelancer.com
 youtube: https://www.youtube.com/freelancerchannel

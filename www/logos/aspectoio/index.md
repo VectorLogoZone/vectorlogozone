@@ -1,10 +1,10 @@
 ---
-blog: 'https://aspecto.io/blog'
-github: aspecto-io
-linkedin: 'https://linkedin.com/company/aspecto-io'
+blog: https://aspecto.io/blog
+git: https://github.com/aspecto-io
+linkedin: https://linkedin.com/company/aspecto-io
 logohandle: aspectoio
 sort: aspecto
 title: Aspecto
-twitter: AspectoInc
-website: 'https://www.aspecto.io/'
+twitter: https://x.com/AspectoInc
+website: https://www.aspecto.io/
 ---

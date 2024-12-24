@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/fleetcor'
+linkedin: https://linkedin.com/company/fleetcor
 logohandle: fleetcor
 sort: fleetcor
 title: FLEETCOR
-twitter: fleetcor
-website: 'https://www.fleetcor.com/'
+twitter: https://x.com/fleetcor
+website: https://www.fleetcor.com/
 ---

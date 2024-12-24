@@ -1,9 +1,9 @@
 ---
-github: apache/incubator-doris
+git: https://github.com/apache/incubator-doris
 logohandle: apache_doris
 sort: doris
 tags:
 - apache
 title: Apache Doris
-website: 'https://doris.apache.org/'
+website: https://doris.apache.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: arguman
+git: https://github.com/arguman
 logohandle: arguman
 sort: arguman
 title: Arguman
-twitter: argumentmapping
-website: 'https://en.arguman.org/'
+twitter: https://x.com/argumentmapping
+website: https://en.arguman.org/
 ---

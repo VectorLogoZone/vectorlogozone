@@ -1,7 +1,7 @@
 ---
-github: gethomepage/homepage
+git: https://github.com/gethomepage/homepage
 logohandle: gethomepagedev
 sort: homepage
 title: homepage
-website: 'https://gethomepage.dev/latest/'
+website: https://gethomepage.dev/latest/
 ---

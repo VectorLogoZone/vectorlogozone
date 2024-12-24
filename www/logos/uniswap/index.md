@@ -1,8 +1,8 @@
 ---
-github: Uniswap
+git: https://github.com/Uniswap
 logohandle: uniswap
 sort: uniswap
 title: Uniswap
-twitter: Uniswap
-website: 'https://uniswap.org/'
+twitter: https://x.com/Uniswap
+website: https://uniswap.org/
 ---

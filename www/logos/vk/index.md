@@ -1,5 +1,5 @@
 ---
-github: VKCOM
+git: https://github.com/VKCOM
 guide: https://vk.com/about
 images:
 - vk-ar21.svg
@@ -11,7 +11,7 @@ tags:
 - simpleshare
 - social_network
 title: VKontakte
-twitter: vkontakte
+twitter: https://x.com/vkontakte
 website: https://vk.com/
 wikipedia: https://en.wikipedia.org/wiki/VKontakte
 ---

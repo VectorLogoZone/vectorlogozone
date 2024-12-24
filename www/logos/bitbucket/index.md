@@ -13,7 +13,7 @@ sort: bitbucket
 tags:
 - version_control
 title: Bitbucket
-twitter: bitbucket
+twitter: https://x.com/bitbucket
 website: https://bitbucket.org/
 wikipedia: https://en.wikipedia.org/wiki/Bitbucket
 ---

@@ -1,10 +1,10 @@
 ---
-github: viamrobotics
-instagram: 'https://instagram.com/viamrobotics'
-linkedin: 'https://linkedin.com/company/viaminc/about'
+git: https://github.com/viamrobotics
+instagram: https://instagram.com/viamrobotics
+linkedin: https://linkedin.com/company/viaminc/about
 logohandle: viam
 sort: viam
 title: Viam
-twitter: viamrobotics
-website: 'https://www.viam.com/'
+twitter: https://x.com/viamrobotics
+website: https://www.viam.com/
 ---

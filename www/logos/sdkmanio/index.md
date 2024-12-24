@@ -1,8 +1,8 @@
 ---
-github: sdkman
+git: https://github.com/sdkman
 logohandle: sdkmanio
 sort: sdkman
 title: SDKMAN
-twitter: sdkman_
-website: 'https://sdkman.io/'
+twitter: https://x.com/sdkman_
+website: https://sdkman.io/
 ---

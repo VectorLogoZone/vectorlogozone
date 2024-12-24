@@ -1,7 +1,7 @@
 ---
-github: dashing-io/dashing
+git: https://github.com/dashing-io/dashing
 logohandle: dashingio
 sort: dashing
 title: Dashing
-website: 'http://dashing.io/'
+website: http://dashing.io/
 ---

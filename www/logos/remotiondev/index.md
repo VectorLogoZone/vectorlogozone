@@ -1,8 +1,8 @@
 ---
-github: JonnyBurger/remotion
+git: https://github.com/JonnyBurger/remotion
 logohandle: remotiondev
 sort: remotion
 title: Remotion
-twitter: JNYBGR
-website: 'https://www.remotion.dev/'
+twitter: https://x.com/JNYBGR
+website: https://www.remotion.dev/
 ---

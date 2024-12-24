@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/CamundaBPM'
-github: camunda
-linkedin: 'https://linkedin.com/company/camunda-services-gmbh'
+facebook: https://facebook.com/CamundaBPM
+git: https://github.com/camunda
+linkedin: https://linkedin.com/company/camunda-services-gmbh
 logohandle: camunda
 sort: camunda
 title: Camunda
-twitter: camunda
-website: 'https://camunda.com/'
+twitter: https://x.com/camunda
+website: https://camunda.com/
 ---

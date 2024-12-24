@@ -7,7 +7,7 @@ images:
 logohandle: bluetooth
 sort: bluetooth
 title: Bluetooth
-twitter: BluetoothSIG
+twitter: https://x.com/BluetoothSIG
 website: https://www.bluetooth.com/
 wikipedia: https://en.wikipedia.org/wiki/Bluetooth
 ---

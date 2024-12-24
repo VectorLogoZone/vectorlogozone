@@ -1,7 +1,7 @@
 ---
-github: bundler/bundler
+git: https://github.com/bundler/bundler
 logohandle: bundlerio
 sort: bundler
 title: Bundler
-website: 'https://bundler.io/'
+website: https://bundler.io/
 ---

@@ -4,7 +4,7 @@ facebook: https://www.facebook.com/ubuntulinux/
 font:
   myfonts: https://www.myfonts.com/fonts/nm-concept-ltd/corisande/regular/
   name: Corisande Regular
-github: ubuntu
+git: https://github.com/ubuntu
 guide: https://design.ubuntu.com/brand/ubuntu-logo/
 images:
 - ubuntu-tile.svg
@@ -16,7 +16,7 @@ tags:
 - linux
 - operating_system
 title: Ubuntu
-twitter: Ubuntu
+twitter: https://x.com/Ubuntu
 website: https://www.ubuntu.com/
 wikipedia: https://en.wikipedia.org/wiki/Ubuntu_(operating_system)
 ---

@@ -1,7 +1,7 @@
 ---
-github: kubeless
+git: https://github.com/kubeless
 logohandle: kubelessio
 sort: kubeless
 title: Kubeless
-website: 'https://kubeless.io/'
+website: https://kubeless.io/
 ---

@@ -1,7 +1,7 @@
 ---
-github: ory
+git: https://github.com/ory
 logohandle: orysh
 sort: ory
 title: Ory
-website: 'https://www.ory.sh/'
+website: https://www.ory.sh/
 ---

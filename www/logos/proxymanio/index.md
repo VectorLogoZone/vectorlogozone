@@ -1,8 +1,8 @@
 ---
-github: ProxymanApp/Proxyman
+git: https://github.com/ProxymanApp/Proxyman
 logohandle: proxymanio
 sort: proxyman
 title: Proxyman
-twitter: proxyman_app
-website: 'https://proxyman.io/'
+twitter: https://x.com/proxyman_app
+website: https://proxyman.io/
 ---

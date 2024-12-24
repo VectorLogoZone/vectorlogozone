@@ -1,10 +1,10 @@
 ---
-blog: 'https://jolocom.io/blog'
-github: jolocom
-linkedin: 'https://linkedin.com/company/jolocom'
+blog: https://jolocom.io/blog
+git: https://github.com/jolocom
+linkedin: https://linkedin.com/company/jolocom
 logohandle: jolocomio
 sort: jolocom
 title: Jolocom
-twitter: GETJolocom
-website: 'https://jolocom.io/'
+twitter: https://x.com/GETJolocom
+website: https://jolocom.io/
 ---

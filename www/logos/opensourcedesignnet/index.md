@@ -1,8 +1,8 @@
 ---
-github: opensourcedesign
+git: https://github.com/opensourcedesign
 logohandle: opensourcedesignnet
 sort: opensourcedesign
 title: Open Source Design
-twitter: opensrcdesign
-website: 'https://opensourcedesign.net/'
+twitter: https://x.com/opensrcdesign
+website: https://opensourcedesign.net/
 ---

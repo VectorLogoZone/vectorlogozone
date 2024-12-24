@@ -1,10 +1,10 @@
 ---
-github: objectcomputing
-linkedin: 'https://linkedin.com/company/oci'
+git: https://github.com/objectcomputing
+linkedin: https://linkedin.com/company/oci
 logohandle: objectcomputing
 sort: objectcomputing
 title: OCI
-twitter: objectcomputing
-website: 'https://objectcomputing.com/'
-youtube: 'https://youtube.com/ociweb'
+twitter: https://x.com/objectcomputing
+website: https://objectcomputing.com/
+youtube: https://youtube.com/ociweb
 ---

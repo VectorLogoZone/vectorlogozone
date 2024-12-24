@@ -1,7 +1,7 @@
 ---
-github: typeorm/typeorm
+git: https://github.com/typeorm/typeorm
 logohandle: typeormio
 sort: typeorm
 title: TypeORM
-website: 'https://typeorm.io/#/'
+website: https://typeorm.io/#/
 ---

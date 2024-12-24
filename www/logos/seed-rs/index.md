@@ -1,7 +1,7 @@
 ---
-github: seed-rs/seed
+git: https://github.com/seed-rs/seed
 logohandle: seed-rs
 sort: seedrs
 title: Seed
-website: 'https://seed-rs.org/'
+website: https://seed-rs.org/
 ---

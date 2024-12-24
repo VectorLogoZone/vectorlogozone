@@ -2,6 +2,6 @@
 logohandle: debugbear
 sort: debugbear
 title: DebugBear
-twitter: debugbear
-website: 'https://www.debugbear.com/'
+twitter: https://x.com/debugbear
+website: https://www.debugbear.com/
 ---

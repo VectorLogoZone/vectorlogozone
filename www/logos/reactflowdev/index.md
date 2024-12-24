@@ -1,8 +1,8 @@
 ---
-github: wbkd/react-flow
+git: https://github.com/wbkd/react-flow
 logohandle: reactflowdev
 sort: reactflow
 title: React Flow
-twitter: reactflowdev
-website: 'https://reactflow.dev/'
+twitter: https://x.com/reactflowdev
+website: https://reactflow.dev/
 ---

@@ -6,7 +6,7 @@ instagram: https://instagram.com/airbnb
 logohandle: airbnb
 sort: airbnb
 title: Airbnb
-twitter: airbnb
+twitter: https://x.com/airbnb
 website: https://www.airbnb.com/
 wikipedia: https://en.wikipedia.org/wiki/Airbnb
 ---

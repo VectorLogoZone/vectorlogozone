@@ -1,9 +1,9 @@
 ---
-github: frain-dev/convoy
-linkedin: 'https://linkedin.com/company/convoy-webhooks'
+git: https://github.com/frain-dev/convoy
+linkedin: https://linkedin.com/company/convoy-webhooks
 logohandle: getconvoyio
 sort: convoy
 title: Convoy
-twitter: getconvoy
-website: 'https://getconvoy.io/'
+twitter: https://x.com/getconvoy
+website: https://getconvoy.io/
 ---

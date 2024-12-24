@@ -1,8 +1,8 @@
 ---
-github: Applied-Duality
+git: https://github.com/Applied-Duality
 logohandle: applied-duality
 sort: applied-duality
 title: Applied Duality
-twitter: headinthebox
-website: 'http://www.applied-duality.com/'
+twitter: https://x.com/headinthebox
+website: http://www.applied-duality.com/
 ---

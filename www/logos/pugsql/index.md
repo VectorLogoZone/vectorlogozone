@@ -1,8 +1,8 @@
 ---
-github: mcfunley/pugsql
+git: https://github.com/mcfunley/pugsql
 logohandle: pugsql
 sort: pugsql
 title: PugSQL
-twitter: mcfunley
-website: 'https://pugsql.org/'
+twitter: https://x.com/mcfunley
+website: https://pugsql.org/
 ---

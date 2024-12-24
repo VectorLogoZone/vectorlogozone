@@ -1,8 +1,8 @@
 ---
-github: Textualize
+git: https://github.com/Textualize
 logohandle: textualizeio
 sort: textualize
 title: Textualize
-twitter: textualizeio
-website: 'https://www.textualize.io/'
+twitter: https://x.com/textualizeio
+website: https://www.textualize.io/
 ---

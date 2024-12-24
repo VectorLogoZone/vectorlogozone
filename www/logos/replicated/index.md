@@ -1,10 +1,10 @@
 ---
 blog: http://blog.replicated.com/
-github: replicatedhq
+git: https://github.com/replicatedhq
 linkedin: https://www.linkedin.com/company/replicated-inc-/
 logohandle: replicated
 sort: replicated
 title: replicated
-twitter: replicatedhq
+twitter: https://x.com/replicatedhq
 website: https://www.replicated.com/
 ---

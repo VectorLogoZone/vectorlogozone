@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/hivestores'
+facebook: https://facebook.com/hivestores
 logohandle: hivecouk
-pinterest: 'https://pinterest.com/hivestores'
+pinterest: https://pinterest.com/hivestores
 sort: hive
 title: Hive.co.uk
-twitter: hivestores
-website: 'https://www.hive.co.uk/'
-youtube: 'https://youtube.com/user/hivecouk'
+twitter: https://x.com/hivestores
+website: https://www.hive.co.uk/
+youtube: https://youtube.com/user/hivecouk
 ---

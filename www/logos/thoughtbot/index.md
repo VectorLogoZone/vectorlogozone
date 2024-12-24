@@ -1,10 +1,10 @@
 ---
-dribbble: 'https://dribbble.com/thoughtbot'
-github: thoughtbot
-googleplus: 'https://plus.google.com/102635181313464404735'
+dribbble: https://dribbble.com/thoughtbot
+git: https://github.com/thoughtbot
+googleplus: https://plus.google.com/102635181313464404735
 logohandle: thoughtbot
 sort: thoughtbot
 title: thoughtbot
-twitter: thoughtbot
-website: 'https://thoughtbot.com/'
+twitter: https://x.com/thoughtbot
+website: https://thoughtbot.com/
 ---

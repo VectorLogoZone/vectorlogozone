@@ -1,9 +1,9 @@
 ---
-facebook: 'http://facebook.com/micropython'
-github: micropython/micropython
+facebook: http://facebook.com/micropython
+git: https://github.com/micropython/micropython
 logohandle: micropython
 sort: micropython
 title: MicroPython
-twitter: micropython
-website: 'http://www.micropython.org/'
+twitter: https://x.com/micropython
+website: http://www.micropython.org/
 ---

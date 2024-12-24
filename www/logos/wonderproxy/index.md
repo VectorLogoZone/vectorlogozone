@@ -2,6 +2,6 @@
 logohandle: wonderproxy
 sort: wonderproxy
 title: WonderProxy
-twitter: wonderproxy
-website: 'https://wonderproxy.com/'
+twitter: https://x.com/wonderproxy
+website: https://wonderproxy.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: stripe/einhorn
+git: https://github.com/stripe/einhorn
 logohandle: stripe_einhorn
 sort: einhorn
 title: Einhorn
-website: 'https://github.com/stripe/einhorn'
+website: https://github.com/stripe/einhorn
 ---

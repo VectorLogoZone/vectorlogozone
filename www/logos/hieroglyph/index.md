@@ -2,6 +2,6 @@
 logohandle: hieroglyph
 sort: hieroglyph
 title: Hieroglyph
-twitter: HieroglyphApp
-website: 'https://hierogly.ph/'
+twitter: https://x.com/HieroglyphApp
+website: https://hierogly.ph/
 ---

@@ -1,8 +1,8 @@
 ---
-github: fab-spec/fab
+git: https://github.com/fab-spec/fab
 logohandle: fabdev
 sort: fab
 title: Frontend Application Bundles
-twitter: fab_spec
-website: 'https://fab.dev/'
+twitter: https://x.com/fab_spec
+website: https://fab.dev/
 ---

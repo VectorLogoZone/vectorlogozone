@@ -1,7 +1,7 @@
 ---
-github: getzola/zola
+git: https://github.com/getzola/zola
 logohandle: getzola
 sort: zola
 title: Zola
-website: 'https://www.getzola.org/'
+website: https://www.getzola.org/
 ---

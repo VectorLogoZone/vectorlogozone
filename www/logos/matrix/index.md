@@ -1,9 +1,9 @@
 ---
-blog: 'https://matrix.org/blog'
-github: matrix-org
+blog: https://matrix.org/blog
+git: https://github.com/matrix-org
 logohandle: matrix
 sort: matrix
 title: Matrix.org
-twitter: matrixdotorg
-website: 'https://matrix.org/blog/home/'
+twitter: https://x.com/matrixdotorg
+website: https://matrix.org/blog/home/
 ---

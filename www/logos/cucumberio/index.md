@@ -1,6 +1,6 @@
 ---
 blog: https://cucumber.io/blog
-github: cucumber
+git: https://github.com/cucumber
 gitter: https://gitter.im/orgs/cucumber/rooms
 images:
 - cucumberio-ar21.svg
@@ -8,7 +8,7 @@ images:
 logohandle: cucumberio
 sort: cucumberio
 title: Cucumber
-twitter: cucumberbdd
+twitter: https://x.com/cucumberbdd
 website: https://cucumber.io/
 wikipedia: https://en.wikipedia.org/wiki/Cucumber_(software)
 ---

@@ -1,7 +1,7 @@
 ---
-github: livewire/livewire
+git: https://github.com/livewire/livewire
 logohandle: laravel-livewire
 sort: livewire
 title: Livewire
-website: 'https://laravel-livewire.com/'
+website: https://laravel-livewire.com/
 ---

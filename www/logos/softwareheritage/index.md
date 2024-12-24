@@ -1,8 +1,8 @@
 ---
-blog: 'https://softwareheritage.org/blog'
+blog: https://softwareheritage.org/blog
 logohandle: softwareheritage
 sort: softwareheritage
 title: Software Heritage
-twitter: SwHeritage
-website: 'https://www.softwareheritage.org/'
+twitter: https://x.com/SwHeritage
+website: https://www.softwareheritage.org/
 ---

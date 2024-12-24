@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/invoira'
-instagram: 'https://instagram.com/invoirainc'
+facebook: https://facebook.com/invoira
+instagram: https://instagram.com/invoirainc
 logohandle: invoira
 sort: invoira
 title: invoira
-twitter: invoirainc
-website: 'https://invoira.com/'
+twitter: https://x.com/invoirainc
+website: https://invoira.com/
 ---

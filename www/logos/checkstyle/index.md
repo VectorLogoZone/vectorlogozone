@@ -1,8 +1,8 @@
 ---
-github: checkstyle/checkstyle
+git: https://github.com/checkstyle/checkstyle
 logohandle: checkstyle
 sort: checkstyle
 title: Checkstyle
-twitter: checkstyle_java
-website: 'https://checkstyle.org/'
+twitter: https://x.com/checkstyle_java
+website: https://checkstyle.org/
 ---

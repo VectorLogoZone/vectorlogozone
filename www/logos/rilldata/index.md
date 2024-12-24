@@ -1,10 +1,10 @@
 ---
-github: rilldata/rill-developer
-linkedin: 'https://linkedin.com/company/rilldata'
+git: https://github.com/rilldata/rill-developer
+linkedin: https://linkedin.com/company/rilldata
 logohandle: rilldata
 sort: rill
 title: Rill
-twitter: RillData
-website: 'https://www.rilldata.com/'
-youtube: 'https://youtube.com/channel/UCm5IhMDwKVNL2ALpDOfMjBA'
+twitter: https://x.com/RillData
+website: https://www.rilldata.com/
+youtube: https://youtube.com/channel/UCm5IhMDwKVNL2ALpDOfMjBA
 ---

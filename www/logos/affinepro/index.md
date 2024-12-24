@@ -1,9 +1,9 @@
 ---
-github: toeverything/AFFiNE
+git: https://github.com/toeverything/AFFiNE
 logohandle: affinepro
 sort: affine
 title: AFFiNE
-twitter: AffineOfficial
-website: 'https://affine.pro/'
-youtube: 'https://youtube.com/@affinepro'
+twitter: https://x.com/AffineOfficial
+website: https://affine.pro/
+youtube: https://youtube.com/@affinepro
 ---

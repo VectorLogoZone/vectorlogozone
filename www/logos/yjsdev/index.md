@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.kevinjahns.de/'
-github: yjs/yjs
+blog: https://blog.kevinjahns.de/
+git: https://github.com/yjs/yjs
 logohandle: yjsdev
 sort: yjs
 title: Yjs
-website: 'https://docs.yjs.dev/'
+website: https://docs.yjs.dev/
 ---

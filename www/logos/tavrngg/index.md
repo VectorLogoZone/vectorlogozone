@@ -2,6 +2,6 @@
 logohandle: tavrngg
 sort: tavrn
 title: Tavrn
-twitter: Tavrngg
-website: 'https://tavrn.gg/'
+twitter: https://x.com/Tavrngg
+website: https://tavrn.gg/
 ---

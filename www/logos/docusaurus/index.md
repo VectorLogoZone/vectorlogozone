@@ -1,6 +1,6 @@
 ---
 blog: http://docusaurus.io/blog
-github: facebook/docusaurus
+git: https://github.com/facebook/docusaurus
 guide: https://github.com/facebook/Docusaurus/tree/master/website/static/img
 images:
 - docusaurus-icon.svg

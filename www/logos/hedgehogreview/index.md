@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/TheHedgehogReview'
+facebook: https://facebook.com/TheHedgehogReview
 logohandle: hedgehogreview
 sort: hedgehogreview
 title: The Hedgehog Review
-twitter: hedgehogreview
-website: 'https://hedgehogreview.com/'
+twitter: https://x.com/hedgehogreview
+website: https://hedgehogreview.com/
 ---

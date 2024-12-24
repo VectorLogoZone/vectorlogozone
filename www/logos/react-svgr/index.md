@@ -1,7 +1,7 @@
 ---
-github: gregberge/svgr
+git: https://github.com/gregberge/svgr
 logohandle: react-svgr
 sort: svgr
 title: SVGR
-website: 'https://react-svgr.com/'
+website: https://react-svgr.com/
 ---

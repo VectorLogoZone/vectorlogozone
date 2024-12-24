@@ -1,11 +1,11 @@
 ---
-blog: 'https://scalingo.com/fr/blog'
-facebook: 'https://facebook.com/ScalingoHQ'
-github: Scalingo
-linkedin: 'https://linkedin.com/company/scalingo'
+blog: https://scalingo.com/fr/blog
+facebook: https://facebook.com/ScalingoHQ
+git: https://github.com/Scalingo
+linkedin: https://linkedin.com/company/scalingo
 logohandle: scalingo
 sort: scalingo
 title: Scalingo
-twitter: ScalingoHQ
-website: 'https://scalingo.com/'
+twitter: https://x.com/ScalingoHQ
+website: https://scalingo.com/
 ---

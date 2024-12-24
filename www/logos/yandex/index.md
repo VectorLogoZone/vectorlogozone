@@ -1,7 +1,7 @@
 ---
 blog: https://yandex.com/company/blog
 facebook: https://www.facebook.com/YandexCom
-github: yandex
+git: https://github.com/yandex
 images:
 - yandex-ar21.svg
 - yandex-icon.svg
@@ -11,7 +11,7 @@ sort: yandex
 tags:
 - social_network
 title: Yandex
-twitter: yandexcom
+twitter: https://x.com/yandexcom
 website: https://www.yandex.com/
 wikipedia: https://en.wikipedia.org/wiki/Yandex
 ---

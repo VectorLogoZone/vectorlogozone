@@ -8,7 +8,7 @@ linkedin: https://www.linkedin.com/company/codefresh/
 logohandle: codefreshio
 sort: codefresh
 title: codefresh
-twitter: codefresh-io
+twitter: https://x.com/codefresh-io
 website: https://codefresh.io/
 youtube: https://www.youtube.com/channel/UC9r94SY6BqN05kXPIHsDXPg
 ---

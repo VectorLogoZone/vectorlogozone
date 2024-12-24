@@ -2,6 +2,6 @@
 logohandle: rumblerun
 sort: rumble
 title: Rumble Network Discovery
-twitter: RumbleDiscovery
-website: 'https://www.rumble.run/'
+twitter: https://x.com/RumbleDiscovery
+website: https://www.rumble.run/
 ---

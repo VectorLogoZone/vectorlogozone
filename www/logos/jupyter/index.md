@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.jupyter.org/'
-github: jupyter
+blog: https://blog.jupyter.org/
+git: https://github.com/jupyter
 logohandle: jupyter
 sort: jupyter
 title: Jupyter
-twitter: ProjectJupyter
-website: 'http://jupyter.org/'
-wikipedia: 'https://en.wikipedia.org/wiki/Project_Jupyter'
+twitter: https://x.com/ProjectJupyter
+website: http://jupyter.org/
+wikipedia: https://en.wikipedia.org/wiki/Project_Jupyter
 ---

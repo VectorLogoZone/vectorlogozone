@@ -1,8 +1,8 @@
 ---
-instagram: 'https://instagram.com/geneva'
+instagram: https://instagram.com/geneva
 logohandle: geneva
 sort: geneva
 title: Geneva
-twitter: geneva
-website: 'https://geneva.com/'
+twitter: https://x.com/geneva
+website: https://geneva.com/
 ---

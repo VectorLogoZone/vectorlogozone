@@ -8,7 +8,7 @@ images:
 logohandle: cocacola
 sort: cocacola
 title: CocaCola
-twitter: CocaCola
+twitter: https://x.com/CocaCola
 website: https://www.coca-colacompany.com
 wikipedia: https://en.wikipedia.org/wiki/Coca-Cola
 ---

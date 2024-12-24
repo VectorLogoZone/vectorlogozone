@@ -1,13 +1,13 @@
 ---
 blog: http://leafletjs.com/blog.html
-github: Leaflet
+git: https://github.com/Leaflet
 images:
 - leafletjs-ar21.svg
 - leafletjs-icon.svg
 logohandle: leafletjs
 sort: leaflet
 title: Leaflet
-twitter: LeafletJS
+twitter: https://x.com/LeafletJS
 website: http://leafletjs.com/
 wikipedia: https://en.wikipedia.org/wiki/Leaflet_(software)
 ---

@@ -1,8 +1,8 @@
 ---
-github: helpyio/helpy
+git: https://github.com/helpyio/helpy
 logohandle: helpyio
 sort: helpy
 title: Helpy
-twitter: helpyapp
-website: 'https://helpy.io/'
+twitter: https://x.com/helpyapp
+website: https://helpy.io/
 ---

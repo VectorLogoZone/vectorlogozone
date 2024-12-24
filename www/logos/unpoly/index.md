@@ -1,8 +1,8 @@
 ---
-github: unpoly/unpoly
+git: https://github.com/unpoly/unpoly
 logohandle: unpoly
 sort: unpoly
 title: Unpoly
-twitter: unpolyjs
-website: 'https://unpoly.com/'
+twitter: https://x.com/unpolyjs
+website: https://unpoly.com/
 ---

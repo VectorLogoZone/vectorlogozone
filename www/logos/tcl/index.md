@@ -2,7 +2,7 @@
 font:
   myfonts: http://www.myfonts.com/fonts/bitstream/atf-bodoni/bodoni-book/
   name: Bodoni Book
-github: tcltk
+git: https://github.com/tcltk
 images:
 - tcl-ar21.svg
 - tcl-horizontal.svg

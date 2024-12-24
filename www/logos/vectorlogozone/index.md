@@ -1,10 +1,11 @@
 ---
-colors: ['#1D8286']
+colors:
+- '#1D8286'
 facebook: https://www.facebook.com/VectorLogoZone/
 font:
   google: https://fonts.google.com/specimen/Roboto
   name: Roboto
-github: VectorLogoZone
+git: https://github.com/VectorLogoZone
 images:
 - vectorlogozone-icon.svg
 - vectorlogozone-tile.svg
@@ -16,6 +17,6 @@ tags:
 - graphics
 - logos
 title: VectorLogo.Zone
-twitter: VectorLogoZone
+twitter: https://x.com/VectorLogoZone
 website: https://www.vectorlogo.zone/
 ---

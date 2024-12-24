@@ -1,7 +1,7 @@
 ---
-github: scratchdata/scratchdata
+git: https://github.com/scratchdata/scratchdata
 logohandle: scratchdata
 sort: scratchdata
 title: Scratch Data
-website: 'https://www.scratchdata.com/'
+website: https://www.scratchdata.com/
 ---

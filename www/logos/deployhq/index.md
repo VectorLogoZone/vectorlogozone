@@ -1,8 +1,8 @@
 ---
-instagram: 'https://instagram.com/atechmedia'
+instagram: https://instagram.com/atechmedia
 logohandle: deployhq
 sort: deployhq
 title: DeployHQ
-twitter: deployhq
-website: 'https://www.deployhq.com/'
+twitter: https://x.com/deployhq
+website: https://www.deployhq.com/
 ---

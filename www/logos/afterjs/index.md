@@ -1,8 +1,8 @@
 ---
-github: jaredpalmer/after.js
+git: https://github.com/jaredpalmer/after.js
 logohandle: afterjs
 sort: afterjs
 title: After.js
-twitter: jaredpalmer
-website: 'https://www.npmjs.com/package/@jaredpalmer/after'
+twitter: https://x.com/jaredpalmer
+website: https://www.npmjs.com/package/@jaredpalmer/after
 ---

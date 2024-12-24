@@ -1,9 +1,9 @@
 ---
-github: kitlang/kit
-gitter: 'https://gitter.im/kitlang/kit'
+git: https://github.com/kitlang/kit
+gitter: https://gitter.im/kitlang/kit
 logohandle: kitlang
 sort: kit
 title: Kit
-twitter: kitlanguage
-website: 'https://www.kitlang.org/'
+twitter: https://x.com/kitlanguage
+website: https://www.kitlang.org/
 ---

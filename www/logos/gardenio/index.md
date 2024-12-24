@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/garden-io'
-github: garden-io/garden
+blog: https://medium.com/garden-io
+git: https://github.com/garden-io/garden
 logohandle: gardenio
 sort: garden
 title: Garden.IO
-twitter: garden_io
-website: 'https://garden.io/'
+twitter: https://x.com/garden_io
+website: https://garden.io/
 ---

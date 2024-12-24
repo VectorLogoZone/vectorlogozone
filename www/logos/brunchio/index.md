@@ -1,7 +1,7 @@
 ---
-github: brunch/brunch
+git: https://github.com/brunch/brunch
 logohandle: brunchio
 sort: brunch
 title: Brunch
-website: 'https://brunch.io/'
+website: https://brunch.io/
 ---

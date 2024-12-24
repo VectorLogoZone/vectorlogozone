@@ -1,6 +1,6 @@
 ---
 blog: http://blog.atom.io/
-github: atom/atom
+git: https://github.com/atom/atom
 images:
 - atom_io-icon.svg
 - atom_io-ar21.svg
@@ -9,7 +9,7 @@ sort: atomeditor
 tags:
 - text_editor
 title: Atom Editor
-twitter: AtomEditor
+twitter: https://x.com/AtomEditor
 website: https://atom.io/
 wikipedia: https://en.wikipedia.org/wiki/Atom_(text_editor)
 ---

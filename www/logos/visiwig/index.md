@@ -2,6 +2,6 @@
 logohandle: visiwig
 sort: visiwig
 title: VISIWIG
-twitter: MattVisiwig
-website: 'https://www.visiwig.com/'
+twitter: https://x.com/MattVisiwig
+website: https://www.visiwig.com/
 ---

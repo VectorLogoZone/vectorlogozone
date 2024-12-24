@@ -2,6 +2,6 @@
 logohandle: rosieland
 sort: rosieland
 title: Rosieland
-twitter: rosielandhq
-website: 'https://rosie.land/'
+twitter: https://x.com/rosielandhq
+website: https://rosie.land/
 ---

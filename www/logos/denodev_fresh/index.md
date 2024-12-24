@@ -1,7 +1,7 @@
 ---
-github: lucacasonato/fresh
+git: https://github.com/lucacasonato/fresh
 logohandle: denodev_fresh
 sort: fresh
 title: fresh
-website: 'https://fresh.deno.dev/'
+website: https://fresh.deno.dev/
 ---

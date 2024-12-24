@@ -1,9 +1,9 @@
 ---
-github: supabase
+git: https://github.com/supabase
 guide: https://supabase.com/brand-assets
 logohandle: supabase
 sort: supabase
 title: Supabase
-twitter: supabase
-website: 'https://supabase.com/'
+twitter: https://x.com/supabase
+website: https://supabase.com/
 ---

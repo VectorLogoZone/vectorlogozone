@@ -1,7 +1,7 @@
 ---
-github: blockdiag/blockdiag
+git: https://github.com/blockdiag/blockdiag
 logohandle: krokiio
 sort: kroki
 title: Kroki
-website: 'https://kroki.io/'
+website: https://kroki.io/
 ---

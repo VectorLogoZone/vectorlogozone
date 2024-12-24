@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/hiveteams'
-github: googleanalytics/autotrack
-linkedin: 'https://linkedin.com/company/hivetechnology'
+facebook: https://facebook.com/hiveteams
+git: https://github.com/googleanalytics/autotrack
+linkedin: https://linkedin.com/company/hivetechnology
 logohandle: hive
 sort: hive
 title: Hive
-twitter: hive
-website: 'https://hive.com/'
+twitter: https://x.com/hive
+website: https://hive.com/
 ---

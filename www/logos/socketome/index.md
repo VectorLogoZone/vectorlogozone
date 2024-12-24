@@ -1,7 +1,7 @@
 ---
-github: ratchetphp
+git: https://github.com/ratchetphp
 logohandle: socketome
 sort: ratchet
 title: Ratchet
-website: 'http://socketo.me/'
+website: http://socketo.me/
 ---

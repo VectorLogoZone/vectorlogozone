@@ -1,8 +1,8 @@
 ---
-github: mindspore-ai/mindspore
+git: https://github.com/mindspore-ai/mindspore
 logohandle: mindsporecn
 sort: mindspore
 title: MindSpore
-website: 'https://www.mindspore.cn/en/'
-wikipedia: 'https://en.wikipedia.org/wiki/MindSpore'
+website: https://www.mindspore.cn/en/
+wikipedia: https://en.wikipedia.org/wiki/MindSpore
 ---

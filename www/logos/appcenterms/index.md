@@ -5,6 +5,6 @@ font:
 logohandle: appcenterms
 sort: appcenter
 title: App Center
-twitter: VSAppCenter
-website: 'https://appcenter.ms/'
+twitter: https://x.com/VSAppCenter
+website: https://appcenter.ms/
 ---

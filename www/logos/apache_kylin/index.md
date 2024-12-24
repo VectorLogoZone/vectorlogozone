@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/kylinio'
-github: apache/kylin
+facebook: https://facebook.com/kylinio
+git: https://github.com/apache/kylin
 logohandle: apache_kylin
 sort: kylin
 tags:
 - apache
 title: Apache Kylin
-twitter: apachekylin
-website: 'http://kylin.apache.org/'
+twitter: https://x.com/apachekylin
+website: http://kylin.apache.org/
 ---

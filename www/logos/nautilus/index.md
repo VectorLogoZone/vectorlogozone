@@ -1,8 +1,8 @@
 ---
-facebook: 'http://facebook.com/NautilusMag'
+facebook: http://facebook.com/NautilusMag
 logohandle: nautilus
 sort: nautilus
 title: Nautilus
-twitter: NautilusMag
-website: 'https://nautil.us/'
+twitter: https://x.com/NautilusMag
+website: https://nautil.us/
 ---

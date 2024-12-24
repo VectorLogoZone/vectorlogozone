@@ -1,8 +1,8 @@
 ---
-github: darkreader/darkreader
+git: https://github.com/darkreader/darkreader
 logohandle: darkreader
 sort: darkreader
 title: Dark Reader
-twitter: darkreaderapp
-website: 'https://darkreader.org/'
+twitter: https://x.com/darkreaderapp
+website: https://darkreader.org/
 ---

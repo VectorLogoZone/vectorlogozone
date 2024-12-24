@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.platformatic.dev/'
-github: platformatic
-linkedin: 'https://linkedin.com/company/platformatic'
+blog: https://blog.platformatic.dev/
+git: https://github.com/platformatic
+linkedin: https://linkedin.com/company/platformatic
 logohandle: platformaticdev
 sort: platformatic
 title: Platformatic
-twitter: platformatic
-website: 'https://platformatic.dev/'
+twitter: https://x.com/platformatic
+website: https://platformatic.dev/
 ---

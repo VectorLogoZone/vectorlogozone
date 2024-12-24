@@ -6,6 +6,6 @@ linkedin: http://www.linkedin.com/company/2963249
 logohandle: affirm
 sort: affirm
 title: Affirm
-twitter: affirm
-website: 'https://www.affirm.com/'
+twitter: https://x.com/affirm
+website: https://www.affirm.com/
 ---

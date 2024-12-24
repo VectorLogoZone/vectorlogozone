@@ -1,8 +1,8 @@
 ---
-github: urlbox
+git: https://github.com/urlbox
 logohandle: urlbox
 sort: urlbox
 title: Urlbox
-twitter: urlboxhq
-website: 'https://urlbox.com/'
+twitter: https://x.com/urlboxhq
+website: https://urlbox.com/
 ---

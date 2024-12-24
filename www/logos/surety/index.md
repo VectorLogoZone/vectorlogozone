@@ -1,9 +1,9 @@
 ---
-blog: 'http://surety.com/blog'
-linkedin: 'http://linkedin.com/companies/surety'
+blog: http://surety.com/blog
+linkedin: http://linkedin.com/companies/surety
 logohandle: surety
 sort: surety
 title: Surety
-twitter: absoluteproof
-website: 'http://surety.com/'
+twitter: https://x.com/absoluteproof
+website: http://surety.com/
 ---

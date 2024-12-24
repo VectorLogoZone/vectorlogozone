@@ -1,8 +1,8 @@
 ---
-github: rescript-lang
+git: https://github.com/rescript-lang
 logohandle: rescript-lang
 sort: rescript-lang
 title: ReScript
-twitter: rescriptlang
-website: 'https://rescript-lang.org/'
+twitter: https://x.com/rescriptlang
+website: https://rescript-lang.org/
 ---

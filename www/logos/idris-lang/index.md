@@ -1,7 +1,7 @@
 ---
-github: idris-lang/Idris-dev
+git: https://github.com/idris-lang/Idris-dev
 logohandle: idris-lang
 sort: idris-lang
 title: Idris
-website: 'https://www.idris-lang.org/'
+website: https://www.idris-lang.org/
 ---

@@ -1,11 +1,11 @@
 ---
-blog: 'http://blog.honeyfi.com/'
-facebook: 'http://facebook.com/honeyfiapp'
-instagram: 'http://instagram.com/honeyfiapp'
+blog: http://blog.honeyfi.com/
+facebook: http://facebook.com/honeyfiapp
+instagram: http://instagram.com/honeyfiapp
 logohandle: honeyfi
-pinterest: 'https://pinterest.com/honeyfiapp'
+pinterest: https://pinterest.com/honeyfiapp
 sort: honeyfi
 title: Honeyfi
-twitter: honeyfiapp
-website: 'https://www.honeyfi.com/'
+twitter: https://x.com/honeyfiapp
+website: https://www.honeyfi.com/
 ---

@@ -1,5 +1,5 @@
 ---
-github: less
+git: https://github.com/less
 logohandle: lesscss
 sort: less
 title: less

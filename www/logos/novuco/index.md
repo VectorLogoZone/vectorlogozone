@@ -1,8 +1,8 @@
 ---
-github: novuhq/novu
+git: https://github.com/novuhq/novu
 logohandle: novuco
 sort: novu
 title: Novu
-twitter: novuhq
-website: 'https://novu.co/'
+twitter: https://x.com/novuhq
+website: https://novu.co/
 ---

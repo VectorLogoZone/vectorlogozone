@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/xmltools'
+facebook: https://facebook.com/xmltools
 logohandle: json-buddy
 sort: json-buddy
 title: JSON Buddy
-twitter: xmlbuddy
-website: 'https://www.json-buddy.com/'
+twitter: https://x.com/xmlbuddy
+website: https://www.json-buddy.com/
 ---

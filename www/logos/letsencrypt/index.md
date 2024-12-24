@@ -1,6 +1,6 @@
 ---
 blog: https://letsencrypt.org/blog/
-github: letsencrypt
+git: https://github.com/letsencrypt
 guide: https://letsencrypt.org/trademarks/
 images:
 - letsencrypt-icon.svg
@@ -8,7 +8,7 @@ images:
 logohandle: letsencrypt
 sort: letsencrypt
 title: Let's Encrypt
-twitter: letsencrypt
+twitter: https://x.com/letsencrypt
 website: https://letsencrypt.org/
 wikipedia: https://en.wikipedia.org/wiki/Let%27s_Encrypt
 ---

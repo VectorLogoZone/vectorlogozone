@@ -1,8 +1,8 @@
 ---
-github: gradio-app/gradio
+git: https://github.com/gradio-app/gradio
 logohandle: gradioapp
 sort: gradio
 title: Gradio
-twitter: GradioML
-website: 'https://gradio.app/'
+twitter: https://x.com/GradioML
+website: https://gradio.app/
 ---

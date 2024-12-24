@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/webpack
-github: webpack/webpack
+git: https://github.com/webpack/webpack
 guide: https://webpack.js.org/branding/
 images:
 - js_webpack-icon.svg

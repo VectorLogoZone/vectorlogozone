@@ -7,6 +7,6 @@ images:
 logohandle: freepik
 sort: freepik
 title: freepik
-twitter: Freepik_Vectors
+twitter: https://x.com/Freepik_Vectors
 website: https://www.freepik.com/
 ---

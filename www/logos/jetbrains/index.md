@@ -1,7 +1,7 @@
 ---
 blog: https://blog.jetbrains.com/
 facebook: https://www.facebook.com/JetBrains
-github: JetBrains
+git: https://github.com/JetBrains
 googleplus: https://plus.google.com/+jetbrains
 guide: https://www.jetbrains.com/company/brand/#section=images-logos
 images:
@@ -13,7 +13,7 @@ sort: jetbrains
 tags:
 - ide
 title: JetBrains
-twitter: jetbrains
+twitter: https://x.com/jetbrains
 website: http://www.jetbrains.com/
 wikipedia: https://en.wikipedia.org/wiki/JetBrains
 youtube: https://www.youtube.com/user/JetBrainsTV

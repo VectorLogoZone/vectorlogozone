@@ -1,7 +1,7 @@
 ---
-github: spotty-cloud/spotty
+git: https://github.com/spotty-cloud/spotty
 logohandle: spottycloud
 sort: spotty
 title: Spotty
-website: 'https://spotty.cloud/'
+website: https://spotty.cloud/
 ---

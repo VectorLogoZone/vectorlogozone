@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/aviaryplatform'
+linkedin: https://linkedin.com/company/aviaryplatform
 logohandle: aviaryplatform
 sort: aviaryplatform
 title: Aviary
-twitter: AviaryPlatform
-website: 'https://www.aviaryplatform.com/'
+twitter: https://x.com/AviaryPlatform
+website: https://www.aviaryplatform.com/
 ---

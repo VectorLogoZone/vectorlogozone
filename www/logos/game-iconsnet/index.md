@@ -2,6 +2,6 @@
 logohandle: game-iconsnet
 sort: game-icons
 title: Game-icons.net
-twitter: GameIcons
-website: 'https://game-icons.net/'
+twitter: https://x.com/GameIcons
+website: https://game-icons.net/
 ---

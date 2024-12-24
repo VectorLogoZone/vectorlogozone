@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/MuxHQ'
-instagram: 'https://instagram.com/muxhq'
-linkedin: 'https://linkedin.com/company/mux'
+facebook: https://facebook.com/MuxHQ
+instagram: https://instagram.com/muxhq
+linkedin: https://linkedin.com/company/mux
 logohandle: mux
 sort: mux
 title: Mux
-twitter: muxhq
-website: 'https://mux.com/'
+twitter: https://x.com/muxhq
+website: https://mux.com/
 ---

@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/runtrellis'
+linkedin: https://linkedin.com/company/runtrellis
 logohandle: runtrellis
 sort: trellis
 title: Trellis
-twitter: runtrellis
-website: 'https://runtrellis.com/'
+twitter: https://x.com/runtrellis
+website: https://runtrellis.com/
 ---

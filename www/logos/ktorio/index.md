@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.jetbrains.com/ktor'
-github: ktorio/ktor
+blog: https://blog.jetbrains.com/ktor
+git: https://github.com/ktorio/ktor
 logohandle: ktorio
 sort: ktor
 title: ktor
-twitter: jetbrainsktor
-website: 'https://ktor.io/'
+twitter: https://x.com/jetbrainsktor
+website: https://ktor.io/
 ---

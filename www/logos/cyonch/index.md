@@ -1,10 +1,10 @@
 ---
-blog: 'http://cyon.ch/blog'
-facebook: 'https://facebook.com/cyonhosting'
-instagram: 'https://instagram.com/cyon.ch'
+blog: http://cyon.ch/blog
+facebook: https://facebook.com/cyonhosting
+instagram: https://instagram.com/cyon.ch
 logohandle: cyonch
 sort: cyon
 title: Cyon
-twitter: cyon
-website: 'https://www.cyon.ch/'
+twitter: https://x.com/cyon
+website: https://www.cyon.ch/
 ---

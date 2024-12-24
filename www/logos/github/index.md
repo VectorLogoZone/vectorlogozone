@@ -5,7 +5,7 @@ font:
   name: Collegiate
   note: Free for personal use
   url: http://www.k-type.com/fonts/collegiate/
-github: github
+git: https://github.com/github
 guide: https://github.com/logos
 images:
 - github-ar21.svg
@@ -16,7 +16,7 @@ sort: github
 tags:
 - version_control
 title: Github
-twitter: github
+twitter: https://x.com/github
 website: https://github.com/
 wikipedia: https://en.wikipedia.org/wiki/GitHub
 ---

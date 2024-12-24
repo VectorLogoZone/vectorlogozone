@@ -1,8 +1,8 @@
 ---
-github: apex/apex
+git: https://github.com/apex/apex
 logohandle: apexrun
 sort: apexrun
 title: Apex
-twitter: tjholowaychuk
+twitter: https://x.com/tjholowaychuk
 website: http://apex.run/
 ---

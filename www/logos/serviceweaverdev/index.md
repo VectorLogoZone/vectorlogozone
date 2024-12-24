@@ -1,8 +1,8 @@
 ---
-github: ServiceWeaver/weaver
+git: https://github.com/ServiceWeaver/weaver
 logohandle: serviceweaverdev
 sort: serviceweaver
 title: Service Weaver
-twitter: serviceweaver
-website: 'https://serviceweaver.dev/'
+twitter: https://x.com/serviceweaver
+website: https://serviceweaver.dev/
 ---

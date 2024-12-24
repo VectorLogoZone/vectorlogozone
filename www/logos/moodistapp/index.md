@@ -1,8 +1,8 @@
 ---
-github: remvze/moodist
+git: https://github.com/remvze/moodist
 logohandle: moodistapp
 sort: moodist
 title: Moodist
-twitter: remvze
-website: 'https://moodist.app/'
+twitter: https://x.com/remvze
+website: https://moodist.app/
 ---

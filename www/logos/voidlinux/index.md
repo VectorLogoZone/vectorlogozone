@@ -1,8 +1,8 @@
 ---
-github: void-linux
+git: https://github.com/void-linux
 logohandle: voidlinux
 sort: voidlinux
 title: Void Linux
-twitter: VoidLinux
-website: 'https://voidlinux.org/'
+twitter: https://x.com/VoidLinux
+website: https://voidlinux.org/
 ---

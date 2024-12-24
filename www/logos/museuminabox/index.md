@@ -1,9 +1,9 @@
 ---
-blog: 'https://museuminabox.org/blog'
-facebook: 'https://facebook.com/hifrommuseuminabox'
+blog: https://museuminabox.org/blog
+facebook: https://facebook.com/hifrommuseuminabox
 logohandle: museuminabox
 sort: museuminabox
 title: Museum in a Box
-twitter: _museuminabox
-website: 'https://museuminabox.org/'
+twitter: https://x.com/_museuminabox
+website: https://museuminabox.org/
 ---

@@ -1,7 +1,7 @@
 ---
-github: thbar/kiba-common
+git: https://github.com/thbar/kiba-common
 logohandle: kiba-etl
 sort: kiba-etl
 title: Kiba ETL
-website: 'https://www.kiba-etl.org/'
+website: https://www.kiba-etl.org/
 ---

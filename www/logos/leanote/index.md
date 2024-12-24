@@ -1,8 +1,8 @@
 ---
-github: leanote/leanote
+git: https://github.com/leanote/leanote
 logohandle: leanote
 sort: leanote
 title: Leanote
-twitter: leanotecom
-website: 'http://leanote.org/'
+twitter: https://x.com/leanotecom
+website: http://leanote.org/
 ---

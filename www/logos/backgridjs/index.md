@@ -1,8 +1,8 @@
 ---
-github: wyuenho/backgrid
+git: https://github.com/wyuenho/backgrid
 logohandle: backgridjs
 sort: backgridjs
 title: Backgrid.js
-twitter: share
-website: 'https://backgridjs.com/'
+twitter: https://x.com/share
+website: https://backgridjs.com/
 ---

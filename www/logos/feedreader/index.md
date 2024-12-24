@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/FeedReaderOnline'
+facebook: https://facebook.com/FeedReaderOnline
 logohandle: feedreader
 sort: feedreader
 title: Feedreader
-twitter: FeedReaderOn
-website: 'https://feedreader.com/'
+twitter: https://x.com/FeedReaderOn
+website: https://feedreader.com/
 ---

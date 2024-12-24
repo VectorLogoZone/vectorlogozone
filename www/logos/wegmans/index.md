@@ -1,11 +1,11 @@
 ---
-facebook: 'https://facebook.com/Wegmans'
-instagram: 'https://instagram.com/wegmans'
+facebook: https://facebook.com/Wegmans
+instagram: https://instagram.com/wegmans
 logohandle: wegmans
-pinterest: 'https://pinterest.com/wegmans'
+pinterest: https://pinterest.com/wegmans
 sort: wegmans
 title: Wegmans
-twitter: wegmans
-website: 'https://www.wegmans.com/'
-youtube: 'https://youtube.com/user/wegmansfoodmarkets'
+twitter: https://x.com/wegmans
+website: https://www.wegmans.com/
+youtube: https://youtube.com/user/wegmansfoodmarkets
 ---

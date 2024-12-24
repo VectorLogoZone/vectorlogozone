@@ -1,5 +1,5 @@
 ---
-github: javaee/glassfish
+git: https://github.com/javaee/glassfish
 logohandle: javaee_glassfish
 sort: javaee_glassfish
 title: GlassFish

@@ -1,8 +1,8 @@
 ---
-github: lxqt
+git: https://github.com/lxqt
 logohandle: lxqt-project
 sort: lxqt
 title: LXQt
-twitter: lxqt_project
-website: 'https://lxqt-project.org/'
+twitter: https://x.com/lxqt_project
+website: https://lxqt-project.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: zurb/foundation
+git: https://github.com/zurb/foundation
 logohandle: getfoundation
 sort: foundation
 title: Foundation
-twitter: ZURBfoundation
-website: 'https://get.foundation/'
+twitter: https://x.com/ZURBfoundation
+website: https://get.foundation/
 ---

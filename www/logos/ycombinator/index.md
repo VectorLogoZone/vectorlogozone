@@ -2,7 +2,7 @@
 blog: http://www.ycombinator.com/resources/
 colors:
 - '#F26625'
-github: HackerNews
+git: https://github.com/HackerNews
 images:
 - ycombinator-ar21.svg
 - ycombinator-tile.svg
@@ -15,7 +15,7 @@ tags:
 - venture_capital
 - news
 title: Y Combinator
-twitter: ycombinator
+twitter: https://x.com/ycombinator
 website: http://www.ycombinator.com/
 wikipedia: https://en.wikipedia.org/wiki/Y_Combinator_(company)
 ---

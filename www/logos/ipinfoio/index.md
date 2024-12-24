@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.ipinfo.io/'
-facebook: 'https://facebook.com/ipinfoio'
-github: ipinfo
+blog: https://blog.ipinfo.io/
+facebook: https://facebook.com/ipinfoio
+git: https://github.com/ipinfo
 logohandle: ipinfoio
 sort: ipinfo
 title: IPinfo.io
-twitter: ipinfoio
-website: 'https://ipinfo.io/'
+twitter: https://x.com/ipinfoio
+website: https://ipinfo.io/
 ---

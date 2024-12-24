@@ -1,8 +1,8 @@
 ---
-github: tgriesser/knex
+git: https://github.com/tgriesser/knex
 logohandle: knexjs
 sort: knexjs
 title: Knex.js
-twitter: tgriesser
-website: 'http://knexjs.org/'
+twitter: https://x.com/tgriesser
+website: http://knexjs.org/
 ---

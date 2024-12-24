@@ -1,7 +1,7 @@
 ---
-github: cloud-agnost/agnost-gitops
+git: https://github.com/cloud-agnost/agnost-gitops
 logohandle: agnostdev
 sort: agnost
 title: Agnost
-website: 'https://agnost.dev/'
+website: https://agnost.dev/
 ---

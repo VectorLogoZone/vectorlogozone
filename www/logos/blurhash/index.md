@@ -1,7 +1,7 @@
 ---
-github: woltapp/blurhash
+git: https://github.com/woltapp/blurhash
 logohandle: blurhash
 sort: blurhash
 title: BlurHash
-website: 'https://blurha.sh/'
+website: https://blurha.sh/
 ---

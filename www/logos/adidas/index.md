@@ -8,7 +8,7 @@ images:
 logohandle: adidas
 sort: adidas
 title: Adidas
-twitter: adidas
+twitter: https://x.com/adidas
 website: https://www.adidas.com/us
 wikipedia: https://en.wikipedia.org/wiki/Adidas
 ---

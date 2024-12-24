@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/useloom'
+facebook: https://facebook.com/useloom
 logohandle: loom
 sort: loom
 title: Loom
-twitter: loom
-website: 'https://www.loom.com/'
+twitter: https://x.com/loom
+website: https://www.loom.com/
 ---

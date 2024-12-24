@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/otechie'
+linkedin: https://linkedin.com/company/otechie
 logohandle: otechie
 sort: otechie
 title: Otechie
-twitter: otechie
-website: 'https://otechie.com/'
+twitter: https://x.com/otechie
+website: https://otechie.com/
 ---

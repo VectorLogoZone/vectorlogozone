@@ -1,7 +1,7 @@
 ---
-github: Tencent/omi
+git: https://github.com/Tencent/omi
 logohandle: omijs
 sort: omijs
 title: omi.js
-website: 'http://omijs.org/'
+website: http://omijs.org/
 ---

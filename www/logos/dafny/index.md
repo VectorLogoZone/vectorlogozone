@@ -1,8 +1,8 @@
 ---
-blog: 'https://dafny.org/blog'
-github: dafny-lang/dafny
+blog: https://dafny.org/blog
+git: https://github.com/dafny-lang/dafny
 logohandle: dafny
 sort: dafny
 title: Dafny
-website: 'https://dafny.org/'
+website: https://dafny.org/
 ---

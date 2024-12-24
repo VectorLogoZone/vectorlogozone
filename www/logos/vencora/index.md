@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/vencoragroup'
+linkedin: https://linkedin.com/company/vencoragroup
 logohandle: vencora
 sort: vencora
 title: Vencora
-twitter: vencoragroup
-website: 'https://www.vencora.com/'
+twitter: https://x.com/vencoragroup
+website: https://www.vencora.com/
 ---

@@ -5,6 +5,6 @@ linkedin: https://linkedin.com/company/appdome
 logohandle: appdome
 sort: appdome
 title: Appdome
-twitter: App_Dome
+twitter: https://x.com/App_Dome
 website: https://www.appdome.com/
 ---

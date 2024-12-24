@@ -1,10 +1,10 @@
 ---
 font:
-  name: Bitter Bold Italic 
   google: https://fonts.google.com/specimen/Bitter
-github: redirect2me/resolvers
+  name: Bitter Bold Italic
+git: https://github.com/redirect2me/resolvers
 logohandle: resolvers
 sort: resolvers
 title: Resolve.rs
-website: 'https://resolve.rs/'
+website: https://resolve.rs/
 ---

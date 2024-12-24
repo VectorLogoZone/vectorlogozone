@@ -2,6 +2,6 @@
 logohandle: pyqai
 sort: pyqai
 title: Pyq
-twitter: pyq_ai
-website: 'https://www.pyqai.com/'
+twitter: https://x.com/pyq_ai
+website: https://www.pyqai.com/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://ohdear.app/blog'
-facebook: 'https://facebook.com/OhDearApp'
+blog: https://ohdear.app/blog
+facebook: https://facebook.com/OhDearApp
 logohandle: ohdearapp
 sort: ohdear
 title: Oh Dear
-twitter: ohdearapp
-website: 'https://ohdear.app/'
+twitter: https://x.com/ohdearapp
+website: https://ohdear.app/
 ---

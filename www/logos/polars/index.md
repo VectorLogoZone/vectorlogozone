@@ -1,8 +1,8 @@
 ---
-github: pola-rs/polars
+git: https://github.com/pola-rs/polars
 logohandle: polars
 sort: polars
 title: Polars
-twitter: DataPolars
-website: 'https://www.pola.rs/'
+twitter: https://x.com/DataPolars
+website: https://www.pola.rs/
 ---

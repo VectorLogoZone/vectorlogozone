@@ -1,7 +1,7 @@
 ---
-github: calpaterson/csvbase
+git: https://github.com/calpaterson/csvbase
 logohandle: csvbase
 sort: csvbase
 title: csvbase
-website: 'https://csvbase.com/'
+website: https://csvbase.com/
 ---

@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/newscatcherapi'
+linkedin: https://linkedin.com/company/newscatcherapi
 logohandle: newscatcherapi
 sort: newscatcherapi
 title: NewsCatcher
-twitter: newscatcherapi
-website: 'https://www.newscatcherapi.com/'
+twitter: https://x.com/newscatcherapi
+website: https://www.newscatcherapi.com/
 ---

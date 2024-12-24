@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.gitea.io/'
-github: go-gitea
+blog: https://blog.gitea.io/
+git: https://github.com/go-gitea
 logohandle: giteaio
 sort: gitea
 title: Gitea
-website: 'https://gitea.io/en-us/'
+website: https://gitea.io/en-us/
 ---

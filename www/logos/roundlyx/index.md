@@ -1,8 +1,8 @@
 ---
-blog: 'https://roundlyx.com/blog'
+blog: https://roundlyx.com/blog
 logohandle: roundlyx
 sort: roundlyx
 title: RoundlyX
-twitter: roundlyx
-website: 'https://roundlyx.com/'
+twitter: https://x.com/roundlyx
+website: https://roundlyx.com/
 ---

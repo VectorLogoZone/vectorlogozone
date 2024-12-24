@@ -1,7 +1,7 @@
 ---
-github: loglib/loglib
+git: https://github.com/loglib/loglib
 logohandle: loglibio
 sort: loglib
 title: LOGLIB
-website: 'https://www.loglib.io/'
+website: https://www.loglib.io/
 ---

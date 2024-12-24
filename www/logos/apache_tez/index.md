@@ -4,6 +4,6 @@ sort: tez
 tags:
 - apache
 title: Apache Tez
-twitter: ApacheTez
-website: 'https://tez.apache.org/'
+twitter: https://x.com/ApacheTez
+website: https://tez.apache.org/
 ---

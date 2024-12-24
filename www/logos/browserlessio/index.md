@@ -1,9 +1,9 @@
 ---
-blog: 'https://docs.browserless.io/blog/'
-github: joelgriffith/browserless
+blog: https://docs.browserless.io/blog/
+git: https://github.com/joelgriffith/browserless
 logohandle: browserlessio
 sort: browserless
 title: browserless
-twitter: browserless
-website: 'https://www.browserless.io/'
+twitter: https://x.com/browserless
+website: https://www.browserless.io/
 ---

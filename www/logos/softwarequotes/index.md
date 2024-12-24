@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/SoftwareQuotes'
+facebook: https://facebook.com/SoftwareQuotes
 logohandle: softwarequotes
 sort: softwarequotes
 title: Software Quotes
-twitter: SoftwareQuotes
-website: 'https://softwarequotes.com/'
+twitter: https://x.com/SoftwareQuotes
+website: https://softwarequotes.com/
 ---

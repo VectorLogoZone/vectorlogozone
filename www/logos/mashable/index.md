@@ -11,7 +11,7 @@ pinterest: https://www.pinterest.com/mashable/
 sort: mashable
 title: Mashable
 tumblr: http://mashable.tumblr.com/
-twitter: mashable
+twitter: https://x.com/mashable
 vine: https://vine.co/mashable
 website: https://mashable.com/
 wikipedia: https://en.wikipedia.org/wiki/Mashable

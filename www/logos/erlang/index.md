@@ -3,7 +3,7 @@ blog: http://www.erlang.org/news
 font:
   myfonts: http://www.myfonts.com/fonts/urw/futura/sctdem/
   name: Futura SC Demi
-github: erlang
+git: https://github.com/erlang
 images:
 - erlang-vertical.svg
 - erlang-horizontal.svg
@@ -15,7 +15,7 @@ sort: erlang
 tags:
 - programming_language
 title: Erlang
-twitter: erlang_org
+twitter: https://x.com/erlang_org
 website: http://www.erlang.org/
 wikipedia: https://en.wikipedia.org/wiki/Erlang_(programming_language)
 ---

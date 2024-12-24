@@ -1,9 +1,9 @@
 ---
-github: dcos
+git: https://github.com/dcos
 logohandle: dcosio
 sort: dcos
 title: DC/OS
-twitter: dcos
-website: 'https://dcos.io/'
-wikipedia: 'https://en.wikipedia.org/wiki/Mesosphere,_Inc.#Datacenter_Operating_System'
+twitter: https://x.com/dcos
+website: https://dcos.io/
+wikipedia: https://en.wikipedia.org/wiki/Mesosphere,_Inc.#Datacenter_Operating_System
 ---

@@ -1,8 +1,8 @@
 ---
-github: testcontainers
+git: https://github.com/testcontainers
 logohandle: testcontainers
 sort: testcontainers
 title: Testcontainers
-twitter: testcontainers
-website: 'https://testcontainers.com/'
+twitter: https://x.com/testcontainers
+website: https://testcontainers.com/
 ---

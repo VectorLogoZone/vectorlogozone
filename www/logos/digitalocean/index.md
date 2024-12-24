@@ -1,11 +1,12 @@
 ---
 blog: https://blog.digitalocean.com/
-colors: ['#0080FF']
+colors:
+- '#0080FF'
 facebook: https://www.facebook.com/DigitalOceanCloudHosting
 font:
   name: Maax
   url: http://www.editions205.fr/maax_article_e.html
-github: digitalocean
+git: https://github.com/digitalocean
 guide: https://www.digitalocean.com/company/logos-and-badges/
 images:
 - digitalocean-tile.svg
@@ -19,7 +20,7 @@ tags:
 - hosting
 - cloud
 title: Digital Ocean
-twitter: digitalocean
+twitter: https://x.com/digitalocean
 website: https://www.digitalocean.com/
 wikipedia: https://en.wikipedia.org/wiki/DigitalOcean
 ---

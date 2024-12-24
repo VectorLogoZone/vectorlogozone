@@ -1,9 +1,9 @@
 ---
-blog: 'https://highspot.com/blog'
-linkedin: 'http://linkedin.com/company/highspot'
+blog: https://highspot.com/blog
+linkedin: http://linkedin.com/company/highspot
 logohandle: highspot
 sort: highspot
 title: Highspot
-twitter: highspot
-website: 'https://www.highspot.com/'
+twitter: https://x.com/highspot
+website: https://www.highspot.com/
 ---

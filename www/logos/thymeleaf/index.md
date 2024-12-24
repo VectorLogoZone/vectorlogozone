@@ -1,8 +1,8 @@
 ---
-github: thymeleaf
+git: https://github.com/thymeleaf
 logohandle: thymeleaf
 sort: thymeleaf
 title: Thymeleaf
-twitter: thymeleaf
-website: 'https://www.thymeleaf.org/'
+twitter: https://x.com/thymeleaf
+website: https://www.thymeleaf.org/
 ---

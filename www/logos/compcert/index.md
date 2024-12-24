@@ -1,7 +1,7 @@
 ---
-github: AbsInt/CompCert
+git: https://github.com/AbsInt/CompCert
 logohandle: compcert
 sort: compcert
 title: CompCert
-website: 'https://compcert.org/'
+website: https://compcert.org/
 ---

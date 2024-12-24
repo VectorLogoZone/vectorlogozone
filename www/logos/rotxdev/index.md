@@ -1,7 +1,7 @@
 ---
-github: candiddev/rot
+git: https://github.com/candiddev/rot
 logohandle: rotxdev
 sort: rotxdev
 title: Rot | Secure Secrets Management for the Modern Sysadmin
-website: 'https://rotx.dev/'
+website: https://rotx.dev/
 ---

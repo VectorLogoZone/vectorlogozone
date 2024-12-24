@@ -1,8 +1,8 @@
 ---
-blog: 'https://thesample.ai/blog/'
+blog: https://thesample.ai/blog/
 logohandle: thesampleai
 sort: thesample
 title: The Sample
-twitter: the_sample_umm
-website: 'https://thesample.ai/'
+twitter: https://x.com/the_sample_umm
+website: https://thesample.ai/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://safetydetectives.com/blog/'
-facebook: 'https://facebook.com/safetydetectives'
+blog: https://safetydetectives.com/blog/
+facebook: https://facebook.com/safetydetectives
 logohandle: safetydetectives
 sort: safetydetectives
 title: Safety Detectives
-twitter: safetydet
-website: 'https://www.safetydetectives.com/'
+twitter: https://x.com/safetydet
+website: https://www.safetydetectives.com/
 ---

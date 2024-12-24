@@ -2,6 +2,6 @@
 logohandle: digitalcouragede
 sort: digitalcourage
 title: Digitalcourage
-twitter: digitalcourage
-website: 'https://digitalcourage.de/'
+twitter: https://x.com/digitalcourage
+website: https://digitalcourage.de/
 ---

@@ -1,8 +1,8 @@
 ---
-github: seedstack
+git: https://github.com/seedstack
 logohandle: seedstack
 sort: seedstack
 title: SeedStack
-twitter: seedstack
-website: 'http://seedstack.org/'
+twitter: https://x.com/seedstack
+website: http://seedstack.org/
 ---

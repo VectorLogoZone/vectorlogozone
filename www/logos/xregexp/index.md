@@ -2,7 +2,7 @@
 font:
   myfonts: http://www.myfonts.com/fonts/ascender/cambria/regular/
   name: Cambria Regular
-github: slevithan/xregexp
+git: https://github.com/slevithan/xregexp
 images:
 - xregexp-vertical.svg
 - xregexp-ar21.svg

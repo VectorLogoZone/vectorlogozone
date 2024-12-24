@@ -1,7 +1,7 @@
 ---
-github: Shopify/liquid
+git: https://github.com/Shopify/liquid
 logohandle: liquidmarkup
 sort: liquidmarkup
 title: Liquid
-website: 'http://liquidmarkup.org/'
+website: http://liquidmarkup.org/
 ---

@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/hudson-rock'
+linkedin: https://linkedin.com/company/hudson-rock
 logohandle: hudsonrock
 sort: hudsonrock
 title: Hudson Rock
-twitter: RockHudsonRock
-website: 'https://www.hudsonrock.com/'
+twitter: https://x.com/RockHudsonRock
+website: https://www.hudsonrock.com/
 ---

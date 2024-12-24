@@ -1,8 +1,8 @@
 ---
-github: tezos/tezos
+git: https://github.com/tezos/tezos
 logohandle: tezos
 sort: tezos
 title: Tezos
-twitter: tezos
-website: 'https://tezos.com/'
+twitter: https://x.com/tezos
+website: https://tezos.com/
 ---

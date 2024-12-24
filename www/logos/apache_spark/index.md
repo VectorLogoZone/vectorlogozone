@@ -1,5 +1,5 @@
 ---
-github: amplab/spark-ec2
+git: https://github.com/amplab/spark-ec2
 logohandle: apache_spark
 sort: apache_spark
 tags:

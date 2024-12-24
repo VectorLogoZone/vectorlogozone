@@ -1,7 +1,7 @@
 ---
-github: kreativekorp/vexillo
+git: https://github.com/kreativekorp/vexillo
 logohandle: kreativekorp_vexillo
 sort: vexillo
 title: Vexillo
-website: 'https://www.kreativekorp.com/app/vexillo/'
+website: https://www.kreativekorp.com/app/vexillo/
 ---

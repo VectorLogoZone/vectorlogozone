@@ -1,8 +1,8 @@
 ---
-github: trunk-io
+git: https://github.com/trunk-io
 logohandle: trunkio
 sort: trunk
 title: Trunk
-twitter: trunkio
-website: 'https://www.trunk.io/'
+twitter: https://x.com/trunkio
+website: https://www.trunk.io/
 ---

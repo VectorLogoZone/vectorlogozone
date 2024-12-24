@@ -9,6 +9,6 @@ tags:
 - office_supplies
 - labels
 title: Avery
-twitter: AveryProducts
+twitter: https://x.com/AveryProducts
 website: https://www.avery.com/
 ---

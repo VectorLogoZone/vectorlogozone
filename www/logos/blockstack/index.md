@@ -1,10 +1,10 @@
 ---
-blog: 'http://blog.blockstack.org/'
-github: blockstack
+blog: http://blog.blockstack.org/
+git: https://github.com/blockstack
 logohandle: blockstack
 sort: blockstack
 title: Blockstack
-twitter: blockstack
-website: 'https://blockstack.org/'
-youtube: 'https://youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ'
+twitter: https://x.com/blockstack
+website: https://blockstack.org/
+youtube: https://youtube.com/channel/UC3J2iHnyt2JtOvtGVf_jpHQ
 ---

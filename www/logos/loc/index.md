@@ -1,7 +1,7 @@
 ---
 blog: https://www.loc.gov/rss/
 facebook: https://www.facebook.com/libraryofcongress/
-github: LibraryOfCongress
+git: https://github.com/LibraryOfCongress
 images:
 - loc-icon.svg
 - loc-ar21.svg
@@ -11,7 +11,7 @@ tags:
 - digital_preservation
 - usa
 title: Library of Congress
-twitter: librarycongress
+twitter: https://x.com/librarycongress
 website: https://www.loc.gov/
 wikipedia: https://en.wikipedia.org/wiki/Library_of_Congress
 ---

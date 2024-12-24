@@ -1,7 +1,7 @@
 ---
-github: uiloos/uiloos
+git: https://github.com/uiloos/uiloos
 logohandle: uiloosdev
 sort: uiloos
 title: uiloos
-website: 'https://www.uiloos.dev/'
+website: https://www.uiloos.dev/
 ---

@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/inkit'
-github: inkit
-linkedin: 'https://linkedin.com/company/inkit'
+facebook: https://facebook.com/inkit
+git: https://github.com/inkit
+linkedin: https://linkedin.com/company/inkit
 logohandle: inkit
 sort: inkit
 title: Inkit
-twitter: InkitHQ
-website: 'https://www.inkit.com/'
+twitter: https://x.com/InkitHQ
+website: https://www.inkit.com/
 ---

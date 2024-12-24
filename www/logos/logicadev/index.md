@@ -1,7 +1,7 @@
 ---
-github: EvgSkv/logica
+git: https://github.com/EvgSkv/logica
 logohandle: logicadev
 sort: logica
 title: Logica
-website: 'https://logica.dev/'
+website: https://logica.dev/
 ---

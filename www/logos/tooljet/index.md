@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.tooljet.io/'
-github: ToolJet/ToolJet
+blog: https://blog.tooljet.io/
+git: https://github.com/ToolJet/ToolJet
 logohandle: tooljet
 sort: tooljet
 title: ToolJet
-twitter: ToolJet
-website: 'https://tooljet.com/'
+twitter: https://x.com/ToolJet
+website: https://tooljet.com/
 ---

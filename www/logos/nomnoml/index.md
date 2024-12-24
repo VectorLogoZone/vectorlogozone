@@ -1,7 +1,7 @@
 ---
-github: skanaar/nomnoml
+git: https://github.com/skanaar/nomnoml
 logohandle: nomnoml
 sort: nomnoml
 title: nomnoml
-website: 'http://www.nomnoml.com/'
+website: http://www.nomnoml.com/
 ---

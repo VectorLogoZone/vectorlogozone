@@ -1,8 +1,8 @@
 ---
-github: outline
+git: https://github.com/outline
 logohandle: getoutline
 sort: outline
 title: Outline
-twitter: outlinewiki
-website: 'https://www.getoutline.com/'
+twitter: https://x.com/outlinewiki
+website: https://www.getoutline.com/
 ---

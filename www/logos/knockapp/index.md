@@ -1,9 +1,9 @@
 ---
-github: knocklabs
-linkedin: 'https://linkedin.com/company/knocklabs'
+git: https://github.com/knocklabs
+linkedin: https://linkedin.com/company/knocklabs
 logohandle: knockapp
 sort: knock
 title: Knock
-twitter: knocklabs
-website: 'https://knock.app/'
+twitter: https://x.com/knocklabs
+website: https://knock.app/
 ---

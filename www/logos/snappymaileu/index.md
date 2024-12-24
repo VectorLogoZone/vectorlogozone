@@ -1,7 +1,7 @@
 ---
-github: the-djmaze/snappymail
+git: https://github.com/the-djmaze/snappymail
 logohandle: snappymaileu
 sort: snappymail
 title: SnappyMail
-website: 'https://snappymail.eu/'
+website: https://snappymail.eu/
 ---

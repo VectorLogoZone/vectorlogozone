@@ -1,11 +1,11 @@
 ---
-blog: 'https://flinks.com/blog'
-facebook: 'https://facebook.com/flinksFinTech'
-github: flinkstech
-linkedin: 'https://linkedin.com/company/flinkstech'
+blog: https://flinks.com/blog
+facebook: https://facebook.com/flinksFinTech
+git: https://github.com/flinkstech
+linkedin: https://linkedin.com/company/flinkstech
 logohandle: flinks
 sort: flinks
 title: Flinks
-twitter: FlinksData
-website: 'https://flinks.com/'
+twitter: https://x.com/FlinksData
+website: https://flinks.com/
 ---

@@ -1,9 +1,9 @@
 ---
-github: finopsfoundation
-linkedin: 'https://linkedin.com/company/finops-foundation'
+git: https://github.com/finopsfoundation
+linkedin: https://linkedin.com/company/finops-foundation
 logohandle: finops
 sort: finops
 title: FinOps
-website: 'https://www.finops.org/'
-youtube: 'https://youtube.com/channel/UCyl26lvnoySlGWlF5oNHvYA'
+website: https://www.finops.org/
+youtube: https://youtube.com/channel/UCyl26lvnoySlGWlF5oNHvYA
 ---

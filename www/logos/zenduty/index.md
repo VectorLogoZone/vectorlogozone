@@ -1,12 +1,12 @@
 ---
-blog: 'https://blog.zenduty.com/'
-facebook: 'https://facebook.com/zendutyhq'
-github: zenduty
-linkedin: 'https://linkedin.com/company/zenduty'
+blog: https://blog.zenduty.com/
+facebook: https://facebook.com/zendutyhq
+git: https://github.com/zenduty
+linkedin: https://linkedin.com/company/zenduty
 logohandle: zenduty
 sort: zenduty
 title: Zenduty
-twitter: Zenduty
-website: 'https://www.zenduty.com/'
-youtube: 'https://youtube.com/@zenduty'
+twitter: https://x.com/Zenduty
+website: https://www.zenduty.com/
+youtube: https://youtube.com/@zenduty
 ---

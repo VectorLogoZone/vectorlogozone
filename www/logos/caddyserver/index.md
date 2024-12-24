@@ -1,9 +1,9 @@
 ---
-github: mholt/caddy
+git: https://github.com/mholt/caddy
 logohandle: caddyserver
 sort: caddyserver
 title: Caddy
-twitter: caddyserver
-website: 'https://caddyserver.com/'
-wikipedia: 'https://en.wikipedia.org/wiki/Caddy_(web_server)'
+twitter: https://x.com/caddyserver
+website: https://caddyserver.com/
+wikipedia: https://en.wikipedia.org/wiki/Caddy_(web_server)
 ---

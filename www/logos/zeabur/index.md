@@ -1,8 +1,8 @@
 ---
-github: zeabur
+git: https://github.com/zeabur
 logohandle: zeabur
 sort: zeabur
 title: Zeabur
-twitter: zeaburapp
-website: 'https://zeabur.com/'
+twitter: https://x.com/zeaburapp
+website: https://zeabur.com/
 ---

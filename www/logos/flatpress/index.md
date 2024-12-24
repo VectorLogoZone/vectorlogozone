@@ -1,8 +1,8 @@
 ---
-github: flatpressblog/flatpress
+git: https://github.com/flatpressblog/flatpress
 logohandle: flatpress
 sort: flatpress
 title: FlatPress
-twitter: FlatPress
-website: 'https://www.flatpress.org/'
+twitter: https://x.com/FlatPress
+website: https://www.flatpress.org/
 ---

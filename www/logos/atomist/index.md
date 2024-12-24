@@ -1,9 +1,8 @@
 ---
-github: atomist
+git: https://github.com/atomist
 logohandle: atomist
 sort: atomist
 title: Atomist
-twitter: atomist
-website: 'https://atomist.com/'
+twitter: https://x.com/atomist
+website: https://atomist.com/
 ---
-

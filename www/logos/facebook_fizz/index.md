@@ -1,9 +1,9 @@
 ---
-github: facebookincubator/fizz
+git: https://github.com/facebookincubator/fizz
 logohandle: facebook_fizz
 sort: fizz
 tags:
 - facebook
 title: Fizz
-website: 'https://github.com/facebookincubator/fizz'
+website: https://github.com/facebookincubator/fizz
 ---

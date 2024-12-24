@@ -1,8 +1,8 @@
 ---
-blog: 'https://docs.automq.com/blog'
-github: AutoMQ
+blog: https://docs.automq.com/blog
+git: https://github.com/AutoMQ
 logohandle: automq
 sort: automq
 title: AutoMQ
-website: 'https://www.automq.com/'
+website: https://www.automq.com/
 ---

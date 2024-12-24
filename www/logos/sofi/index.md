@@ -1,14 +1,14 @@
 ---
-facebook: 'https://facebook.com/SoFi'
-googleplus: 'https://plus.google.com/+SoFi'
-instagram: 'https://instagram.com/sofi'
-linkedin: 'https://linkedin.com/company/sofi'
+facebook: https://facebook.com/SoFi
+googleplus: https://plus.google.com/+SoFi
+instagram: https://instagram.com/sofi
+linkedin: https://linkedin.com/company/sofi
 logohandle: sofi
-pinterest: 'https://pinterest.com/sofiloans'
+pinterest: https://pinterest.com/sofiloans
 sort: sofi
 title: SoFi
-twitter: SoFi
-website: 'https://www.sofi.com/'
-wikipedia: 'https://en.wikipedia.org/wiki/SoFi'
-youtube: 'https://youtube.com/user/socialfinance220'
+twitter: https://x.com/SoFi
+website: https://www.sofi.com/
+wikipedia: https://en.wikipedia.org/wiki/SoFi
+youtube: https://youtube.com/user/socialfinance220
 ---

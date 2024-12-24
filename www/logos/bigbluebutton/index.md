@@ -1,11 +1,11 @@
 ---
-blog: 'https://bigbluebutton.org/blog'
-facebook: 'https://facebook.com/bigbluebutton'
-github: bigbluebutton
+blog: https://bigbluebutton.org/blog
+facebook: https://facebook.com/bigbluebutton
+git: https://github.com/bigbluebutton
 logohandle: bigbluebutton
 sort: bigbluebutton
 title: BigBlueButton
-twitter: bigbluebutton
-website: 'https://bigbluebutton.org/'
-youtube: 'https://youtube.com/user/bigbluebuttonshare'
+twitter: https://x.com/bigbluebutton
+website: https://bigbluebutton.org/
+youtube: https://youtube.com/user/bigbluebuttonshare
 ---

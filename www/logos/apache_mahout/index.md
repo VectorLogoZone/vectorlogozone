@@ -1,7 +1,7 @@
 ---
-github: apache/mahout
+git: https://github.com/apache/mahout
 logohandle: apache_mahout
 sort: mahout
 title: Mahout
-website: 'https://mahout.apache.org/'
+website: https://mahout.apache.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: lincolnloop
+git: https://github.com/lincolnloop
 logohandle: lincolnloop
 sort: lincolnloop
 title: Lincoln Loop
-twitter: lincolnloop
-website: 'https://lincolnloop.com/'
+twitter: https://x.com/lincolnloop
+website: https://lincolnloop.com/
 ---

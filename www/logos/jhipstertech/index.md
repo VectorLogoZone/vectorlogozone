@@ -1,9 +1,9 @@
 ---
-blog: 'https://developer.okta.com/blog/2019/05/23/java-microservices-spring-cloud-config'
-github: jhipster
+blog: https://developer.okta.com/blog/2019/05/23/java-microservices-spring-cloud-config
+git: https://github.com/jhipster
 logohandle: jhipstertech
 sort: jhipster
 title: JHipster
-twitter: java_hipster
-website: 'https://www.jhipster.tech/'
+twitter: https://x.com/java_hipster
+website: https://www.jhipster.tech/
 ---

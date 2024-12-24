@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.cyberduck.io/'
+blog: https://blog.cyberduck.io/
 logohandle: cyberduckio
 sort: cyberduck
 title: Cyberduck
-twitter: cyberduckapp
-website: 'https://cyberduck.io/'
+twitter: https://x.com/cyberduckapp
+website: https://cyberduck.io/
 ---

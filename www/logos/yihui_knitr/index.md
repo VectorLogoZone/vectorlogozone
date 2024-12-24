@@ -1,7 +1,7 @@
 ---
-github: yihui/knitr
+git: https://github.com/yihui/knitr
 logohandle: yihui_knitr
 sort: knitr
 title: knitr
-website: 'https://yihui.org/knitr/'
+website: https://yihui.org/knitr/
 ---

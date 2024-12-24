@@ -2,6 +2,6 @@
 logohandle: coil
 sort: coil
 title: Coil
-twitter: coil
-website: 'https://coil.com/'
+twitter: https://x.com/coil
+website: https://coil.com/
 ---

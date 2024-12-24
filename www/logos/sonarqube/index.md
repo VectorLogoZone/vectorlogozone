@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.sonarsource.com/'
-github: SonarSource/sonarqube
+blog: https://blog.sonarsource.com/
+git: https://github.com/SonarSource/sonarqube
 logohandle: sonarqube
 sort: sonarqube
 title: SonarQube
-twitter: sonarqube
-website: 'https://www.sonarqube.org/'
+twitter: https://x.com/sonarqube
+website: https://www.sonarqube.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: LayeredStudio
+git: https://github.com/LayeredStudio
 logohandle: layered
 sort: layered
 title: Layered
-twitter: LayeredAgency
-website: 'https://laye.red/'
+twitter: https://x.com/LayeredAgency
+website: https://laye.red/
 ---

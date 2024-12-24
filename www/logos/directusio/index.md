@@ -1,8 +1,8 @@
 ---
-github: directus/directus
+git: https://github.com/directus/directus
 logohandle: directusio
 sort: directus
 title: Directus
-twitter: directus
-website: 'https://directus.io/'
+twitter: https://x.com/directus
+website: https://directus.io/
 ---

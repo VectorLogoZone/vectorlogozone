@@ -1,9 +1,9 @@
 ---
-blog: 'https://honeycomb.io/blog'
-github: js-cookie/js-cookie
+blog: https://honeycomb.io/blog
+git: https://github.com/js-cookie/js-cookie
 logohandle: honeycombio
 sort: honeycomb
 title: Honeycomb
-twitter: honeycombio
-website: 'https://www.honeycomb.io/'
+twitter: https://x.com/honeycombio
+website: https://www.honeycomb.io/
 ---

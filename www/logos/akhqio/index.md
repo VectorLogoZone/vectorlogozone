@@ -1,7 +1,7 @@
 ---
-github: tchiotludo/akhq
+git: https://github.com/tchiotludo/akhq
 logohandle: akhqio
 sort: akhq
 title: AKHQ
-website: 'https://akhq.io/'
+website: https://akhq.io/
 ---

@@ -1,7 +1,7 @@
 ---
-github: skerkour/bloom
+git: https://github.com/skerkour/bloom
 logohandle: bloomsh
 sort: bloom
 title: Bloom
-website: 'https://bloom.sh/'
+website: https://bloom.sh/
 ---

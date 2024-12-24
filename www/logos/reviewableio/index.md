@@ -1,8 +1,8 @@
 ---
-blog: 'http://blog.reviewable.io/'
+blog: http://blog.reviewable.io/
 logohandle: reviewableio
 sort: reviewable
 title: Reviewable
-twitter: reviewableio
-website: 'https://reviewable.io/'
+twitter: https://x.com/reviewableio
+website: https://reviewable.io/
 ---

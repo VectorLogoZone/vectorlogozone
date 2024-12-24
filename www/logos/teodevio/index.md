@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.teodev.io/'
-github: teodevgroup/teo
+blog: https://blog.teodev.io/
+git: https://github.com/teodevgroup/teo
 logohandle: teodevio
 sort: teo
 title: TEO
-twitter: victorteokw
-website: 'https://teodev.io/'
+twitter: https://x.com/victorteokw
+website: https://teodev.io/
 ---

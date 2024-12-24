@@ -1,8 +1,8 @@
 ---
-github: unisonweb/unison
+git: https://github.com/unisonweb/unison
 logohandle: unisonweb
 sort: unisonweb
 title: Unison
-twitter: unisonweb
-website: 'http://unisonweb.org/'
+twitter: https://x.com/unisonweb
+website: http://unisonweb.org/
 ---

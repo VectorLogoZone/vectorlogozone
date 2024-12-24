@@ -1,7 +1,7 @@
 ---
-github: joy-framework/joy
+git: https://github.com/joy-framework/joy
 logohandle: swlkr_joy
 sort: joyframework
 title: Joy Framework
-website: 'https://joy.swlkr.com/'
+website: https://joy.swlkr.com/
 ---

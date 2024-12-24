@@ -1,9 +1,9 @@
 ---
-github: Infisical/infisical-cli
-linkedin: 'https://linkedin.com/company/infisical'
+git: https://github.com/Infisical/infisical-cli
+linkedin: https://linkedin.com/company/infisical
 logohandle: infisical
 sort: infisical
 title: Infisical
-twitter: infisical
-website: 'https://infisical.com/'
+twitter: https://x.com/infisical
+website: https://infisical.com/
 ---

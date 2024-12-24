@@ -1,9 +1,9 @@
 ---
-github: commercelayer
-linkedin: 'https://linkedin.com/company/commerce-layer'
+git: https://github.com/commercelayer
+linkedin: https://linkedin.com/company/commerce-layer
 logohandle: commercelayerio
 sort: commercelayer
 title: Commerce Layer
-twitter: commercelayer
-website: 'https://commercelayer.io/'
+twitter: https://x.com/commercelayer
+website: https://commercelayer.io/
 ---

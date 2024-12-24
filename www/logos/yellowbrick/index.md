@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/yellowbrickdata'
+linkedin: https://linkedin.com/company/yellowbrickdata
 logohandle: yellowbrick
 sort: yellowbrick
 title: Yellowbrick
-twitter: yellowbrickdata
-website: 'https://www.yellowbrick.com/'
+twitter: https://x.com/yellowbrickdata
+website: https://www.yellowbrick.com/
 ---

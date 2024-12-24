@@ -1,8 +1,8 @@
 ---
-github: lmstudio-ai
+git: https://github.com/lmstudio-ai
 logohandle: lmstudioai
 sort: lmstudio
 title: LM Studio
-twitter: LMStudioAI
-website: 'https://lmstudio.ai/'
+twitter: https://x.com/LMStudioAI
+website: https://lmstudio.ai/
 ---

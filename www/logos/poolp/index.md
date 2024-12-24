@@ -1,8 +1,8 @@
 ---
-github: poolpOrg
+git: https://github.com/poolpOrg
 logohandle: poolp
 sort: poolp
 title: Poolp
-twitter: poolpOrg
-website: 'https://poolp.org/'
+twitter: https://x.com/poolpOrg
+website: https://poolp.org/
 ---

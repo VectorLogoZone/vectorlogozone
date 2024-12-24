@@ -2,10 +2,10 @@
 blog: https://blogs.msdn.microsoft.com/dotnet/
 facebook: https://www.facebook.com/Dotnet
 font:
+  google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans
-  google: "https://fonts.google.com/specimen/Open+Sans"
-github: dotnet
-guide: "https://github.com/dotnet/brand"
+git: https://github.com/dotnet
+guide: https://github.com/dotnet/brand
 images:
 - dotnet-vertical.svg
 - dotnet-horizontal.svg
@@ -18,7 +18,7 @@ tags:
 - programming_language
 - programming_library
 title: Microsoft .Net
-twitter: dotnet
+twitter: https://x.com/dotnet
 website: https://dotnet.microsoft.com/
 wikipedia: https://en.wikipedia.org/wiki/.NET
 ---

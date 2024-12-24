@@ -1,8 +1,8 @@
 ---
-github: tauri-apps/tauri
+git: https://github.com/tauri-apps/tauri
 logohandle: tauristudio
 sort: tauri
 title: Tauri
-twitter: TauriApps
-website: 'https://tauri.studio/en/'
+twitter: https://x.com/TauriApps
+website: https://tauri.studio/en/
 ---

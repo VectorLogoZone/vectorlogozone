@@ -1,7 +1,7 @@
 ---
-github: drakkan/sftpgo
+git: https://github.com/drakkan/sftpgo
 logohandle: sftpgo
 sort: sftpgo
 title: SFTPGo
-website: 'https://sftpgo.com/'
+website: https://sftpgo.com/
 ---

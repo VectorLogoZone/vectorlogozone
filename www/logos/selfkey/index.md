@@ -1,13 +1,13 @@
 ---
-blog: 'https://selfkey.org/blog'
-facebook: 'https://facebook.com/SelfKeyHQ'
-github: SelfKeyFoundation
-instagram: 'https://instagram.com/SelfKey_Community'
-linkedin: 'https://linkedin.com/company/selfkey'
+blog: https://selfkey.org/blog
+facebook: https://facebook.com/SelfKeyHQ
+git: https://github.com/SelfKeyFoundation
+instagram: https://instagram.com/SelfKey_Community
+linkedin: https://linkedin.com/company/selfkey
 logohandle: selfkey
 sort: selfkey
 title: SelfKey
-twitter: selfkey
-website: 'https://selfkey.org/'
-youtube: 'https://youtube.com/@SelfKeyofficial'
+twitter: https://x.com/selfkey
+website: https://selfkey.org/
+youtube: https://youtube.com/@SelfKeyofficial
 ---

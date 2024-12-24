@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.getumbrel.com/'
-github: getumbrel/umbrel
+blog: https://blog.getumbrel.com/
+git: https://github.com/getumbrel/umbrel
 logohandle: umbrel
 sort: umbrel
 title: Umbrel
-twitter: getumbrel
-website: 'https://umbrel.com/'
+twitter: https://x.com/getumbrel
+website: https://umbrel.com/
 ---

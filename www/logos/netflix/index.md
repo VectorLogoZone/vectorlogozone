@@ -5,7 +5,7 @@ font:
   myfonts: https://www.myfonts.com/fonts/flat-it/bebas-neue/
   name: Bebas Neue
   note: pre-2014 font was Graphique
-github: netflix
+git: https://github.com/netflix
 guide: https://media.netflix.com/en/company-assets
 images:
 - netflix-icon.svg
@@ -15,7 +15,7 @@ instagram: https://www.instagram.com/netflix/
 logohandle: netflix
 sort: netflix
 title: Netflix
-twitter: netflix
+twitter: https://x.com/netflix
 website: https://www.netflix.com/
 wikipedia: https://en.wikipedia.org/wiki/Netflix
 ---

@@ -1,8 +1,8 @@
 ---
-github: farm-fe/farm
+git: https://github.com/farm-fe/farm
 logohandle: farmfe
 sort: farmfe
 title: Farm
-twitter: fe_farm
-website: 'https://www.farmfe.org/'
+twitter: https://x.com/fe_farm
+website: https://www.farmfe.org/
 ---

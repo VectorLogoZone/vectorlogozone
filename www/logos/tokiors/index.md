@@ -1,9 +1,9 @@
 ---
-blog: 'https://tokio.rs/blog/'
-github: tokio-rs/tokio
+blog: https://tokio.rs/blog/
+git: https://github.com/tokio-rs/tokio
 logohandle: tokiors
 sort: tokio
 title: Tokio
-twitter: tokio_rs
-website: 'https://tokio.rs/'
+twitter: https://x.com/tokio_rs
+website: https://tokio.rs/
 ---

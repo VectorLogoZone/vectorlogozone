@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/tinybird-co'
+linkedin: https://linkedin.com/company/tinybird-co
 logohandle: tinybirdco
 sort: tinybird
 title: Tinybird
-twitter: '@tinybirdco'
-website: 'https://www.tinybird.co/'
+twitter: https://x.com/@tinybirdco
+website: https://www.tinybird.co/
 ---

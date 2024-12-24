@@ -1,9 +1,9 @@
 ---
-blog: 'https://duckly.com/blog/'
-github: GitDuckHQ
+blog: https://duckly.com/blog/
+git: https://github.com/GitDuckHQ
 logohandle: duckly
 sort: duckly
 title: Duckly
-twitter: DucklyHQ
-website: 'https://duckly.com/'
+twitter: https://x.com/DucklyHQ
+website: https://duckly.com/
 ---

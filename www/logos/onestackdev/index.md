@@ -1,7 +1,7 @@
 ---
-github: onejs/one
+git: https://github.com/onejs/one
 logohandle: onestackdev
 sort: onestack
 title: One
-website: 'https://onestack.dev/'
+website: https://onestack.dev/
 ---

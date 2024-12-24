@@ -1,9 +1,9 @@
 ---
-blog: 'https://unthread.io/blog'
-linkedin: 'https://linkedin.com/company/unthreadai'
+blog: https://unthread.io/blog
+linkedin: https://linkedin.com/company/unthreadai
 logohandle: unthreadio
 sort: unthread
 title: Unthread
-twitter: unthreadai
-website: 'https://unthread.io/'
+twitter: https://x.com/unthreadai
+website: https://unthread.io/
 ---

@@ -1,12 +1,12 @@
 ---
-facebook: 'http://facebook.com/chase'
-googleplus: 'http://plus.google.com/'
-linkedin: 'http://linkedin.com/company/jpmorgan-chase'
+facebook: http://facebook.com/chase
+googleplus: http://plus.google.com/
+linkedin: http://linkedin.com/company/jpmorgan-chase
 logohandle: jpmorganchase
 sort: jpmorganchase
 title: JPMorgan Chase
-twitter: Chase
-website: 'https://www.jpmorganchase.com/'
+twitter: https://x.com/Chase
+website: https://www.jpmorganchase.com/
 wikipedia: https://en.wikipedia.org/wiki/JPMorgan_Chase
-youtube: 'http://youtube.com/chase'
+youtube: http://youtube.com/chase
 ---

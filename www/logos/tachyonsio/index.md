@@ -1,8 +1,8 @@
 ---
-github: tachyons-css/tachyons
+git: https://github.com/tachyons-css/tachyons
 logohandle: tachyonsio
 sort: tachyons
 title: Tachyons CSS
-twitter: tachyons_css
-website: 'https://tachyons.io/'
+twitter: https://x.com/tachyons_css
+website: https://tachyons.io/
 ---

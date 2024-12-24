@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/exploreomni'
+linkedin: https://linkedin.com/company/exploreomni
 logohandle: omnico
 sort: omni
 title: Omni Analytics
-twitter: omni
-website: 'https://omni.co/'
+twitter: https://x.com/omni
+website: https://omni.co/
 ---

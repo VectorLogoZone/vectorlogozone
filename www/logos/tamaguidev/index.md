@@ -1,8 +1,8 @@
 ---
-github: tamagui/tamagui
+git: https://github.com/tamagui/tamagui
 logohandle: tamaguidev
 sort: tamagui
 title: Tamagui
-twitter: tamagui_js
-website: 'https://tamagui.dev/'
+twitter: https://x.com/tamagui_js
+website: https://tamagui.dev/
 ---

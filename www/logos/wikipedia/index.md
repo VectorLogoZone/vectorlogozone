@@ -11,7 +11,7 @@ images:
 logohandle: wikipedia
 sort: wikipedia
 title: wikipedia
-twitter: Wikipedia
+twitter: https://x.com/Wikipedia
 website: https://en.wikipedia.org/wiki/Main_Page
 wikipedia: https://en.wikipedia.org/wiki/Wikipedia
 ---

@@ -1,9 +1,9 @@
 ---
-github: fosscord/fosscord
-instagram: 'https://instagram.com/fosscord'
+git: https://github.com/fosscord/fosscord
+instagram: https://instagram.com/fosscord
 logohandle: fosscord
 sort: fosscord
 title: Fosscord
-twitter: fosscord_
-website: 'https://fosscord.com/'
+twitter: https://x.com/fosscord_
+website: https://fosscord.com/
 ---

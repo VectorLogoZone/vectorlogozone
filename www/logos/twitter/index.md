@@ -5,7 +5,7 @@ colors:
 font:
   name: Pico Alphabet
   url: http://www2.wind.ne.jp/maniackers/pico.html
-github: twitter
+git: https://github.com/twitter
 guide: https://about.twitter.com/en_us/company/brand-resources.html
 images:
 - twitter-icon.svg
@@ -17,7 +17,7 @@ tags:
 - simpleshare
 - social_network
 title: Twitter
-twitter: twitter
+twitter: https://x.com/twitter
 website: https://twitter.com/
 wikipedia: https://en.wikipedia.org/wiki/Twitter
 ---

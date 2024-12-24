@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.textile.io/'
-github: textileio
+blog: https://blog.textile.io/
+git: https://github.com/textileio
 logohandle: textileio
 sort: textile
 title: Textile
-twitter: textileio
-website: 'https://www.textile.io/'
+twitter: https://x.com/textileio
+website: https://www.textile.io/
 ---

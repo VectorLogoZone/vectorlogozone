@@ -1,10 +1,10 @@
 ---
-dribbble: 'https://dribbble.com/superhuman'
-facebook: 'https://facebook.com/superhumanco'
-github: superhuman
+dribbble: https://dribbble.com/superhuman
+facebook: https://facebook.com/superhumanco
+git: https://github.com/superhuman
 logohandle: superhuman
 sort: superhuman
 title: Superhuman
-twitter: superhumanco
-website: 'https://superhuman.com/'
+twitter: https://x.com/superhumanco
+website: https://superhuman.com/
 ---

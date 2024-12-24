@@ -1,7 +1,7 @@
 ---
-github: tabler/tabler
+git: https://github.com/tabler/tabler
 logohandle: tablerio
 sort: tabler
 title: Tabler UI Kit
-website: 'https://tabler.io/'
+website: https://tabler.io/
 ---

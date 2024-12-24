@@ -1,10 +1,10 @@
 ---
-blog: 'https://trilon.io/blog'
-github: trilonio
-linkedin: 'https://linkedin.com/company/trilon'
+blog: https://trilon.io/blog
+git: https://github.com/trilonio
+linkedin: https://linkedin.com/company/trilon
 logohandle: trilonio
 sort: trilon
 title: Trilon
-twitter: trilon_io
-website: 'https://trilon.io/'
+twitter: https://x.com/trilon_io
+website: https://trilon.io/
 ---

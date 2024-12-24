@@ -1,7 +1,7 @@
 ---
-github: umijs/umi
+git: https://github.com/umijs/umi
 logohandle: umijs
 sort: umijs
 title: UmiJS
-website: 'https://umijs.org/'
+website: https://umijs.org/
 ---

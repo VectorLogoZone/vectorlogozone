@@ -1,7 +1,7 @@
 ---
-github: chakra-ui/zag
+git: https://github.com/chakra-ui/zag
 logohandle: zagjs
 sort: zagjs
 title: Zag
-website: 'https://zagjs.com/'
+website: https://zagjs.com/
 ---

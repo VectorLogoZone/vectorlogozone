@@ -1,9 +1,9 @@
 ---
-github: capeprivacy
-linkedin: 'https://linkedin.com/company/capeprivacy'
+git: https://github.com/capeprivacy
+linkedin: https://linkedin.com/company/capeprivacy
 logohandle: capeprivacy
 sort: capeprivacy
 title: Cape Privacy
-twitter: capeprivacy
-website: 'https://capeprivacy.com/'
+twitter: https://x.com/capeprivacy
+website: https://capeprivacy.com/
 ---

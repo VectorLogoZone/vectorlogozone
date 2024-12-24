@@ -1,9 +1,9 @@
 ---
-linkedin: 'https://linkedin.com/company/buoyantio'
+linkedin: https://linkedin.com/company/buoyantio
 logohandle: buoyantio
 sort: buoyant
 title: Buoyant
-twitter: buoyantio
-website: 'https://buoyant.io/'
-youtube: 'https://youtube.com/c/buoyantio'
+twitter: https://x.com/buoyantio
+website: https://buoyant.io/
+youtube: https://youtube.com/c/buoyantio
 ---

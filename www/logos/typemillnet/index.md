@@ -1,8 +1,8 @@
 ---
-github: typemill/typemill
+git: https://github.com/typemill/typemill
 logohandle: typemillnet
 sort: typemill
 title: Typemill
-twitter: typemill
-website: 'https://typemill.net/'
+twitter: https://x.com/typemill
+website: https://typemill.net/
 ---

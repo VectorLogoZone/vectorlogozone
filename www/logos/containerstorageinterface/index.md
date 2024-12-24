@@ -1,8 +1,8 @@
 ---
-github: container-storage-interface
+git: https://github.com/container-storage-interface
 guide: https://github.com/container-storage-interface/artwork
 logohandle: containerstorageinterface
 sort: containerstorageinterface
 title: Container Storage Interface
-website: 'https://github.com/container-storage-interface'
+website: https://github.com/container-storage-interface
 ---

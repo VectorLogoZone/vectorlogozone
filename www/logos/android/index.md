@@ -3,7 +3,7 @@ blog: https://officialandroid.blogspot.com/
 colors:
 - '#A4C639'
 facebook: https://www.facebook.com/AndroidOfficial
-github: android
+git: https://github.com/android
 guide: https://developer.android.com/distribute/marketing-tools/brand-guidelines.html
 images:
 - android-ar21.svg
@@ -17,7 +17,7 @@ tags:
 - mobile
 - phone
 title: android
-twitter: android
+twitter: https://x.com/android
 website: https://www.android.com/
 wikipedia: https://en.wikipedia.org/wiki/Android_(operating_system)
 ---

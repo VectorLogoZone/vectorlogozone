@@ -1,8 +1,8 @@
 ---
-blog: 'https://medium.com/gridmaster'
+blog: https://medium.com/gridmaster
 logohandle: gridmasterio
 sort: gridmaster
 title: Gridmaster
-twitter: gridmasterhq
-website: 'https://gridmaster.io/'
+twitter: https://x.com/gridmasterhq
+website: https://gridmaster.io/
 ---

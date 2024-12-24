@@ -2,6 +2,6 @@
 logohandle: hyperpingio
 sort: hyperping
 title: Hyperping
-twitter: hyperping
-website: 'https://hyperping.io/'
+twitter: https://x.com/hyperping
+website: https://hyperping.io/
 ---

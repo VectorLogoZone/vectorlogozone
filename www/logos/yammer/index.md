@@ -12,7 +12,7 @@ linkedin: https://www.linkedin.com/company/260901/
 logohandle: yammer
 sort: yammer
 title: Yammer
-twitter: Yammer
+twitter: https://x.com/Yammer
 website: https://www.yammer.com/
 wikipedia: https://en.wikipedia.org/wiki/Yammer
 ---

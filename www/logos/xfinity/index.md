@@ -1,9 +1,9 @@
 ---
-facebook: 'http://facebook.com/xfinity'
+facebook: http://facebook.com/xfinity
 logohandle: xfinity
 sort: xfinity
-title: 'XFINITY'
-twitter: XFINITY
-website: 'https://www.xfinity.com/'
+title: XFINITY
+twitter: https://x.com/XFINITY
+website: https://www.xfinity.com/
 youtube: http://youtube.com/user/xfinity
 ---

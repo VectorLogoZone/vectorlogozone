@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/modelrocket-labs'
+linkedin: https://linkedin.com/company/modelrocket-labs
 logohandle: modelrocketio
 sort: modelrocket
 title: Model Rocket
-twitter: ModelRocketCTO
-website: 'https://www.modelrocket.io/'
+twitter: https://x.com/ModelRocketCTO
+website: https://www.modelrocket.io/
 ---

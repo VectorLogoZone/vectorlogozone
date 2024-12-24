@@ -1,9 +1,9 @@
 ---
-instagram: 'https://instagram.com/runwayapp'
+instagram: https://instagram.com/runwayapp
 logohandle: runwayml
 sort: runwayml
 title: Runway
-twitter: runwayml
-website: 'https://runwayml.com/'
-youtube: 'https://youtube.com/runwayml'
+twitter: https://x.com/runwayml
+website: https://runwayml.com/
+youtube: https://youtube.com/runwayml
 ---

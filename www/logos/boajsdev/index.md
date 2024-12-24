@@ -1,8 +1,8 @@
 ---
-github: boa-dev/boa
+git: https://github.com/boa-dev/boa
 logohandle: boajsdev
 sort: boajs
 title: Boa
-twitter: boa_engine
-website: 'https://boajs.dev/'
+twitter: https://x.com/boa_engine
+website: https://boajs.dev/
 ---

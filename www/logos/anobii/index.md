@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.anobii.com/en'
-facebook: 'https://facebook.com/anobii'
+blog: https://blog.anobii.com/en
+facebook: https://facebook.com/anobii
 logohandle: anobii
 sort: anobii
 title: Anobii
-twitter: anobii
-website: 'https://www.anobii.com/'
+twitter: https://x.com/anobii
+website: https://www.anobii.com/
 ---

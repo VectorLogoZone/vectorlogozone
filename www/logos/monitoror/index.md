@@ -1,7 +1,7 @@
 ---
-github: monitoror/monitoror
+git: https://github.com/monitoror/monitoror
 logohandle: monitoror
 sort: monitoror
 title: Monitoror
-website: 'https://monitoror.com/'
+website: https://monitoror.com/
 ---

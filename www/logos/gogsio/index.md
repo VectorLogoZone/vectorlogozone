@@ -1,8 +1,8 @@
 ---
-github: gogs/gogs
+git: https://github.com/gogs/gogs
 logohandle: gogsio
 sort: gogs
 title: Gogs
-twitter: GogsHQ
-website: 'https://gogs.io/'
+twitter: https://x.com/GogsHQ
+website: https://gogs.io/
 ---

@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/strapijs/'
-github: strapi/strapi
-linkedin: 'https://linkedin.com/company/strapi'
+facebook: https://facebook.com/strapijs/
+git: https://github.com/strapi/strapi
+linkedin: https://linkedin.com/company/strapi
 logohandle: strapiio
 sort: strapi
 title: Strapi
-twitter: strapijs
-website: 'https://strapi.io/'
+twitter: https://x.com/strapijs
+website: https://strapi.io/
 ---

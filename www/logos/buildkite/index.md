@@ -1,11 +1,11 @@
 ---
 blog: https://building.buildkite.com/
 facebook: https://www.facebook.com/buildkite/
-github: buildkite
+git: https://github.com/buildkite
 guide: https://buildkite.com/brand-assets
 logohandle: buildkite
 sort: buildkite
 title: Buildkite
-twitter: buildkite
-website: 'https://buildkite.com/'
+twitter: https://x.com/buildkite
+website: https://buildkite.com/
 ---

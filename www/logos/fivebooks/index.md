@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/fivebooksofficial'
-instagram: 'https://instagram.com/five_books'
+facebook: https://facebook.com/fivebooksofficial
+instagram: https://instagram.com/five_books
 logohandle: fivebooks
 sort: fivebooks
 title: Five Books
-twitter: five_books
-website: 'https://fivebooks.com/'
+twitter: https://x.com/five_books
+website: https://fivebooks.com/
 ---

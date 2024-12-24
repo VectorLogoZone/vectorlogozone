@@ -1,7 +1,7 @@
 ---
-github: facebookexperimental/rome
+git: https://github.com/facebookexperimental/rome
 logohandle: romejsdev
 sort: romejs
 title: Rome.js
-website: 'https://romejs.dev/'
+website: https://romejs.dev/
 ---

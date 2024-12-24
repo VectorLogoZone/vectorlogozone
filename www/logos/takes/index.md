@@ -1,7 +1,7 @@
 ---
-github: yegor256/takes
+git: https://github.com/yegor256/takes
 logohandle: takes
 sort: takes
 title: takes.org
-website: 'https://www.takes.org/'
+website: https://www.takes.org/
 ---

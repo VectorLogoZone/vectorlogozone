@@ -1,8 +1,8 @@
 ---
-github: nats-io
+git: https://github.com/nats-io
 logohandle: natsio
 sort: nats
 title: NATS
-twitter: nats_io
-website: 'https://nats.io/'
+twitter: https://x.com/nats_io
+website: https://nats.io/
 ---

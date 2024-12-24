@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/getfarewill'
+facebook: https://facebook.com/getfarewill
 logohandle: farewill
 sort: farewill
 title: Farewill
-twitter: farewill
-website: 'https://farewill.com/'
+twitter: https://x.com/farewill
+website: https://farewill.com/
 ---

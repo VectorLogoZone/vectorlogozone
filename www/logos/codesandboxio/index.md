@@ -1,8 +1,8 @@
 ---
-github: codesandbox/codesandbox-client
+git: https://github.com/codesandbox/codesandbox-client
 logohandle: codesandboxio
 sort: codesandbox
 title: Code Sandbox
-twitter: codesandbox
-website: 'https://codesandbox.io/index2'
+twitter: https://x.com/codesandbox
+website: https://codesandbox.io/index2
 ---

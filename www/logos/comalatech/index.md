@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/comalatech'
+facebook: https://facebook.com/comalatech
 logohandle: comalatech
 sort: comalatech
 title: Comalatech
-twitter: comalatech
-website: 'http://www.comalatech.com/'
-youtube: 'https://youtube.com/user/comalatech'
+twitter: https://x.com/comalatech
+website: http://www.comalatech.com/
+youtube: https://youtube.com/user/comalatech
 ---

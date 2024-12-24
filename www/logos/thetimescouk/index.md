@@ -1,8 +1,8 @@
 ---
-github: newsuk
-instagram: 'https://instagram.com/thetimes'
+git: https://github.com/newsuk
+instagram: https://instagram.com/thetimes
 logohandle: thetimescouk
 sort: thetimescouk
 title: The Times
-website: 'https://www.thetimes.co.uk/'
+website: https://www.thetimes.co.uk/
 ---

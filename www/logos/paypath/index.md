@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/Paypath'
-instagram: 'https://instagram.com/paypathfinance'
+facebook: https://facebook.com/Paypath
+instagram: https://instagram.com/paypathfinance
 logohandle: paypath
 sort: paypath
 title: PayPath
-twitter: paypathfinance
-website: 'https://www.paypath.com/'
+twitter: https://x.com/paypathfinance
+website: https://www.paypath.com/
 ---

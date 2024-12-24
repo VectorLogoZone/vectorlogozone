@@ -2,7 +2,7 @@
 colors:
 - '#E23237'
 - '#B52E31'
-github: angular/angular
+git: https://github.com/angular/angular
 images:
 - angular-icon.svg
 - angular-ar21.svg
@@ -12,6 +12,6 @@ tags:
 - programming_library
 - javascript
 title: Angular.JS
-twitter: angular
+twitter: https://x.com/angular
 website: https://angular.io/
 ---

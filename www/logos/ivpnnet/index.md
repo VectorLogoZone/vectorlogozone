@@ -1,8 +1,8 @@
 ---
-github: ivpn
+git: https://github.com/ivpn
 logohandle: ivpnnet
 sort: ivpn
 title: IVPN
-twitter: ivpnnet
-website: 'https://www.ivpn.net/'
+twitter: https://x.com/ivpnnet
+website: https://www.ivpn.net/
 ---

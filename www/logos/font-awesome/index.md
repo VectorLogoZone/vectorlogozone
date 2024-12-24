@@ -4,7 +4,7 @@ font:
   myfonts: http://www.myfonts.com/fonts/exljbris/museo-slab/
   name: Museo Slab
   url: http://www.exljbris.com/museoslab.html
-github: FortAwesome/Font-Awesome
+git: https://github.com/FortAwesome/Font-Awesome
 images:
 - font-awesome-ar21.svg
 - font-awesome-icon.svg
@@ -13,6 +13,6 @@ sort: font awesome
 tags:
 - font
 title: Font Awesome
-twitter: fontawesome
+twitter: https://x.com/fontawesome
 website: http://fontawesome.io/
 ---

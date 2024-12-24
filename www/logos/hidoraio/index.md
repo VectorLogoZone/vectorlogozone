@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/hidoraswiss'
-linkedin: 'https://linkedin.com/company/hidora'
+facebook: https://facebook.com/hidoraswiss
+linkedin: https://linkedin.com/company/hidora
 logohandle: hidoraio
 sort: hidora
 title: Hidora
-twitter: HidoraSwiss
-website: 'https://hidora.io/en/'
+twitter: https://x.com/HidoraSwiss
+website: https://hidora.io/en/
 ---

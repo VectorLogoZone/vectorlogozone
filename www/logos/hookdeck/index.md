@@ -1,9 +1,9 @@
 ---
-github: hookdeck
-linkedin: 'https://linkedin.com/company/hookdeck'
+git: https://github.com/hookdeck
+linkedin: https://linkedin.com/company/hookdeck
 logohandle: hookdeck
 sort: hookdeck
 title: Hookdeck
-twitter: Hookdeck
-website: 'https://hookdeck.com/'
+twitter: https://x.com/Hookdeck
+website: https://hookdeck.com/
 ---

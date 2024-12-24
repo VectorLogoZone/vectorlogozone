@@ -1,8 +1,8 @@
 ---
-blog: 'http://planet.scipy.org/'
-github: scipy
+blog: http://planet.scipy.org/
+git: https://github.com/scipy
 logohandle: scipy
 sort: scipy
 title: SciPy
-website: 'https://www.scipy.org/'
+website: https://www.scipy.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: plopjs/plop
+git: https://github.com/plopjs/plop
 logohandle: plopjs
 sort: plopjs
 title: PLOP.js
-twitter: plopjs
-website: 'https://plopjs.com/'
+twitter: https://x.com/plopjs
+website: https://plopjs.com/
 ---

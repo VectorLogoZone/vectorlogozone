@@ -1,8 +1,8 @@
 ---
-github: grid-js/gridjs
+git: https://github.com/grid-js/gridjs
 logohandle: gridjsio
 sort: gridjs
 title: Grid.js
-twitter: grid_js
-website: 'https://gridjs.io/'
+twitter: https://x.com/grid_js
+website: https://gridjs.io/
 ---

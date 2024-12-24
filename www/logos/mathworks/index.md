@@ -6,7 +6,7 @@ linkedin: http://www.linkedin.com/company/the-mathworks_2
 logohandle: mathworks
 sort: mathworks
 title: MathWorks
-twitter: MATLAB
+twitter: https://x.com/MATLAB
 website: https://www.mathworks.com/
 wikipedia: https://en.wikipedia.org/wiki/MathWorks
 ---

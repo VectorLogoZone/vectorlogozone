@@ -1,6 +1,6 @@
 ---
 blog: https://www.twilio.com/blog
-github: twilio
+git: https://github.com/twilio
 images:
 - twilio-icon.svg
 - twilio-ar21.svg
@@ -8,7 +8,7 @@ images:
 logohandle: twilio
 sort: twilio
 title: twilio
-twitter: twilio
+twitter: https://x.com/twilio
 website: https://www.twilio.com/
 wikipedia: https://en.wikipedia.org/wiki/Twilio
 ---

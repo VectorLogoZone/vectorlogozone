@@ -1,11 +1,11 @@
 ---
 blog: https://babeljs.io/blog/
-github: babel/babel
+git: https://github.com/babel/babel
 logohandle: babeljs
 slack: https://slack.babeljs.io/
 sort: babeljs
 title: Babel.js
-twitter: babeljs
+twitter: https://x.com/babeljs
 website: https://babeljs.io/
 wikipedia: https://en.wikipedia.org/wiki/Babel_(compiler)
 ---

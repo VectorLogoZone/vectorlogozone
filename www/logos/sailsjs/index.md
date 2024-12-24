@@ -1,11 +1,11 @@
 ---
-blog: 'http://blog.sailsjs.com/'
-facebook: 'https://facebook.com/sailsjs'
-github: balderdashy/sails
+blog: http://blog.sailsjs.com/
+facebook: https://facebook.com/sailsjs
+git: https://github.com/balderdashy/sails
 logohandle: sailsjs
-pinterest: 'https://pinterest.com/sailsjs'
+pinterest: https://pinterest.com/sailsjs
 sort: sailsjs
 title: Sails.js
-twitter: sailsjs
-website: 'https://sailsjs.com/'
+twitter: https://x.com/sailsjs
+website: https://sailsjs.com/
 ---

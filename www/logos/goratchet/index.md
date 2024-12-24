@@ -1,8 +1,8 @@
 ---
-github: twbs/ratchet
+git: https://github.com/twbs/ratchet
 logohandle: goratchet
 sort: ratchet
 title: Ratchet
-twitter: goratchet
-website: 'http://goratchet.com/'
+twitter: https://x.com/goratchet
+website: http://goratchet.com/
 ---

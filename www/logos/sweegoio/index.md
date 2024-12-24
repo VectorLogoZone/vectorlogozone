@@ -1,9 +1,9 @@
 ---
-blog: 'https://sweego.io/blog'
-linkedin: 'https://linkedin.com/company/sweego-io'
+blog: https://sweego.io/blog
+linkedin: https://linkedin.com/company/sweego-io
 logohandle: sweegoio
 sort: sweego
 title: Sweego
-twitter: Sweego_io
-website: 'https://www.sweego.io/'
+twitter: https://x.com/Sweego_io
+website: https://www.sweego.io/
 ---

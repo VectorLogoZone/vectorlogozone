@@ -1,8 +1,8 @@
 ---
-github: canonical/vanilla-framework
+git: https://github.com/canonical/vanilla-framework
 logohandle: vanillaframeworkio
 sort: vanillaframework
 title: Vanilla Framework
-twitter: vanillaframewrk
-website: 'https://vanillaframework.io/'
+twitter: https://x.com/vanillaframewrk
+website: https://vanillaframework.io/
 ---

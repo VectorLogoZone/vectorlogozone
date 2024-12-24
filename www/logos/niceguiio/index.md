@@ -1,7 +1,7 @@
 ---
-github: zauberzeug/nicegui
+git: https://github.com/zauberzeug/nicegui
 logohandle: niceguiio
 sort: nicegui
 title: NiceGUI
-website: 'https://nicegui.io/'
+website: https://nicegui.io/
 ---

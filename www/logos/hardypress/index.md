@@ -2,6 +2,6 @@
 logohandle: hardypress
 sort: hardypress
 title: HardyPress
-twitter: HardyPress
-website: 'https://www.hardypress.com/'
+twitter: https://x.com/HardyPress
+website: https://www.hardypress.com/
 ---

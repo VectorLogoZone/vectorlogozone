@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/autifyhq'
+facebook: https://facebook.com/autifyhq
 logohandle: autify
 sort: autify
 title: Autify
-twitter: AutifyHQ
-website: 'https://autify.com/'
+twitter: https://x.com/AutifyHQ
+website: https://autify.com/
 ---

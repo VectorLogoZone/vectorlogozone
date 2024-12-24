@@ -1,8 +1,8 @@
 ---
-github: mozilla-spidermonkey
+git: https://github.com/mozilla-spidermonkey
 logohandle: spidermonkeydev
 sort: spidermonkey
 title: SpiderMonkey
-twitter: spidermonkeyjs
-website: 'https://spidermonkey.dev/'
+twitter: https://x.com/spidermonkeyjs
+website: https://spidermonkey.dev/
 ---

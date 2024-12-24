@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/replay-io'
-github: RecordReplay
+blog: https://medium.com/replay-io
+git: https://github.com/RecordReplay
 logohandle: replayio
 sort: replay
 title: Replay
-twitter: replayio
-website: 'https://www.replay.io/'
+twitter: https://x.com/replayio
+website: https://www.replay.io/
 ---

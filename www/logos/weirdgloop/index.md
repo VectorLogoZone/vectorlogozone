@@ -1,7 +1,7 @@
 ---
-github: weirdgloop
+git: https://github.com/weirdgloop
 logohandle: weirdgloop
 sort: weirdgloop
 title: Weird Gloop
-website: 'https://weirdgloop.org/'
+website: https://weirdgloop.org/
 ---

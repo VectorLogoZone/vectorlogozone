@@ -1,8 +1,8 @@
 ---
-github: gitroyalty
+git: https://github.com/gitroyalty
 logohandle: gitroyalty
 sort: gitroyalty
 title: GitRoyalty
-twitter: gitroyalty
-website: 'https://gitroyalty.com/'
+twitter: https://x.com/gitroyalty
+website: https://gitroyalty.com/
 ---

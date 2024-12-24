@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/zuppler'
-linkedin: 'https://linkedin.com/company/zuppler'
+facebook: https://facebook.com/zuppler
+linkedin: https://linkedin.com/company/zuppler
 logohandle: zuppler
 sort: zuppler
 title: Zuppler
-twitter: Zuppler
-website: 'https://www.zuppler.com/'
+twitter: https://x.com/Zuppler
+website: https://www.zuppler.com/
 ---

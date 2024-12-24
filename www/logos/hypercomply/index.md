@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/hypercomply'
+linkedin: https://linkedin.com/company/hypercomply
 logohandle: hypercomply
 sort: hypercomply
 title: HyperComply
-twitter: HyperComply
-website: 'https://www.hypercomply.com/'
+twitter: https://x.com/HyperComply
+website: https://www.hypercomply.com/
 ---

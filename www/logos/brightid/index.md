@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/brightid'
-github: BrightID
+blog: https://medium.com/brightid
+git: https://github.com/BrightID
 logohandle: brightid
 sort: brightid
 title: BrightID
-twitter: BrightIDProject
-website: 'https://www.brightid.org/'
+twitter: https://x.com/BrightIDProject
+website: https://www.brightid.org/
 ---

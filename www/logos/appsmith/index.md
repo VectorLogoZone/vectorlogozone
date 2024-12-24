@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.appsmith.com/'
-github: appsmithorg/appsmith
+blog: https://blog.appsmith.com/
+git: https://github.com/appsmithorg/appsmith
 logohandle: appsmith
 sort: appsmith
 title: Appsmith
-twitter: theappsmith
-website: 'https://www.appsmith.com/'
-youtube: 'https://youtube.com/channel/UCMYwzPG2txS8nR5ZbNY6T5g'
+twitter: https://x.com/theappsmith
+website: https://www.appsmith.com/
+youtube: https://youtube.com/channel/UCMYwzPG2txS8nR5ZbNY6T5g
 ---

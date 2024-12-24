@@ -1,6 +1,6 @@
 ---
 blog: https://www.lua.org/news.html
-github: lua
+git: https://github.com/lua
 guide: https://www.lua.org/images/
 images:
 - lua-icon.svg
@@ -11,7 +11,7 @@ sort: lua
 tags:
 - programming_language
 title: Lua
-twitter: LuaLang
+twitter: https://x.com/LuaLang
 website: https://www.lua.org/
 wikipedia: https://en.wikipedia.org/wiki/Lua_(programming_language)
 ---

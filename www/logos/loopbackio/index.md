@@ -1,7 +1,7 @@
 ---
-github: strongloop/loopback
+git: https://github.com/strongloop/loopback
 logohandle: loopbackio
 sort: loopback
 title: LoopBack
-website: 'https://loopback.io/'
+website: https://loopback.io/
 ---

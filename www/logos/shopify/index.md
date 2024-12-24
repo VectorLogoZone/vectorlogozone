@@ -7,7 +7,7 @@ logohandle: shopify
 pinterest: https://pinterest.com/shopify
 sort: shopify
 title: Shopify
-twitter: shopify
+twitter: https://x.com/shopify
 website: https://www.shopify.com/
 wikipedia: https://en.wikipedia.org/wiki/Shopify
 youtube: https://youtube.com/user/shopify

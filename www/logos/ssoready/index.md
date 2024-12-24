@@ -1,8 +1,8 @@
 ---
-blog: 'https://ssoready.com/blog'
-github: ssoready/ssoready
+blog: https://ssoready.com/blog
+git: https://github.com/ssoready/ssoready
 logohandle: ssoready
 sort: ssoready
 title: SSOReady
-website: 'https://ssoready.com/'
+website: https://ssoready.com/
 ---

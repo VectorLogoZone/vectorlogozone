@@ -1,8 +1,8 @@
 ---
-github: laurent22/joplin
+git: https://github.com/laurent22/joplin
 logohandle: joplinapp
 sort: joplin
 title: Joplin
-twitter: joplinapp
-website: 'https://joplinapp.org/'
+twitter: https://x.com/joplinapp
+website: https://joplinapp.org/
 ---

@@ -1,5 +1,5 @@
 ---
-github: php
+git: https://github.com/php
 images:
 - php-icon.svg
 - php-horizontal.svg
@@ -11,7 +11,7 @@ tags:
 - php
 - programming_language
 title: PHP
-twitter: official_php
+twitter: https://x.com/official_php
 website: http://www.php.net/
 wikipedia: https://en.wikipedia.org/wiki/PHP
 ---

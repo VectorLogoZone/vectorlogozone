@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/himalayasapp'
-linkedin: 'https://linkedin.com/company/himalayasapp'
+facebook: https://facebook.com/himalayasapp
+linkedin: https://linkedin.com/company/himalayasapp
 logohandle: himalayasapp
 sort: himalayas
 title: Himalayas
-twitter: himalayasapp
-website: 'https://himalayas.app/'
+twitter: https://x.com/himalayasapp
+website: https://himalayas.app/
 ---

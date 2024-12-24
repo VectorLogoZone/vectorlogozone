@@ -2,6 +2,6 @@
 logohandle: pioneerapp
 sort: pioneer
 title: Pioneer
-twitter: pioneerdotapp
-website: 'https://pioneer.app/'
+twitter: https://x.com/pioneerdotapp
+website: https://pioneer.app/
 ---

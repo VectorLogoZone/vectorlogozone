@@ -11,7 +11,7 @@ sort: noun project
 tags:
 - software
 title: The Noun Project
-twitter: nounproject
+twitter: https://x.com/nounproject
 website: https://thenounproject.com/
 wikipedia: https://en.wikipedia.org/wiki/The_Noun_Project
 ---

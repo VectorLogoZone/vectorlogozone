@@ -1,8 +1,8 @@
 ---
-github: modoboa/modoboa
+git: https://github.com/modoboa/modoboa
 logohandle: modoboa
 sort: modoboa
 title: Modoboa
-twitter: modoboa_mail
-website: 'https://modoboa.org/'
+twitter: https://x.com/modoboa_mail
+website: https://modoboa.org/
 ---

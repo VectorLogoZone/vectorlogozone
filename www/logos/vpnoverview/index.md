@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/vpnoverview'
+facebook: https://facebook.com/vpnoverview
 logohandle: vpnoverview
 sort: vpnoverview
 title: VPNoverview
-twitter: vpnoverview
-website: 'https://vpnoverview.com/'
+twitter: https://x.com/vpnoverview
+website: https://vpnoverview.com/
 ---

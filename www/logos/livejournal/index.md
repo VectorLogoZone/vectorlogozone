@@ -1,8 +1,8 @@
 ---
-facebook: 'http://facebook.com/livejournal'
+facebook: http://facebook.com/livejournal
 logohandle: livejournal
 sort: livejournal
 title: LiveJournal
-twitter: LiveJournal
-website: 'https://www.livejournal.com/'
+twitter: https://x.com/LiveJournal
+website: https://www.livejournal.com/
 ---

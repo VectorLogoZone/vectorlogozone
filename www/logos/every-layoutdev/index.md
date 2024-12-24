@@ -2,6 +2,6 @@
 logohandle: every-layoutdev
 sort: every-layout
 title: Every Layout
-twitter: heydonworks
-website: 'https://every-layout.dev/'
+twitter: https://x.com/heydonworks
+website: https://every-layout.dev/
 ---

@@ -1,7 +1,7 @@
 ---
-github: glimpse-editor/Glimpse
+git: https://github.com/glimpse-editor/Glimpse
 logohandle: glimpse-editor
 sort: glimpse
 title: Glimpse
-website: 'https://glimpse-editor.org/'
+website: https://glimpse-editor.org/
 ---

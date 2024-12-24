@@ -1,8 +1,8 @@
 ---
-github: docusealco/docuseal
+git: https://github.com/docusealco/docuseal
 logohandle: docusealco
 sort: docuseal
 title: DocuSeal
-twitter: docusealco
-website: 'https://www.docuseal.co/'
+twitter: https://x.com/docusealco
+website: https://www.docuseal.co/
 ---

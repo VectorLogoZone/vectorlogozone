@@ -1,9 +1,9 @@
 ---
-github: banno
-linkedin: 'https://linkedin.com/company/banno'
+git: https://github.com/banno
+linkedin: https://linkedin.com/company/banno
 logohandle: banno
 sort: banno
 title: Banno
-twitter: bannoJHA
-website: 'https://banno.com/'
+twitter: https://x.com/bannoJHA
+website: https://banno.com/
 ---

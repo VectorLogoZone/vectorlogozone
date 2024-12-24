@@ -1,8 +1,8 @@
 ---
-github: coilhq/tigerbeetle
+git: https://github.com/coilhq/tigerbeetle
 logohandle: tigerbeetle
 sort: tigerbeetle
 title: TigerBeetle
-twitter: TigerBeetleDB
-website: 'https://www.tigerbeetle.com/'
+twitter: https://x.com/TigerBeetleDB
+website: https://www.tigerbeetle.com/
 ---

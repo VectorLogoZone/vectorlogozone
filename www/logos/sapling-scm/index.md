@@ -1,8 +1,8 @@
 ---
-github: facebook/sapling
+git: https://github.com/facebook/sapling
 logohandle: sapling-scm
 sort: sapling-scm
 title: Sapling SCM
-twitter: MetaOpenSource
-website: 'https://sapling-scm.com/'
+twitter: https://x.com/MetaOpenSource
+website: https://sapling-scm.com/
 ---

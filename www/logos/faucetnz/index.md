@@ -1,9 +1,9 @@
 ---
-github: faucetsdn/faucet
+git: https://github.com/faucetsdn/faucet
 logohandle: faucetnz
 sort: faucet
 title: Faucet
-twitter: FaucetSdn
-website: 'https://faucet.nz/'
-youtube: 'https://youtube.com/c/FaucetSDN'
+twitter: https://x.com/FaucetSdn
+website: https://faucet.nz/
+youtube: https://youtube.com/c/FaucetSDN
 ---

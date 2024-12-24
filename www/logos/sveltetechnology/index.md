@@ -1,11 +1,11 @@
 ---
-blog: 'https://svelte.technology/blog'
-github: sveltejs/svelte
+blog: https://svelte.technology/blog
+git: https://github.com/sveltejs/svelte
 logohandle: sveltetechnology
 other:
-  - name: Discord
-    url: 'https://discord.gg/yy75DKs'
+- name: Discord
+  url: https://discord.gg/yy75DKs
 sort: svelte
 title: Svelte
-website: 'https://svelte.technology/'
+website: https://svelte.technology/
 ---

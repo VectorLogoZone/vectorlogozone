@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/numeric-io'
+linkedin: https://linkedin.com/company/numeric-io
 logohandle: numericio
 sort: numeric
 title: Numeric
-twitter: numeric_io
-website: 'https://www.numeric.io/'
+twitter: https://x.com/numeric_io
+website: https://www.numeric.io/
 ---

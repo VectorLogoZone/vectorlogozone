@@ -9,6 +9,6 @@ guide: https://in.invisionapp.com/boards/FH3LW3S7XSD
 logohandle: invisionapp
 sort: invisionapp
 title: InVision
-twitter: InVisionApp
+twitter: https://x.com/InVisionApp
 website: https://www.invisionapp.com/
 ---

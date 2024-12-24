@@ -1,11 +1,11 @@
 ---
-blog: 'https://blog.optimizely.com/'
-facebook: 'https://facebook.com/optimizely'
-github: optimizely
-linkedin: 'https://linkedin.com/company/optimizely'
+blog: https://blog.optimizely.com/
+facebook: https://facebook.com/optimizely
+git: https://github.com/optimizely
+linkedin: https://linkedin.com/company/optimizely
 logohandle: optimizely
 sort: optimizely
 title: Optimizely
-twitter: optimizely
-website: 'https://www.optimizely.com/'
+twitter: https://x.com/optimizely
+website: https://www.optimizely.com/
 ---

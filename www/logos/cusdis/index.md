@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.cusdis.com/'
-github: djyde/cusdis
+blog: https://blog.cusdis.com/
+git: https://github.com/djyde/cusdis
 logohandle: cusdis
 sort: cusdis
 title: Cusdis
-twitter: cusdis_hq
-website: 'https://cusdis.com/'
+twitter: https://x.com/cusdis_hq
+website: https://cusdis.com/
 ---

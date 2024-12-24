@@ -1,8 +1,8 @@
 ---
-blog: 'https://tessel.io/blog'
+blog: https://tessel.io/blog
 logohandle: tesselio
 sort: tessel
 title: Tessel
-twitter: tesselproject
-website: 'https://tessel.io/'
+twitter: https://x.com/tesselproject
+website: https://tessel.io/
 ---

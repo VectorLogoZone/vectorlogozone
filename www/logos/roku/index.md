@@ -1,14 +1,14 @@
 ---
 blog: https://blog.roku.com/index
 facebook: https://www.facebook.com/roku
-github: rokudev
+git: https://github.com/rokudev
 images:
 - roku-ar21.svg
 - roku-icon.svg
 logohandle: roku
 sort: roku
 title: Roku
-twitter: rokuplayer
+twitter: https://x.com/rokuplayer
 website: https://www.roku.com/
 wikipedia: https://en.wikipedia.org/wiki/Roku,_Inc.
 ---

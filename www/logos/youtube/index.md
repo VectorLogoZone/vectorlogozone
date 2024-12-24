@@ -9,7 +9,7 @@ facebook: https://www.facebook.com/youtube/
 font:
   myfonts: https://www.myfonts.com/fonts/linotype/trade-gothic/bold-condensed-no-20-63882/
   name: Alternate Gothic No. 2
-github: youtube
+git: https://github.com/youtube
 guide: https://www.youtube.com/yt/about/brand-resources/
 images:
 - youtube-icon.svg
@@ -22,7 +22,7 @@ tags:
 - video
 - google
 title: YouTube
-twitter: YouTube
+twitter: https://x.com/YouTube
 website: https://www.youtube.com/
 wikipedia: https://en.wikipedia.org/wiki/YouTube
 ---

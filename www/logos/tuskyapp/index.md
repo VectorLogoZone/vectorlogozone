@@ -1,7 +1,7 @@
 ---
-github: tuskyapp/Tusky
+git: https://github.com/tuskyapp/Tusky
 logohandle: tuskyapp
 sort: tusky
 title: Tusky
-website: 'https://tusky.app/'
+website: https://tusky.app/
 ---

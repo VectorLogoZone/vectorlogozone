@@ -1,8 +1,8 @@
 ---
-github: trpc/trpc
+git: https://github.com/trpc/trpc
 logohandle: trpcio
 sort: trpcio
 title: tRPC
-twitter: alexdotjs
-website: 'https://trpc.io/'
+twitter: https://x.com/alexdotjs
+website: https://trpc.io/
 ---

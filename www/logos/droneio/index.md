@@ -1,9 +1,9 @@
 ---
-github: drone
-guide: 'https://github.com/drone/brand/tree/master/logos'
+git: https://github.com/drone
+guide: https://github.com/drone/brand/tree/master/logos
 logohandle: droneio
 sort: drone
 title: Drone
-twitter: droneio
-website: 'https://drone.io/'
+twitter: https://x.com/droneio
+website: https://drone.io/
 ---

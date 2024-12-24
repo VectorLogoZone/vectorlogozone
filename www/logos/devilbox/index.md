@@ -1,7 +1,7 @@
 ---
-github: cytopia/devilbox
+git: https://github.com/cytopia/devilbox
 logohandle: devilbox
 sort: devilbox
 title: devilbox
-website: 'http://devilbox.org/'
+website: http://devilbox.org/
 ---

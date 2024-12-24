@@ -1,5 +1,5 @@
 ---
-github: apache/incubator-weex
+git: https://github.com/apache/incubator-weex
 logohandle: apache_weex
 sort: weex
 tags:
@@ -7,5 +7,5 @@ tags:
 - dead
 - mobile
 title: Weex
-website: 'https://weex.apache.org/'
+website: https://weex.apache.org/
 ---

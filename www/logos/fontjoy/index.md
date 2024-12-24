@@ -1,7 +1,7 @@
 ---
-github: Jack000/fontjoy
+git: https://github.com/Jack000/fontjoy
 logohandle: fontjoy
 sort: fontjoy
 title: Fontjoy
-website: 'https://fontjoy.com/'
+website: https://fontjoy.com/
 ---

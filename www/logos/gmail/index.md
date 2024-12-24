@@ -11,7 +11,7 @@ tags:
 - email
 - google
 title: Gmail
-twitter: gmail
+twitter: https://x.com/gmail
 website: https://www.gmail.com/
 wikipedia: https://en.wikipedia.org/wiki/Gmail
 ---

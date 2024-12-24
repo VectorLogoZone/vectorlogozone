@@ -1,7 +1,7 @@
 ---
-github: yegor256/sixnines
+git: https://github.com/yegor256/sixnines
 logohandle: sixninesio
 sort: sixnines
 title: SixNines
-website: 'https://www.sixnines.io/'
+website: https://www.sixnines.io/
 ---

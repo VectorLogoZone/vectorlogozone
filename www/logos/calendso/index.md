@@ -1,8 +1,8 @@
 ---
-github: calendso/calendso
+git: https://github.com/calendso/calendso
 logohandle: calendso
 sort: calendso
 title: Calendso
-twitter: calendso
-website: 'https://calendso.com/'
+twitter: https://x.com/calendso
+website: https://calendso.com/
 ---

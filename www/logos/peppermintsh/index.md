@@ -1,7 +1,7 @@
 ---
-github: Peppermint-Lab/peppermint
+git: https://github.com/Peppermint-Lab/peppermint
 logohandle: peppermintsh
 sort: peppermint
 title: Peppermint
-website: 'https://peppermint.sh/'
+website: https://peppermint.sh/
 ---

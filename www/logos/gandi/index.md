@@ -1,6 +1,6 @@
 ---
 facebook: https://www.facebook.com/GandiBar
-github: Gandi
+git: https://github.com/Gandi
 images:
 - gandi-official.svg
 - gandi-icon.svg
@@ -10,6 +10,6 @@ sort: gandi
 tags:
 - domains
 title: Gandi.net
-twitter: gandibar
+twitter: https://x.com/gandibar
 website: https://www.gandi.net/
 ---

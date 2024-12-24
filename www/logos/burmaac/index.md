@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/BurmaAcademyPlatform'
+facebook: https://facebook.com/BurmaAcademyPlatform
 logohandle: burmaac
 sort: burma
 title: Burma Academy
-twitter: burmaacademy
-website: 'https://burma.ac/'
+twitter: https://x.com/burmaacademy
+website: https://burma.ac/
 ---

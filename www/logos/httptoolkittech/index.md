@@ -1,8 +1,8 @@
 ---
-github: httptoolkit
+git: https://github.com/httptoolkit
 logohandle: httptoolkittech
 sort: httptoolkit
 title: HTTP Toolkit
-twitter: httptoolkit
-website: 'https://httptoolkit.tech/'
+twitter: https://x.com/httptoolkit
+website: https://httptoolkit.tech/
 ---

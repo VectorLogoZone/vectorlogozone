@@ -1,9 +1,9 @@
 ---
-github: apache/arrow
+git: https://github.com/apache/arrow
 logohandle: apache_arrow
 sort: arrow
 tags:
 - apache
 title: Apache Arrow
-website: 'https://arrow.apache.org/'
+website: https://arrow.apache.org/
 ---

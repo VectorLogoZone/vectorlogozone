@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.nrwl.io/'
-github: nrwl/nx
+blog: https://blog.nrwl.io/
+git: https://github.com/nrwl/nx
 logohandle: nxdev
 sort: nx
 title: Nx
-twitter: NXdevtools
-website: 'https://nx.dev/'
-youtube: 'https://youtube.com/c/Nrwl_io'
+twitter: https://x.com/NXdevtools
+website: https://nx.dev/
+youtube: https://youtube.com/c/Nrwl_io
 ---

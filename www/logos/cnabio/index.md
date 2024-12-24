@@ -1,8 +1,9 @@
 ---
-github: cnabio/cnab-spec
-keywords: [ "Cloud Native Application Bundles" ]
+git: https://github.com/cnabio/cnab-spec
+keywords:
+- Cloud Native Application Bundles
 logohandle: cnabio
 sort: cnab
 title: CNAB
-website: 'https://cnab.io/'
+website: https://cnab.io/
 ---

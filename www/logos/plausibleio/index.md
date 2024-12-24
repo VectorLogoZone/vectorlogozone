@@ -1,8 +1,8 @@
 ---
-github: plausible-insights/plausible
+git: https://github.com/plausible-insights/plausible
 logohandle: plausibleio
 sort: plausible
 title: Plausible Analytics
-twitter: ukutaht
-website: 'https://plausible.io/'
+twitter: https://x.com/ukutaht
+website: https://plausible.io/
 ---

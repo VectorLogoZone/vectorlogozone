@@ -1,9 +1,9 @@
 ---
-github: strimzi
+git: https://github.com/strimzi
 logohandle: strimziio
 sort: strimzi
 title: Strimzi
-twitter: strimziio
-website: 'https://strimzi.io/'
-youtube: 'https://youtube.com/@strimzi'
+twitter: https://x.com/strimziio
+website: https://strimzi.io/
+youtube: https://youtube.com/@strimzi
 ---

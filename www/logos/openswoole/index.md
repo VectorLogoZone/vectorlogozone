@@ -1,8 +1,8 @@
 ---
-github: openswoole
+git: https://github.com/openswoole
 logohandle: openswoole
 sort: openswoole
 title: Open Swoole
-twitter: openswoole
-website: 'https://openswoole.com/'
+twitter: https://x.com/openswoole
+website: https://openswoole.com/
 ---

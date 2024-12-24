@@ -2,6 +2,6 @@
 logohandle: obsidianmd
 sort: obsidian
 title: Obsidian
-twitter: obsdmd
-website: 'https://obsidian.md/'
+twitter: https://x.com/obsdmd
+website: https://obsidian.md/
 ---

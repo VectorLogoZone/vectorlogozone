@@ -1,7 +1,7 @@
 ---
-github: azure/brigade
+git: https://github.com/azure/brigade
 logohandle: brigadesh
 sort: brigade
 title: Brigade
-website: 'https://brigade.sh/'
+website: https://brigade.sh/
 ---

@@ -1,8 +1,8 @@
 ---
-github: owntracks
+git: https://github.com/owntracks
 logohandle: owntracks
 sort: owntracks
 title: OwnTracks
-twitter: owntracks
-website: 'https://owntracks.org/'
+twitter: https://x.com/owntracks
+website: https://owntracks.org/
 ---

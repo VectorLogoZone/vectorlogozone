@@ -1,5 +1,5 @@
 ---
-github: sequelize/sequelize
+git: https://github.com/sequelize/sequelize
 logohandle: sequelizejs
 slack: http://sequelize-slack.herokuapp.com/
 sort: sequelizejs

@@ -2,6 +2,6 @@
 logohandle: flatboard
 sort: flatboard
 title: Flatboard
-twitter: flatboardoffic1
-website: 'https://flatboard.org/'
+twitter: https://x.com/flatboardoffic1
+website: https://flatboard.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: actualbudget/import-ynab4
+git: https://github.com/actualbudget/import-ynab4
 logohandle: actualbudget
 sort: actualbudget
 title: Actual Budget
-twitter: actualbudget
-website: 'https://actualbudget.com/'
+twitter: https://x.com/actualbudget
+website: https://actualbudget.com/
 ---

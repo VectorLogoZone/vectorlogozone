@@ -1,8 +1,8 @@
 ---
-github: KyloIO/kylo
+git: https://github.com/KyloIO/kylo
 logohandle: kyloio
 sort: kylo
 title: Kylo
-twitter: kylo_opensource
-website: 'https://kylo.io/'
+twitter: https://x.com/kylo_opensource
+website: https://kylo.io/
 ---

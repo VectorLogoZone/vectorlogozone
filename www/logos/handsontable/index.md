@@ -1,9 +1,9 @@
 ---
-github: handsontable/handsontable
-linkedin: 'https://linkedin.com/company/handsontable'
+git: https://github.com/handsontable/handsontable
+linkedin: https://linkedin.com/company/handsontable
 logohandle: handsontable
 sort: handsontable
 title: Handsontable
-twitter: handsontable
-website: 'https://handsontable.com/'
+twitter: https://x.com/handsontable
+website: https://handsontable.com/
 ---

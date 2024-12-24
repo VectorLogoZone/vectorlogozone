@@ -1,10 +1,10 @@
 ---
-blog: 'https://atypon.com/category/blog'
-facebook: 'https://facebook.com/Atypon-123322051036736'
-linkedin: 'https://linkedin.com/company/atypon'
+blog: https://atypon.com/category/blog
+facebook: https://facebook.com/Atypon-123322051036736
+linkedin: https://linkedin.com/company/atypon
 logohandle: atypon
 sort: atypon
 title: Atypon
-twitter: Atypon
-website: 'https://www.atypon.com/'
+twitter: https://x.com/Atypon
+website: https://www.atypon.com/
 ---

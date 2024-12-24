@@ -1,8 +1,8 @@
 ---
-blog: 'https://opensrs.com/blog'
+blog: https://opensrs.com/blog
 logohandle: opensrs
 sort: opensrs
 title: OpenSRS
-twitter: opensrs
-website: 'https://opensrs.com/'
+twitter: https://x.com/opensrs
+website: https://opensrs.com/
 ---

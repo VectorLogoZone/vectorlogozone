@@ -1,7 +1,7 @@
 ---
-github: amark/gun
+git: https://github.com/amark/gun
 logohandle: guneco
 sort: gun
 title: GUN
-website: 'https://gun.eco/'
+website: https://gun.eco/
 ---

@@ -1,8 +1,8 @@
 ---
-github: HadoukenIO
+git: https://github.com/HadoukenIO
 logohandle: hadoukenio
 sort: hadouken
 title: Hadouken
-twitter: '@hadoukenio/'
-website: 'http://hadouken.io/'
+twitter: https://x.com/@hadoukenio/
+website: http://hadouken.io/
 ---

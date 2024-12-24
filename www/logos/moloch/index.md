@@ -1,7 +1,7 @@
 ---
-github: aol/moloch
+git: https://github.com/aol/moloch
 logohandle: moloch
 sort: moloch
 title: Moloch
-website: 'https://molo.ch/'
+website: https://molo.ch/
 ---

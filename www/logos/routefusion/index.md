@@ -1,10 +1,10 @@
 ---
-blog: 'http://blog.routefusion.com/'
-github: Routefusion
-linkedin: 'https://linkedin.com/company/routefusion'
+blog: http://blog.routefusion.com/
+git: https://github.com/Routefusion
+linkedin: https://linkedin.com/company/routefusion
 logohandle: routefusion
 sort: routefusion
 title: Routefusion
-twitter: routefusion
-website: 'https://routefusion.com/'
+twitter: https://x.com/routefusion
+website: https://routefusion.com/
 ---

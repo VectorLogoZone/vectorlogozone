@@ -1,9 +1,9 @@
 ---
-github: SocketDev
-linkedin: 'https://linkedin.com/company/socketinc'
+git: https://github.com/SocketDev
+linkedin: https://linkedin.com/company/socketinc
 logohandle: socketdev
 sort: socketdev
 title: Socket
-twitter: SocketSecurity
-website: 'https://socket.dev/'
+twitter: https://x.com/SocketSecurity
+website: https://socket.dev/
 ---

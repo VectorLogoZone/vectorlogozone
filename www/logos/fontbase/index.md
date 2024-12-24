@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/FontBaseApp'
+facebook: https://facebook.com/FontBaseApp
 logohandle: fontbase
 sort: fontbase
 title: FontBase
-twitter: FontBaseApp
-website: 'https://fontba.se/'
+twitter: https://x.com/FontBaseApp
+website: https://fontba.se/
 ---

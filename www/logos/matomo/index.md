@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/Matomo.org'
-github: matomo-org/matomo
+facebook: https://facebook.com/Matomo.org
+git: https://github.com/matomo-org/matomo
 logohandle: matomo
 sort: matomo
 title: Matomo
-twitter: matomo_org
-website: 'https://matomo.org/'
+twitter: https://x.com/matomo_org
+website: https://matomo.org/
 ---

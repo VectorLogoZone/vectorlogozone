@@ -1,7 +1,7 @@
 ---
-github: SteveSanderson/knockout
+git: https://github.com/SteveSanderson/knockout
 logohandle: knockoutjs
 sort: knockoutjs
 title: Knockout
-website: 'https://knockoutjs.com/'
+website: https://knockoutjs.com/
 ---

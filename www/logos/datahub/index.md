@@ -1,6 +1,6 @@
 ---
 blog: http://datahub.io/blog
-github: datasets
+git: https://github.com/datasets
 images:
 - datahub-ar21.svg
 - datahub-icon.svg

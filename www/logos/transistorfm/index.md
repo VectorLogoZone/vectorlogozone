@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/transistor.fm'
-instagram: 'https://instagram.com/transistor.fm'
+facebook: https://facebook.com/transistor.fm
+instagram: https://instagram.com/transistor.fm
 logohandle: transistorfm
 sort: transistorfm
 title: Transistor
-twitter: transistorfm
-website: 'https://transistor.fm/'
-youtube: 'https://youtube.com/channel/UCY-RAM94RTpFuXvcYnRDqCA'
+twitter: https://x.com/transistorfm
+website: https://transistor.fm/
+youtube: https://youtube.com/channel/UCY-RAM94RTpFuXvcYnRDqCA
 ---

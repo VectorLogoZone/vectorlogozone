@@ -1,9 +1,9 @@
 ---
-blog: 'http://blog.dlang.org/'
-github: dlang
+blog: http://blog.dlang.org/
+git: https://github.com/dlang
 logohandle: dlang
 sort: dlang
 title: D Language
-twitter: D_Programming
-website: 'https://dlang.org/'
+twitter: https://x.com/D_Programming
+website: https://dlang.org/
 ---

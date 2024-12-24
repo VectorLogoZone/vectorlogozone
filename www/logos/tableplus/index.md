@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/tableplusapp'
-github: TablePlus/TablePlus
+facebook: https://facebook.com/tableplusapp
+git: https://github.com/TablePlus/TablePlus
 logohandle: tableplus
 sort: tableplus
 title: TablePlus
-twitter: TablePlus
-website: 'https://tableplus.com/'
+twitter: https://x.com/TablePlus
+website: https://tableplus.com/
 ---

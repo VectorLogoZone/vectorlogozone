@@ -1,7 +1,7 @@
 ---
-github: go-kit/kit
+git: https://github.com/go-kit/kit
 logohandle: gokitio
 sort: gokit
 title: go-kit
-website: 'https://gokit.io/'
+website: https://gokit.io/
 ---

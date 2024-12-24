@@ -1,8 +1,8 @@
 ---
-blog: 'http://blog.jetbrains.com/teamcity'
+blog: http://blog.jetbrains.com/teamcity
 logohandle: jetbrains_teamcity
 sort: teamcity
 title: TeamCity
-twitter: teamcity
-website: 'https://www.jetbrains.com/teamcity/'
+twitter: https://x.com/teamcity
+website: https://www.jetbrains.com/teamcity/
 ---

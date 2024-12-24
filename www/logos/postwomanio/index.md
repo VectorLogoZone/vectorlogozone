@@ -1,7 +1,7 @@
 ---
-github: liyasthomas/postwoman
+git: https://github.com/liyasthomas/postwoman
 logohandle: postwomanio
 sort: postwoman
 title: Postwoman
-website: 'https://postwoman.io/'
+website: https://postwoman.io/
 ---

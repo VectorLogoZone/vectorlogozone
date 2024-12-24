@@ -1,8 +1,8 @@
 ---
-github: getnikola/nikola
+git: https://github.com/getnikola/nikola
 logohandle: getnikola
 sort: nikola
 title: Nikola
-twitter: GetNikola
-website: 'https://getnikola.com/'
+twitter: https://x.com/GetNikola
+website: https://getnikola.com/
 ---

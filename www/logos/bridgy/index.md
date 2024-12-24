@@ -1,7 +1,7 @@
 ---
-github: snarfed/bridgy
+git: https://github.com/snarfed/bridgy
 logohandle: bridgy
 sort: bridgy
 title: Bridgy
-website: 'https://brid.gy/'
+website: https://brid.gy/
 ---

@@ -1,7 +1,7 @@
 ---
-github: cure53
+git: https://github.com/cure53
 logohandle: cure53de
 sort: cure53
 title: Cure53
-website: 'https://cure53.de/'
+website: https://cure53.de/
 ---

@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/xetra-trading'
+linkedin: https://linkedin.com/company/xetra-trading
 logohandle: xetra
 sort: xetra
 title: Xetra
-twitter: Xetra
-website: 'https://www.xetra.com/xetra-en/'
+twitter: https://x.com/Xetra
+website: https://www.xetra.com/xetra-en/
 ---

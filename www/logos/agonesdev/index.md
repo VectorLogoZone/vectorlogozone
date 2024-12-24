@@ -1,8 +1,8 @@
 ---
-github: googleforgames/agones
+git: https://github.com/googleforgames/agones
 logohandle: agonesdev
 sort: agones
 title: Agones
-twitter: agonesdev
-website: 'https://agones.dev/site/'
+twitter: https://x.com/agonesdev
+website: https://agones.dev/site/
 ---

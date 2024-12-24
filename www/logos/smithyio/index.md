@@ -1,7 +1,7 @@
 ---
-github: smithy-lang/smithy
+git: https://github.com/smithy-lang/smithy
 logohandle: smithyio
 sort: smithy
 title: Smithy
-website: 'https://smithy.io/'
+website: https://smithy.io/
 ---

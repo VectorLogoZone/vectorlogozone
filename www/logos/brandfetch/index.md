@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/brandfetch'
-linkedin: 'https://linkedin.com/company/brandfetch'
+blog: https://medium.com/brandfetch
+linkedin: https://linkedin.com/company/brandfetch
 logohandle: brandfetch
 sort: brandfetch
 title: Brandfetch
-twitter: brandfetch
-website: 'https://brandfetch.com/'
+twitter: https://x.com/brandfetch
+website: https://brandfetch.com/
 ---

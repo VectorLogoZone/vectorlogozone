@@ -1,9 +1,9 @@
 ---
-github: apache/beam
+git: https://github.com/apache/beam
 logohandle: apache_beam
 sort: beam
 tags:
 - apache
 title: Beam
-website: 'https://beam.apache.org/'
+website: https://beam.apache.org/
 ---

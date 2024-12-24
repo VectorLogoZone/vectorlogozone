@@ -2,6 +2,6 @@
 logohandle: doceventio
 sort: docevent
 title: DocEvent
-twitter: doceventio
-website: 'https://docevent.io/'
+twitter: https://x.com/doceventio
+website: https://docevent.io/
 ---

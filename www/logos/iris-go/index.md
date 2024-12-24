@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/iris.framework'
-github: kataras/iris
+facebook: https://facebook.com/iris.framework
+git: https://github.com/kataras/iris
 logohandle: iris-go
 sort: iris
 title: Iris
-twitter: MakisMaropoulos
-website: 'https://iris-go.com/'
+twitter: https://x.com/MakisMaropoulos
+website: https://iris-go.com/
 ---

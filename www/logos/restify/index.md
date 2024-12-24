@@ -1,7 +1,7 @@
 ---
-github: restify/node-restify
+git: https://github.com/restify/node-restify
 logohandle: restify
 sort: restify
 title: Restify
-website: 'http://restify.com/'
+website: http://restify.com/
 ---

@@ -1,9 +1,9 @@
 ---
-blog: 'https://ext.net/blog'
-github: extnet
+blog: https://ext.net/blog
+git: https://github.com/extnet
 logohandle: extnet
 sort: ext
 title: Ext.NET
-twitter: extnet
-website: 'https://ext.net/'
+twitter: https://x.com/extnet
+website: https://ext.net/
 ---

@@ -1,5 +1,5 @@
 ---
-github: zenorocha/clipboard.js
+git: https://github.com/zenorocha/clipboard.js
 guide: https://github.com/zenorocha/clipboard.js/blob/gh-pages/assets/images/clippy.svg
 images:
 - clipboardjs-tile.svg

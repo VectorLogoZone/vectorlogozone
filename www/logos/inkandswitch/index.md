@@ -1,8 +1,8 @@
 ---
-github: inkandswitch
+git: https://github.com/inkandswitch
 logohandle: inkandswitch
 sort: inkandswitch
 title: Ink & Switch
-twitter: inkandswitch
-website: 'https://www.inkandswitch.com/'
+twitter: https://x.com/inkandswitch
+website: https://www.inkandswitch.com/
 ---

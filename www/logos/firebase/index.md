@@ -1,7 +1,7 @@
 ---
 blog: https://firebase.googleblog.com/
 facebook: https://www.facebook.com/Firebase/
-github: firebase
+git: https://github.com/firebase
 guide: https://firebase.google.com/brand-guidelines/
 images:
 - firebase-ar21.svg
@@ -12,7 +12,7 @@ tags:
 - google
 - paas
 title: Firebase
-twitter: Firebase
+twitter: https://x.com/Firebase
 website: https://firebase.google.com/
 wikipedia: https://en.wikipedia.org/wiki/Firebase
 ---

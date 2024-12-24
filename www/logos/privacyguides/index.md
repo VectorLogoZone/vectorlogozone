@@ -1,8 +1,8 @@
 ---
-github: privacyguides
+git: https://github.com/privacyguides
 logohandle: privacyguides
 sort: privacyguides
 title: Privacy Guides
-twitter: privacy_guides
-website: 'https://www.privacyguides.org/'
+twitter: https://x.com/privacy_guides
+website: https://www.privacyguides.org/
 ---

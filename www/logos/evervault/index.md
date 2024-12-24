@@ -1,9 +1,9 @@
 ---
-github: evervault
-linkedin: 'https://linkedin.com/company/evervault'
+git: https://github.com/evervault
+linkedin: https://linkedin.com/company/evervault
 logohandle: evervault
 sort: evervault
 title: Evervault
-twitter: evervault
-website: 'https://evervault.com/'
+twitter: https://x.com/evervault
+website: https://evervault.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: chakra-ui/panda
+git: https://github.com/chakra-ui/panda
 logohandle: panda-css
 sort: pandacss
 title: Panda CSS
-twitter: panda__css
-website: 'https://panda-css.com/'
+twitter: https://x.com/panda__css
+website: https://panda-css.com/
 ---

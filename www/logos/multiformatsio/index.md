@@ -1,7 +1,7 @@
 ---
-github: multiformats/multiformats
+git: https://github.com/multiformats/multiformats
 logohandle: multiformatsio
 sort: multiformats
 title: Multiformats
-website: 'https://multiformats.io/'
+website: https://multiformats.io/
 ---

@@ -1,8 +1,8 @@
 ---
-github: chaostoolkit
+git: https://github.com/chaostoolkit
 logohandle: chaostoolkit
 sort: chaostoolkit
 title: Chaostoolkit
-twitter: chaostoolkit
-website: 'https://chaostoolkit.org/'
+twitter: https://x.com/chaostoolkit
+website: https://chaostoolkit.org/
 ---

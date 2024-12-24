@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/ScaleLeap'
-github: ScaleLeap
+facebook: https://facebook.com/ScaleLeap
+git: https://github.com/ScaleLeap
 logohandle: scaleleap
 sort: scaleleap
 title: ScaleLeap
-twitter: ScaleLeap
-website: 'https://www.scaleleap.com/'
+twitter: https://x.com/ScaleLeap
+website: https://www.scaleleap.com/
 ---

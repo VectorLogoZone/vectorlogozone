@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/primcloud'
-github: primcloud
+facebook: https://facebook.com/primcloud
+git: https://github.com/primcloud
 logohandle: primcloud
 sort: primcloud
 title: Primcloud
-twitter: primcloud
-website: 'https://primcloud.com/'
+twitter: https://x.com/primcloud
+website: https://primcloud.com/
 ---

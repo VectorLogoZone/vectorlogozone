@@ -1,7 +1,7 @@
 ---
-github: kiegroup/kogito-website
+git: https://github.com/kiegroup/kogito-website
 logohandle: kie_kogito
 sort: kogito
 title: Kogito
-website: 'https://kogito.kie.org/'
+website: https://kogito.kie.org/
 ---

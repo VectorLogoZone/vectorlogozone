@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/veracrypt'
+facebook: https://facebook.com/veracrypt
 logohandle: veracryptfr
 sort: veracrypt
 title: VeraCrypt
-twitter: VeraCrypt_IDRIX
-website: 'https://www.veracrypt.fr/'
+twitter: https://x.com/VeraCrypt_IDRIX
+website: https://www.veracrypt.fr/
 ---

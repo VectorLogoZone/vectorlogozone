@@ -1,8 +1,8 @@
 ---
-blog: 'https://causal.app/blog/'
+blog: https://causal.app/blog/
 logohandle: causalapp
 sort: causal
 title: Causal
-twitter: causalhq
-website: 'https://www.causal.app/'
+twitter: https://x.com/causalhq
+website: https://www.causal.app/
 ---

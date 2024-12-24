@@ -1,10 +1,10 @@
 ---
-github: pipebird/pipebird
-linkedin: 'https://linkedin.com/company/pipebird'
+git: https://github.com/pipebird/pipebird
+linkedin: https://linkedin.com/company/pipebird
 logohandle: pipebird
 sort: pipebird
 title: Pipebird
-twitter: getpipebird
-website: 'https://pipebird.com/'
-youtube: 'https://youtube.com/channel/UCpeWghpuqO6qxoOdVsLWyCA'
+twitter: https://x.com/getpipebird
+website: https://pipebird.com/
+youtube: https://youtube.com/channel/UCpeWghpuqO6qxoOdVsLWyCA
 ---

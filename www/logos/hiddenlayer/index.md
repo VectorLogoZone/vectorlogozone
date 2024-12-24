@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/hiddenlayersec'
+linkedin: https://linkedin.com/company/hiddenlayersec
 logohandle: hiddenlayer
 sort: hiddenlayer
 title: HiddenLayer
-twitter: hiddenlayersec
-website: 'https://hiddenlayer.com/'
+twitter: https://x.com/hiddenlayersec
+website: https://hiddenlayer.com/
 ---

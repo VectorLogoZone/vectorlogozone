@@ -1,9 +1,9 @@
 ---
-blog: 'https://okteto.com/blog'
-github: okteto/okteto
+blog: https://okteto.com/blog
+git: https://github.com/okteto/okteto
 logohandle: okteto
 sort: okteto
 title: Okteto
-twitter: oktetohq
-website: 'https://okteto.com/'
+twitter: https://x.com/oktetohq
+website: https://okteto.com/
 ---

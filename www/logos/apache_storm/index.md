@@ -4,6 +4,6 @@ sort: apache_storm
 tags:
 - apache
 title: Apache Storm
-twitter: ApacheStorm
-website: 'https://storm.apache.org/'
+twitter: https://x.com/ApacheStorm
+website: https://storm.apache.org/
 ---

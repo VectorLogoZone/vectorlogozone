@@ -12,6 +12,6 @@ instagram: https://www.instagram.com/thebuymeacoffee/
 logohandle: buymeacoffee
 sort: buymeacoffee
 title: BuyMeACoffee
-twitter: TheBuyMeACoffee
+twitter: https://x.com/TheBuyMeACoffee
 website: https://www.buymeacoffee.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: infracost/infracost
+git: https://github.com/infracost/infracost
 logohandle: infracostio
 sort: infracost
 title: Infracost
-twitter: infracost
-website: 'https://www.infracost.io/'
+twitter: https://x.com/infracost
+website: https://www.infracost.io/
 ---

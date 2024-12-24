@@ -1,5 +1,5 @@
 ---
-github: fileformat/heatmaptv
+git: https://github.com/fileformat/heatmaptv
 images:
 - heatmaptv-ar21.svg
 - heatmaptv-icon.svg

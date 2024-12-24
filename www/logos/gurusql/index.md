@@ -2,6 +2,6 @@
 logohandle: gurusql
 sort: gurusql
 title: GuruSQL
-twitter: guruai2099
-website: 'https://www.gurusql.com/'
+twitter: https://x.com/guruai2099
+website: https://www.gurusql.com/
 ---

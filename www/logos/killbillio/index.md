@@ -1,10 +1,10 @@
 ---
-blog: 'https://killbill.io/blog'
-github: sponsors/killbill
+blog: https://killbill.io/blog
+git: https://github.com/sponsors/killbill
 logohandle: killbillio
 sort: killbill
 title: Kill Bill
-twitter: killbillio
-website: 'https://killbill.io/'
-youtube: 'https://youtube.com/channel/UChXICgGipKvJbtzKfM1SNoQ'
+twitter: https://x.com/killbillio
+website: https://killbill.io/
+youtube: https://youtube.com/channel/UChXICgGipKvJbtzKfM1SNoQ
 ---

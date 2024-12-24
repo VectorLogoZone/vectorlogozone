@@ -1,8 +1,8 @@
 ---
-github: wafris
+git: https://github.com/wafris
 logohandle: wafris
 sort: wafris
 title: Wafris
-twitter: wafrisorg
-website: 'https://wafris.org/'
+twitter: https://x.com/wafrisorg
+website: https://wafris.org/
 ---

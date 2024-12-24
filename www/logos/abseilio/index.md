@@ -1,8 +1,8 @@
 ---
-github: abseil
+git: https://github.com/abseil
 logohandle: abseilio
 sort: abseil
 title: abseil
-twitter: abseilio
-website: 'https://abseil.io/'
+twitter: https://x.com/abseilio
+website: https://abseil.io/
 ---

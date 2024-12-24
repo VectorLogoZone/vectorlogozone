@@ -1,8 +1,8 @@
 ---
-github: gravitl/netmaker
-linkedin: 'https://linkedin.com/company/gravitl'
+git: https://github.com/gravitl/netmaker
+linkedin: https://linkedin.com/company/gravitl
 logohandle: netmakerio
 sort: netmaker
 title: Netmaker
-website: 'https://www.netmaker.io/'
+website: https://www.netmaker.io/
 ---

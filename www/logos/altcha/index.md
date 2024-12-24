@@ -1,7 +1,7 @@
 ---
-github: altcha-org/altcha
+git: https://github.com/altcha-org/altcha
 logohandle: altcha
 sort: altcha
 title: ALTCHA
-website: 'https://altcha.org/'
+website: https://altcha.org/
 ---

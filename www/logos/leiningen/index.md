@@ -1,7 +1,7 @@
 ---
-github: technomancy/leiningen
+git: https://github.com/technomancy/leiningen
 logohandle: leiningen
 sort: leiningen
 title: Leiningen
-website: 'https://leiningen.org/'
+website: https://leiningen.org/
 ---

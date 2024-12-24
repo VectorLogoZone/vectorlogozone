@@ -1,7 +1,7 @@
 ---
-github: openlayers/openlayers
+git: https://github.com/openlayers/openlayers
 logohandle: openlayers
 sort: openlayers
 title: OpenLayers
-website: 'https://openlayers.org/'
+website: https://openlayers.org/
 ---

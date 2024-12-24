@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/emvi'
-github: emvi
+blog: https://medium.com/emvi
+git: https://github.com/emvi
 logohandle: emvi
 sort: emvi
 title: Emvi
-twitter: emvi
-website: 'https://emvi.com/'
+twitter: https://x.com/emvi
+website: https://emvi.com/
 ---

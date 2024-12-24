@@ -1,8 +1,8 @@
 ---
-github: pgxman
+git: https://github.com/pgxman
 logohandle: pgxman
 sort: pgxman
 title: pgxman
-twitter: pgxman
-website: 'https://pgxman.com/'
+twitter: https://x.com/pgxman
+website: https://pgxman.com/
 ---

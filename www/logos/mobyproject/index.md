@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.mobyproject.org/'
-github: moby/moby
+blog: https://blog.mobyproject.org/
+git: https://github.com/moby/moby
 logohandle: mobyproject
 sort: moby
 title: Moby
-twitter: moby
-website: 'https://mobyproject.org/'
+twitter: https://x.com/moby
+website: https://mobyproject.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: uracreative/identihub
+git: https://github.com/uracreative/identihub
 logohandle: identihubco
 sort: identihub
 title: Identihub
-twitter: identihub
-website: 'https://www.identihub.co/'
+twitter: https://x.com/identihub
+website: https://www.identihub.co/
 ---

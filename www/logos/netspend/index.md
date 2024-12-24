@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/netspend'
-linkedin: 'https://linkedin.com/company/netspend-corporation'
+facebook: https://facebook.com/netspend
+linkedin: https://linkedin.com/company/netspend-corporation
 logohandle: netspend
 sort: netspend
 title: Netspend
-twitter: netspend
-website: 'https://www.netspend.com/'
-youtube: 'https://youtube.com/user/netspend'
+twitter: https://x.com/netspend
+website: https://www.netspend.com/
+youtube: https://youtube.com/user/netspend
 ---

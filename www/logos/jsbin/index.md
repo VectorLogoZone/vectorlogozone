@@ -1,9 +1,9 @@
 ---
-blog: 'http://jsbin.com/blog'
-github: jsbin/jsbin
+blog: http://jsbin.com/blog
+git: https://github.com/jsbin/jsbin
 logohandle: jsbin
 sort: jsbin
 title: JS Bin
-twitter: js_bin
-website: 'https://jsbin.com/'
+twitter: https://x.com/js_bin
+website: https://jsbin.com/
 ---

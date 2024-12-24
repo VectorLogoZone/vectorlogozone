@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/symascorp'
+facebook: https://facebook.com/symascorp
 logohandle: symas
 sort: symas
 title: Symas
-twitter: symascorp
-website: 'https://symas.com/'
+twitter: https://x.com/symascorp
+website: https://symas.com/
 ---

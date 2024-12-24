@@ -1,7 +1,7 @@
 ---
-github: buger/goreplay
+git: https://github.com/buger/goreplay
 logohandle: goreplay
 sort: goreplay
 title: GoReplay
-website: 'https://goreplay.org/'
+website: https://goreplay.org/
 ---

@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/wallabag'
-github: wallabag/wallabag
+facebook: https://facebook.com/wallabag
+git: https://github.com/wallabag/wallabag
 logohandle: wallabag
 sort: wallabag
 title: wallabag
-twitter: wallabagapp
-website: 'https://wallabag.org/en'
+twitter: https://x.com/wallabagapp
+website: https://wallabag.org/en
 ---

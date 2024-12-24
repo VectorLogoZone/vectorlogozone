@@ -1,13 +1,13 @@
 ---
-blog: 'https://hop.apache.org/blog/'
-github: apache/hop
-linkedin: 'https://linkedin.com/company/apachehop'
+blog: https://hop.apache.org/blog/
+git: https://github.com/apache/hop
+linkedin: https://linkedin.com/company/apachehop
 logohandle: apache_hop
 sort: hop
 tags:
 - apache
 title: Hop
-twitter: ApacheHop
-website: 'https://hop.apache.org/'
-youtube: 'https://youtube.com/channel/UCGlcYslwe03Y2zbZ1W6DAGA'
+twitter: https://x.com/ApacheHop
+website: https://hop.apache.org/
+youtube: https://youtube.com/channel/UCGlcYslwe03Y2zbZ1W6DAGA
 ---

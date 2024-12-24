@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/readrestofworld/'
-instagram: 'https://instagram.com/restofworld'
-linkedin: 'https://linkedin.com/company/restofworld/'
+facebook: https://facebook.com/readrestofworld/
+instagram: https://instagram.com/restofworld
+linkedin: https://linkedin.com/company/restofworld/
 logohandle: restofworld
 sort: restofworld
 title: Rest of World
-twitter: restofworld
-website: 'https://restofworld.org/'
+twitter: https://x.com/restofworld
+website: https://restofworld.org/
 ---

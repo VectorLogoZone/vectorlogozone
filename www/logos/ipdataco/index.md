@@ -1,8 +1,8 @@
 ---
-github: ipdata
+git: https://github.com/ipdata
 logohandle: ipdataco
 sort: ipdata
 title: ipdata
-twitter: ipdata_co
-website: 'https://ipdata.co/'
+twitter: https://x.com/ipdata_co
+website: https://ipdata.co/
 ---

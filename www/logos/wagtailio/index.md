@@ -1,8 +1,8 @@
 ---
-github: wagtail/wagtail
+git: https://github.com/wagtail/wagtail
 logohandle: wagtailio
 sort: wagtail
 title: Wagtail
-twitter: wagtailcms
-website: 'https://wagtail.io/'
+twitter: https://x.com/wagtailcms
+website: https://wagtail.io/
 ---

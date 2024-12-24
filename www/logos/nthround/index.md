@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/nthround'
+facebook: https://facebook.com/nthround
 logohandle: nthround
 sort: nthround
 title: Nth Round
-twitter: NthRound
-website: 'https://www.nthround.com/'
+twitter: https://x.com/NthRound
+website: https://www.nthround.com/
 ---

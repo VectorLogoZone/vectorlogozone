@@ -2,6 +2,6 @@
 logohandle: streambeats
 sort: streambeats
 title: StreamBeats
-twitter: HarrisHeller
-website: 'https://www.streambeats.com/'
+twitter: https://x.com/HarrisHeller
+website: https://www.streambeats.com/
 ---

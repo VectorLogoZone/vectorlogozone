@@ -1,10 +1,10 @@
 ---
-blog: 'https://vector.dev/blog/'
-github: timberio/vector
-guide: 'https://vector.dev/press/'
+blog: https://vector.dev/blog/
+git: https://github.com/timberio/vector
+guide: https://vector.dev/press/
 logohandle: vectordev
 sort: vector
 title: Vector
-twitter: timberdotio
-website: 'https://vector.dev/'
+twitter: https://x.com/timberdotio
+website: https://vector.dev/
 ---

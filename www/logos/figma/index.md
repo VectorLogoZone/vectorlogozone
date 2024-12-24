@@ -7,10 +7,10 @@ images:
 instagram: https://www.instagram.com/figmadesign/
 logohandle: figma
 other:
-  - name: Medium
-    url: https://medium.com/figma-design
+- name: Medium
+  url: https://medium.com/figma-design
 sort: figma
 title: Figma
-twitter: figmadesign
+twitter: https://x.com/figmadesign
 website: https://www.figma.com/
 ---

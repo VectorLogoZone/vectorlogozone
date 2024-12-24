@@ -1,8 +1,8 @@
 ---
-github: fyne-io
+git: https://github.com/fyne-io
 logohandle: fyneio
 sort: fyne
 title: Fyne
-twitter: fyne_io
-website: 'https://fyne.io/'
+twitter: https://x.com/fyne_io
+website: https://fyne.io/
 ---

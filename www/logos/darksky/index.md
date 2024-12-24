@@ -1,12 +1,12 @@
 ---
 blog: https://blog.darksky.net/
-github: darkskyapp
+git: https://github.com/darkskyapp
 images:
 - darksky-icon.svg
 - darksky-ar21.svg
 logohandle: darksky
 sort: darksky
 title: Darksky
-twitter: darkskyapp
+twitter: https://x.com/darkskyapp
 website: https://darksky.net/
 ---

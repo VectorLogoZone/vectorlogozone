@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/exercism.io'
-github: exercism
+facebook: https://facebook.com/exercism.io
+git: https://github.com/exercism
 logohandle: exercism
 sort: exercism
 title: Exercism
-twitter: exercism_io
-website: 'https://exercism.org/'
+twitter: https://x.com/exercism_io
+website: https://exercism.org/
 ---

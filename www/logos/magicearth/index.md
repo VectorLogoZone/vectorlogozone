@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/GeneralMagicCompany'
+facebook: https://facebook.com/GeneralMagicCompany
 logohandle: magicearth
 sort: magicearth
 title: Magic Earth
-twitter: GeneralMagicCo
-website: 'https://www.magicearth.com/'
+twitter: https://x.com/GeneralMagicCo
+website: https://www.magicearth.com/
 ---

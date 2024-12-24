@@ -1,10 +1,10 @@
 ---
-blog: 'https://medium.com/@fullcycle'
-facebook: 'https://facebook.com/FullCycleCo'
-linkedin: 'https://linkedin.com/company/fullcycleco'
+blog: https://medium.com/@fullcycle
+facebook: https://facebook.com/FullCycleCo
+linkedin: https://linkedin.com/company/fullcycleco
 logohandle: fullcycle
 sort: fullcycle
 title: FullCycle
-twitter: fullcycleco
-website: 'https://www.fullcycle.com/'
+twitter: https://x.com/fullcycleco
+website: https://www.fullcycle.com/
 ---

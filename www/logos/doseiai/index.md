@@ -1,7 +1,7 @@
 ---
-github: doseiai
+git: https://github.com/doseiai
 logohandle: doseiai
 sort: dosei
 title: Dosei
-website: 'https://dosei.ai/'
+website: https://dosei.ai/
 ---

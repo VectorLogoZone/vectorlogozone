@@ -2,6 +2,6 @@
 logohandle: polyscaleai
 sort: polyscale
 title: Polyscale.ai
-twitter: PolyScaleAi
-website: 'https://www.polyscale.ai/'
+twitter: https://x.com/PolyScaleAi
+website: https://www.polyscale.ai/
 ---

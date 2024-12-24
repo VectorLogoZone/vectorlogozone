@@ -1,8 +1,8 @@
 ---
-github: nyousefi/Fountain
+git: https://github.com/nyousefi/Fountain
 logohandle: fountainio
 sort: fountain
 title: Fountain
-twitter: ryannelson
-website: 'https://fountain.io/'
+twitter: https://x.com/ryannelson
+website: https://fountain.io/
 ---

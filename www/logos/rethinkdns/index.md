@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.rethinkdns.com/'
+blog: https://blog.rethinkdns.com/
 logohandle: rethinkdns
 sort: rethinkdns
 title: RethinkDNS
-twitter: rethinkdns
-website: 'https://rethinkdns.com/'
+twitter: https://x.com/rethinkdns
+website: https://rethinkdns.com/
 ---

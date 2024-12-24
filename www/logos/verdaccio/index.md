@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/verdaccio'
-github: verdaccio
+blog: https://medium.com/verdaccio
+git: https://github.com/verdaccio
 logohandle: verdaccio
 sort: verdaccio
 title: Verdaccio
-twitter: verdaccio_npm
-website: 'https://verdaccio.org/'
+twitter: https://x.com/verdaccio_npm
+website: https://verdaccio.org/
 ---

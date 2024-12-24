@@ -1,7 +1,7 @@
 ---
-github: dropwizard/metrics
+git: https://github.com/dropwizard/metrics
 logohandle: dropwizardio_metrics
 sort: metrics
 title: Metrics
-website: 'https://metrics.dropwizard.io/'
+website: https://metrics.dropwizard.io/
 ---

@@ -1,7 +1,7 @@
 ---
-github: DistriNet/tranco-list
+git: https://github.com/DistriNet/tranco-list
 logohandle: trancolisteu
 sort: tranco
 title: Tranco
-website: 'https://tranco-list.eu/'
+website: https://tranco-list.eu/
 ---

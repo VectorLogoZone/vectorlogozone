@@ -1,7 +1,7 @@
 ---
-github: iced-rs/iced
+git: https://github.com/iced-rs/iced
 logohandle: icedrs
 sort: iced
 title: iced
-website: 'https://iced.rs/'
+website: https://iced.rs/
 ---

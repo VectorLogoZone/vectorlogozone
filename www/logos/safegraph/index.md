@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/SafeGraph'
-linkedin: 'https://linkedin.com/company/safegraph'
+facebook: https://facebook.com/SafeGraph
+linkedin: https://linkedin.com/company/safegraph
 logohandle: safegraph
 sort: safegraph
 title: SafeGraph
-twitter: safegraph
-website: 'https://www.safegraph.com/'
+twitter: https://x.com/safegraph
+website: https://www.safegraph.com/
 ---

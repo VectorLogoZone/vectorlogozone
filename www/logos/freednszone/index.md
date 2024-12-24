@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/freedns.zone'
+facebook: https://facebook.com/freedns.zone
 logohandle: freednszone
 sort: freedns
 title: FreeDNS
-twitter: free_dns
-website: 'https://freedns.zone/en/why/'
+twitter: https://x.com/free_dns
+website: https://freedns.zone/en/why/
 ---

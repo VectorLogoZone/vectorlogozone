@@ -1,8 +1,8 @@
 ---
-github: flarum
+git: https://github.com/flarum
 logohandle: flarum
 sort: flarum
 title: Flarum
-twitter: Flarum
-website: 'https://flarum.org/'
+twitter: https://x.com/Flarum
+website: https://flarum.org/
 ---

@@ -1,10 +1,10 @@
 ---
-blog: 'https://impossiblecloud.com/blog/'
-github: impossiblecloud
-linkedin: 'https://linkedin.com/company/impossiblecloud'
+blog: https://impossiblecloud.com/blog/
+git: https://github.com/impossiblecloud
+linkedin: https://linkedin.com/company/impossiblecloud
 logohandle: impossiblecloud
 sort: impossiblecloud
 title: Impossible Cloud
-twitter: IMP0SSIBLECL0UD
-website: 'https://www.impossiblecloud.com/'
+twitter: https://x.com/IMP0SSIBLECL0UD
+website: https://www.impossiblecloud.com/
 ---

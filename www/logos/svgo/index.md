@@ -1,5 +1,5 @@
 ---
-github: svg/svgo
+git: https://github.com/svg/svgo
 images:
 - svgo-icon.svg
 - svgo-ar21.svg

@@ -1,8 +1,7 @@
 ---
-github: typesense/typesense
+git: https://github.com/typesense/typesense
 logohandle: typesense
 sort: typesense
-title: 'Typesense'
-website: 'https://typesense.org/'
+title: Typesense
+website: https://typesense.org/
 ---
-

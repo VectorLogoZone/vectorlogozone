@@ -1,7 +1,7 @@
 ---
-github: slimtoolkit/slim
+git: https://github.com/slimtoolkit/slim
 logohandle: slimtoolkit
 sort: slimtoolkit
 title: SlimToolkit
-website: 'https://slimtoolkit.org/'
+website: https://slimtoolkit.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: eduardoboucas/staticman
+git: https://github.com/eduardoboucas/staticman
 logohandle: staticmannet
 sort: staticman
 title: Staticman
-twitter: staticmanapp
-website: 'https://staticman.net/'
+twitter: https://x.com/staticmanapp
+website: https://staticman.net/
 ---

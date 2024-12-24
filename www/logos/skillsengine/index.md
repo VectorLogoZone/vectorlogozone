@@ -2,6 +2,6 @@
 logohandle: skillsengine
 sort: skillsengine
 title: SkillsEngine
-twitter: skillsengine
-website: 'https://skillsengine.com/'
+twitter: https://x.com/skillsengine
+website: https://skillsengine.com/
 ---

@@ -2,6 +2,6 @@
 logohandle: tellatv
 sort: tella
 title: Tella
-twitter: TellaHQ
-website: 'https://www.tella.tv/'
+twitter: https://x.com/TellaHQ
+website: https://www.tella.tv/
 ---

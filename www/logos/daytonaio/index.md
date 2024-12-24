@@ -1,10 +1,10 @@
 ---
-github: daytonaio/daytona
-linkedin: 'https://linkedin.com/company/daytonaio'
+git: https://github.com/daytonaio/daytona
+linkedin: https://linkedin.com/company/daytonaio
 logohandle: daytonaio
 sort: daytona
 title: Daytona
-twitter: daytonaio
-website: 'https://www.daytona.io/'
-youtube: 'https://youtube.com/@daytonaio'
+twitter: https://x.com/daytonaio
+website: https://www.daytona.io/
+youtube: https://youtube.com/@daytonaio
 ---

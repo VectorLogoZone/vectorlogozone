@@ -2,6 +2,6 @@
 logohandle: copytesting
 sort: copytesting
 title: Copytesting
-twitter: copytesting
-website: 'https://www.copytesting.com/'
+twitter: https://x.com/copytesting
+website: https://www.copytesting.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: potassco
+git: https://github.com/potassco
 logohandle: potassco
 sort: potassco
 title: Potassco
-website: 'https://potassco.org/'
+website: https://potassco.org/
 ---

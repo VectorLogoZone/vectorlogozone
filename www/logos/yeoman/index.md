@@ -1,6 +1,6 @@
 ---
 blog: http://yeoman.io/blog/
-github: yeoman
+git: https://github.com/yeoman
 guide: https://github.com/yeoman/media
 images:
 - yeoman-official.svg
@@ -13,7 +13,7 @@ tags:
 - devtools
 - build_tools
 title: Yeoman
-twitter: yeoman
+twitter: https://x.com/yeoman
 website: http://yeoman.io/
 wikipedia: https://en.wikipedia.org/wiki/Yeoman_(software)
 ---

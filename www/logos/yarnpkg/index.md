@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/yarnpkg'
-github: yarnpkg
+facebook: https://facebook.com/yarnpkg
+git: https://github.com/yarnpkg
 logohandle: yarnpkg
 sort: yarnpkg
 title: Yarn
-twitter: yarnpkg
-website: 'https://yarnpkg.com/en/'
+twitter: https://x.com/yarnpkg
+website: https://yarnpkg.com/en/
 ---

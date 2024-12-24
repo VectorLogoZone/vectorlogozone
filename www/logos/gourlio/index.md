@@ -1,8 +1,8 @@
 ---
-github: cryptoapi
+git: https://github.com/cryptoapi
 logohandle: gourlio
 sort: gourl
 title: GoUrl
-twitter: CryptocoinAPI
-website: 'https://gourl.io/'
+twitter: https://x.com/CryptocoinAPI
+website: https://gourl.io/
 ---

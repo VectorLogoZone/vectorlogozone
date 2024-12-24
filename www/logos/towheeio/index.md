@@ -1,8 +1,8 @@
 ---
-github: towhee-io/towhee
+git: https://github.com/towhee-io/towhee
 logohandle: towheeio
 sort: towhee
 title: Towhee
-twitter: towheeio
-website: 'https://towhee.io/'
+twitter: https://x.com/towheeio
+website: https://towhee.io/
 ---

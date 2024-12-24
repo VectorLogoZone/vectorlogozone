@@ -1,11 +1,11 @@
 ---
-blog: 'https://panther.com/blog'
-github: panther-labs
-linkedin: 'https://linkedin.com/company/panther-labs'
+blog: https://panther.com/blog
+git: https://github.com/panther-labs
+linkedin: https://linkedin.com/company/panther-labs
 logohandle: panther
 sort: panther
 title: Panther
-twitter: runpanther
-website: 'https://panther.com/'
-youtube: 'https://youtube.com/channel/UCL2-gqhyl3VbNU50xtPreGw'
+twitter: https://x.com/runpanther
+website: https://panther.com/
+youtube: https://youtube.com/channel/UCL2-gqhyl3VbNU50xtPreGw
 ---

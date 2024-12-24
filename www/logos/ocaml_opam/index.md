@@ -1,7 +1,7 @@
 ---
-github: ocaml/opam
+git: https://github.com/ocaml/opam
 logohandle: ocaml_opam
 sort: opam
 title: opam
-website: 'https://opam.ocaml.org/'
+website: https://opam.ocaml.org/
 ---

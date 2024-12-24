@@ -1,7 +1,7 @@
 ---
-github: fengari-lua
+git: https://github.com/fengari-lua
 logohandle: fengariio
 sort: fengari
 title: Fengari
-website: 'https://fengari.io/'
+website: https://fengari.io/
 ---

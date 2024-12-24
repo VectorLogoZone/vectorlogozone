@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.teable.io/'
-github: teableio/teable
+blog: https://blog.teable.io/
+git: https://github.com/teableio/teable
 logohandle: teableio
 sort: teable
 title: Teable
-twitter: teableio
-website: 'https://teable.io/'
+twitter: https://x.com/teableio
+website: https://teable.io/
 ---

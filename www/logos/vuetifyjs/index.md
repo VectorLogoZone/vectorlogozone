@@ -1,8 +1,8 @@
 ---
-github: vuetifyjs/vuetify
+git: https://github.com/vuetifyjs/vuetify
 logohandle: vuetifyjs
 sort: vuetifyjs
 title: Vuetify
-twitter: vuetifyjs
-website: 'https://vuetifyjs.com/en/'
+twitter: https://x.com/vuetifyjs
+website: https://vuetifyjs.com/en/
 ---

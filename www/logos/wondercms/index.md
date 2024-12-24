@@ -1,9 +1,9 @@
 ---
-github: robiso/wondercms
-linkedin: 'https://linkedin.com/in/masha-pogorevc-70b151a5'
+git: https://github.com/robiso/wondercms
+linkedin: https://linkedin.com/in/masha-pogorevc-70b151a5
 logohandle: wondercms
 sort: wondercms
 title: WonderCMS
-twitter: wondercms
-website: 'https://www.wondercms.com/'
+twitter: https://x.com/wondercms
+website: https://www.wondercms.com/
 ---

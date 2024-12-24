@@ -1,6 +1,6 @@
 ---
 blog: http://blog.kubernetes.io/
-github: kubernetes
+git: https://github.com/kubernetes
 guide: https://github.com/kubernetes/kubernetes/tree/master/logo
 images:
 - kubernetes-icon.svg
@@ -8,7 +8,7 @@ images:
 logohandle: kubernetes
 sort: kubernetes
 title: Kubernetes
-twitter: kubernetesio
+twitter: https://x.com/kubernetesio
 website: https://kubernetes.io/
 wikipedia: https://en.wikipedia.org/wiki/Kubernetes
 ---

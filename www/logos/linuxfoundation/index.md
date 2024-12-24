@@ -1,7 +1,7 @@
 ---
 blog: https://linuxfoundation.org/newsroom/blog
 facebook: https://www.facebook.com/TheLinuxFoundation
-github: linuxfoundation
+git: https://github.com/linuxfoundation
 googleplus: https://plus.google.com/+LinuxfoundationOrg
 images:
 - linuxfoundation-icon.svg
@@ -10,7 +10,7 @@ linkedin: https://linkedin.com/company/208777
 logohandle: linuxfoundation
 sort: linuxfoundation
 title: Linux Foundation
-twitter: linuxfoundation
+twitter: https://x.com/linuxfoundation
 website: https://www.linuxfoundation.org/
 wikipedia: https://en.wikipedia.org/wiki/Linux_Foundation
 youtube: https://youtube.com/user/TheLinuxFoundation

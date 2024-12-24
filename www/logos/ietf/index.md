@@ -1,6 +1,6 @@
 ---
 blog: https://www.ietf.org/blog/
-github: ietf
+git: https://github.com/ietf
 images:
 - ietf-ar21.svg
 - ietf-icon.svg

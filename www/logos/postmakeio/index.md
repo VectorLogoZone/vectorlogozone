@@ -2,6 +2,6 @@
 logohandle: postmakeio
 sort: postmake
 title: Postmake
-twitter: postmakeio
-website: 'https://postmake.io/'
+twitter: https://x.com/postmakeio
+website: https://postmake.io/
 ---

@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.thundra.io/'
-github: thundra-io
-linkedin: 'https://linkedin.com/company/thundra'
+blog: https://blog.thundra.io/
+git: https://github.com/thundra-io
+linkedin: https://linkedin.com/company/thundra
 logohandle: thundraio
 sort: thundra
 title: Thundra
-twitter: '@thundraio'
-website: 'https://www.thundra.io/'
+twitter: https://x.com/@thundraio
+website: https://www.thundra.io/
 ---

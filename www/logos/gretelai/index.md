@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/gretel-ai'
-github: gretelai
+blog: https://medium.com/gretel-ai
+git: https://github.com/gretelai
 logohandle: gretelai
 sort: gretel
 title: Gretel
-twitter: gretel_ai
-website: 'https://gretel.ai/'
+twitter: https://x.com/gretel_ai
+website: https://gretel.ai/
 ---

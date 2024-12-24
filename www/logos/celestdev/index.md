@@ -1,9 +1,9 @@
 ---
-github: celest-dev/celest
-linkedin: 'https://linkedin.com/in/dillon-nys'
+git: https://github.com/celest-dev/celest
+linkedin: https://linkedin.com/in/dillon-nys
 logohandle: celestdev
 sort: celest
 title: Celest
-twitter: celest_dev
-website: 'https://celest.dev/'
+twitter: https://x.com/celest_dev
+website: https://celest.dev/
 ---

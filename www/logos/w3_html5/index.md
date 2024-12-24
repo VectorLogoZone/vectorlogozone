@@ -1,5 +1,5 @@
 ---
-github: h5bp/html5-boilerplate
+git: https://github.com/h5bp/html5-boilerplate
 guide: https://www.w3.org/html/logo/
 images:
 - w3_html5-icon.svg

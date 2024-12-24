@@ -1,8 +1,8 @@
 ---
-github: netty/netty
+git: https://github.com/netty/netty
 logohandle: nettyio
 sort: netty
 title: Netty
-twitter: netty_project
-website: 'https://netty.io/'
+twitter: https://x.com/netty_project
+website: https://netty.io/
 ---

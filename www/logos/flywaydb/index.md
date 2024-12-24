@@ -1,8 +1,8 @@
 ---
-github: flyway/flyway
+git: https://github.com/flyway/flyway
 logohandle: flywaydb
 sort: flyway
 title: Flyway
-twitter: flywaydb
-website: 'https://flywaydb.org/'
+twitter: https://x.com/flywaydb
+website: https://flywaydb.org/
 ---

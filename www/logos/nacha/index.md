@@ -5,7 +5,7 @@ linkedin: https://www.linkedin.com/company/nacha
 logohandle: nacha
 sort: nacha
 title: NACHA
-twitter: NACHAOnline
+twitter: https://x.com/NACHAOnline
 website: https://www.nacha.org/
 wikipedia: https://en.wikipedia.org/wiki/NACHA
 youtube: https://www.youtube.com/c/nacha

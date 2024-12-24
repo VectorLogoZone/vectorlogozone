@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/planetscaledata'
-github: vitessio/vitess
-linkedin: 'https://linkedin.com/company/planetscale'
+facebook: https://facebook.com/planetscaledata
+git: https://github.com/vitessio/vitess
+linkedin: https://linkedin.com/company/planetscale
 logohandle: planetscale
 sort: planetscale
 title: PlanetScale
-twitter: planetscaledata
-website: 'https://www.planetscale.com/'
+twitter: https://x.com/planetscaledata
+website: https://www.planetscale.com/
 ---

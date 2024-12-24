@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.percy.io/'
-github: percy
+blog: https://blog.percy.io/
+git: https://github.com/percy
 logohandle: percyio
 sort: percy
 title: Percy
-twitter: percy_io
-website: 'https://percy.io/'
+twitter: https://x.com/percy_io
+website: https://percy.io/
 ---

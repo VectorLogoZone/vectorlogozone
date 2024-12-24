@@ -10,7 +10,7 @@ logohandle: dailymotion
 pinterest: https://www.pinterest.com/dailymotionusa
 sort: dailymotion
 title: dailymotion
-twitter: dailymotion
+twitter: https://x.com/dailymotion
 website: https://www.dailymotion.com/
 wikipedia: https://en.wikipedia.org/wiki/Dailymotion
 ---

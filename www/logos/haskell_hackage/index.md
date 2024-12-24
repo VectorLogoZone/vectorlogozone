@@ -1,7 +1,7 @@
 ---
-github: haskell/hackage-server
+git: https://github.com/haskell/hackage-server
 logohandle: haskell_hackage
 sort: hackage
 title: Hackage
-website: 'https://hackage.haskell.org/'
+website: https://hackage.haskell.org/
 ---

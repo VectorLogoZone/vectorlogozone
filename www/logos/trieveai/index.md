@@ -1,7 +1,7 @@
 ---
-github: devflowinc/trieve
+git: https://github.com/devflowinc/trieve
 logohandle: trieveai
 sort: trieve
 title: Trieve
-website: 'https://trieve.ai/'
+website: https://trieve.ai/
 ---

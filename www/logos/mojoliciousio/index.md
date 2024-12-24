@@ -1,8 +1,8 @@
 ---
-blog: 'https://mojolicious.io/blog/'
-github: mojolicious/mojo
+blog: https://mojolicious.io/blog/
+git: https://github.com/mojolicious/mojo
 logohandle: mojoliciousio
 sort: mojolicious
 title: mojolicious.io
-website: 'https://mojolicious.io/'
+website: https://mojolicious.io/
 ---

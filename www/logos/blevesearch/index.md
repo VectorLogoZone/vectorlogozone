@@ -1,8 +1,8 @@
 ---
-github: blevesearch/bleve
+git: https://github.com/blevesearch/bleve
 logohandle: blevesearch
 sort: blevesearch
 title: Bleve
-twitter: blevesearch
-website: 'http://blevesearch.com/'
+twitter: https://x.com/blevesearch
+website: http://blevesearch.com/
 ---

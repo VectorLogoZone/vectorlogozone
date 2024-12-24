@@ -1,8 +1,8 @@
 ---
-blog: 'https://medium.com/lambda-store'
+blog: https://medium.com/lambda-store
 logohandle: lambdastore
 sort: lambda
 title: Lambda Store
-twitter: Lambda__Store
-website: 'https://lambda.store/'
+twitter: https://x.com/Lambda__Store
+website: https://lambda.store/
 ---

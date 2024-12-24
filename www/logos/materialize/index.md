@@ -1,10 +1,10 @@
 ---
-blog: 'https://materialize.com/blog'
-github: MaterializeInc
-linkedin: 'https://linkedin.com/company/materializeinc'
+blog: https://materialize.com/blog
+git: https://github.com/MaterializeInc
+linkedin: https://linkedin.com/company/materializeinc
 logohandle: materialize
 sort: materialize
 title: Materialize
-twitter: materializeinc
-website: 'https://materialize.com/'
+twitter: https://x.com/materializeinc
+website: https://materialize.com/
 ---

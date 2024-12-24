@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/upcodes'
+linkedin: https://linkedin.com/company/upcodes
 logohandle: upcodes
 sort: up
 title: UpCodes
-twitter: upcodes
-website: 'https://up.codes/'
+twitter: https://x.com/upcodes
+website: https://up.codes/
 ---

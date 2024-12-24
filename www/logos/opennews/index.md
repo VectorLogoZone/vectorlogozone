@@ -1,8 +1,8 @@
 ---
-blog: 'https://opennews.org/blog/'
+blog: https://opennews.org/blog/
 logohandle: opennews
 sort: opennews
 title: OpenNews
-twitter: opennews
-website: 'https://opennews.org/'
+twitter: https://x.com/opennews
+website: https://opennews.org/
 ---

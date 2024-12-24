@@ -1,9 +1,9 @@
 ---
-github: osrf
-linkedin: 'https://linkedin.com/company/open-source-robotics-foundation'
+git: https://github.com/osrf
+linkedin: https://linkedin.com/company/open-source-robotics-foundation
 logohandle: openrobotics
 sort: openrobotics
 title: Open Robotics
-twitter: OpenRoboticsOrg
-website: 'https://www.openrobotics.org/'
+twitter: https://x.com/OpenRoboticsOrg
+website: https://www.openrobotics.org/
 ---

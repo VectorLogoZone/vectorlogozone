@@ -1,8 +1,8 @@
 ---
-github: ariakit/ariakit
+git: https://github.com/ariakit/ariakit
 logohandle: ariakit
 sort: ariakit
 title: Ariakit
-twitter: ariakitjs
-website: 'https://ariakit.org/'
+twitter: https://x.com/ariakitjs
+website: https://ariakit.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: opentimestamps
+git: https://github.com/opentimestamps
 logohandle: opentimestamps
 sort: opentimestamps
 title: OpenTimestamps
-twitter: opentimestamps
-website: 'https://opentimestamps.org/'
+twitter: https://x.com/opentimestamps
+website: https://opentimestamps.org/
 ---

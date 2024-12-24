@@ -1,8 +1,8 @@
 ---
-blog: 'https://openssf.org/blog'
-github: ossf
+blog: https://openssf.org/blog
+git: https://github.com/ossf
 logohandle: openssf
 sort: openssf
 title: Open Source Security Foundation
-website: 'https://openssf.org/'
+website: https://openssf.org/
 ---

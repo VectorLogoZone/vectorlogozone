@@ -1,8 +1,8 @@
 ---
-github: theia-ide/theia
+git: https://github.com/theia-ide/theia
 logohandle: theia-ide
 sort: theia-ide
 title: Theia
-twitter: theia_ide
-website: 'https://www.theia-ide.org/'
+twitter: https://x.com/theia_ide
+website: https://www.theia-ide.org/
 ---

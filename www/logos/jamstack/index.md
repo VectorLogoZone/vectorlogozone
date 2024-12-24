@@ -1,8 +1,8 @@
 ---
-github: jamstack/jamstack.org
-gitter: 'https://gitter.im/jamstack/community'
+git: https://github.com/jamstack/jamstack.org
+gitter: https://gitter.im/jamstack/community
 logohandle: jamstack
 sort: jamstack
 title: JAMstack
-website: 'https://jamstack.org/'
+website: https://jamstack.org/
 ---

@@ -1,7 +1,7 @@
 ---
-github: automerge
+git: https://github.com/automerge
 logohandle: automerge
 sort: automerge
 title: Automerge
-website: 'https://automerge.org/'
+website: https://automerge.org/
 ---

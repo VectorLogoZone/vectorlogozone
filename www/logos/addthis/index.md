@@ -5,7 +5,7 @@ colors:
 font:
   myfonts: https://www.myfonts.com/fonts/adobe/helvetica-neue/helveticaneue-medium/
   name: Helvetica Neue LT Std 65 Medium
-github: addthis
+git: https://github.com/addthis
 images:
 - addthis-ar21.svg
 - addthis-icon.svg
@@ -15,7 +15,7 @@ tags:
 - sharing
 - saas
 title: AddThis
-twitter: addthis
+twitter: https://x.com/addthis
 website: https://www.addthis.com/
 wikipedia: https://en.wikipedia.org/wiki/AddThis
 ---

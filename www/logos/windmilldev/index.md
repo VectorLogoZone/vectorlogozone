@@ -1,7 +1,7 @@
 ---
-github: windmill-labs/windmill
+git: https://github.com/windmill-labs/windmill
 logohandle: windmilldev
 sort: windmilldev
 title: Windmill
-website: 'https://docs.windmill.dev/'
+website: https://docs.windmill.dev/
 ---

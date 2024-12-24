@@ -1,9 +1,9 @@
 ---
-github: systeminit
-linkedin: 'https://linkedin.com/company/system-initiative'
+git: https://github.com/systeminit
+linkedin: https://linkedin.com/company/system-initiative
 logohandle: systeminit
 sort: systeminit
 title: System Initiative
-twitter: thesysteminit
-website: 'https://www.systeminit.com/'
+twitter: https://x.com/thesysteminit
+website: https://www.systeminit.com/
 ---

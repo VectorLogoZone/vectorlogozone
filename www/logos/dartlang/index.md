@@ -8,7 +8,7 @@ colors:
 font:
   google: https://fonts.google.com/specimen/Montserrat
   name: Montserrat
-github: dart-lang
+git: https://github.com/dart-lang
 guide: https://github.com/dart-lang/logos
 images:
 - dartlang-official.svg
@@ -19,7 +19,7 @@ sort: dartlang
 tags:
 - programming_language
 title: Dart
-twitter: dart_lang
+twitter: https://x.com/dart_lang
 website: https://www.dartlang.org/
 wikipedia: https://en.wikipedia.org/wiki/Dart_(programming_language)
 ---

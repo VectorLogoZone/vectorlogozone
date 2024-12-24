@@ -1,7 +1,7 @@
 ---
-github: antonreshetov/massCode
+git: https://github.com/antonreshetov/massCode
 logohandle: masscodeio
 sort: masscode
 title: massCode
-website: 'https://masscode.io/'
+website: https://masscode.io/
 ---

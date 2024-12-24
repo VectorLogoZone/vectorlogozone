@@ -1,8 +1,8 @@
 ---
-github: threatexpress
+git: https://github.com/threatexpress
 logohandle: threatexpress
 sort: threatexpress
 title: Threat Express
-twitter: joevest
-website: 'http://threatexpress.com/'
+twitter: https://x.com/joevest
+website: http://threatexpress.com/
 ---

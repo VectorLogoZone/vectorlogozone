@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.cocoapods.org/'
-github: CocoaPods/CocoaPods
+blog: https://blog.cocoapods.org/
+git: https://github.com/CocoaPods/CocoaPods
 logohandle: cocoapods
 sort: cocoapods
 title: CocoaPods
-twitter: CocoaPods
-website: 'https://cocoapods.org/'
-wikipedia: 'https://en.wikipedia.org/wiki/CocoaPods'
+twitter: https://x.com/CocoaPods
+website: https://cocoapods.org/
+wikipedia: https://en.wikipedia.org/wiki/CocoaPods
 ---

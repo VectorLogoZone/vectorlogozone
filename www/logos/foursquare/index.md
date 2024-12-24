@@ -8,11 +8,11 @@ images:
 instagram: https://www.instagram.com/foursquare/
 logohandle: foursquare
 other:
-  - name: Medium
-    url: http://medium.com/foursquare-direct
+- name: Medium
+  url: http://medium.com/foursquare-direct
 sort: foursquare
 title: foursquare
-twitter: Foursquare
+twitter: https://x.com/Foursquare
 website: https://foursquare.com/
 wikipedia: https://en.wikipedia.org/wiki/Foursquare
 ---

@@ -1,8 +1,8 @@
 ---
-github: libsql/libsql
+git: https://github.com/libsql/libsql
 logohandle: libsql
 sort: libsql
 title: libSQL
-twitter: libsqlhq
-website: 'https://libsql.org/'
+twitter: https://x.com/libsqlhq
+website: https://libsql.org/
 ---

@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/HundHQ'
-github: hundio
+facebook: https://facebook.com/HundHQ
+git: https://github.com/hundio
 logohandle: hundio
 sort: hund
 title: Hund
-twitter: HundHQ
-website: 'https://hund.io/'
+twitter: https://x.com/HundHQ
+website: https://hund.io/
 ---

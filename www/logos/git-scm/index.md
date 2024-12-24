@@ -4,7 +4,7 @@ font:
   myfonts: https://www.myfonts.com/fonts/type-together/adelle/
   name: Adelle
   url: http://www.type-together.com/Adelle
-github: git
+git: https://github.com/git
 guide: http://git-scm.com/downloads/logos
 images:
 - git-scm-ar21.svg

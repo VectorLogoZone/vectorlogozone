@@ -1,7 +1,7 @@
 ---
-github: jackrobertscott/authpack
+git: https://github.com/jackrobertscott/authpack
 logohandle: authpackio
 sort: authpack
 title: Authpack
-website: 'https://authpack.io/'
+website: https://authpack.io/
 ---

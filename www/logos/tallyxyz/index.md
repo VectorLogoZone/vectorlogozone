@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.tally.xyz/'
-github: withtally
+blog: https://blog.tally.xyz/
+git: https://github.com/withtally
 logohandle: tallyxyz
 sort: tally
 title: Tally
-twitter: tallyxyz
-website: 'https://www.tally.xyz/'
+twitter: https://x.com/tallyxyz
+website: https://www.tally.xyz/
 ---

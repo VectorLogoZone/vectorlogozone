@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/@transitapp/'
-facebook: 'http://facebook.com/transitapp'
+blog: https://medium.com/@transitapp/
+facebook: http://facebook.com/transitapp
 logohandle: transitapp
 sort: transitapp
 title: Transit App
-twitter: transitapp
-website: 'https://transitapp.com/'
+twitter: https://x.com/transitapp
+website: https://transitapp.com/
 ---

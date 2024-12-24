@@ -1,8 +1,8 @@
 ---
-github: mail-in-a-box/mailinabox
+git: https://github.com/mail-in-a-box/mailinabox
 logohandle: mailinaboxemail
 sort: mailinabox
 title: Mail-in-a-Box
-twitter: mailinabox
-website: 'https://mailinabox.email/'
+twitter: https://x.com/mailinabox
+website: https://mailinabox.email/
 ---

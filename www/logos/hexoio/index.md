@@ -2,7 +2,6 @@
 logohandle: hexoio
 sort: hexo
 title: Hexo
-twitter: hexojs
-website: 'https://hexo.io/'
+twitter: https://x.com/hexojs
+website: https://hexo.io/
 ---
-

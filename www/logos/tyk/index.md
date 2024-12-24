@@ -7,6 +7,6 @@ images:
 logohandle: tyk
 sort: tyk
 title: Tyk
-twitter: tyk_io
+twitter: https://x.com/tyk_io
 website: https://tyk.io/
 ---

@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.conjur.org/'
-github: cyberark/conjur
+blog: https://blog.conjur.org/
+git: https://github.com/cyberark/conjur
 logohandle: conjur
 sort: conjur
 title: Conjur
-website: 'https://www.conjur.org/'
+website: https://www.conjur.org/
 ---

@@ -1,8 +1,8 @@
 ---
-github: webrecorder
+git: https://github.com/webrecorder
 logohandle: webrecorder
 sort: webrecorder
 title: Webrecorder
-twitter: webrecorder_io
+twitter: https://x.com/webrecorder_io
 website: https://webrecorder.io/
 ---

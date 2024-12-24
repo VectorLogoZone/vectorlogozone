@@ -1,7 +1,7 @@
 ---
-github: mealie-recipes/mealie
+git: https://github.com/mealie-recipes/mealie
 logohandle: mealieio
 sort: mealie
 title: Mealie
-website: 'https://docs.mealie.io/'
+website: https://docs.mealie.io/
 ---

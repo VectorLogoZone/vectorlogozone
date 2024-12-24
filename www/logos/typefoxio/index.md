@@ -4,7 +4,7 @@ googleplus: https://plus.google.com/113217881905759783845
 logohandle: typefoxio
 sort: typefox
 title: TypeFox
-twitter: TypeFox_io
+twitter: https://x.com/TypeFox_io
 vimeo: https://vimeo.com/user2817486
 website: https://typefox.io/
 ---

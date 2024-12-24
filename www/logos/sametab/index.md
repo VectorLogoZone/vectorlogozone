@@ -1,8 +1,8 @@
 ---
-github: sametab
+git: https://github.com/sametab
 logohandle: sametab
 sort: sametab
 title: Sametab
-twitter: sametabhq
-website: 'https://www.sametab.com/'
+twitter: https://x.com/sametabhq
+website: https://www.sametab.com/
 ---

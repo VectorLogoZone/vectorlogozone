@@ -1,13 +1,13 @@
 ---
-blog: 'https://medium.com/@symfony'
-facebook: 'https://facebook.com/SymfonyFramework'
-github: symfony
-guide: 'https://symfony.com/logo'
+blog: https://medium.com/@symfony
+facebook: https://facebook.com/SymfonyFramework
+git: https://github.com/symfony
+guide: https://symfony.com/logo
 logohandle: symfony
 sort: symfony
 title: Symfony
-twitter: symfony
-website: 'https://symfony.com/'
-wikipedia: 'https://en.wikipedia.org/wiki/Symfony'
-youtube: 'https://youtube.com/user/SensioLabs'
+twitter: https://x.com/symfony
+website: https://symfony.com/
+wikipedia: https://en.wikipedia.org/wiki/Symfony
+youtube: https://youtube.com/user/SensioLabs
 ---

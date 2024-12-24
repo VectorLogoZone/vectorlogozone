@@ -10,7 +10,7 @@ tags:
 - bookmarking
 - simpleshare
 title: Pinboard
-twitter: Pinboard
+twitter: https://x.com/Pinboard
 website: https://pinboard.in/
 wikipedia: https://en.wikipedia.org/wiki/Pinboard_(website)
 ---

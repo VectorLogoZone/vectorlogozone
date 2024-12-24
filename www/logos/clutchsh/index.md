@@ -1,8 +1,8 @@
 ---
-github: lyft/clutch
+git: https://github.com/lyft/clutch
 logohandle: clutchsh
 sort: clutch
 title: Clutch
-twitter: clutchdotsh
-website: 'https://clutch.sh/'
+twitter: https://x.com/clutchdotsh
+website: https://clutch.sh/
 ---

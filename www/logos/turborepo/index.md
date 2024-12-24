@@ -1,8 +1,8 @@
 ---
-github: turborepo
+git: https://github.com/turborepo
 logohandle: turborepo
 sort: turborepo
 title: Turborepo
-twitter: turborepo
-website: 'https://turborepo.com/'
+twitter: https://x.com/turborepo
+website: https://turborepo.com/
 ---

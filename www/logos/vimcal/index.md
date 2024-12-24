@@ -1,8 +1,8 @@
 ---
-linkedin: 'https://linkedin.com/company/vimcal'
+linkedin: https://linkedin.com/company/vimcal
 logohandle: vimcal
 sort: vimcal
 title: Vimcal
-twitter: vimcal
-website: 'https://www.vimcal.com/'
+twitter: https://x.com/vimcal
+website: https://www.vimcal.com/
 ---

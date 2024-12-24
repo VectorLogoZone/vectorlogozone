@@ -1,10 +1,10 @@
 ---
-blog: 'https://medium.com/@SatoshiPay'
-facebook: 'https://facebook.com/satoshipay'
-github: satoshipay
+blog: https://medium.com/@SatoshiPay
+facebook: https://facebook.com/satoshipay
+git: https://github.com/satoshipay
 logohandle: satoshipayio
 sort: satoshipay
 title: SatoshiPay
-twitter: SatoshiPay
-website: 'https://satoshipay.io/'
+twitter: https://x.com/SatoshiPay
+website: https://satoshipay.io/
 ---

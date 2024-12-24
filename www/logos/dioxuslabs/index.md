@@ -1,8 +1,8 @@
 ---
-github: dioxuslabs/dioxus
+git: https://github.com/dioxuslabs/dioxus
 logohandle: dioxuslabs
 sort: dioxus
 title: Dioxus
-twitter: dioxuslabs
-website: 'https://dioxuslabs.com/'
+twitter: https://x.com/dioxuslabs
+website: https://dioxuslabs.com/
 ---

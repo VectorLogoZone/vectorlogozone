@@ -1,8 +1,8 @@
 ---
-github: taubyte/tau
-linkedin: 'https://linkedin.com/company/taubyte-page'
+git: https://github.com/taubyte/tau
+linkedin: https://linkedin.com/company/taubyte-page
 logohandle: taubyte
 sort: taubyte
 title: Tau
-website: 'https://taubyte.com/'
+website: https://taubyte.com/
 ---

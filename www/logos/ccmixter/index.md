@@ -2,6 +2,6 @@
 logohandle: ccmixter
 sort: ccmixter
 title: ccMixter
-twitter: ccMixterMusic
-website: 'http://ccmixter.org/'
+twitter: https://x.com/ccMixterMusic
+website: http://ccmixter.org/
 ---

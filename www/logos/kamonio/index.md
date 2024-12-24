@@ -1,8 +1,8 @@
 ---
-github: kamon-io/Kamon
+git: https://github.com/kamon-io/Kamon
 logohandle: kamonio
 sort: kamon
 title: Kamon
-twitter: kamonteam
-website: 'https://kamon.io/'
+twitter: https://x.com/kamonteam
+website: https://kamon.io/
 ---

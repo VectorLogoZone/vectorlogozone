@@ -1,7 +1,7 @@
 ---
-github: upscayl/upscayl
+git: https://github.com/upscayl/upscayl
 logohandle: upscayl
 sort: upscayl
 title: Upscayl
-website: 'https://www.upscayl.org/'
+website: https://www.upscayl.org/
 ---

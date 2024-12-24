@@ -1,6 +1,6 @@
 ---
 blog: https://www.openssl.org/blog/
-github: openssl/openssl
+git: https://github.com/openssl/openssl
 guide: https://github.com/openssl/web/tree/master/img
 images:
 - openssl-icon.svg

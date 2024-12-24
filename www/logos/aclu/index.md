@@ -12,7 +12,7 @@ tags:
 - charity
 - free_speech
 title: ACLU
-twitter: aclu
+twitter: https://x.com/aclu
 website: https://www.aclu.org/
 wikipedia: https://en.wikipedia.org/wiki/American_Civil_Liberties_Union
 ---

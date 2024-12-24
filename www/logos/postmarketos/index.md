@@ -1,9 +1,8 @@
 ---
-github: postmarketOS
+git: https://github.com/postmarketOS
 logohandle: postmarketos
 sort: postmarketos
 title: postmarketOS
-twitter: postmarketOS
-website: 'https://postmarketos.org/'
+twitter: https://x.com/postmarketOS
+website: https://postmarketos.org/
 ---
-

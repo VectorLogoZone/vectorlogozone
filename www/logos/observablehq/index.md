@@ -1,8 +1,8 @@
 ---
-github: observablehq
+git: https://github.com/observablehq
 logohandle: observablehq
 sort: observablehq
 title: Observable
-twitter: observablehq
-website: 'https://observablehq.com/'
+twitter: https://x.com/observablehq
+website: https://observablehq.com/
 ---

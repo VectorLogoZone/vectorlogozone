@@ -1,8 +1,8 @@
 ---
-blog: 'https://sleuth.io/blog'
+blog: https://sleuth.io/blog
 logohandle: sleuthio
 sort: sleuth
 title: Sleuth
-twitter: sleuth_io
-website: 'https://www.sleuth.io/'
+twitter: https://x.com/sleuth_io
+website: https://www.sleuth.io/
 ---

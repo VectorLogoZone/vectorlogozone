@@ -1,7 +1,7 @@
 ---
-github: orhan/trafico
+git: https://github.com/orhan/trafico
 logohandle: github_trafico
 sort: trafico
 title: trafico
-website: 'https://github.com/orhan/trafico'
+website: https://github.com/orhan/trafico
 ---

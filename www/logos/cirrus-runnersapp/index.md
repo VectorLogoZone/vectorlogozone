@@ -1,8 +1,8 @@
 ---
-github: cirruslabs
+git: https://github.com/cirruslabs
 logohandle: cirrus-runnersapp
 sort: cirrusrunners
 title: Cirrus Runners
-twitter: cirrus_labs
-website: 'https://cirrus-runners.app/'
+twitter: https://x.com/cirrus_labs
+website: https://cirrus-runners.app/
 ---

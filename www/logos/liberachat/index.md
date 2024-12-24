@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/liberachat'
+facebook: https://facebook.com/liberachat
 logohandle: liberachat
 sort: libera
 title: Libera Chat
-twitter: liberachat
-website: 'https://libera.chat/'
+twitter: https://x.com/liberachat
+website: https://libera.chat/
 ---

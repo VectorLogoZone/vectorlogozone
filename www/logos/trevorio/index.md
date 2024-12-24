@@ -1,7 +1,7 @@
 ---
-github: tagspace/trevor-demo
+git: https://github.com/tagspace/trevor-demo
 logohandle: trevorio
 sort: trevor
 title: Trevor.io
-website: 'https://trevor.io/'
+website: https://trevor.io/
 ---

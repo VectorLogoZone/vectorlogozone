@@ -1,7 +1,7 @@
 ---
-github: go-joe/joe
+git: https://github.com/go-joe/joe
 logohandle: joe-botnet
 sort: joe-bot
 title: Joe Bot
-website: 'https://joe-bot.net/'
+website: https://joe-bot.net/
 ---

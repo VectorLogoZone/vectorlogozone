@@ -1,9 +1,9 @@
 ---
-blog: 'https://medium.com/goodboy-digital'
-facebook: 'https://facebook.com/goodboydigital'
+blog: https://medium.com/goodboy-digital
+facebook: https://facebook.com/goodboydigital
 logohandle: pixijs
 sort: pixijs
 title: PixiJS
-twitter: goodboydigital
-website: 'https://www.pixijs.com/'
+twitter: https://x.com/goodboydigital
+website: https://www.pixijs.com/
 ---

@@ -1,13 +1,13 @@
 ---
 blog: https://blog.gradle.org/
-github: gradle
+git: https://github.com/gradle
 images:
 - gradle-ar21.svg
 - gradle-icon.svg
 logohandle: gradle
 sort: gradle
 title: Gradle
-twitter: gradle
+twitter: https://x.com/gradle
 website: https://gradle.org/
 wikipedia: https://en.wikipedia.org/wiki/Gradle
 ---

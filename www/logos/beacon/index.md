@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/beaconpress'
+facebook: https://facebook.com/beaconpress
 logohandle: beacon
-pinterest: 'http://pinterest.com/beaconpress'
+pinterest: http://pinterest.com/beaconpress
 sort: beacon
 title: Beacon Press
-twitter: beaconpressbks
-website: 'http://www.beacon.org/'
-youtube: 'http://youtube.com/beaconbroadside'
+twitter: https://x.com/beaconpressbks
+website: http://www.beacon.org/
+youtube: http://youtube.com/beaconbroadside
 ---

@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/tensult'
-github: tensult
-linkedin: 'https://linkedin.com/company/tensult'
+facebook: https://facebook.com/tensult
+git: https://github.com/tensult
+linkedin: https://linkedin.com/company/tensult
 logohandle: tensult
 sort: tensult
 title: Tensult
-twitter: tensultdotcom
-website: 'https://tensult.com/'
+twitter: https://x.com/tensultdotcom
+website: https://tensult.com/
 ---

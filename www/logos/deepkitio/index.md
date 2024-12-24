@@ -1,8 +1,8 @@
 ---
-github: deepkit/deepkit-framework
+git: https://github.com/deepkit/deepkit-framework
 logohandle: deepkitio
 sort: deepkit
 title: Deepkit
-twitter: deepkitIO
-website: 'https://deepkit.io/'
+twitter: https://x.com/deepkitIO
+website: https://deepkit.io/
 ---

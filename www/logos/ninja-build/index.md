@@ -1,7 +1,7 @@
 ---
-github: ninja-build/ninja
+git: https://github.com/ninja-build/ninja
 logohandle: ninja-build
 sort: ninjabuild
 title: Ninja
-website: 'https://ninja-build.org/'
+website: https://ninja-build.org/
 ---

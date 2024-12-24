@@ -2,6 +2,6 @@
 logohandle: joinfirefish
 sort: firefish
 title: Firefish
-twitter: '@JoinFirefish'
-website: 'https://joinfirefish.org/'
+twitter: https://x.com/@JoinFirefish
+website: https://joinfirefish.org/
 ---

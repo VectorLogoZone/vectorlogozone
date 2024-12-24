@@ -17,7 +17,7 @@ tags:
 - charity
 - open_source
 title: Apache Software Foundation
-twitter: TheASF
+twitter: https://x.com/TheASF
 website: http://apache.org/
 ---
 

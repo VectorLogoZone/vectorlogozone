@@ -1,10 +1,10 @@
 ---
-blog: 'https://blog.edgeless.systems/'
-github: edgelesssys
-linkedin: 'https://linkedin.com/company/edgeless-systems'
+blog: https://blog.edgeless.systems/
+git: https://github.com/edgelesssys
+linkedin: https://linkedin.com/company/edgeless-systems
 logohandle: edgelesssystems
 sort: edgeless
 title: Edgeless Systems
-twitter: edgelesssystems
-website: 'https://www.edgeless.systems/'
+twitter: https://x.com/edgelesssystems
+website: https://www.edgeless.systems/
 ---

@@ -2,6 +2,6 @@
 logohandle: signpathio
 sort: signpath
 title: SignPath
-twitter: SignPathIO
-website: 'https://about.signpath.io/'
+twitter: https://x.com/SignPathIO
+website: https://about.signpath.io/
 ---

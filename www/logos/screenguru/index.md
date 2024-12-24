@@ -1,7 +1,7 @@
 ---
-github: premieroctet/screen-guru
+git: https://github.com/premieroctet/screen-guru
 logohandle: screenguru
 sort: screenguru
 title: Screen Guru
-website: 'https://screen.guru/'
+website: https://screen.guru/
 ---

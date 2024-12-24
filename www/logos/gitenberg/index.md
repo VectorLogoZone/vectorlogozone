@@ -1,8 +1,8 @@
 ---
-github: gitenberg-dev
+git: https://github.com/gitenberg-dev
 logohandle: gitenberg
 sort: gitenberg
 title: GITenberg
-twitter: gitenberg
-website: 'https://www.gitenberg.org/'
+twitter: https://x.com/gitenberg
+website: https://www.gitenberg.org/
 ---

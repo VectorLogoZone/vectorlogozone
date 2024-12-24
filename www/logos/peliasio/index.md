@@ -1,8 +1,8 @@
 ---
-github: pelias
+git: https://github.com/pelias
 logohandle: peliasio
 sort: pelias
 title: Pelias
-twitter: pelias_geocoder
-website: 'https://pelias.io/'
+twitter: https://x.com/pelias_geocoder
+website: https://pelias.io/
 ---

@@ -8,6 +8,6 @@ tags:
 - crypto-currency
 - digital_assets
 title: Paxos
-twitter: paxosglobal
+twitter: https://x.com/paxosglobal
 website: https://www.paxos.com
 ---

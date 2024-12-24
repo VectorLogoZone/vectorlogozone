@@ -9,7 +9,7 @@ linkedin: https://www.linkedin.com/company/baidu-usa
 logohandle: baidu
 sort: baidu
 title: Baidu
-twitter: BaiduUSA
+twitter: https://x.com/BaiduUSA
 website: https://www.baidu.com/
 wikipedia: https://en.wikipedia.org/wiki/Baidu
 ---

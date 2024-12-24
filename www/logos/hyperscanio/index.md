@@ -1,7 +1,7 @@
 ---
-github: intel/hyperscan
+git: https://github.com/intel/hyperscan
 logohandle: hyperscanio
 sort: hyperscan
 title: Hyperscan.io
-website: 'https://www.hyperscan.io/'
+website: https://www.hyperscan.io/
 ---

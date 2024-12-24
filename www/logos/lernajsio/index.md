@@ -1,8 +1,8 @@
 ---
-github: lerna/lerna
+git: https://github.com/lerna/lerna
 logohandle: lernajsio
 sort: lernajs
 title: Lerna
-twitter: lernajs
-website: 'https://lernajs.io/'
+twitter: https://x.com/lernajs
+website: https://lernajs.io/
 ---

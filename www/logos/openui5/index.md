@@ -1,7 +1,7 @@
 ---
-github: SAP/openui5
+git: https://github.com/SAP/openui5
 logohandle: openui5
 sort: openui5
 title: OpenUI5
-website: 'https://openui5.org/'
+website: https://openui5.org/
 ---

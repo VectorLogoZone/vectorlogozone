@@ -1,8 +1,8 @@
 ---
-blog: 'https://medium.com/paketo-buildpacks'
-github: paketo-buildpacks
+blog: https://medium.com/paketo-buildpacks
+git: https://github.com/paketo-buildpacks
 logohandle: paketoio
 sort: paketo
 title: Paketo
-website: 'https://paketo.io/'
+website: https://paketo.io/
 ---

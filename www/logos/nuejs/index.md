@@ -1,7 +1,7 @@
 ---
-github: nuejs/nuejs
+git: https://github.com/nuejs/nuejs
 logohandle: nuejs
 sort: nuejs
 title: NueJS
-website: 'https://nuejs.org/'
+website: https://nuejs.org/
 ---

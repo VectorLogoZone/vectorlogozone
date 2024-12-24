@@ -4,7 +4,7 @@ facebook: https://www.facebook.com/VectorLogoZone/
 font:
   google: https://fonts.google.com/specimen/DM+Serif+Text
   name: DM Serif Text
-github: VectorLogoZone/logo-of-the-day
+git: https://github.com/VectorLogoZone/logo-of-the-day
 images:
 - vectorlogozone_lotd-icon.svg
 - vectorlogozone_lotd-ar21.svg

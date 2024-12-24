@@ -1,7 +1,7 @@
 ---
-github: vito/booklit
+git: https://github.com/vito/booklit
 logohandle: booklitpage
 sort: booklit
 title: Booklit
-website: 'https://booklit.page/'
+website: https://booklit.page/
 ---

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.okfn.org/
 facebook: https://facebook.com/OKFNetwork
-github: okfn
+git: https://github.com/okfn
 guide: https://github.com/okfn/ok-media/tree/master/graphics
 images:
 - okfn-ar21.svg
@@ -9,7 +9,7 @@ images:
 logohandle: okfn
 sort: openknowledge
 title: OpenKnowledge
-twitter: okfn
+twitter: https://x.com/okfn
 website: https://okfn.org/
 wikipedia: https://en.wikipedia.org/wiki/Open_Knowledge_International
 ---

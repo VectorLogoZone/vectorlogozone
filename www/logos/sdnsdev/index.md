@@ -1,7 +1,7 @@
 ---
-github: semihalev/sdns
+git: https://github.com/semihalev/sdns
 logohandle: sdnsdev
 sort: sdns
 title: SDNS
-website: 'https://sdns.dev/'
+website: https://sdns.dev/
 ---

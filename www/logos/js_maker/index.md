@@ -1,7 +1,7 @@
 ---
-github: Microsoft/maker.js
+git: https://github.com/Microsoft/maker.js
 logohandle: js_maker
 sort: makerjs
 title: Maker.js
-website: 'https://maker.js.org/'
+website: https://maker.js.org/
 ---

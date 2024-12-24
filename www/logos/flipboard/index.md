@@ -9,7 +9,7 @@ logohandle: flipboard
 sort: flipboard
 title: Flipboard
 tumblr: http://flipboard.tumblr.com/
-twitter: flipboard
+twitter: https://x.com/flipboard
 website: https://flipboard.com/
 wikipedia: https://en.wikipedia.org/wiki/Flipboard
 ---

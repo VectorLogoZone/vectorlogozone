@@ -1,7 +1,7 @@
 ---
-github: axios/axios
+git: https://github.com/axios/axios
 logohandle: axios-http
 sort: axios-http
 title: Axios
-website: 'https://axios-http.com/'
+website: https://axios-http.com/
 ---

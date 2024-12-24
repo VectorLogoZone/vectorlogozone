@@ -1,11 +1,11 @@
 ---
-facebook: 'https://www.facebook.com/lgtmhq/'
-github: lgtmhq
-googleplus: 'https://plus.google.com/106147712318647095994'
-linkedin: 'https://www.linkedin.com/company/lgtm'
+facebook: https://www.facebook.com/lgtmhq/
+git: https://github.com/lgtmhq
+googleplus: https://plus.google.com/106147712318647095994
+linkedin: https://www.linkedin.com/company/lgtm
 logohandle: lgtm
 sort: lgtm
 title: LGTM
-twitter: lgtmhq
-website: 'https://lgtm.com/'
+twitter: https://x.com/lgtmhq
+website: https://lgtm.com/
 ---

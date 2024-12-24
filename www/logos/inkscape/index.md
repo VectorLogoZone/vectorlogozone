@@ -14,7 +14,7 @@ tags:
 - graphics
 - software
 title: Inkscape
-twitter: inkscape
+twitter: https://x.com/inkscape
 website: https://inkscape.org/
 wikipedia: https://en.wikipedia.org/wiki/Inkscape
 ---

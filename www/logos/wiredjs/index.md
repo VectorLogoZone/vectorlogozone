@@ -1,7 +1,7 @@
 ---
-github: wiredjs/wired-elements
+git: https://github.com/wiredjs/wired-elements
 logohandle: wiredjs
 sort: wiredjs
 title: Wired Elements
-website: 'https://wiredjs.com/'
+website: https://wiredjs.com/
 ---

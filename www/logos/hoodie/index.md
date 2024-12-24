@@ -1,8 +1,8 @@
 ---
-github: hoodiehq/hoodie
+git: https://github.com/hoodiehq/hoodie
 logohandle: hoodie
 sort: hoodie
 title: Hoodie
-twitter: hoodiehq
-website: 'http://hood.ie/'
+twitter: https://x.com/hoodiehq
+website: http://hood.ie/
 ---

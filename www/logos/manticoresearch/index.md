@@ -1,10 +1,10 @@
 ---
-blog: 'https://manticoresearch.com/blog'
-github: manticoresoftware
-linkedin: 'https://linkedin.com/company/manticore-software'
+blog: https://manticoresearch.com/blog
+git: https://github.com/manticoresoftware
+linkedin: https://linkedin.com/company/manticore-software
 logohandle: manticoresearch
 sort: manticoresearch
 title: Manticore Search
-twitter: manticoresearch
-website: 'https://manticoresearch.com/'
+twitter: https://x.com/manticoresearch
+website: https://manticoresearch.com/
 ---

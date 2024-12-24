@@ -2,6 +2,6 @@
 logohandle: raptorgroup
 sort: raptorgroup
 title: Raptor Group
-twitter: raptorgroup
-website: 'https://www.raptorgroup.com/'
+twitter: https://x.com/raptorgroup
+website: https://www.raptorgroup.com/
 ---

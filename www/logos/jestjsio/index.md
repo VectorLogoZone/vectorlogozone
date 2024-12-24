@@ -1,9 +1,9 @@
 ---
-blog: 'https://jestjs.io/blog'
-github: facebook/jest
+blog: https://jestjs.io/blog
+git: https://github.com/facebook/jest
 logohandle: jestjsio
 sort: jestjs
 title: Jest
-twitter: fbjest
-website: 'https://jestjs.io/'
+twitter: https://x.com/fbjest
+website: https://jestjs.io/
 ---

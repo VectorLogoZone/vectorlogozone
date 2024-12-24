@@ -1,9 +1,9 @@
 ---
-linkedin: 'https://linkedin.com/company/sandboxaq'
+linkedin: https://linkedin.com/company/sandboxaq
 logohandle: sandboxaq
 sort: sandboxaq
 title: SandboxAQ
-twitter: sandboxaq
-website: 'https://www.sandboxaq.com/'
-youtube: 'https://youtube.com/@sandboxaq'
+twitter: https://x.com/sandboxaq
+website: https://www.sandboxaq.com/
+youtube: https://youtube.com/@sandboxaq
 ---

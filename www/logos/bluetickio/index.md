@@ -1,8 +1,8 @@
 ---
-facebook: 'https://facebook.com/Bluetick.io'
+facebook: https://facebook.com/Bluetick.io
 logohandle: bluetickio
 sort: bluetick
 title: Bluetick.io
-twitter: Bluetickio
-website: 'https://bluetick.io/'
+twitter: https://x.com/Bluetickio
+website: https://bluetick.io/
 ---

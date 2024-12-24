@@ -1,10 +1,10 @@
 ---
-blog: 'https://medium.com/streamlit'
-github: streamlit/streamlit
-linkedin: 'https://linkedin.com/company/streamlit'
+blog: https://medium.com/streamlit
+git: https://github.com/streamlit/streamlit
+linkedin: https://linkedin.com/company/streamlit
 logohandle: streamlitio
 sort: streamlit
 title: Streamlit
-twitter: streamlit
-website: 'https://www.streamlit.io/'
+twitter: https://x.com/streamlit
+website: https://www.streamlit.io/
 ---

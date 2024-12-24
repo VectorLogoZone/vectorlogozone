@@ -1,8 +1,8 @@
 ---
-github: microsoft/playwright
+git: https://github.com/microsoft/playwright
 logohandle: playwrightdev
 sort: playwright
 title: Playwright
-twitter: playwrightweb
-website: 'https://playwright.dev/'
+twitter: https://x.com/playwrightweb
+website: https://playwright.dev/
 ---

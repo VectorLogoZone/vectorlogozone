@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/osmandapp'
-github: osmandapp
+facebook: https://facebook.com/osmandapp
+git: https://github.com/osmandapp
 logohandle: osmandnet
 sort: osmand
 title: OsmAnd
-twitter: osmandapp
-website: 'https://osmand.net/'
+twitter: https://x.com/osmandapp
+website: https://osmand.net/
 ---

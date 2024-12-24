@@ -1,7 +1,7 @@
 ---
-github: rqlite
+git: https://github.com/rqlite
 logohandle: rqliteio
 sort: rqlite
 title: rqlite
-website: 'https://rqlite.io/'
+website: https://rqlite.io/
 ---

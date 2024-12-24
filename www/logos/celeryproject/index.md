@@ -1,7 +1,7 @@
 ---
-github: celery/celery
+git: https://github.com/celery/celery
 logohandle: celeryproject
 sort: celeryproject
 title: Celery
-website: 'http://www.celeryproject.org/'
+website: http://www.celeryproject.org/
 ---

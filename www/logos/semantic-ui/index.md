@@ -1,8 +1,8 @@
 ---
-github: Semantic-Org/Semantic-UI
-gitter: 'https://gitter.im/Semantic-Org/Semantic-UI'
+git: https://github.com/Semantic-Org/Semantic-UI
+gitter: https://gitter.im/Semantic-Org/Semantic-UI
 logohandle: semantic-ui
 sort: semantic-ui
 title: Semantic UI
-website: 'https://semantic-ui.com/'
+website: https://semantic-ui.com/
 ---

@@ -1,8 +1,8 @@
 ---
-github: niftylettuce
+git: https://github.com/niftylettuce
 logohandle: niftylettuce
 sort: niftylettuce
 title: niftylettuce
-twitter: niftylettuce
-website: 'https://niftylettuce.com/'
+twitter: https://x.com/niftylettuce
+website: https://niftylettuce.com/
 ---

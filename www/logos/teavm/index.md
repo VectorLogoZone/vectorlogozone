@@ -1,7 +1,7 @@
 ---
-github: konsoletyper/teavm
+git: https://github.com/konsoletyper/teavm
 logohandle: teavm
 sort: teavm
 title: TeaVM
-website: 'http://teavm.org/'
+website: http://teavm.org/
 ---

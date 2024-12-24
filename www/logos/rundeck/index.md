@@ -1,9 +1,9 @@
 ---
-blog: 'https://rundeck.com/blog'
-linkedin: 'https://linkedin.com/company/17928739'
+blog: https://rundeck.com/blog
+linkedin: https://linkedin.com/company/17928739
 logohandle: rundeck
 sort: rundeck
 title: Rundeck
-twitter: Rundeck
-website: 'https://www.rundeck.com/'
+twitter: https://x.com/Rundeck
+website: https://www.rundeck.com/
 ---

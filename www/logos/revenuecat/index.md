@@ -1,8 +1,8 @@
 ---
-github: RevenueCat
+git: https://github.com/RevenueCat
 logohandle: revenuecat
 sort: revenuecat
 title: RevenueCat
-twitter: revenuecat
-website: 'https://www.revenuecat.com/'
+twitter: https://x.com/revenuecat
+website: https://www.revenuecat.com/
 ---

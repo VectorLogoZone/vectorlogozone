@@ -1,10 +1,10 @@
 ---
-blog: 'https://xatkit.com/blog'
-facebook: 'https://facebook.com/xatkit'
-github: xatkit-bot-platform/xatkit
+blog: https://xatkit.com/blog
+facebook: https://facebook.com/xatkit
+git: https://github.com/xatkit-bot-platform/xatkit
 logohandle: xatkit
 sort: xatkit
 title: Xatkit
-twitter: xatkit
-website: 'https://xatkit.com/'
+twitter: https://x.com/xatkit
+website: https://xatkit.com/
 ---

@@ -1,6 +1,6 @@
 ---
 blog: http://www.stumbleupon.com/blog
-github: stumbleupon
+git: https://github.com/stumbleupon
 images:
 - stumbleupon-ar21.svg
 - stumbleupon-tile.svg
@@ -11,7 +11,7 @@ tags:
 - bookmarking
 - simpleshare
 title: StumbleUpon
-twitter: StumbleUpon
+twitter: https://x.com/StumbleUpon
 website: https://www.stumbleupon.com/
 wikipedia: https://en.wikipedia.org/wiki/StumbleUpon
 ---

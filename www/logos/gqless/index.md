@@ -1,8 +1,8 @@
 ---
-github: gqless/gqless
+git: https://github.com/gqless/gqless
 logohandle: gqless
 sort: gqless
 title: GQLess
-twitter: gqlessdev
-website: 'https://gqless.com/'
+twitter: https://x.com/gqlessdev
+website: https://gqless.com/
 ---

@@ -3,7 +3,7 @@ font:
   myfonts: https://www.myfonts.com/fonts/redrooster/harry-pro/fat/
   name: Harry Fat
   url: https://www.youworkforthem.com/font/T2067/harry-pro?refby=vectorlogozone
-github: thomaspark/bootswatch
+git: https://github.com/thomaspark/bootswatch
 guide: https://github.com/thomaspark/bootswatch/tree/v5/docs/_assets/img
 images:
 - bootswatch-icon.svg
@@ -13,6 +13,6 @@ sort: bootswatch
 tags:
 - webdesign
 title: Bootswatch
-twitter: bootswatch
+twitter: https://x.com/bootswatch
 website: http://bootswatch.com/
 ---

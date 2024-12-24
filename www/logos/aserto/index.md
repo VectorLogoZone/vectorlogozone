@@ -1,7 +1,7 @@
 ---
-github: aserto-dev
+git: https://github.com/aserto-dev
 logohandle: aserto
 sort: aserto
 title: Aserto
-website: 'https://www.aserto.com/'
+website: https://www.aserto.com/
 ---

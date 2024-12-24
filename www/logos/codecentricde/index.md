@@ -8,7 +8,7 @@ linkedin: http://www.linkedin.com/company/codecentric-ag
 logohandle: codecentricde
 sort: codecentric
 title: codecentric
-twitter: codecentric
+twitter: https://x.com/codecentric
 website: https://www.codecentric.de/
 xing: https://www.xing.com/companies/codecentricgmbh
 youtube: https://www.youtube.com/user/codecentricAG

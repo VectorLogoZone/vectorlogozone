@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/crownstack'
-linkedin: 'https://linkedin.com/company/crownstack'
+facebook: https://facebook.com/crownstack
+linkedin: https://linkedin.com/company/crownstack
 logohandle: crownstack
 sort: crownstack
 title: Crownstack
-twitter: CrownStack
-website: 'https://www.crownstack.com/'
+twitter: https://x.com/CrownStack
+website: https://www.crownstack.com/
 ---

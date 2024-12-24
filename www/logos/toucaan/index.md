@@ -1,8 +1,8 @@
 ---
-blog: 'https://bubblin.io/blog/category/toucaan'
-github: bookiza/toucaan
+blog: https://bubblin.io/blog/category/toucaan
+git: https://github.com/bookiza/toucaan
 logohandle: toucaan
 sort: toucaan
 title: Toucaan
-website: 'https://www.toucaan.com/'
+website: https://www.toucaan.com/
 ---

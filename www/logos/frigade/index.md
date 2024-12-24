@@ -1,9 +1,9 @@
 ---
-github: FrigadeHQ
-linkedin: 'https://linkedin.com/company/frigade'
+git: https://github.com/FrigadeHQ
+linkedin: https://linkedin.com/company/frigade
 logohandle: frigade
 sort: frigade
 title: Frigade
-twitter: FrigadeHQ
-website: 'https://frigade.com/'
+twitter: https://x.com/FrigadeHQ
+website: https://frigade.com/
 ---

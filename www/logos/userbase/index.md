@@ -1,8 +1,8 @@
 ---
-github: encrypted-dev/userbase
+git: https://github.com/encrypted-dev/userbase
 logohandle: userbase
 sort: userbase
 title: Userbase
-twitter: UserbaseHQ
-website: 'https://userbase.com/'
+twitter: https://x.com/UserbaseHQ
+website: https://userbase.com/
 ---

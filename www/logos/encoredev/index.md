@@ -1,8 +1,8 @@
 ---
-github: encoredev/encore
+git: https://github.com/encoredev/encore
 logohandle: encoredev
 sort: encore
 title: Encore
-twitter: encoredotdev
-website: 'https://encore.dev/'
+twitter: https://x.com/encoredotdev
+website: https://encore.dev/
 ---

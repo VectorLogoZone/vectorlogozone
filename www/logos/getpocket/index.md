@@ -1,7 +1,7 @@
 ---
 blog: http://getpocket.com/blog/
 facebook: https://facebook.com/pocket
-github: pocket
+git: https://github.com/pocket
 images:
 - getpocket-tile.svg
 logohandle: getpocket
@@ -10,7 +10,7 @@ tags:
 - bookmarking
 - simpleshare
 title: Pocket
-twitter: pocket
+twitter: https://x.com/pocket
 website: https://getpocket.com/
 wikipedia: https://en.wikipedia.org/wiki/Pocket_(service)
 ---

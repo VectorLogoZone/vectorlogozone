@@ -1,8 +1,8 @@
 ---
-github: servo/servo
+git: https://github.com/servo/servo
 logohandle: servo
 sort: servo
 title: Servo
-twitter: ServoDev
-website: 'https://servo.org/'
+twitter: https://x.com/ServoDev
+website: https://servo.org/
 ---

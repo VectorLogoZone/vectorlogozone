@@ -1,8 +1,8 @@
 ---
-instagram: 'https://instagram.com/recursecenter'
+instagram: https://instagram.com/recursecenter
 logohandle: recurse
 sort: recurse
 title: The Recurse Center
-twitter: recursecenter
-website: 'https://www.recurse.com/'
+twitter: https://x.com/recursecenter
+website: https://www.recurse.com/
 ---

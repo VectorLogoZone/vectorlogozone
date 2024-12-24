@@ -1,7 +1,7 @@
 ---
-github: apache/incubator-annotator
+git: https://github.com/apache/incubator-annotator
 logohandle: apache_annotator
 sort: annotator
 title: Apache Annotator
-website: 'https://annotator.apache.org/'
+website: https://annotator.apache.org/
 ---

@@ -1,5 +1,5 @@
 ---
-github: draios/sysdig
+git: https://github.com/draios/sysdig
 logohandle: sysdig
 sort: sysdig
 title: Sysdig

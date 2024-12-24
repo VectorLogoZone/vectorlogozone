@@ -1,9 +1,9 @@
 ---
-github: oxidecomputer
-linkedin: 'https://linkedin.com/company/oxidecomputer'
+git: https://github.com/oxidecomputer
+linkedin: https://linkedin.com/company/oxidecomputer
 logohandle: oxidecomputer
 sort: oxide
 title: Oxide Computer
-twitter: oxidecomputer
-website: 'https://oxide.computer/'
+twitter: https://x.com/oxidecomputer
+website: https://oxide.computer/
 ---

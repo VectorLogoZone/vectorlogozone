@@ -1,10 +1,10 @@
 ---
-facebook: 'https://facebook.com/pytorch'
-github: pytorch/pytorch
+facebook: https://facebook.com/pytorch
+git: https://github.com/pytorch/pytorch
 logohandle: pytorch
 sort: pytorch
 title: PyTorch
-twitter: pytorch
-website: 'https://pytorch.org/'
-wikipedia: 'https://en.wikipedia.org/wiki/PyTorch'
+twitter: https://x.com/pytorch
+website: https://pytorch.org/
+wikipedia: https://en.wikipedia.org/wiki/PyTorch
 ---

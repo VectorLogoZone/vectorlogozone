@@ -1,8 +1,8 @@
 ---
-linkedin: 'http://linkedin.com/company-beta/6452399'
+linkedin: http://linkedin.com/company-beta/6452399
 logohandle: jawsdb
 sort: jawsdb
 title: JawsDB
-twitter: jawsDB
-website: 'https://www.jawsdb.com/'
+twitter: https://x.com/jawsDB
+website: https://www.jawsdb.com/
 ---

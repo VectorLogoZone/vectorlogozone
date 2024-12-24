@@ -1,8 +1,8 @@
 ---
-github: hybridgroup/cylon
+git: https://github.com/hybridgroup/cylon
 logohandle: cylonjs
 sort: cylonjs
 title: Cylon.js
-twitter: CylonJS
-website: 'https://cylonjs.com/'
+twitter: https://x.com/CylonJS
+website: https://cylonjs.com/
 ---

@@ -1,7 +1,7 @@
 ---
-github: fishworks/gofish
+git: https://github.com/fishworks/gofish
 logohandle: gofish
 sort: gofish
 title: GoFish
-website: 'https://gofi.sh/'
+website: https://gofi.sh/
 ---

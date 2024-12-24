@@ -1,8 +1,8 @@
 ---
-github: phpstan/phpstan
+git: https://github.com/phpstan/phpstan
 logohandle: phpstan
 sort: phpstan
 title: PHPStan
-twitter: phpstan
-website: 'https://phpstan.org/'
+twitter: https://x.com/phpstan
+website: https://phpstan.org/
 ---

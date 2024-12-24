@@ -8,7 +8,7 @@ linkedin: https://linkedin.com/company/rakuten-viber
 logohandle: viber
 sort: viber
 title: Viber
-twitter: Viber
+twitter: https://x.com/Viber
 website: https://www.viber.com/
 wikipedia: https://en.wikipedia.org/wiki/Viber
 ---

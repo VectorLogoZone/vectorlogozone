@@ -1,8 +1,8 @@
 ---
-blog: 'https://blog.checklyhq.com/'
+blog: https://blog.checklyhq.com/
 logohandle: checklyhq
 sort: checklyhq
 title: Checkly
-twitter: checklyHQ
-website: 'https://www.checklyhq.com/'
+twitter: https://x.com/checklyHQ
+website: https://www.checklyhq.com/
 ---

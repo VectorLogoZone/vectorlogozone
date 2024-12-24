@@ -2,6 +2,6 @@
 logohandle: splashbaseco
 sort: splashbase
 title: splashbase
-twitter: splashbaseteam
-website: 'http://www.splashbase.co/'
+twitter: https://x.com/splashbaseteam
+website: http://www.splashbase.co/
 ---

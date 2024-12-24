@@ -1,9 +1,9 @@
 ---
-blog: 'https://blog.tanium.com/'
-linkedin: 'https://linkedin.com/company/2109024'
+blog: https://blog.tanium.com/
+linkedin: https://linkedin.com/company/2109024
 logohandle: tanium
 sort: tanium
 title: Tanium
-twitter: tanium
-website: 'https://www.tanium.com/'
+twitter: https://x.com/tanium
+website: https://www.tanium.com/
 ---

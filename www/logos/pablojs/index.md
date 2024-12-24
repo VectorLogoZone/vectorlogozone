@@ -1,8 +1,8 @@
 ---
-github: premasagar/pablo
+git: https://github.com/premasagar/pablo
 logohandle: pablojs
 sort: pablojs
 title: Pablo.js
-twitter: premasagar
-website: 'http://pablojs.com/'
+twitter: https://x.com/premasagar
+website: http://pablojs.com/
 ---

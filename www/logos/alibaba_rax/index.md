@@ -1,7 +1,7 @@
 ---
-github: alibaba/rax
+git: https://github.com/alibaba/rax
 logohandle: alibaba_rax
 sort: rax
 title: Rax
-website: 'https://alibaba.github.io/rax/'
+website: https://alibaba.github.io/rax/
 ---

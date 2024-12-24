@@ -1,10 +1,10 @@
 ---
-github: redpanda-data
-linkedin: 'https://linkedin.com/company/redpanda-data'
+git: https://github.com/redpanda-data
+linkedin: https://linkedin.com/company/redpanda-data
 logohandle: redpanda
 sort: redpanda
 title: Red Panda
-twitter: redpandadata
-website: 'https://redpanda.com/'
-youtube: 'https://youtube.com/channel/UCMrqRNX9Og3wFjuI-qMbKHw'
+twitter: https://x.com/redpandadata
+website: https://redpanda.com/
+youtube: https://youtube.com/channel/UCMrqRNX9Og3wFjuI-qMbKHw
 ---

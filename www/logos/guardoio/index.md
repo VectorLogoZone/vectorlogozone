@@ -2,6 +2,6 @@
 logohandle: guardoio
 sort: guardoio
 title: Guardo.io
-twitter: guardo_io
-website: 'https://guardo.io/'
+twitter: https://x.com/guardo_io
+website: https://guardo.io/
 ---

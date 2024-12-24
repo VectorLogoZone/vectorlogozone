@@ -1,10 +1,10 @@
 ---
-blog: 'https://medium.com/apache-mxnet'
-github: apache/mxnet
+blog: https://medium.com/apache-mxnet
+git: https://github.com/apache/mxnet
 logohandle: apache_mxnet
 sort: mxnet
 title: Apache MXNet
-twitter: apachemxnet
-website: 'https://mxnet.apache.org/'
-youtube: 'https://youtube.com/apachemxnet'
+twitter: https://x.com/apachemxnet
+website: https://mxnet.apache.org/
+youtube: https://youtube.com/apachemxnet
 ---

@@ -2,6 +2,6 @@
 logohandle: openbadges
 sort: openbadges
 title: Open Badges
-twitter: learningimpact
-website: 'https://openbadges.org/'
+twitter: https://x.com/learningimpact
+website: https://openbadges.org/
 ---

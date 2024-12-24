@@ -1,9 +1,9 @@
 ---
-blog: 'https://developmentseed.org/blog/'
-github: developmentseed
+blog: https://developmentseed.org/blog/
+git: https://github.com/developmentseed
 logohandle: developmentseed
 sort: developmentseed
 title: Development Seed
-twitter: developmentseed
-website: 'https://developmentseed.org/'
+twitter: https://x.com/developmentseed
+website: https://developmentseed.org/
 ---

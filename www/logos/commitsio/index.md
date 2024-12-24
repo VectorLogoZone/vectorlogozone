@@ -2,6 +2,6 @@
 logohandle: commitsio
 sort: commitsio
 title: Commits.io
-twitter: commits_io
-website: 'https://commits.io/'
+twitter: https://x.com/commits_io
+website: https://commits.io/
 ---

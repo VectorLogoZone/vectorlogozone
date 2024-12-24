@@ -1,9 +1,9 @@
 ---
-facebook: 'https://facebook.com/getzephyr'
-linkedin: 'https://linkedin.com/company/zephyr_2'
+facebook: https://facebook.com/getzephyr
+linkedin: https://linkedin.com/company/zephyr_2
 logohandle: getzephyr
 sort: zephyr
 title: Zephyr
-twitter: yourzephyr
-website: 'https://www.getzephyr.com/'
+twitter: https://x.com/yourzephyr
+website: https://www.getzephyr.com/
 ---

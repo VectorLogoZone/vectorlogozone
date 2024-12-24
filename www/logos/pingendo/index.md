@@ -2,6 +2,6 @@
 logohandle: pingendo
 sort: pingendo
 title: Pingendo
-twitter: Pingendo
-website: 'https://pingendo.com/'
+twitter: https://x.com/Pingendo
+website: https://pingendo.com/
 ---

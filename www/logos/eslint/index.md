@@ -1,9 +1,9 @@
 ---
-blog: 'https://eslint.org/blog'
-github: eslint/eslint
+blog: https://eslint.org/blog
+git: https://github.com/eslint/eslint
 logohandle: eslint
 sort: eslint
 title: ESLint
-twitter: geteslint
-website: 'https://eslint.org/'
+twitter: https://x.com/geteslint
+website: https://eslint.org/
 ---
