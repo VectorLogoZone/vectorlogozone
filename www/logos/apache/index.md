@@ -10,6 +10,7 @@ images:
 - apache-ar21.svg
 - apache-icon.svg
 logohandle: apache
+slack: https://the-asf.slack.com/
 sort: apache software foundation
 tags:
 - apache
@@ -19,6 +20,7 @@ tags:
 title: Apache Software Foundation
 twitter: https://x.com/TheASF
 website: http://apache.org/
+wikipedia: https://en.wikipedia.org/wiki/The_Apache_Software_Foundation
 ---
 
 [Format trademark policy](http://www.apache.org/foundation/marks/)
