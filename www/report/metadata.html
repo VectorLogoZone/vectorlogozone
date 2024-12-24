@@ -60,14 +60,14 @@ redirect_from: /logos/metadata.html
             <td>
                 {% if logopage.blog %}<a href="{{logopage.blog}}"><i class="fas fa-rss-square"></i>{% assign blogcount = blogcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.facebook %}<a rel="nofollow" href="{{logopage.facebook}}"><i class="fab fa-facebook"></i>{% assign facebookcount = facebookcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
-                {% if logopage.github %}<a href="https://www.github.com/{{logopage.github}}"><i class="fab fa-github"></i>{% assign githubcount = githubcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                {% if logopage.git %}<a href="{{logopage.git}}"><i class="far fa-code-branch"></i>{% assign githubcount = githubcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.googleplus %}<a rel="nofollow" href="{{logopage.googleplus}}"><i class="fab fa-google-plus-square "></i>{% assign googlepluscount = googlepluscount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.instagram %}<a rel="nofollow" href="{{logopage.instagram}}/"><i class="fab fa-instagram"></i>{% assign instagramcount = instagramcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.linkedin %}<a rel="nofollow" href="{{logopage.linkedin}}"><i class="fab fa-linkedin"></i>{% assign linkedincount = linkedincount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.pinterest %}<a rel="nofollow" href="{{logopage.pinterest}}/"><i class="fab fa-pinterest"></i>{% assign pinterestcount = pinterestcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.reddit %}<a rel="nofollow" href="{{logopage.reddit}}"><i class="fab fa-reddit"></i>{% assign redditcount = redditcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.tumblr %}<a rel="nofollow" href="{{logopage.tumblr}}"><i class="fab fa-tumblr"></i>{% assign tumblrcount = tumblrcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
-                {% if logopage.twitter %}<a rel="nofollow" href="https://www.twitter.com/{{logopage.twitter}}"><i class="fab fa-twitter"></i>{% assign twittercount = twittercount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                {% if logopage.twitter %}<a rel="nofollow" href="{{logopage.twitter}}"><i class="fab fa-twitter"></i>{% assign twittercount = twittercount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.youtube %}<a rel="nofollow" href="{{logopage.youtube}}"><i class="fab fa-youtube"></i>{% assign youtubecount = youtubecount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
             </td>
             <td class="text-center">

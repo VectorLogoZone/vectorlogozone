@@ -4,8 +4,8 @@
 - id: facebook
   iconhtml: <i class="fab fa-facebook"></i>
 
-- id: github
-  iconhtml: <i class="fab fa-github"></i>
+- id: git
+  iconhtml: <i class="far fa-code-branch"></i>
 
 - id: googleplus
   iconhtml: <i class="fab fa-google-plus-square "></i>
