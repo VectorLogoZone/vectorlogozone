@@ -1,6 +1,5 @@
 #
 # additional config to speed up rebuilds during local development
 #
-exclude: [ "*.sh", "logos/[^1imn]*" ]
-viewer: "http://localhost:5000/view.html"
+exclude: [ "*.sh", "logos/[^fgjw]*" ]
 production_url: "http://localhost:4000"

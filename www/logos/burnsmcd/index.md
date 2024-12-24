@@ -5,7 +5,7 @@ instagram: 'https://instagram.com/burnsmcdonnell'
 linkedin: 'https://linkedin.com/company/burns-%26-mcdonnell'
 logohandle: burnsmcd
 sort: burnsmcd
-title: Burns & McDonnell
+title: "Burns & McDonnell"
 twitter: BurnsMcDonnell
 website: 'https://www.burnsmcd.com/'
 youtube: 'https://youtube.com/user/burnsmcd'
