@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@RiotChat
-git: https://github.com/vector-im/riot-web
+codehost: https://github.com/https://github.com/vector-im/riot-web
 logohandle: riotim
 sort: riot
 title: Riot

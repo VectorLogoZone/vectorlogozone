@@ -1,5 +1,5 @@
 ---
-git: https://github.com/encrypted-dev/userbase
+codehost: https://github.com/https://github.com/encrypted-dev/userbase
 logohandle: userbase
 sort: userbase
 title: Userbase

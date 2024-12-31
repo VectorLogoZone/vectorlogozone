@@ -1,6 +1,6 @@
 ---
 blog: https://blog.webiny.com/
-git: https://github.com/webiny/webiny-js
+codehost: https://github.com/https://github.com/webiny/webiny-js
 logohandle: webiny
 sort: webiny
 title: Webiny

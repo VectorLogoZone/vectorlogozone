@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pydoit/doit
+codehost: https://github.com/https://github.com/pydoit/doit
 logohandle: pydoit
 sort: doit
 title: doit

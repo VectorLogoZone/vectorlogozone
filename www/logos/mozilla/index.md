@@ -1,7 +1,7 @@
 ---
 blog: https://blog.mozilla.org/
+codehost: https://github.com/https://github.com/mozilla
 facebook: https://www.facebook.com/mozilla
-git: https://github.com/mozilla
 guide: https://mozilla.ninja/mlogo
 images:
 - mozilla-icon.svg

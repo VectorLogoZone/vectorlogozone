@@ -1,6 +1,6 @@
 ---
 blog: https://terminusdb.com/blog
-git: https://github.com/terminusdb/terminus-server
+codehost: https://github.com/https://github.com/terminusdb/terminus-server
 linkedin: https://linkedin.com/company/terminusdb
 logohandle: terminusdb
 sort: terminusdb

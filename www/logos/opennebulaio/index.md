@@ -1,7 +1,7 @@
 ---
 blog: https://opennebula.io/blog
+codehost: https://github.com/https://github.com/OpenNebula/one
 facebook: https://facebook.com/OpenNebula-131479102555/
-git: https://github.com/OpenNebula/one
 linkedin: https://linkedin.com/groups/2292500/
 logohandle: opennebulaio
 sort: opennebula

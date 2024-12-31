@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pyscript/pyscript
+codehost: https://github.com/https://github.com/pyscript/pyscript
 logohandle: pyscriptnet
 sort: pyscript
 title: PyScript

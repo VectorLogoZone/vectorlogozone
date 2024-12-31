@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cockpit-project/cockpit
+codehost: https://github.com/https://github.com/cockpit-project/cockpit
 logohandle: cockpit-project
 sort: cockpit-project
 title: Cockpit

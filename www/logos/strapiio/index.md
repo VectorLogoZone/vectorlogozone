@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/strapi/strapi
 facebook: https://facebook.com/strapijs/
-git: https://github.com/strapi/strapi
 linkedin: https://linkedin.com/company/strapi
 logohandle: strapiio
 sort: strapi

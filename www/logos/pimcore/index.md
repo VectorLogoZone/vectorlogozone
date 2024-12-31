@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/pimcore
 facebook: https://facebook.com/pimcore
-git: https://github.com/pimcore
 googleplus: https://plus.google.com/+PimcoreOrg
 linkedin: https://linkedin.com/company/pimcore
 logohandle: pimcore

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.cloudflare.com/
-git: https://github.com/honojs
+codehost: https://github.com/https://github.com/honojs
 logohandle: honodev
 sort: hono
 title: Hono

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/daytonaio/daytona
+codehost: https://github.com/https://github.com/daytonaio/daytona
 linkedin: https://linkedin.com/company/daytonaio
 logohandle: daytonaio
 sort: daytona

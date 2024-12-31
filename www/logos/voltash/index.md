@@ -1,6 +1,6 @@
 ---
 blog: https://blog.volta.sh/
-git: https://github.com/volta-cli/volta
+codehost: https://github.com/https://github.com/volta-cli/volta
 logohandle: voltash
 sort: volta
 title: Volta

@@ -1,6 +1,6 @@
 ---
 blog: https://casbin.org/blog/
-git: https://github.com/casbin
+codehost: https://github.com/https://github.com/casbin
 logohandle: casbin
 sort: casbin
 title: Casbin

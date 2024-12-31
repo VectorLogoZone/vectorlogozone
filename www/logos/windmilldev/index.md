@@ -1,5 +1,5 @@
 ---
-git: https://github.com/windmill-labs/windmill
+codehost: https://github.com/https://github.com/windmill-labs/windmill
 logohandle: windmilldev
 sort: windmilldev
 title: Windmill

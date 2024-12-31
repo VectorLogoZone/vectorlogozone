@@ -1,5 +1,5 @@
 ---
-git: https://github.com/halogenica/beautifulhugo
+codehost: https://github.com/https://github.com/halogenica/beautifulhugo
 logohandle: apertis
 sort: apertis
 title: Apertis

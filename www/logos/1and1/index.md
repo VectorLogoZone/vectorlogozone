@@ -1,9 +1,9 @@
 ---
 blog: http://newsroom.1and1.com/
+codehost: https://github.com/https://github.com/1and1
 colors:
 - '#002276'
 facebook: https://www.facebook.com/1and1
-git: https://github.com/1and1
 images:
 - 1and1-icon.svg
 - 1and1-ar21.svg

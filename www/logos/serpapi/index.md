@@ -1,7 +1,7 @@
 ---
 blog: https://serpapi.com/blog
+codehost: https://github.com/https://github.com/serpapi
 facebook: https://facebook.com/serpapicom
-git: https://github.com/serpapi
 instagram: https://instagram.com/serpapicom
 logohandle: serpapi
 sort: serpapi

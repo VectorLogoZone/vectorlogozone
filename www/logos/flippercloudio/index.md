@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jnunemaker/flipper
+codehost: https://github.com/https://github.com/jnunemaker/flipper
 logohandle: flippercloudio
 sort: flippercloud
 title: Flipper

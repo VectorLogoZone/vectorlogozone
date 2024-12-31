@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zombodb/zombodb
+codehost: https://github.com/https://github.com/zombodb/zombodb
 logohandle: zombodb
 sort: zombodb
 title: ZomboDB

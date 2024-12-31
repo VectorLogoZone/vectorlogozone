@@ -1,5 +1,5 @@
 ---
-git: https://github.com/repology/repology
+codehost: https://github.com/https://github.com/repology/repology
 logohandle: repology
 sort: repology
 title: Repology

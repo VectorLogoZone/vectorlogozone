@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/donorbox/donorbox-api
 facebook: https://facebook.com/donorbox
-git: https://github.com/donorbox/donorbox-api
 linkedin: https://linkedin.com/company/donorbox
 logohandle: donorbox
 sort: donorbox

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/easysoft/zentaopms
 facebook: https://facebook.com/ZenTao-108755827372944
-git: https://github.com/easysoft/zentaopms
 linkedin: https://linkedin.com/company/1156596
 logohandle: zentaopm
 sort: zentao

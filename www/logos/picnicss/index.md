@@ -1,5 +1,5 @@
 ---
-git: https://github.com/franciscop/picnic
+codehost: https://github.com/https://github.com/franciscop/picnic
 logohandle: picnicss
 sort: picnicss
 title: Picnic CSS

@@ -1,7 +1,7 @@
 ---
 blog: https://polygon.io/blog
+codehost: https://github.com/https://github.com/polygon-io
 facebook: https://facebook.com/polygonio
-git: https://github.com/polygon-io
 linkedin: https://linkedin.com/company/polygon-io
 logohandle: polygonio
 sort: polygon

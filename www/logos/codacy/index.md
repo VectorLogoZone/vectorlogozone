@@ -1,6 +1,6 @@
 ---
 blog: https://www.codacy.com/blog
-git: https://github.com/codacy
+codehost: https://github.com/https://github.com/codacy
 guide: https://www.codacy.com/landing-page-assets/images/codacy-logo.svg
 linkedin: https://linkedin.com/company/codacy
 logohandle: codacy

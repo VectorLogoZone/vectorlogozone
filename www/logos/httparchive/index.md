@@ -1,5 +1,5 @@
 ---
-git: https://github.com/HTTPArchive
+codehost: https://github.com/https://github.com/HTTPArchive
 logohandle: httparchive
 sort: httparchive
 title: HTTP Archive

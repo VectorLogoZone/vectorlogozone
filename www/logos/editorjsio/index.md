@@ -1,5 +1,5 @@
 ---
-git: https://github.com/editor-js
+codehost: https://github.com/https://github.com/editor-js
 logohandle: editorjsio
 sort: editorjs
 title: Editor.js

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dalibo/pgbadger
+codehost: https://github.com/https://github.com/dalibo/pgbadger
 logohandle: dalibo_pgbadger
 sort: pgbadger
 title: pgBadger

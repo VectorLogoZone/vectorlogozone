@@ -1,5 +1,5 @@
 ---
-git: https://github.com/getsops/sops
+codehost: https://github.com/https://github.com/getsops/sops
 logohandle: getsopsio
 sort: sops
 title: SOPS

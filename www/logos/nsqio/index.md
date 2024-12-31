@@ -1,5 +1,5 @@
 ---
-git: https://github.com/nsqio/nsq
+codehost: https://github.com/https://github.com/nsqio/nsq
 logohandle: nsqio
 sort: nsq
 title: NSQ

@@ -1,7 +1,7 @@
 ---
 blog: https://balena.io/blog
+codehost: https://github.com/https://github.com/balena-io
 facebook: https://facebook.com/balenacloud
-git: https://github.com/balena-io
 instagram: https://instagram.com/balena_io
 linkedin: https://linkedin.com/company/balenaio
 logohandle: balenaio

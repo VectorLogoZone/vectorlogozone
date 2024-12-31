@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mockaroo
+codehost: https://github.com/https://github.com/mockaroo
 logohandle: mockaroo
 sort: mockaroo
 title: Mockaroo

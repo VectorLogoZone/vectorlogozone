@@ -1,10 +1,10 @@
 ---
 blog: https://keybase.io/blog
+codehost: https://github.com/https://github.com/keybase
 font:
   google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans
   url: https://en.wikipedia.org/wiki/Open_Sans
-git: https://github.com/keybase
 images:
 - keybase-tile.svg
 - keybase-official.svg

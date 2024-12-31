@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mercurius-js/mercurius
+codehost: https://github.com/https://github.com/mercurius-js/mercurius
 logohandle: mercuriusdev
 sort: mercurius
 title: Mercurius

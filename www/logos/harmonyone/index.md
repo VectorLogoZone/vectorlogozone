@@ -1,7 +1,7 @@
 ---
 blog: https://blog.harmony.one/
+codehost: https://github.com/https://github.com/harmony-one
 facebook: https://facebook.com/harmonyoneprotocol
-git: https://github.com/harmony-one
 instagram: https://instagram.com/harmonyprotocol
 linkedin: https://linkedin.com/company/harmony-one
 logohandle: harmonyone

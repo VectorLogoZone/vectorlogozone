@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tetratelabs
+codehost: https://github.com/https://github.com/tetratelabs
 linkedin: https://linkedin.com/company/tetrate/about
 logohandle: tetrateio
 sort: tetrate

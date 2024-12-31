@@ -1,6 +1,6 @@
 ---
 blog: https://dbos.dev/blog/
-git: https://github.com/dbos-inc
+codehost: https://github.com/https://github.com/dbos-inc
 linkedin: https://linkedin.com/company/dbos-inc
 logohandle: dbosdev
 sort: dbos

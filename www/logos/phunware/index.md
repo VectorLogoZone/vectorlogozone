@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/phunware
 facebook: https://facebook.com/phunware
-git: https://github.com/phunware
 instagram: https://instagram.com/phunware
 linkedin: https://linkedin.com/company/phunware
 logohandle: phunware

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.gitlocalize.com/
-git: https://github.com/gitlocalize
+codehost: https://github.com/https://github.com/gitlocalize
 logohandle: gitlocalize
 sort: gitlocalize
 title: GitLocalize

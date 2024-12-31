@@ -1,7 +1,7 @@
 ---
 blog: https://firebase.googleblog.com/
+codehost: https://github.com/https://github.com/firebase
 facebook: https://www.facebook.com/Firebase/
-git: https://github.com/firebase
 guide: https://firebase.google.com/brand-guidelines/
 images:
 - firebase-ar21.svg

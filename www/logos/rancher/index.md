@@ -1,7 +1,7 @@
 ---
 blog: https://rancher.com/blog
+codehost: https://github.com/https://github.com/rancher
 facebook: https://facebook.com/rancherlabs
-git: https://github.com/rancher
 linkedin: https://linkedin.com/groups/6977008/profile
 logohandle: rancher
 sort: rancher

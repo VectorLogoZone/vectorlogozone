@@ -1,5 +1,5 @@
 ---
-git: https://github.com/digitalbazaar
+codehost: https://github.com/https://github.com/digitalbazaar
 linkedin: https://linkedin.com/company/digital-bazaar-inc-/about
 logohandle: digitalbazaar
 sort: digitalbazaar

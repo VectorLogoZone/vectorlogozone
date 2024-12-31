@@ -1,5 +1,5 @@
 ---
-git: https://github.com/toml-lang/toml
+codehost: https://github.com/https://github.com/toml-lang/toml
 logohandle: github_toml
 sort: toml
 title: toml

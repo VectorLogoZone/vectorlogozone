@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kgretzky/evilginx2
+codehost: https://github.com/https://github.com/kgretzky/evilginx2
 logohandle: evilginx
 sort: evilginx
 title: Evilginx

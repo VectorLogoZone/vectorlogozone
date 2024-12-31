@@ -1,10 +1,10 @@
 ---
 blog: http://articles.fortawesome.com/
+codehost: https://github.com/https://github.com/FortAwesome/Font-Awesome
 font:
   myfonts: http://www.myfonts.com/fonts/exljbris/museo-slab/
   name: Museo Slab
   url: http://www.exljbris.com/museoslab.html
-git: https://github.com/FortAwesome/Font-Awesome
 images:
 - font-awesome-ar21.svg
 - font-awesome-icon.svg

@@ -1,6 +1,6 @@
 ---
 blog: https://plural.sh/blog
-git: https://github.com/pluralsh/plural
+codehost: https://github.com/https://github.com/pluralsh/plural
 linkedin: https://linkedin.com/company/pluralsh
 logohandle: pluralsh
 sort: plural

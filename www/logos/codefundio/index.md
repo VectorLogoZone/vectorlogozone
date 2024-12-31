@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gitcoinco/codefund
+codehost: https://github.com/https://github.com/gitcoinco/codefund
 logohandle: codefundio
 slack: https://gitcoin.co/slack
 sort: codefund

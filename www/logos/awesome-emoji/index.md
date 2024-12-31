@@ -1,5 +1,5 @@
 ---
-git: https://github.com/FileFormatInfo/awesome-emoji
+codehost: https://github.com/https://github.com/FileFormatInfo/awesome-emoji
 logohandle: awesome-emoji
 sort: awesomeemoji
 title: Awesome Emoji

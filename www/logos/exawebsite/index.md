@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ogham/exa
+codehost: https://github.com/https://github.com/ogham/exa
 logohandle: exawebsite
 sort: exa
 title: exa

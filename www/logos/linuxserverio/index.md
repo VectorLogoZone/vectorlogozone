@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/linuxserver
 facebook: https://facebook.com/linuxserver.io
-git: https://github.com/linuxserver
 logohandle: linuxserverio
 sort: linuxserver
 title: LinuxServer.io

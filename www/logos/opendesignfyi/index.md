@@ -1,5 +1,5 @@
 ---
-git: https://github.com/btk/opendesign
+codehost: https://github.com/https://github.com/btk/opendesign
 logohandle: opendesignfyi
 sort: opendesign
 title: Open Design

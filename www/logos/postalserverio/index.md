@@ -1,5 +1,5 @@
 ---
-git: https://github.com/postalserver/docs
+codehost: https://github.com/https://github.com/postalserver/docs
 logohandle: postalserverio
 sort: postalserver
 title: PostalServer

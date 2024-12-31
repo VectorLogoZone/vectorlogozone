@@ -1,7 +1,7 @@
 ---
 blog: https://blog.coveo.com/
+codehost: https://github.com/https://github.com/coveo
 facebook: https://facebook.com/coveolife
-git: https://github.com/coveo
 instagram: https://instagram.com/coveolife
 logohandle: coveo
 sort: coveo

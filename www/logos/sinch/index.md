@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/aFarkas/lazysizes
 facebook: https://facebook.com/wearesinch
-git: https://github.com/aFarkas/lazysizes
 instagram: https://instagram.com/wearesinch
 linkedin: https://linkedin.com/company/sinch
 logohandle: sinch

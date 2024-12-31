@@ -1,6 +1,6 @@
 ---
 blog: https://openapis.org/blog
-git: https://github.com/oai
+codehost: https://github.com/https://github.com/oai
 linkedin: https://linkedin.com/groups/8556951
 logohandle: openapis
 sort: openapis

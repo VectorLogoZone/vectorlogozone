@@ -1,6 +1,6 @@
 ---
 blog: https://weaviate.io/blog/combining-langchain-and-weaviate
-git: https://github.com/weaviate/weaviate
+codehost: https://github.com/https://github.com/weaviate/weaviate
 instagram: https://instagram.com/weaviate.io
 linkedin: https://linkedin.com/company/weaviate-io
 logohandle: weaviateio

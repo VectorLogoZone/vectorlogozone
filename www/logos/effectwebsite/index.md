@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Effect-TS
+codehost: https://github.com/https://github.com/Effect-TS
 logohandle: effectwebsite
 sort: effect
 title: Effect

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fastify/fastify
+codehost: https://github.com/https://github.com/fastify/fastify
 logohandle: fastifyio
 sort: fastify
 title: Fastify

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/luau-lang/luau
+codehost: https://github.com/https://github.com/luau-lang/luau
 logohandle: luau
 sort: luau
 title: Luau

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pluggyai
+codehost: https://github.com/https://github.com/pluggyai
 instagram: https://instagram.com/pluggyai
 linkedin: https://linkedin.com/company/pluggyai
 logohandle: pluggyai

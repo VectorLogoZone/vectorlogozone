@@ -1,10 +1,10 @@
 ---
 blog: https://www.tesla.com/blog
+codehost: https://github.com/https://github.com/teslamotors
 facebook: https://www.facebook.com/tesla/
 font:
   name: Emblem Bold D
   url: http://davidocchino.com/portfolio/typography/emblem-font-art/samples.html
-git: https://github.com/teslamotors
 guide: https://teslamotors.app.box.com/v/pressfiles/folder/400696105
 images:
 - tesla-ar21.svg

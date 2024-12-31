@@ -1,5 +1,5 @@
 ---
-git: https://github.com/humanloop
+codehost: https://github.com/https://github.com/humanloop
 linkedin: https://linkedin.com/company/humanloop
 logohandle: humanloop
 sort: humanloop

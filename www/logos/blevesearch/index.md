@@ -1,5 +1,5 @@
 ---
-git: https://github.com/blevesearch/bleve
+codehost: https://github.com/https://github.com/blevesearch/bleve
 logohandle: blevesearch
 sort: blevesearch
 title: Bleve

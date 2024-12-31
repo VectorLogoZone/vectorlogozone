@@ -1,5 +1,5 @@
 ---
-git: https://github.com/claudiajs
+codehost: https://github.com/https://github.com/claudiajs
 logohandle: claudiajs
 sort: claudiajs
 title: Claudia.js

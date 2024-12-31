@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/apple
 facebook: https://www.facebook.com/apple
-git: https://github.com/apple
 images:
 - apple-tile.svg
 - apple-ar21.svg

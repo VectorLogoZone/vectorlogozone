@@ -1,8 +1,8 @@
 ---
+codehost: https://github.com/https://github.com/phosphor-icons
 font:
   google: https://fonts.google.com/specimen/Manrope
   name: Manrope
-git: https://github.com/phosphor-icons
 logohandle: phosphoricons
 sort: phosphoricons
 title: Phosphor Icons

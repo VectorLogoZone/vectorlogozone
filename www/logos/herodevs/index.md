@@ -1,6 +1,6 @@
 ---
 blog: https://blog.herodevs.com/
-git: https://github.com/herodevs
+codehost: https://github.com/https://github.com/herodevs
 linkedin: https://linkedin.com/company/herodevs
 logohandle: herodevs
 sort: herodevs

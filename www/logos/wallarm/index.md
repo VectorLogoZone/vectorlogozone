@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/wallarm
 facebook: https://facebook.com/wallarm
-git: https://github.com/wallarm
 linkedin: https://linkedin.com/company/wallarm
 logohandle: wallarm
 sort: wallarm

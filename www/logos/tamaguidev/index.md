@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tamagui/tamagui
+codehost: https://github.com/https://github.com/tamagui/tamagui
 logohandle: tamaguidev
 sort: tamagui
 title: Tamagui

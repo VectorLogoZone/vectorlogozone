@@ -1,7 +1,7 @@
 ---
 blog: https://blog.ecosia.org/
+codehost: https://github.com/https://github.com/ecosia
 facebook: https://www.facebook.com/ecosia
-git: https://github.com/ecosia
 guide: http://documents.ecosia.org/467523/10551325
 images:
 - ecosia-ar21.svg

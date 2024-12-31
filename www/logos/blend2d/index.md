@@ -1,5 +1,5 @@
 ---
-git: https://github.com/blend2d/blend2d
+codehost: https://github.com/https://github.com/blend2d/blend2d
 logohandle: blend2d
 sort: blend2d
 title: Blend2D

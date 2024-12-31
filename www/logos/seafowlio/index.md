@@ -1,6 +1,6 @@
 ---
 blog: https://splitgraph.com/blog/topic/seafowl
-git: https://github.com/splitgraph/seafowl
+codehost: https://github.com/https://github.com/splitgraph/seafowl
 logohandle: seafowlio
 sort: seafowl
 title: Seafowl

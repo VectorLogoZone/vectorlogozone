@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/shrinedev
 facebook: https://facebook.com/shrinedev
-git: https://github.com/shrinedev
 instagram: https://instagram.com/shrinedev
 linkedin: https://linkedin.com/shrinedev
 logohandle: shrinedev

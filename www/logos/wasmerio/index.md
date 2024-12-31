@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/wasmer
-git: https://github.com/wasmerio/wasmer
+codehost: https://github.com/https://github.com/wasmerio/wasmer
 logohandle: wasmerio
 sort: wasmer
 title: Wasmer

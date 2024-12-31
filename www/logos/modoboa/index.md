@@ -1,5 +1,5 @@
 ---
-git: https://github.com/modoboa/modoboa
+codehost: https://github.com/https://github.com/modoboa/modoboa
 logohandle: modoboa
 sort: modoboa
 title: Modoboa

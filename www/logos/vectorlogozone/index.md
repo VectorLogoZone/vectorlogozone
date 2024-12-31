@@ -1,11 +1,11 @@
 ---
+codehost: https://github.com/https://github.com/VectorLogoZone
 colors:
 - '#1D8286'
 facebook: https://www.facebook.com/VectorLogoZone/
 font:
   google: https://fonts.google.com/specimen/Roboto
   name: Roboto
-git: https://github.com/VectorLogoZone
 images:
 - vectorlogozone-icon.svg
 - vectorlogozone-tile.svg

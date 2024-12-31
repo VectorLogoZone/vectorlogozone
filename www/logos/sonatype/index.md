@@ -1,7 +1,7 @@
 ---
 blog: https://blog.sonatype.com/
+codehost: https://github.com/https://github.com/sonatype
 facebook: https://facebook.com/Sonatype
-git: https://github.com/sonatype
 googleplus: https://plus.google.com/+Sonatypeinc/
 instagram: https://instagram.com/sonatypedotcom/
 linkedin: https://linkedin.com/company/sonatype

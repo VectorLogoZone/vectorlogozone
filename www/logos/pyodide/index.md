@@ -1,6 +1,6 @@
 ---
 blog: https://blog.pyodide.org/
-git: https://github.com/pyodide/pyodide
+codehost: https://github.com/https://github.com/pyodide/pyodide
 logohandle: pyodide
 sort: pyodide
 title: Pyodide

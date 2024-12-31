@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/dopplerhq
 facebook: https://facebook.com/dopplerhq
-git: https://github.com/dopplerhq
 linkedin: https://linkedin.com/company/dopplerhq
 logohandle: doppler
 sort: doppler

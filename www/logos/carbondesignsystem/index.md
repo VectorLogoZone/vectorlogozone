@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/carbondesign
-git: https://github.com/carbon-design-system/carbon
+codehost: https://github.com/https://github.com/carbon-design-system/carbon
 logohandle: carbondesignsystem
 sort: carbondesignsystem
 title: Carbon Design

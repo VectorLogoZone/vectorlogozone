@@ -1,5 +1,5 @@
 ---
-git: https://github.com/imgproxy/imgproxy
+codehost: https://github.com/https://github.com/imgproxy/imgproxy
 logohandle: imgproxynet
 sort: imgproxy
 title: ImgProxy

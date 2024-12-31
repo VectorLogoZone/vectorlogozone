@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cwida/duckdb
+codehost: https://github.com/https://github.com/cwida/duckdb
 logohandle: duckdb
 sort: duckdb
 title: DuckDB

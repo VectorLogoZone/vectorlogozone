@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/zbw
 facebook: https://facebook.com/ZBWMediaTalk
-git: https://github.com/zbw
 linkedin: https://linkedin.com/company/zbw---leibniz-informationszentrum-wirtschaft
 logohandle: zbweu
 sort: zbw

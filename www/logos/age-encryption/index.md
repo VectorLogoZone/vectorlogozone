@@ -1,5 +1,5 @@
 ---
-git: https://github.com/FiloSottile/age
+codehost: https://github.com/https://github.com/FiloSottile/age
 guide: https://github.com/FiloSottile/age/tree/main/logo
 logohandle: age-encryption
 sort: age-encryption

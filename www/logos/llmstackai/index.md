@@ -1,5 +1,5 @@
 ---
-git: https://github.com/trypromptly/LLMStack
+codehost: https://github.com/https://github.com/trypromptly/LLMStack
 linkedin: https://linkedin.com/company/trypromptly
 logohandle: llmstackai
 sort: llmstack

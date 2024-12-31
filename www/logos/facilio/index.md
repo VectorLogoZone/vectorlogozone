@@ -1,5 +1,5 @@
 ---
-git: https://github.com/boazsegev/facil.io
+codehost: https://github.com/https://github.com/boazsegev/facil.io
 logohandle: facilio
 sort: facilio
 title: facil.io

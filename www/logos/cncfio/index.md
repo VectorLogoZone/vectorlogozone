@@ -1,6 +1,6 @@
 ---
 blog: https://cncf.io/newsroom/blog
-git: https://github.com/cncf
+codehost: https://github.com/https://github.com/cncf
 logohandle: cncfio
 sort: cncf
 title: Cloud Native Computing Foundation

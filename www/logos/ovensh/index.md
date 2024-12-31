@@ -1,5 +1,5 @@
 ---
-git: https://github.com/oven-sh/bun
+codehost: https://github.com/https://github.com/oven-sh/bun
 logohandle: ovensh
 sort: oven
 title: Oven

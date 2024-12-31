@@ -1,5 +1,5 @@
 ---
-git: https://github.com/robusta-dev/robusta
+codehost: https://github.com/https://github.com/robusta-dev/robusta
 logohandle: robustadev
 sort: robusta
 title: Robusta

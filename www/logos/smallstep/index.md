@@ -1,5 +1,5 @@
 ---
-git: https://github.com/smallstep
+codehost: https://github.com/https://github.com/smallstep
 linkedin: https://linkedin.com/company/smallstep%3E%3Cimg
 logohandle: smallstep
 sort: smallstep

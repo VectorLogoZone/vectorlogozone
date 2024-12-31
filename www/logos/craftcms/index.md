@@ -1,7 +1,7 @@
 ---
 blog: https://craftcms.com/blog
+codehost: https://github.com/https://github.com/craftcms
 facebook: https://facebook.com/craftcms
-git: https://github.com/craftcms
 linkedin: https://linkedin.com/company/craftcms
 logohandle: craftcms
 sort: craftcms

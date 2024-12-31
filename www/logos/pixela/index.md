@@ -1,6 +1,6 @@
 ---
 blog: https://blog.a-know.me/archive/category/Pixela
-git: https://github.com/a-know/Pixela
+codehost: https://github.com/https://github.com/a-know/Pixela
 logohandle: pixela
 sort: pixela
 title: Pixela

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mitmproxy/pdoc
+codehost: https://github.com/https://github.com/mitmproxy/pdoc
 logohandle: pdocdev
 sort: pdoc
 title: pdoc

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/runreveal/pql
+codehost: https://github.com/https://github.com/runreveal/pql
 logohandle: pqldev
 sort: pql
 title: pql

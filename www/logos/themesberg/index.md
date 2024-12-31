@@ -1,8 +1,8 @@
 ---
 blog: https://themesberg.com/blog
+codehost: https://github.com/https://github.com/themesberg
 dribbble: https://dribbble.com/themesberg
 facebook: https://facebook.com/themesberg
-git: https://github.com/themesberg
 instagram: https://instagram.com/themesberg
 linkedin: https://linkedin.com/company/themesberg
 logohandle: themesberg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/chiffre-io
+codehost: https://github.com/https://github.com/chiffre-io
 logohandle: chiffreio
 sort: chiffreio
 title: Chiffre.io

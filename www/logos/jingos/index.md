@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/JingOS-team
 facebook: https://facebook.com/JingOSfb
-git: https://github.com/JingOS-team
 logohandle: jingos
 sort: jingos
 title: JingOS

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/calpaterson/csvbase
+codehost: https://github.com/https://github.com/calpaterson/csvbase
 logohandle: csvbase
 sort: csvbase
 title: csvbase

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/facebookincubator/glean
+codehost: https://github.com/https://github.com/facebookincubator/glean
 logohandle: gleansoftware
 sort: glean
 title: Glean

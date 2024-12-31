@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/WhatsApp
 facebook: https://www.facebook.com/WhatsApp
-git: https://github.com/WhatsApp
 guide: https://www.whatsappbrand.com/
 images:
 - whatsapp-icon.svg

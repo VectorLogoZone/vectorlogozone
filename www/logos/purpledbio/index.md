@@ -1,5 +1,5 @@
 ---
-git: https://github.com/purpledb/purple
+codehost: https://github.com/https://github.com/purpledb/purple
 logohandle: purpledbio
 sort: purpledb
 title: Purple

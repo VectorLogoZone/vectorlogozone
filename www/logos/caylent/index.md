@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/caylent
 facebook: https://facebook.com/caylent
-git: https://github.com/caylent
 linkedin: https://linkedin.com/company/caylent
 logohandle: caylent
 sort: caylent

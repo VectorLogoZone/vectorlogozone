@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Tarsnap/tarsnap
+codehost: https://github.com/https://github.com/Tarsnap/tarsnap
 logohandle: tarsnap
 sort: tarsnap
 title: Tarsnap

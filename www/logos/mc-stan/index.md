@@ -1,5 +1,5 @@
 ---
-git: https://github.com/stan-dev
+codehost: https://github.com/https://github.com/stan-dev
 logohandle: mc-stan
 sort: stan
 title: Stan

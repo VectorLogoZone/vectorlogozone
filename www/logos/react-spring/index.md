@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pmndrs/react-spring
+codehost: https://github.com/https://github.com/pmndrs/react-spring
 logohandle: react-spring
 sort: react-spring
 title: react-spring

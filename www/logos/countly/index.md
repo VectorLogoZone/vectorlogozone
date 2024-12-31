@@ -1,7 +1,7 @@
 ---
 blog: https://blog.count.ly/
+codehost: https://github.com/https://github.com/Countly
 facebook: https://facebook.com/Countly
-git: https://github.com/Countly
 linkedin: https://linkedin.com/company/countly
 logohandle: countly
 sort: countly

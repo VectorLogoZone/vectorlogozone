@@ -1,5 +1,6 @@
 ---
 blog: https://youtube.googleblog.com/
+codehost: https://github.com/https://github.com/youtube
 colors:
 - '#E52D27'
 - '#B31217'
@@ -9,7 +10,6 @@ facebook: https://www.facebook.com/youtube/
 font:
   myfonts: https://www.myfonts.com/fonts/linotype/trade-gothic/bold-condensed-no-20-63882/
   name: Alternate Gothic No. 2
-git: https://github.com/youtube
 guide: https://www.youtube.com/yt/about/brand-resources/
 images:
 - youtube-icon.svg

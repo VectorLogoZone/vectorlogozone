@@ -1,5 +1,5 @@
 ---
-git: https://github.com/davidkpiano/xstate
+codehost: https://github.com/https://github.com/davidkpiano/xstate
 logohandle: js_xstate
 sort: xstate
 title: XState

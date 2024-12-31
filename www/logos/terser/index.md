@@ -1,6 +1,6 @@
 ---
 blog: https://terser.org/blog/
-git: https://github.com/terser-js
+codehost: https://github.com/https://github.com/terser-js
 logohandle: terser
 sort: terser
 title: terser

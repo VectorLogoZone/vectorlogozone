@@ -1,6 +1,6 @@
 ---
 blog: https://blog.percy.io/
-git: https://github.com/percy
+codehost: https://github.com/https://github.com/percy
 logohandle: percyio
 sort: percy
 title: Percy

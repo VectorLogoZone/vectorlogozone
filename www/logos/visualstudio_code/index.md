@@ -1,6 +1,6 @@
 ---
 blog: https://code.visualstudio.com/blogs
-git: https://github.com/Microsoft/vscode
+codehost: https://github.com/https://github.com/Microsoft/vscode
 logohandle: visualstudio_code
 sort: visualstudiocode
 title: Visual Studio Code

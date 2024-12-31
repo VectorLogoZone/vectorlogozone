@@ -1,5 +1,5 @@
 ---
-git: https://github.com/rebassjs/rebass
+codehost: https://github.com/https://github.com/rebassjs/rebass
 logohandle: rebassjs
 sort: rebassjs
 title: Rebass.js

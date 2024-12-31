@@ -1,5 +1,5 @@
 ---
-git: https://github.com/HostedHooks
+codehost: https://github.com/https://github.com/HostedHooks
 logohandle: hostedhooks
 sort: hostedhooks
 title: HostedHooks

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/replay-io
-git: https://github.com/RecordReplay
+codehost: https://github.com/https://github.com/RecordReplay
 logohandle: replayio
 sort: replay
 title: Replay

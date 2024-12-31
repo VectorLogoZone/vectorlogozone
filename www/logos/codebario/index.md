@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/@codebar
+codehost: https://github.com/https://github.com/codebar
 facebook: https://facebook.com/codebarHQ
-git: https://github.com/codebar
 logohandle: codebario
 sort: codebario
 title: codebar.io

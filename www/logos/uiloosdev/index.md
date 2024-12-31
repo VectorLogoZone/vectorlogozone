@@ -1,5 +1,5 @@
 ---
-git: https://github.com/uiloos/uiloos
+codehost: https://github.com/https://github.com/uiloos/uiloos
 logohandle: uiloosdev
 sort: uiloos
 title: uiloos

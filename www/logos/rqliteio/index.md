@@ -1,5 +1,5 @@
 ---
-git: https://github.com/rqlite
+codehost: https://github.com/https://github.com/rqlite
 logohandle: rqliteio
 sort: rqlite
 title: rqlite

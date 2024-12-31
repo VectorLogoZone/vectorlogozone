@@ -1,5 +1,5 @@
 ---
-git: https://github.com/opticdev/optic
+codehost: https://github.com/https://github.com/opticdev/optic
 logohandle: useoptic
 sort: optic
 title: Optic

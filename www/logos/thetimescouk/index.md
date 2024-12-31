@@ -1,5 +1,5 @@
 ---
-git: https://github.com/newsuk
+codehost: https://github.com/https://github.com/newsuk
 instagram: https://instagram.com/thetimes
 logohandle: thetimescouk
 sort: thetimescouk

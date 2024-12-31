@@ -1,5 +1,5 @@
 ---
-git: https://github.com/web-infra-dev/rsbuild
+codehost: https://github.com/https://github.com/web-infra-dev/rsbuild
 logohandle: rsbuilddev
 sort: rsbuild
 title: RSBuild

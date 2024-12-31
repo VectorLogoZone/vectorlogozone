@@ -1,5 +1,5 @@
 ---
-git: https://github.com/iina/iina
+codehost: https://github.com/https://github.com/iina/iina
 logohandle: iinaio
 sort: iina
 title: IINA

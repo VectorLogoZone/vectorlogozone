@@ -1,5 +1,5 @@
 ---
-git: https://github.com/HadoukenIO
+codehost: https://github.com/https://github.com/HadoukenIO
 logohandle: hadoukenio
 sort: hadouken
 title: Hadouken

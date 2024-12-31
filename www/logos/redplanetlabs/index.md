@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/red-planet-labs
-git: https://github.com/redplanetlabs
+codehost: https://github.com/https://github.com/redplanetlabs
 logohandle: redplanetlabs
 sort: redplanetlabs
 title: Red Planet Labs

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.tox.chat/
+codehost: https://github.com/https://github.com/TokTok/c-toxcore
 facebook: https://facebook.com/toxproject
-git: https://github.com/TokTok/c-toxcore
 logohandle: toxchat
 sort: tox
 title: Tox

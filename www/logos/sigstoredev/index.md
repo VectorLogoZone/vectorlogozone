@@ -1,5 +1,5 @@
 ---
-git: https://github.com/sigstore
+codehost: https://github.com/https://github.com/sigstore
 logohandle: sigstoredev
 sort: sigstore
 title: sigstore

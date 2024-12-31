@@ -1,5 +1,5 @@
 ---
-git: https://github.com/sourcemeta
+codehost: https://github.com/https://github.com/sourcemeta
 logohandle: sourcemeta
 sort: sourcemeta
 title: Sourcemeta

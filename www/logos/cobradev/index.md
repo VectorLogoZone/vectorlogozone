@@ -1,5 +1,5 @@
 ---
-git: https://github.com/spf13/cobra
+codehost: https://github.com/https://github.com/spf13/cobra
 logohandle: cobradev
 sort: cobra
 title: Cobra

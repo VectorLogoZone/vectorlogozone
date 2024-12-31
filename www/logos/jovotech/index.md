@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jovotech/jovo-framework
+codehost: https://github.com/https://github.com/jovotech/jovo-framework
 linkedin: https://linkedin.com/company/jovotech
 logohandle: jovotech
 sort: jovo

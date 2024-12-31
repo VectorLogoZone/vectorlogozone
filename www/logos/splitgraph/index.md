@@ -1,5 +1,5 @@
 ---
-git: https://github.com/splitgraph/splitgraph
+codehost: https://github.com/https://github.com/splitgraph/splitgraph
 linkedin: https://linkedin.com/company/12620006
 logohandle: splitgraph
 sort: splitgraph

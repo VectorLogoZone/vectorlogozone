@@ -1,5 +1,5 @@
 ---
-git: https://github.com/plopjs/plop
+codehost: https://github.com/https://github.com/plopjs/plop
 logohandle: plopjs
 sort: plopjs
 title: PLOP.js

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.litespeedtech.com/
+codehost: https://github.com/https://github.com/litespeedtech/openlitespeed
 facebook: https://facebook.com/groups/276895526144472
-git: https://github.com/litespeedtech/openlitespeed
 linkedin: https://linkedin.com/company/litespeed-technologies
 logohandle: openlitespeed
 sort: openlitespeed

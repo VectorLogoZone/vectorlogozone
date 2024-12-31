@@ -1,6 +1,6 @@
 ---
 blog: https://blog.hyper.sh/
-git: https://github.com/hyperhq
+codehost: https://github.com/https://github.com/hyperhq
 guide: https://github.com/hyperhq/www.hyper.sh/tree/master/logo
 images:
 - hyper_sh-icon.svg

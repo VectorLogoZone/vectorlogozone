@@ -1,7 +1,7 @@
 ---
 blog: https://anyscale.com/blog/
+codehost: https://github.com/https://github.com/anyscale
 facebook: https://facebook.com/AnyscaleCompute
-git: https://github.com/anyscale
 linkedin: https://linkedin.com/company/joinanyscale
 logohandle: anyscale
 sort: anyscale

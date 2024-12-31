@@ -1,9 +1,9 @@
 ---
 blog: https://www.kik.com/news
+codehost: https://github.com/https://github.com/kikinteractive
 colors:
 - '#5DCD11'
 facebook: https://www.facebook.com/kikplaynice
-git: https://github.com/kikinteractive
 images:
 - kik-icon.svg
 - kik-tile.svg

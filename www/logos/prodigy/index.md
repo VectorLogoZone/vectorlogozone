@@ -1,5 +1,5 @@
 ---
-git: https://github.com/explosion/jupyterlab-prodigy
+codehost: https://github.com/https://github.com/explosion/jupyterlab-prodigy
 logohandle: prodigy
 sort: prodigy
 title: Prodigy

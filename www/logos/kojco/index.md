@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/koj-co
 facebook: https://facebook.com/joinkoj
-git: https://github.com/koj-co
 instagram: https://instagram.com/joinkoj
 linkedin: https://linkedin.com/company/koj
 logohandle: kojco

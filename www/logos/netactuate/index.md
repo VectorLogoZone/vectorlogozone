@@ -1,7 +1,7 @@
 ---
 blog: https://netactuate.com/blog
+codehost: https://github.com/https://github.com/hostvirtual
 facebook: https://facebook.com/netactuate
-git: https://github.com/hostvirtual
 linkedin: https://linkedin.com/company/netactuate-inc
 logohandle: netactuate
 sort: netactuate

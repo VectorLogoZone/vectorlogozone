@@ -1,5 +1,5 @@
 ---
-git: https://github.com/includeos
+codehost: https://github.com/https://github.com/includeos
 gitter: https://gitter.im/hioa-cs/IncludeOS
 logohandle: includeos
 sort: includeos

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pola-rs/polars
+codehost: https://github.com/https://github.com/pola-rs/polars
 logohandle: polars
 sort: polars
 title: Polars

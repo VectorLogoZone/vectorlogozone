@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/raycast
 dribbble: https://dribbble.com/raycastapp
-git: https://github.com/raycast
 logohandle: raycast
 sort: raycast
 title: Raycast

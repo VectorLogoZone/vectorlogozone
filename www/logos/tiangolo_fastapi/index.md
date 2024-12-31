@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@tiangolo
-git: https://github.com/tiangolo/fastapi
+codehost: https://github.com/https://github.com/tiangolo/fastapi
 linkedin: https://linkedin.com/in/tiangolo
 logohandle: tiangolo_fastapi
 sort: fastapi

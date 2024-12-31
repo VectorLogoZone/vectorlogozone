@@ -1,6 +1,6 @@
 ---
 blog: https://scalr.com/blog/
-git: https://github.com/Scalr/sample-tf-opa-policies
+codehost: https://github.com/https://github.com/Scalr/sample-tf-opa-policies
 linkedin: https://linkedin.com/company/scalr
 logohandle: scalr
 sort: scalr

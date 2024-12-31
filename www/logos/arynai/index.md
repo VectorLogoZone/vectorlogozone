@@ -1,6 +1,6 @@
 ---
 blog: https://aryn.ai/blog
-git: https://github.com/aryn-ai/sycamore
+codehost: https://github.com/https://github.com/aryn-ai/sycamore
 linkedin: https://linkedin.com/company/aryn-ai
 logohandle: arynai
 sort: aryn

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/micrometer-metrics/micrometer
+codehost: https://github.com/https://github.com/micrometer-metrics/micrometer
 logohandle: micrometerio
 sort: micrometer
 title: Micrometer

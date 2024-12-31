@@ -1,5 +1,5 @@
 ---
-git: https://github.com/GothenburgBitFactory/taskwarrior
+codehost: https://github.com/https://github.com/GothenburgBitFactory/taskwarrior
 logohandle: taskwarrior
 sort: taskwarrior
 title: Taskwarrior

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/openzipkin/zipkin
+codehost: https://github.com/https://github.com/openzipkin/zipkin
 logohandle: zipkinio
 sort: zipkin
 title: OpenZipkin

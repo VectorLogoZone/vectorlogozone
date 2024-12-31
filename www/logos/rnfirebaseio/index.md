@@ -1,5 +1,5 @@
 ---
-git: https://github.com/invertase/react-native-firebase
+codehost: https://github.com/https://github.com/invertase/react-native-firebase
 logohandle: rnfirebaseio
 sort: rnfirebase
 title: React Native Firebase

@@ -1,6 +1,6 @@
 ---
 blog: http://blog.atom.io/
-git: https://github.com/atom/atom
+codehost: https://github.com/https://github.com/atom/atom
 images:
 - atom_io-icon.svg
 - atom_io-ar21.svg

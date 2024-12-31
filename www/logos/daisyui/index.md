@@ -1,6 +1,6 @@
 ---
 blog: https://daisyui.com/blog/rss.xml
-git: https://github.com/saadeghi/daisyui
+codehost: https://github.com/https://github.com/saadeghi/daisyui
 logohandle: daisyui
 sort: daisyui
 title: daisyUI

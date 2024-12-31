@@ -1,6 +1,6 @@
 ---
 blog: https://tabris.com/blog
-git: https://github.com/eclipsesource/tabris-js
+codehost: https://github.com/https://github.com/eclipsesource/tabris-js
 logohandle: tabris
 sort: tabris
 title: Tabris

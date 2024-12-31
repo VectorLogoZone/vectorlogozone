@@ -1,5 +1,5 @@
 ---
-git: https://github.com/editorconfig
+codehost: https://github.com/https://github.com/editorconfig
 logohandle: editorconfig
 sort: editorconfig
 title: EditorConfig

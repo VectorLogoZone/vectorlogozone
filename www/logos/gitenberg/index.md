@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gitenberg-dev
+codehost: https://github.com/https://github.com/gitenberg-dev
 logohandle: gitenberg
 sort: gitenberg
 title: GITenberg

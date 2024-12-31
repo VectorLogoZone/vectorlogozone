@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/commonsstack
-git: https://github.com/commons-stack
+codehost: https://github.com/https://github.com/commons-stack
 logohandle: commonsstack
 sort: commonsstack
 title: Commons Stack

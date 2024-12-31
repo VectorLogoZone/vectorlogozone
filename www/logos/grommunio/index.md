@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/grommunio
 facebook: https://facebook.com/Grommunio-105799754952255
-git: https://github.com/grommunio
 instagram: https://instagram.com/grommunio_official
 linkedin: https://linkedin.com/company/grommunio-official
 logohandle: grommunio

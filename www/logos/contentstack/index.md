@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/contentstack
 facebook: https://facebook.com/contentstack
-git: https://github.com/contentstack
 instagram: https://instagram.com/contentstack
 linkedin: https://linkedin.com/company/contentstack
 logohandle: contentstack

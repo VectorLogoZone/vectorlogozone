@@ -1,5 +1,5 @@
 ---
-git: https://github.com/hedgedoc/hedgedoc
+codehost: https://github.com/https://github.com/hedgedoc/hedgedoc
 logohandle: hedgedoc
 sort: hedgedoc
 title: HedgeDoc

@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/@milvusio
+codehost: https://github.com/https://github.com/milvus-io/milvus
 facebook: https://facebook.com/io.milvus.5
-git: https://github.com/milvus-io/milvus
 logohandle: milvusio
 sort: milvus
 title: Milvus

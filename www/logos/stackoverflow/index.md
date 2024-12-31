@@ -1,10 +1,10 @@
 ---
 blog: https://stackoverflow.blog/
+codehost: https://github.com/https://github.com/StackExchange
 facebook: https://www.facebook.com/officialstackoverflow/
 font:
   myfonts: https://www.myfonts.com/fonts/fontfont/ff-din/pro-medium/
   name: FF DIN
-git: https://github.com/StackExchange
 guide: https://stackoverflow.com/company/logos
 images:
 - stackoverflow-official.svg

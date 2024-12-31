@@ -1,5 +1,5 @@
 ---
-git: https://github.com/GoogleChromeLabs/squoosh
+codehost: https://github.com/https://github.com/GoogleChromeLabs/squoosh
 logohandle: squooshapp
 sort: squoosh
 title: Squoosh

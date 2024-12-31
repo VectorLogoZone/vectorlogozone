@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/spacedecentral
+codehost: https://github.com/https://github.com/spacedecentral
 facebook: https://facebook.com/groups/spacedecentral
-git: https://github.com/spacedecentral
 logohandle: spacedecentralnet
 sort: spacedecentral
 title: Space Decentral

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.lvgl.io/
-git: https://github.com/lvgl
+codehost: https://github.com/https://github.com/lvgl
 linkedin: https://linkedin.com/company/lvglgui
 logohandle: lvglio
 sort: lvgl

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/codetriage/codetriage
+codehost: https://github.com/https://github.com/codetriage/codetriage
 logohandle: codetriage
 sort: codetriage
 title: CodeTriage

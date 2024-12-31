@@ -1,5 +1,5 @@
 ---
-git: https://github.com/roadrunner-server
+codehost: https://github.com/https://github.com/roadrunner-server
 logohandle: roadrunnerdev
 sort: roadrunner
 title: Roadrunner

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/istio/istio
+codehost: https://github.com/https://github.com/istio/istio
 logohandle: istioio
 sort: istio
 stackoverflow: https://stackoverflow.com/questions/tagged/istio

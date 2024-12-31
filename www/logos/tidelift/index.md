@@ -1,7 +1,7 @@
 ---
 blog: https://blog.tidelift.com/
+codehost: https://github.com/https://github.com/tidelift
 facebook: https://www.facebook.com/tidelift/
-git: https://github.com/tidelift
 linkedin: https://linkedin.com/company/tidelift
 logohandle: tidelift
 sort: tidelift

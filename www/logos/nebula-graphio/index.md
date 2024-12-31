@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/vesoft-inc/nebula
 facebook: https://facebook.com/NebulaGraph
-git: https://github.com/vesoft-inc/nebula
 linkedin: https://linkedin.com/company/vesoft-nebula-graph
 logohandle: nebula-graphio
 sort: nebula-graph

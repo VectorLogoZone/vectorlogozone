@@ -1,5 +1,5 @@
 ---
-git: https://github.com/blockdiag/blockdiag
+codehost: https://github.com/https://github.com/blockdiag/blockdiag
 logohandle: krokiio
 sort: kroki
 title: Kroki

@@ -1,12 +1,12 @@
 ---
 activitypub: https://social.rust-lang.org/@rust
 blog: https://blog.rust-lang.org/
+codehost: https://github.com/https://github.com/rust-lang
 discord: https://discord.gg/rust-lang
 font:
   google: https://fonts.google.com/specimen/Alfa+Slab+One
   name: Alfa Slab One
   url: https://github.com/jmsole/alfaslab
-git: https://github.com/rust-lang
 guide: https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/
 images:
 - rust-lang-icon.svg

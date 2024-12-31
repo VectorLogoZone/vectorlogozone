@@ -1,5 +1,5 @@
 ---
-git: https://github.com/microsoft/LightGBM
+codehost: https://github.com/https://github.com/microsoft/LightGBM
 logohandle: readthedocsio_lightgbm
 sort: lightgbm
 title: LightGBM

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.auctus.org/
+codehost: https://github.com/https://github.com/AuctusProject
 facebook: https://facebook.com/auctusproject
-git: https://github.com/AuctusProject
 logohandle: auctus
 sort: auctus
 title: Auctus

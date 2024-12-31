@@ -1,5 +1,5 @@
 ---
-git: https://github.com/facebook/watchman
+codehost: https://github.com/https://github.com/facebook/watchman
 logohandle: facebook_watchman
 sort: watchman
 tags:

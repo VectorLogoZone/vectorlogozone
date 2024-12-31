@@ -1,6 +1,6 @@
 ---
 blog: http://jsbin.com/blog
-git: https://github.com/jsbin/jsbin
+codehost: https://github.com/https://github.com/jsbin/jsbin
 logohandle: jsbin
 sort: jsbin
 title: JS Bin

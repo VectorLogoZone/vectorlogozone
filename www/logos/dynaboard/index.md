@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dynaboard
+codehost: https://github.com/https://github.com/dynaboard
 logohandle: dynaboard
 sort: dynaboard
 title: Dynaboard

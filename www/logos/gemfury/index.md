@@ -1,7 +1,7 @@
 ---
 blog: https://gemfury.com/blog
+codehost: https://github.com/https://github.com/gemfury
 facebook: https://facebook.com/gemfury
-git: https://github.com/gemfury
 logohandle: gemfury
 sort: gemfury
 title: Gemfury

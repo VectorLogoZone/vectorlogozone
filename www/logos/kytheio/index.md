@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kythe/kythe
+codehost: https://github.com/https://github.com/kythe/kythe
 logohandle: kytheio
 sort: kythe
 title: Kythe

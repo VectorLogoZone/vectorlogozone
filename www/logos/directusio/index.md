@@ -1,5 +1,5 @@
 ---
-git: https://github.com/directus/directus
+codehost: https://github.com/https://github.com/directus/directus
 logohandle: directusio
 sort: directus
 title: Directus

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Privex
+codehost: https://github.com/https://github.com/Privex
 logohandle: privexio
 sort: privex
 title: Privex

@@ -1,4 +1,5 @@
 ---
+codehost: https://github.com/https://github.com/suse
 colors:
 - '#02D35F'
 - '#0D2C40'
@@ -7,7 +8,6 @@ font:
   myfonts: null
   name: Gotham
   url: https://www.typography.com/fonts/gotham/overview/
-git: https://github.com/suse
 googleplus: https://plus.google.com/+SUSE
 guide: https://www.suse.com/brandcentral/suse/identity.php
 images:

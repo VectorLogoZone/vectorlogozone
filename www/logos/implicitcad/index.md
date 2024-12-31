@@ -1,5 +1,5 @@
 ---
-git: https://github.com/colah/ImplicitCAD
+codehost: https://github.com/https://github.com/colah/ImplicitCAD
 logohandle: implicitcad
 sort: implicitcad
 title: ImplicitCad

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Mirrorful/mirrorful
+codehost: https://github.com/https://github.com/Mirrorful/mirrorful
 linkedin: https://linkedin.com/company/mirrorful
 logohandle: mirrorful
 sort: mirrorful

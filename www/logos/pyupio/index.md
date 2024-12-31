@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pyupio/pyup
+codehost: https://github.com/https://github.com/pyupio/pyup
 logohandle: pyupio
 sort: pyup
 title: pyup

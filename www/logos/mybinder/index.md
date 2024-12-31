@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jupyterhub/binderhub
+codehost: https://github.com/https://github.com/jupyterhub/binderhub
 logohandle: mybinder
 sort: binder
 title: Binder

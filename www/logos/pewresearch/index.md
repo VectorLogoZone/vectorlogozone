@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/pew-research-center-decoded
+codehost: https://github.com/https://github.com/pewresearch
 facebook: https://facebook.com/pewresearch
-git: https://github.com/pewresearch
 logohandle: pewresearch
 sort: pewresearch
 title: Pew Research Center

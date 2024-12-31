@@ -1,5 +1,5 @@
 ---
-git: https://github.com/didi
+codehost: https://github.com/https://github.com/didi
 logohandle: didichuxing
 sort: didichuxing
 title: DiDi

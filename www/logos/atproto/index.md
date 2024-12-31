@@ -1,6 +1,6 @@
 ---
 blog: https://blueskyweb.xyz/blog
-git: https://github.com/bluesky-social
+codehost: https://github.com/https://github.com/bluesky-social
 logohandle: atproto
 sort: atproto
 title: AT Protocol

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/loft-sh/devpod
+codehost: https://github.com/https://github.com/loft-sh/devpod
 logohandle: devpodsh
 sort: devpod
 title: DevPod

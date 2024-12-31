@@ -1,5 +1,5 @@
 ---
-git: https://github.com/nodemailer/wildduck
+codehost: https://github.com/https://github.com/nodemailer/wildduck
 logohandle: wildduckemail
 sort: wildduckemail
 title: WildDuck Mail

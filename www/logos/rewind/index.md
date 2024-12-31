@@ -1,7 +1,7 @@
 ---
 blog: https://rewind.com/blog
+codehost: https://github.com/https://github.com/rewindio
 facebook: https://facebook.com/rewind.backups
-git: https://github.com/rewindio
 instagram: https://instagram.com/rewind.backups
 linkedin: https://linkedin.com/company/rewind.io
 logohandle: rewind

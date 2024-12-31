@@ -1,7 +1,7 @@
 ---
 blog: https://blog.hasura.io/
+codehost: https://github.com/https://github.com/hasura
 facebook: https://www.facebook.com/HasuraHQ/
-git: https://github.com/hasura
 instagram: https://instagram.com/hasurahq
 linkedin: https://linkedin.com/company/hasura
 logohandle: hasuraio

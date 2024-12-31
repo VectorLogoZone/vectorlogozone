@@ -1,6 +1,6 @@
 ---
 blog: https://elrond.com/blog/onboarding-the-next-billion-
-git: https://github.com/ElrondNetwork
+codehost: https://github.com/https://github.com/ElrondNetwork
 logohandle: elrond
 sort: elrond
 title: Elrond

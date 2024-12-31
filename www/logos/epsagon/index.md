@@ -1,7 +1,7 @@
 ---
 blog: https://epsagon.com/blog
+codehost: https://github.com/https://github.com/epsagon
 facebook: https://facebook.com/epsagon
-git: https://github.com/epsagon
 linkedin: https://linkedin.com/company/epsagon
 logohandle: epsagon
 sort: epsagon

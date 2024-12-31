@@ -1,7 +1,7 @@
 ---
+codehost: https://github.com/https://github.com/snapchat
 colors:
 - '#FFFC00'
-git: https://github.com/snapchat
 guide: https://www.snap.com/en-US/brand-guidelines/
 images:
 - snapchat-ar21.svg

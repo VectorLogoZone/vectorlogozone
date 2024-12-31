@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/sitespeedio
 facebook: https://facebook.com/sitespeed.io
-git: https://github.com/sitespeedio
 logohandle: sitespeedio
 sort: sitespeed
 title: sitespeed.io

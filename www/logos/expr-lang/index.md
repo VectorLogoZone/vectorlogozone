@@ -1,5 +1,5 @@
 ---
-git: https://github.com/antonmedv/expr
+codehost: https://github.com/https://github.com/antonmedv/expr
 logohandle: expr-lang
 sort: exprlang
 title: Expr

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.jqueryui.com/
-git: https://github.com/jquery/jquery-ui
+codehost: https://github.com/https://github.com/jquery/jquery-ui
 logohandle: jqueryui
 sort: jqueryui
 title: jQuery UI

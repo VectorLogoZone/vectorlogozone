@@ -1,7 +1,7 @@
 ---
 blog: https://blog.strava.com/
+codehost: https://github.com/https://github.com/strava
 facebook: https://facebook.com/Strava
-git: https://github.com/strava
 instagram: https://instagram.com/strava
 logohandle: strava
 sort: strava

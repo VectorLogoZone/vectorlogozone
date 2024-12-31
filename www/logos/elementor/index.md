@@ -1,8 +1,8 @@
 ---
 blog: https://elementor.com/blog
+codehost: https://github.com/https://github.com/pojome/elementor
 dribbble: https://dribbble.com/elementor
 facebook: https://facebook.com/elemntor
-git: https://github.com/pojome/elementor
 instagram: https://instagram.com/elementor
 linkedin: https://linkedin.com/company/elementor
 logohandle: elementor

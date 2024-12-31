@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mperham/sidekiq
+codehost: https://github.com/https://github.com/mperham/sidekiq
 logohandle: sidekiq
 sort: sidekiq
 title: Sidekiq

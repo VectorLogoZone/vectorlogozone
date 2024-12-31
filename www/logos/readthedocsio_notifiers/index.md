@@ -1,5 +1,5 @@
 ---
-git: https://github.com/notifiers/notifiers
+codehost: https://github.com/https://github.com/notifiers/notifiers
 logohandle: readthedocsio_notifiers
 sort: notifiers
 title: Notifiers

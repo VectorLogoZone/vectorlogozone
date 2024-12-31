@@ -1,5 +1,5 @@
 ---
-git: https://github.com/lissy93/web-check
+codehost: https://github.com/https://github.com/lissy93/web-check
 logohandle: webcheckxyz
 sort: webcheckxyz
 title: Web Check

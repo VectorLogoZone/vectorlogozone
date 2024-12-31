@@ -1,5 +1,5 @@
 ---
-git: https://github.com/uptrace/bun
+codehost: https://github.com/https://github.com/uptrace/bun
 logohandle: uptracedev_bun
 sort: bun
 title: Bun

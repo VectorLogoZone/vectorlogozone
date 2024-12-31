@@ -1,6 +1,6 @@
 ---
 blog: https://blog.sindresorhus.com/
-git: https://github.com/sindresorhus
+codehost: https://github.com/https://github.com/sindresorhus
 logohandle: sindresorhus
 sort: sindresorhus
 title: Sindre Sorhus

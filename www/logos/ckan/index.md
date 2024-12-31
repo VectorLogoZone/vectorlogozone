@@ -1,9 +1,9 @@
 ---
 blog: https://ckan.org/blog/
+codehost: https://github.com/https://github.com/ckan
 colors:
 - '#F03B41'
 - '#E3EB1F'
-git: https://github.com/ckan
 images:
 - ckan-ar21.svg
 - ckan-icon.svg

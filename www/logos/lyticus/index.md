@@ -1,5 +1,5 @@
 ---
-git: https://github.com/lyticus
+codehost: https://github.com/https://github.com/lyticus
 logohandle: lyticus
 sort: lyticus
 title: Lyticus

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/ukd1
 facebook: https://facebook.com/RainforestQA
-git: https://github.com/ukd1
 instagram: https://instagram.com/rainforestqa
 linkedin: https://linkedin.com/company/rainforestqa
 logohandle: rainforestqa

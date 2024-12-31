@@ -1,9 +1,9 @@
 ---
 blog: https://www.postgresql.org/about/newsarchive/
+codehost: https://github.com/https://github.com/postgres
 font:
   google: https://www.google.com/fonts/specimen/Strait
   name: Strait
-git: https://github.com/postgres
 guide: https://wiki.postgresql.org/wiki/Identity_Guidelines
 images:
 - postgresql-ar21.svg

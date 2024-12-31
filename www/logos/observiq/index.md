@@ -1,5 +1,5 @@
 ---
-git: https://github.com/observIQ
+codehost: https://github.com/https://github.com/observIQ
 linkedin: https://linkedin.com/company/observiq
 logohandle: observiq
 sort: observiq

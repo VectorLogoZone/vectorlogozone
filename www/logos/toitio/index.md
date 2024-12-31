@@ -1,6 +1,6 @@
 ---
 blog: https://blog.toit.io/
-git: https://github.com/toitlang/toit
+codehost: https://github.com/https://github.com/toitlang/toit
 linkedin: https://linkedin.com/company/toitio
 logohandle: toitio
 sort: toit

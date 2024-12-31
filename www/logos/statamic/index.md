@@ -1,7 +1,7 @@
 ---
 blog: https://statamic.com/blog
+codehost: https://github.com/https://github.com/statamic
 facebook: https://facebook.com/statamic
-git: https://github.com/statamic
 logohandle: statamic
 sort: statamic
 title: Statamic

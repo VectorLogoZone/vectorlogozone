@@ -1,7 +1,7 @@
 ---
 blog: https://symbl.ai/blog
+codehost: https://github.com/https://github.com/symblai
 facebook: https://facebook.com/symbldotai
-git: https://github.com/symblai
 instagram: https://instagram.com/symbldotai
 linkedin: https://linkedin.com/company/symblai
 logohandle: symblai

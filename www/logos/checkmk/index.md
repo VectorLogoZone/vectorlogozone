@@ -1,7 +1,7 @@
 ---
 blog: https://checkmk.com/blog
+codehost: https://github.com/https://github.com/Checkmk/checkmk
 facebook: https://facebook.com/checkmk
-git: https://github.com/Checkmk/checkmk
 linkedin: https://linkedin.com/company/checkmk
 logohandle: checkmk
 sort: checkmk

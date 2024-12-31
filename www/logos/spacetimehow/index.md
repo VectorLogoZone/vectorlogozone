@@ -1,5 +1,5 @@
 ---
-git: https://github.com/smallwins/spacetime
+codehost: https://github.com/https://github.com/smallwins/spacetime
 logohandle: spacetimehow
 sort: spacetime
 title: spacetime

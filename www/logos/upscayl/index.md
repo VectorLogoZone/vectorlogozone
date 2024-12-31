@@ -1,5 +1,5 @@
 ---
-git: https://github.com/upscayl/upscayl
+codehost: https://github.com/https://github.com/upscayl/upscayl
 logohandle: upscayl
 sort: upscayl
 title: Upscayl

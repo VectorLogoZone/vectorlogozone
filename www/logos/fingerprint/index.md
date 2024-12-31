@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fingerprintjs/fingerprintjs
+codehost: https://github.com/https://github.com/fingerprintjs/fingerprintjs
 linkedin: https://linkedin.com/company/fingerprintjs
 logohandle: fingerprint
 sort: fingerprintjs

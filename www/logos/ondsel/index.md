@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/Ondsel-Development
 facebook: https://facebook.com/ondsel
-git: https://github.com/Ondsel-Development
 logohandle: ondsel
 sort: ondsel
 title: Ondsel

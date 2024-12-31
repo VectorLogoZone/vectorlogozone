@@ -1,5 +1,5 @@
 ---
-git: https://github.com/toeverything/AFFiNE
+codehost: https://github.com/https://github.com/toeverything/AFFiNE
 logohandle: affinepro
 sort: affine
 title: AFFiNE

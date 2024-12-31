@@ -1,5 +1,5 @@
 ---
-git: https://github.com/icidasset/diffuse
+codehost: https://github.com/https://github.com/icidasset/diffuse
 logohandle: diffusesh
 sort: diffuse
 title: Diffuse

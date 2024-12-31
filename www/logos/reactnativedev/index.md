@@ -1,5 +1,5 @@
 ---
-git: https://github.com/facebook/react-native
+codehost: https://github.com/https://github.com/facebook/react-native
 logohandle: reactnativedev
 sort: reactnative
 title: React Native

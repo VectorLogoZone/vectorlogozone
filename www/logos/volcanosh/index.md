@@ -1,5 +1,5 @@
 ---
-git: https://github.com/volcano-sh
+codehost: https://github.com/https://github.com/volcano-sh
 logohandle: volcanosh
 sort: volcano
 title: Volcano

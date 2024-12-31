@@ -1,6 +1,6 @@
 ---
 blog: https://blog.stdlib.io/
-git: https://github.com/stdlib-js/stdlib
+codehost: https://github.com/https://github.com/stdlib-js/stdlib
 logohandle: stdlibio
 sort: stdlibio
 title: stdlib.js

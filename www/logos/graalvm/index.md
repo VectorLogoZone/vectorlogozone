@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/graalvm
-git: https://github.com/oracle/graal
+codehost: https://github.com/https://github.com/oracle/graal
 linkedin: https://linkedin.com/company/graalvm
 logohandle: graalvm
 sort: graalvm

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pingcap/tidb
+codehost: https://github.com/https://github.com/pingcap/tidb
 logohandle: pingcap_tidb
 sort: tidb
 title: TiDB

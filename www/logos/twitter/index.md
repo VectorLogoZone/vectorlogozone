@@ -1,11 +1,11 @@
 ---
 blog: https://blog.twitter.com/
+codehost: https://github.com/https://github.com/twitter
 colors:
 - '#1DA1F2'
 font:
   name: Pico Alphabet
   url: http://www2.wind.ne.jp/maniackers/pico.html
-git: https://github.com/twitter
 guide: https://about.twitter.com/en_us/company/brand-resources.html
 images:
 - twitter-icon.svg

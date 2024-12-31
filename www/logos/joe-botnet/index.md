@@ -1,5 +1,5 @@
 ---
-git: https://github.com/go-joe/joe
+codehost: https://github.com/https://github.com/go-joe/joe
 logohandle: joe-botnet
 sort: joe-bot
 title: Joe Bot

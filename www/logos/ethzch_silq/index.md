@@ -1,5 +1,5 @@
 ---
-git: https://github.com/eth-sri/silq
+codehost: https://github.com/https://github.com/eth-sri/silq
 logohandle: ethzch_silq
 sort: silq
 title: Silq

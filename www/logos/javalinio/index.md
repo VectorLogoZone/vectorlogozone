@@ -1,5 +1,5 @@
 ---
-git: https://github.com/javalin/javalin
+codehost: https://github.com/https://github.com/javalin/javalin
 logohandle: javalinio
 sort: javalin
 title: Javalin

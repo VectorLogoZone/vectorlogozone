@@ -1,5 +1,5 @@
 ---
-git: https://github.com/libsql/libsql
+codehost: https://github.com/https://github.com/libsql/libsql
 logohandle: libsql
 sort: libsql
 title: libSQL

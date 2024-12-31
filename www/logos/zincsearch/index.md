@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zinclabs/zinc
+codehost: https://github.com/https://github.com/zinclabs/zinc
 linkedin: https://linkedin.com/company/zinc-labs
 logohandle: zincsearch
 sort: zincsearch

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/theintern/intern
+codehost: https://github.com/https://github.com/theintern/intern
 logohandle: theinternio
 sort: intern
 title: Intern

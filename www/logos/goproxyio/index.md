@@ -1,5 +1,5 @@
 ---
-git: https://github.com/goproxyio/goproxy
+codehost: https://github.com/https://github.com/goproxyio/goproxy
 logohandle: goproxyio
 sort: goproxy
 title: GoProxy

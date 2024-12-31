@@ -1,6 +1,6 @@
 ---
 blog: https://blog.yellowant.com/
-git: https://github.com/yellowanthq
+codehost: https://github.com/https://github.com/yellowanthq
 logohandle: yellowant
 sort: yellowant
 title: YellowAnt

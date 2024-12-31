@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pallets/click
+codehost: https://github.com/https://github.com/pallets/click
 logohandle: palletsprojects_click
 sort: click
 title: Click

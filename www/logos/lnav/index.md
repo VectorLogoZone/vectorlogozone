@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tstack/lnav
+codehost: https://github.com/https://github.com/tstack/lnav
 logohandle: lnav
 sort: lnav
 title: Log File Navigator

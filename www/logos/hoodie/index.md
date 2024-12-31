@@ -1,5 +1,5 @@
 ---
-git: https://github.com/hoodiehq/hoodie
+codehost: https://github.com/https://github.com/hoodiehq/hoodie
 logohandle: hoodie
 sort: hoodie
 title: Hoodie

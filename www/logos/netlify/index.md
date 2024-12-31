@@ -1,5 +1,5 @@
 ---
-git: https://github.com/netlify
+codehost: https://github.com/https://github.com/netlify
 logohandle: netlify
 sort: netlify
 title: Netlify

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/remy/nodemon
+codehost: https://github.com/https://github.com/remy/nodemon
 logohandle: nodemonio
 other:
 - name: OpenCollective

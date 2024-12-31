@@ -1,7 +1,7 @@
 ---
+codehost: https://github.com/https://github.com/gilbarbara/logos
 colors:
 - '#FB0000'
-git: https://github.com/gilbarbara/logos
 images:
 - svgporn-official.svg
 - svgporn-icon.svg

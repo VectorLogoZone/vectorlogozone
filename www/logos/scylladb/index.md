@@ -1,7 +1,7 @@
 ---
 blog: https://scylladb.com/blog
+codehost: https://github.com/https://github.com/ScyllaDB
 facebook: https://facebook.com/scylladb
-git: https://github.com/ScyllaDB
 logohandle: scylladb
 sort: scylladb
 title: ScyllaDB

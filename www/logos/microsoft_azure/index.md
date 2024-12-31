@@ -1,9 +1,9 @@
 ---
 blog: https://azure.microsoft.com/en-us/blog/
+codehost: https://github.com/https://github.com/Azure
 colors:
 - '#035BDA'
 facebook: https://www.facebook.com/microsoftazure
-git: https://github.com/Azure
 images:
 - microsoft_azure-icon.svg
 - microsoft_azure-ar21.svg

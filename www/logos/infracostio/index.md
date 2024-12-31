@@ -1,5 +1,5 @@
 ---
-git: https://github.com/infracost/infracost
+codehost: https://github.com/https://github.com/infracost/infracost
 logohandle: infracostio
 sort: infracost
 title: Infracost

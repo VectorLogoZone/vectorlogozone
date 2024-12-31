@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fluencelabs
+codehost: https://github.com/https://github.com/fluencelabs
 logohandle: fluencenetwork
 sort: fluence
 title: Fluence Project

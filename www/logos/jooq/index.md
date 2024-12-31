@@ -1,6 +1,6 @@
 ---
 blog: https://blog.jooq.org/
-git: https://github.com/jOOQ/jOOQ
+codehost: https://github.com/https://github.com/jOOQ/jOOQ
 logohandle: jooq
 sort: jooq
 title: jOOQ

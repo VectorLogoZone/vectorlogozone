@@ -1,5 +1,5 @@
 ---
-git: https://github.com/transloadit/uppy
+codehost: https://github.com/https://github.com/transloadit/uppy
 logohandle: uppyio
 sort: uppy
 title: Uppy

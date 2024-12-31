@@ -1,7 +1,7 @@
 ---
 blog: https://adevait.com/blog
+codehost: https://github.com/https://github.com/adevait
 facebook: https://facebook.com/ExploreAdeva
-git: https://github.com/adevait
 instagram: https://instagram.com/exploreadeva
 linkedin: https://linkedin.com/company/adeva-it
 logohandle: adevait

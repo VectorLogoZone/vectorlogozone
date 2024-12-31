@@ -1,6 +1,6 @@
 ---
 blog: https://docs.temporal.io/blog
-git: https://github.com/temporalio/temporal
+codehost: https://github.com/https://github.com/temporalio/temporal
 logohandle: temporalio
 sort: temporal
 title: Temporal

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.langchain.dev/
-git: https://github.com/langchain-ai/langchain
+codehost: https://github.com/https://github.com/langchain-ai/langchain
 linkedin: https://linkedin.com/company/langchain
 logohandle: langchain
 sort: langchain

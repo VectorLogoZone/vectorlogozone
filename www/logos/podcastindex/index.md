@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Podcastindex-org
+codehost: https://github.com/https://github.com/Podcastindex-org
 logohandle: podcastindex
 sort: podcastindex
 title: Podcastindex

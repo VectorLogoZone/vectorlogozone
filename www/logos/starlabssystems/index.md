@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/StarLabsLtd
 facebook: https://facebook.com/starlabssystems
-git: https://github.com/StarLabsLtd
 instagram: https://instagram.com/starlabssystems
 logohandle: starlabssystems
 sort: starlabs

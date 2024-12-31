@@ -1,5 +1,5 @@
 ---
-git: https://github.com/arc80/plywood
+codehost: https://github.com/https://github.com/arc80/plywood
 logohandle: arc80_plywood
 sort: plywood
 title: Plywood

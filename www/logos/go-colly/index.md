@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gocolly/colly
+codehost: https://github.com/https://github.com/gocolly/colly
 logohandle: go-colly
 sort: colly
 title: Colly

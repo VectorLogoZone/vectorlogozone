@@ -1,6 +1,6 @@
 ---
 blog: http://blog.nushell.sh/
-git: https://github.com/nushell
+codehost: https://github.com/https://github.com/nushell
 logohandle: nushellsh
 sort: nushell
 title: Nushell

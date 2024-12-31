@@ -1,7 +1,7 @@
 ---
 blog: https://openproject.org/blog
+codehost: https://github.com/https://github.com/opf/openproject
 facebook: https://facebook.com/openprojectfoundation
-git: https://github.com/opf/openproject
 googleplus: https://plus.google.com/+OpenProjectFoundation
 instagram: https://instagram.com/open.project
 linkedin: https://linkedin.com/company/openproject-gmbh

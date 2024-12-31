@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cptn-io/el-cptn
+codehost: https://github.com/https://github.com/cptn-io/el-cptn
 logohandle: cptnio
 sort: cptn
 title: CPTN

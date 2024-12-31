@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/groovy
+codehost: https://github.com/https://github.com/apache/groovy
 logohandle: groovy-lang
 sort: groovy
 title: Groovy

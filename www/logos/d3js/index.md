@@ -1,5 +1,5 @@
 ---
-git: https://github.com/d3/d3
+codehost: https://github.com/https://github.com/d3/d3
 images:
 - d3js-icon.svg
 - d3js-ar21.svg

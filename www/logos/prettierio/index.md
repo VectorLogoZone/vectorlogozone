@@ -1,5 +1,5 @@
 ---
-git: https://github.com/prettier/prettier
+codehost: https://github.com/https://github.com/prettier/prettier
 guide: https://github.com/prettier/prettier-logo/tree/master/images
 logohandle: prettierio
 sort: prettier

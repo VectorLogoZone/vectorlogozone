@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vmware-tanzu/octant
+codehost: https://github.com/https://github.com/vmware-tanzu/octant
 logohandle: octantdev
 sort: octant
 title: Octant

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/franciscop/umbrella
+codehost: https://github.com/https://github.com/franciscop/umbrella
 logohandle: umbrellajs
 sort: umbrellajs
 title: Umbrella JS

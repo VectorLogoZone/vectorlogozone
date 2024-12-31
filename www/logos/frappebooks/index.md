@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/frappe/books
 facebook: https://facebook.com/ERPNext
-git: https://github.com/frappe/books
 logohandle: frappebooks
 sort: frappebooks
 title: Frappe Books

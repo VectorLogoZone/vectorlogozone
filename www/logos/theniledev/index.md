@@ -1,6 +1,6 @@
 ---
 blog: https://thenile.dev/blog/introducing-nile
-git: https://github.com/niledatabase/niledatabase
+codehost: https://github.com/https://github.com/niledatabase/niledatabase
 linkedin: https://linkedin.com/company/niledatabase
 logohandle: theniledev
 sort: nile

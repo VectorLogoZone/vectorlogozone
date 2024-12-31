@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/eugenp
 facebook: https://facebook.com/baeldung
-git: https://github.com/eugenp
 googleplus: https://plus.google.com/+BaeldungTutorials
 logohandle: baeldung
 sort: baeldung

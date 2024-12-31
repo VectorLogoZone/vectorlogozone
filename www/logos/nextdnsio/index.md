@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/nextdns
-git: https://github.com/nextdns
+codehost: https://github.com/https://github.com/nextdns
 logohandle: nextdnsio
 sort: nextdns
 title: NextDNS

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.libtorrent.org/
-git: https://github.com/arvidn/libtorrent
+codehost: https://github.com/https://github.com/arvidn/libtorrent
 logohandle: libtorrent
 sort: libtorrent
 title: libtorrent

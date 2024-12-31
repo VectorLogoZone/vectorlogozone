@@ -1,7 +1,7 @@
 ---
 blog: https://blog.draftbit.com/
+codehost: https://github.com/https://github.com/draftbit
 facebook: https://facebook.com/pages/category/Internet-Company/Draftbit-285179798962070
-git: https://github.com/draftbit
 logohandle: draftbit
 sort: draftbit
 title: Draftbit

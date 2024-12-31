@@ -1,5 +1,5 @@
 ---
-git: https://github.com/duneanalytics
+codehost: https://github.com/https://github.com/duneanalytics
 logohandle: dunexyz
 sort: dune
 title: Dune Analytics

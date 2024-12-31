@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/giveth
+codehost: https://github.com/https://github.com/giveth
 facebook: https://facebook.com/givethio
-git: https://github.com/giveth
 logohandle: givethio
 sort: giveth
 title: Giveth

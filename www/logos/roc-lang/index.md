@@ -1,5 +1,5 @@
 ---
-git: https://github.com/roc-lang
+codehost: https://github.com/https://github.com/roc-lang
 logohandle: roc-lang
 sort: roclang
 title: The Roc Programming Language

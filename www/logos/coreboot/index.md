@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/coreboot
 facebook: https://facebook.com/coreboot
-git: https://github.com/coreboot
 logohandle: coreboot
 sort: coreboot
 title: coreboot

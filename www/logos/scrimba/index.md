@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/scrimba
-git: https://github.com/scrimba/community
+codehost: https://github.com/https://github.com/scrimba/community
 logohandle: scrimba
 sort: scrimba
 title: Scrimba

@@ -1,8 +1,8 @@
 ---
+codehost: https://github.com/https://github.com/amzn
 colors:
 - '#FF9900'
 facebook: https://www.facebook.com/amazon
-git: https://github.com/amzn
 images:
 - amazon-icon.svg
 - amazon-tile.svg

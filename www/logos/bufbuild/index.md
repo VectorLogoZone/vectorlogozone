@@ -1,5 +1,5 @@
 ---
-git: https://github.com/bufbuild/buf
+codehost: https://github.com/https://github.com/bufbuild/buf
 logohandle: bufbuild
 sort: buf
 title: Buf

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.heptio.com/
+codehost: https://github.com/https://github.com/heptio
 facebook: https://facebook.com/heptio
-git: https://github.com/heptio
 linkedin: https://linkedin.com/company/heptio
 logohandle: heptio
 sort: heptio

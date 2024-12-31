@@ -1,7 +1,7 @@
 ---
+codehost: https://github.com/https://github.com/edent/supertinyicons
 colors:
 - '#2100FF'
-git: https://github.com/edent/supertinyicons
 images:
 - supertinyicons-icon.svg
 - supertinyicons-ar21.svg

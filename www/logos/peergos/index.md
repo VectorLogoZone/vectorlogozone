@@ -1,6 +1,6 @@
 ---
 blog: http://blog.peergos.org/
-git: https://github.com/Peergos/Peergos
+codehost: https://github.com/https://github.com/Peergos/Peergos
 logohandle: peergos
 sort: peergos
 title: Peergos

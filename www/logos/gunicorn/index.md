@@ -1,5 +1,5 @@
 ---
-git: https://github.com/benoitc/gunicorn
+codehost: https://github.com/https://github.com/benoitc/gunicorn
 logohandle: gunicorn
 sort: gunicorn
 title: Gunicorn

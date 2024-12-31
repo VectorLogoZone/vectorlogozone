@@ -1,5 +1,5 @@
 ---
-git: https://github.com/photonstorm/phaser
+codehost: https://github.com/https://github.com/photonstorm/phaser
 logohandle: phaserio
 sort: phaser
 title: Phaser

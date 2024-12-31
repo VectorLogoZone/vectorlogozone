@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/huggingface/distilbert-8cf3380435b5
-git: https://github.com/huggingface
+codehost: https://github.com/https://github.com/huggingface
 linkedin: https://linkedin.com/company/huggingface
 logohandle: huggingfaceco
 sort: huggingface

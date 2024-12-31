@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/bcgit
 facebook: https://facebook.com/legionofthebouncycastle
-git: https://github.com/bcgit
 logohandle: bouncycastle
 sort: bouncycastle
 title: bouncycastle

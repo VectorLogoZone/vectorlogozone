@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/CodingRooms
 facebook: https://facebook.com/CodingRooms
-git: https://github.com/CodingRooms
 instagram: https://instagram.com/CodingRooms
 linkedin: https://linkedin.com/company/codingrooms
 logohandle: codingrooms

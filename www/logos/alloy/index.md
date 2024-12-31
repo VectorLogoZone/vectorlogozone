@@ -1,7 +1,7 @@
 ---
 blog: https://alloy.com/blog
+codehost: https://github.com/https://github.com/useAlloy
 facebook: https://facebook.com/usealloy
-git: https://github.com/useAlloy
 instagram: https://instagram.com/use_alloy
 linkedin: https://linkedin.com/company/alloy-apis
 logohandle: alloy

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/amplication/amplication
 facebook: https://facebook.com/amplicationcom
-git: https://github.com/amplication/amplication
 linkedin: https://linkedin.com/company/amplication
 logohandle: amplication
 sort: amplication

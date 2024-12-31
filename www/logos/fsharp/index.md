@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/fsharp/fsfoundation
 facebook: http://facebook.com/fsharp.org
-git: https://github.com/fsharp/fsfoundation
 logohandle: fsharp
 sort: fsharp
 title: F#

@@ -1,7 +1,7 @@
 ---
 blog: https://yottadb.com/blog
+codehost: https://github.com/https://github.com/YottaDB
 facebook: https://facebook.com/yottadb
-git: https://github.com/YottaDB
 linkedin: https://linkedin.com/company/yottadb
 logohandle: yottadb
 sort: yottadb

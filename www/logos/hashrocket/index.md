@@ -1,7 +1,7 @@
 ---
+codehost: https://github.com/https://github.com/hashrocket
 dribbble: https://dribbble.com/hashrocket
 facebook: https://facebook.com/hashrocket
-git: https://github.com/hashrocket
 googleplus: https://plus.google.com/+hashrocket
 linkedin: https://linkedin.com/company/hashrocket
 logohandle: hashrocket

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fluree
+codehost: https://github.com/https://github.com/fluree
 linkedin: https://linkedin.com/company/fluree-pbc
 logohandle: fluree
 sort: fluree

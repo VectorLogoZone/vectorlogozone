@@ -1,5 +1,5 @@
 ---
-git: https://github.com/d5/tengo
+codehost: https://github.com/https://github.com/d5/tengo
 logohandle: tengolang
 sort: tengolang
 title: Tengo

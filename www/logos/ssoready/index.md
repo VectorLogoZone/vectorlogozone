@@ -1,6 +1,6 @@
 ---
 blog: https://ssoready.com/blog
-git: https://github.com/ssoready/ssoready
+codehost: https://github.com/https://github.com/ssoready/ssoready
 logohandle: ssoready
 sort: ssoready
 title: SSOReady

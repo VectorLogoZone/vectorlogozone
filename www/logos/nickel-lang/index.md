@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tweag/nickel
+codehost: https://github.com/https://github.com/tweag/nickel
 logohandle: nickel-lang
 sort: nickellang
 title: Nickel

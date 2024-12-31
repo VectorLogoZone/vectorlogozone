@@ -1,5 +1,5 @@
 ---
-git: https://github.com/LemmyNet
+codehost: https://github.com/https://github.com/LemmyNet
 logohandle: lemmyworld
 sort: lemmy
 title: Lemmy

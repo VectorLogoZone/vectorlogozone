@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Froxlor/Froxlor
+codehost: https://github.com/https://github.com/Froxlor/Froxlor
 logohandle: froxlor
 sort: froxlor
 title: Froxlor

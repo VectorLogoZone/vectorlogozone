@@ -1,7 +1,7 @@
 ---
 blog: https://blog.enveloop.com/
+codehost: https://github.com/https://github.com/enveloophq
 facebook: https://facebook.com/enveloophq
-git: https://github.com/enveloophq
 linkedin: https://linkedin.com/company/enveloop
 logohandle: enveloop
 sort: enveloop

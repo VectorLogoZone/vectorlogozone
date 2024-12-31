@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zendframework/zend-expressive
+codehost: https://github.com/https://github.com/zendframework/zend-expressive
 logohandle: getexpressive
 sort: getexpressive
 title: Expressive

@@ -1,8 +1,8 @@
 ---
 blog: https://blog.creative-tim.com/
+codehost: https://github.com/https://github.com/creativetimofficial
 dribbble: https://dribbble.com/creativetim
 facebook: https://facebook.com/CreativeTim
-git: https://github.com/creativetimofficial
 instagram: https://instagram.com/creativetimofficial
 logohandle: creative-tim
 sort: creative-tim

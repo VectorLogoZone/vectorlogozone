@@ -1,7 +1,7 @@
 ---
 blog: https://volumio.org/blog
+codehost: https://github.com/https://github.com/volumio
 facebook: https://facebook.com/volumio
-git: https://github.com/volumio
 instagram: https://instagram.com/volumio
 logohandle: volumio
 sort: volumio

@@ -1,7 +1,7 @@
 ---
 blog: https://supergiant.io/blog
+codehost: https://github.com/https://github.com/supergiant/supergiant
 facebook: https://www.facebook.com/supergiantio/
-git: https://github.com/supergiant/supergiant
 linkedin: https://www.linkedin.com/company/supergiant.io
 logohandle: supergiantio
 sort: supergiant

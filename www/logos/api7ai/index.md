@@ -1,5 +1,5 @@
 ---
-git: https://github.com/api7
+codehost: https://github.com/https://github.com/api7
 linkedin: https://linkedin.com/company/api7-ai
 logohandle: api7ai
 sort: api7

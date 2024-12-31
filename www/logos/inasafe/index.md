@@ -1,5 +1,5 @@
 ---
-git: https://github.com/inasafe/inasafe
+codehost: https://github.com/https://github.com/inasafe/inasafe
 logohandle: inasafe
 sort: inasafe
 title: InaSAFE

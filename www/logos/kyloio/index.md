@@ -1,5 +1,5 @@
 ---
-git: https://github.com/KyloIO/kylo
+codehost: https://github.com/https://github.com/KyloIO/kylo
 logohandle: kyloio
 sort: kylo
 title: Kylo

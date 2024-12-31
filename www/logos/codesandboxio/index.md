@@ -1,5 +1,5 @@
 ---
-git: https://github.com/codesandbox/codesandbox-client
+codehost: https://github.com/https://github.com/codesandbox/codesandbox-client
 logohandle: codesandboxio
 sort: codesandbox
 title: Code Sandbox

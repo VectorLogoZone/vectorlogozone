@@ -1,5 +1,5 @@
 ---
-git: https://github.com/openswoole
+codehost: https://github.com/https://github.com/openswoole
 logohandle: openswoole
 sort: openswoole
 title: Open Swoole

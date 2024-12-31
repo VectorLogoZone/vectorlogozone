@@ -1,6 +1,6 @@
 ---
 blog: https://blog.cloudno.de/
-git: https://github.com/cloudnode
+codehost: https://github.com/https://github.com/cloudnode
 logohandle: cloudnode
 sort: cloudnode
 title: Cloudnode

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tapjs/node-tap
+codehost: https://github.com/https://github.com/tapjs/node-tap
 logohandle: node-tap
 sort: tap
 title: tap

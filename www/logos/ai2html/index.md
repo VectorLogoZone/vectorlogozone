@@ -1,5 +1,5 @@
 ---
-git: https://github.com/newsdev/ai2html
+codehost: https://github.com/https://github.com/newsdev/ai2html
 logohandle: ai2html
 sort: ai2html
 title: ai2html

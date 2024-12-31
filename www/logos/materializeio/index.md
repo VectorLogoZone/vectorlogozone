@@ -1,6 +1,6 @@
 ---
 blog: https://materialize.io/blog
-git: https://github.com/MaterializeInc/materialize
+codehost: https://github.com/https://github.com/MaterializeInc/materialize
 linkedin: https://linkedin.com/company/materializeinc
 logohandle: materializeio
 sort: materialize

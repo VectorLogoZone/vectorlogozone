@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/incubator-openwhisk-runtime-nodejs
+codehost: https://github.com/https://github.com/apache/incubator-openwhisk-runtime-nodejs
 logohandle: apache_openwhisk
 sort: openwhisk
 tags:

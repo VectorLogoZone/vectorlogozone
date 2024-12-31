@@ -1,7 +1,7 @@
 ---
 blog: https://blog.algorithmia.com/
+codehost: https://github.com/https://github.com/algorithmiaio
 facebook: https://facebook.com/algorithmia
-git: https://github.com/algorithmiaio
 linkedin: https://linkedin.com/company/algorithmia-inc
 logohandle: algorithmia
 sort: algorithmia

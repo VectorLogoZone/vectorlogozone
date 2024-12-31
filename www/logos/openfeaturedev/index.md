@@ -1,5 +1,5 @@
 ---
-git: https://github.com/open-feature
+codehost: https://github.com/https://github.com/open-feature
 logohandle: openfeaturedev
 sort: openfeature
 title: OpenFeature

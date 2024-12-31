@@ -1,7 +1,7 @@
 ---
 blog: https://cloudfoundry.org/blog
+codehost: https://github.com/https://github.com/cloudfoundry
 facebook: https://facebook.com/cloudfoundry
-git: https://github.com/cloudfoundry
 linkedin: https://linkedin.com/company/cloud-foundry
 logohandle: cloudfoundry
 sort: cloudfoundry

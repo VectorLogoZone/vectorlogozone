@@ -1,7 +1,7 @@
 ---
 blog: https://blog.trello.com/
+codehost: https://github.com/https://github.com/trello
 facebook: http://www.facebook.com/trelloapp
-git: https://github.com/trello
 guide: https://design.trello.com/
 images:
 - trello-icon.svg

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/hashicorp/waypoint
 facebook: https://facebook.com/HashiCorp
-git: https://github.com/hashicorp/waypoint
 logohandle: waypointprojectio
 sort: waypointproject
 title: Waypoint

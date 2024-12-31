@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jrnl-org/jrnl
+codehost: https://github.com/https://github.com/jrnl-org/jrnl
 logohandle: jrnlsh
 sort: jrnl
 title: jrnl

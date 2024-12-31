@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gothinkster
+codehost: https://github.com/https://github.com/gothinkster
 logohandle: thinksterio
 sort: thinkster
 title: Thinkster

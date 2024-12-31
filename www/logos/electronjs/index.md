@@ -1,5 +1,5 @@
 ---
-git: https://github.com/electron
+codehost: https://github.com/https://github.com/electron
 logohandle: electronjs
 sort: electronjs
 title: Electron

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/formik/formik
 facebook: https://facebook.com/formikhq
-git: https://github.com/formik/formik
 instagram: https://instagram.com/formikhq
 logohandle: formik
 sort: formik

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/SertoID
+codehost: https://github.com/https://github.com/SertoID
 logohandle: sertoid
 sort: sertoid
 title: Serto.id

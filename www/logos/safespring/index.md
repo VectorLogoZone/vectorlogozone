@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/safespring
 facebook: https://facebook.com/Safespring-147994442601302
-git: https://github.com/safespring
 linkedin: https://linkedin.com/company/safespring
 logohandle: safespring
 sort: safespring

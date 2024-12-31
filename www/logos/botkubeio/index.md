@@ -1,5 +1,5 @@
 ---
-git: https://github.com/infracloudio/botkube
+codehost: https://github.com/https://github.com/infracloudio/botkube
 logohandle: botkubeio
 sort: botkube
 title: BotKube

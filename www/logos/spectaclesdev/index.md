@@ -1,5 +1,5 @@
 ---
-git: https://github.com/spectacles-ci
+codehost: https://github.com/https://github.com/spectacles-ci
 logohandle: spectaclesdev
 sort: spectacles
 title: Spectacles

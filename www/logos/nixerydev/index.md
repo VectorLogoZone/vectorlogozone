@@ -1,5 +1,5 @@
 ---
-git: https://github.com/google/nixery
+codehost: https://github.com/https://github.com/google/nixery
 logohandle: nixerydev
 sort: nixery
 title: Nixery

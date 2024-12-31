@@ -1,5 +1,5 @@
 ---
-git: https://github.com/grafana/loki
+codehost: https://github.com/https://github.com/grafana/loki
 logohandle: grafana_loki
 sort: loki
 title: Loki

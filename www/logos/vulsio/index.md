@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vulsdoc/vuls
+codehost: https://github.com/https://github.com/vulsdoc/vuls
 logohandle: vulsio
 sort: vuls
 title: Vuls

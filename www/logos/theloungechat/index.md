@@ -1,5 +1,5 @@
 ---
-git: https://github.com/thelounge
+codehost: https://github.com/https://github.com/thelounge
 logohandle: theloungechat
 sort: lounge
 title: The Lounge

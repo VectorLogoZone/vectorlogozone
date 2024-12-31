@@ -1,6 +1,6 @@
 ---
 blog: https://gravitational.com/blog
-git: https://github.com/gravitational
+codehost: https://github.com/https://github.com/gravitational
 logohandle: gravitational
 sort: gravitational
 title: Gravitational

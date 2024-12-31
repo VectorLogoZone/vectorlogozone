@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/pilosa
 facebook: https://facebook.com/pilosaco
-git: https://github.com/pilosa
 linkedin: https://linkedin.com/company/pilosa
 logohandle: pilosa
 sort: pilosa

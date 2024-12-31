@@ -1,5 +1,5 @@
 ---
-git: https://github.com/markedjs/marked
+codehost: https://github.com/https://github.com/markedjs/marked
 logohandle: js_marked
 sort: marked
 title: Marked.js

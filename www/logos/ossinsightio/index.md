@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pingcap/ossinsight
+codehost: https://github.com/https://github.com/pingcap/ossinsight
 logohandle: ossinsightio
 sort: ossinsight
 title: OSS Insight

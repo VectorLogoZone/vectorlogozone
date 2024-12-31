@@ -1,5 +1,5 @@
 ---
-git: https://github.com/sdkman
+codehost: https://github.com/https://github.com/sdkman
 logohandle: sdkmanio
 sort: sdkman
 title: SDKMAN

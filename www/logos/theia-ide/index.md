@@ -1,5 +1,5 @@
 ---
-git: https://github.com/theia-ide/theia
+codehost: https://github.com/https://github.com/theia-ide/theia
 logohandle: theia-ide
 sort: theia-ide
 title: Theia

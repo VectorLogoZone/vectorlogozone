@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/sanity-io
 facebook: https://facebook.com/sanityapi
-git: https://github.com/sanity-io
 instagram: https://instagram.com/sanity.io
 linkedin: https://linkedin.com/company/sanity-io
 logohandle: sanityio

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/watermelontools/watermelon
+codehost: https://github.com/https://github.com/watermelontools/watermelon
 logohandle: watermelontools
 sort: watermelontools
 title: Watermelon

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/godotengine
 facebook: https://facebook.com/groups/godotengine
-git: https://github.com/godotengine
 guide: https://github.com/godotengine/godot/blob/master/logo.svg
 logohandle: godotengine
 sort: godotengine

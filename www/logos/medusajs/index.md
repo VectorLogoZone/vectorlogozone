@@ -1,5 +1,5 @@
 ---
-git: https://github.com/medusajs/medusa
+codehost: https://github.com/https://github.com/medusajs/medusa
 linkedin: https://linkedin.com/company/medusa-commerce
 logohandle: medusajs
 sort: medusajs

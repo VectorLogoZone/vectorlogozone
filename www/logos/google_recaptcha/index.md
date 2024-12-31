@@ -1,10 +1,10 @@
 ---
+codehost: https://github.com/https://github.com/google/recaptcha
 colors:
 - '#1C3AA9'
 - '#4285F4'
 - '#ABABAB'
 - '#A6A6A6'
-git: https://github.com/google/recaptcha
 images:
 - google_recaptcha-official.svg
 - google_recaptcha-icon.svg

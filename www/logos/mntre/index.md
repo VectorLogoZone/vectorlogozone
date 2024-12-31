@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mntmn
+codehost: https://github.com/https://github.com/mntmn
 logohandle: mntre
 sort: mntre
 title: MNT Research

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/frctl/fractal
+codehost: https://github.com/https://github.com/frctl/fractal
 logohandle: fractalbuild
 sort: fractal
 title: Fractal

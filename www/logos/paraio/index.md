@@ -1,5 +1,5 @@
 ---
-git: https://github.com/erudika/para
+codehost: https://github.com/https://github.com/erudika/para
 logohandle: paraio
 sort: paraio
 title: Para

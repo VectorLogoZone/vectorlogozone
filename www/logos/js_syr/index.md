@@ -1,5 +1,5 @@
 ---
-git: https://github.com/syrjs
+codehost: https://github.com/https://github.com/syrjs
 logohandle: js_syr
 sort: syr
 title: Syr

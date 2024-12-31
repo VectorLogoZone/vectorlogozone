@@ -1,5 +1,5 @@
 ---
-git: https://github.com/konsoletyper/teavm
+codehost: https://github.com/https://github.com/konsoletyper/teavm
 logohandle: teavm
 sort: teavm
 title: TeaVM

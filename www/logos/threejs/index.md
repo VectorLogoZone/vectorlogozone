@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mrdoob/three.js
+codehost: https://github.com/https://github.com/mrdoob/three.js
 logohandle: threejs
 sort: threejs
 title: three.js

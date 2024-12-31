@@ -1,5 +1,5 @@
 ---
-git: https://github.com/goauthentik/authentik
+codehost: https://github.com/https://github.com/goauthentik/authentik
 logohandle: goauthentikio
 sort: authentik
 title: Authentik

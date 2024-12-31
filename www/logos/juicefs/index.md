@@ -1,6 +1,6 @@
 ---
 blog: https://juicefs.com/blog/en
-git: https://github.com/juicedata/juicefs
+codehost: https://github.com/https://github.com/juicedata/juicefs
 logohandle: juicefs
 sort: juicefs
 title: JuiceFS

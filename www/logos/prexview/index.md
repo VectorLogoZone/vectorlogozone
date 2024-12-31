@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/prexview
 facebook: https://facebook.com/PrexView
-git: https://github.com/prexview
 logohandle: prexview
 sort: prexview
 title: PrexView

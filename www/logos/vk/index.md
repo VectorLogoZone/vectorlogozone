@@ -1,5 +1,5 @@
 ---
-git: https://github.com/VKCOM
+codehost: https://github.com/https://github.com/VKCOM
 guide: https://vk.com/about
 images:
 - vk-ar21.svg

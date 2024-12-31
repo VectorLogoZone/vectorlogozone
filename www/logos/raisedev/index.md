@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/raisedevs
 facebook: https://facebook.com/raisedevs
-git: https://github.com/raisedevs
 linkedin: https://linkedin.com/company/raisedevs
 logohandle: raisedev
 sort: raisedev

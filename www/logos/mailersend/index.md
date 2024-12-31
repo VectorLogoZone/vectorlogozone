@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/mailersend
 facebook: https://facebook.com/MailerSend
-git: https://github.com/mailersend
 linkedin: https://linkedin.com/company/mailersend
 logohandle: mailersend
 sort: mailersend

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/uptrace
+codehost: https://github.com/https://github.com/uptrace
 logohandle: uptracedev
 sort: uptrace
 title: Uptrace

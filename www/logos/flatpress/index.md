@@ -1,5 +1,5 @@
 ---
-git: https://github.com/flatpressblog/flatpress
+codehost: https://github.com/https://github.com/flatpressblog/flatpress
 logohandle: flatpress
 sort: flatpress
 title: FlatPress

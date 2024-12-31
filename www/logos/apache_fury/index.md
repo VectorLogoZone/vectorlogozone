@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/incubator-fury
+codehost: https://github.com/https://github.com/apache/incubator-fury
 logohandle: apache_fury
 sort: fury
 tags:

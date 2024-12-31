@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/flutter-io
-git: https://github.com/flutter
+codehost: https://github.com/https://github.com/flutter
 logohandle: flutterio
 sort: flutter
 title: Flutter

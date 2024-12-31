@@ -1,7 +1,7 @@
 ---
 blog: https://blog.brainboard.co/
+codehost: https://github.com/https://github.com/marketplace/brainboard
 facebook: https://facebook.com/brainboard.co
-git: https://github.com/marketplace/brainboard
 linkedin: https://linkedin.com/company/brainboard-co
 logohandle: brainboardco
 sort: brainboard

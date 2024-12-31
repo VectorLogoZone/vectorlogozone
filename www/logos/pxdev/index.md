@@ -1,6 +1,6 @@
 ---
 blog: https://blog.px.dev/
-git: https://github.com/pixie-labs/pixie
+codehost: https://github.com/https://github.com/pixie-labs/pixie
 instagram: https://instagram.com/pixie_run
 linkedin: https://linkedin.com/company/pixieai
 logohandle: pxdev

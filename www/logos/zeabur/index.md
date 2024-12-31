@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zeabur
+codehost: https://github.com/https://github.com/zeabur
 logohandle: zeabur
 sort: zeabur
 title: Zeabur

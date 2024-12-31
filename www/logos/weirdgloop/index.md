@@ -1,5 +1,5 @@
 ---
-git: https://github.com/weirdgloop
+codehost: https://github.com/https://github.com/weirdgloop
 logohandle: weirdgloop
 sort: weirdgloop
 title: Weird Gloop

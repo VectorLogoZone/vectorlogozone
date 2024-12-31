@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/meedan-updates/
+codehost: https://github.com/https://github.com/Meedan
 facebook: https://facebook.com/pages/Meedan/54421674438
-git: https://github.com/Meedan
 logohandle: meedan
 sort: meedan
 title: Meedan

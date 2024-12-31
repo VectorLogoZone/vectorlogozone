@@ -1,5 +1,5 @@
 ---
-git: https://github.com/faye/faye
+codehost: https://github.com/https://github.com/faye/faye
 logohandle: jcoglan_faye
 sort: faye
 title: Faye

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/finopsfoundation
+codehost: https://github.com/https://github.com/finopsfoundation
 linkedin: https://linkedin.com/company/finops-foundation
 logohandle: finops
 sort: finops

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/aserto-dev
+codehost: https://github.com/https://github.com/aserto-dev
 logohandle: aserto
 sort: aserto
 title: Aserto

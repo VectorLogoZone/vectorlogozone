@@ -1,6 +1,6 @@
 ---
 blog: https://blog.rook.io/
-git: https://github.com/rook/rook
+codehost: https://github.com/https://github.com/rook/rook
 logohandle: rookio
 slack: https://rook-io.slack.com/
 sort: rook

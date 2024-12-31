@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pkt-cash
+codehost: https://github.com/https://github.com/pkt-cash
 logohandle: pktcash
 sort: pktcash
 title: PKT Cash

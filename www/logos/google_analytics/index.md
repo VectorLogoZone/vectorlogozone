@@ -1,11 +1,11 @@
 ---
 blog: https://analytics.googleblog.com/
+codehost: https://github.com/https://github.com/googleanalytics
 colors:
 - '#FFC517'
 - '#EE7406'
 - '#F57E02'
 - '#757575'
-git: https://github.com/googleanalytics
 guide: https://developers.google.com/analytics/terms/branding-policy
 images:
 - google_analytics-ar21.svg

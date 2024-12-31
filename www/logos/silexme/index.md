@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/silexlabs/Silex
 facebook: https://facebook.com/silexlabs
-git: https://github.com/silexlabs/Silex
 logohandle: silexme
 sort: silex
 title: Silex

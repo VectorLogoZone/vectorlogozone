@@ -1,7 +1,7 @@
 ---
 blog: https://www.hashicorp.com/blog
+codehost: https://github.com/https://github.com/hashicorp
 facebook: https://www.facebook.com/HashiCorp/
-git: https://github.com/hashicorp
 guide: https://www.hashicorp.com/brand
 images:
 - hashicorp-ar21.svg

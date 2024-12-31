@@ -1,7 +1,7 @@
 ---
 blog: https://issuehunt.io/blog
+codehost: https://github.com/https://github.com/IssueHunt
 facebook: https://facebook.com/issuehunt
-git: https://github.com/IssueHunt
 logohandle: issuehuntio
 sort: issuehunt
 title: IssueHunt

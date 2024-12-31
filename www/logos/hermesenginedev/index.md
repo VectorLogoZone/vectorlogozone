@@ -1,5 +1,5 @@
 ---
-git: https://github.com/facebook/hermes
+codehost: https://github.com/https://github.com/facebook/hermes
 logohandle: hermesenginedev
 sort: hermesengine
 title: Hermes Engine

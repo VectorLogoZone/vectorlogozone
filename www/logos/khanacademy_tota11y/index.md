@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Khan/tota11y
+codehost: https://github.com/https://github.com/Khan/tota11y
 logohandle: khanacademy_tota11y
 sort: tota11y
 title: tota11y

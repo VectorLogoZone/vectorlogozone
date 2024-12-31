@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/fast-af
 dribbble: https://dribbble.com/fast
-git: https://github.com/fast-af
 instagram: https://instagram.com/passwordless
 linkedin: https://linkedin.com/company/fast
 logohandle: fastco

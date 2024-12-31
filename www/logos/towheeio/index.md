@@ -1,5 +1,5 @@
 ---
-git: https://github.com/towhee-io/towhee
+codehost: https://github.com/https://github.com/towhee-io/towhee
 logohandle: towheeio
 sort: towhee
 title: Towhee

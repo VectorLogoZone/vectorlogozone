@@ -1,7 +1,7 @@
 ---
 blog: https://blog.selectel.com/
+codehost: https://github.com/https://github.com/selectel
 facebook: https://facebook.com/selectel
-git: https://github.com/selectel
 instagram: https://instagram.com/selectelnews
 logohandle: selectelru
 sort: selectel

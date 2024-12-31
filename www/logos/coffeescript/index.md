@@ -1,6 +1,6 @@
 ---
 blog: http://blog.tlrobinson.net/
-git: https://github.com/jashkenas/coffeescript
+codehost: https://github.com/https://github.com/jashkenas/coffeescript
 guide: https://github.com/jashkenas/coffeescript/tree/master/documentation/site
 logohandle: coffeescript
 sort: coffeescript

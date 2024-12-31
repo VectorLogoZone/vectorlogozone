@@ -1,5 +1,5 @@
 ---
-git: https://github.com/netty/netty
+codehost: https://github.com/https://github.com/netty/netty
 logohandle: nettyio
 sort: netty
 title: Netty

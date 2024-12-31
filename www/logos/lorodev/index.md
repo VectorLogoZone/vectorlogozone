@@ -1,5 +1,5 @@
 ---
-git: https://github.com/loro-dev
+codehost: https://github.com/https://github.com/loro-dev
 logohandle: lorodev
 sort: loro
 title: Loro

@@ -1,10 +1,10 @@
 ---
 blog: https://git-scm.com/blog
+codehost: https://github.com/https://github.com/git
 font:
   myfonts: https://www.myfonts.com/fonts/type-together/adelle/
   name: Adelle
   url: http://www.type-together.com/Adelle
-git: https://github.com/git
 guide: http://git-scm.com/downloads/logos
 images:
 - git-scm-ar21.svg

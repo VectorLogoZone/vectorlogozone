@@ -1,5 +1,5 @@
 ---
-git: https://github.com/opencontainers/umoci
+codehost: https://github.com/https://github.com/opencontainers/umoci
 logohandle: umoci
 sort: umo
 title: umoci

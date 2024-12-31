@@ -1,5 +1,5 @@
 ---
-git: https://github.com/picocss/pico
+codehost: https://github.com/https://github.com/picocss/pico
 logohandle: picocss
 sort: picocss
 title: Pico.css

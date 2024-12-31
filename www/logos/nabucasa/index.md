@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/nabucasa
 facebook: https://facebook.com/NabuCasa
-git: https://github.com/nabucasa
 logohandle: nabucasa
 sort: nabucasa
 title: Nabu Casa

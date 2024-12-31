@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ibis-project
+codehost: https://github.com/https://github.com/ibis-project
 logohandle: ibis-project
 sort: ibisproject
 title: Ibis

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/datastax
 facebook: https://facebook.com/datastax
-git: https://github.com/datastax
 linkedin: https://linkedin.com/company/datastax
 logohandle: datastax
 sort: datastax

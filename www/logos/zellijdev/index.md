@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zellij-org/zellij
+codehost: https://github.com/https://github.com/zellij-org/zellij
 logohandle: zellijdev
 sort: zellij
 title: Zellij

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/terrateamio/terrateam
+codehost: https://github.com/https://github.com/terrateamio/terrateam
 logohandle: terrateamio
 sort: terrateam
 title: Terrateam

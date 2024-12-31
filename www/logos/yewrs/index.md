@@ -1,5 +1,5 @@
 ---
-git: https://github.com/yewstack/yew
+codehost: https://github.com/https://github.com/yewstack/yew
 logohandle: yewrs
 sort: yew
 title: Yew

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cheeriojs
+codehost: https://github.com/https://github.com/cheeriojs
 logohandle: js_cheerio
 sort: cheerio
 title: cheerio

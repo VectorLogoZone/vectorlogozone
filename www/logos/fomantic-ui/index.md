@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@fomantic
-git: https://github.com/fomantic/Fomantic-UI
+codehost: https://github.com/https://github.com/fomantic/Fomantic-UI
 logohandle: fomantic-ui
 sort: fomantic-ui
 title: Fomantic-UI

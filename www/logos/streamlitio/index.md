@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/streamlit
-git: https://github.com/streamlit/streamlit
+codehost: https://github.com/https://github.com/streamlit/streamlit
 linkedin: https://linkedin.com/company/streamlit
 logohandle: streamlitio
 sort: streamlit

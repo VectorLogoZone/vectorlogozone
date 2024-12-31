@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zigzap
+codehost: https://github.com/https://github.com/zigzap
 logohandle: zigzap
 sort: zap
 title: ZAP

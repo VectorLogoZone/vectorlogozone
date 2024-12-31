@@ -1,7 +1,7 @@
 ---
 blog: https://blog.roku.com/index
+codehost: https://github.com/https://github.com/rokudev
 facebook: https://www.facebook.com/roku
-git: https://github.com/rokudev
 images:
 - roku-ar21.svg
 - roku-icon.svg

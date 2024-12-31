@@ -1,6 +1,6 @@
 ---
 blog: https://dafny.org/blog
-git: https://github.com/dafny-lang/dafny
+codehost: https://github.com/https://github.com/dafny-lang/dafny
 logohandle: dafny
 sort: dafny
 title: Dafny

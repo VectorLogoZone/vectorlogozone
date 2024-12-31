@@ -1,6 +1,6 @@
 ---
 blog: https://litmus.com/blog/2015-mobile-friendly-email-landing-page-trends-infographic
-git: https://github.com/mjmlio/mjml
+codehost: https://github.com/https://github.com/mjmlio/mjml
 logohandle: mjmlio
 sort: mjml
 title: MJML

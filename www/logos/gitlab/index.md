@@ -1,11 +1,11 @@
 ---
 blog: https://about.gitlab.com/blog/
+codehost: https://github.com/https://github.com/gitlabhq
 colors:
 - '#FC6D26'
 - '#6B4FBB'
 - '#EEEEEE'
 facebook: https://www.facebook.com/gitlab
-git: https://github.com/gitlabhq
 guide: https://about.gitlab.com/press/
 images:
 - gitlab-icon.svg

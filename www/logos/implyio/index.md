@@ -1,6 +1,6 @@
 ---
 blog: https://imply.io/blog
-git: https://github.com/implydata
+codehost: https://github.com/https://github.com/implydata
 linkedin: https://linkedin.com/company/imply
 logohandle: implyio
 sort: imply

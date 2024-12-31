@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/smartystreets
 facebook: http://facebook.com/SmartyStreetsInfo
-git: https://github.com/smartystreets
 linkedin: http://linkedin.com/company/smartystreets
 logohandle: smartystreets
 sort: smartystreets

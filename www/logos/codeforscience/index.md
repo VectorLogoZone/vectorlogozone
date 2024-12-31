@@ -1,6 +1,6 @@
 ---
 blog: https://blog.codeforscience.org/
-git: https://github.com/codeforscience
+codehost: https://github.com/https://github.com/codeforscience
 logohandle: codeforscience
 sort: codeforscience
 title: Code for Science & Society

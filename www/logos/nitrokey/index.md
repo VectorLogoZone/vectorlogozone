@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/nitrokey
 facebook: https://facebook.com/nitrokey
-git: https://github.com/nitrokey
 linkedin: https://linkedin.com/company/nitrokey
 logohandle: nitrokey
 sort: nitrokey

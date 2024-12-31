@@ -1,7 +1,7 @@
 ---
 blog: https://flaxengine.com/blog
+codehost: https://github.com/https://github.com/FlaxEngine
 facebook: https://facebook.com/flaxengine
-git: https://github.com/FlaxEngine
 instagram: https://instagram.com/flaxengine
 linkedin: https://linkedin.com/company/flax-engine
 logohandle: flaxengine

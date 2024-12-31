@@ -1,5 +1,5 @@
 ---
-git: https://github.com/18alantom/strawberry
+codehost: https://github.com/https://github.com/18alantom/strawberry
 logohandle: strawberryquest
 sort: strawberry
 title: Strawberry

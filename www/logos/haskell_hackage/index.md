@@ -1,5 +1,5 @@
 ---
-git: https://github.com/haskell/hackage-server
+codehost: https://github.com/https://github.com/haskell/hackage-server
 logohandle: haskell_hackage
 sort: hackage
 title: Hackage

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/the-prefect-blog
-git: https://github.com/prefecthq/prefect
+codehost: https://github.com/https://github.com/prefecthq/prefect
 logohandle: prefectio
 sort: prefect
 title: Prefect

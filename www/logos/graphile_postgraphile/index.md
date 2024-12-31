@@ -1,5 +1,5 @@
 ---
-git: https://github.com/graphile/postgraphile
+codehost: https://github.com/https://github.com/graphile/postgraphile
 logohandle: graphile_postgraphile
 sort: postgraphile
 title: Postgraphile

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cortexproject
+codehost: https://github.com/https://github.com/cortexproject
 logohandle: cortexmetricsio
 sort: cortexmetrics
 title: Cortex

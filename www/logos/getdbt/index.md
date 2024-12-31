@@ -1,6 +1,6 @@
 ---
 blog: https://blog.getdbt.com/
-git: https://github.com/fishtown-analytics/dbt
+codehost: https://github.com/https://github.com/fishtown-analytics/dbt
 keywords:
 - data build tool
 logohandle: getdbt

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.timescale.com/
-git: https://github.com/timescale
+codehost: https://github.com/https://github.com/timescale
 logohandle: timescale
 sort: timescale
 title: Timescale

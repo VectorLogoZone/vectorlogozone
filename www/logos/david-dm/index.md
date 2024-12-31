@@ -1,5 +1,5 @@
 ---
-git: https://github.com/alanshaw/david-www
+codehost: https://github.com/https://github.com/alanshaw/david-www
 logohandle: david-dm
 sort: david-dm
 title: David

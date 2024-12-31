@@ -1,5 +1,5 @@
 ---
-git: https://github.com/census-instrumentation
+codehost: https://github.com/https://github.com/census-instrumentation
 logohandle: opencensusio
 sort: opencensus
 title: OpenCensus

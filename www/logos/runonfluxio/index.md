@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/RunOnFlux
 facebook: https://facebook.com/runonflux
-git: https://github.com/RunOnFlux
 instagram: https://instagram.com/flux_runonflux
 linkedin: https://linkedin.com/company/flux-official/mycompany
 logohandle: runonfluxio

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/appwrite
 facebook: https://facebook.com/appwrite.io
-git: https://github.com/appwrite
 instagram: https://instagram.com/appwrite.io
 linkedin: https://linkedin.com/company/appwrite
 logohandle: appwriteio

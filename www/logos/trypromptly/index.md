@@ -1,6 +1,6 @@
 ---
 blog: https://blog.trypromptly.com/
-git: https://github.com/TryPromptly
+codehost: https://github.com/https://github.com/TryPromptly
 linkedin: https://linkedin.com/company/trypromptly
 logohandle: trypromptly
 sort: promptly

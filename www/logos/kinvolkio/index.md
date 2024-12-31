@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/kinvolk
 facebook: https://facebook.com/kinvolk
-git: https://github.com/kinvolk
 linkedin: https://linkedin.com/company/kinvolk
 logohandle: kinvolkio
 sort: kinvolk

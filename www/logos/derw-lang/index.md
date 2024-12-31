@@ -1,5 +1,5 @@
 ---
-git: https://github.com/eeue56/derw
+codehost: https://github.com/https://github.com/eeue56/derw
 logohandle: derw-lang
 sort: derw-lang
 title: Derw

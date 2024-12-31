@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pdfcpu/pdfcpu
+codehost: https://github.com/https://github.com/pdfcpu/pdfcpu
 logohandle: pdfcpuio
 sort: pdfcpu
 title: pdfcpu

@@ -1,7 +1,7 @@
 ---
 blog: https://haxe.org/blog
+codehost: https://github.com/https://github.com/HaxeFoundation
 facebook: https://www.facebook.com/haxe.org/
-git: https://github.com/HaxeFoundation
 images:
 - haxe-ar21.svg
 - haxe-icon.svg

@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/plotly
+codehost: https://github.com/https://github.com/plotly
 facebook: https://facebook.com/Plotly
-git: https://github.com/plotly
 guide: https://brand.plot.ly/
 instagram: https://instagram.com/plotly
 logohandle: plotly

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/OpenRA/OpenRA
 facebook: https://facebook.com/openra
-git: https://github.com/OpenRA/OpenRA
 logohandle: openranet
 sort: openra
 title: OpenRA

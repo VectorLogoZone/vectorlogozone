@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fluent/fluent-bit
+codehost: https://github.com/https://github.com/fluent/fluent-bit
 logohandle: fluentbitio
 sort: fluentbit
 title: Fluent Bit

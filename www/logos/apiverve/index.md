@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/apiverve
 facebook: https://facebook.com/apiverve
-git: https://github.com/apiverve
 instagram: https://instagram.com/apiverve
 linkedin: https://linkedin.com/company/apiverve
 logohandle: apiverve

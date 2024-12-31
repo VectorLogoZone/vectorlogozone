@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/MiniZinc
 facebook: https://facebook.com/minizinclanguage
-git: https://github.com/MiniZinc
 logohandle: minizinc
 sort: minizinc
 title: MiniZinc

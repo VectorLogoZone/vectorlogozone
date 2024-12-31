@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/DataArm
 facebook: https://www.facebook.com/dataarm/
-git: https://github.com/DataArm
 linkedin: https://www.linkedin.com/company/dataarm
 logohandle: dataarm
 sort: dataarm

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/DefinitelyTyped/DefinitelyTyped
+codehost: https://github.com/https://github.com/DefinitelyTyped/DefinitelyTyped
 logohandle: definitelytyped
 sort: definitelytyped
 title: DefinitelyTyped

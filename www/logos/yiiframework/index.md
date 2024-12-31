@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/yiisoft
 facebook: https://facebook.com/groups/yiitalk
-git: https://github.com/yiisoft
 logohandle: yiiframework
 sort: yiiframework
 title: Yii

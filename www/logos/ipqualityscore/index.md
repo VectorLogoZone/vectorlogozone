@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/IPQualityScore
 facebook: https://facebook.com/IPQualityScore
-git: https://github.com/IPQualityScore
 instagram: https://instagram.com/ipqualityscore
 linkedin: https://linkedin.com/company/ipqualityscore
 logohandle: ipqualityscore

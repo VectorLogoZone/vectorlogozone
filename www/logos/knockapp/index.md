@@ -1,5 +1,5 @@
 ---
-git: https://github.com/knocklabs
+codehost: https://github.com/https://github.com/knocklabs
 linkedin: https://linkedin.com/company/knocklabs
 logohandle: knockapp
 sort: knock

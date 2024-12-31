@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tidyverse
+codehost: https://github.com/https://github.com/tidyverse
 logohandle: tidyverse
 sort: tidyverse
 title: Tidyverse

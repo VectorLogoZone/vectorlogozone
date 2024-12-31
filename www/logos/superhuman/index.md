@@ -1,7 +1,7 @@
 ---
+codehost: https://github.com/https://github.com/superhuman
 dribbble: https://dribbble.com/superhuman
 facebook: https://facebook.com/superhumanco
-git: https://github.com/superhuman
 logohandle: superhuman
 sort: superhuman
 title: Superhuman

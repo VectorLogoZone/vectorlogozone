@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/nestjs/nest
 dribbble: https://dribbble.com/JakubStaron
-git: https://github.com/nestjs/nest
 logohandle: nestjs
 sort: nestjs
 title: Nest.js

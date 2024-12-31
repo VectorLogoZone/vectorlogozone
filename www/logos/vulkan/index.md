@@ -1,5 +1,5 @@
 ---
-git: https://github.com/KhronosGroup/Vulkan-Docs
+codehost: https://github.com/https://github.com/KhronosGroup/Vulkan-Docs
 logohandle: vulkan
 sort: vulkan
 title: Vulkan

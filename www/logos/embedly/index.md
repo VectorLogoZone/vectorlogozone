@@ -1,7 +1,7 @@
 ---
 blog: http://blog.embed.ly/
+codehost: https://github.com/https://github.com/embedly
 facebook: http://facebook.com/embedly
-git: https://github.com/embedly
 googleplus: https://plus.google.com/107130838673680519337
 logohandle: embedly
 sort: embed

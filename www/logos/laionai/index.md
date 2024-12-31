@@ -1,5 +1,5 @@
 ---
-git: https://github.com/LAION-AI
+codehost: https://github.com/https://github.com/LAION-AI
 logohandle: laionai
 sort: laion
 title: LAION

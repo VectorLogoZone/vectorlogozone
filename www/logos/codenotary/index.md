@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/codenotary
 facebook: https://facebook.com/Codenotary-Inc-106257094666687
-git: https://github.com/codenotary
 linkedin: https://linkedin.com/company/codenotary
 logohandle: codenotary
 sort: codenotary

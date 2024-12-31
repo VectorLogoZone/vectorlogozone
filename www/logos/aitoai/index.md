@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/@aitodotai
+codehost: https://github.com/https://github.com/AitoDotAI
 facebook: https://facebook.com/aitodotai
-git: https://github.com/AitoDotAI
 linkedin: https://linkedin.com/company/aitodotai
 logohandle: aitoai
 sort: aito

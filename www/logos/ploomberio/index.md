@@ -1,6 +1,6 @@
 ---
 blog: https://ploomber.io/blog/
-git: https://github.com/ploomber
+codehost: https://github.com/https://github.com/ploomber
 linkedin: https://linkedin.com/company/ploomber
 logohandle: ploomberio
 sort: ploomber

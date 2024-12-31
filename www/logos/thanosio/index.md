@@ -1,5 +1,5 @@
 ---
-git: https://github.com/thanos-io/thanos
+codehost: https://github.com/https://github.com/thanos-io/thanos
 logohandle: thanosio
 sort: thanos
 title: Thanos

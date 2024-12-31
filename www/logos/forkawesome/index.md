@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ForkAwesome/Fork-Awesome
+codehost: https://github.com/https://github.com/ForkAwesome/Fork-Awesome
 logohandle: forkawesome
 sort: forkawesome
 title: Fork Awesome

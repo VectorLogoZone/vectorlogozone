@@ -1,5 +1,5 @@
 ---
-git: https://github.com/aptabase/aptabase
+codehost: https://github.com/https://github.com/aptabase/aptabase
 logohandle: aptabase
 sort: aptabase
 title: Aptabase

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/opentelemetry
-git: https://github.com/open-telemetry
+codehost: https://github.com/https://github.com/open-telemetry
 logohandle: opentelemetryio
 sort: opentelemetry
 title: OpenTelemetry

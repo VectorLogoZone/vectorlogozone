@@ -1,5 +1,5 @@
 ---
-git: https://github.com/void-linux
+codehost: https://github.com/https://github.com/void-linux
 logohandle: voidlinux
 sort: voidlinux
 title: Void Linux

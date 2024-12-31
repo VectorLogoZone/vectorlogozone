@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fossunited
+codehost: https://github.com/https://github.com/fossunited
 linkedin: https://linkedin.com/company/fossunited
 logohandle: fossunited
 sort: fossunited

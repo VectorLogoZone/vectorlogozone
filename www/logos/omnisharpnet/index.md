@@ -1,5 +1,5 @@
 ---
-git: https://github.com/omnisharp
+codehost: https://github.com/https://github.com/omnisharp
 logohandle: omnisharpnet
 sort: omnisharp
 title: OmniSharp

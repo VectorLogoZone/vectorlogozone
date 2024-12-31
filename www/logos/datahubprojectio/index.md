@@ -1,6 +1,6 @@
 ---
 blog: https://blog.datahubproject.io/
-git: https://github.com/datahub-project/datahub
+codehost: https://github.com/https://github.com/datahub-project/datahub
 linkedin: https://linkedin.com/company/acryl-data
 logohandle: datahubprojectio
 sort: datahubproject

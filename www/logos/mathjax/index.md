@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/mathjax
 facebook: https://facebook.com/mathjax
-git: https://github.com/mathjax
 linkedin: http://linkedin.com/groups/MathJax-Community-3772588
 logohandle: mathjax
 sort: mathjax

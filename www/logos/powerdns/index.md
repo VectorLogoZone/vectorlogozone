@@ -1,6 +1,6 @@
 ---
 blog: http://blog.powerdns.com/
-git: https://github.com/PowerDNS
+codehost: https://github.com/https://github.com/PowerDNS
 googleplus: https://plus.google.com/communities/109461275309357168312
 linkedin: http://linkedin.com/groups/PowerDNS-2083262?gid=2083262
 logohandle: powerdns

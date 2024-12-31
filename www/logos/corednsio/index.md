@@ -1,5 +1,5 @@
 ---
-git: https://github.com/coredns
+codehost: https://github.com/https://github.com/coredns
 logohandle: corednsio
 sort: coredns
 title: cordns

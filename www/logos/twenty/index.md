@@ -1,5 +1,5 @@
 ---
-git: https://github.com/twentyhq/twenty
+codehost: https://github.com/https://github.com/twentyhq/twenty
 linkedin: https://linkedin.com/company/twenty
 logohandle: twenty
 sort: twenty

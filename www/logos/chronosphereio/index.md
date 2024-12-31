@@ -1,5 +1,5 @@
 ---
-git: https://github.com/m3db/m3
+codehost: https://github.com/https://github.com/m3db/m3
 linkedin: https://linkedin.com/company/chronosphereio
 logohandle: chronosphereio
 sort: chronosphere

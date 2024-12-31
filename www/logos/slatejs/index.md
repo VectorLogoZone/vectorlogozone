@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ianstormtaylor/slate
+codehost: https://github.com/https://github.com/ianstormtaylor/slate
 logohandle: slatejs
 sort: slatejs
 title: Slate

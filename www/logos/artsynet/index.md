@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/artsy-blog
+codehost: https://github.com/https://github.com/artsy
 facebook: http://facebook.com/artsy
-git: https://github.com/artsy
 instagram: http://instagram.com/artsy
 logohandle: artsynet
 sort: artsy

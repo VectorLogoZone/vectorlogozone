@@ -1,11 +1,11 @@
 ---
 blog: https://newsblog.ext.hp.com/
+codehost: https://github.com/https://github.com/hp-hq
 facebook: http://www.facebook.com/HP
 font:
   myfonts: null
   name: Printed Circuit Board
   url: https://www.dafont.com/printed-circuit-board.font
-git: https://github.com/hp-hq
 images:
 - hp-icon.svg
 - hp-ar21.svg

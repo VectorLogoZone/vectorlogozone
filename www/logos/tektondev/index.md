@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tektoncd
+codehost: https://github.com/https://github.com/tektoncd
 logohandle: tektondev
 sort: tekton
 title: Tekton

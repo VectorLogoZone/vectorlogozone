@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fixerAPI/fixer
+codehost: https://github.com/https://github.com/fixerAPI/fixer
 logohandle: fixerio
 sort: fixer
 title: Fixer

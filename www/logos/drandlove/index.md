@@ -1,5 +1,5 @@
 ---
-git: https://github.com/drand/drand
+codehost: https://github.com/https://github.com/drand/drand
 logohandle: drandlove
 sort: drand
 title: Drand

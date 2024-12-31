@@ -1,5 +1,5 @@
 ---
-git: https://github.com/helix-editor/helix
+codehost: https://github.com/https://github.com/helix-editor/helix
 logohandle: helix-editor
 sort: helix
 title: Helix

@@ -1,7 +1,7 @@
 ---
 blog: https://www.khanacademy.org/about/blog
+codehost: https://github.com/https://github.com/khan
 facebook: http://www.facebook.com/khanacademy
-git: https://github.com/khan
 guide: https://khanacademy.zendesk.com/hc/en-us/articles/202263034-What-is-Khan-Academy-s-Trademark-and-Brand-Usage-Policy-
 images:
 - khanacademy-official.svg

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.js.wiki/
-git: https://github.com/Requarks/wiki
+codehost: https://github.com/https://github.com/Requarks/wiki
 logohandle: jswiki
 sort: wikijs
 title: Wiki.js

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/clems4ever/authelia
+codehost: https://github.com/https://github.com/clems4ever/authelia
 logohandle: authelia
 sort: authelia
 title: Authelia

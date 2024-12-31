@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apptainer/apptainer
+codehost: https://github.com/https://github.com/apptainer/apptainer
 logohandle: apptainer
 sort: apptainer
 title: Apptainer

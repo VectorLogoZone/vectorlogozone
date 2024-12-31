@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kubedb
+codehost: https://github.com/https://github.com/kubedb
 logohandle: kubedb
 sort: kubedb
 title: KubeDB

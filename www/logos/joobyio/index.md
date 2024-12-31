@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jooby-project/jooby
+codehost: https://github.com/https://github.com/jooby-project/jooby
 logohandle: joobyio
 sort: jooby
 title: jooby

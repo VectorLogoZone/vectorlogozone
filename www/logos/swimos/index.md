@@ -1,6 +1,6 @@
 ---
 blog: https://blog.swim.ai/
-git: https://github.com/swimos/swim
+codehost: https://github.com/https://github.com/swimos/swim
 linkedin: https://linkedin.com/company/swimai
 logohandle: swimos
 sort: swimos

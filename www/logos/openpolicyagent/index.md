@@ -1,6 +1,6 @@
 ---
 blog: https://blog.openpolicyagent.org/
-git: https://github.com/open-policy-agent/opa
+codehost: https://github.com/https://github.com/open-policy-agent/opa
 logohandle: openpolicyagent
 slack: http://slack.openpolicyagent.org/
 sort: openpolicyagent

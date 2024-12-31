@@ -1,7 +1,7 @@
 ---
 blog: https://tabnine.com/blog
+codehost: https://github.com/https://github.com/codota/tabnine
 facebook: https://facebook.com/TabnineInc
-git: https://github.com/codota/tabnine
 linkedin: https://linkedin.com/company/tabnine
 logohandle: tabnine
 sort: tabnine

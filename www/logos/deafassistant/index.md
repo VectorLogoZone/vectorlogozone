@@ -1,5 +1,5 @@
 ---
-git: https://github.com/philparkus/BeAware
+codehost: https://github.com/https://github.com/philparkus/BeAware
 logohandle: deafassistant
 sort: beaware
 title: BeAware

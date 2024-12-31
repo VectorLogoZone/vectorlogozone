@@ -1,5 +1,5 @@
 ---
-git: https://github.com/encoredev/encore
+codehost: https://github.com/https://github.com/encoredev/encore
 logohandle: encoredev
 sort: encore
 title: Encore

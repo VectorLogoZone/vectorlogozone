@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kitlang/kit
+codehost: https://github.com/https://github.com/kitlang/kit
 gitter: https://gitter.im/kitlang/kit
 logohandle: kitlang
 sort: kit

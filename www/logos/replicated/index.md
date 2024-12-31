@@ -1,6 +1,6 @@
 ---
 blog: http://blog.replicated.com/
-git: https://github.com/replicatedhq
+codehost: https://github.com/https://github.com/replicatedhq
 linkedin: https://www.linkedin.com/company/replicated-inc-/
 logohandle: replicated
 sort: replicated

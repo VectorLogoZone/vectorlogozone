@@ -1,6 +1,6 @@
 ---
 blog: https://www.w3.org/blog/news/
-git: https://github.com/w3c
+codehost: https://github.com/https://github.com/w3c
 images:
 - w3c-icon.svg
 - w3c-tile.svg

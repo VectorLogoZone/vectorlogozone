@@ -1,5 +1,5 @@
 ---
-git: https://github.com/paultuckey/urlrewritefilter
+codehost: https://github.com/https://github.com/paultuckey/urlrewritefilter
 images:
 - tuckey_urlrewrite-ar21.svg
 - tuckey_urlrewrite-icon.svg

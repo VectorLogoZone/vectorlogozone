@@ -1,6 +1,6 @@
 ---
 blog: https://blog.earthly.dev/
-git: https://github.com/earthly/earthly
+codehost: https://github.com/https://github.com/earthly/earthly
 logohandle: earthlydev
 sort: earthly
 title: Earthly

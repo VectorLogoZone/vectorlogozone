@@ -1,5 +1,5 @@
 ---
-git: https://github.com/redpanda-data
+codehost: https://github.com/https://github.com/redpanda-data
 linkedin: https://linkedin.com/company/redpanda-data
 logohandle: redpanda
 sort: redpanda

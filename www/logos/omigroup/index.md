@@ -1,6 +1,6 @@
 ---
 blog: https://omigroup.org/category/blog
-git: https://github.com/omigroup
+codehost: https://github.com/https://github.com/omigroup
 logohandle: omigroup
 sort: openmetaverse
 title: Open Metaverse Interoperability Group

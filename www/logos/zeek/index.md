@@ -1,6 +1,6 @@
 ---
 blog: https://zeek.org/blog
-git: https://github.com/zeek/zeek
+codehost: https://github.com/https://github.com/zeek/zeek
 logohandle: zeek
 sort: zeek
 title: Zeek

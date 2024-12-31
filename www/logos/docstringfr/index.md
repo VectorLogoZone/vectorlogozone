@@ -1,5 +1,5 @@
 ---
-git: https://github.com/docstringFr
+codehost: https://github.com/https://github.com/docstringFr
 logohandle: docstringfr
 sort: docstring
 title: Docstring

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/tendermint
-git: https://github.com/tendermint
+codehost: https://github.com/https://github.com/tendermint
 logohandle: tendermint
 sort: tendermint
 title: Tendermint

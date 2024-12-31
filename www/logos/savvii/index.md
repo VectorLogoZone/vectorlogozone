@@ -1,7 +1,7 @@
 ---
 blog: https://savvii.com/blog
+codehost: https://github.com/https://github.com/Savvii
 facebook: https://facebook.com/savviihq
-git: https://github.com/Savvii
 instagram: https://instagram.com/savviihq
 linkedin: https://linkedin.com/company/savvii-hosting
 logohandle: savvii

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/isar/isar
+codehost: https://github.com/https://github.com/isar/isar
 logohandle: isardev
 sort: isar
 title: Isar

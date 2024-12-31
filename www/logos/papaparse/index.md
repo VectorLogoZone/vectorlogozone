@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mholt/PapaParse
+codehost: https://github.com/https://github.com/mholt/PapaParse
 logohandle: papaparse
 sort: papaparse
 title: Papa Parse

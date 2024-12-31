@@ -1,5 +1,5 @@
 ---
-git: https://github.com/unifiedjs/remark
+codehost: https://github.com/https://github.com/unifiedjs/remark
 logohandle: js_remark
 sort: remark
 title: remark

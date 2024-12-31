@@ -1,5 +1,5 @@
 ---
-git: https://github.com/askorama/orama
+codehost: https://github.com/https://github.com/askorama/orama
 linkedin: https://linkedin.com/company/askorama/?viewAsMember=true
 logohandle: askoramaai
 sort: orama

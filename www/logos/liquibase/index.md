@@ -1,5 +1,5 @@
 ---
-git: https://github.com/liquibase
+codehost: https://github.com/https://github.com/liquibase
 logohandle: liquibase
 sort: liquibase
 title: Liquibase

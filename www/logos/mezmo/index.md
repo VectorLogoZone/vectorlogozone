@@ -1,7 +1,7 @@
 ---
 blog: https://mezmo.com/blog/
+codehost: https://github.com/https://github.com/logdna
 facebook: https://facebook.com/MezmoData
-git: https://github.com/logdna
 instagram: https://instagram.com/mezmodata
 linkedin: https://linkedin.com/company/mezmo
 logohandle: mezmo

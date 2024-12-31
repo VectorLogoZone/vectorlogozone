@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/OctopusDeploy
 facebook: https://facebook.com/OctopusDeploy
-git: https://github.com/OctopusDeploy
 linkedin: https://linkedin.com/company/octopus-deploy
 logohandle: octopus
 sort: octopus

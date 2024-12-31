@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gotenberg/gotenberg
+codehost: https://github.com/https://github.com/gotenberg/gotenberg
 logohandle: gotenbergdev
 sort: gotenberg
 title: Gotenberg

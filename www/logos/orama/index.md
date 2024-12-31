@@ -1,5 +1,5 @@
 ---
-git: https://github.com/askorama/orama
+codehost: https://github.com/https://github.com/askorama/orama
 instagram: https://instagram.com/askorama.ai
 logohandle: orama
 sort: orama

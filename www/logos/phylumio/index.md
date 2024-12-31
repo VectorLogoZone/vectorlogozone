@@ -1,6 +1,6 @@
 ---
 blog: http://blog.phylum.io/
-git: https://github.com/phylum-dev
+codehost: https://github.com/https://github.com/phylum-dev
 linkedin: https://linkedin.com/company/phylum-io
 logohandle: phylumio
 sort: phylum

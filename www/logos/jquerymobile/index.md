@@ -1,6 +1,6 @@
 ---
 blog: https://blog.jquerymobile.com/
-git: https://github.com/jquery/jquery-mobile
+codehost: https://github.com/https://github.com/jquery/jquery-mobile
 logohandle: jquerymobile
 sort: jquerymobile
 title: jQuery Mobile

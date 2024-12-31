@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/wakatime
 facebook: https://facebook.com/WakaTime
-git: https://github.com/wakatime
 logohandle: wakatime
 sort: wakatime
 title: WakaTime

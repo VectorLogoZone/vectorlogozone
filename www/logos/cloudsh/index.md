@@ -1,6 +1,6 @@
 ---
 blog: https://cloudsh.com/blog/
-git: https://github.com/cloudshcom
+codehost: https://github.com/https://github.com/cloudshcom
 logohandle: cloudsh
 sort: cloudsh
 title: CloudSh

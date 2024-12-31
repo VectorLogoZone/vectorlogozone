@@ -1,5 +1,5 @@
 ---
-git: https://github.com/SigNoz
+codehost: https://github.com/https://github.com/SigNoz
 linkedin: https://linkedin.com/company/signozio
 logohandle: signozio
 sort: signoz

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.appsmith.com/
-git: https://github.com/appsmithorg/appsmith
+codehost: https://github.com/https://github.com/appsmithorg/appsmith
 logohandle: appsmith
 sort: appsmith
 title: Appsmith

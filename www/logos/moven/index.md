@@ -1,10 +1,10 @@
 ---
+codehost: https://github.com/https://github.com/moven
 colors:
 - '#0088BB'
 - '#2FBBCB'
 - '#015B7D'
 facebook: https://facebook.com/getMoven
-git: https://github.com/moven
 instagram: https://instagram.com/getmoven
 logohandle: moven
 sort: moven

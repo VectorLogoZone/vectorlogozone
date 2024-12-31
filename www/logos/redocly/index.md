@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/redoc-ly
-git: https://github.com/Redocly
+codehost: https://github.com/https://github.com/Redocly
 logohandle: redocly
 sort: redocly
 title: Redocly

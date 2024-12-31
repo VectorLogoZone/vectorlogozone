@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cross-seed/cross-seed
+codehost: https://github.com/https://github.com/cross-seed/cross-seed
 logohandle: cross-seed
 sort: cross-seed
 title: Cross Seed

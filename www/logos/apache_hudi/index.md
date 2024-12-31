@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/hudi
+codehost: https://github.com/https://github.com/apache/hudi
 linkedin: https://linkedin.com/company/apache-hudi/
 logohandle: apache_hudi
 sort: hudi

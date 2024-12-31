@@ -1,7 +1,7 @@
 ---
 blog: https://highcharts.com/blog/
+codehost: https://github.com/https://github.com/highcharts/highcharts
 facebook: https://facebook.com/Highcharts
-git: https://github.com/highcharts/highcharts
 instagram: https://instagram.com/highcharts
 linkedin: https://linkedin.com/company/highsoft
 logohandle: highcharts

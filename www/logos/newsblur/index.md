@@ -1,6 +1,6 @@
 ---
 blog: http://blog.newsblur.com/
-git: https://github.com/samuelclay/NewsBlur
+codehost: https://github.com/https://github.com/samuelclay/NewsBlur
 logohandle: newsblur
 sort: newsblur
 title: NewsBlur

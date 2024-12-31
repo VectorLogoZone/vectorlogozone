@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/rapids-ai
-git: https://github.com/rapidsai
+codehost: https://github.com/https://github.com/rapidsai
 logohandle: rapidsai
 sort: rapids
 title: RAPIDS

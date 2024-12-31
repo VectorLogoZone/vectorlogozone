@@ -1,6 +1,6 @@
 ---
 blog: https://stytch.com/blog/
-git: https://github.com/stytchauth
+codehost: https://github.com/https://github.com/stytchauth
 linkedin: https://linkedin.com/company/stytch/mycompany
 logohandle: stytch
 sort: stytch

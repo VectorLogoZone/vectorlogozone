@@ -1,6 +1,6 @@
 ---
 blog: https://filecoin.io/blog/
-git: https://github.com/filecoin-project
+codehost: https://github.com/https://github.com/filecoin-project
 logohandle: filecoinio
 sort: filecoin
 title: Filecoin

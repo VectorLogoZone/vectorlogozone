@@ -1,6 +1,6 @@
 ---
 blog: https://blog.rive.app/
-git: https://github.com/rive-app
+codehost: https://github.com/https://github.com/rive-app
 logohandle: riveapp
 sort: rive
 title: Rive

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dhall-lang
+codehost: https://github.com/https://github.com/dhall-lang
 logohandle: dhall-lang
 sort: dhall
 title: Dhall

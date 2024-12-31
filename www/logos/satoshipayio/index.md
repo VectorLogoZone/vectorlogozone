@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/@SatoshiPay
+codehost: https://github.com/https://github.com/satoshipay
 facebook: https://facebook.com/satoshipay
-git: https://github.com/satoshipay
 logohandle: satoshipayio
 sort: satoshipay
 title: SatoshiPay

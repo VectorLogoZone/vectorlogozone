@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/Aviyel-oss
 facebook: https://facebook.com/AviyelHq
-git: https://github.com/Aviyel-oss
 linkedin: https://linkedin.com/company/aviyel
 logohandle: aviyel
 sort: aviyel

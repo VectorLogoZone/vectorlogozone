@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/apache/incubator-netbeans
 facebook: https://facebook.com/NetBeans
-git: https://github.com/apache/incubator-netbeans
 logohandle: apache_netbeans
 slack: https://tinyurl.com/netbeans-slack-signup/
 sort: netbeans

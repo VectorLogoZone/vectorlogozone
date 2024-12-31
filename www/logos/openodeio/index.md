@@ -1,7 +1,7 @@
 ---
 blog: https://blog.openode.io/
+codehost: https://github.com/https://github.com/openode-io
 facebook: https://facebook.com/openodeio
-git: https://github.com/openode-io
 logohandle: openodeio
 sort: openode
 title: opeNode

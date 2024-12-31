@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ratpack/ratpack
+codehost: https://github.com/https://github.com/ratpack/ratpack
 logohandle: ratpackio
 sort: ratpack
 title: Ratpack

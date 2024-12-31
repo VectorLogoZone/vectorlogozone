@@ -1,5 +1,5 @@
 ---
-git: https://github.com/thymeleaf
+codehost: https://github.com/https://github.com/thymeleaf
 logohandle: thymeleaf
 sort: thymeleaf
 title: Thymeleaf

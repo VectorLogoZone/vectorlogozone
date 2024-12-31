@@ -1,5 +1,5 @@
 ---
-git: https://github.com/NationalSecurityAgency/ghidra
+codehost: https://github.com/https://github.com/NationalSecurityAgency/ghidra
 logohandle: ghidra-sre
 sort: ghidra-sre
 title: Ghidra

@@ -1,10 +1,10 @@
 ---
+codehost: https://github.com/https://github.com/facebook
 facebook: https://www.facebook.com/facebook
 font:
   myfonts: https://www.myfonts.com/fonts/processtype/klavika/bold/
   name: Klavika
   url: https://processtypefoundry.com/fonts/klavika/
-git: https://github.com/facebook
 guide: https://en.facebookbrand.com/guidelines/brand
 images:
 - facebook-icon.svg

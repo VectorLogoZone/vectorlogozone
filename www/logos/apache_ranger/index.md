@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/ranger
+codehost: https://github.com/https://github.com/apache/ranger
 logohandle: apache_ranger
 sort: ranger
 tags:

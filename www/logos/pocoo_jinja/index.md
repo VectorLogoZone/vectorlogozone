@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mitsuhiko/jinja2
+codehost: https://github.com/https://github.com/mitsuhiko/jinja2
 logohandle: pocoo_jinja
 sort: jinja
 title: Jinja2

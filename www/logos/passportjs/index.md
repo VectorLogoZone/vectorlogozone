@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/jaredhanson/passport
 facebook: https://facebook.com/passportjs
-git: https://github.com/jaredhanson/passport
 logohandle: passportjs
 sort: passportjs
 title: Passport.js

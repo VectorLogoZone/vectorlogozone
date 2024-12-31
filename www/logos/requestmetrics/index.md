@@ -1,5 +1,5 @@
 ---
-git: https://github.com/RequestMetrics
+codehost: https://github.com/https://github.com/RequestMetrics
 linkedin: https://linkedin.com/showcase/request-metrics
 logohandle: requestmetrics
 sort: requestmetrics

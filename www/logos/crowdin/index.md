@@ -1,7 +1,7 @@
 ---
 blog: https://blog.crowdin.com/
+codehost: https://github.com/https://github.com/crowdin
 facebook: https://facebook.com/crowdin
-git: https://github.com/crowdin
 logohandle: crowdin
 sort: crowdin
 title: Crowdin

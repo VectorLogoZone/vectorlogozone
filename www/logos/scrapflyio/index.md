@@ -1,6 +1,6 @@
 ---
 blog: https://scrapfly.io/blog
-git: https://github.com/scrapfly
+codehost: https://github.com/https://github.com/scrapfly
 linkedin: https://linkedin.com/company/scrapfly
 logohandle: scrapflyio
 sort: scrapfly

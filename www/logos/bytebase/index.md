@@ -1,5 +1,5 @@
 ---
-git: https://github.com/bytebase/bytebase
+codehost: https://github.com/https://github.com/bytebase/bytebase
 linkedin: https://linkedin.com/company/bytebase
 logohandle: bytebase
 sort: bytebase

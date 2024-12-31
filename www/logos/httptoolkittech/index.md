@@ -1,5 +1,5 @@
 ---
-git: https://github.com/httptoolkit
+codehost: https://github.com/https://github.com/httptoolkit
 logohandle: httptoolkittech
 sort: httptoolkit
 title: HTTP Toolkit

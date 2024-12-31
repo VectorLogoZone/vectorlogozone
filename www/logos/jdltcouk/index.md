@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/JDLT-Ltd
 facebook: https://facebook.com/JDLTLtd
-git: https://github.com/JDLT-Ltd
 linkedin: https://linkedin.com/company/jdlt
 logohandle: jdltcouk
 sort: jdlt

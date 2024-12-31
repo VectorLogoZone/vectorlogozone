@@ -1,11 +1,11 @@
 ---
 blog: https://yahoo.tumblr.com/
+codehost: https://github.com/https://github.com/yahoo
 facebook: https://www.facebook.com/yahoo/
 font:
   myfonts: https://www.myfonts.com/fonts/linotype/optima/
   name: Optima
   note: based on [Optima](https://fontsinuse.com/uses/4713/yahoo-logo-2013)
-git: https://github.com/yahoo
 guide: https://policies.yahoo.com/us/en/yahoo/permissions/branduseguidelines/index.htm
 images:
 - yahoo-icon.svg

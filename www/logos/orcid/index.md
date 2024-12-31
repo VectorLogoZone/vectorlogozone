@@ -1,6 +1,6 @@
 ---
 blog: https://info.orcid.org/blog/
-git: https://github.com/ORCID
+codehost: https://github.com/https://github.com/ORCID
 guide: https://info.orcid.org/brand-guidelines/
 logohandle: orcid
 sort: orcid

@@ -1,6 +1,6 @@
 ---
 blog: https://okteto.com/blog
-git: https://github.com/okteto/okteto
+codehost: https://github.com/https://github.com/okteto/okteto
 logohandle: okteto
 sort: okteto
 title: Okteto

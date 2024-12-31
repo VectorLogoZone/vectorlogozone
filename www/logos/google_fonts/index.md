@@ -1,5 +1,5 @@
 ---
-git: https://github.com/google/fonts
+codehost: https://github.com/https://github.com/google/fonts
 logohandle: google_fonts
 sort: googlefonts
 title: Google Fonts

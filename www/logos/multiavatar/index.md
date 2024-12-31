@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/multiavatar/Multiavatar
 facebook: https://facebook.com/multiavatar
-git: https://github.com/multiavatar/Multiavatar
 instagram: https://instagram.com/multiavatarcom
 logohandle: multiavatar
 pinterest: https://pinterest.com/multiavatar

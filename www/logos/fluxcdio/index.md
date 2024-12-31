@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fluxcd/flux
+codehost: https://github.com/https://github.com/fluxcd/flux
 logohandle: fluxcdio
 sort: fluxcd
 title: Flux CD

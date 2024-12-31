@@ -1,5 +1,5 @@
 ---
-git: https://github.com/expressjs
+codehost: https://github.com/https://github.com/expressjs
 images:
 - expressjs-icon.svg
 - expressjs-ar21.svg

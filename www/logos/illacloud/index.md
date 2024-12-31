@@ -1,6 +1,6 @@
 ---
 blog: https://blog.illacloud.com/
-git: https://github.com/illacloud/illa-builder
+codehost: https://github.com/https://github.com/illacloud/illa-builder
 linkedin: https://linkedin.com/company/illacloud
 logohandle: illacloud
 sort: illacloud

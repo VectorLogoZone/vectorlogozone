@@ -1,5 +1,5 @@
 ---
-git: https://github.com/typesense/typesense
+codehost: https://github.com/https://github.com/typesense/typesense
 logohandle: typesense
 sort: typesense
 title: Typesense

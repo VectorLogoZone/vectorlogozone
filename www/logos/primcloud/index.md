@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/primcloud
 facebook: https://facebook.com/primcloud
-git: https://github.com/primcloud
 logohandle: primcloud
 sort: primcloud
 title: Primcloud

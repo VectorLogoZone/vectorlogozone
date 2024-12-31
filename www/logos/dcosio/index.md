@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dcos
+codehost: https://github.com/https://github.com/dcos
 logohandle: dcosio
 sort: dcos
 title: DC/OS

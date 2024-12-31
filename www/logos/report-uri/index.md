@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/report-uri
 facebook: https://facebook.com/reporturi
-git: https://github.com/report-uri
 logohandle: report-uri
 sort: report-uri
 title: Report URI

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@hackerschoice
-git: https://github.com/hackerschoice
+codehost: https://github.com/https://github.com/hackerschoice
 logohandle: thc
 sort: thc
 title: The Hacker’s Choice

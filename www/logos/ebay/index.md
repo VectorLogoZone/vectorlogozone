@@ -1,10 +1,10 @@
 ---
 blog: http://www.ebay.com/stories/
+codehost: https://github.com/https://github.com/ebay
 facebook: https://www.facebook.com/eBay
 font:
   myfonts: https://www.myfonts.com/fonts/linotype/univers/53-extended/
   name: Univers 53 Extended
-git: https://github.com/ebay
 guide: https://go.developer.ebay.com/logos
 images:
 - ebay-ar21.svg

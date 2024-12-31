@@ -1,6 +1,6 @@
 ---
 blog: http://blog.zenodo.org/
-git: https://github.com/zenodo/zenodo
+codehost: https://github.com/https://github.com/zenodo/zenodo
 logohandle: zenodo
 sort: zenodo
 title: Zenodo

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Netflix/pollyjs
+codehost: https://github.com/https://github.com/Netflix/pollyjs
 logohandle: netflix_pollyjs
 sort: pollyjs
 title: Polly.JS

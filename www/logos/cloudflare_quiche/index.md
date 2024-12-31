@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cloudflare/quiche
+codehost: https://github.com/https://github.com/cloudflare/quiche
 logohandle: cloudflare_quiche
 sort: quiche
 title: quiche

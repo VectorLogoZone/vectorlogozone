@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/paritytech
+codehost: https://github.com/https://github.com/paritytech
 facebook: https://facebook.com/ParityTech
-git: https://github.com/paritytech
 instagram: https://instagram.com/paritytech
 linkedin: https://linkedin.com/company/paritytech
 logohandle: parityio

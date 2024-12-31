@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/topics/statuscake
 facebook: https://facebook.com/statuscake
-git: https://github.com/topics/statuscake
 linkedin: https://linkedin.com/company/statuscake
 logohandle: statuscake
 sort: statuscake

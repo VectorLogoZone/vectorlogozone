@@ -1,6 +1,6 @@
 ---
 blog: https://www.lua.org/news.html
-git: https://github.com/lua
+codehost: https://github.com/https://github.com/lua
 guide: https://www.lua.org/images/
 images:
 - lua-icon.svg

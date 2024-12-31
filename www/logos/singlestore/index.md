@@ -1,7 +1,7 @@
 ---
 blog: https://singlestore.com/blog
+codehost: https://github.com/https://github.com/memsql
 facebook: https://facebook.com/singlestoredb
-git: https://github.com/memsql
 linkedin: https://linkedin.com/company/singlestore
 logohandle: singlestore
 sort: singlestore

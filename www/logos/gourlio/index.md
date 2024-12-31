@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cryptoapi
+codehost: https://github.com/https://github.com/cryptoapi
 logohandle: gourlio
 sort: gourl
 title: GoUrl

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/louislam/uptime-kuma
+codehost: https://github.com/https://github.com/louislam/uptime-kuma
 logohandle: kumapet
 sort: kuma
 title: Uptime Kuma

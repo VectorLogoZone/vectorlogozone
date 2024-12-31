@@ -1,5 +1,5 @@
 ---
-git: https://github.com/codecov
+codehost: https://github.com/https://github.com/codecov
 guide: https://github.com/codecov/media/tree/master/logos
 images:
 - codecovio-icon.svg

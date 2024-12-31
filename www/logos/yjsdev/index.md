@@ -1,6 +1,6 @@
 ---
 blog: https://blog.kevinjahns.de/
-git: https://github.com/yjs/yjs
+codehost: https://github.com/https://github.com/yjs/yjs
 logohandle: yjsdev
 sort: yjs
 title: Yjs

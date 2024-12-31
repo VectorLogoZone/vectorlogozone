@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/trafficserver
+codehost: https://github.com/https://github.com/apache/trafficserver
 logohandle: apache_trafficserver
 sort: trafficserver
 tags:

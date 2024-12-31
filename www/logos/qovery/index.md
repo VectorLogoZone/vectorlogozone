@@ -1,6 +1,6 @@
 ---
 blog: https://qovery.com/blog/
-git: https://github.com/Qovery
+codehost: https://github.com/https://github.com/Qovery
 linkedin: https://linkedin.com/company/qovery
 logohandle: qovery
 sort: qovery

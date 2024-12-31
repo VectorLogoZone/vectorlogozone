@@ -1,8 +1,8 @@
 ---
+codehost: https://github.com/https://github.com/VectorLogoZone/LogoSearch
 font:
   google: https://fonts.google.com/specimen/Sansita
   name: Sansita
-git: https://github.com/VectorLogoZone/LogoSearch
 images:
 - logosearch-ar21.svg
 - logosearch-icon.svg

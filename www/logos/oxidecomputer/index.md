@@ -1,5 +1,5 @@
 ---
-git: https://github.com/oxidecomputer
+codehost: https://github.com/https://github.com/oxidecomputer
 linkedin: https://linkedin.com/company/oxidecomputer
 logohandle: oxidecomputer
 sort: oxide

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ansiwave/ansiwave
+codehost: https://github.com/https://github.com/ansiwave/ansiwave
 logohandle: ansiwavenet
 sort: ansiwave
 title: ANSIWAVE BBS

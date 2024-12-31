@@ -1,6 +1,6 @@
 ---
 blog: https://cribl.io/blog
-git: https://github.com/criblio
+codehost: https://github.com/https://github.com/criblio
 linkedin: https://linkedin.com/company/cribl
 logohandle: criblio
 sort: cribl

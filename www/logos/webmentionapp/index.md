@@ -1,5 +1,5 @@
 ---
-git: https://github.com/remy/wm
+codehost: https://github.com/https://github.com/remy/wm
 logohandle: webmentionapp
 sort: webmention
 title: Webmention.app

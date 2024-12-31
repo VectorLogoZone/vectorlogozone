@@ -1,6 +1,6 @@
 ---
 blog: https://v8.dev/blog
-git: https://github.com/v8
+codehost: https://github.com/https://github.com/v8
 guide: https://github.com/v8/v8/wiki
 logohandle: v8dev
 sort: v8

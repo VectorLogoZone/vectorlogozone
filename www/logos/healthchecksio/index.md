@@ -1,6 +1,6 @@
 ---
 blog: https://blog.healthchecks.io/
-git: https://github.com/healthchecks/healthchecks
+codehost: https://github.com/https://github.com/healthchecks/healthchecks
 logohandle: healthchecksio
 sort: healthchecks
 title: Healthchecks.io

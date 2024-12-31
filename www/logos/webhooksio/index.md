@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/Webhooksio
 facebook: https://facebook.com/webhooksio
-git: https://github.com/Webhooksio
 googleplus: https://plus.google.com/+Webhooksio
 logohandle: webhooksio
 sort: webhooks

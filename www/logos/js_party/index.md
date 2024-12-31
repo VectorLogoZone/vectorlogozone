@@ -1,5 +1,5 @@
 ---
-git: https://github.com/yiliansource/party-js
+codehost: https://github.com/https://github.com/yiliansource/party-js
 logohandle: js_party
 sort: partyjs
 title: party.js

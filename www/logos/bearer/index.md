@@ -1,6 +1,6 @@
 ---
 blog: https://bearer.com/blog/introducing-bearer-assistant
-git: https://github.com/bearer/bearer
+codehost: https://github.com/https://github.com/bearer/bearer
 linkedin: https://linkedin.com/company/bearer
 logohandle: bearer
 sort: bearer

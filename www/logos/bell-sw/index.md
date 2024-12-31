@@ -1,5 +1,5 @@
 ---
-git: https://github.com/bell-sw
+codehost: https://github.com/https://github.com/bell-sw
 linkedin: https://linkedin.com/company/bell-sw
 logohandle: bell-sw
 sort: bell-sw

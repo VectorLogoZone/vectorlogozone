@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gravitational/teleport
+codehost: https://github.com/https://github.com/gravitational/teleport
 logohandle: gravitational_teleport
 sort: teleport
 title: Teleport

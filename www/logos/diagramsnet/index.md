@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jgraph
+codehost: https://github.com/https://github.com/jgraph
 keywords:
 - draw.io
 logohandle: diagramsnet

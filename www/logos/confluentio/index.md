@@ -1,6 +1,6 @@
 ---
 blog: https://confluent.io/blog
-git: https://github.com/confluentinc
+codehost: https://github.com/https://github.com/confluentinc
 linkedin: https://linkedin.com/company/confluent
 logohandle: confluentio
 sort: confluent

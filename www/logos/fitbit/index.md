@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/fitbit
 facebook: https://www.facebook.com/fitbit
-git: https://github.com/fitbit
 guide: https://brandisty.com/fitbit
 images:
 - fitbit-icon.svg

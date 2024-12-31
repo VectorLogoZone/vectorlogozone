@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mirage
+codehost: https://github.com/https://github.com/mirage
 logohandle: mirageio
 sort: mirage
 title: MirageOS

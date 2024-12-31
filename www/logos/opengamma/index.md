@@ -1,5 +1,5 @@
 ---
-git: https://github.com/OpenGamma
+codehost: https://github.com/https://github.com/OpenGamma
 instagram: https://instagram.com/opengamma
 linkedin: https://linkedin.com/company/opengamma
 logohandle: opengamma

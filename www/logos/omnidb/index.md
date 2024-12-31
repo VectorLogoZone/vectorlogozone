@@ -1,5 +1,5 @@
 ---
-git: https://github.com/OmniDB/OmniDB
+codehost: https://github.com/https://github.com/OmniDB/OmniDB
 logohandle: omnidb
 sort: omnidb
 title: OmniDB

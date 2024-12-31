@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cnabio/cnab-spec
+codehost: https://github.com/https://github.com/cnabio/cnab-spec
 keywords:
 - Cloud Native Application Bundles
 logohandle: cnabio

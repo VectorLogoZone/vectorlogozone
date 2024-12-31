@@ -1,7 +1,7 @@
 ---
 blog: https://airbyte.com/blog/
+codehost: https://github.com/https://github.com/airbytehq/airbyte
 facebook: https://facebook.com/AirbyteHQ
-git: https://github.com/airbytehq/airbyte
 linkedin: https://linkedin.com/company/airbytehq
 logohandle: airbyte
 sort: airbyte

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/electric-sql/electric
+codehost: https://github.com/https://github.com/electric-sql/electric
 linkedin: https://linkedin.com/company/electric-sql
 logohandle: electric-sql
 sort: electric-sql

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/RetroShare
+codehost: https://github.com/https://github.com/RetroShare
 logohandle: retrosharecc
 sort: retroshare
 title: Retroshare

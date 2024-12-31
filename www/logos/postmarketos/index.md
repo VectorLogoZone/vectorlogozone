@@ -1,5 +1,5 @@
 ---
-git: https://github.com/postmarketOS
+codehost: https://github.com/https://github.com/postmarketOS
 logohandle: postmarketos
 sort: postmarketos
 title: postmarketOS

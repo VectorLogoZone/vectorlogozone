@@ -1,5 +1,5 @@
 ---
-git: https://github.com/foxglove
+codehost: https://github.com/https://github.com/foxglove
 logohandle: foxglovedev
 sort: foxglove
 title: Foxglove

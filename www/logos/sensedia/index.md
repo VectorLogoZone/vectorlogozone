@@ -1,7 +1,7 @@
 ---
 blog: https://sensedia.com/blog
+codehost: https://github.com/https://github.com/WP-API/WP-API
 facebook: https://facebook.com/Sensedia
-git: https://github.com/WP-API/WP-API
 linkedin: https://linkedin.com/company/sensedia
 logohandle: sensedia
 sort: sensedia

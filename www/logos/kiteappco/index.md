@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/kitecomp
 facebook: https://facebook.com/groups/kitecompositor
-git: https://github.com/kitecomp
 logohandle: kiteappco
 sort: kiteapp
 title: Kite Compositor

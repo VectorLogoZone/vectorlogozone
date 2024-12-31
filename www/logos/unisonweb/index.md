@@ -1,5 +1,5 @@
 ---
-git: https://github.com/unisonweb/unison
+codehost: https://github.com/https://github.com/unisonweb/unison
 logohandle: unisonweb
 sort: unisonweb
 title: Unison

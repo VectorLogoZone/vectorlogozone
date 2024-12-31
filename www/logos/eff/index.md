@@ -1,7 +1,7 @@
 ---
 blog: https://www.eff.org/updates?type=blog
+codehost: https://github.com/https://github.com/EFForg
 facebook: https://www.facebook.com/eff
-git: https://github.com/EFForg
 guide: https://www.eff.org/press/logos
 images:
 - eff-icon.svg

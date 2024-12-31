@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/mojaloop
 facebook: https://facebook.com/Mojaloop
-git: https://github.com/mojaloop
 instagram: https://instagram.com/mojaloop
 linkedin: https://linkedin.com/company/mojaloop
 logohandle: mojaloopio

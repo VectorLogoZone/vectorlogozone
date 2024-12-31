@@ -1,7 +1,7 @@
 ---
 blog: https://blog.bitwarden.com/
+codehost: https://github.com/https://github.com/bitwarden
 facebook: https://facebook.com/bitwarden
-git: https://github.com/bitwarden
 googleplus: https://plus.google.com/+bitwarden
 logohandle: bitwarden
 sort: bitwarden

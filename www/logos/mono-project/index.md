@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mono/mono
+codehost: https://github.com/https://github.com/mono/mono
 logohandle: mono-project
 sort: mono-project
 title: Mono

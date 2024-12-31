@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/chocolatey
 facebook: https://facebook.com/ChocolateySoftware
-git: https://github.com/chocolatey
 guide: https://www.chocolatey.org/chocolatey-media-kit.zip
 logohandle: chocolatey
 sort: chocolatey

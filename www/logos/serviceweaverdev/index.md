@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ServiceWeaver/weaver
+codehost: https://github.com/https://github.com/ServiceWeaver/weaver
 logohandle: serviceweaverdev
 sort: serviceweaver
 title: Service Weaver

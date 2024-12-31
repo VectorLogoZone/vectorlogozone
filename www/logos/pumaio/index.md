@@ -1,5 +1,5 @@
 ---
-git: https://github.com/puma/puma
+codehost: https://github.com/https://github.com/puma/puma
 logohandle: pumaio
 sort: puma
 title: Puma

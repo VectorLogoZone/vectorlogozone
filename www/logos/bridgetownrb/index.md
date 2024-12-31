@@ -1,5 +1,5 @@
 ---
-git: https://github.com/bridgetownrb/bridgetown
+codehost: https://github.com/https://github.com/bridgetownrb/bridgetown
 logohandle: bridgetownrb
 sort: bridgetownrb
 title: Bridgetown

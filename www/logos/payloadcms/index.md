@@ -1,7 +1,7 @@
 ---
 blog: https://payloadcms.com/blog/payload-launches-version-1
+codehost: https://github.com/https://github.com/payloadcms/payload
 facebook: https://facebook.com/payloadcms
-git: https://github.com/payloadcms/payload
 instagram: https://instagram.com/payloadcms
 logohandle: payloadcms
 sort: payloadcms

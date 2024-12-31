@@ -1,6 +1,6 @@
 ---
 blog: https://blog.geolytix.net/
-git: https://github.com/dbauszus-glx
+codehost: https://github.com/https://github.com/dbauszus-glx
 linkedin: https://linkedin.com/company/geolytix
 logohandle: geolytixcouk
 sort: geolytix

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/restify/node-restify
+codehost: https://github.com/https://github.com/restify/node-restify
 logohandle: restify
 sort: restify
 title: Restify

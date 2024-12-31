@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cloudfoundry/bosh
+codehost: https://github.com/https://github.com/cloudfoundry/bosh
 logohandle: boshio
 sort: bosh
 title: Bosh

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/firehydrant
+codehost: https://github.com/https://github.com/firehydrant
 linkedin: https://linkedin.com/company/firehydrant
 logohandle: firehydrant
 sort: firehydrant

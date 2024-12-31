@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jazzband
+codehost: https://github.com/https://github.com/jazzband
 logohandle: jazzbandco
 sort: jazzband
 title: Jazzband

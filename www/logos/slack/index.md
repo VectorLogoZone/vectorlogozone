@@ -1,7 +1,7 @@
 ---
 blog: https://slackhq.com/
+codehost: https://github.com/https://github.com/slackhq
 facebook: https://www.facebook.com/slackhq
-git: https://github.com/slackhq
 guide: https://slack.com/brand-guidelines
 images:
 - slack-icon.svg

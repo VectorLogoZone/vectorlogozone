@@ -1,6 +1,6 @@
 ---
 blog: https://blog.vlt.sh/
-git: https://github.com/vltpkg
+codehost: https://github.com/https://github.com/vltpkg
 logohandle: vltsh
 sort: vlt
 title: vlt

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Textualize
+codehost: https://github.com/https://github.com/Textualize
 logohandle: textualizeio
 sort: textualize
 title: Textualize

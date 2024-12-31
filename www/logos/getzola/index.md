@@ -1,5 +1,5 @@
 ---
-git: https://github.com/getzola/zola
+codehost: https://github.com/https://github.com/getzola/zola
 logohandle: getzola
 sort: zola
 title: Zola

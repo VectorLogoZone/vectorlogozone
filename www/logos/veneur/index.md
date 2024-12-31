@@ -1,5 +1,5 @@
 ---
-git: https://github.com/stripe/veneur
+codehost: https://github.com/https://github.com/stripe/veneur
 logohandle: veneur
 sort: veneur
 title: Veneur

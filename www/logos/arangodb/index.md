@@ -1,6 +1,6 @@
 ---
 blog: https://arangodb.com/blog
-git: https://github.com/arangodb/arangodb
+codehost: https://github.com/https://github.com/arangodb/arangodb
 linkedin: https://linkedin.com/company-beta/5289249
 logohandle: arangodb
 sort: arangodb

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/LTD-Beget
 facebook: https://facebook.com/LTDBeGet
-git: https://github.com/LTD-Beget
 logohandle: beget
 sort: beget
 title: Beget

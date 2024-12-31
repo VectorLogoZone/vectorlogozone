@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Carthage/Carthage
+codehost: https://github.com/https://github.com/Carthage/Carthage
 logohandle: github_carthage
 sort: carthage
 title: Carthage

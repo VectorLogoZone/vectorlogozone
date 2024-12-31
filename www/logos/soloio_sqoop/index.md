@@ -1,5 +1,5 @@
 ---
-git: https://github.com/solo-io/sqoop
+codehost: https://github.com/https://github.com/solo-io/sqoop
 logohandle: soloio_sqoop
 sort: sqoop
 title: Sqoop

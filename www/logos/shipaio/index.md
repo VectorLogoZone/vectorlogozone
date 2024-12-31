@@ -1,6 +1,6 @@
 ---
 blog: https://shipa.io/blog
-git: https://github.com/shipa-corp
+codehost: https://github.com/https://github.com/shipa-corp
 linkedin: https://linkedin.com/company/shipa-corp
 logohandle: shipaio
 sort: shipa

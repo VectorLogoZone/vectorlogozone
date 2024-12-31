@@ -1,5 +1,5 @@
 ---
-git: https://github.com/montagejs/collections
+codehost: https://github.com/https://github.com/montagejs/collections
 logohandle: collectionsjs
 sort: collectionsjs
 title: Collections.js

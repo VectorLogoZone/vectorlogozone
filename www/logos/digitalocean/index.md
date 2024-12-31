@@ -1,12 +1,12 @@
 ---
 blog: https://blog.digitalocean.com/
+codehost: https://github.com/https://github.com/digitalocean
 colors:
 - '#0080FF'
 facebook: https://www.facebook.com/DigitalOceanCloudHosting
 font:
   name: Maax
   url: http://www.editions205.fr/maax_article_e.html
-git: https://github.com/digitalocean
 guide: https://www.digitalocean.com/company/logos-and-badges/
 images:
 - digitalocean-tile.svg

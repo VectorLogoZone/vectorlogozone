@@ -1,7 +1,7 @@
 ---
 blog: https://blog.conan.io/
+codehost: https://github.com/https://github.com/conan-io
 facebook: https://facebook.com/conan.io
-git: https://github.com/conan-io
 logohandle: conanio
 sort: conan
 title: Conan

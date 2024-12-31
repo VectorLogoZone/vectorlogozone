@@ -1,5 +1,5 @@
 ---
-git: https://github.com/checkstyle/checkstyle
+codehost: https://github.com/https://github.com/checkstyle/checkstyle
 logohandle: sourceforgeio_checkstyle
 sort: checkstyle
 title: Checkstyle

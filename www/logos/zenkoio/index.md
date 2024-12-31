@@ -1,7 +1,7 @@
 ---
 blog: https://zenko.io/blog
+codehost: https://github.com/https://github.com/scality/Zenko
 facebook: https://facebook.com/Zenko.io
-git: https://github.com/scality/Zenko
 logohandle: zenkoio
 sort: zenko
 title: Zenko

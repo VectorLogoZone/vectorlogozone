@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/hundio
 facebook: https://facebook.com/HundHQ
-git: https://github.com/hundio
 logohandle: hundio
 sort: hund
 title: Hund

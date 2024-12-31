@@ -1,5 +1,5 @@
 ---
-git: https://github.com/TobikoData
+codehost: https://github.com/https://github.com/TobikoData
 linkedin: https://linkedin.com/company/tobikodata
 logohandle: tobikodata
 sort: tobiko

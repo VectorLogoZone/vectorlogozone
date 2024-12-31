@@ -1,7 +1,7 @@
 ---
 blog: https://blog.keboola.com/
+codehost: https://github.com/https://github.com/keboola
 facebook: https://facebook.com/KeboolaHQ
-git: https://github.com/keboola
 linkedin: https://linkedin.com/company/1833529
 logohandle: keboola
 sort: keboola

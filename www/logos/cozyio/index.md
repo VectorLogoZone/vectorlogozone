@@ -1,7 +1,7 @@
 ---
 blog: https://blog.cozy.io/
+codehost: https://github.com/https://github.com/cozy/cozy-stack
 facebook: http://facebook.com/mycozycloud
-git: https://github.com/cozy/cozy-stack
 logohandle: cozyio
 sort: cozy
 title: Cozy Cloud

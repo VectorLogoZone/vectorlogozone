@@ -1,11 +1,11 @@
 ---
 blog: http://blogs.perl.org/
+codehost: https://github.com/https://github.com/Perl
 font:
   freename: Guru by Bhikkhu Pesala
   freeurl: http://www.softerviews.org/Fonts.html
   myfonts: http://www.myfonts.com/fonts/itc/garamond/lit/
   name: ITC Garamond
-git: https://github.com/Perl
 images:
 - perl-ar21.svg
 - perl-vertical.svg

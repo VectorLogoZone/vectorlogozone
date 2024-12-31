@@ -1,6 +1,6 @@
 ---
 blog: https://blog.tilt.dev/
-git: https://github.com/windmilleng/tilt
+codehost: https://github.com/https://github.com/windmilleng/tilt
 logohandle: tiltdev
 sort: tilt
 title: Tilt

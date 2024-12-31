@@ -1,5 +1,5 @@
 ---
-git: https://github.com/modulz/stitches
+codehost: https://github.com/https://github.com/modulz/stitches
 logohandle: stitchesdev
 sort: stitches
 title: Stitches

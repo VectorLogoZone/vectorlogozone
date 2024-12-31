@@ -1,5 +1,5 @@
 ---
-git: https://github.com/simonw/datasette
+codehost: https://github.com/https://github.com/simonw/datasette
 logohandle: datasetteio
 sort: datasette
 title: Datasette

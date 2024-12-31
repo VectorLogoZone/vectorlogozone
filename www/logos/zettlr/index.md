@@ -1,7 +1,7 @@
 ---
 blog: https://zettlr.com/blog
+codehost: https://github.com/https://github.com/Zettlr/Zettlr
 facebook: https://facebook.com/zettlrapp
-git: https://github.com/Zettlr/Zettlr
 linkedin: https://linkedin.com/company/zettlr
 logohandle: zettlr
 sort: zettlr

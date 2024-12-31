@@ -1,5 +1,5 @@
 ---
-git: https://github.com/epicweb-dev
+codehost: https://github.com/https://github.com/epicweb-dev
 logohandle: epicwebdev
 sort: epicweb
 title: EpicWeb

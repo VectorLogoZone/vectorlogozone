@@ -1,10 +1,10 @@
 ---
 blog: https://blog.heroku.com/feed
+codehost: https://github.com/https://github.com/heroku
 facebook: https://facebook.com/heroku
 font:
   myfonts: https://www.myfonts.com/fonts/typodermic/hybrea/
   name: Hybrea
-git: https://github.com/heroku
 guide: https://brand.heroku.com/
 images:
 - heroku-icon.svg

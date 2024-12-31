@@ -1,5 +1,5 @@
 ---
-git: https://github.com/flameshot-org/flameshot
+codehost: https://github.com/https://github.com/flameshot-org/flameshot
 logohandle: flameshot
 sort: flameshot
 title: Flameshot

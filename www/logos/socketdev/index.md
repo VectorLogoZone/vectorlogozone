@@ -1,5 +1,5 @@
 ---
-git: https://github.com/SocketDev
+codehost: https://github.com/https://github.com/SocketDev
 linkedin: https://linkedin.com/company/socketinc
 logohandle: socketdev
 sort: socketdev

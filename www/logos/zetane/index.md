@@ -1,7 +1,7 @@
 ---
+codehost: https://github.com/https://github.com/zetane
 discord: https://discord.gg/zetaforge
 facebook: https://www.facebook.com/ZetaneSystems/
-git: https://github.com/zetane
 instagram: https://www.instagram.com/zetane_systems/
 linkedin: https://ca.linkedin.com/company/zetane
 logohandle: zetane

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/GitGuardian
 facebook: https://facebook.com/GitGuardian
-git: https://github.com/GitGuardian
 logohandle: gitguardian
 sort: gitguardian
 title: GitGuardian

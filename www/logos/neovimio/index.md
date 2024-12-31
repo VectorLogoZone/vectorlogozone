@@ -1,5 +1,5 @@
 ---
-git: https://github.com/neovim/neovim
+codehost: https://github.com/https://github.com/neovim/neovim
 guide: https://neovim.io/logos/neovim-logos.zip
 logohandle: neovimio
 sort: neovim

@@ -1,8 +1,8 @@
 ---
 blog: https://blog.codepen.io/
+codehost: https://github.com/https://github.com/CodePen
 facebook: https://www.facebook.com/CodePen/
 flickr: https://www.flickr.com/photos/codepen/
-git: https://github.com/CodePen
 guide: https://blog.codepen.io/documentation/brand-assets/logos/
 images:
 - codepen-tile.svg

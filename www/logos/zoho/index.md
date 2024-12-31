@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/zoho
 facebook: https://www.facebook.com/zoho/
-git: https://github.com/zoho
 images:
 - zoho-icon.svg
 - zoho-ar21.svg

@@ -1,7 +1,7 @@
 ---
 blog: https://www.blog.google/
+codehost: https://github.com/https://github.com/google
 facebook: https://www.facebook.com/google
-git: https://github.com/google
 guide: https://developers.google.com/identity/branding-guidelines
 images:
 - google-tile.svg

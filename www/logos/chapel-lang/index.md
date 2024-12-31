@@ -1,7 +1,7 @@
 ---
 blog: http://cray.com/blog/chapel-productive-parallel-programming
+codehost: https://github.com/https://github.com/chapel-lang
 facebook: https://facebook.com/ChapelLanguage
-git: https://github.com/chapel-lang
 logohandle: chapel-lang
 sort: chapel
 title: Chapel

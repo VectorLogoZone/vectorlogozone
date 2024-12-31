@@ -1,5 +1,5 @@
 ---
-git: https://github.com/yihui/knitr
+codehost: https://github.com/https://github.com/yihui/knitr
 logohandle: yihui_knitr
 sort: knitr
 title: knitr

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/browserify/browserify
+codehost: https://github.com/https://github.com/browserify/browserify
 logohandle: browserify
 sort: browserify
 title: Browserify

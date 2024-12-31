@@ -1,6 +1,6 @@
 ---
 blog: https://julialang.org/blog/
-git: https://github.com/JuliaLang
+codehost: https://github.com/https://github.com/JuliaLang
 guide: https://github.com/JuliaLang/www.julialang.org/tree/master/images
 logohandle: julialang
 other:

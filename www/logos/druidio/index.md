@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/incubator-druid
+codehost: https://github.com/https://github.com/apache/incubator-druid
 logohandle: druidio
 sort: druid
 title: Druid

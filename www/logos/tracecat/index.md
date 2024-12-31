@@ -1,5 +1,5 @@
 ---
-git: https://github.com/TracecatHQ/tracecat
+codehost: https://github.com/https://github.com/TracecatHQ/tracecat
 linkedin: https://linkedin.com/company/tracecat-ai
 logohandle: tracecat
 sort: tracecat

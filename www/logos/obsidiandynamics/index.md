@@ -1,5 +1,5 @@
 ---
-git: https://github.com/obsidiandynamics
+codehost: https://github.com/https://github.com/obsidiandynamics
 logohandle: obsidiandynamics
 sort: obsidiandynamics
 title: Obsidian Dynamics

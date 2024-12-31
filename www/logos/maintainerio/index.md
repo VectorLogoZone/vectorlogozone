@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/p/f9717e4990ad
-git: https://github.com/mntnr
+codehost: https://github.com/https://github.com/mntnr
 logohandle: maintainerio
 sort: maintainerio
 title: Maintainer.io

@@ -1,7 +1,7 @@
 ---
 blog: https://cloudzero.com/blog
+codehost: https://github.com/https://github.com/Cloudzero
 facebook: https://facebook.com/cloudzeroinc
-git: https://github.com/Cloudzero
 logohandle: cloudzero
 sort: cloudzero
 title: CloudZero

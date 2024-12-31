@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/metasfresh
 facebook: https://facebook.com/metasfresh
-git: https://github.com/metasfresh
 linkedin: https://linkedin.com/company/metasfresh
 logohandle: metasfresh
 sort: metasfresh

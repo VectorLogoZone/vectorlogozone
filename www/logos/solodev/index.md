@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/@solodev
+codehost: https://github.com/https://github.com/solodev
 facebook: https://facebook.com/Solodev
-git: https://github.com/solodev
 googleplus: https://plus.google.com/+Solodev
 linkedin: https://linkedin.com/company/solodev
 logohandle: solodev

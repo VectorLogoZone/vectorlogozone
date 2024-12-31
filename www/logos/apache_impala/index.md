@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/impala
+codehost: https://github.com/https://github.com/apache/impala
 logohandle: apache_impala
 sort: impala
 tags:

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/hubgit/9547763
 facebook: https://facebook.com/netblocks
-git: https://github.com/hubgit/9547763
 linkedin: https://linkedin.com/company/netblocks
 logohandle: netblocks
 sort: netblocks

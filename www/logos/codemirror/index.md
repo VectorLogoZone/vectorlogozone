@@ -1,5 +1,5 @@
 ---
-git: https://github.com/codemirror/codemirror
+codehost: https://github.com/https://github.com/codemirror/codemirror
 logohandle: codemirror
 sort: codemirror
 title: CodeMirror

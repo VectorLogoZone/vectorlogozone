@@ -1,6 +1,6 @@
 ---
 blog: https://accesskit.dev/blog
-git: https://github.com/AccessKit/accesskit
+codehost: https://github.com/https://github.com/AccessKit/accesskit
 logohandle: accesskitdev
 sort: accesskit
 title: AccessKit

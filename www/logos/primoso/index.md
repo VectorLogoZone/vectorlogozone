@@ -1,5 +1,5 @@
 ---
-git: https://github.com/primo-af/primo
+codehost: https://github.com/https://github.com/primo-af/primo
 logohandle: primoso
 sort: primo
 title: Primo

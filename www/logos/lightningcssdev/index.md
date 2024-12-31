@@ -1,5 +1,5 @@
 ---
-git: https://github.com/parcel-bundler/lightningcss
+codehost: https://github.com/https://github.com/parcel-bundler/lightningcss
 logohandle: lightningcssdev
 sort: lightningcss
 title: Lightning CSS

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/wallabag/wallabag
 facebook: https://facebook.com/wallabag
-git: https://github.com/wallabag/wallabag
 logohandle: wallabag
 sort: wallabag
 title: wallabag

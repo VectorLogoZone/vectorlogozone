@@ -1,5 +1,5 @@
 ---
-git: https://github.com/serverless-stack/serverless-stack
+codehost: https://github.com/https://github.com/serverless-stack/serverless-stack
 logohandle: serverless-stack
 sort: serverless-stack
 title: Serverless Stack

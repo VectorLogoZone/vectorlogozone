@@ -1,5 +1,5 @@
 ---
-git: https://github.com/p4lang
+codehost: https://github.com/https://github.com/p4lang
 logohandle: p4
 sort: p4
 title: P4

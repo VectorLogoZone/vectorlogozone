@@ -1,6 +1,6 @@
 ---
 blog: https://sciter.com/blog
-git: https://github.com/c-smile/sciter-sdk
+codehost: https://github.com/https://github.com/c-smile/sciter-sdk
 logohandle: sciter
 sort: sciter
 title: sciter

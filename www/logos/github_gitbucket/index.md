@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gitbucket/gitbucket
+codehost: https://github.com/https://github.com/gitbucket/gitbucket
 logohandle: github_gitbucket
 sort: gitbucket
 title: GitBucket

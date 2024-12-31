@@ -1,7 +1,7 @@
 ---
 blog: https://blog.nodebb.org/
+codehost: https://github.com/https://github.com/NodeBB/NodeBB
 facebook: https://facebook.com/nodebb
-git: https://github.com/NodeBB/NodeBB
 instagram: https://instagram.com/node.bb
 logohandle: nodebb
 sort: nodebb

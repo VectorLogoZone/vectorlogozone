@@ -1,7 +1,7 @@
 ---
 blog: https://blog.sketchapp.com/
+codehost: https://github.com/https://github.com/sureskumar/sketch-isometric
 facebook: https://facebook.com/sketchapp
-git: https://github.com/sureskumar/sketch-isometric
 logohandle: sketchapp
 sort: sketchapp
 title: Sketch

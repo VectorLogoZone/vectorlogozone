@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dunglas/mercure
+codehost: https://github.com/https://github.com/dunglas/mercure
 logohandle: mercurerocks
 sort: mercure
 title: Mercure.rocks

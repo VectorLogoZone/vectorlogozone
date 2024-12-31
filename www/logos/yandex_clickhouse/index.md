@@ -1,5 +1,5 @@
 ---
-git: https://github.com/yandex/ClickHouse
+codehost: https://github.com/https://github.com/yandex/ClickHouse
 logohandle: yandex_clickhouse
 sort: clickhouse
 title: ClickHouse

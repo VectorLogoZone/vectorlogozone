@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@enso_org
-git: https://github.com/enso-org/enso
+codehost: https://github.com/https://github.com/enso-org/enso
 logohandle: enso
 sort: enso
 title: Enso

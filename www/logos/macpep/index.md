@@ -1,5 +1,5 @@
 ---
-git: https://github.com/orklann/PEP
+codehost: https://github.com/https://github.com/orklann/PEP
 logohandle: macpep
 sort: pep
 title: PEP

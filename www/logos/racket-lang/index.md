@@ -1,6 +1,6 @@
 ---
 blog: https://blog.racket-lang.org/
-git: https://github.com/racket
+codehost: https://github.com/https://github.com/racket
 guide: https://github.com/racket/racket-lang-org/tree/master/www/img
 logohandle: racket-lang
 sort: racket

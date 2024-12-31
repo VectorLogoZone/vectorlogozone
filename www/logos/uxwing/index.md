@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/uxwing
 facebook: https://facebook.com/uxwing
-git: https://github.com/uxwing
 instagram: https://instagram.com/uxwing
 logohandle: uxwing
 pinterest: https://pinterest.com/uxwing1

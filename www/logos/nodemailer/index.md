@@ -1,5 +1,5 @@
 ---
-git: https://github.com/nodemailer/nodemailer
+codehost: https://github.com/https://github.com/nodemailer/nodemailer
 logohandle: nodemailer
 sort: nodemailer
 title: Nodemailer

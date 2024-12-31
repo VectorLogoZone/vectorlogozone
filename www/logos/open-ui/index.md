@@ -1,5 +1,5 @@
 ---
-git: https://github.com/WICG/open-ui
+codehost: https://github.com/https://github.com/WICG/open-ui
 logohandle: open-ui
 sort: open-ui
 title: Open UI

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/HeapsIO
+codehost: https://github.com/https://github.com/HeapsIO
 logohandle: heapsio
 sort: heapsio
 title: Heaps

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ambanum/OpenTermsArchive
+codehost: https://github.com/https://github.com/ambanum/OpenTermsArchive
 logohandle: opentermsarchive
 sort: opentermsarchive
 title: Open Terms Archive

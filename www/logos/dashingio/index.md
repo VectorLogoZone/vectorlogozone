@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dashing-io/dashing
+codehost: https://github.com/https://github.com/dashing-io/dashing
 logohandle: dashingio
 sort: dashing
 title: Dashing

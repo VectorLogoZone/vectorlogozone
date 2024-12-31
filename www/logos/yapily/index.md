@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/yapily
 facebook: https://facebook.com/YapilyLtd
-git: https://github.com/yapily
 linkedin: https://linkedin.com/company/yapily
 logohandle: yapily
 sort: yapily

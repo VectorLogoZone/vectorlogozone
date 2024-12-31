@@ -1,5 +1,5 @@
 ---
-git: https://github.com/aircodelabs/aircode
+codehost: https://github.com/https://github.com/aircodelabs/aircode
 linkedin: https://linkedin.com/company/aircodelabs
 logohandle: aircodeio
 sort: aircode

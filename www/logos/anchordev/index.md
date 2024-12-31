@@ -1,6 +1,6 @@
 ---
 blog: https://blog.anchor.dev/
-git: https://github.com/anchordotdev
+codehost: https://github.com/https://github.com/anchordotdev
 logohandle: anchordev
 sort: anchor
 title: Anchor

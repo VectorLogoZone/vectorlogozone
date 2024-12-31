@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/botfuel
+codehost: https://github.com/https://github.com/Botfuel
 facebook: https://facebook.com/botfuel
-git: https://github.com/Botfuel
 linkedin: https://linkedin.com/company/10593826
 logohandle: botfuelio
 sort: botfuel

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.zenduty.com/
+codehost: https://github.com/https://github.com/zenduty
 facebook: https://facebook.com/zendutyhq
-git: https://github.com/zenduty
 linkedin: https://linkedin.com/company/zenduty
 logohandle: zenduty
 sort: zenduty

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/up9inc/mizu
+codehost: https://github.com/https://github.com/up9inc/mizu
 logohandle: getmizuio
 sort: mizu
 title: Mizu

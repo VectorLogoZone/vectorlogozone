@@ -1,6 +1,6 @@
 ---
 blog: https://letsencrypt.org/blog/
-git: https://github.com/letsencrypt
+codehost: https://github.com/https://github.com/letsencrypt
 guide: https://letsencrypt.org/trademarks/
 images:
 - letsencrypt-icon.svg

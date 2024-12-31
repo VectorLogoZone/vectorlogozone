@@ -1,7 +1,7 @@
 ---
 blog: https://gumlet.com/blog
+codehost: https://github.com/https://github.com/gumlet
 facebook: https://facebook.com/gumlethq
-git: https://github.com/gumlet
 linkedin: https://linkedin.com/company/gumlet
 logohandle: gumlet
 sort: gumlet

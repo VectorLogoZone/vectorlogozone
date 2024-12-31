@@ -1,6 +1,6 @@
 ---
 blog: https://blog.rasa.com/
-git: https://github.com/RasaHQ/rasa
+codehost: https://github.com/https://github.com/RasaHQ/rasa
 logohandle: rasa
 sort: rasa
 title: Rasa

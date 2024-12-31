@@ -1,5 +1,5 @@
 ---
-git: https://github.com/NixOS/nixpkgs
+codehost: https://github.com/https://github.com/NixOS/nixpkgs
 logohandle: nixos
 sort: nixos
 title: NixOS Linux

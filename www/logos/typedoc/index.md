@@ -1,5 +1,5 @@
 ---
-git: https://github.com/TypeStrong/typedoc
+codehost: https://github.com/https://github.com/TypeStrong/typedoc
 logohandle: typedoc
 sort: typedoc
 title: TypeDoc

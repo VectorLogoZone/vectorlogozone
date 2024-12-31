@@ -1,5 +1,5 @@
 ---
-git: https://github.com/buildbuddy-io/buildbuddy
+codehost: https://github.com/https://github.com/buildbuddy-io/buildbuddy
 linkedin: http://linkedin.com/company/buildbuddy
 logohandle: buildbuddyio
 sort: buildbuddy

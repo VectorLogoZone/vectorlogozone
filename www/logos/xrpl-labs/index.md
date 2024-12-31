@@ -1,5 +1,5 @@
 ---
-git: https://github.com/XRPL-Labs
+codehost: https://github.com/https://github.com/XRPL-Labs
 logohandle: xrpl-labs
 sort: xrpl-labs
 title: XRPL Labs

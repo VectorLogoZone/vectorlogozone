@@ -1,5 +1,5 @@
 ---
-git: https://github.com/telepresenceio/telepresence
+codehost: https://github.com/https://github.com/telepresenceio/telepresence
 logohandle: telepresenceio
 sort: telepresence
 title: Telepresence

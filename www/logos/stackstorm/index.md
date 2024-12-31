@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/StackStorm
 facebook: https://facebook.com/stackstormdevops
-git: https://github.com/StackStorm
 linkedin: https://linkedin.com/company/stackstorm
 logohandle: stackstorm
 sort: stackstorm

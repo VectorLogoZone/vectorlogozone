@@ -1,5 +1,5 @@
 ---
-git: https://github.com/elves/elvish
+codehost: https://github.com/https://github.com/elves/elvish
 logohandle: elvsh
 sort: elvish
 title: Elvish

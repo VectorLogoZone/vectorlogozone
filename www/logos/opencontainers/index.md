@@ -1,6 +1,6 @@
 ---
 blog: https://www.opencontainers.org/blog
-git: https://github.com/opencontainers
+codehost: https://github.com/https://github.com/opencontainers
 images:
 - opencontainers-ar21.svg
 - opencontainers-icon.svg

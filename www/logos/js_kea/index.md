@@ -1,5 +1,5 @@
 ---
-git: https://github.com/keajs/kea
+codehost: https://github.com/https://github.com/keajs/kea
 logohandle: js_kea
 sort: kea
 title: Kea.js

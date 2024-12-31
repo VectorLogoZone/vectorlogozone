@@ -1,6 +1,6 @@
 ---
 blog: https://www.openintro.org/blog
-git: https://github.com/OpenIntroOrg
+codehost: https://github.com/https://github.com/OpenIntroOrg
 logohandle: openintro
 sort: openintro
 title: OpenIntro

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/clubhouse
 facebook: https://facebook.com/clubhousesoftware
-git: https://github.com/clubhouse
 linkedin: https://linkedin.com/company/clubhouse-software-inc
 logohandle: clubhouseio
 sort: clubhouse

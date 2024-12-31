@@ -1,7 +1,7 @@
 ---
 blog: https://prisma.io/blog
+codehost: https://github.com/https://github.com/prisma/prisma
 facebook: https://facebook.com/prisma.io
-git: https://github.com/prisma/prisma
 logohandle: prismaio
 sort: prisma
 title: Prisma

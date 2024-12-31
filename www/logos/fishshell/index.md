@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fish-shell/fish-shell
+codehost: https://github.com/https://github.com/fish-shell/fish-shell
 logohandle: fishshell
 sort: fishshell
 title: fish shell

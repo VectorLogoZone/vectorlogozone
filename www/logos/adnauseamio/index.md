@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dhowe/AdNauseam
+codehost: https://github.com/https://github.com/dhowe/AdNauseam
 logohandle: adnauseamio
 sort: adnauseam
 title: AdNauseam

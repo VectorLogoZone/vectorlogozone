@@ -1,5 +1,5 @@
 ---
-git: https://github.com/hyperium/hyper
+codehost: https://github.com/https://github.com/hyperium/hyper
 logohandle: hyperrs
 sort: hyperrs
 title: hyper.rs

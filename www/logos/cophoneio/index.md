@@ -1,5 +1,5 @@
 ---
-git: https://github.com/uideck/play-bootstrap
+codehost: https://github.com/https://github.com/uideck/play-bootstrap
 linkedin: https://linkedin.com/showcase/cophone
 logohandle: cophoneio
 sort: cophone

@@ -1,7 +1,7 @@
 ---
 blog: https://zammad.com/en/blog
+codehost: https://github.com/https://github.com/zammad
 facebook: https://facebook.com/zammadhq
-git: https://github.com/zammad
 linkedin: https://linkedin.com/company/zammad
 logohandle: zammad
 sort: zammad

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gosub-io/gosub-engine
+codehost: https://github.com/https://github.com/gosub-io/gosub-engine
 logohandle: gosubio
 sort: gosub
 title: Gosub

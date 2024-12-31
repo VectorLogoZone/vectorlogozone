@@ -1,5 +1,5 @@
 ---
-git: https://github.com/argosopentech/argos-translate
+codehost: https://github.com/https://github.com/argosopentech/argos-translate
 logohandle: argosopentech
 sort: argos
 title: Argos Open Tech

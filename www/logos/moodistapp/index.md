@@ -1,5 +1,5 @@
 ---
-git: https://github.com/remvze/moodist
+codehost: https://github.com/https://github.com/remvze/moodist
 logohandle: moodistapp
 sort: moodist
 title: Moodist

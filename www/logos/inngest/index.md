@@ -1,5 +1,5 @@
 ---
-git: https://github.com/inngest/inngest
+codehost: https://github.com/https://github.com/inngest/inngest
 logohandle: inngest
 sort: inngest
 title: Inngest

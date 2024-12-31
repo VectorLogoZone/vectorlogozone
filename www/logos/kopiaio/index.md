@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kopia/kopia
+codehost: https://github.com/https://github.com/kopia/kopia
 logohandle: kopiaio
 sort: kopia
 title: Kopia

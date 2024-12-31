@@ -1,5 +1,5 @@
 ---
-git: https://github.com/formspark
+codehost: https://github.com/https://github.com/formspark
 logohandle: formsparkio
 sort: formspark
 title: Formspark

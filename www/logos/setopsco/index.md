@@ -1,5 +1,5 @@
 ---
-git: https://github.com/setopsco
+codehost: https://github.com/https://github.com/setopsco
 instagram: https://instagram.com/setopsco
 linkedin: https://linkedin.com/company/setops
 logohandle: setopsco

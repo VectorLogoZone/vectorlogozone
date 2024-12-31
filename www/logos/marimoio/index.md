@@ -1,5 +1,5 @@
 ---
-git: https://github.com/marimo-team/marimo
+codehost: https://github.com/https://github.com/marimo-team/marimo
 linkedin: https://linkedin.com/company/marimo-io
 logohandle: marimoio
 sort: marimo

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/abh/ntppool
+codehost: https://github.com/https://github.com/abh/ntppool
 logohandle: ntppool
 sort: ntppool
 title: NTP Pool

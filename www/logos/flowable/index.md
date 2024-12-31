@@ -1,7 +1,7 @@
 ---
 blog: https://flowable.com/blog/
+codehost: https://github.com/https://github.com/flowable/flowable-engine
 facebook: https://facebook.com/FlowableGroup
-git: https://github.com/flowable/flowable-engine
 linkedin: https://linkedin.com/company/flowable-group
 logohandle: flowable
 sort: flowable

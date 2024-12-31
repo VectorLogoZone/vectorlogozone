@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/nim-lang/nim
 facebook: https://apps.facebook.com/reelvalley
-git: https://github.com/nim-lang/nim
 logohandle: nim-lang
 sort: nim-lang
 title: Nim

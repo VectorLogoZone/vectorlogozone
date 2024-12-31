@@ -1,5 +1,5 @@
 ---
-git: https://github.com/phpstan/phpstan
+codehost: https://github.com/https://github.com/phpstan/phpstan
 logohandle: phpstan
 sort: phpstan
 title: PHPStan

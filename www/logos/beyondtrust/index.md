@@ -1,7 +1,7 @@
 ---
 blog: https://beyondtrust.com/blog
+codehost: https://github.com/https://github.com/filamentgroup/grunticon
 facebook: https://facebook.com/BeyondTrust
-git: https://github.com/filamentgroup/grunticon
 instagram: https://instagram.com/beyondtrust
 linkedin: https://linkedin.com/company/beyondtrust
 logohandle: beyondtrust

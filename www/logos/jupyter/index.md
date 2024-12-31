@@ -1,6 +1,6 @@
 ---
 blog: https://blog.jupyter.org/
-git: https://github.com/jupyter
+codehost: https://github.com/https://github.com/jupyter
 logohandle: jupyter
 sort: jupyter
 title: Jupyter

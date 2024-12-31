@@ -1,5 +1,5 @@
 ---
-git: https://github.com/encode/starlette
+codehost: https://github.com/https://github.com/encode/starlette
 guide: https://github.com/koddr/starlette-logo
 logohandle: starletteio
 sort: starlette

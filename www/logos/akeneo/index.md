@@ -1,7 +1,7 @@
 ---
 blog: https://akeneo.com/blog
+codehost: https://github.com/https://github.com/akeneo
 facebook: https://facebook.com/akeneopim
-git: https://github.com/akeneo
 instagram: https://instagram.com/akeneopim
 linkedin: https://linkedin.com/company/akeneo
 logohandle: akeneo

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/Pictogrammers
 facebook: https://facebook.com/pictogrammers
-git: https://github.com/Pictogrammers
 linkedin: https://linkedin.com/company/pictogrammers
 logohandle: pictogrammers
 sort: pictogrammers

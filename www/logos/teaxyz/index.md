@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/teaxyz
-git: https://github.com/teaxyz
+codehost: https://github.com/https://github.com/teaxyz
 logohandle: teaxyz
 sort: tea
 title: tea

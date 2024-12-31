@@ -1,5 +1,5 @@
 ---
-git: https://github.com/owncast
+codehost: https://github.com/https://github.com/owncast
 logohandle: owncastonline
 sort: owncast
 title: Owncast

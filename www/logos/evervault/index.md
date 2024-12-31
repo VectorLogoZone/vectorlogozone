@@ -1,5 +1,5 @@
 ---
-git: https://github.com/evervault
+codehost: https://github.com/https://github.com/evervault
 linkedin: https://linkedin.com/company/evervault
 logohandle: evervault
 sort: evervault

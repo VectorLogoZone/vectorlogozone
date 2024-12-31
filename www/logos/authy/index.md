@@ -1,10 +1,10 @@
 ---
 blog: https://authy.com/blog/
+codehost: https://github.com/https://github.com/authy
 colors:
 - '#EC1C24'
 - '#51575C'
 facebook: https://www.facebook.com/authysec
-git: https://github.com/authy
 images:
 - authy-ar21.svg
 - authy-icon.svg

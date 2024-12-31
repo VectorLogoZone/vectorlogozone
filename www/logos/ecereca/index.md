@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/ecere
 facebook: https://facebook.com/EcereSDK
-git: https://github.com/ecere
 linkedin: https://linkedin.com/company/ecere-corporation
 logohandle: ecereca
 sort: ecere

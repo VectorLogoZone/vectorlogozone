@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fabienvauchelles/scrapoxy
+codehost: https://github.com/https://github.com/fabienvauchelles/scrapoxy
 logohandle: scrapoxyio
 sort: scrapoxy
 title: Scrapoxy

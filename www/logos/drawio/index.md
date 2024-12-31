@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/jgraph/drawio
 facebook: https://facebook.com/pages/drawio/161015263923018
-git: https://github.com/jgraph/drawio
 logohandle: drawio
 sort: draw
 title: Draw.io

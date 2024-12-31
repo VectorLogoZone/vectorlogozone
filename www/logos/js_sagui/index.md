@@ -1,5 +1,5 @@
 ---
-git: https://github.com/saguijs/sagui
+codehost: https://github.com/https://github.com/saguijs/sagui
 logohandle: js_sagui
 sort: sagui
 title: Sagui

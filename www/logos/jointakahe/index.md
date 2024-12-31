@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jointakahe/takahe
+codehost: https://github.com/https://github.com/jointakahe/takahe
 logohandle: jointakahe
 sort: takahe
 title: Takahē

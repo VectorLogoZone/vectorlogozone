@@ -1,6 +1,6 @@
 ---
 blog: https://blog.rows.com/
-git: https://github.com/rows
+codehost: https://github.com/https://github.com/rows
 logohandle: rows
 sort: rows
 title: Rows

@@ -1,7 +1,7 @@
 ---
 blog: https://www.yelpblog.com/
+codehost: https://github.com/https://github.com/yelp
 facebook: https://www.facebook.com/yelp/
-git: https://github.com/yelp
 guide: https://www.yelp.com/brand
 images:
 - yelp-ar21.svg

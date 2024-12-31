@@ -1,5 +1,5 @@
 ---
-git: https://github.com/binwiederhier/ntfy
+codehost: https://github.com/https://github.com/binwiederhier/ntfy
 logohandle: ntfysh
 sort: ntfy
 title: ntfy

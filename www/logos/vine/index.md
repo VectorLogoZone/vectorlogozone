@@ -1,7 +1,7 @@
 ---
+codehost: https://github.com/https://github.com/vine
 colors:
 - '#00BF8F'
-git: https://github.com/vine
 guide: http://brand.vine.co/
 images:
 - vine-icon.svg

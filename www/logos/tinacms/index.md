@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tinacms/tinacms
+codehost: https://github.com/https://github.com/tinacms/tinacms
 logohandle: tinacms
 sort: tinacms
 title: TinaCMS

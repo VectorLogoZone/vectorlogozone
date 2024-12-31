@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/apache/struts
 facebook: https://facebook.com/apachestruts
-git: https://github.com/apache/struts
 logohandle: apache_struts
 sort: struts
 tags:

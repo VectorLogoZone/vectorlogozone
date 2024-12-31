@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kestra-io/kestra
+codehost: https://github.com/https://github.com/kestra-io/kestra
 linkedin: https://linkedin.com/company/kestra
 logohandle: kestraio
 sort: kestra

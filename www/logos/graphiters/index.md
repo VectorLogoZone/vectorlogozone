@@ -1,6 +1,6 @@
 ---
 blog: https://graphite.rs/blog/
-git: https://github.com/GraphiteEditor/Graphite
+codehost: https://github.com/https://github.com/GraphiteEditor/Graphite
 logohandle: graphiters
 sort: graphite
 title: Graphite

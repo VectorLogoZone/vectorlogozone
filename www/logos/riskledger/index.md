@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/riskledger
 facebook: https://facebook.com/riskledger
-git: https://github.com/riskledger
 instagram: https://instagram.com/riskledger
 linkedin: https://linkedin.com/company/risk-ledger
 logohandle: riskledger

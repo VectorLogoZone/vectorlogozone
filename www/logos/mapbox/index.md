@@ -1,7 +1,7 @@
 ---
 blog: https://www.mapbox.com/blog/
+codehost: https://github.com/https://github.com/mapbox
 facebook: https://www.facebook.com/Mapbox
-git: https://github.com/mapbox
 images:
 - mapbox-icon.svg
 - mapbox-ar21.svg

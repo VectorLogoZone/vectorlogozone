@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vanila-io/wireflow
+codehost: https://github.com/https://github.com/vanila-io/wireflow
 logohandle: wireflowco
 sort: wireflow
 title: Wireflow

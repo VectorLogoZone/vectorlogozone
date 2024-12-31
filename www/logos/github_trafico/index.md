@@ -1,5 +1,5 @@
 ---
-git: https://github.com/orhan/trafico
+codehost: https://github.com/https://github.com/orhan/trafico
 logohandle: github_trafico
 sort: trafico
 title: trafico

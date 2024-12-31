@@ -1,8 +1,8 @@
 ---
 blog: https://themeselection.com/blog
+codehost: https://github.com/https://github.com/themeselection
 dribbble: https://dribbble.com/themeselection
 facebook: https://facebook.com/ThemeSelections
-git: https://github.com/themeselection
 instagram: https://instagram.com/themeselection
 linkedin: https://linkedin.com/company/themeselection
 logohandle: themeselection

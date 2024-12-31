@@ -1,5 +1,5 @@
 ---
-git: https://github.com/GSA/datagov-design
+codehost: https://github.com/https://github.com/GSA/datagov-design
 logohandle: datagov
 sort: datagov
 title: Data.gov

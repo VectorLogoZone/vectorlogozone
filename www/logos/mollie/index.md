@@ -1,7 +1,7 @@
 ---
 blog: https://blog.mollie.com/
+codehost: https://github.com/https://github.com/mollie
 facebook: https://facebook.com/molliehq
-git: https://github.com/mollie
 instagram: https://instagram.com/mollie_payments
 linkedin: https://linkedin.com/company/molliepayments
 logohandle: mollie

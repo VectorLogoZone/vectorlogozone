@@ -1,5 +1,5 @@
 ---
-git: https://github.com/balabit/syslog-ng
+codehost: https://github.com/https://github.com/balabit/syslog-ng
 logohandle: syslog-ng
 sort: syslog-ng
 title: syslog-ng

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/trabian
-git: https://github.com/trabian
+codehost: https://github.com/https://github.com/trabian
 logohandle: trabian
 sort: trabian
 title: Trabian

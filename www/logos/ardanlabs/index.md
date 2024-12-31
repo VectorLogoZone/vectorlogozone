@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ardanlabs
+codehost: https://github.com/https://github.com/ardanlabs
 instagram: https://instagram.com/ardan_labs
 logohandle: ardanlabs
 sort: ardanlabs

@@ -1,5 +1,6 @@
 ---
 blog: https://news.microsoft.com/
+codehost: https://github.com/https://github.com/Microsoft
 colors:
 - '#F25022'
 - '#7FBA00'
@@ -7,7 +8,6 @@ colors:
 - '#FFB900'
 - '#737373'
 facebook: https://www.facebook.com/Microsoft
-git: https://github.com/Microsoft
 images:
 - microsoft-ar21.svg
 - microsoft-icon.svg

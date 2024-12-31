@@ -1,5 +1,5 @@
 ---
-git: https://github.com/discoverygarden
+codehost: https://github.com/https://github.com/discoverygarden
 logohandle: discoverygardenca
 sort: discoverygarden
 title: discoverygarden

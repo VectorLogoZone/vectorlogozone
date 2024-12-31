@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mintlify
+codehost: https://github.com/https://github.com/mintlify
 linkedin: https://linkedin.com/company/mintsearch
 logohandle: mintlify
 sort: mintlify

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/firezone/firezone
+codehost: https://github.com/https://github.com/firezone/firezone
 linkedin: https://linkedin.com/company/firezonehq
 logohandle: firezonedev
 sort: firezone

@@ -1,7 +1,7 @@
 ---
 blog: https://bitnami.com/news/blogs
+codehost: https://github.com/https://github.com/bitnami
 facebook: https://www.facebook.com/BitnamiProject/
-git: https://github.com/bitnami
 guide: https://bitnami.com/about-us/logos
 images:
 - bitnami-ar21.svg

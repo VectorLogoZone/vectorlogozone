@@ -1,7 +1,7 @@
 ---
 blog: https://erxes.io/blog
+codehost: https://github.com/https://github.com/erxes
 facebook: https://facebook.com/erxesHQ
-git: https://github.com/erxes
 linkedin: https://linkedin.com/company/erxes
 logohandle: erxesio
 sort: erxes

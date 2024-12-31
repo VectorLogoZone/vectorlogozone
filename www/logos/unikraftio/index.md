@@ -1,5 +1,5 @@
 ---
-git: https://github.com/unikraft/unikraft
+codehost: https://github.com/https://github.com/unikraft/unikraft
 linkedin: https://linkedin.com/company/unikraft-sdk
 logohandle: unikraftio
 sort: unikraft

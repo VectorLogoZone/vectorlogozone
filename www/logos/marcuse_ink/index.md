@@ -1,5 +1,5 @@
 ---
-git: https://github.com/nmarcuse
+codehost: https://github.com/https://github.com/nmarcuse
 images:
 - marcuse_ink-official.svg
 - marcuse_ink-ar21.svg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/graphcms
+codehost: https://github.com/https://github.com/graphcms
 linkedin: https://linkedin.com/company/graphcms
 logohandle: graphcms
 sort: graphcms

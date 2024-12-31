@@ -1,6 +1,6 @@
 ---
 blog: http://blog.dlang.org/
-git: https://github.com/dlang
+codehost: https://github.com/https://github.com/dlang
 logohandle: dlang
 sort: dlang
 title: D Language

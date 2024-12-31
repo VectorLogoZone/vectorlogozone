@@ -1,7 +1,7 @@
 ---
 blog: http://blog.nodeping.com/
+codehost: https://github.com/https://github.com/nodeping
 facebook: https://www.facebook.com/nodeping
-git: https://github.com/nodeping
 images:
 - nodeping-ar21.svg
 - nodeping-icon.svg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/juliuszelf/global-charity-search-engine
+codehost: https://github.com/https://github.com/juliuszelf/global-charity-search-engine
 logohandle: charitius
 sort: charitius
 title: Charitius

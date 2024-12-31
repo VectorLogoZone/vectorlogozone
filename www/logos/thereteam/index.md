@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/therepm
+codehost: https://github.com/https://github.com/therehq
 dribbble: https://dribbble.com/morajabi
-git: https://github.com/therehq
 logohandle: thereteam
 other:
 - name: AngelList

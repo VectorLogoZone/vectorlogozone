@@ -1,7 +1,7 @@
 ---
 blog: https://getpublii.com/blog
+codehost: https://github.com/https://github.com/GetPublii/Publii
 facebook: https://facebook.com/publii
-git: https://github.com/GetPublii/Publii
 instagram: https://instagram.com/getpublii
 logohandle: getpublii
 sort: publii

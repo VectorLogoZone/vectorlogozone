@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pocketbase/pocketbase
+codehost: https://github.com/https://github.com/pocketbase/pocketbase
 logohandle: pocketbaseio
 sort: pocketbase
 title: PocketBase

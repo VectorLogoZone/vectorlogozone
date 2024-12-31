@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gothinkster/realworld
+codehost: https://github.com/https://github.com/gothinkster/realworld
 logohandle: realworldhow
 sort: realworld
 title: realworld.how

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/koyeb
 facebook: https://facebook.com/gokoyeb
-git: https://github.com/koyeb
 linkedin: https://linkedin.com/company/koyeb
 logohandle: koyeb
 sort: koyeb

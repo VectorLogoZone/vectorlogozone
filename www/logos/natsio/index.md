@@ -1,5 +1,5 @@
 ---
-git: https://github.com/nats-io
+codehost: https://github.com/https://github.com/nats-io
 logohandle: natsio
 sort: nats
 title: NATS

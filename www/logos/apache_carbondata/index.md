@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/cncf/landscape
 facebook: https://facebook.com/carbondata
-git: https://github.com/cncf/landscape
 linkedin: https://linkedin.com/groups/10334501
 logohandle: apache_carbondata
 sort: carbondata

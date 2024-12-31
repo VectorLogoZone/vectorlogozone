@@ -1,5 +1,5 @@
 ---
-git: https://github.com/use-init/init
+codehost: https://github.com/https://github.com/use-init/init
 logohandle: use-init
 sort: init
 title: INIT

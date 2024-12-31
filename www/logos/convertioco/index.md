@@ -1,5 +1,5 @@
 ---
-git: https://github.com/convertio
+codehost: https://github.com/https://github.com/convertio
 logohandle: convertioco
 sort: convertio
 title: Convertio

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.teable.io/
-git: https://github.com/teableio/teable
+codehost: https://github.com/https://github.com/teableio/teable
 logohandle: teableio
 sort: teable
 title: Teable

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/hotwired/stimulus
+codehost: https://github.com/https://github.com/hotwired/stimulus
 logohandle: hotwireddev_stimulus
 sort: stimulus
 title: Stimulus

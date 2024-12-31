@@ -1,7 +1,7 @@
 ---
 blog: https://yandex.com/company/blog
+codehost: https://github.com/https://github.com/yandex
 facebook: https://www.facebook.com/YandexCom
-git: https://github.com/yandex
 images:
 - yandex-ar21.svg
 - yandex-icon.svg

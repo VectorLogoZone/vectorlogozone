@@ -1,7 +1,7 @@
 ---
 blog: http://blog.evolix.com/
+codehost: https://github.com/https://github.com/Evolix
 facebook: https://facebook.com/evolix
-git: https://github.com/Evolix
 instagram: https://instagram.com/evolix
 linkedin: https://linkedin.com/company/evolix
 logohandle: evolix

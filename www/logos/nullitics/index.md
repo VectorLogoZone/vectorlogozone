@@ -1,5 +1,5 @@
 ---
-git: https://github.com/nullitics/nullitics
+codehost: https://github.com/https://github.com/nullitics/nullitics
 logohandle: nullitics
 sort: nullitics
 title: Nullitics

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/theodo/falco
+codehost: https://github.com/https://github.com/theodo/falco
 logohandle: getfalco
 sort: falco
 title: Falco

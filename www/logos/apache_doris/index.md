@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/incubator-doris
+codehost: https://github.com/https://github.com/apache/incubator-doris
 logohandle: apache_doris
 sort: doris
 tags:

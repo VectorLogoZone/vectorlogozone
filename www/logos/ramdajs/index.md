@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ramda/ramda
+codehost: https://github.com/https://github.com/ramda/ramda
 logohandle: ramdajs
 sort: ramdajs
 title: Ramda

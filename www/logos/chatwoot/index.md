@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/chatwoot/chatwoot
 facebook: https://facebook.com/chatwootapp
-git: https://github.com/chatwoot/chatwoot
 instagram: https://instagram.com/chatwoot
 linkedin: https://linkedin.com/company/chatwoot
 logohandle: chatwoot

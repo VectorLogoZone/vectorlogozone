@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kubeshark/kubeshark
+codehost: https://github.com/https://github.com/kubeshark/kubeshark
 logohandle: kubesharkco
 sort: kubeshark
 title: Kubeshark

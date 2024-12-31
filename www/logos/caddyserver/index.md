@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mholt/caddy
+codehost: https://github.com/https://github.com/mholt/caddy
 logohandle: caddyserver
 sort: caddyserver
 title: Caddy

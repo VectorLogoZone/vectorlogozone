@@ -1,5 +1,5 @@
 ---
-git: https://github.com/webfactory
+codehost: https://github.com/https://github.com/webfactory
 logohandle: webfactoryde
 sort: webfactoryde
 title: webfactory

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Applied-Duality
+codehost: https://github.com/https://github.com/Applied-Duality
 logohandle: applied-duality
 sort: applied-duality
 title: Applied Duality

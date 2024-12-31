@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/powerhome
 facebook: https://www.facebook.com/PowerHRG/
-git: https://github.com/powerhome
 logohandle: powerhrg
 sort: powerhrg
 title: Power Home Remodeling

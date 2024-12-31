@@ -1,5 +1,5 @@
 ---
-git: https://github.com/lincolnloop
+codehost: https://github.com/https://github.com/lincolnloop
 logohandle: lincolnloop
 sort: lincolnloop
 title: Lincoln Loop

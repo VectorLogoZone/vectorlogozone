@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cased
+codehost: https://github.com/https://github.com/cased
 logohandle: cased
 sort: cased
 title: Cased

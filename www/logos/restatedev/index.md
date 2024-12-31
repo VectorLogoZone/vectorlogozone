@@ -1,6 +1,6 @@
 ---
 blog: https://restate.dev/blog/
-git: https://github.com/restatedev/restate-holiday
+codehost: https://github.com/https://github.com/restatedev/restate-holiday
 logohandle: restatedev
 sort: restate
 title: Restate

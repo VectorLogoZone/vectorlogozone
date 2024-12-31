@@ -1,6 +1,6 @@
 ---
 blog: https://blog.redash.io/
-git: https://github.com/getredash
+codehost: https://github.com/https://github.com/getredash
 logohandle: redashio
 sort: redash
 title: Redash

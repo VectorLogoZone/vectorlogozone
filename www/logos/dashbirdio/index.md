@@ -1,7 +1,7 @@
 ---
 blog: https://dashbird.io/blog/
+codehost: https://github.com/https://github.com/dashbird
 facebook: https://facebook.com/dashbirdapp
-git: https://github.com/dashbird
 instagram: https://instagram.com/dashbirdteam
 linkedin: https://linkedin.com/company/dashbird
 logohandle: dashbirdio

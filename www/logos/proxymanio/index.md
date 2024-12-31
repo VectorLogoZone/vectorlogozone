@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ProxymanApp/Proxyman
+codehost: https://github.com/https://github.com/ProxymanApp/Proxyman
 logohandle: proxymanio
 sort: proxyman
 title: Proxyman

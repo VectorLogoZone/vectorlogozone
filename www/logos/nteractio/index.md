@@ -1,6 +1,6 @@
 ---
 blog: https://blog.nteract.io/
-git: https://github.com/nteract
+codehost: https://github.com/https://github.com/nteract
 logohandle: nteractio
 sort: nteract
 title: nteract

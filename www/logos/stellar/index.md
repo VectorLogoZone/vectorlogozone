@@ -1,7 +1,7 @@
 ---
 blog: https://stellar.org/blog
+codehost: https://github.com/https://github.com/stellar
 facebook: https://facebook.com/stellarfoundation
-git: https://github.com/stellar
 linkedin: https://linkedin.com/company/stellar-development-foundation
 logohandle: stellar
 sort: stellar

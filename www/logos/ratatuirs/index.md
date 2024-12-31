@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ratatui-org/ratatui
+codehost: https://github.com/https://github.com/ratatui-org/ratatui
 linkedin: https://linkedin.com/company/ratatui-rs
 logohandle: ratatuirs
 sort: ratatui

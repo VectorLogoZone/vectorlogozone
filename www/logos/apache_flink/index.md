@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/flink
+codehost: https://github.com/https://github.com/apache/flink
 logohandle: apache_flink
 sort: flink
 tags:

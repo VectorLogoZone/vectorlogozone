@@ -1,6 +1,6 @@
 ---
 blog: http://shoesrb.com/blog/
-git: https://github.com/shoes
+codehost: https://github.com/https://github.com/shoes
 logohandle: shoesrb
 sort: shoes
 title: Shoes

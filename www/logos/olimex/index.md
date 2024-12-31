@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/OLIMEX
 facebook: http://facebook.com/pages/Olimex/284513994899126
-git: https://github.com/OLIMEX
 logohandle: olimex
 sort: olimex
 title: OLIMEX

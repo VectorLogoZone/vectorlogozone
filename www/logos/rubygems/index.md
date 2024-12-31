@@ -1,6 +1,6 @@
 ---
 blog: http://blog.rubygems.org/
-git: https://github.com/rubygems
+codehost: https://github.com/https://github.com/rubygems
 guide: https://github.com/rubygems/rubygems.org/blob/master/public/logos.zip
 logohandle: rubygems
 sort: rubygems

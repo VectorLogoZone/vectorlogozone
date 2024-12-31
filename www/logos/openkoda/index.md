@@ -1,7 +1,7 @@
 ---
 blog: https://openkoda.com/blog
+codehost: https://github.com/https://github.com/openkoda/openkoda
 facebook: https://facebook.com/Openkoda
-git: https://github.com/openkoda/openkoda
 linkedin: https://linkedin.com/company/openkoda
 logohandle: openkoda
 sort: openkoda

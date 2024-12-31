@@ -1,5 +1,5 @@
 ---
-git: https://github.com/iamkun/dayjs
+codehost: https://github.com/https://github.com/iamkun/dayjs
 logohandle: js_day
 sort: dayjs
 title: Day.js

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/orbstack
+codehost: https://github.com/https://github.com/orbstack
 logohandle: orbstackdev
 sort: orbstack
 title: OrbStack

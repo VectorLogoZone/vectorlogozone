@@ -1,6 +1,6 @@
 ---
 blog: https://webdriver.io/blog/
-git: https://github.com/webdriverio/webdriverio
+codehost: https://github.com/https://github.com/webdriverio/webdriverio
 logohandle: webdriverio
 sort: webdriver
 title: WebdriverIO

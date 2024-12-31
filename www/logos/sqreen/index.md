@@ -1,6 +1,6 @@
 ---
 blog: https://blog.sqreen.com/
-git: https://github.com/Sqreen
+codehost: https://github.com/https://github.com/Sqreen
 linkedin: https://linkedin.com/company/sqreen
 logohandle: sqreen
 sort: sqreen

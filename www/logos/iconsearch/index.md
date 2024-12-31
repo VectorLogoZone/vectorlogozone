@@ -1,8 +1,8 @@
 ---
+codehost: https://github.com/https://github.com/VectorLogoZone/LogoSearch
 font:
   google: https://fonts.google.com/specimen/Noticia+Text
   name: Noticia Text
-git: https://github.com/VectorLogoZone/LogoSearch
 images:
 - iconsearch-ar21.svg
 - iconsearch-icon.svg

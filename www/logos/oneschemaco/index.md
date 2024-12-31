@@ -1,5 +1,5 @@
 ---
-git: https://github.com/oneschema
+codehost: https://github.com/https://github.com/oneschema
 linkedin: https://linkedin.com/company/oneschema
 logohandle: oneschemaco
 sort: oneschema

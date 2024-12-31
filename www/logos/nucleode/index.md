@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/nucleode
 facebook: https://facebook.com/nucleodesrl
-git: https://github.com/nucleode
 linkedin: https://linkedin.com/company/nucleode
 logohandle: nucleode
 sort: nucleode

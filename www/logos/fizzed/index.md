@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fizzed
+codehost: https://github.com/https://github.com/fizzed
 logohandle: fizzed
 sort: fizzed
 title: Fizzed

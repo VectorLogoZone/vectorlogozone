@@ -1,5 +1,5 @@
 ---
-git: https://github.com/OpenObservability/OpenMetrics
+codehost: https://github.com/https://github.com/OpenObservability/OpenMetrics
 logohandle: openmetricsio
 sort: openmetrics
 stackoverflow: https://stackoverflow.com/search?tab=newest&q=openmetrics

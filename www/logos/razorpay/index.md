@@ -1,7 +1,7 @@
 ---
 blog: https://razorpay.com/blog/chargebacks
+codehost: https://github.com/https://github.com/razorpay
 facebook: https://facebook.com/Razorpay
-git: https://github.com/razorpay
 instagram: https://instagram.com/razorpay
 linkedin: https://linkedin.com/company/razorpay
 logohandle: razorpay

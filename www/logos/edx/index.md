@@ -1,7 +1,7 @@
 ---
 blog: https://blog.edx.org/
+codehost: https://github.com/https://github.com/edx
 facebook: http://www.facebook.com/EdxOnline
-git: https://github.com/edx
 googleplus: https://plus.google.com/+edXOnline
 guide: https://www.edx.org/media-kit
 images:

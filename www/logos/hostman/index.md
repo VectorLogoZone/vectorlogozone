@@ -1,5 +1,5 @@
 ---
-git: https://github.com/hostman-examples
+codehost: https://github.com/https://github.com/hostman-examples
 logohandle: hostman
 sort: hostman
 title: Hostman

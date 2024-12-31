@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dendronhq/dendron
+codehost: https://github.com/https://github.com/dendronhq/dendron
 logohandle: dendronso
 sort: dendron
 title: Dendron

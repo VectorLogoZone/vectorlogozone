@@ -1,5 +1,5 @@
 ---
-git: https://github.com/surge-sh/gulp-surge
+codehost: https://github.com/https://github.com/surge-sh/gulp-surge
 logohandle: surgesh
 sort: surge
 title: Surge

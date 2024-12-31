@@ -1,6 +1,6 @@
 ---
 blog: https://netscaler.com/blog
-git: https://github.com/netscaler
+codehost: https://github.com/https://github.com/netscaler
 linkedin: https://linkedin.com/company/netscaler
 logohandle: netscaler
 sort: netscaler

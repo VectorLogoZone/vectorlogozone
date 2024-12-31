@@ -1,5 +1,5 @@
 ---
-git: https://github.com/stelligent/mu
+codehost: https://github.com/https://github.com/stelligent/mu
 logohandle: getmuio
 sort: mu
 title: mu

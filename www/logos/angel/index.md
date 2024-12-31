@@ -1,9 +1,9 @@
 ---
 blog: https://blog.angel.co/
+codehost: https://github.com/https://github.com/AngelList
 colors:
 - '#000000'
 facebook: https://www.facebook.com/angellist/
-git: https://github.com/AngelList
 images:
 - angel-ar21.svg
 - angel-icon.svg

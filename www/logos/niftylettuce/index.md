@@ -1,5 +1,5 @@
 ---
-git: https://github.com/niftylettuce
+codehost: https://github.com/https://github.com/niftylettuce
 logohandle: niftylettuce
 sort: niftylettuce
 title: niftylettuce

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/reactos
 facebook: https://facebook.com/ReactOS-19143619259
-git: https://github.com/reactos
 logohandle: reactos
 sort: reactos
 title: ReactOS

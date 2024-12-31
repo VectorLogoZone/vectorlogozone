@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/Gandi
 facebook: https://www.facebook.com/GandiBar
-git: https://github.com/Gandi
 images:
 - gandi-official.svg
 - gandi-icon.svg

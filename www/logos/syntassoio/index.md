@@ -1,6 +1,6 @@
 ---
 blog: https://syntasso.io/blog
-git: https://github.com/syntasso/kratix
+codehost: https://github.com/https://github.com/syntasso/kratix
 linkedin: https://linkedin.com/company/syntasso
 logohandle: syntassoio
 sort: syntasso

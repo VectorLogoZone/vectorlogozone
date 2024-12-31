@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ToDesktop
+codehost: https://github.com/https://github.com/ToDesktop
 logohandle: todesktop
 sort: todesktop
 title: ToDesktop

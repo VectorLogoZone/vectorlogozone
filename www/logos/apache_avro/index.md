@@ -1,6 +1,6 @@
 ---
 blog: https://avro.apache.org/blog/
-git: https://github.com/apache/avro
+codehost: https://github.com/https://github.com/apache/avro
 logohandle: apache_avro
 sort: avro
 stackoverflow: https://stackoverflow.com/questions/tagged/avro

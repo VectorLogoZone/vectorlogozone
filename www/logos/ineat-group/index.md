@@ -1,7 +1,7 @@
 ---
 blog: https://blog.ineat-conseil.fr/
+codehost: https://github.com/https://github.com/twogrey
 facebook: https://facebook.com/IneatGroup
-git: https://github.com/twogrey
 linkedin: https://linkedin.com/company/ineat-conseil
 logohandle: ineat-group
 sort: ineat-group

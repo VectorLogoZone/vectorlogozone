@@ -1,7 +1,7 @@
 ---
 blog: https://webapp.io/blog/
+codehost: https://github.com/https://github.com/apps/webappio
 facebook: https://facebook.com/webappio
-git: https://github.com/apps/webappio
 linkedin: https://linkedin.com/company/webappio
 logohandle: webappio
 sort: webappio

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/cowrie-exchange
-git: https://github.com/cowriesys/stellarator
+codehost: https://github.com/https://github.com/cowriesys/stellarator
 logohandle: cowrieexchange
 sort: cowrie
 title: Cowrie Exchange

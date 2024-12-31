@@ -1,6 +1,6 @@
 ---
 blog: https://blog.mobyproject.org/
-git: https://github.com/moby/moby
+codehost: https://github.com/https://github.com/moby/moby
 logohandle: mobyproject
 sort: moby
 title: Moby

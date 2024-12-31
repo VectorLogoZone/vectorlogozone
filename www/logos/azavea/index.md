@@ -1,7 +1,7 @@
 ---
 blog: https://azavea.com/blog
+codehost: https://github.com/https://github.com/azavea
 facebook: http://facebook.com/azavea
-git: https://github.com/azavea
 linkedin: http://linkedin.com/company/azavea
 logohandle: azavea
 sort: azavea

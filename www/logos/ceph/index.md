@@ -1,7 +1,7 @@
 ---
 blog: https://ceph.com/community/blog
+codehost: https://github.com/https://github.com/ceph
 facebook: https://facebook.com/cephstorage
-git: https://github.com/ceph
 googleplus: https://plus.google.com/+Cephstorage
 logohandle: ceph
 sort: ceph

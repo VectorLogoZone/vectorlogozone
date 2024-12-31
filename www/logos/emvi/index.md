@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/emvi
-git: https://github.com/emvi
+codehost: https://github.com/https://github.com/emvi
 logohandle: emvi
 sort: emvi
 title: Emvi

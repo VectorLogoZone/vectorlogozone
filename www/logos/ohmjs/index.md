@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ohmjs/ohm
+codehost: https://github.com/https://github.com/ohmjs/ohm
 logohandle: ohmjs
 sort: ohmjs
 title: Ohm.js

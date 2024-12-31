@@ -1,5 +1,5 @@
 ---
-git: https://github.com/yaml
+codehost: https://github.com/https://github.com/yaml
 images:
 - yaml-icon.svg
 - yaml-ar21.svg

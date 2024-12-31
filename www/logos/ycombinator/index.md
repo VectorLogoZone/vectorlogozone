@@ -1,8 +1,8 @@
 ---
 blog: http://www.ycombinator.com/resources/
+codehost: https://github.com/https://github.com/HackerNews
 colors:
 - '#F26625'
-git: https://github.com/HackerNews
 images:
 - ycombinator-ar21.svg
 - ycombinator-tile.svg

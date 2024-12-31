@@ -1,5 +1,5 @@
 ---
-git: https://github.com/schemahero/schemahero
+codehost: https://github.com/https://github.com/schemahero/schemahero
 logohandle: schemaheroio
 sort: schemahero
 title: SchemaHero

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.zulip.org/
-git: https://github.com/zulip/zulip
+codehost: https://github.com/https://github.com/zulip/zulip
 logohandle: zulipchat
 sort: zulipchat
 title: Zulip

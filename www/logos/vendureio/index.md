@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vendure-ecommerce/vendure
+codehost: https://github.com/https://github.com/vendure-ecommerce/vendure
 logohandle: vendureio
 sort: vendure
 title: Vendure

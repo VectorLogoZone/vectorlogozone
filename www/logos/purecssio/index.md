@@ -1,6 +1,6 @@
 ---
 blog: http://blog.purecss.io/
-git: https://github.com/pure-css/pure
+codehost: https://github.com/https://github.com/pure-css/pure
 logohandle: purecssio
 sort: purecss
 title: PureCSS

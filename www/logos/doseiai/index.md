@@ -1,5 +1,5 @@
 ---
-git: https://github.com/doseiai
+codehost: https://github.com/https://github.com/doseiai
 logohandle: doseiai
 sort: dosei
 title: Dosei

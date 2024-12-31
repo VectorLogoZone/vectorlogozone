@@ -1,5 +1,5 @@
 ---
-git: https://github.com/angular/protractor
+codehost: https://github.com/https://github.com/angular/protractor
 logohandle: protractortest
 sort: protractor
 title: Protractor

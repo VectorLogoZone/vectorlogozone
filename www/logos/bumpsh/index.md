@@ -1,5 +1,5 @@
 ---
-git: https://github.com/bump-sh/cli
+codehost: https://github.com/https://github.com/bump-sh/cli
 linkedin: https://linkedin.com/company/bump-sh
 logohandle: bumpsh
 sort: bumpsh

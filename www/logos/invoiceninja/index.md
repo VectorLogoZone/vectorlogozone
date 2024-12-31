@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/invoiceninja/invoiceninja
 facebook: https://facebook.com/invoiceninja
-git: https://github.com/invoiceninja/invoiceninja
 logohandle: invoiceninja
 sort: invoiceninja
 title: Invoice Ninja

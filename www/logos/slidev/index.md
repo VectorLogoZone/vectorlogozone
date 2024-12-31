@@ -1,5 +1,5 @@
 ---
-git: https://github.com/slidevjs/slidev
+codehost: https://github.com/https://github.com/slidevjs/slidev
 logohandle: slidev
 sort: sli
 title: Slidev

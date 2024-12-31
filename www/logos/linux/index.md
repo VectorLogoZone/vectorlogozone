@@ -1,6 +1,6 @@
 ---
 blog: https://www.linux.com/news
-git: https://github.com/torvalds/linux
+codehost: https://github.com/https://github.com/torvalds/linux
 images:
 - linux-icon.svg
 - linux-ar21.svg

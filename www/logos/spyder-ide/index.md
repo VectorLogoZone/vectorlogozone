@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/spyder-ide/spyder
 facebook: https://facebook.com/SpyderIDE
-git: https://github.com/spyder-ide/spyder
 logohandle: spyder-ide
 sort: spyder-ide
 title: Spyder

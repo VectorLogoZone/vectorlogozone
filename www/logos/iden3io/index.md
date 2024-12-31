@@ -1,5 +1,5 @@
 ---
-git: https://github.com/iden3
+codehost: https://github.com/https://github.com/iden3
 logohandle: iden3io
 sort: iden3
 title: Iden3

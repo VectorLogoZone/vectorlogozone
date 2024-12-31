@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dwyl
+codehost: https://github.com/https://github.com/dwyl
 logohandle: dwyl
 sort: dwyl
 title: dwyl

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/bdadam/OptimizedWebfontLoading
 facebook: https://facebook.com/composeio
-git: https://github.com/bdadam/OptimizedWebfontLoading
 googleplus: https://plus.google.com/+ComposeIo
 linkedin: https://linkedin.com/company/composeio
 logohandle: compose

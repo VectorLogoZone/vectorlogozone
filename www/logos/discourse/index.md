@@ -1,6 +1,6 @@
 ---
 blog: http://blog.discourse.org/
-git: https://github.com/discourse
+codehost: https://github.com/https://github.com/discourse
 linkedin: https://linkedin.com/company/5906926
 logohandle: discourse
 sort: discourse

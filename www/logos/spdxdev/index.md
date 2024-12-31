@@ -1,5 +1,5 @@
 ---
-git: https://github.com/spdx
+codehost: https://github.com/https://github.com/spdx
 keywords:
 - Software Package Data Exchange
 logohandle: spdxdev

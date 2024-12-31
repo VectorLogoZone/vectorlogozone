@@ -1,8 +1,8 @@
 ---
 blog: https://medium.com/moxystudio
+codehost: https://github.com/https://github.com/moxystudio
 dribbble: https://dribbble.com/moxystudio
 facebook: https://facebook.com/madewithmoxy
-git: https://github.com/moxystudio
 instagram: https://instagram.com/moxystudio
 linkedin: https://linkedin.com/company/moxy-studio
 logohandle: moxystudio

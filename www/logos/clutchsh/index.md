@@ -1,5 +1,5 @@
 ---
-git: https://github.com/lyft/clutch
+codehost: https://github.com/https://github.com/lyft/clutch
 logohandle: clutchsh
 sort: clutch
 title: Clutch

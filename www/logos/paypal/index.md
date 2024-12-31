@@ -1,5 +1,6 @@
 ---
 blog: https://www.paypal.com/stories/us
+codehost: https://github.com/https://github.com/paypal
 colors:
 - '#00447B'
 - '#0079C0'
@@ -7,7 +8,6 @@ facebook: https://www.facebook.com/PayPalUSA
 font:
   myfonts: https://www.myfonts.com/fonts/itc/avant-garde-gothic/
   name: Avant Garde Gothic Bold Oblique
-git: https://github.com/paypal
 guide: https://issuu.com/lukaszkulakowski/docs/pp_masterbrandguidelines_v21_mm
 images:
 - paypal-ar21.svg

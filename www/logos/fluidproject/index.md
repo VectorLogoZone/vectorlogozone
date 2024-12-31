@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fluid-project
+codehost: https://github.com/https://github.com/fluid-project
 logohandle: fluidproject
 sort: fluidproject
 title: fluid project

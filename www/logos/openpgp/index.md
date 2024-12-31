@@ -1,5 +1,5 @@
 ---
-git: https://github.com/OpenPGP
+codehost: https://github.com/https://github.com/OpenPGP
 logohandle: openpgp
 sort: openpgp
 title: OpenPGP

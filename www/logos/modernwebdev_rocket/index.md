@@ -1,5 +1,5 @@
 ---
-git: https://github.com/modernweb-dev/rocket
+codehost: https://github.com/https://github.com/modernweb-dev/rocket
 logohandle: modernwebdev_rocket
 sort: rocket
 title: Rocket

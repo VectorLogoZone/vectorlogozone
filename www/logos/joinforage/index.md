@@ -1,5 +1,5 @@
 ---
-git: https://github.com/teamforage
+codehost: https://github.com/https://github.com/teamforage
 linkedin: https://linkedin.com/company/foragepayments
 logohandle: joinforage
 sort: forage

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/portalmedia
 facebook: https://facebook.com/portalmedia
-git: https://github.com/portalmedia
 linkedin: https://linkedin.com/company/portalmedia
 logohandle: portalmedia
 sort: portalmedia

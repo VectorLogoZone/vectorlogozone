@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mholt/certmagic
+codehost: https://github.com/https://github.com/mholt/certmagic
 logohandle: github_mholt_certmagic
 sort: certmagic
 title: certmagic

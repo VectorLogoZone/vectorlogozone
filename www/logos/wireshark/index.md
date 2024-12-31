@@ -1,6 +1,6 @@
 ---
 blog: https://blog.wireshark.org/
-git: https://github.com/wireshark
+codehost: https://github.com/https://github.com/wireshark
 images:
 - wireshark-ar21.svg
 - wireshark-icon.svg

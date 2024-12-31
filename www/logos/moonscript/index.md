@@ -1,5 +1,5 @@
 ---
-git: https://github.com/leafo/moonscript
+codehost: https://github.com/https://github.com/leafo/moonscript
 logohandle: moonscript
 sort: moonscript
 title: MoonScript

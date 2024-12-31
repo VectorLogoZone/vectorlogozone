@@ -1,5 +1,5 @@
 ---
-git: https://github.com/liyasthomas/postwoman
+codehost: https://github.com/https://github.com/liyasthomas/postwoman
 logohandle: postwomanio
 sort: postwoman
 title: Postwoman

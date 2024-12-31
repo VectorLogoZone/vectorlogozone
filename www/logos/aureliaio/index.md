@@ -1,5 +1,5 @@
 ---
-git: https://github.com/aurelia
+codehost: https://github.com/https://github.com/aurelia
 logohandle: aureliaio
 sort: aurelia
 title: Aurelia

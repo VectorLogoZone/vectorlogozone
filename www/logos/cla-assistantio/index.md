@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cla-assistant
+codehost: https://github.com/https://github.com/cla-assistant
 logohandle: cla-assistantio
 sort: cla-assistant
 title: CLA Assistant

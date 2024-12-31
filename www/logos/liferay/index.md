@@ -1,7 +1,7 @@
 ---
 blog: https://liferay.com/blog
+codehost: https://github.com/https://github.com/liferay
 facebook: http://facebook.com/pages/Liferay/45119213107
-git: https://github.com/liferay
 instagram: http://instagram.com/liferayinc
 linkedin: http://linkedin.com/company/83609
 logohandle: liferay

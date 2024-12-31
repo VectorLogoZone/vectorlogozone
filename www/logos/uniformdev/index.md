@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@uniform
-git: https://github.com/uniformdev
+codehost: https://github.com/https://github.com/uniformdev
 logohandle: uniformdev
 sort: uniform
 title: Uniform

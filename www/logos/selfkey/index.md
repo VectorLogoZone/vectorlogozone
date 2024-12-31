@@ -1,7 +1,7 @@
 ---
 blog: https://selfkey.org/blog
+codehost: https://github.com/https://github.com/SelfKeyFoundation
 facebook: https://facebook.com/SelfKeyHQ
-git: https://github.com/SelfKeyFoundation
 instagram: https://instagram.com/SelfKey_Community
 linkedin: https://linkedin.com/company/selfkey
 logohandle: selfkey

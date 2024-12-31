@@ -1,5 +1,5 @@
 ---
-git: https://github.com/leanote/leanote
+codehost: https://github.com/https://github.com/leanote/leanote
 logohandle: leanote
 sort: leanote
 title: Leanote

@@ -1,7 +1,7 @@
 ---
 blog: https://goshippo.com/blog
+codehost: https://github.com/https://github.com/jonsuh/hamburgers
 facebook: https://facebook.com/goshippo
-git: https://github.com/jonsuh/hamburgers
 linkedin: https://linkedin.com/company/shippo
 logohandle: goshippo
 sort: goshippo

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tachyons-css/tachyons
+codehost: https://github.com/https://github.com/tachyons-css/tachyons
 logohandle: tachyonsio
 sort: tachyons
 title: Tachyons CSS

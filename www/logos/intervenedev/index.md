@@ -1,5 +1,5 @@
 ---
-git: https://github.com/soundcloud/intervene
+codehost: https://github.com/https://github.com/soundcloud/intervene
 logohandle: intervenedev
 sort: intervene
 title: intervene

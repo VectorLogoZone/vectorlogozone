@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/vmware
 facebook: https://www.facebook.com/vmware
-git: https://github.com/vmware
 googleplus: https://plus.google.com/+vmware
 guide: https://www.vmware.com/company/news/media-resources/press-kits.html
 linkedin: http://www.linkedin.com/company/vmware

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.bigpicture.io/
+codehost: https://github.com/https://github.com/bigpictureio
 facebook: https://facebook.com/BigPictureIO
-git: https://github.com/bigpictureio
 linkedin: https://linkedin.com/company/bigpictureio
 logohandle: bigpictureio
 sort: bigpicture

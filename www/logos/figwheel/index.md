@@ -1,5 +1,5 @@
 ---
-git: https://github.com/bhauman/figwheel-main
+codehost: https://github.com/https://github.com/bhauman/figwheel-main
 logohandle: figwheel
 sort: figwheel
 title: Figwheel

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/caos
+codehost: https://github.com/https://github.com/caos
 linkedin: https://linkedin.com/company/caos-ag
 logohandle: zitadelch
 sort: zitadel

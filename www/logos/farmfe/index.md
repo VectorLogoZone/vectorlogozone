@@ -1,5 +1,5 @@
 ---
-git: https://github.com/farm-fe/farm
+codehost: https://github.com/https://github.com/farm-fe/farm
 logohandle: farmfe
 sort: farmfe
 title: Farm

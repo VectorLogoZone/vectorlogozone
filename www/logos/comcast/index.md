@@ -1,7 +1,7 @@
 ---
 blog: https://corporate.comcast.com/press
+codehost: https://github.com/https://github.com/comcast
 facebook: https://www.facebook.com/comcast
-git: https://github.com/comcast
 images:
 - comcast-icon.svg
 - comcast-ar21.svg

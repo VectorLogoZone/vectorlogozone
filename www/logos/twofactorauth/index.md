@@ -1,6 +1,6 @@
 ---
 blog: http://blog.cloud66.com/two-factor-authentication-for-your-accounts
-git: https://github.com/2factorauth/twofactorauth
+codehost: https://github.com/https://github.com/2factorauth/twofactorauth
 logohandle: twofactorauth
 sort: twofactorauth
 title: Two Factor Auth List

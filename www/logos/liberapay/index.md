@@ -1,9 +1,9 @@
 ---
 blog: https://framasphere.org/u/liberapay
+codehost: https://github.com/https://github.com/liberapay
 colors:
 - '#F5C310'
 facebook: https://www.facebook.com/Liberapay-472128142945598/
-git: https://github.com/liberapay
 logohandle: liberapay
 sort: liberapay
 title: Liberapay

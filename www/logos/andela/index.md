@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/andela
 facebook: https://facebook.com/thisisandela
-git: https://github.com/andela
 instagram: https://instagram.com/thisisandela
 linkedin: https://linkedin.com/company/andela
 logohandle: andela

@@ -1,6 +1,6 @@
 ---
 blog: https://anyscale.io/blog
-git: https://github.com/ray-project/ray
+codehost: https://github.com/https://github.com/ray-project/ray
 logohandle: anyscaleio
 sort: anyscale
 title: Anyscale

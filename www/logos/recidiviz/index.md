@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/recidiviz
-git: https://github.com/Recidiviz
+codehost: https://github.com/https://github.com/Recidiviz
 linkedin: https://linkedin.com/company/recidiviz
 logohandle: recidiviz
 sort: recidiviz

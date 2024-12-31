@@ -1,7 +1,7 @@
 ---
 blog: https://blog.linode.com/
+codehost: https://github.com/https://github.com/linode
 facebook: https://facebook.com/linode
-git: https://github.com/linode
 images:
 - linode-icon.svg
 - linode-ar21.svg

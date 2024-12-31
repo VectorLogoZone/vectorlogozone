@@ -1,7 +1,7 @@
 ---
 blog: https://rakam.io/blog/
+codehost: https://github.com/https://github.com/rakam-io/recipes
 facebook: https://facebook.com/rakam.io
-git: https://github.com/rakam-io/recipes
 linkedin: https://linkedin.com/company/rakam.io
 logohandle: rakamio
 sort: rakam

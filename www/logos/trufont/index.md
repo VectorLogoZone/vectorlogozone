@@ -1,5 +1,5 @@
 ---
-git: https://github.com/trufont/trufont
+codehost: https://github.com/https://github.com/trufont/trufont
 logohandle: trufont
 sort: trufont
 title: TruFont

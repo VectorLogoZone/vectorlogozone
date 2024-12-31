@@ -1,7 +1,7 @@
 ---
 blog: https://blog.zenika.com/
+codehost: https://github.com/https://github.com/Zenika
 facebook: https://facebook.com/ZenikaIT
-git: https://github.com/Zenika
 logohandle: zenika
 sort: zenika
 title: Zenika

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mojombo/god
+codehost: https://github.com/https://github.com/mojombo/god
 logohandle: godrb
 sort: godrb
 title: God

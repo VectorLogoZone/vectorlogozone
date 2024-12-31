@@ -1,5 +1,5 @@
 ---
-git: https://github.com/trpc/trpc
+codehost: https://github.com/https://github.com/trpc/trpc
 logohandle: trpcio
 sort: trpcio
 title: tRPC

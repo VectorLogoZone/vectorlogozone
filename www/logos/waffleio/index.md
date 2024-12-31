@@ -1,6 +1,6 @@
 ---
 blog: http://blog.waffle.io/
-git: https://github.com/waffleio
+codehost: https://github.com/https://github.com/waffleio
 logohandle: waffleio
 sort: waffleio
 title: waffle.io

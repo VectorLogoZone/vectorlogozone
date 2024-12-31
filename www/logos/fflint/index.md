@@ -1,8 +1,8 @@
 ---
+codehost: https://github.com/https://github.com/FileFormatInfo/fflint
 font:
   google: https://fonts.google.com/specimen/Bitter
   name: Bitter Bold Italic
-git: https://github.com/FileFormatInfo/fflint
 logohandle: fflint
 sort: fflint
 title: fflint

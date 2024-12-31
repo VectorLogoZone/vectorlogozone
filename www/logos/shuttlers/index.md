@@ -1,5 +1,5 @@
 ---
-git: https://github.com/shuttle-hq/shuttle
+codehost: https://github.com/https://github.com/shuttle-hq/shuttle
 linkedin: https://linkedin.com/company/shuttle-yc
 logohandle: shuttlers
 sort: shuttlers

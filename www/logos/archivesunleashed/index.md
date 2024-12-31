@@ -1,5 +1,5 @@
 ---
-git: https://github.com/archivesunleashed
+codehost: https://github.com/https://github.com/archivesunleashed
 logohandle: archivesunleashed
 slack: http://slack.archivesunleashed.org/
 sort: archivesunleashed

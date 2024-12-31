@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/tomhodgins
 facebook: https://facebook.com/hashnode
-git: https://github.com/tomhodgins
 googleplus: https://plus.google.com/+Hashnode
 instagram: https://instagram.com/hashnode
 linkedin: https://linkedin.com/company/hashnode

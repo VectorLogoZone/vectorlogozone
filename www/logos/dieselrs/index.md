@@ -1,5 +1,5 @@
 ---
-git: https://github.com/diesel-rs/diesel
+codehost: https://github.com/https://github.com/diesel-rs/diesel
 logohandle: dieselrs
 sort: diesel
 title: Diesel

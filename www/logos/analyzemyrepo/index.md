@@ -1,5 +1,5 @@
 ---
-git: https://github.com/CrowdDotDev/analyzemyrepo
+codehost: https://github.com/https://github.com/CrowdDotDev/analyzemyrepo
 logohandle: analyzemyrepo
 sort: analyzemyrepo
 title: Analyze My Repo

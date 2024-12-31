@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/goeuro
 facebook: https://business.facebook.com/Omio
-git: https://github.com/goeuro
 instagram: https://instagram.com/Omio
 linkedin: https://linkedin.com/company/omio
 logohandle: omio

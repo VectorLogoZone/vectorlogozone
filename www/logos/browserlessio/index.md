@@ -1,6 +1,6 @@
 ---
 blog: https://docs.browserless.io/blog/
-git: https://github.com/joelgriffith/browserless
+codehost: https://github.com/https://github.com/joelgriffith/browserless
 logohandle: browserlessio
 sort: browserless
 title: browserless

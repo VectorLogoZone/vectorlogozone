@@ -1,7 +1,7 @@
 ---
 blog: https://deque.com/blog
+codehost: https://github.com/https://github.com/dequelabs
 facebook: https://facebook.com/dequesystems
-git: https://github.com/dequelabs
 logohandle: deque
 sort: deque
 title: deque

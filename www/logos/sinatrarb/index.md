@@ -1,5 +1,5 @@
 ---
-git: https://github.com/sinatra/sinatra
+codehost: https://github.com/https://github.com/sinatra/sinatra
 logohandle: sinatrarb
 sort: sinatrarb
 title: Sinatra

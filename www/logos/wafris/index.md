@@ -1,5 +1,5 @@
 ---
-git: https://github.com/wafris
+codehost: https://github.com/https://github.com/wafris
 logohandle: wafris
 sort: wafris
 title: Wafris

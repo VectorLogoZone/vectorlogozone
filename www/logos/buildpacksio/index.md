@@ -1,5 +1,5 @@
 ---
-git: https://github.com/buildpack
+codehost: https://github.com/https://github.com/buildpack
 logohandle: buildpacksio
 sort: buildpacks
 title: Buildpacks

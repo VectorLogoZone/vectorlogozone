@@ -1,5 +1,5 @@
 ---
-git: https://github.com/sodafoundation
+codehost: https://github.com/https://github.com/sodafoundation
 linkedin: https://linkedin.com/company/sodafoundation
 logohandle: sodafoundationio
 sort: sodafoundation

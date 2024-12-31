@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/jspm/project
 dribbble: https://dribbble.com/luukdv
-git: https://github.com/jspm/project
 logohandle: jspmio
 sort: jspm
 title: jspm.io

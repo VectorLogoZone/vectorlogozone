@@ -1,7 +1,7 @@
 ---
 blog: https://cloudns.net/blog
+codehost: https://github.com/https://github.com/ClouDNS
 facebook: http://facebook.com/cloudns
-git: https://github.com/ClouDNS
 linkedin: https://linkedin.com/company/cloud-dns-ltd
 logohandle: cloudnsnet
 sort: cloudns

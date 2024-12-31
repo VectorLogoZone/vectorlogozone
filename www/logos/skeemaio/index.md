@@ -1,5 +1,5 @@
 ---
-git: https://github.com/skeema
+codehost: https://github.com/https://github.com/skeema
 logohandle: skeemaio
 sort: skeema
 title: Skeema.io

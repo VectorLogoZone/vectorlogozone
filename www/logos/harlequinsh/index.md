@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tconbeer/harlequin
+codehost: https://github.com/https://github.com/tconbeer/harlequin
 logohandle: harlequinsh
 sort: harlequinsh
 title: Harlequin

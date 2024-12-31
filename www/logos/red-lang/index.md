@@ -1,5 +1,5 @@
 ---
-git: https://github.com/red/red
+codehost: https://github.com/https://github.com/red/red
 logohandle: red-lang
 sort: red-lang
 title: Red Programming Language

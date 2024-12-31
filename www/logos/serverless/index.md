@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/serverless/examples
 facebook: https://facebook.com/serverless
-git: https://github.com/serverless/examples
 instagram: https://instagram.com/serverlessinc
 logohandle: serverless
 sort: serverless

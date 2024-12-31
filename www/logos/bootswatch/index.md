@@ -1,9 +1,9 @@
 ---
+codehost: https://github.com/https://github.com/thomaspark/bootswatch
 font:
   myfonts: https://www.myfonts.com/fonts/redrooster/harry-pro/fat/
   name: Harry Fat
   url: https://www.youworkforthem.com/font/T2067/harry-pro?refby=vectorlogozone
-git: https://github.com/thomaspark/bootswatch
 guide: https://github.com/thomaspark/bootswatch/tree/v5/docs/_assets/img
 images:
 - bootswatch-icon.svg

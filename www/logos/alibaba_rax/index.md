@@ -1,5 +1,5 @@
 ---
-git: https://github.com/alibaba/rax
+codehost: https://github.com/https://github.com/alibaba/rax
 logohandle: alibaba_rax
 sort: rax
 title: Rax

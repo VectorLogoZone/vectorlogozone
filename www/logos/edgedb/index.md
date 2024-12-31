@@ -1,5 +1,5 @@
 ---
-git: https://github.com/edgedb
+codehost: https://github.com/https://github.com/edgedb
 logohandle: edgedb
 sort: edgedb
 title: EdgeDB

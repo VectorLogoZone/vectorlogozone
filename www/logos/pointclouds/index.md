@@ -1,5 +1,5 @@
 ---
-git: https://github.com/PointCloudLibrary
+codehost: https://github.com/https://github.com/PointCloudLibrary
 logohandle: pointclouds
 sort: pointclouds
 title: Point Cloud Library

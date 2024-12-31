@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kristoff-it/zine
+codehost: https://github.com/https://github.com/kristoff-it/zine
 logohandle: zine-ssgio
 sort: zinessg
 title: Zine

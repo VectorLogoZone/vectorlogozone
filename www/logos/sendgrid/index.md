@@ -1,7 +1,7 @@
 ---
 blog: https://sendgrid.com/blog
+codehost: https://github.com/https://github.com/sendgrid
 facebook: https://facebook.com/SendGrid
-git: https://github.com/sendgrid
 googleplus: https://plus.google.com/+Sendgrid1
 linkedin: https://linkedin.com/company/sendgrid
 logohandle: sendgrid

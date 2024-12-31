@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/Homebrew/brew
 facebook: https://facebook.com/machomebrew
-git: https://github.com/Homebrew/brew
 logohandle: brewsh
 sort: brew
 title: Homebrew

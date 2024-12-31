@@ -1,5 +1,5 @@
 ---
-git: https://github.com/subspace-com
+codehost: https://github.com/https://github.com/subspace-com
 linkedin: https://linkedin.com/company/subspace-com
 logohandle: subspace
 sort: subspace

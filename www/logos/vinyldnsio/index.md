@@ -1,5 +1,5 @@
 ---
-git: https://github.com/VinylDNS/vinyldns
+codehost: https://github.com/https://github.com/VinylDNS/vinyldns
 logohandle: vinyldnsio
 sort: vinyldns
 title: VinylDNS

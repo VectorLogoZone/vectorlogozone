@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/@symfony
+codehost: https://github.com/https://github.com/symfony
 facebook: https://facebook.com/SymfonyFramework
-git: https://github.com/symfony
 guide: https://symfony.com/logo
 logohandle: symfony
 sort: symfony

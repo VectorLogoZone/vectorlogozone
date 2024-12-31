@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/bjango
 dribbble: http://dribbble.com/bjango
-git: https://github.com/bjango
 logohandle: bjango
 sort: bjango
 title: Bjango

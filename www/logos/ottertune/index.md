@@ -1,6 +1,6 @@
 ---
 blog: https://ottertune.com/blog
-git: https://github.com/ottertune
+codehost: https://github.com/https://github.com/ottertune
 linkedin: https://linkedin.com/company/ottertune
 logohandle: ottertune
 sort: ottertune

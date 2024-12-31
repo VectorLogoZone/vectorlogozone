@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tidwall/tile38
+codehost: https://github.com/https://github.com/tidwall/tile38
 logohandle: tile38
 sort: tile38
 title: Tile38

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/SliTaz-official
 facebook: http://facebook.com/slitaz
-git: https://github.com/SliTaz-official
 logohandle: slitaz
 sort: slitaz
 title: SliTaz

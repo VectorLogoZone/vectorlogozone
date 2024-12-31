@@ -1,5 +1,5 @@
 ---
-git: https://github.com/termux
+codehost: https://github.com/https://github.com/termux
 logohandle: termux
 sort: termux
 title: Termux

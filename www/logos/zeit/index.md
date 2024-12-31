@@ -1,7 +1,7 @@
 ---
 blog: https://zeit.co/blog
+codehost: https://github.com/https://github.com/zeit
 facebook: https://facebook.com/zeithq
-git: https://github.com/zeit
 guide: https://github.com/zeit/art
 images:
 - zeit-ar21.svg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pipe-technologies
+codehost: https://github.com/https://github.com/pipe-technologies
 linkedin: https://linkedin.com/company/pipetechnologies
 logohandle: pipe
 sort: pipe

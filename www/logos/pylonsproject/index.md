@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Pylons
+codehost: https://github.com/https://github.com/Pylons
 logohandle: pylonsproject
 sort: pylonsproject
 title: Pylons

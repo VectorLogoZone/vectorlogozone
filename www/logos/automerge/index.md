@@ -1,5 +1,5 @@
 ---
-git: https://github.com/automerge
+codehost: https://github.com/https://github.com/automerge
 logohandle: automerge
 sort: automerge
 title: Automerge

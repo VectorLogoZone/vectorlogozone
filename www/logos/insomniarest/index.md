@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Kong/insomnia
+codehost: https://github.com/https://github.com/Kong/insomnia
 logohandle: insomniarest
 sort: insomnia
 title: Insomnia

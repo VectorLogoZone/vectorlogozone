@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@treo
-git: https://github.com/treosh
+codehost: https://github.com/https://github.com/treosh
 logohandle: treosh
 sort: treo
 title: Treo

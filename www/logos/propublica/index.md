@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/propublica
 facebook: https://facebook.com/propublica
-git: https://github.com/propublica
 instagram: https://instagram.com/propublica
 linkedin: https://linkedin.com/company/propublica
 logohandle: propublica

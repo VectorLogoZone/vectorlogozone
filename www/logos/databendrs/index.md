@@ -1,6 +1,6 @@
 ---
 blog: https://databend.com/blog
-git: https://github.com/datafuselabs/databend
+codehost: https://github.com/https://github.com/datafuselabs/databend
 logohandle: databendrs
 sort: databend
 title: Databend

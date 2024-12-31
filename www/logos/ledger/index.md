@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/LedgerHQ
 facebook: https://facebook.com/Ledger
-git: https://github.com/LedgerHQ
 instagram: https://instagram.com/ledger
 linkedin: https://linkedin.com/company/ledgerhq
 logohandle: ledger

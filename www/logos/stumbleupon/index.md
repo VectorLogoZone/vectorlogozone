@@ -1,6 +1,6 @@
 ---
 blog: http://www.stumbleupon.com/blog
-git: https://github.com/stumbleupon
+codehost: https://github.com/https://github.com/stumbleupon
 images:
 - stumbleupon-ar21.svg
 - stumbleupon-tile.svg

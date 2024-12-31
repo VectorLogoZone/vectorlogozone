@@ -1,5 +1,5 @@
 ---
-git: https://github.com/99designs/gqlgen
+codehost: https://github.com/https://github.com/99designs/gqlgen
 logohandle: gqlgen
 sort: gqlgen
 title: gqlgen

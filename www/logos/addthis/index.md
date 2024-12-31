@@ -1,11 +1,11 @@
 ---
 blog: https://www.addthis.com/blog/
+codehost: https://github.com/https://github.com/addthis
 colors:
 - '#FF5C3E'
 font:
   myfonts: https://www.myfonts.com/fonts/adobe/helvetica-neue/helveticaneue-medium/
   name: Helvetica Neue LT Std 65 Medium
-git: https://github.com/addthis
 images:
 - addthis-ar21.svg
 - addthis-icon.svg

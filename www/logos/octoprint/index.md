@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/foosel/OctoPrint
 facebook: https://facebook.com/OctoPrint
-git: https://github.com/foosel/OctoPrint
 logohandle: octoprint
 sort: octoprint
 title: OctoPrint

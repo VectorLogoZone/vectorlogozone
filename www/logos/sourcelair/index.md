@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/sourcelair
 facebook: https://facebook.com/sourcelair
-git: https://github.com/sourcelair
 instagram: https://instagram.com/sourcelaircom
 logohandle: sourcelair
 sort: sourcelair

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/premieroctet/screen-guru
+codehost: https://github.com/https://github.com/premieroctet/screen-guru
 logohandle: screenguru
 sort: screenguru
 title: Screen Guru

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/google/perfetto
+codehost: https://github.com/https://github.com/google/perfetto
 logohandle: perfettodev
 sort: perfetto
 title: Perfetto

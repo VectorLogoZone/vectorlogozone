@@ -1,5 +1,5 @@
 ---
-git: https://github.com/planetary-social
+codehost: https://github.com/https://github.com/planetary-social
 logohandle: planetarysocial
 sort: planetary
 title: Planetary

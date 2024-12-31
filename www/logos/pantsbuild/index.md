@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pantsbuild/pants
+codehost: https://github.com/https://github.com/pantsbuild/pants
 logohandle: pantsbuild
 sort: pantsbuild
 title: Pants

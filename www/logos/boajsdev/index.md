@@ -1,5 +1,5 @@
 ---
-git: https://github.com/boa-dev/boa
+codehost: https://github.com/https://github.com/boa-dev/boa
 logohandle: boajsdev
 sort: boajs
 title: Boa

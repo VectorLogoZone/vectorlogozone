@@ -1,5 +1,5 @@
 ---
-git: https://github.com/lucide-icons/lucide
+codehost: https://github.com/https://github.com/lucide-icons/lucide
 logohandle: lucidedev
 sort: lucide
 title: Lucide

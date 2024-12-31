@@ -1,9 +1,9 @@
 ---
 blog: https://blog.docker.com/
+codehost: https://github.com/https://github.com/docker/docker
 colors:
 - '#136EA3'
 facebook: https://www.facebook.com/docker.run
-git: https://github.com/docker/docker
 guide: https://www.docker.com/brand-guidelines
 images:
 - docker-official.svg

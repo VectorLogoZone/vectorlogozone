@@ -1,7 +1,7 @@
 ---
 blog: https://blog.yugabyte.com/
+codehost: https://github.com/https://github.com/YugaByte/yugabyte-db
 facebook: https://facebook.com/yugabyte
-git: https://github.com/YugaByte/yugabyte-db
 linkedin: https://linkedin.com/company/yugabyte
 logohandle: yugabyte
 sort: yugabyte

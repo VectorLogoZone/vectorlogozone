@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kognise/water.css
+codehost: https://github.com/https://github.com/kognise/water.css
 logohandle: netlifyapp_watercss
 sort: watercss
 title: Water.css

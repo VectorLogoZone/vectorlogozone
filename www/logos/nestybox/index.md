@@ -1,6 +1,6 @@
 ---
 blog: http://blog.nestybox.com/
-git: https://github.com/nestybox
+codehost: https://github.com/https://github.com/nestybox
 logohandle: nestybox
 sort: nestybox
 title: Nestybox

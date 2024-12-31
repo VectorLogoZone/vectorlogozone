@@ -1,9 +1,9 @@
 ---
 blog: https://www.wufoo.com/blog/
+codehost: https://github.com/https://github.com/wufoo
 colors:
 - '#E86F69'
 facebook: https://www.facebook.com/formbuilder
-git: https://github.com/wufoo
 googleplus: https://plus.google.com/+wufoot
 images:
 - wufoo-ar21.svg

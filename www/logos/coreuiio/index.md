@@ -1,6 +1,6 @@
 ---
 blog: https://coreui.io/blog/
-git: https://github.com/coreui
+codehost: https://github.com/https://github.com/coreui
 logohandle: coreuiio
 sort: coreui
 title: CoreUI

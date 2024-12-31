@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/lucenenet
+codehost: https://github.com/https://github.com/apache/lucenenet
 logohandle: apache_lucenenet
 sort: lucenenet
 tags:

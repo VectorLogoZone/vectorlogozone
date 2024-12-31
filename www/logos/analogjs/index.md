@@ -1,5 +1,5 @@
 ---
-git: https://github.com/analogjs/analog
+codehost: https://github.com/https://github.com/analogjs/analog
 logohandle: analogjs
 sort: analogjs
 title: Analog.js

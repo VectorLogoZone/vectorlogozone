@@ -1,7 +1,7 @@
 ---
 blog: https://blog.expo.io/
+codehost: https://github.com/https://github.com/expo/expo
 facebook: https://facebook.com/groups/react.native.community
-git: https://github.com/expo/expo
 instagram: https://instagram.com/expo.io
 logohandle: expoio
 sort: expo

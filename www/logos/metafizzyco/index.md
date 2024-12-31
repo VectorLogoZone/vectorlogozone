@@ -1,5 +1,5 @@
 ---
-git: https://github.com/metafizzy
+codehost: https://github.com/https://github.com/metafizzy
 instagram: https://instagram.com/metafizzy
 logohandle: metafizzyco
 sort: metafizzy

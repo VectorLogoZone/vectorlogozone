@@ -1,7 +1,7 @@
 ---
 blog: https://blog.flat.io/
+codehost: https://github.com/https://github.com/FlatIO
 facebook: https://facebook.com/flat.io
-git: https://github.com/FlatIO
 instagram: https://instagram.com/flat.io
 linkedin: https://linkedin.com/company/flat-io
 logohandle: flatio

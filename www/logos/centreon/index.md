@@ -1,7 +1,7 @@
 ---
 blog: https://centreon.com/en/blog
+codehost: https://github.com/https://github.com/centreon
 facebook: https://facebook.com/CentreonMonitoring
-git: https://github.com/centreon
 linkedin: https://linkedin.com/company/merethis
 logohandle: centreon
 sort: centreon

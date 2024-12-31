@@ -1,6 +1,6 @@
 ---
 blog: https://blog.argoproj.io/
-git: https://github.com/argoproj/argo
+codehost: https://github.com/https://github.com/argoproj/argo
 logohandle: argoprojio
 sort: argo
 title: Argo

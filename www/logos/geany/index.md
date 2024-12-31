@@ -1,5 +1,5 @@
 ---
-git: https://github.com/geany
+codehost: https://github.com/https://github.com/geany
 logohandle: geany
 sort: geany
 title: Geany

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/awakari
+codehost: https://github.com/https://github.com/awakari
 logohandle: awakari
 sort: awakari
 title: Awakari

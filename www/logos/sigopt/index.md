@@ -1,7 +1,7 @@
 ---
 blog: https://sigopt.com/blog/
+codehost: https://github.com/https://github.com/sigopt
 facebook: https://facebook.com/sigopt
-git: https://github.com/sigopt
 linkedin: https://linkedin.com/company/sigopt
 logohandle: sigopt
 sort: sigopt

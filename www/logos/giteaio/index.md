@@ -1,6 +1,6 @@
 ---
 blog: https://blog.gitea.io/
-git: https://github.com/go-gitea
+codehost: https://github.com/https://github.com/go-gitea
 logohandle: giteaio
 sort: gitea
 title: Gitea

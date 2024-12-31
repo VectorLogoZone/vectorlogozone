@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/tidepool-org
 facebook: https://www.facebook.com/TidepoolOrg/
-git: https://github.com/tidepool-org
 instagram: https://www.instagram.com/tidepool_org/
 linkedin: https://www.linkedin.com/company/tidepoolorg/
 logohandle: tidepool

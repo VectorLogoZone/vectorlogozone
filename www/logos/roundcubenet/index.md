@@ -1,5 +1,5 @@
 ---
-git: https://github.com/roundcube/roundcubemail
+codehost: https://github.com/https://github.com/roundcube/roundcubemail
 logohandle: roundcubenet
 sort: roundcube
 title: Roundcube

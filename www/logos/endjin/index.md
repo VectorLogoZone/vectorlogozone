@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/endjin
 facebook: https://facebook.com/endjinhq
-git: https://github.com/endjin
 instagram: https://instagram.com/endjinhq
 linkedin: https://linkedin.com/company/endjin
 logohandle: endjin

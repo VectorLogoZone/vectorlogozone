@@ -1,6 +1,6 @@
 ---
 blog: https://docs.paradedb.com/blog
-git: https://github.com/paradedb/paradedb
+codehost: https://github.com/https://github.com/paradedb/paradedb
 linkedin: https://linkedin.com/company/getretake
 logohandle: paradedb
 sort: paradedb

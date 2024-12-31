@@ -1,7 +1,7 @@
 ---
 blog: https://blog.stitchdata.com/
+codehost: https://github.com/https://github.com/stitchdata
 facebook: https://facebook.com/stitchdata
-git: https://github.com/stitchdata
 instagram: https://instagram.com/stitch_data
 linkedin: https://linkedin.com/company/stitch-data
 logohandle: stitchdata

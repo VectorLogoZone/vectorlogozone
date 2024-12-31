@@ -1,5 +1,5 @@
 ---
-git: https://github.com/oramasearch/orama
+codehost: https://github.com/https://github.com/oramasearch/orama
 logohandle: oramasearch
 sort: oramasearch
 title: Orama Search

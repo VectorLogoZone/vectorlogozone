@@ -1,6 +1,6 @@
 ---
 blog: https://blog.cronhub.io/
-git: https://github.com/cronhub
+codehost: https://github.com/https://github.com/cronhub
 logohandle: cronhubio
 sort: cronhub
 title: Cronhub

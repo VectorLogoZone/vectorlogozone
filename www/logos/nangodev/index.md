@@ -1,6 +1,6 @@
 ---
 blog: http://nango.dev/blog/
-git: https://github.com/NangoHQ/nango
+codehost: https://github.com/https://github.com/NangoHQ/nango
 linkedin: https://linkedin.com/company/nangohq
 logohandle: nangodev
 sort: nango

@@ -1,6 +1,6 @@
 ---
 blog: https://ext.net/blog
-git: https://github.com/extnet
+codehost: https://github.com/https://github.com/extnet
 logohandle: extnet
 sort: ext
 title: Ext.NET

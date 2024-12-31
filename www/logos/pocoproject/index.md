@@ -1,6 +1,6 @@
 ---
 blog: https://pocoproject.org/blog/
-git: https://github.com/pocoproject/poco
+codehost: https://github.com/https://github.com/pocoproject/poco
 logohandle: pocoproject
 sort: pocoproject
 title: POCO Project

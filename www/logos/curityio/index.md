@@ -1,5 +1,5 @@
 ---
-git: https://github.com/curityio
+codehost: https://github.com/https://github.com/curityio
 linkedin: https://linkedin.com/company/curity
 logohandle: curityio
 sort: curity

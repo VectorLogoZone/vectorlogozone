@@ -1,7 +1,7 @@
 ---
 blog: https://mailgun.com/blog
+codehost: https://github.com/https://github.com/mailgun/validator-demo
 facebook: https://facebook.com/mailgun
-git: https://github.com/mailgun/validator-demo
 logohandle: mailgun
 sort: mailgun
 title: Mailgun

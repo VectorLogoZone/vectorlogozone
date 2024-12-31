@@ -1,5 +1,5 @@
 ---
-git: https://github.com/osscapital
+codehost: https://github.com/https://github.com/osscapital
 logohandle: osscapital
 sort: osscapital
 title: OSS Capital

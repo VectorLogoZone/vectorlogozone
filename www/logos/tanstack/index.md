@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tanstack
+codehost: https://github.com/https://github.com/tanstack
 logohandle: tanstack
 sort: tanstack
 title: TanStack

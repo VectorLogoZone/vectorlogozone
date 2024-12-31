@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Requarks/wiki
+codehost: https://github.com/https://github.com/Requarks/wiki
 logohandle: js_wiki
 sort: wikijs
 title: Wiki.js

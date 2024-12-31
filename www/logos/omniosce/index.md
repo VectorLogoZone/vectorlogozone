@@ -1,5 +1,5 @@
 ---
-git: https://github.com/omniosorg
+codehost: https://github.com/https://github.com/omniosorg
 logohandle: omniosce
 sort: omniosce
 title: OmniOS

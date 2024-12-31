@@ -1,6 +1,6 @@
 ---
 blog: http://blog.vespa.ai/
-git: https://github.com/vespa-engine
+codehost: https://github.com/https://github.com/vespa-engine
 logohandle: vespaai
 sort: vespa
 title: Vespa

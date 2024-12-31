@@ -1,6 +1,6 @@
 ---
 blog: https://blog.edgeless.systems/
-git: https://github.com/edgelesssys
+codehost: https://github.com/https://github.com/edgelesssys
 linkedin: https://linkedin.com/company/edgeless-systems
 logohandle: edgelesssystems
 sort: edgeless

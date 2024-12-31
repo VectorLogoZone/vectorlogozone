@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cortexlabs/cortex
+codehost: https://github.com/https://github.com/cortexlabs/cortex
 logohandle: cortexdev
 sort: cortex
 title: Cortex

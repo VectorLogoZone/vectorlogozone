@@ -1,6 +1,6 @@
 ---
 blog: http://blog.kubernetes.io/
-git: https://github.com/kubernetes
+codehost: https://github.com/https://github.com/kubernetes
 guide: https://github.com/kubernetes/kubernetes/tree/master/logo
 images:
 - kubernetes-icon.svg

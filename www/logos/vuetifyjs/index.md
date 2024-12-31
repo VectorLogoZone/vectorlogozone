@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vuetifyjs/vuetify
+codehost: https://github.com/https://github.com/vuetifyjs/vuetify
 logohandle: vuetifyjs
 sort: vuetifyjs
 title: Vuetify

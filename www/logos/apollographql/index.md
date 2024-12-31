@@ -1,6 +1,6 @@
 ---
 blog: https://blog.apollographql.com/
-git: https://github.com/apollographql
+codehost: https://github.com/https://github.com/apollographql
 logohandle: apollographql
 slack: https://www.apollographql.com/slack
 sort: apollographql

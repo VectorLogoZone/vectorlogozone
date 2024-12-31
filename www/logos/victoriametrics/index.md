@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@valyala
-git: https://github.com/VictoriaMetrics/VictoriaMetrics
+codehost: https://github.com/https://github.com/VictoriaMetrics/VictoriaMetrics
 logohandle: victoriametrics
 sort: victoriametrics
 title: VictoriaMetrics

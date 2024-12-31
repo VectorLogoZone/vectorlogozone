@@ -1,5 +1,5 @@
 ---
-git: https://github.com/PowerShell/PowerShell
+codehost: https://github.com/https://github.com/PowerShell/PowerShell
 logohandle: microsoft_powershell
 sort: powershell
 title: PowerShell

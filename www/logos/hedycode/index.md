@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Felienne/hedy
+codehost: https://github.com/https://github.com/Felienne/hedy
 logohandle: hedycode
 sort: hedy
 title: Hedy

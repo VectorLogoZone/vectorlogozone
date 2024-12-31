@@ -1,5 +1,5 @@
 ---
-git: https://github.com/patterns-app
+codehost: https://github.com/https://github.com/patterns-app
 linkedin: https://linkedin.com/company/patterns-app
 logohandle: patternsapp
 sort: patterns

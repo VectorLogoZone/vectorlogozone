@@ -1,5 +1,5 @@
 ---
-git: https://github.com/plasma-umass/browsix
+codehost: https://github.com/https://github.com/plasma-umass/browsix
 logohandle: browsix
 sort: browsix
 title: Browsix

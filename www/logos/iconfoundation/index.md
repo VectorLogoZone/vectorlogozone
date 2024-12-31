@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/helloiconworld
+codehost: https://github.com/https://github.com/icon-project
 facebook: https://facebook.com/helloicon
-git: https://github.com/icon-project
 logohandle: iconfoundation
 sort: icon
 title: ICON

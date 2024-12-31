@@ -1,6 +1,6 @@
 ---
 blog: https://blog.saltcorn.com/
-git: https://github.com/saltcorn/saltcorn
+codehost: https://github.com/https://github.com/saltcorn/saltcorn
 linkedin: https://linkedin.com/in/nielsentom
 logohandle: saltcorn
 sort: saltcorn

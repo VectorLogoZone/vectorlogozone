@@ -1,7 +1,7 @@
 ---
 blog: https://bugfender.com/blog
+codehost: https://github.com/https://github.com/bugfender
 facebook: https://facebook.com/bugfender
-git: https://github.com/bugfender
 linkedin: https://linkedin.com/company/bugfender
 logohandle: bugfender
 sort: bugfender

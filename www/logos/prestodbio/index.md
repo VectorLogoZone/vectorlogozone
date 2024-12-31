@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/prestodb/presto
 facebook: https://facebook.com/prestodb
-git: https://github.com/prestodb/presto
 logohandle: prestodbio
 sort: prestodb
 title: Presto

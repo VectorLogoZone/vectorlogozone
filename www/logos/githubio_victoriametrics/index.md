@@ -1,5 +1,5 @@
 ---
-git: https://github.com/VictoriaMetrics/VictoriaMetrics
+codehost: https://github.com/https://github.com/VictoriaMetrics/VictoriaMetrics
 logohandle: githubio_victoriametrics
 sort: victoriametrics
 title: VictoriaMetrics

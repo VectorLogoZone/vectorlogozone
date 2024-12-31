@@ -1,5 +1,5 @@
 ---
-git: https://github.com/scullyio/scully
+codehost: https://github.com/https://github.com/scullyio/scully
 logohandle: scullyio
 sort: scully
 title: Scully

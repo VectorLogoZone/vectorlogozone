@@ -1,5 +1,5 @@
 ---
-git: https://github.com/turbot/steampipe
+codehost: https://github.com/https://github.com/turbot/steampipe
 logohandle: steampipeio
 sort: steampipeio
 title: Steampipe.io

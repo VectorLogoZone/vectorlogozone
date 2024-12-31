@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/gristlabs/grist-core
 facebook: https://facebook.com/getgrist
-git: https://github.com/gristlabs/grist-core
 linkedin: https://linkedin.com/company/grist-labs
 logohandle: getgrist
 sort: grist

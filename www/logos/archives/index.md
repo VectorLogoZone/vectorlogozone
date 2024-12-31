@@ -1,7 +1,7 @@
 ---
 blog: https://www.archives.gov/social-media/blogs
+codehost: https://github.com/https://github.com/usnationalarchives
 facebook: http://www.facebook.com/usnationalarchives
-git: https://github.com/usnationalarchives
 images:
 - archives-ar21.svg
 - archives-icon.svg

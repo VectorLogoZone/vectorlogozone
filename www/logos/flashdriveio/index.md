@@ -1,7 +1,7 @@
 ---
 blog: https://blog.flashdrive.io/
+codehost: https://github.com/https://github.com/flashdriveio
 facebook: https://facebook.com/flashdriveio
-git: https://github.com/flashdriveio
 linkedin: https://linkedin.com/company/flashdrive
 logohandle: flashdriveio
 sort: flashdrive

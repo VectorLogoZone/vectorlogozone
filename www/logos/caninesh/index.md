@@ -1,5 +1,5 @@
 ---
-git: https://github.com/czhu12/canine
+codehost: https://github.com/https://github.com/czhu12/canine
 logohandle: caninesh
 sort: canine
 title: Canine

@@ -1,11 +1,11 @@
 ---
 blog: https://github.com/blog
+codehost: https://github.com/https://github.com/github
 font:
   myfonts: https://www.myfonts.com/fonts/k-type/collegiate/
   name: Collegiate
   note: Free for personal use
   url: http://www.k-type.com/fonts/collegiate/
-git: https://github.com/github
 guide: https://github.com/logos
 images:
 - github-ar21.svg

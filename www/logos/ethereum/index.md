@@ -1,7 +1,7 @@
 ---
 blog: https://blog.ethereum.org/
+codehost: https://github.com/https://github.com/ethereum
 facebook: https://facebook.com/ethereumproject
-git: https://github.com/ethereum
 logohandle: ethereum
 sort: ethereum
 title: Ethereum Project

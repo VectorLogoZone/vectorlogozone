@@ -1,5 +1,5 @@
 ---
-git: https://github.com/SergioBenitez/Rocket
+codehost: https://github.com/https://github.com/SergioBenitez/Rocket
 logohandle: rocketrs
 sort: rocket
 title: Rocket

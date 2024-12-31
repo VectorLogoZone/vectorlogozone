@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@babylonjs
-git: https://github.com/BabylonJS
+codehost: https://github.com/https://github.com/BabylonJS
 guide: https://github.com/BabylonJS/Brand-Toolkit
 logohandle: babylonjs
 sort: babylonjs

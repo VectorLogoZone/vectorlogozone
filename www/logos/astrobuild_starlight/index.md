@@ -1,5 +1,5 @@
 ---
-git: https://github.com/withastro/starlight
+codehost: https://github.com/https://github.com/withastro/starlight
 logohandle: astrobuild_starlight
 sort: starlight
 title: Starlight

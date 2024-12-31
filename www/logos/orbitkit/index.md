@@ -1,6 +1,6 @@
 ---
 blog: https://blog.orbitkit.com/
-git: https://github.com/orbitkit/downloader
+codehost: https://github.com/https://github.com/orbitkit/downloader
 logohandle: orbitkit
 sort: orbitkit
 title: OrbitKit

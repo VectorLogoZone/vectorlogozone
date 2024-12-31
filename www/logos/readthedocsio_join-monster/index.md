@@ -1,5 +1,5 @@
 ---
-git: https://github.com/join-monster/join-monster
+codehost: https://github.com/https://github.com/join-monster/join-monster
 logohandle: readthedocsio_join-monster
 sort: join-monster
 title: Join Monster

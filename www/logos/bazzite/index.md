@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/bazzite
+codehost: https://github.com/https://github.com/bazzite
 facebook: https://facebook.com/bazzite
-git: https://github.com/bazzite
 googleplus: https://plus.google.com/+Bazzite
 instagram: https://instagram.com/bazzitees
 linkedin: https://linkedin.com/company/bazzite

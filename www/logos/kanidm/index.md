@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kanidm/kanidm
+codehost: https://github.com/https://github.com/kanidm/kanidm
 logohandle: kanidm
 sort: kanidm
 title: Kanidm

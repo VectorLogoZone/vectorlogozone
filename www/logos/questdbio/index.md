@@ -1,5 +1,5 @@
 ---
-git: https://github.com/questdb
+codehost: https://github.com/https://github.com/questdb
 linkedin: https://linkedin.com/company/questdb
 logohandle: questdbio
 sort: questdb

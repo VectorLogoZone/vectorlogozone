@@ -1,5 +1,5 @@
 ---
-git: https://github.com/commercelayer
+codehost: https://github.com/https://github.com/commercelayer
 linkedin: https://linkedin.com/company/commerce-layer
 logohandle: commercelayerio
 sort: commercelayer

@@ -1,7 +1,7 @@
 ---
 blog: https://bulma.io/blog
+codehost: https://github.com/https://github.com/jgthms/bulma
 facebook: https://facebook.com/bulmaio
-git: https://github.com/jgthms/bulma
 logohandle: bulmaio
 sort: bulma
 title: Bulma

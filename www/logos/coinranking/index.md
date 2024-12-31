@@ -1,7 +1,7 @@
 ---
 blog: https://coinranking.com/blog
+codehost: https://github.com/https://github.com/coinranking
 facebook: https://facebook.com/CoinrankingOfficial
-git: https://github.com/coinranking
 instagram: https://instagram.com/coinrankingofficial
 linkedin: https://linkedin.com/company/coinranking
 logohandle: coinranking

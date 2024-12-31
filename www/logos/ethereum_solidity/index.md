@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ethereum/solidity
+codehost: https://github.com/https://github.com/ethereum/solidity
 guide: https://github.com/ethereum/solidity/blob/v0.4.25/docs/logo.svg
 logohandle: ethereum_solidity
 sort: solidity

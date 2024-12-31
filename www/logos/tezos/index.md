@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tezos/tezos
+codehost: https://github.com/https://github.com/tezos/tezos
 logohandle: tezos
 sort: tezos
 title: Tezos

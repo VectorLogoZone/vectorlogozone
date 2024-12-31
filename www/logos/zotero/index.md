@@ -1,7 +1,7 @@
 ---
 blog: https://zotero.org/blog
+codehost: https://github.com/https://github.com/zotero
 facebook: https://facebook.com/zotero
-git: https://github.com/zotero
 logohandle: zotero
 sort: zotero
 title: Zotero

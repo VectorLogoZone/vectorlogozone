@@ -1,5 +1,5 @@
 ---
-git: https://github.com/deepstreamIO
+codehost: https://github.com/https://github.com/deepstreamIO
 logohandle: deepstreamio
 sort: deepstream
 title: Deepstream.io

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/modxcms
 facebook: https://facebook.com/modxcms
-git: https://github.com/modxcms
 googleplus: https://plus.google.com/+modx
 linkedin: https://linkedin.com/company/modx
 logohandle: modx

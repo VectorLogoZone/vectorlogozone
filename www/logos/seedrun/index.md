@@ -1,5 +1,5 @@
 ---
-git: https://github.com/seed-run
+codehost: https://github.com/https://github.com/seed-run
 linkedin: https://linkedin.com/company/seed-run
 logohandle: seedrun
 sort: seedrun

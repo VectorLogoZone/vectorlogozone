@@ -1,5 +1,5 @@
 ---
-git: https://github.com/faucetsdn/faucet
+codehost: https://github.com/https://github.com/faucetsdn/faucet
 logohandle: faucetnz
 sort: faucet
 title: Faucet

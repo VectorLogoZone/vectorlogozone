@@ -1,7 +1,7 @@
 ---
 blog: https://blog.quasar.dev/
+codehost: https://github.com/https://github.com/quasarframework
 facebook: https://www.facebook.com/QuasarFramework
-git: https://github.com/quasarframework
 logohandle: quasardev
 sort: quasar
 title: Quasar Framework

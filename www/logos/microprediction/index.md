@@ -1,7 +1,7 @@
 ---
 blog: https://microprediction.com/blog
+codehost: https://github.com/https://github.com/microprediction/microprediction
 facebook: https://facebook.com/microprediction
-git: https://github.com/microprediction/microprediction
 linkedin: https://linkedin.com/company/microprediction
 logohandle: microprediction
 sort: microprediction

@@ -1,7 +1,7 @@
 ---
 blog: http://yusukekamiyamane.com/blog/
+codehost: https://github.com/https://github.com/yusukekamiyamane
 facebook: http://www.facebook.com/yusuke.kamiyamane
-git: https://github.com/yusukekamiyamane
 logohandle: yusukekamiyamane
 sort: fugue_icons
 tags:

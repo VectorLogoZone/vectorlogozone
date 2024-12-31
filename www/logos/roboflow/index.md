@@ -1,6 +1,6 @@
 ---
 blog: https://blog.roboflow.com/
-git: https://github.com/roboflow
+codehost: https://github.com/https://github.com/roboflow
 logohandle: roboflow
 sort: roboflow
 title: Roboflow

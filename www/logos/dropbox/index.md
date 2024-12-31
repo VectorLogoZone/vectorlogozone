@@ -1,12 +1,12 @@
 ---
 blog: https://blog.dropbox.com/
+codehost: https://github.com/https://github.com/dropbox
 colors:
 - '#0061FE'
 facebook: https://www.facebook.com/Dropbox
 font:
   myfonts: https://www.myfonts.com/fonts/itc/franklin/std-narrow-bold/
   name: ITC Franklin Std Narrow Bold
-git: https://github.com/dropbox
 guide: https://www.dropbox.com/branding
 images:
 - dropbox-official.svg

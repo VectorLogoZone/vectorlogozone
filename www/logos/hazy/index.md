@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/hazy
 facebook: https://facebook.com/hazyAI
-git: https://github.com/hazy
 linkedin: https://linkedin.com/company/hazy-ai
 logohandle: hazy
 sort: hazy

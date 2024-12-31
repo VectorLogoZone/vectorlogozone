@@ -1,6 +1,6 @@
 ---
 blog: https://litestream.io/blog
-git: https://github.com/benbjohnson/litestream
+codehost: https://github.com/https://github.com/benbjohnson/litestream
 logohandle: litestreamio
 sort: litestream
 title: Litestream

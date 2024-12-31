@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/katacoda
 facebook: https://facebook.com/katacoda
-git: https://github.com/katacoda
 logohandle: katacoda
 sort: katacoda
 title: Katacoda

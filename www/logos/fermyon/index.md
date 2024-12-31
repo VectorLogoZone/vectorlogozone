@@ -1,6 +1,6 @@
 ---
 blog: https://fermyon.com/blog/index
-git: https://github.com/fermyon
+codehost: https://github.com/https://github.com/fermyon
 logohandle: fermyon
 sort: fermyon
 title: Fermyon

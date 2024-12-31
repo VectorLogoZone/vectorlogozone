@@ -1,5 +1,5 @@
 ---
-git: https://github.com/opensourcediversity
+codehost: https://github.com/https://github.com/opensourcediversity
 logohandle: monopoliesnet
 sort: monopolies
 title: Digital Monopolies

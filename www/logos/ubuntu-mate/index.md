@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/ubuntu-mate
 facebook: https://facebook.com/UbuntuMATEedition
-git: https://github.com/ubuntu-mate
 logohandle: ubuntu-mate
 sort: ubuntu-mate
 title: Ubuntu MATE

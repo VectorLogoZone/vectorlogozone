@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/apisix
+codehost: https://github.com/https://github.com/apache/apisix
 logohandle: apache_apisix
 sort: apisix
 tags:

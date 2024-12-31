@@ -1,5 +1,5 @@
 ---
-git: https://github.com/aidenybai/million
+codehost: https://github.com/https://github.com/aidenybai/million
 logohandle: milliondev
 sort: millionjs
 title: Million.js

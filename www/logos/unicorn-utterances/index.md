@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/unicorn-utterances/unicorn-utterances
 facebook: https://facebook.com/Unicorn-Utterances-104838014459905
-git: https://github.com/unicorn-utterances/unicorn-utterances
 linkedin: https://linkedin.com/company/unicorn-utterances
 logohandle: unicorn-utterances
 sort: unicorn-utterances

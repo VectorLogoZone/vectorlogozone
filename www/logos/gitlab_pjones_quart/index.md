@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pgjones/quart
+codehost: https://github.com/https://github.com/pgjones/quart
 guide: https://github.com/koddr/quart-logo
 logohandle: gitlab_pjones_quart
 sort: quart

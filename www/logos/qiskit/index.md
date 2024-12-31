@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/Qiskit
+codehost: https://github.com/https://github.com/Qiskit
 facebook: https://www.facebook.com/Qiskit
-git: https://github.com/Qiskit
 logohandle: qiskit
 slack: https://qiskit.slack.com/
 sort: qiskit

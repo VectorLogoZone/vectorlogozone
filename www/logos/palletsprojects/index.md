@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pallets
+codehost: https://github.com/https://github.com/pallets
 logohandle: palletsprojects
 sort: palletsprojects
 title: Pallets Projects

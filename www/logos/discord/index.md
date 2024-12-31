@@ -1,5 +1,6 @@
 ---
 blog: https://discord.com/blog
+codehost: https://github.com/https://github.com/discordapp
 colors:
 - '#7289DA'
 - '#FFFFFF'
@@ -11,7 +12,6 @@ font:
   myfonts: https://www.myfonts.com/fonts/font-fabric/uni-sans/
   name: Uni Sans
   url: http://www.fontfabric.com/uni-sans-free/
-git: https://github.com/discordapp
 guide: https://discord.com/branding
 images:
 - discordapp-official.svg

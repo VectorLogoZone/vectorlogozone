@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/oasis-protocol-project
-git: https://github.com/oasislabs
+codehost: https://github.com/https://github.com/oasislabs
 logohandle: oasis-protocol
 sort: oasis-protocol
 title: Oasis Protocol

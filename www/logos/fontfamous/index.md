@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jsdelivr/fontfamous.github.io
+codehost: https://github.com/https://github.com/jsdelivr/fontfamous.github.io
 logohandle: fontfamous
 sort: fontfamous
 title: Font Famous

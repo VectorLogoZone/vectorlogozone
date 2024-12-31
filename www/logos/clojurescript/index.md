@@ -1,5 +1,5 @@
 ---
-git: https://github.com/clojure/clojurescript
+codehost: https://github.com/https://github.com/clojure/clojurescript
 logohandle: clojurescript
 sort: clojurescript
 title: ClojureScript

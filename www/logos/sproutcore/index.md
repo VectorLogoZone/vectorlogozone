@@ -1,7 +1,7 @@
 ---
 blog: http://blog.sproutcore.com/
+codehost: https://github.com/https://github.com/sproutcore/sproutcore
 facebook: http://facebook.com/sproutcore
-git: https://github.com/sproutcore/sproutcore
 guide: http://sproutcore.com/about/#tab=logos
 logohandle: sproutcore
 sort: sproutcore

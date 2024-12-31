@@ -1,5 +1,5 @@
 ---
-git: https://github.com/google/certificate-transparency
+codehost: https://github.com/https://github.com/google/certificate-transparency
 logohandle: certificate-transparency
 sort: certificate-transparency
 title: Certificate Transparency

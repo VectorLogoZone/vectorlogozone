@@ -1,11 +1,11 @@
 ---
 blog: https://dribbble.com/stories
+codehost: https://github.com/https://github.com/dribbble
 colors:
 - '#EA4C89'
 - '#B2215A'
 dribbble: dribbble
 facebook: https://www.facebook.com/dribbble
-git: https://github.com/dribbble
 guide: https://dribbble.com/branding
 images:
 - dribbble-icon.svg

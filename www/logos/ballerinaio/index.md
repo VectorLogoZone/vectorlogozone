@@ -1,6 +1,6 @@
 ---
 blog: https://blog.ballerina.io/
-git: https://github.com/ballerina-platform
+codehost: https://github.com/https://github.com/ballerina-platform
 logohandle: ballerinaio
 other:
 - name: StackOverflow

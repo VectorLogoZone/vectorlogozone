@@ -1,6 +1,6 @@
 ---
 blog: https://hop.apache.org/blog/
-git: https://github.com/apache/hop
+codehost: https://github.com/https://github.com/apache/hop
 linkedin: https://linkedin.com/company/apachehop
 logohandle: apache_hop
 sort: hop

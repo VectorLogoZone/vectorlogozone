@@ -1,10 +1,10 @@
 ---
 blog: http://blog.digg.com/
+codehost: https://github.com/https://github.com/digg
 facebook: https://www.facebook.com/digg
 font:
   name: FFF Forward
   url: https://www.ffonts.net/FFF-Forward.font
-git: https://github.com/digg
 images:
 - digg-icon.svg
 - digg-ar21.svg

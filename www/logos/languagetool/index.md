@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/languagetool-org
 facebook: https://facebook.com/LanguageTool
-git: https://github.com/languagetool-org
 instagram: https://instagram.com/languagetool
 linkedin: https://linkedin.com/company/languagetool
 logohandle: languagetool

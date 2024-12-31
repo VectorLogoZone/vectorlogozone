@@ -1,5 +1,5 @@
 ---
-git: https://github.com/BestImageViewer/geeqie
+codehost: https://github.com/https://github.com/BestImageViewer/geeqie
 logohandle: geeqie
 sort: geeqie
 title: Geeqie

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/clearlydefined
+codehost: https://github.com/https://github.com/clearlydefined
 logohandle: clearlydefinedio
 sort: clearlydefined
 title: ClearlyDefined

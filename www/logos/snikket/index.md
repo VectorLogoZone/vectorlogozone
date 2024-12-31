@@ -1,5 +1,5 @@
 ---
-git: https://github.com/snikket-im
+codehost: https://github.com/https://github.com/snikket-im
 logohandle: snikket
 sort: snikket
 title: Snikket

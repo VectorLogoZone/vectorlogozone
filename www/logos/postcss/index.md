@@ -1,5 +1,5 @@
 ---
-git: https://github.com/postcss/postcss
+codehost: https://github.com/https://github.com/postcss/postcss
 logohandle: postcss
 sort: postcss
 title: PostCSS

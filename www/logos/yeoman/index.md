@@ -1,6 +1,6 @@
 ---
 blog: http://yeoman.io/blog/
-git: https://github.com/yeoman
+codehost: https://github.com/https://github.com/yeoman
 guide: https://github.com/yeoman/media
 images:
 - yeoman-official.svg

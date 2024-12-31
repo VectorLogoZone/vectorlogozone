@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jackrobertscott/authpack
+codehost: https://github.com/https://github.com/jackrobertscott/authpack
 logohandle: authpackio
 sort: authpack
 title: Authpack

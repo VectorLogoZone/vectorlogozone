@@ -1,5 +1,5 @@
 ---
-git: https://github.com/MohammadYounes/AlertifyJS/
+codehost: https://github.com/https://github.com/MohammadYounes/AlertifyJS/
 images:
 - alertifyjs-icon.svg
 - alertifyjs-ar21.svg

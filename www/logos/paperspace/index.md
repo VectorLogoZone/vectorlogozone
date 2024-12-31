@@ -1,7 +1,7 @@
 ---
 blog: http://blog.paperspace.com/
+codehost: https://github.com/https://github.com/Paperspace
 facebook: https://facebook.com/HelloPaperspace
-git: https://github.com/Paperspace
 instagram: https://instagram.com/hellopaperspace
 linkedin: https://linkedin.com/company/paperspace
 logohandle: paperspace

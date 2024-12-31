@@ -1,6 +1,6 @@
 ---
 blog: https://blog.standardnotes.com/
-git: https://github.com/standardnotes/web
+codehost: https://github.com/https://github.com/standardnotes/web
 logohandle: standardnotes
 sort: standardnotes
 title: Standard Notes

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/particl
+codehost: https://github.com/https://github.com/particl
 logohandle: particlio
 sort: particl
 title: Particl.io

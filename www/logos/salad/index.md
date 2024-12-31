@@ -1,6 +1,6 @@
 ---
 blog: https://blog.salad.com/
-git: https://github.com/SaladTechnologies
+codehost: https://github.com/https://github.com/SaladTechnologies
 linkedin: https://linkedin.com/company/salad-technologies
 logohandle: salad
 sort: salad

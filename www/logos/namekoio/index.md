@@ -1,5 +1,5 @@
 ---
-git: https://github.com/nameko/nameko
+codehost: https://github.com/https://github.com/nameko/nameko
 logohandle: namekoio
 sort: nameko
 title: Nameko

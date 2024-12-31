@@ -1,6 +1,6 @@
 ---
 blog: https://datawire.io/blog
-git: https://github.com/datawire
+codehost: https://github.com/https://github.com/datawire
 logohandle: datawireio
 sort: datawire
 title: Datawire

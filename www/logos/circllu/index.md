@@ -1,5 +1,5 @@
 ---
-git: https://github.com/CIRCL
+codehost: https://github.com/https://github.com/CIRCL
 keywords:
 - Computer Incident Response Center Luxembourg
 logohandle: circllu

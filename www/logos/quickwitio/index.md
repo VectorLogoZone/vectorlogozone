@@ -1,5 +1,5 @@
 ---
-git: https://github.com/quickwit-inc
+codehost: https://github.com/https://github.com/quickwit-inc
 linkedin: https://linkedin.com/company/quickwit-inc
 logohandle: quickwitio
 sort: quickwit

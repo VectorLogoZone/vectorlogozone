@@ -1,5 +1,5 @@
 ---
-git: https://github.com/sylvainjule/kirby-matomo
+codehost: https://github.com/https://github.com/sylvainjule/kirby-matomo
 logohandle: getkirby
 sort: kirby
 title: Kirby

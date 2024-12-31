@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/exercism
 facebook: https://facebook.com/exercism.io
-git: https://github.com/exercism
 logohandle: exercism
 sort: exercism
 title: Exercism

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/BunsenLabs
 facebook: https://www.facebook.com/groups/43721619798/
-git: https://github.com/BunsenLabs
 googleplus: https://plus.google.com/communities/102155480089831191422
 guide: https://github.com/BunsenLabs/website/tree/master/src/img
 logohandle: bunsenlabs

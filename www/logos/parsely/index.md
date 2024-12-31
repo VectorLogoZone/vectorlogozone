@@ -1,6 +1,6 @@
 ---
 blog: https://blog.parse.ly/
-git: https://github.com/parsely
+codehost: https://github.com/https://github.com/parsely
 guide: https://www.parse.ly/press-kit
 linkedin: https://linkedin.com/company/parsely-inc-
 logohandle: parsely

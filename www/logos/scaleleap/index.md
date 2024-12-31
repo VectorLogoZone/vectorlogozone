@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/ScaleLeap
 facebook: https://facebook.com/ScaleLeap
-git: https://github.com/ScaleLeap
 logohandle: scaleleap
 sort: scaleleap
 title: ScaleLeap

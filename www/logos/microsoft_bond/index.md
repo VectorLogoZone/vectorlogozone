@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Microsoft/bond
+codehost: https://github.com/https://github.com/Microsoft/bond
 logohandle: microsoft_bond
 sort: bond
 title: Bond

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Uniswap
+codehost: https://github.com/https://github.com/Uniswap
 logohandle: uniswap
 sort: uniswap
 title: Uniswap

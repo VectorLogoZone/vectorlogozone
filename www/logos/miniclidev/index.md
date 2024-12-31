@@ -1,5 +1,5 @@
 ---
-git: https://github.com/minicli/minicli
+codehost: https://github.com/https://github.com/minicli/minicli
 logohandle: miniclidev
 sort: minicli
 title: Minicli

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.bigchaindb.com/
+codehost: https://github.com/https://github.com/bigchaindb
 facebook: https://facebook.com/BigchainDB
-git: https://github.com/bigchaindb
 logohandle: bigchaindb
 sort: bigchaindb
 title: BigchainDB

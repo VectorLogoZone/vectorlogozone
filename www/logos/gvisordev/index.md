@@ -1,6 +1,6 @@
 ---
 blog: https://gvisor.dev/blog/
-git: https://github.com/google/gvisor
+codehost: https://github.com/https://github.com/google/gvisor
 logohandle: gvisordev
 sort: gvisor
 title: gVisor

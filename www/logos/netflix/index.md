@@ -1,11 +1,11 @@
 ---
 blog: https://media.netflix.com/en/company-blog/
+codehost: https://github.com/https://github.com/netflix
 facebook: https://www.facebook.com/netflixus
 font:
   myfonts: https://www.myfonts.com/fonts/flat-it/bebas-neue/
   name: Bebas Neue
   note: pre-2014 font was Graphique
-git: https://github.com/netflix
 guide: https://media.netflix.com/en/company-assets
 images:
 - netflix-icon.svg

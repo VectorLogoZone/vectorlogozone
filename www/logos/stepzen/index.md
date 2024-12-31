@@ -1,5 +1,5 @@
 ---
-git: https://github.com/stepzen-dev
+codehost: https://github.com/https://github.com/stepzen-dev
 logohandle: stepzen
 sort: stepzen
 title: StepZen

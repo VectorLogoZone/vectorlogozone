@@ -1,7 +1,7 @@
 ---
 blog: https://www.grubhub.com/thecrave/
+codehost: https://github.com/https://github.com/grubhub
 facebook: https://www.facebook.com/grubhub
-git: https://github.com/grubhub
 guide: https://media.grubhub.com/media/multimedia/logos/default.aspx
 images:
 - grubhub-ar21.svg

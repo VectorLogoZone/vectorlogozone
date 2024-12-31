@@ -1,7 +1,7 @@
 ---
 blog: https://bigbluebutton.org/blog
+codehost: https://github.com/https://github.com/bigbluebutton
 facebook: https://facebook.com/bigbluebutton
-git: https://github.com/bigbluebutton
 logohandle: bigbluebutton
 sort: bigbluebutton
 title: BigBlueButton

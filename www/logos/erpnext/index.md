@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/erpnext
 facebook: https://facebook.com/ERPNext
-git: https://github.com/erpnext
 instagram: https://instagram.com/frappetech
 logohandle: erpnext
 sort: erpnext

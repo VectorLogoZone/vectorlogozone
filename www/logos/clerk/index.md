@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/clerkinc
 facebook: https://facebook.com/clerkdev
-git: https://github.com/clerkinc
 linkedin: https://linkedin.com/company/clerkinc
 logohandle: clerk
 sort: clerk

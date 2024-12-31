@@ -1,5 +1,5 @@
 ---
-git: https://github.com/malleable-systems
+codehost: https://github.com/https://github.com/malleable-systems
 logohandle: malleablesystems
 sort: malleable
 title: Malleable Systems Collective

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/CityOfPhiladelphia
 facebook: https://facebook.com/cityofphiladelphia
-git: https://github.com/CityOfPhiladelphia
 instagram: https://instagram.com/cityofphiladelphia
 linkedin: https://linkedin.com/showcase/phlcitycareers
 logohandle: philagov

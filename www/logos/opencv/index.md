@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/opencv/opencv
 facebook: https://facebook.com/opencvlibrary
-git: https://github.com/opencv/opencv
 googleplus: https://plus.google.com/+OpencvOrg
 logohandle: opencv
 sort: opencv

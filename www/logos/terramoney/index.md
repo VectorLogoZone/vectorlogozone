@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/terra-money
-git: https://github.com/terra-money
+codehost: https://github.com/https://github.com/terra-money
 logohandle: terramoney
 sort: terra
 title: Terra

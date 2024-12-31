@@ -1,6 +1,6 @@
 ---
 blog: https://qdrant.tech/blog/
-git: https://github.com/qdrant/qdrant
+codehost: https://github.com/https://github.com/qdrant/qdrant
 linkedin: https://linkedin.com/company/qdrant
 logohandle: qdranttech
 sort: qdrant

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/gbif
 facebook: https://facebook.com/gbifnews
-git: https://github.com/gbif
 instagram: https://instagram.com/gbifs
 keywords:
 - Global Biodiversity Information Facility

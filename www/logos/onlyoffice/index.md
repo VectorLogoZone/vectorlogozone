@@ -1,7 +1,7 @@
 ---
 blog: http://onlyoffice.com/blog
+codehost: https://github.com/https://github.com/ONLYOFFICE
 facebook: https://facebook.com/OnlyOffice-833032526736775
-git: https://github.com/ONLYOFFICE
 instagram: https://instagram.com/the_onlyoffice
 logohandle: onlyoffice
 sort: onlyoffice

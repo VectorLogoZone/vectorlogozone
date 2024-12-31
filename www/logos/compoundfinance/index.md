@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/compound-finance
-git: https://github.com/compound-finance/compound-protocol
+codehost: https://github.com/https://github.com/compound-finance/compound-protocol
 logohandle: compoundfinance
 sort: compound
 title: Compound

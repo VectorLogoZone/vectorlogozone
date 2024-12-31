@@ -1,5 +1,5 @@
 ---
-git: https://github.com/umijs/umi
+codehost: https://github.com/https://github.com/umijs/umi
 logohandle: umijs
 sort: umijs
 title: UmiJS

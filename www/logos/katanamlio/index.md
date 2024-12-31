@@ -1,5 +1,5 @@
 ---
-git: https://github.com/katanaml/katana-skipper
+codehost: https://github.com/https://github.com/katanaml/katana-skipper
 logohandle: katanamlio
 sort: katanaml
 title: Katana ML

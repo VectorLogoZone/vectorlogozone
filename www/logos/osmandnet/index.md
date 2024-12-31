@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/osmandapp
 facebook: https://facebook.com/osmandapp
-git: https://github.com/osmandapp
 logohandle: osmandnet
 sort: osmand
 title: OsmAnd

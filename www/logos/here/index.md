@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/heremaps
 facebook: https://facebook.com/here
-git: https://github.com/heremaps
 instagram: https://instagram.com/here
 linkedin: https://linkedin.com/company/here
 logohandle: here

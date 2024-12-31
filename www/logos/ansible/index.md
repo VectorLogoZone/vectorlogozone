@@ -1,7 +1,7 @@
 ---
 blog: https://ansible.com/blog
+codehost: https://github.com/https://github.com/ansible/ansible
 facebook: https://facebook.com/ansibleautomation
-git: https://github.com/ansible/ansible
 logohandle: ansible
 sort: ansible
 title: Ansible

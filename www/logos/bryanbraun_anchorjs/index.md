@@ -1,5 +1,5 @@
 ---
-git: https://github.com/bryanbraun/anchorjs
+codehost: https://github.com/https://github.com/bryanbraun/anchorjs
 logohandle: bryanbraun_anchorjs
 sort: anchorjs
 title: AnchorJS

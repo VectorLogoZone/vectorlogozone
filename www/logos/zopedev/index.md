@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zopefoundation
+codehost: https://github.com/https://github.com/zopefoundation
 logohandle: zopedev
 sort: zope
 title: Zope

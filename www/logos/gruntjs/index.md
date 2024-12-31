@@ -1,6 +1,6 @@
 ---
 blog: https://gruntjs.com/blog
-git: https://github.com/gruntjs
+codehost: https://github.com/https://github.com/gruntjs
 logohandle: gruntjs
 sort: gruntjs
 title: Grunt

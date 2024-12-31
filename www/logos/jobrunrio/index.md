@@ -1,6 +1,6 @@
 ---
 blog: https://jobrunr.io/blog/
-git: https://github.com/jobrunr/jobrunr
+codehost: https://github.com/https://github.com/jobrunr/jobrunr
 logohandle: jobrunrio
 sort: jobrunr
 title: JobRunr

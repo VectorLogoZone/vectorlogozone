@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ArroyoSystems/arroyo
+codehost: https://github.com/https://github.com/ArroyoSystems/arroyo
 logohandle: arroyodev
 sort: arroyo
 title: Arroyo

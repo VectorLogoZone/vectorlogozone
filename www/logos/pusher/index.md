@@ -1,6 +1,6 @@
 ---
 blog: https://blog.pusher.com/
-git: https://github.com/pusher
+codehost: https://github.com/https://github.com/pusher
 linkedin: https://linkedin.com/company/pusher-app
 logohandle: pusher
 sort: pusher

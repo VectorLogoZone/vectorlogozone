@@ -1,5 +1,5 @@
 ---
-git: https://github.com/sintaxi/harp
+codehost: https://github.com/https://github.com/sintaxi/harp
 logohandle: harpjs
 sort: harpjs
 title: Harp

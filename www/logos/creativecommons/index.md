@@ -1,12 +1,12 @@
 ---
 blog: https://creativecommons.org/blog/
+codehost: https://github.com/https://github.com/creativecommons
 facebook: https://www.facebook.com/creativecommons
 font:
   freename: HK Grotesk
   freeurl: https://hanken.co/product/hk-grotesk/
   name: Akzidenz Grotesk Bold
   url: https://www.bertholdtypes.com/font/akzidenz-grotesk/standard/
-git: https://github.com/creativecommons
 guide: https://creativecommons.org/about/downloads/
 images:
 - creativecommons-ar21.svg

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/qri-io
-git: https://github.com/qri-io
+codehost: https://github.com/https://github.com/qri-io
 logohandle: qriio
 sort: qri
 title: QRI

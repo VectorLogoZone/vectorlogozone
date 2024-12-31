@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/centerforopenscience
 facebook: https://www.facebook.com/CenterForOpenScience/
-git: https://github.com/centerforopenscience
 logohandle: osfio
 sort: osf
 title: Open Science Framework

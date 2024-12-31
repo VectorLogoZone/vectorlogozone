@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/tinkerpop
+codehost: https://github.com/https://github.com/apache/tinkerpop
 logohandle: apache_tinkerpop
 sort: tinkerpop
 tags:

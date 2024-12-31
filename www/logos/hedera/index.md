@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/hashgraph
+codehost: https://github.com/https://github.com/hashgraph
 facebook: https://facebook.com/hashgraph
-git: https://github.com/hashgraph
 linkedin: https://linkedin.com/company/hashgraph
 logohandle: hedera
 sort: hedera

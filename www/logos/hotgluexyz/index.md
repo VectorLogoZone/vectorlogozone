@@ -1,5 +1,5 @@
 ---
-git: https://github.com/hotgluexyz
+codehost: https://github.com/https://github.com/hotgluexyz
 logohandle: hotgluexyz
 sort: hotglue
 title: Hotglue

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/nanovms/ops
+codehost: https://github.com/https://github.com/nanovms/ops
 logohandle: opscity
 sort: ops
 title: OPS

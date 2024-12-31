@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kakao
+codehost: https://github.com/https://github.com/kakao
 images:
 - kakaocorp_talk-icon.svg
 - kakaocorp_talk-ar21.svg

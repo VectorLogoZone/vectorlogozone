@@ -1,5 +1,5 @@
 ---
-git: https://github.com/crabnebula-dev
+codehost: https://github.com/https://github.com/crabnebula-dev
 linkedin: https://linkedin.com/company/crabnebula
 logohandle: crabnebuladev
 sort: crabnebula

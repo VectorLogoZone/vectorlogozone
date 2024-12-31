@@ -1,6 +1,6 @@
 ---
 blog: https://www.foundationdb.org/blog/
-git: https://github.com/apple/foundationdb
+codehost: https://github.com/https://github.com/apple/foundationdb
 logohandle: foundationdb
 sort: foundationdb
 title: FoundationDB

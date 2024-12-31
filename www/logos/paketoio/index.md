@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/paketo-buildpacks
-git: https://github.com/paketo-buildpacks
+codehost: https://github.com/https://github.com/paketo-buildpacks
 logohandle: paketoio
 sort: paketo
 title: Paketo

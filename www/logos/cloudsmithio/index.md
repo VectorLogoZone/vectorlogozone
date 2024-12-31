@@ -1,7 +1,7 @@
 ---
 blog: https://blog.cloudsmith.io/
+codehost: https://github.com/https://github.com/cloudsmith-io
 facebook: https://facebook.com/cloudsmith.io
-git: https://github.com/cloudsmith-io
 linkedin: https://linkedin.com/company/cloudsmith
 logohandle: cloudsmithio
 sort: cloudsmith

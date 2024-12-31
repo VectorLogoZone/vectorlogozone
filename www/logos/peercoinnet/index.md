@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/peercoin
 facebook: https://facebook.com/Peercoin
-git: https://github.com/peercoin
 googleplus: https://plus.google.com/+PeercoinNet
 logohandle: peercoinnet
 sort: peercoin

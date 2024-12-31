@@ -1,5 +1,5 @@
 ---
-git: https://github.com/keygen-sh
+codehost: https://github.com/https://github.com/keygen-sh
 logohandle: keygensh
 sort: keygen
 title: Keygen

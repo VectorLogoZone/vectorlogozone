@@ -1,7 +1,7 @@
 ---
 blog: https://blog.logrocket.com/
+codehost: https://github.com/https://github.com/logrocket
 facebook: https://facebook.com/logrocket
-git: https://github.com/logrocket
 logohandle: logrocket
 sort: logrocket
 title: LogRocket

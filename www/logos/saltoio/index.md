@@ -1,5 +1,5 @@
 ---
-git: https://github.com/salto-io/salto
+codehost: https://github.com/https://github.com/salto-io/salto
 linkedin: https://linkedin.com/company/salto-io
 logohandle: saltoio
 sort: salto

@@ -1,6 +1,6 @@
 ---
 blog: https://obsproject.com/blog
-git: https://github.com/obsproject/obs-studio
+codehost: https://github.com/https://github.com/obsproject/obs-studio
 logohandle: obsproject
 sort: obsproject
 title: Open Broadcaster Software

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ClickHouse/ClickHouse
+codehost: https://github.com/https://github.com/ClickHouse/ClickHouse
 logohandle: clickhousetech
 sort: clickhouse
 title: ClickHouse

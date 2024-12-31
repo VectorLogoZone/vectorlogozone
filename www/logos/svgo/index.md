@@ -1,5 +1,5 @@
 ---
-git: https://github.com/svg/svgo
+codehost: https://github.com/https://github.com/svg/svgo
 images:
 - svgo-icon.svg
 - svgo-ar21.svg

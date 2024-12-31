@@ -1,6 +1,6 @@
 ---
 blog: https://datastation.multiprocess.io/blog/
-git: https://github.com/multiprocessio
+codehost: https://github.com/https://github.com/multiprocessio
 logohandle: multiprocessio
 sort: multiprocess
 title: Multiprocess Labs

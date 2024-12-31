@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/coqui-ai
 facebook: https://facebook.com/coquiai
-git: https://github.com/coqui-ai
 linkedin: https://linkedin.com/company/coqui-ai
 logohandle: coquiai
 sort: coqui

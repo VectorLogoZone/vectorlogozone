@@ -1,6 +1,6 @@
 ---
 blog: https://www.cockroachlabs.com/blog/
-git: https://github.com/cockroachdb
+codehost: https://github.com/https://github.com/cockroachdb
 gitter: https://gitter.im/cockroachdb/cockroach
 logohandle: cockroachlabs
 sort: cockroachlabs

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/microconfig/microconfig
+codehost: https://github.com/https://github.com/microconfig/microconfig
 logohandle: microconfigio
 sort: microconfig
 title: Microconfig.io

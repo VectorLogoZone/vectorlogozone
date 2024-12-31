@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tidyverse/dplyr
+codehost: https://github.com/https://github.com/tidyverse/dplyr
 logohandle: tidyverse_dplyr
 sort: dplyr
 title: dplyr

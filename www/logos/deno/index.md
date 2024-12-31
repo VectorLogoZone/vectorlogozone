@@ -1,6 +1,6 @@
 ---
 activitypub: https://fosstodon.org/@deno_land
-git: https://github.com/denoland/deno
+codehost: https://github.com/https://github.com/denoland/deno
 logohandle: deno
 sort: deno
 title: Deno

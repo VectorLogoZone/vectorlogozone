@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/Tribler/tribler
 facebook: https://facebook.com/TriblerTeam
-git: https://github.com/Tribler/tribler
 logohandle: tribler
 sort: tribler
 title: Tribler

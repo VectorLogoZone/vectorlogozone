@@ -1,5 +1,5 @@
 ---
-git: https://github.com/modal-labs
+codehost: https://github.com/https://github.com/modal-labs
 linkedin: https://linkedin.com/company/modal-labs
 logohandle: modal
 sort: modal

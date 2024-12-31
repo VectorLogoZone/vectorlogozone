@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dioxuslabs/dioxus
+codehost: https://github.com/https://github.com/dioxuslabs/dioxus
 logohandle: dioxuslabs
 sort: dioxus
 title: Dioxus

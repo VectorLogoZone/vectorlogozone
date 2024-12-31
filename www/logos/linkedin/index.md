@@ -1,12 +1,12 @@
 ---
 blog: https://blog.linkedin.com/
+codehost: https://github.com/https://github.com/linkedin
 colors:
 - '#0077B5'
 facebook: https://www.facebook.com/LinkedIn/
 font:
   myfonts: https://www.myfonts.com/fonts/adobe/myriad/black/
   name: Myriad Pro Bold/Black
-git: https://github.com/linkedin
 guide: https://brand.linkedin.com/
 images:
 - linkedin-icon.svg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/universalviewer/universalviewer
+codehost: https://github.com/https://github.com/universalviewer/universalviewer
 logohandle: universalviewerio
 sort: universalviewer
 title: Universal Viewer

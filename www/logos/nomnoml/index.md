@@ -1,5 +1,5 @@
 ---
-git: https://github.com/skanaar/nomnoml
+codehost: https://github.com/https://github.com/skanaar/nomnoml
 logohandle: nomnoml
 sort: nomnoml
 title: nomnoml

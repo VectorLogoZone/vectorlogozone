@@ -1,5 +1,5 @@
 ---
-git: https://github.com/google/jsonnet
+codehost: https://github.com/https://github.com/google/jsonnet
 logohandle: jsonnet
 sort: jsonnet
 title: Jsonnet

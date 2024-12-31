@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Kong/kuma
+codehost: https://github.com/https://github.com/Kong/kuma
 logohandle: kumaio
 sort: kuma
 title: Kuma

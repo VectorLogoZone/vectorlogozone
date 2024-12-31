@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pikapkg/snowpack
+codehost: https://github.com/https://github.com/pikapkg/snowpack
 logohandle: snowpackdev
 sort: snowpack
 title: Snowpack

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pagekite/libpagekite
+codehost: https://github.com/https://github.com/pagekite/libpagekite
 logohandle: pagekitenet
 sort: pagekite
 title: Pagekite

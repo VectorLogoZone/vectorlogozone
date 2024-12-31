@@ -1,6 +1,6 @@
 ---
 blog: https://codeinwp.com/blog
-git: https://github.com/socketio/socket.io
+codehost: https://github.com/https://github.com/socketio/socket.io
 logohandle: socketio
 slack: https://slackin-socketio.now.sh/
 sort: socketio

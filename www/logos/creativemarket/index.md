@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/muicss/loadjs
 facebook: https://facebook.com/crtvmrkt
-git: https://github.com/muicss/loadjs
 googleplus: http://plus.google.com/108290068148911467527
 logohandle: creativemarket
 pinterest: http://pinterest.com/creativemarket

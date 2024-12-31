@@ -1,6 +1,6 @@
 ---
 blog: http://blog.ipfs.io/
-git: https://github.com/ipfs/ipfs
+codehost: https://github.com/https://github.com/ipfs/ipfs
 googleplus: https://plus.google.com/108638684245894749879
 logohandle: ipfsio
 sort: ipfs

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/MarlinFirmware/Marlin
 facebook: https://facebook.com/groups/1049718498464482
-git: https://github.com/MarlinFirmware/Marlin
 logohandle: marlinfw
 sort: marlinfw
 title: Marlin Firmware

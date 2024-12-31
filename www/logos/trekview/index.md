@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/trek-view
 facebook: https://facebook.com/trekview
-git: https://github.com/trek-view
 instagram: https://instagram.com/trekviewed
 linkedin: https://linkedin.com/company/52173673
 logohandle: trekview

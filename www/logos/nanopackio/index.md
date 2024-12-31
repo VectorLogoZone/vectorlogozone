@@ -1,5 +1,5 @@
 ---
-git: https://github.com/nanopack
+codehost: https://github.com/https://github.com/nanopack
 logohandle: nanopackio
 sort: nanopack
 title: Nanopack

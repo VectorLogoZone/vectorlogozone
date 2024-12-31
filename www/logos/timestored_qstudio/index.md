@@ -1,5 +1,5 @@
 ---
-git: https://github.com/timeseries/qstudioopen
+codehost: https://github.com/https://github.com/timeseries/qstudioopen
 logohandle: timestored_qstudio
 sort: qstudio
 title: qStudio

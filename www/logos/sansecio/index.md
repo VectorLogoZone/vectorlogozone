@@ -1,6 +1,6 @@
 ---
 blog: https://business.adobe.com/blog/the-latest/secure-your-storefront-enhanced-magento-security-scan-tool
-git: https://github.com/sansecio
+codehost: https://github.com/https://github.com/sansecio
 linkedin: https://linkedin.com/company/sansec
 logohandle: sansecio
 sort: sansec

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/riok/kreya
+codehost: https://github.com/https://github.com/riok/kreya
 logohandle: kreyaapp
 sort: kreya
 title: Kreya

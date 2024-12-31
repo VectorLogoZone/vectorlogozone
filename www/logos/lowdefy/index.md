@@ -1,5 +1,5 @@
 ---
-git: https://github.com/lowdefy/lowdefy
+codehost: https://github.com/https://github.com/lowdefy/lowdefy
 logohandle: lowdefy
 sort: lowdefy
 title: Lowdefy

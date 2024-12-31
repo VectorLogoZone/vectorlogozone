@@ -1,5 +1,5 @@
 ---
-git: https://github.com/w3c/activitypub
+codehost: https://github.com/https://github.com/w3c/activitypub
 guide: https://en.wikipedia.org/wiki/ActivityPub#/media/File:ActivityPub-logo.svg
 logohandle: w3_activitypub
 sort: activitypub

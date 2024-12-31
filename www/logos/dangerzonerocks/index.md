@@ -1,5 +1,5 @@
 ---
-git: https://github.com/firstlookmedia/dangerzone
+codehost: https://github.com/https://github.com/firstlookmedia/dangerzone
 logohandle: dangerzonerocks
 sort: dangerzone
 title: Dangerzone

@@ -1,7 +1,7 @@
 ---
 blog: https://civo.com/blog/
+codehost: https://github.com/https://github.com/civo
 facebook: https://facebook.com/civocloud
-git: https://github.com/civo
 logohandle: civo
 sort: civo
 title: Civo.com

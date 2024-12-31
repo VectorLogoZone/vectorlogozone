@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pshihn/rough
+codehost: https://github.com/https://github.com/pshihn/rough
 logohandle: roughjs
 sort: roughjs
 title: Rough.js

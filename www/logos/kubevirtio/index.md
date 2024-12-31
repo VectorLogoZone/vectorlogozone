@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kubevirt/kubevirt
+codehost: https://github.com/https://github.com/kubevirt/kubevirt
 logohandle: kubevirtio
 sort: kubevirt
 title: KubeVirt

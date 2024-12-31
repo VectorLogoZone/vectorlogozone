@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/facebook/draft-js
 facebook: https://code.facebook.com/projects
-git: https://github.com/facebook/draft-js
 logohandle: draftjs
 sort: draftjs
 title: Draft.js

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Netflix/Hystrix
+codehost: https://github.com/https://github.com/Netflix/Hystrix
 guide: https://github.com/Netflix/Hystrix/tree/gh-pages/images
 logohandle: netflix_hystrix
 sort: hystrix

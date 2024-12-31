@@ -1,5 +1,5 @@
 ---
-git: https://github.com/lingui/js-lingui
+codehost: https://github.com/https://github.com/lingui/js-lingui
 logohandle: linguidev
 sort: lingui
 title: Lingui

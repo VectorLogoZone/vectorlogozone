@@ -1,7 +1,7 @@
 ---
 blog: https://rookout.com/blog/
+codehost: https://github.com/https://github.com/rookout
 facebook: https://facebook.com/rookoutlabs
-git: https://github.com/rookout
 linkedin: https://linkedin.com/company/rookout
 logohandle: rookout
 sort: rookout

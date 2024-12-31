@@ -1,5 +1,5 @@
 ---
-git: https://github.com/swc-project/swc
+codehost: https://github.com/https://github.com/swc-project/swc
 logohandle: swcrs
 sort: swc
 title: SWC

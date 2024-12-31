@@ -1,5 +1,5 @@
 ---
-git: https://github.com/namespacelabs
+codehost: https://github.com/https://github.com/namespacelabs
 linkedin: https://linkedin.com/company/76501897
 logohandle: namespaceso
 sort: namespace

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/atomicobject
 facebook: https://facebook.com/atomicobject
-git: https://github.com/atomicobject
 instagram: https://instagram.com/atomicobject
 linkedin: https://linkedin.com/company/atomic-object
 logohandle: atomicobject

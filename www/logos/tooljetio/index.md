@@ -1,6 +1,6 @@
 ---
 blog: https://blog.tooljet.io/
-git: https://github.com/ToolJet/ToolJet
+codehost: https://github.com/https://github.com/ToolJet/ToolJet
 logohandle: tooljetio
 sort: tooljet
 title: ToolJet

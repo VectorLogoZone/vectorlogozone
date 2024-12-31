@@ -1,5 +1,6 @@
 ---
 blog: http://news.dartlang.org/
+codehost: https://github.com/https://github.com/dart-lang
 colors:
 - '#22D3C5'
 - '#0075C9'
@@ -8,7 +9,6 @@ colors:
 font:
   google: https://fonts.google.com/specimen/Montserrat
   name: Montserrat
-git: https://github.com/dart-lang
 guide: https://github.com/dart-lang/logos
 images:
 - dartlang-official.svg

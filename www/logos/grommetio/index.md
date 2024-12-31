@@ -1,5 +1,5 @@
 ---
-git: https://github.com/grommet/grommet
+codehost: https://github.com/https://github.com/grommet/grommet
 logohandle: grommetio
 sort: grommetio
 title: Grommit

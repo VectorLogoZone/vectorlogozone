@@ -1,7 +1,7 @@
 ---
 blog: https://netdata.cloud/blog/
+codehost: https://github.com/https://github.com/netdata/netdata
 facebook: https://facebook.com/linuxnetdata
-git: https://github.com/netdata/netdata
 linkedin: https://linkedin.com/company/netdata-cloud
 logohandle: netdatacloud
 sort: netdata

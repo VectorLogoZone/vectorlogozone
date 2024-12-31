@@ -1,5 +1,5 @@
 ---
-git: https://github.com/enhance-dev
+codehost: https://github.com/https://github.com/enhance-dev
 logohandle: enhancedev
 sort: enhance
 title: Enhance

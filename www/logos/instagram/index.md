@@ -1,9 +1,9 @@
 ---
 blog: http://blog.instagram.com/
+codehost: https://github.com/https://github.com/instagram
 font:
   myfonts: https://www.myfonts.com/fonts/typeassociates/billabong/
   name: Billabong
-git: https://github.com/instagram
 guide: https://en.instagram-brand.com/
 images:
 - instagram-icon.svg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/itteco/iframely
+codehost: https://github.com/https://github.com/itteco/iframely
 logohandle: iframely
 sort: iframely
 title: Iframely

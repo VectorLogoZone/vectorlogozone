@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ninja-build/ninja
+codehost: https://github.com/https://github.com/ninja-build/ninja
 logohandle: ninja-build
 sort: ninjabuild
 title: Ninja

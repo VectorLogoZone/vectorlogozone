@@ -1,5 +1,5 @@
 ---
-git: https://github.com/amio/badgen
+codehost: https://github.com/https://github.com/amio/badgen
 logohandle: badgennet
 sort: badgen
 title: Badgen

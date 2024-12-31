@@ -1,7 +1,7 @@
 ---
 blog: https://spreadprivacy.com/
+codehost: https://github.com/https://github.com/duckduckgo
 facebook: https://www.facebook.com/duckduckgo
-git: https://github.com/duckduckgo
 guide: https://duckduckgo.com/assets/press/DuckDuckGo-Brand-Logo.zip
 images:
 - duckduckgo-ar21.svg

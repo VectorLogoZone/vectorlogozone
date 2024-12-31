@@ -1,5 +1,5 @@
 ---
-git: https://github.com/FormidableLabs/victory
+codehost: https://github.com/https://github.com/FormidableLabs/victory
 logohandle: formidable_victory
 sort: victory
 title: Victory

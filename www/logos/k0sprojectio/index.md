@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/k0sproject
-git: https://github.com/k0sproject/k0s
+codehost: https://github.com/https://github.com/k0sproject/k0s
 logohandle: k0sprojectio
 sort: k0s
 title: k0s

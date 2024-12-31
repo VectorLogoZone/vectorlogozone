@@ -1,5 +1,5 @@
 ---
-git: https://github.com/leo-editor
+codehost: https://github.com/https://github.com/leo-editor
 logohandle: leoeditor
 sort: leoeditor
 title: Leo Editor

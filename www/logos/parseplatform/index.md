@@ -1,7 +1,7 @@
 ---
 blog: https://github.com/parse-community/blog
+codehost: https://github.com/https://github.com/parse-community
 facebook: https://facebook.com/parseit
-git: https://github.com/parse-community
 logohandle: parseplatform
 sort: parseplatform
 title: Parse Platform

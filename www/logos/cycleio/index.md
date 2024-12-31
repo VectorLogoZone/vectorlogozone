@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/cycleplatform
+codehost: https://github.com/https://github.com/cycleplatform
 facebook: https://facebook.com/cycleplatform
-git: https://github.com/cycleplatform
 linkedin: https://linkedin.com/company/cycle-platform
 logohandle: cycleio
 sort: cycle

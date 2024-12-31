@@ -1,7 +1,7 @@
 ---
 blog: https://blog.scikit-learn.org/
+codehost: https://github.com/https://github.com/scikit-learn/scikit-learn
 facebook: https://facebook.com/scikitlearnofficial
-git: https://github.com/scikit-learn/scikit-learn
 instagram: https://instagram.com/scikitlearnofficial
 linkedin: https://linkedin.com/company/scikit-learn
 logohandle: scikit-learn

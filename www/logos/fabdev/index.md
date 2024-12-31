@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fab-spec/fab
+codehost: https://github.com/https://github.com/fab-spec/fab
 logohandle: fabdev
 sort: fab
 title: Frontend Application Bundles

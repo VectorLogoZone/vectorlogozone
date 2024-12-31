@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/lbryio
 facebook: https://facebook.com/lbryio
-git: https://github.com/lbryio
 logohandle: lbryio
 sort: lbry
 title: LBRY

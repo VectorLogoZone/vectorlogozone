@@ -1,7 +1,7 @@
 ---
 blog: https://docs.keydb.dev/blog
+codehost: https://github.com/https://github.com/JohnSully/KeyDB
 facebook: https://facebook.com/EQ-Alpha-Technology-285755075380958
-git: https://github.com/JohnSully/KeyDB
 instagram: https://instagram.com/eq_alpha_technology
 linkedin: https://linkedin.com/company/eqalphatechnology
 logohandle: keydbdev

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.scaleway.com/
+codehost: https://github.com/https://github.com/scaleway
 facebook: https://facebook.com/scaleway
-git: https://github.com/scaleway
 instagram: https://instagram.com/scaleway
 linkedin: https://linkedin.com/company/scaleway
 logohandle: scaleway

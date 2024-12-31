@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pyxll
+codehost: https://github.com/https://github.com/pyxll
 linkedin: https://linkedin.com/company/pyxll
 logohandle: pyxll
 sort: pyxll

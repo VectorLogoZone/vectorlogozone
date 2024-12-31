@@ -1,5 +1,5 @@
 ---
-git: https://github.com/threatexpress
+codehost: https://github.com/https://github.com/threatexpress
 logohandle: threatexpress
 sort: threatexpress
 title: Threat Express

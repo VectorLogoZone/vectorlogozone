@@ -1,5 +1,5 @@
 ---
-git: https://github.com/GoogleContainerTools/skaffold
+codehost: https://github.com/https://github.com/GoogleContainerTools/skaffold
 guide: https://github.com/GoogleContainerTools/skaffold/tree/master/logo
 logohandle: google_skaffold
 sort: skaffold

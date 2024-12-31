@@ -1,5 +1,5 @@
 ---
-git: https://github.com/lukasz-madon/awesome-remote-job
+codehost: https://github.com/https://github.com/lukasz-madon/awesome-remote-job
 logohandle: remoteleaf
 sort: remoteleaf
 title: Remote Leaf

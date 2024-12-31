@@ -1,7 +1,7 @@
 ---
 blog: https://corelight.com/blog
+codehost: https://github.com/https://github.com/corelight
 facebook: https://facebook.com/CorelightInc
-git: https://github.com/corelight
 linkedin: https://linkedin.com/company/corelight
 logohandle: corelight
 sort: corelight

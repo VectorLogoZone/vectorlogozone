@@ -1,9 +1,9 @@
 ---
 blog: https://about.udemy.com/blog
+codehost: https://github.com/https://github.com/udemy
 colors:
 - '#EA5252'
 facebook: https://www.facebook.com/udemy
-git: https://github.com/udemy
 guide: https://about.udemy.com/newbrand/
 images:
 - udemy-ar21.svg

@@ -1,6 +1,6 @@
 ---
 blog: https://brev.dev/blog
-git: https://github.com/brevdev
+codehost: https://github.com/https://github.com/brevdev
 logohandle: brevdev
 sort: brev
 title: Brev.dev

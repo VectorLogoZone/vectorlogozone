@@ -1,5 +1,5 @@
 ---
-git: https://github.com/r0x0r/pywebview
+codehost: https://github.com/https://github.com/r0x0r/pywebview
 logohandle: flowrl_pywebview
 sort: pywebview
 title: pywebview

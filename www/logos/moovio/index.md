@@ -1,5 +1,5 @@
 ---
-git: https://github.com/moov-io
+codehost: https://github.com/https://github.com/moov-io
 linkedin: https://linkedin.com/company/moov-io
 logohandle: moovio
 sort: moov

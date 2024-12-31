@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/u-blox
 facebook: https://facebook.com/ublox
-git: https://github.com/u-blox
 linkedin: https://linkedin.com/company/u-blox
 logohandle: u-blox
 sort: ublox

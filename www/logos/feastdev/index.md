@@ -1,6 +1,6 @@
 ---
 blog: https://feast.dev/blog/
-git: https://github.com/feast-dev/feast
+codehost: https://github.com/https://github.com/feast-dev/feast
 logohandle: feastdev
 sort: feastdev
 title: Feast

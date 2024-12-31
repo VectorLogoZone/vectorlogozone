@@ -1,5 +1,5 @@
 ---
-git: https://github.com/aerobatic
+codehost: https://github.com/https://github.com/aerobatic
 logohandle: aerobatic
 sort: aerobatic
 title: Aerobatic

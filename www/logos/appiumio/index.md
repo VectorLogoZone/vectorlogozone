@@ -1,5 +1,5 @@
 ---
-git: https://github.com/appium/appium
+codehost: https://github.com/https://github.com/appium/appium
 logohandle: appiumio
 sort: appium
 title: Appium

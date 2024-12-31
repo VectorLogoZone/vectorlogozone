@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/numerai
-git: https://github.com/numerai/example-scripts
+codehost: https://github.com/https://github.com/numerai/example-scripts
 logohandle: numerai
 sort: numerai
 title: Numerai

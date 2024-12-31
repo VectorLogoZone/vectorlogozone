@@ -1,5 +1,5 @@
 ---
-git: https://github.com/facebook/componentkit
+codehost: https://github.com/https://github.com/facebook/componentkit
 logohandle: componentkit
 sort: componentkit
 title: ComponentKit

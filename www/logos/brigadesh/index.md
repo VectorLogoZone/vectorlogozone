@@ -1,5 +1,5 @@
 ---
-git: https://github.com/azure/brigade
+codehost: https://github.com/https://github.com/azure/brigade
 logohandle: brigadesh
 sort: brigade
 title: Brigade

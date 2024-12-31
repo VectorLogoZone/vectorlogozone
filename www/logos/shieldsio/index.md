@@ -1,5 +1,5 @@
 ---
-git: https://github.com/badges/shields
+codehost: https://github.com/https://github.com/badges/shields
 guide: https://github.com/badges/shields/blob/master/static/logo.svg
 logohandle: shieldsio
 other:

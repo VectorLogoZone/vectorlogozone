@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/OpenTechSchool
 facebook: https://facebook.com/OpenTechSchool
-git: https://github.com/OpenTechSchool
 logohandle: opentechschool
 sort: opentechschool
 title: OpenTechSchool

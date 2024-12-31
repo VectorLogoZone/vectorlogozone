@@ -1,6 +1,6 @@
 ---
 blog: https://developer.okta.com/blog/2019/05/23/java-microservices-spring-cloud-config
-git: https://github.com/jhipster
+codehost: https://github.com/https://github.com/jhipster
 logohandle: jhipstertech
 sort: jhipster
 title: JHipster

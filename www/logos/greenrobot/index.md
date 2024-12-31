@@ -1,6 +1,6 @@
 ---
 blog: https://greenrobot.org/blog
-git: https://github.com/greenrobot
+codehost: https://github.com/https://github.com/greenrobot
 logohandle: greenrobot
 sort: greenrobot
 title: greenrobot

@@ -1,7 +1,7 @@
 ---
 blog: http://blog.coursera.org/
+codehost: https://github.com/https://github.com/coursera
 facebook: https://www.facebook.com/Coursera
-git: https://github.com/coursera
 googleplus: https://plus.google.com/+Coursera
 images:
 - coursera-ar21.svg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/kedacore/keda
+codehost: https://github.com/https://github.com/kedacore/keda
 logohandle: kedash
 sort: keda
 title: KEDA

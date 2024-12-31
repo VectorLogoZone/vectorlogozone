@@ -1,5 +1,5 @@
 ---
-git: https://github.com/longhorn/longhorn
+codehost: https://github.com/https://github.com/longhorn/longhorn
 logohandle: longhornio
 sort: longhorn
 title: Longhorn

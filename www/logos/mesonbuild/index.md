@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mesonbuild/meson
+codehost: https://github.com/https://github.com/mesonbuild/meson
 logohandle: mesonbuild
 sort: mesonbuild
 title: Meson

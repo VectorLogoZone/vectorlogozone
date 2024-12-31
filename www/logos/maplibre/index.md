@@ -1,5 +1,5 @@
 ---
-git: https://github.com/MapLibre
+codehost: https://github.com/https://github.com/MapLibre
 logohandle: maplibre
 sort: maplibre
 title: MapLibre

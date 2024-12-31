@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vmware-tanzu/antrea
+codehost: https://github.com/https://github.com/vmware-tanzu/antrea
 logohandle: antreaio
 sort: antrea
 title: Antrea

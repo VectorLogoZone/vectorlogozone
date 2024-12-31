@@ -1,10 +1,10 @@
 ---
 blog: https://blogs.msdn.microsoft.com/dotnet/
+codehost: https://github.com/https://github.com/dotnet
 facebook: https://www.facebook.com/Dotnet
 font:
   google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans
-git: https://github.com/dotnet
 guide: https://github.com/dotnet/brand
 images:
 - dotnet-vertical.svg

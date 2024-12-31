@@ -1,5 +1,5 @@
 ---
-git: https://github.com/neomutt/neomutt
+codehost: https://github.com/https://github.com/neomutt/neomutt
 logohandle: neomutt
 sort: neomutt
 title: NeoMutt

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/wasp-lang/wasp
+codehost: https://github.com/https://github.com/wasp-lang/wasp
 logohandle: wasp-langdev
 sort: wasplang
 title: Wasp

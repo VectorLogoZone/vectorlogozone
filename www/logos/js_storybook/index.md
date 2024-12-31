@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/storybookjs
-git: https://github.com/storybookjs/storybook
+codehost: https://github.com/https://github.com/storybookjs/storybook
 logohandle: js_storybook
 sort: storybook
 title: Storybook

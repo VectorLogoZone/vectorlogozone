@@ -1,6 +1,6 @@
 ---
 blog: https://matrix.org/blog
-git: https://github.com/matrix-org
+codehost: https://github.com/https://github.com/matrix-org
 logohandle: matrix
 sort: matrix
 title: Matrix.org

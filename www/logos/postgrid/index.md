@@ -1,7 +1,7 @@
 ---
 blog: https://postgrid.com/blog
+codehost: https://github.com/https://github.com/postgrid
 facebook: https://facebook.com/postgridinc
-git: https://github.com/postgrid
 instagram: https://instagram.com/postgridinc
 linkedin: https://linkedin.com/company/postgrid
 logohandle: postgrid

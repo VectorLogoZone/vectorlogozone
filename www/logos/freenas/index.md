@@ -1,7 +1,7 @@
 ---
 blog: https://ixsystems.com/blog
+codehost: https://github.com/https://github.com/freenas
 facebook: http://facebook.com/freenascommunity
-git: https://github.com/freenas
 linkedin: http://linkedin.com/company/ixsystems
 logohandle: freenas
 sort: freenas

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.fission.io/
-git: https://github.com/fission/fission
+codehost: https://github.com/https://github.com/fission/fission
 logohandle: fissionio
 sort: fission
 title: Fission

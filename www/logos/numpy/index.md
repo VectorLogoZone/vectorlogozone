@@ -1,5 +1,5 @@
 ---
-git: https://github.com/numpy/numpy
+codehost: https://github.com/https://github.com/numpy/numpy
 logohandle: numpy
 sort: numpy
 title: NumPy

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cloudscape-design/components
+codehost: https://github.com/https://github.com/cloudscape-design/components
 logohandle: cloudscapedesign
 sort: cloudscape
 title: Cloudscape

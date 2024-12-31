@@ -1,5 +1,5 @@
 ---
-git: https://github.com/conversejs
+codehost: https://github.com/https://github.com/conversejs
 logohandle: conversejs
 sort: conversejs
 title: Converse.js

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/popperjs/popper-core
+codehost: https://github.com/https://github.com/popperjs/popper-core
 logohandle: js_popper
 sort: popperjs
 title: Popper.js

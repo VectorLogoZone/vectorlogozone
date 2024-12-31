@@ -1,5 +1,5 @@
 ---
-git: https://github.com/keel-hq/keel
+codehost: https://github.com/https://github.com/keel-hq/keel
 logohandle: keelsh
 sort: keel
 title: Keel

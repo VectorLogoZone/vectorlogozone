@@ -1,5 +1,5 @@
 ---
-git: https://github.com/webhintio
+codehost: https://github.com/https://github.com/webhintio
 logohandle: webhintio
 sort: webhint
 title: webhint

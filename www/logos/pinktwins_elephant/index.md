@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jusu/Elephant
+codehost: https://github.com/https://github.com/jusu/Elephant
 logohandle: pinktwins_elephant
 sort: elephant
 title: Elephant

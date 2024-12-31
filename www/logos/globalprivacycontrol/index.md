@@ -1,5 +1,5 @@
 ---
-git: https://github.com/privacy-tech-lab/gpc-optmeowt
+codehost: https://github.com/https://github.com/privacy-tech-lab/gpc-optmeowt
 logohandle: globalprivacycontrol
 sort: globalprivacycontrol
 title: Global Privacy Control

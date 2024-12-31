@@ -1,5 +1,5 @@
 ---
-git: https://github.com/openlanguageprofiles
+codehost: https://github.com/https://github.com/openlanguageprofiles
 logohandle: openlanguageprofiles
 sort: openlanguageprofiles
 title: Open Language Profiles

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/stdlib/lib
+codehost: https://github.com/https://github.com/stdlib/lib
 logohandle: stdlib
 sort: stdlib
 title: StdLib

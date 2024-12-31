@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dlt-hub/dlt
+codehost: https://github.com/https://github.com/dlt-hub/dlt
 logohandle: dlthub
 sort: dlthub
 title: dlt

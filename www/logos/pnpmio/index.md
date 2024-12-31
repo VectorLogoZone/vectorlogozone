@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pnpm/pnpm
+codehost: https://github.com/https://github.com/pnpm/pnpm
 logohandle: pnpmio
 sort: pnpm
 title: pnpm

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vriteio/vrite
+codehost: https://github.com/https://github.com/vriteio/vrite
 linkedin: https://linkedin.com/company/vrite
 logohandle: vriteio
 sort: vrite

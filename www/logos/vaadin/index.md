@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/vaadin
 facebook: https://facebook.com/vaadin
-git: https://github.com/vaadin
 instagram: https://instagram.com/vaadin
 linkedin: https://linkedin.com/company/vaadin
 logohandle: vaadin

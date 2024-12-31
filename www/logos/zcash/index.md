@@ -1,6 +1,6 @@
 ---
 blog: https://blog.z.cash/
-git: https://github.com/zcash/zcash
+codehost: https://github.com/https://github.com/zcash/zcash
 logohandle: zcash
 sort: zcash
 title: Zcash

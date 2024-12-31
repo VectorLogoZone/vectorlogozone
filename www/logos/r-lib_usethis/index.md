@@ -1,5 +1,5 @@
 ---
-git: https://github.com/r-lib/usethis
+codehost: https://github.com/https://github.com/r-lib/usethis
 logohandle: r-lib_usethis
 sort: usethis
 title: usethis

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/marketplace/backhub
 facebook: https://facebook.com/backhub.co
-git: https://github.com/marketplace/backhub
 logohandle: backhubco
 sort: backhub
 title: BackHub

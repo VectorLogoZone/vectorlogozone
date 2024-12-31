@@ -1,5 +1,5 @@
 ---
-git: https://github.com/miragejs/miragejs
+codehost: https://github.com/https://github.com/miragejs/miragejs
 logohandle: miragejs
 sort: miragejs
 title: Mirage.js

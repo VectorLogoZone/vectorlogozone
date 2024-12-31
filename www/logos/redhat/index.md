@@ -1,5 +1,6 @@
 ---
 blog: https://www.redhat.com/en/blog
+codehost: https://github.com/https://github.com/redhat-developer
 colors:
 - '#CC0000'
 - '#A30000'
@@ -8,7 +9,6 @@ facebook: http://www.facebook.com/RedHatInc
 font:
   name: Interstate
   url: https://store.typenetwork.com/foundry/fontbureau/series/interstate
-git: https://github.com/redhat-developer
 googleplus: https://plus.google.com/+RedHat
 guide: https://brand.redhat.com/
 images:

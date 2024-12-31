@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/adonisjs
 dribbble: https://dribbble.com/planetabhi
-git: https://github.com/adonisjs
 logohandle: adonisjs
 sort: adonisjs
 title: Adonis.js

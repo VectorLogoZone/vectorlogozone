@@ -1,5 +1,5 @@
 ---
-git: https://github.com/google/docsy
+codehost: https://github.com/https://github.com/google/docsy
 logohandle: docsydev
 sort: docsy
 title: Docsy

@@ -1,6 +1,6 @@
 ---
 blog: https://prerender.io/blog
-git: https://github.com/prerender
+codehost: https://github.com/https://github.com/prerender
 linkedin: https://linkedin.com/company/prerender
 logohandle: prerenderio
 sort: prerenderio

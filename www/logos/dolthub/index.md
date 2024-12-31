@@ -1,6 +1,6 @@
 ---
 blog: https://dolthub.com/blog
-git: https://github.com/liquidata-inc/dolt
+codehost: https://github.com/https://github.com/liquidata-inc/dolt
 linkedin: https://linkedin.com/company/liquidatainc
 logohandle: dolthub
 sort: dolthub

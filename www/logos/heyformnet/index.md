@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/heyform/heyform
 facebook: https://facebook.com/HeyformHQ
-git: https://github.com/heyform/heyform
 linkedin: https://linkedin.com/company/heyform
 logohandle: heyformnet
 sort: heyform

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/facebook/lexical
+codehost: https://github.com/https://github.com/facebook/lexical
 logohandle: lexicaldev
 sort: lexical
 title: Lexical

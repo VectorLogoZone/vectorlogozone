@@ -1,6 +1,6 @@
 ---
 blog: https://blog.gradle.org/
-git: https://github.com/gradle
+codehost: https://github.com/https://github.com/gradle
 images:
 - gradle-ar21.svg
 - gradle-icon.svg

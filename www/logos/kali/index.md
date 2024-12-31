@@ -1,7 +1,7 @@
 ---
 blog: https://kali.org/blog
+codehost: https://github.com/https://github.com/kalilinux
 facebook: https://facebook.com/kalilinux
-git: https://github.com/kalilinux
 logohandle: kali
 sort: kali
 title: Kali Linux

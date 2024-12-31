@@ -1,5 +1,5 @@
 ---
-git: https://github.com/layerware/hugsql
+codehost: https://github.com/https://github.com/layerware/hugsql
 logohandle: hugsql
 sort: hugsql
 title: HugSQL

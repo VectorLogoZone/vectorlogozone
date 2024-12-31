@@ -1,5 +1,5 @@
 ---
-git: https://github.com/axiomhq
+codehost: https://github.com/https://github.com/axiomhq
 logohandle: axiomco
 sort: axiom
 title: Axiom

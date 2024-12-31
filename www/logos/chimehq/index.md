@@ -1,5 +1,5 @@
 ---
-git: https://github.com/chimehq
+codehost: https://github.com/https://github.com/chimehq
 logohandle: chimehq
 sort: chimehq
 title: Chime

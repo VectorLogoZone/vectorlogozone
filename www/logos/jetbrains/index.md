@@ -1,7 +1,7 @@
 ---
 blog: https://blog.jetbrains.com/
+codehost: https://github.com/https://github.com/JetBrains
 facebook: https://www.facebook.com/JetBrains
-git: https://github.com/JetBrains
 googleplus: https://plus.google.com/+jetbrains
 guide: https://www.jetbrains.com/company/brand/#section=images-logos
 images:

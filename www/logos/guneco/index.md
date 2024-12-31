@@ -1,5 +1,5 @@
 ---
-git: https://github.com/amark/gun
+codehost: https://github.com/https://github.com/amark/gun
 logohandle: guneco
 sort: gun
 title: GUN

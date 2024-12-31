@@ -1,7 +1,7 @@
 ---
 blog: https://mattermost.com/blog
+codehost: https://github.com/https://github.com/mattermost
 facebook: https://facebook.com/Mattermost-2300985916642531
-git: https://github.com/mattermost
 linkedin: https://linkedin.com/company/mattermost
 logohandle: mattermost
 sort: mattermost

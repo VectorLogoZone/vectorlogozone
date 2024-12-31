@@ -1,5 +1,5 @@
 ---
-git: https://github.com/optoolco/tonic
+codehost: https://github.com/https://github.com/optoolco/tonic
 logohandle: tonictechnology
 sort: tonic
 title: Tonic

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/twosigma/beakerx
+codehost: https://github.com/https://github.com/twosigma/beakerx
 linkedin: https://linkedin.com/company/two-sigma-investments
 logohandle: beakerx
 sort: beakerx

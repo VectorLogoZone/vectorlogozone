@@ -1,6 +1,6 @@
 ---
 blog: https://blog.liblab.com/
-git: https://github.com/liblaber
+codehost: https://github.com/https://github.com/liblaber
 logohandle: liblab
 sort: liblab
 title: liblab

@@ -1,7 +1,7 @@
 ---
 blog: http://blog.adafruit.com/
+codehost: https://github.com/https://github.com/adafruit
 facebook: https://facebook.com/adafruitindustries
-git: https://github.com/adafruit
 instagram: https://instagram.com/adafruit
 logohandle: adafruit
 sort: adafruit

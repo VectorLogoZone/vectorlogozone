@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pre-commit/pre-commit
+codehost: https://github.com/https://github.com/pre-commit/pre-commit
 logohandle: pre-commit
 sort: pre-commit
 title: pre-commit

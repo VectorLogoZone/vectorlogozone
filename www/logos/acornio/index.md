@@ -1,6 +1,6 @@
 ---
 blog: https://acorn.io/blog
-git: https://github.com/acorn-io/acorn
+codehost: https://github.com/https://github.com/acorn-io/acorn
 linkedin: https://linkedin.com/company/acorn-io
 logohandle: acornio
 sort: acorn

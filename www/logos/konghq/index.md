@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/Kong/kong
 facebook: https://www.facebook.com/konghq/
-git: https://github.com/Kong/kong
 images:
 - konghq-ar21.svg
 - konghq-icon.svg

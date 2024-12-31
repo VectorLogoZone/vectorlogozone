@@ -1,5 +1,5 @@
 ---
-git: https://github.com/connectrpc
+codehost: https://github.com/https://github.com/connectrpc
 logohandle: connectrpc
 sort: connectrpc
 title: Connect RPC

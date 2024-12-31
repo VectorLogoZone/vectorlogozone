@@ -1,6 +1,6 @@
 ---
 blog: https://cloudhypervisor.org/blog/
-git: https://github.com/cloud-hypervisor/cloud-hypervisor
+codehost: https://github.com/https://github.com/cloud-hypervisor/cloud-hypervisor
 logohandle: cloudhypervisor
 sort: cloudhypervisor
 title: Cloud Hypervisor

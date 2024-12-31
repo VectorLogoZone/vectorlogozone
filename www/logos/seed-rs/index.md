@@ -1,5 +1,5 @@
 ---
-git: https://github.com/seed-rs/seed
+codehost: https://github.com/https://github.com/seed-rs/seed
 logohandle: seed-rs
 sort: seedrs
 title: Seed

@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/mycrypto
+codehost: https://github.com/https://github.com/MyCryptoHQ
 facebook: https://facebook.com/mycryptoHQ
-git: https://github.com/MyCryptoHQ
 linkedin: https://linkedin.com/company/mycrypto
 logohandle: mycrypto
 sort: mycrypto

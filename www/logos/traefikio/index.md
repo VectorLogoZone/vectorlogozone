@@ -1,5 +1,5 @@
 ---
-git: https://github.com/containous/traefik
+codehost: https://github.com/https://github.com/containous/traefik
 logohandle: traefikio
 sort: traefik
 title: Traefik

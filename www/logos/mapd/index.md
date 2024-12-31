@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/mapd
 facebook: https://facebook.com/mapdinc
-git: https://github.com/mapd
 linkedin: https://linkedin.com/company/mapd
 logohandle: mapd
 sort: mapd

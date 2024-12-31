@@ -1,5 +1,5 @@
 ---
-git: https://github.com/CindyJS/CindyJS
+codehost: https://github.com/https://github.com/CindyJS/CindyJS
 logohandle: cindyjs
 sort: cindyjs
 title: CindyJS

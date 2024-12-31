@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/supertokens
 facebook: https://facebook.com/SuperTokenss
-git: https://github.com/supertokens
 linkedin: https://linkedin.com/company/supertokens
 logohandle: supertokens
 sort: supertokens

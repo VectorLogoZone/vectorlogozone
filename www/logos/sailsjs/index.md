@@ -1,7 +1,7 @@
 ---
 blog: http://blog.sailsjs.com/
+codehost: https://github.com/https://github.com/balderdashy/sails
 facebook: https://facebook.com/sailsjs
-git: https://github.com/balderdashy/sails
 logohandle: sailsjs
 pinterest: https://pinterest.com/sailsjs
 sort: sailsjs

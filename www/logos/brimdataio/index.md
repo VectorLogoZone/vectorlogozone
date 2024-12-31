@@ -1,5 +1,5 @@
 ---
-git: https://github.com/brimdata
+codehost: https://github.com/https://github.com/brimdata
 linkedin: https://linkedin.com/company/brimdata
 logohandle: brimdataio
 sort: brimdata

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.dashlane.com/
+codehost: https://github.com/https://github.com/Dashlane
 facebook: https://facebook.com/GetDashlane
-git: https://github.com/Dashlane
 googleplus: https://plus.google.com/+Dashlane
 linkedin: https://linkedin.com/company/dashlane
 logohandle: dashlane

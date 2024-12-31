@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dotfiles/dotfiles.github.com
+codehost: https://github.com/https://github.com/dotfiles/dotfiles.github.com
 guide: https://github.com/jglovier/dotfiles-logo
 logohandle: githubio_dotfiles
 sort: dotfiles

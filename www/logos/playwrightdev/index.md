@@ -1,5 +1,5 @@
 ---
-git: https://github.com/microsoft/playwright
+codehost: https://github.com/https://github.com/microsoft/playwright
 logohandle: playwrightdev
 sort: playwright
 title: Playwright

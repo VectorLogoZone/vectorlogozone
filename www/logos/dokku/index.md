@@ -1,6 +1,6 @@
 ---
 blog: https://dokku.github.io/
-git: https://github.com/dokku/dokku
+codehost: https://github.com/https://github.com/dokku/dokku
 logohandle: dokku
 sort: dokku
 title: Dokku

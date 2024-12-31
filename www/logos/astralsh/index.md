@@ -1,5 +1,5 @@
 ---
-git: https://github.com/astral-sh
+codehost: https://github.com/https://github.com/astral-sh
 logohandle: astralsh
 sort: astral
 title: Astral

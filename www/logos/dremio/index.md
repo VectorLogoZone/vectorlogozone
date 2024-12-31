@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/dremio
 facebook: https://facebook.com/dremio
-git: https://github.com/dremio
 linkedin: https://linkedin.com/company/dremio
 logohandle: dremio
 sort: dremio

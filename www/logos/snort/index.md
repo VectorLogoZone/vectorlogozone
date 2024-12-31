@@ -1,5 +1,5 @@
 ---
-git: https://github.com/shirkdog/pulledpork
+codehost: https://github.com/https://github.com/shirkdog/pulledpork
 logohandle: snort
 sort: snort
 title: Snort

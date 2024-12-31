@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mantinedev/mantine
+codehost: https://github.com/https://github.com/mantinedev/mantine
 logohandle: mantinedev
 sort: mantine
 title: Mantine UI

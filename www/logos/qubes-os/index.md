@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/QubesOS
 facebook: https://facebook.com/QubesOS
-git: https://github.com/QubesOS
 logohandle: qubes-os
 sort: qubes-os
 title: Qubes OS

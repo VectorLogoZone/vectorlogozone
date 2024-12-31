@@ -1,9 +1,9 @@
 ---
 blog: https://blog.flickr.net/en
+codehost: https://github.com/https://github.com/flickr
 font:
   myfonts: https://www.myfonts.com/fonts/adobe/frutiger/
   name: Frutiger
-git: https://github.com/flickr
 images:
 - flickr-ar21.svg
 - flickr-icon.svg

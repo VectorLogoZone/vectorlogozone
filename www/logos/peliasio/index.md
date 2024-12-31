@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pelias
+codehost: https://github.com/https://github.com/pelias
 logohandle: peliasio
 sort: pelias
 title: Pelias

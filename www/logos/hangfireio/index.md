@@ -1,5 +1,5 @@
 ---
-git: https://github.com/HangfireIO/Hangfire
+codehost: https://github.com/https://github.com/HangfireIO/Hangfire
 logohandle: hangfireio
 sort: hangfire
 title: Hangfire

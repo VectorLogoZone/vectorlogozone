@@ -1,5 +1,5 @@
 ---
-git: https://github.com/rkt/rkt
+codehost: https://github.com/https://github.com/rkt/rkt
 logohandle: coreos_rkt
 sort: rkt
 title: rkt

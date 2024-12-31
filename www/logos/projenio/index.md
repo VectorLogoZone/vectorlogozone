@@ -1,5 +1,5 @@
 ---
-git: https://github.com/projen/projen
+codehost: https://github.com/https://github.com/projen/projen
 logohandle: projenio
 sort: projen
 title: Projen

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Fizzadar/pyinfra
+codehost: https://github.com/https://github.com/Fizzadar/pyinfra
 logohandle: pyinfra
 sort: pyinfra
 title: pyinfra

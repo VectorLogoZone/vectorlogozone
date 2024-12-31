@@ -1,7 +1,7 @@
 ---
 blog: https://nylas.com/blog
+codehost: https://github.com/https://github.com/nylas
 facebook: https://facebook.com/nylasinc
-git: https://github.com/nylas
 linkedin: https://linkedin.com/company/3788355
 logohandle: nylas
 sort: nylas

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/federico-terzi/espanso
+codehost: https://github.com/https://github.com/federico-terzi/espanso
 logohandle: espanso
 sort: espanso
 title: Espanso

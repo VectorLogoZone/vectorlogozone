@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/dfinity-network-blog
-git: https://github.com/dfinity
+codehost: https://github.com/https://github.com/dfinity
 linkedin: https://linkedin.com/company/dfinity
 logohandle: dfinity
 sort: dfinity

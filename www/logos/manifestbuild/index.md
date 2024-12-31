@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mnfst/manifest
+codehost: https://github.com/https://github.com/mnfst/manifest
 logohandle: manifestbuild
 sort: manifestbuild
 title: Manifest

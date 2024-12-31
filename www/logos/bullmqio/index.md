@@ -1,5 +1,5 @@
 ---
-git: https://github.com/taskforcesh/bullmq
+codehost: https://github.com/https://github.com/taskforcesh/bullmq
 logohandle: bullmqio
 sort: bullmq
 title: BullMQ

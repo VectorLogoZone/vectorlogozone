@@ -1,5 +1,5 @@
 ---
-git: https://github.com/radicle-dev
+codehost: https://github.com/https://github.com/radicle-dev
 logohandle: radiclexyz
 sort: radicle
 title: radicle

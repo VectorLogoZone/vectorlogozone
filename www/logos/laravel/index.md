@@ -1,5 +1,5 @@
 ---
-git: https://github.com/laravel/laravel
+codehost: https://github.com/https://github.com/laravel/laravel
 logohandle: laravel
 sort: laravel
 title: Laravel

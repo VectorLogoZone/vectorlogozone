@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/gearhost
 facebook: https://facebook.com/gearhost
-git: https://github.com/gearhost
 logohandle: gearhost
 sort: gearhost
 title: GearHost

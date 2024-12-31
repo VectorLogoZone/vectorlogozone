@@ -1,7 +1,7 @@
 ---
 blog: https://blog.patreon.com/
+codehost: https://github.com/https://github.com/patreon
 facebook: https://www.facebook.com/patreon
-git: https://github.com/patreon
 googleplus: https://plus.google.com/+Patreon
 guide: https://www.patreon.com/brand
 images:

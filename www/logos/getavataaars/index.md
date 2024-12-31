@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fangpenlin/avataaars-generator
+codehost: https://github.com/https://github.com/fangpenlin/avataaars-generator
 logohandle: getavataaars
 sort: avataaars
 title: Avataaars

@@ -1,9 +1,9 @@
 ---
 blog: https://stripe.com/blog
+codehost: https://github.com/https://github.com/stripe
 font:
   myfonts: https://www.myfonts.com/fonts/mti/camphor/
   name: Camphor
-git: https://github.com/stripe
 images:
 - stripe-ar21.svg
 - stripe-icon.svg

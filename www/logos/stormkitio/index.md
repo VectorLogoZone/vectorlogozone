@@ -1,5 +1,5 @@
 ---
-git: https://github.com/stormkit-io
+codehost: https://github.com/https://github.com/stormkit-io
 linkedin: https://linkedin.com/company/stormkit
 logohandle: stormkitio
 sort: stormkit

@@ -1,6 +1,6 @@
 ---
 blog: https://manticoresearch.com/blog
-git: https://github.com/manticoresoftware
+codehost: https://github.com/https://github.com/manticoresoftware
 linkedin: https://linkedin.com/company/manticore-software
 logohandle: manticoresearch
 sort: manticoresearch

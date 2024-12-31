@@ -1,6 +1,6 @@
 ---
 blog: https://conduktor.io/blog/conduktor-redpanda-best-breed-kafka-experience
-git: https://github.com/conduktor
+codehost: https://github.com/https://github.com/conduktor
 linkedin: https://linkedin.com/company/conduktor
 logohandle: conduktorio
 sort: conduktor

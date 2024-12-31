@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mswjs
+codehost: https://github.com/https://github.com/mswjs
 logohandle: mswjsio
 sort: mswjs
 title: Mock Service Worker

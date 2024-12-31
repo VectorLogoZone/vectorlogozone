@@ -1,5 +1,5 @@
 ---
-git: https://github.com/squid-cache
+codehost: https://github.com/https://github.com/squid-cache
 guide: http://www.squid-cache.org/Artwork/
 logohandle: squid-cache
 sort: squid-cache

@@ -1,7 +1,7 @@
 ---
 blog: https://www.openstack.org/blog/
+codehost: https://github.com/https://github.com/openstack
 facebook: https://www.facebook.com/openstack
-git: https://github.com/openstack
 images:
 - openstack-icon.svg
 - openstack-ar21.svg

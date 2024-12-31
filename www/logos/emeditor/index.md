@@ -1,7 +1,7 @@
 ---
 blog: https://emeditor.com/blog
+codehost: https://github.com/https://github.com/Emurasoft
 facebook: https://facebook.com/emeditor
-git: https://github.com/Emurasoft
 logohandle: emeditor
 sort: emeditor
 title: EmEditor

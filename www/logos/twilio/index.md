@@ -1,6 +1,6 @@
 ---
 blog: https://www.twilio.com/blog
-git: https://github.com/twilio
+codehost: https://github.com/https://github.com/twilio
 images:
 - twilio-icon.svg
 - twilio-ar21.svg

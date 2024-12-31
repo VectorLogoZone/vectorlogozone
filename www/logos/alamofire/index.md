@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Alamofire
+codehost: https://github.com/https://github.com/Alamofire
 logohandle: alamofire
 sort: alamofire
 title: Alamofire

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/GoogleChromeLabs/ProjectVisBug
+codehost: https://github.com/https://github.com/GoogleChromeLabs/ProjectVisBug
 guide: https://github.com/GoogleChromeLabs/ProjectVisBug/tree/master/assets
 logohandle: google_visbug
 sort: visbug

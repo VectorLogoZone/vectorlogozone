@@ -1,6 +1,6 @@
 ---
 blog: https://pace.dev/blog/
-git: https://github.com/pacedotdev
+codehost: https://github.com/https://github.com/pacedotdev
 logohandle: pacedev
 sort: pace
 title: PACE

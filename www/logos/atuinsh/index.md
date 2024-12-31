@@ -1,6 +1,6 @@
 ---
 blog: https://atuin.sh/blog/
-git: https://github.com/ellie/atuin
+codehost: https://github.com/https://github.com/ellie/atuin
 logohandle: atuinsh
 sort: atuin
 title: Atuin

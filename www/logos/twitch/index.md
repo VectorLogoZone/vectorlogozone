@@ -1,12 +1,12 @@
 ---
 blog: https://blog.twitch.tv/
+codehost: https://github.com/https://github.com/twitchdev
 colors:
 - '#6441A4'
 facebook: https://facebook.com/twitch
 font:
   name: Dimitri Swank
   url: http://www.fontbros.com/families/dimitri-swank/styles/regular
-git: https://github.com/twitchdev
 guide: https://www.twitch.tv/p/brand/
 images:
 - twitch-official.svg

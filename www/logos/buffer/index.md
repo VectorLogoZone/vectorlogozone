@@ -1,7 +1,7 @@
 ---
 blog: https://blog.bufferapp.com/
+codehost: https://github.com/https://github.com/bufferapp
 facebook: https://www.facebook.com/bufferapp
-git: https://github.com/bufferapp
 guide: https://buffer.com/press
 images:
 - buffer-icon.svg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/formbricks/formbricks
+codehost: https://github.com/https://github.com/formbricks/formbricks
 logohandle: formbricks
 sort: formbricks
 title: Formbricks

@@ -1,6 +1,6 @@
 ---
 blog: https://armory.io/blog
-git: https://github.com/armory-io
+codehost: https://github.com/https://github.com/armory-io
 linkedin: https://linkedin.com/company/armory.io
 logohandle: armoryio
 sort: armory

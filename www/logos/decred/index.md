@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/decred
-git: https://github.com/decred
+codehost: https://github.com/https://github.com/decred
 logohandle: decred
 sort: decred
 title: Decred

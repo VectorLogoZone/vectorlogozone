@@ -1,5 +1,5 @@
 ---
-git: https://github.com/leafo/luarocks-site
+codehost: https://github.com/https://github.com/leafo/luarocks-site
 logohandle: luarocks
 sort: luarocks
 title: LuaRocks

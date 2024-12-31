@@ -1,5 +1,5 @@
 ---
-git: https://github.com/openpreserve
+codehost: https://github.com/https://github.com/openpreserve
 linkedin: https://linkedin.com/company/openpreservation
 logohandle: openpreservation
 sort: openpreservation

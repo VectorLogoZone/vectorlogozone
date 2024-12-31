@@ -1,5 +1,5 @@
 ---
-git: https://github.com/outline
+codehost: https://github.com/https://github.com/outline
 logohandle: getoutline
 sort: outline
 title: Outline

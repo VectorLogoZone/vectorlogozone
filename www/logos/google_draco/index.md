@@ -1,5 +1,5 @@
 ---
-git: https://github.com/google/draco
+codehost: https://github.com/https://github.com/google/draco
 logohandle: google_draco
 sort: draco3d
 title: Draco 3D

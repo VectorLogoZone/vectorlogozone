@@ -1,7 +1,7 @@
 ---
 blog: https://yubico.com/blog
+codehost: https://github.com/https://github.com/yubico
 facebook: https://facebook.com/Yubikey
-git: https://github.com/yubico
 googleplus: https://plus.google.com/+Yubico
 linkedin: https://linkedin.com/company/yubico
 logohandle: yubico

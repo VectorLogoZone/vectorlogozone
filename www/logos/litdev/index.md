@@ -1,5 +1,5 @@
 ---
-git: https://github.com/lit/lit
+codehost: https://github.com/https://github.com/lit/lit
 logohandle: litdev
 sort: litdev
 title: Lit

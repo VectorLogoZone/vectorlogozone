@@ -1,5 +1,5 @@
 ---
-git: https://github.com/OpenRefine/OpenRefine
+codehost: https://github.com/https://github.com/OpenRefine/OpenRefine
 logohandle: openrefine
 sort: openrefine
 title: OpenRefine

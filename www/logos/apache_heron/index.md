@@ -1,5 +1,5 @@
 ---
-git: https://github.com/twitter/heron
+codehost: https://github.com/https://github.com/twitter/heron
 logohandle: apache_heron
 sort: heron
 tags:

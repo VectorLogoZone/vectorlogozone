@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dg-i
+codehost: https://github.com/https://github.com/dg-i
 logohandle: dg-inet
 sort: dg-i
 title: DG-i

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vkarpov15
+codehost: https://github.com/https://github.com/vkarpov15
 logohandle: thecodebarbarian
 sort: codebarbarian
 title: The Code Barbarian

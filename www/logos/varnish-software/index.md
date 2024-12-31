@@ -1,7 +1,7 @@
 ---
 blog: http://info.varnish-software.com/blog
+codehost: https://github.com/https://github.com/varnish
 facebook: https://facebook.com/varnishsoftware
-git: https://github.com/varnish
 linkedin: https://linkedin.com/company/varnish-software
 logohandle: varnish-software
 sort: varnish-software

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/DistriNet/tranco-list
+codehost: https://github.com/https://github.com/DistriNet/tranco-list
 logohandle: trancolisteu
 sort: tranco
 title: Tranco

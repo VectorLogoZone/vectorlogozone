@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/GliaX
 facebook: https://facebook.com/glia.project
-git: https://github.com/GliaX
 logohandle: glia
 sort: glia
 title: Glia

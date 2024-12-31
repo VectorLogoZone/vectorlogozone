@@ -1,5 +1,5 @@
 ---
-git: https://github.com/patternfly/patternfly
+codehost: https://github.com/https://github.com/patternfly/patternfly
 logohandle: patternfly
 sort: patternfly
 title: PatternFly

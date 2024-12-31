@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ladjs/lad
+codehost: https://github.com/https://github.com/ladjs/lad
 logohandle: ladsh
 sort: ladjs
 title: Lad.js

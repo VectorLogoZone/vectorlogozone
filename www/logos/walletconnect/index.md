@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/walletconnect
-git: https://github.com/WalletConnect
+codehost: https://github.com/https://github.com/WalletConnect
 logohandle: walletconnect
 sort: walletconnect
 title: WalletConnect

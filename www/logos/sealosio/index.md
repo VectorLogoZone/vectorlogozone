@@ -1,5 +1,5 @@
 ---
-git: https://github.com/labring/sealos
+codehost: https://github.com/https://github.com/labring/sealos
 logohandle: sealosio
 sort: sealos
 title: Sealos

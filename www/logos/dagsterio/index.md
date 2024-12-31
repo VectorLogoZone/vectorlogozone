@@ -1,5 +1,5 @@
 ---
-git: https://github.com/dagster-io/dagster
+codehost: https://github.com/https://github.com/dagster-io/dagster
 logohandle: dagsterio
 sort: dagster
 title: Dagster

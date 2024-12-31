@@ -1,7 +1,7 @@
 ---
 blog: https://www.raspberrypi.org/blog/
+codehost: https://github.com/https://github.com/raspberrypi
 facebook: https://www.facebook.com/raspberrypi
-git: https://github.com/raspberrypi
 images:
 - raspberrypi-ar21.svg
 - raspberrypi-icon.svg

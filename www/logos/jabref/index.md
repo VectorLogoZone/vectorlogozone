@@ -1,6 +1,6 @@
 ---
 blog: https://blog.jabref.org/
-git: https://github.com/JabRef/jabref
+codehost: https://github.com/https://github.com/JabRef/jabref
 logohandle: jabref
 sort: jabref
 title: JabRef

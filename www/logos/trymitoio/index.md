@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mito-ds/monorepo
+codehost: https://github.com/https://github.com/mito-ds/monorepo
 logohandle: trymitoio
 sort: mito
 title: Mito

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vkbo/novelwriter
+codehost: https://github.com/https://github.com/vkbo/novelwriter
 logohandle: novelwriterio
 sort: novelwriter
 title: novelWriter

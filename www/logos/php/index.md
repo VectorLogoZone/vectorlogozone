@@ -1,5 +1,5 @@
 ---
-git: https://github.com/php
+codehost: https://github.com/https://github.com/php
 images:
 - php-icon.svg
 - php-horizontal.svg

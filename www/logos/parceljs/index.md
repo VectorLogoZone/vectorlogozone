@@ -1,5 +1,5 @@
 ---
-git: https://github.com/parcel-bundler/parcel
+codehost: https://github.com/https://github.com/parcel-bundler/parcel
 guide: https://github.com/parcel-bundler/website/tree/master/src/assets
 logohandle: parceljs
 sort: parceljs

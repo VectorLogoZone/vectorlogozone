@@ -1,8 +1,8 @@
 ---
+codehost: https://github.com/https://github.com/angular/angular
 colors:
 - '#E23237'
 - '#B52E31'
-git: https://github.com/angular/angular
 images:
 - angular-icon.svg
 - angular-ar21.svg

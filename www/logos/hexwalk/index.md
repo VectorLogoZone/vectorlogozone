@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gcarmix/HexWalk
+codehost: https://github.com/https://github.com/gcarmix/HexWalk
 logohandle: hexwalk
 sort: hexwalk
 title: HexWalk

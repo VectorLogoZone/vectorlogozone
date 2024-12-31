@@ -1,7 +1,7 @@
 ---
 blog: https://blog.minio.io/
+codehost: https://github.com/https://github.com/minio
 facebook: https://www.facebook.com/Minio.io/
-git: https://github.com/minio
 guide: https://www.minio.io/logo.html
 images:
 - minioio-ar21.svg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/liquidata-inc
+codehost: https://github.com/https://github.com/liquidata-inc
 logohandle: liquidataco
 sort: liquidata
 title: Liquid Data

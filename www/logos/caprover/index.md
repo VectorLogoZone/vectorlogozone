@@ -1,5 +1,5 @@
 ---
-git: https://github.com/CapRover/CapRover
+codehost: https://github.com/https://github.com/CapRover/CapRover
 logohandle: caprover
 sort: caprover
 title: CapRover

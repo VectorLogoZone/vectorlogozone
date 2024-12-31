@@ -1,7 +1,7 @@
 ---
 blog: https://semaphoreci.com/blog
+codehost: https://github.com/https://github.com/SemaphoreCI
 facebook: https://facebook.com/SemaphoreCI
-git: https://github.com/SemaphoreCI
 logohandle: semaphoreci
 sort: semaphoreci
 title: SemaphoreCI

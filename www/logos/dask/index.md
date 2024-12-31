@@ -1,6 +1,6 @@
 ---
 blog: https://blog.dask.org/
-git: https://github.com/dask
+codehost: https://github.com/https://github.com/dask
 logohandle: dask
 sort: dask
 title: Dask

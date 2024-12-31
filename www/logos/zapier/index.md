@@ -1,12 +1,12 @@
 ---
 blog: https://zapier.com/blog/
+codehost: https://github.com/https://github.com/zapier
 colors:
 - '#FF4A00'
 facebook: http://www.facebook.com/ZapierApp
 font:
   google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans
-git: https://github.com/zapier
 guide: https://zapier.com/brand/
 images:
 - zapier-ar21.svg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/open-wc/open-wc
+codehost: https://github.com/https://github.com/open-wc/open-wc
 logohandle: open-wc
 sort: open-wc
 title: Open Web Components

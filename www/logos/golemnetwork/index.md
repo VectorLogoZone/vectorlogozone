@@ -1,7 +1,7 @@
 ---
 blog: http://blog.golemproject.net/
+codehost: https://github.com/https://github.com/golemfactory
 facebook: https://facebook.com/golemproject
-git: https://github.com/golemfactory
 logohandle: golemnetwork
 sort: golem
 title: Golem Network

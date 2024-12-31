@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/pdf-association
 facebook: https://facebook.com/PDFassociation
-git: https://github.com/pdf-association
 linkedin: https://linkedin.com/company/pdf-association
 logohandle: pdfa
 sort: pdfa

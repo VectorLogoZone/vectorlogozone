@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/lucee
 facebook: https://facebook.com/luceeserver
-git: https://github.com/lucee
 logohandle: lucee
 sort: lucee
 title: Lucee

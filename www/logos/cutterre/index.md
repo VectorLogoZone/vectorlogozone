@@ -1,5 +1,5 @@
 ---
-git: https://github.com/radareorg/cutter
+codehost: https://github.com/https://github.com/radareorg/cutter
 logohandle: cutterre
 sort: cutter
 title: Cutter

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/builderio/builder
+codehost: https://github.com/https://github.com/builderio/builder
 logohandle: builderio
 sort: builderio
 title: Builder.io

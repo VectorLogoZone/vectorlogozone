@@ -1,6 +1,6 @@
 ---
 blog: https://www.emberjs.com/blog/
-git: https://github.com/emberjs
+codehost: https://github.com/https://github.com/emberjs
 googleplus: https://plus.google.com/communities/106387049790387471205
 guide: https://www.emberjs.com/logos/
 images:

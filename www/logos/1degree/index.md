@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/one-degree
+codehost: https://github.com/https://github.com/1deg
 facebook: https://facebook.com/1degree.org
-git: https://github.com/1deg
 instagram: https://instagram.com/1deg
 linkedin: http://linkedin.com/company/one-degree-inc-
 logohandle: 1degree

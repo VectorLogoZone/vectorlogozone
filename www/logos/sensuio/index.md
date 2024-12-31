@@ -1,6 +1,6 @@
 ---
 blog: https://blog.sensu.io/
-git: https://github.com/sensu
+codehost: https://github.com/https://github.com/sensu
 logohandle: sensuio
 sort: sensu
 title: Sensu

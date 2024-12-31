@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ryanoasis/nerd-fonts
+codehost: https://github.com/https://github.com/ryanoasis/nerd-fonts
 logohandle: nerdfonts
 sort: nerdfonts
 title: Nerd Fonts

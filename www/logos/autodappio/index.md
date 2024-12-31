@@ -1,5 +1,5 @@
 ---
-git: https://github.com/autodapp/autodapp
+codehost: https://github.com/https://github.com/autodapp/autodapp
 logohandle: autodappio
 sort: autodapp
 title: AutoDapp

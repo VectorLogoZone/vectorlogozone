@@ -1,7 +1,7 @@
 ---
 blog: https://cprime.com/resources/blog
+codehost: https://github.com/https://github.com/carhartl/jquery-cookie
 facebook: https://www.facebook.com/cprimeinc
-git: https://github.com/carhartl/jquery-cookie
 linkedin: https://linkedin.com/company/cprime-inc-
 logohandle: cprime
 sort: cprime

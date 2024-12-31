@@ -1,5 +1,5 @@
 ---
-git: https://github.com/answerdev/answer
+codehost: https://github.com/https://github.com/answerdev/answer
 logohandle: answerdev
 sort: answer
 title: AnswerDev

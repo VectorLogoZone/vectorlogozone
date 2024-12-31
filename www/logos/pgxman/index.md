@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pgxman
+codehost: https://github.com/https://github.com/pgxman
 logohandle: pgxman
 sort: pgxman
 title: pgxman

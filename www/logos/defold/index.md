@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/defold
 facebook: https://facebook.com/Defold
-git: https://github.com/defold
 linkedin: https://linkedin.com/company/defold-foundation
 logohandle: defold
 sort: defold

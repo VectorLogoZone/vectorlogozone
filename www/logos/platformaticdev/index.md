@@ -1,6 +1,6 @@
 ---
 blog: https://blog.platformatic.dev/
-git: https://github.com/platformatic
+codehost: https://github.com/https://github.com/platformatic
 linkedin: https://linkedin.com/company/platformatic
 logohandle: platformaticdev
 sort: platformatic

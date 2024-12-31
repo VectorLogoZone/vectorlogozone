@@ -1,7 +1,7 @@
 ---
 blog: https://segment.com/blog
+codehost: https://github.com/https://github.com/segmentio
 facebook: https://facebook.com/segmentio
-git: https://github.com/segmentio
 linkedin: https://linkedin.com/company-beta/2425698
 logohandle: segment
 sort: segment

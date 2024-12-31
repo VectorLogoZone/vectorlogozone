@@ -1,5 +1,5 @@
 ---
-git: https://github.com/testanything
+codehost: https://github.com/https://github.com/testanything
 logohandle: testanything
 sort: testanything
 title: Test Anything Protocol

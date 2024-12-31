@@ -1,7 +1,7 @@
 ---
 blog: https://kloudless.com/blog/
+codehost: https://github.com/https://github.com/Kloudless
 facebook: https://facebook.com/kloudless
-git: https://github.com/Kloudless
 linkedin: https://linkedin.com/company/kloudless
 logohandle: kloudless
 sort: kloudless

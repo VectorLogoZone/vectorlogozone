@@ -1,6 +1,6 @@
 ---
 blog: http://blog.howdy.ai/
-git: https://github.com/howdyai/botkit
+codehost: https://github.com/https://github.com/howdyai/botkit
 logohandle: botkitai
 sort: botkit
 title: Botkit

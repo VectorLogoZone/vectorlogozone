@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zauberzeug
+codehost: https://github.com/https://github.com/zauberzeug
 instagram: https://instagram.com/zauberzeug_com
 linkedin: https://linkedin.com/company/zauberzeug
 logohandle: zauberzeug

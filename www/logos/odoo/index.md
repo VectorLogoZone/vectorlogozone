@@ -1,6 +1,6 @@
 ---
 blog: https://odoo.com/blog/
-git: https://github.com/odoo/odoo
+codehost: https://github.com/https://github.com/odoo/odoo
 logohandle: odoo
 sort: odoo
 title: Odoo

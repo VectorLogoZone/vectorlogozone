@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gpodder/gpodder
+codehost: https://github.com/https://github.com/gpodder/gpodder
 logohandle: github_gpodder
 sort: gpodder
 title: gPodder

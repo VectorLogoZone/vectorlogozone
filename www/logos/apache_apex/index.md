@@ -1,5 +1,5 @@
 ---
-git: https://github.com/apache/apex-core
+codehost: https://github.com/https://github.com/apache/apex-core
 logohandle: apache_apex
 sort: apex
 tags:

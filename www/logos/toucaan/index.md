@@ -1,6 +1,6 @@
 ---
 blog: https://bubblin.io/blog/category/toucaan
-git: https://github.com/bookiza/toucaan
+codehost: https://github.com/https://github.com/bookiza/toucaan
 logohandle: toucaan
 sort: toucaan
 title: Toucaan

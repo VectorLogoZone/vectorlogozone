@@ -1,7 +1,7 @@
 ---
 blog: http://blog.vogella.com/
+codehost: https://github.com/https://github.com/vogellacompany
 facebook: https://facebook.com/pages/Vogella/291986214230897
-git: https://github.com/vogellacompany
 linkedin: https://linkedin.com/company/vogella-gmbh
 logohandle: vogella
 sort: vogella

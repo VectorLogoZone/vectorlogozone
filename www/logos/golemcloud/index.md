@@ -1,5 +1,5 @@
 ---
-git: https://github.com/golemcloud
+codehost: https://github.com/https://github.com/golemcloud
 linkedin: https://linkedin.com/company/golem-cloud/?viewAsMember=true
 logohandle: golemcloud
 sort: golem

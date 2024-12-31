@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zfcampus
+codehost: https://github.com/https://github.com/zfcampus
 logohandle: apigility
 sort: apigility
 title: Apigility

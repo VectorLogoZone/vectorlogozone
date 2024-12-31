@@ -1,7 +1,7 @@
 ---
 blog: https://fivetran.com/blog
+codehost: https://github.com/https://github.com/fivetran
 facebook: https://facebook.com/Fivetran
-git: https://github.com/fivetran
 linkedin: https://linkedin.com/company/fivetran
 logohandle: fivetran
 sort: fivetran

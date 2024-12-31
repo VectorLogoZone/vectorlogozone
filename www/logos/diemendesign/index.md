@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/DiemenDesign
 facebook: https://facebook.com/diemendesign
-git: https://github.com/DiemenDesign
 instagram: https://instagram.com/diemen_design
 logohandle: diemendesign
 sort: diemendesign

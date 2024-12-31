@@ -1,5 +1,5 @@
 ---
-git: https://github.com/wireui/wireui
+codehost: https://github.com/https://github.com/wireui/wireui
 logohandle: wireuidev
 sort: wireui
 title: WireUI

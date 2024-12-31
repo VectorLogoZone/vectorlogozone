@@ -1,6 +1,6 @@
 ---
 blog: http://blog.vavr.io/
-git: https://github.com/vavr-io/vavr
+codehost: https://github.com/https://github.com/vavr-io/vavr
 logohandle: vavrio
 sort: vavr
 title: Vavr

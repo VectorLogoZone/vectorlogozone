@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Igalia/wolvic
+codehost: https://github.com/https://github.com/Igalia/wolvic
 logohandle: wolvic
 sort: wolvic
 title: Wolvic

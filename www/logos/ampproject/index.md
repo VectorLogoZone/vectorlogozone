@@ -1,8 +1,8 @@
 ---
 blog: https://amphtml.wordpress.com/
+codehost: https://github.com/https://github.com/ampproject
 colors:
 - '#0379C4'
-git: https://github.com/ampproject
 guide: https://github.com/ampproject/docs/blob/master/assets/img/icons/
 images:
 - ampproject-ar21.svg

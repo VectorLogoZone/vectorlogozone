@@ -1,5 +1,5 @@
 ---
-git: https://github.com/DNS-OARC
+codehost: https://github.com/https://github.com/DNS-OARC
 linkedin: https://linkedin.com/company/dns-oarc
 logohandle: dns-oarcnet
 sort: dns-oarc

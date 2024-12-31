@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/js-cookie/js-cookie
 facebook: https://facebook.com/assembledhq
-git: https://github.com/js-cookie/js-cookie
 linkedin: https://linkedin.com/company/assembledhq
 logohandle: assembled
 sort: assembled

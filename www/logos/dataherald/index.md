@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/dataherald
+codehost: https://github.com/https://github.com/Dataherald/dataherald
 facebook: https://facebook.com/dataherald
-git: https://github.com/Dataherald/dataherald
 instagram: https://instagram.com/dataheraldco
 linkedin: https://linkedin.com/company/dataherald
 logohandle: dataherald

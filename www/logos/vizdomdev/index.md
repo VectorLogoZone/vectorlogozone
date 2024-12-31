@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vizdom-dev/vizdom
+codehost: https://github.com/https://github.com/vizdom-dev/vizdom
 logohandle: vizdomdev
 sort: vizdom
 title: Vizdom

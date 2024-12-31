@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/veryfi
 facebook: https://facebook.com/veryfinance
-git: https://github.com/veryfi
 instagram: https://instagram.com/veryfi_inc
 linkedin: https://linkedin.com/company/veryfi-inc
 logohandle: veryfi

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/VectorLogoZone/awesome-logos
+codehost: https://github.com/https://github.com/VectorLogoZone/awesome-logos
 images:
 - awesomelogos-ar21.svg
 - awesomelogos-horizontal.svg

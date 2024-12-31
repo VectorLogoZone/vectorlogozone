@@ -1,5 +1,5 @@
 ---
-git: https://github.com/jameslittle230/stork
+codehost: https://github.com/https://github.com/jameslittle230/stork
 logohandle: stork-searchnet
 sort: stork-search
 title: Stork Search

@@ -1,11 +1,11 @@
 ---
 blog: https://www.haskell.org/news
+codehost: https://github.com/https://github.com/haskell-infra/hl
 font:
   freename: Swansea
   freeurl: http://www.fontspace.com/roger-white/swansea
   myfonts: http://www.myfonts.com/fonts/linotype/helvetica/bold/
   name: Helvetica
-git: https://github.com/haskell-infra/hl
 images:
 - haskell-ar21.svg
 - haskell-wordmark.svg

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ledokku/ledokku
+codehost: https://github.com/https://github.com/ledokku/ledokku
 logohandle: ledokku
 sort: ledokku
 title: Ledokku

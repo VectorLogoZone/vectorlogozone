@@ -1,5 +1,5 @@
 ---
-git: https://github.com/monitoror/monitoror
+codehost: https://github.com/https://github.com/monitoror/monitoror
 logohandle: monitoror
 sort: monitoror
 title: Monitoror

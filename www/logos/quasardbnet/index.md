@@ -1,7 +1,7 @@
 ---
 blog: https://blog.quasardb.net/
+codehost: https://github.com/https://github.com/bureau14
 facebook: https://facebook.com/Quasardb.1
-git: https://github.com/bureau14
 linkedin: https://linkedin.com/company/quasardb
 logohandle: quasardbnet
 sort: quasardb

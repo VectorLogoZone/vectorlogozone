@@ -1,7 +1,7 @@
 ---
 blog: https://feathersui.com/blog/
+codehost: https://github.com/https://github.com/BowlerHatLLC/feathers-sdk
 facebook: https://facebook.com/feathersui
-git: https://github.com/BowlerHatLLC/feathers-sdk
 logohandle: feathersui
 sort: feathersui
 title: Feathers UI

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/Graylog2
+codehost: https://github.com/https://github.com/Graylog2
 linkedin: https://linkedin.com/company/graylog
 logohandle: graylog
 sort: graylog

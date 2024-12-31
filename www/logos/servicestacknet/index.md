@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ServiceStack
+codehost: https://github.com/https://github.com/ServiceStack
 googleplus: https://plus.google.com/u/0/communities/112445368900682590445
 logohandle: servicestacknet
 sort: servicestack

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/facebook/folly
+codehost: https://github.com/https://github.com/facebook/folly
 logohandle: facebook_folly
 sort: folly
 tags:

@@ -1,7 +1,7 @@
 ---
 blog: https://postmarkapp.com/blog
+codehost: https://github.com/https://github.com/wildbit/postmark-gem
 facebook: https://facebook.com/postmarkapp
-git: https://github.com/wildbit/postmark-gem
 logohandle: postmarkapp
 sort: postmarkapp
 title: Postmark

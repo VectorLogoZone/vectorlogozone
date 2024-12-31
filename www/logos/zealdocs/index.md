@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zealdocs/zeal
+codehost: https://github.com/https://github.com/zealdocs/zeal
 logohandle: zealdocs
 sort: zealdocs
 title: Zeal

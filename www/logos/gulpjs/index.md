@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/gulpjs
-git: https://github.com/gulpjs/gulp
+codehost: https://github.com/https://github.com/gulpjs/gulp
 guide: https://github.com/gulpjs/gulpjs.github.io/tree/master/img
 logohandle: gulpjs
 sort: gulpjs

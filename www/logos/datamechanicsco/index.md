@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/datamechanics
 facebook: https://facebook.com/Data-Mechanics-101138618217226
-git: https://github.com/datamechanics
 linkedin: https://linkedin.com/company/datamechanics
 logohandle: datamechanicsco
 sort: datamechanics

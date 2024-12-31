@@ -1,5 +1,5 @@
 ---
-git: https://github.com/markphelps/flipt
+codehost: https://github.com/https://github.com/markphelps/flipt
 logohandle: fliptio
 sort: flipt
 title: Flipt

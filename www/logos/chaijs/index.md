@@ -1,5 +1,5 @@
 ---
-git: https://github.com/chaijs/chai
+codehost: https://github.com/https://github.com/chaijs/chai
 guide: https://github.com/chaijs/chaijs.github.io/tree/master/img
 logohandle: chaijs
 sort: chai

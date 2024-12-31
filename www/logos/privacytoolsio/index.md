@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@privacy-tools
-git: https://github.com/privacytoolsIO/privacy-tools
+codehost: https://github.com/https://github.com/privacytoolsIO/privacy-tools
 instagram: https://instagram.com/privacytools_io
 logohandle: privacytoolsio
 sort: privacytools

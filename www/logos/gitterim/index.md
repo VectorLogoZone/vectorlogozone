@@ -1,6 +1,6 @@
 ---
 blog: http://blog.gitter.im/
-git: https://github.com/gitterHQ
+codehost: https://github.com/https://github.com/gitterHQ
 logohandle: gitterim
 sort: gitter
 title: Gitter

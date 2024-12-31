@@ -1,6 +1,6 @@
 ---
 blog: https://blog.loomio.com/index.xml
-git: https://github.com/loomio/loomio
+codehost: https://github.com/https://github.com/loomio/loomio
 linkedin: https://linkedin.com/company/loomio
 logohandle: loomio
 sort: loomio

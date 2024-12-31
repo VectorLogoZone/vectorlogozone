@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/TablePlus/TablePlus
 facebook: https://facebook.com/tableplusapp
-git: https://github.com/TablePlus/TablePlus
 logohandle: tableplus
 sort: tableplus
 title: TablePlus

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/aol/moloch
+codehost: https://github.com/https://github.com/aol/moloch
 logohandle: moloch
 sort: moloch
 title: Moloch

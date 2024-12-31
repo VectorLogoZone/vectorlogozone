@@ -1,5 +1,5 @@
 ---
-git: https://github.com/splitbee
+codehost: https://github.com/https://github.com/splitbee
 logohandle: splitbeeio
 sort: splitbee
 title: Splitbee

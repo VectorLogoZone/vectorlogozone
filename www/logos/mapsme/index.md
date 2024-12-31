@@ -1,7 +1,7 @@
 ---
 blog: https://maps.me/blog/en
+codehost: https://github.com/https://github.com/mapsme/omim
 facebook: http://facebook.com/MapsWithMe
-git: https://github.com/mapsme/omim
 logohandle: mapsme
 sort: mapsme
 title: Maps.me

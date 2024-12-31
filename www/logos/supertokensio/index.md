@@ -1,5 +1,5 @@
 ---
-git: https://github.com/supertokens/supertokens-core
+codehost: https://github.com/https://github.com/supertokens/supertokens-core
 logohandle: supertokensio
 sort: supertokens
 title: SuperTokens

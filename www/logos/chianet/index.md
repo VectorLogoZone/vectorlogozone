@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/@chia.net
+codehost: https://github.com/https://github.com/Chia-Network
 facebook: https://facebook.com/ChiaProject
-git: https://github.com/Chia-Network
 instagram: https://instagram.com/chia_project
 logohandle: chianet
 sort: chianet

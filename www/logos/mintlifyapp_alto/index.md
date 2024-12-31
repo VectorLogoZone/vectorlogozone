@@ -1,5 +1,5 @@
 ---
-git: https://github.com/runprism/alto
+codehost: https://github.com/https://github.com/runprism/alto
 logohandle: mintlifyapp_alto
 sort: alto
 title: Alto

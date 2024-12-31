@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/getshifter
 facebook: https://facebook.com/getshifter
-git: https://github.com/getshifter
 instagram: https://instagram.com/getshifter
 logohandle: getshifterio
 sort: shifter

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/socprime
 facebook: https://facebook.com/socprime
-git: https://github.com/socprime
 linkedin: https://linkedin.com/company/soc-prime
 logohandle: socprime
 sort: socprime

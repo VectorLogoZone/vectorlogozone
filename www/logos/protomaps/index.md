@@ -1,6 +1,6 @@
 ---
 blog: https://protomaps.com/blog/serverless-self-hosted-maps
-git: https://github.com/protomaps
+codehost: https://github.com/https://github.com/protomaps
 logohandle: protomaps
 sort: protomaps
 title: ProtoMaps

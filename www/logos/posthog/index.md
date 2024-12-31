@@ -1,5 +1,5 @@
 ---
-git: https://github.com/PostHog/posthog
+codehost: https://github.com/https://github.com/PostHog/posthog
 logohandle: posthog
 sort: posthog
 title: PostHog

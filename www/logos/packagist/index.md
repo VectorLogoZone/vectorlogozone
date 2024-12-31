@@ -1,5 +1,5 @@
 ---
-git: https://github.com/composer/packagist
+codehost: https://github.com/https://github.com/composer/packagist
 logohandle: packagist
 sort: packagist
 title: Packagist

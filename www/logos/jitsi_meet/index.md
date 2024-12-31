@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/jitsi
 facebook: https://facebook.com/jitsi
-git: https://github.com/jitsi
 linkedin: https://linkedin.com/company/8x8
 logohandle: jitsi_meet
 sort: jitsimeet

@@ -1,7 +1,7 @@
 ---
 blog: https://blog.dreamfactory.com/
+codehost: https://github.com/https://github.com/dreamfactorysoftware/dreamfactory
 facebook: https://facebook.com/dfsoftwareinc
-git: https://github.com/dreamfactorysoftware/dreamfactory
 linkedin: https://linkedin.com/company/dreamfactory-software
 logohandle: dreamfactory
 sort: dreamfactory

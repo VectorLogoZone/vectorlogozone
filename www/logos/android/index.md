@@ -1,9 +1,9 @@
 ---
 blog: https://officialandroid.blogspot.com/
+codehost: https://github.com/https://github.com/android
 colors:
 - '#A4C639'
 facebook: https://www.facebook.com/AndroidOfficial
-git: https://github.com/android
 guide: https://developer.android.com/distribute/marketing-tools/brand-guidelines.html
 images:
 - android-ar21.svg

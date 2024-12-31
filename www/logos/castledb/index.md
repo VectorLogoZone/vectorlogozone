@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ncannasse/castle
+codehost: https://github.com/https://github.com/ncannasse/castle
 logohandle: castledb
 sort: castledb
 title: CastleDB

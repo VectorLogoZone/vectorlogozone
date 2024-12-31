@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/facebook/litho
 facebook: https://code.facebook.com/projects
-git: https://github.com/facebook/litho
 logohandle: fblitho
 sort: fblitho
 title: Litho

@@ -1,6 +1,6 @@
 ---
 blog: https://pulsar.incubator.apache.org/blog/
-git: https://github.com/apache/incubator-pulsar
+codehost: https://github.com/https://github.com/apache/incubator-pulsar
 logohandle: apache_pulsar
 sort: pulsar
 tags:

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/firebase/firepad
+codehost: https://github.com/https://github.com/firebase/firepad
 logohandle: firepadio
 sort: firepad
 title: Firepad

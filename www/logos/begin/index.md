@@ -1,6 +1,6 @@
 ---
 blog: https://blog.begin.com/
-git: https://github.com/smallwins
+codehost: https://github.com/https://github.com/smallwins
 logohandle: begin
 sort: begin
 title: Begin

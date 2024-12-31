@@ -1,5 +1,5 @@
 ---
-git: https://github.com/istanbuljs
+codehost: https://github.com/https://github.com/istanbuljs
 logohandle: js_istanbul
 sort: istanbul.js
 title: Istanbul

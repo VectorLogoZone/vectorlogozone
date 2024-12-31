@@ -1,7 +1,7 @@
 ---
 blog: https://www.loc.gov/rss/
+codehost: https://github.com/https://github.com/LibraryOfCongress
 facebook: https://www.facebook.com/libraryofcongress/
-git: https://github.com/LibraryOfCongress
 images:
 - loc-icon.svg
 - loc-ar21.svg

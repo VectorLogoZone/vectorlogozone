@@ -1,6 +1,6 @@
 ---
 blog: https://blog.horizon-eda.org/
-git: https://github.com/horizon-eda/horizon
+codehost: https://github.com/https://github.com/horizon-eda/horizon
 logohandle: horizon-eda
 sort: horizon-eda
 title: horizon-eda

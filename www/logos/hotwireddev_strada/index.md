@@ -1,5 +1,5 @@
 ---
-git: https://github.com/hotwired/strada-web
+codehost: https://github.com/https://github.com/hotwired/strada-web
 logohandle: hotwireddev_strada
 sort: strada
 title: Strada

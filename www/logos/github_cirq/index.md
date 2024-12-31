@@ -1,6 +1,6 @@
 ---
 blog: https://github.com/quantumlib/Cirq/blob/master/docs/Cirq_logo_color.svg
-git: https://github.com/quantumlib/Cirq
+codehost: https://github.com/https://github.com/quantumlib/Cirq
 logohandle: github_cirq
 sort: cirq
 title: Cirq

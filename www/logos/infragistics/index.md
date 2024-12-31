@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/Infragistics
 facebook: https://facebook.com/infragistics
-git: https://github.com/Infragistics
 linkedin: http://linkedin.com/company/infragistics
 logohandle: infragistics
 sort: infragistics

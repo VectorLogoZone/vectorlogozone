@@ -1,6 +1,6 @@
 ---
 blog: https://blog.mailsac.com/
-git: https://github.com/mailsac
+codehost: https://github.com/https://github.com/mailsac
 logohandle: mailsac
 sort: mailsac
 title: Mailsac

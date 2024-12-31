@@ -1,5 +1,5 @@
 ---
-git: https://github.com/chakra-ui/panda
+codehost: https://github.com/https://github.com/chakra-ui/panda
 logohandle: panda-css
 sort: pandacss
 title: Panda CSS

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/misskey-dev/misskey
+codehost: https://github.com/https://github.com/misskey-dev/misskey
 logohandle: misskeyio
 sort: misskey
 title: Misskey

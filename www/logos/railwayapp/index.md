@@ -1,5 +1,5 @@
 ---
-git: https://github.com/railwayapp
+codehost: https://github.com/https://github.com/railwayapp
 logohandle: railwayapp
 sort: railway
 title: Railway

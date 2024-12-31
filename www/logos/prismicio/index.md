@@ -1,6 +1,6 @@
 ---
 blog: https://prismic.io/blog
-git: https://github.com/prismicio
+codehost: https://github.com/https://github.com/prismicio
 logohandle: prismicio
 sort: prismic
 title: Prismic

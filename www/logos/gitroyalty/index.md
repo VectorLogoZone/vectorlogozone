@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gitroyalty
+codehost: https://github.com/https://github.com/gitroyalty
 logohandle: gitroyalty
 sort: gitroyalty
 title: GitRoyalty

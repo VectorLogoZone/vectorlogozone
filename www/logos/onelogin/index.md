@@ -1,7 +1,7 @@
 ---
 blog: https://onelogin.com/blog/
+codehost: https://github.com/https://github.com/onelogin
 facebook: https://facebook.com/OneLogin
-git: https://github.com/onelogin
 linkedin: https://linkedin.com/company/onelogin
 logohandle: onelogin
 sort: onelogin

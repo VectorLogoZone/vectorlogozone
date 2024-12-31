@@ -1,5 +1,5 @@
 ---
-git: https://github.com/opencollective/backyourstack
+codehost: https://github.com/https://github.com/opencollective/backyourstack
 guide: https://github.com/opencollective/backyourstack/tree/master/src/static/img
 logohandle: backyourstack
 sort: backyourstack

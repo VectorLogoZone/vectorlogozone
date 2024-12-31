@@ -1,9 +1,9 @@
 ---
 blog: https://blog.podman.io/
+codehost: https://github.com/https://github.com/containers/podman
 colors:
 - '#892CA0'
 discord: https://discord.com/invite/x5GzFF6QH4
-git: https://github.com/containers/podman
 logohandle: podmanio
 sort: podman
 title: Podman

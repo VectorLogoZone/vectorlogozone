@@ -1,6 +1,6 @@
 ---
 blog: https://baseten.co/blog/
-git: https://github.com/basetenlabs
+codehost: https://github.com/https://github.com/basetenlabs
 linkedin: https://linkedin.com/company/baseten
 logohandle: basetenco
 sort: baseten

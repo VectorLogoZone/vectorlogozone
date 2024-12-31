@@ -1,5 +1,5 @@
 ---
-git: https://github.com/CycloneDX
+codehost: https://github.com/https://github.com/CycloneDX
 logohandle: cyclonedx
 sort: cyclonedx
 title: CycloneDX

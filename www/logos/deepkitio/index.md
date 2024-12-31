@@ -1,5 +1,5 @@
 ---
-git: https://github.com/deepkit/deepkit-framework
+codehost: https://github.com/https://github.com/deepkit/deepkit-framework
 logohandle: deepkitio
 sort: deepkit
 title: Deepkit

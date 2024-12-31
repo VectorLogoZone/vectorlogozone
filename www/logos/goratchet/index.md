@@ -1,5 +1,5 @@
 ---
-git: https://github.com/twbs/ratchet
+codehost: https://github.com/https://github.com/twbs/ratchet
 logohandle: goratchet
 sort: ratchet
 title: Ratchet

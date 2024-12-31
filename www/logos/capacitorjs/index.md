@@ -1,6 +1,6 @@
 ---
 blog: https://capacitorjs.com/blog/
-git: https://github.com/ionic-team/capacitor
+codehost: https://github.com/https://github.com/ionic-team/capacitor
 logohandle: capacitorjs
 sort: capacitorjs
 title: Capacitor

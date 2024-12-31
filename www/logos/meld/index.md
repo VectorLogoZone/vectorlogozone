@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/meld-labs
-git: https://github.com/MELD-labs
+codehost: https://github.com/https://github.com/MELD-labs
 linkedin: https://linkedin.com/company/meld-defi
 logohandle: meld
 sort: meld

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/regolith-linux
+codehost: https://github.com/https://github.com/regolith-linux
 logohandle: regolith-linux
 sort: regolith-linux
 title: Regolith

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/apache/kylin
 facebook: https://facebook.com/kylinio
-git: https://github.com/apache/kylin
 logohandle: apache_kylin
 sort: kylin
 tags:

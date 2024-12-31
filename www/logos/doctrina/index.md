@@ -1,5 +1,5 @@
 ---
-git: https://github.com/barrysteyn
+codehost: https://github.com/https://github.com/barrysteyn
 linkedin: https://linkedin.com/in/barrysteyn
 logohandle: doctrina
 sort: doctrina

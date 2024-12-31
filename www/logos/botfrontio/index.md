@@ -1,5 +1,5 @@
 ---
-git: https://github.com/botfront
+codehost: https://github.com/https://github.com/botfront
 logohandle: botfrontio
 sort: botfront
 title: Botfront

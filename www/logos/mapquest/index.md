@@ -1,7 +1,7 @@
 ---
 blog: https://devblog.mapquest.com/
+codehost: https://github.com/https://github.com/MapQuest
 facebook: https://www.facebook.com/MapQuest
-git: https://github.com/MapQuest
 guide: http://hello.mapquest.com/press/
 images:
 - mapquest-ar21.svg

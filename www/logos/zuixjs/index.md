@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zuixjs/zuix
+codehost: https://github.com/https://github.com/zuixjs/zuix
 logohandle: zuixjs
 sort: zuixjs
 title: zUIx.js

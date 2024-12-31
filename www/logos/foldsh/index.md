@@ -1,5 +1,5 @@
 ---
-git: https://github.com/foldsh
+codehost: https://github.com/https://github.com/foldsh
 logohandle: foldsh
 sort: foldsh
 title: Fold.sh

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/docker-slim/docker-slim
+codehost: https://github.com/https://github.com/docker-slim/docker-slim
 logohandle: dockerslim
 sort: dockerslim
 title: DockerSlim

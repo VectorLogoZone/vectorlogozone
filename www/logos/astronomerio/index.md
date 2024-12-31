@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/astronomer
 facebook: https://facebook.com/astronomerio
-git: https://github.com/astronomer
 instagram: https://instagram.com/astronomerdata
 linkedin: https://linkedin.com/company/astronomer
 logohandle: astronomerio

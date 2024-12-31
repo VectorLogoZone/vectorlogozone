@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/meya-ai
 facebook: https://facebook.com/getmeya
-git: https://github.com/meya-ai
 linkedin: https://linkedin.com/company/9432652
 logohandle: meyaai
 sort: meya

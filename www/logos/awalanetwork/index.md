@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/AwalaApp
 facebook: https://facebook.com/AwalaNetwork
-git: https://github.com/AwalaApp
 logohandle: awalanetwork
 sort: awala
 title: Awala

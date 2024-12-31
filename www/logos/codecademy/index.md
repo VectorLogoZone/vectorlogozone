@@ -1,12 +1,12 @@
 ---
 blog: https://www.codecademy.com/blog
+codehost: https://github.com/https://github.com/Codecademy
 dribbble: https://dribbble.com/codecademy
 facebook: https://www.facebook.com/codecademy
 font:
   myfonts: https://www.myfonts.com/fonts/linotype/din-next/
   name: DIN Next (customized)
   url: https://www.linotype.com/5798/din-next.html
-git: https://github.com/Codecademy
 images:
 - codecademy-ar21.svg
 - codecademy-icon.svg

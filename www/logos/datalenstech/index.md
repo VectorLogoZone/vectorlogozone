@@ -1,5 +1,5 @@
 ---
-git: https://github.com/datalens-tech/datalens
+codehost: https://github.com/https://github.com/datalens-tech/datalens
 logohandle: datalenstech
 sort: datalens
 title: DataLens

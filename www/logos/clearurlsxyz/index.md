@@ -1,5 +1,5 @@
 ---
-git: https://github.com/ClearURLs
+codehost: https://github.com/https://github.com/ClearURLs
 logohandle: clearurlsxyz
 sort: clearurls
 title: ClearURLs

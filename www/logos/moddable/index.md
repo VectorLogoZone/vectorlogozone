@@ -1,6 +1,6 @@
 ---
 blog: https://moddable.com/blog/
-git: https://github.com/Moddable-OpenSource/moddable
+codehost: https://github.com/https://github.com/Moddable-OpenSource/moddable
 logohandle: moddable
 sort: moddable
 title: Moddable

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zurb/foundation
+codehost: https://github.com/https://github.com/zurb/foundation
 logohandle: getfoundation
 sort: foundation
 title: Foundation

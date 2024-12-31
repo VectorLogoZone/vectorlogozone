@@ -1,5 +1,5 @@
 ---
-git: https://github.com/hashcat/hashcat
+codehost: https://github.com/https://github.com/hashcat/hashcat
 logohandle: hashcatnet
 sort: hashcat
 title: hashcat

@@ -1,7 +1,7 @@
 ---
 blog: https://www.scancafe.com/blog/
+codehost: https://github.com/https://github.com/scancafe
 facebook: https://www.facebook.com/scancafehome
-git: https://github.com/scancafe
 images:
 - scancafe-icon.svg
 - scancafe-ar21.svg

@@ -1,6 +1,6 @@
 ---
 blog: https://grain-lang.org/blog/
-git: https://github.com/grain-lang/grain
+codehost: https://github.com/https://github.com/grain-lang/grain
 logohandle: grain-lang
 sort: grain-lang
 title: Grain

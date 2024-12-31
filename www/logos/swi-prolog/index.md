@@ -1,5 +1,5 @@
 ---
-git: https://github.com/SWI-Prolog
+codehost: https://github.com/https://github.com/SWI-Prolog
 logohandle: swi-prolog
 sort: swiprolog
 title: SWI-Prolog

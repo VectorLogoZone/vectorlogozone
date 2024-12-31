@@ -1,5 +1,5 @@
 ---
-git: https://github.com/moonbitlang
+codehost: https://github.com/https://github.com/moonbitlang
 logohandle: moonbitlang
 sort: moonbitlang
 title: Moonbit

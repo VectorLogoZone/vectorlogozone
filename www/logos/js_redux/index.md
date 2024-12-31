@@ -1,5 +1,5 @@
 ---
-git: https://github.com/reduxjs/redux
+codehost: https://github.com/https://github.com/reduxjs/redux
 guide: https://github.com/reduxjs/redux/tree/master/logo
 logohandle: js_redux
 sort: redux

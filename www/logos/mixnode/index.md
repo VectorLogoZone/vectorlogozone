@@ -1,7 +1,7 @@
 ---
 blog: https://mixnode.com/blog
+codehost: https://github.com/https://github.com/Mixnode
 facebook: https://facebook.com/mixnode
-git: https://github.com/Mixnode
 instagram: https://instagram.com/mixnode
 linkedin: https://linkedin.com/company/mixnode
 logohandle: mixnode

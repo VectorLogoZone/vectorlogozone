@@ -1,5 +1,5 @@
 ---
-git: https://github.com/sametab
+codehost: https://github.com/https://github.com/sametab
 logohandle: sametab
 sort: sametab
 title: Sametab

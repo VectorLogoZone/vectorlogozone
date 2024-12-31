@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tembo-io/tembo-stacks
+codehost: https://github.com/https://github.com/tembo-io/tembo-stacks
 linkedin: https://linkedin.com/company/tembo-inc
 logohandle: temboio
 sort: tembo

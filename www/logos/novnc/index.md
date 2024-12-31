@@ -1,5 +1,5 @@
 ---
-git: https://github.com/novnc/noVNC
+codehost: https://github.com/https://github.com/novnc/noVNC
 logohandle: novnc
 sort: novnc
 title: noVNC

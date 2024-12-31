@@ -1,5 +1,5 @@
 ---
-git: https://github.com/openstack/magnum
+codehost: https://github.com/https://github.com/openstack/magnum
 logohandle: catalystcloud
 sort: catalystcloud
 title: Catalyst Cloud

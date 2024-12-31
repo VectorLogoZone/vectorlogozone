@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/we-are-serverless
-git: https://github.com/weareserverless
+codehost: https://github.com/https://github.com/weareserverless
 keywords:
 - was
 logohandle: weareserverless

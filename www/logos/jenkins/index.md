@@ -1,6 +1,6 @@
 ---
 blog: https://jenkins.io/node
-git: https://github.com/jenkinsci
+codehost: https://github.com/https://github.com/jenkinsci
 guide: https://wiki.jenkins-ci.org/display/JENKINS/Logo
 images:
 - jenkins-official.svg

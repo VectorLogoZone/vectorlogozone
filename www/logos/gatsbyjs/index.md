@@ -1,6 +1,6 @@
 ---
 blog: https://gatsbyjs.org/blog
-git: https://github.com/gatsbyjs/gatsby
+codehost: https://github.com/https://github.com/gatsbyjs/gatsby
 logohandle: gatsbyjs
 sort: gatsbyjs
 title: Gatsby.js

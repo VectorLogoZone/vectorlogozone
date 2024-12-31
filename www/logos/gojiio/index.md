@@ -1,5 +1,5 @@
 ---
-git: https://github.com/goji/goji
+codehost: https://github.com/https://github.com/goji/goji
 logohandle: gojiio
 sort: goji
 title: Goji

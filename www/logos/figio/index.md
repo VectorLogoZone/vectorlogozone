@@ -1,5 +1,5 @@
 ---
-git: https://github.com/withfig/autocomplete
+codehost: https://github.com/https://github.com/withfig/autocomplete
 logohandle: figio
 sort: fig
 title: Fig

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/guardianproject/orbot
+codehost: https://github.com/https://github.com/guardianproject/orbot
 logohandle: orbotapp
 sort: orbot
 title: Orbot

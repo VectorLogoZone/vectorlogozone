@@ -1,5 +1,5 @@
 ---
-git: https://github.com/unyt-org
+codehost: https://github.com/https://github.com/unyt-org
 logohandle: unyt
 sort: unyt
 title: unyt

@@ -1,7 +1,7 @@
 ---
 blog: https://blogs.lib.msu.edu/
+codehost: https://github.com/https://github.com/Michigan-State-University
 facebook: http://www.facebook.com/spartans.msu
-git: https://github.com/Michigan-State-University
 images:
 - msu_edu-icon.svg
 - msu_edu-ar21.svg

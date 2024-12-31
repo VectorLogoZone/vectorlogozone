@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/kentik
 facebook: https://facebook.com/kentiktech
-git: https://github.com/kentik
 linkedin: https://linkedin.com/company/kentik
 logohandle: kentik
 sort: kentik

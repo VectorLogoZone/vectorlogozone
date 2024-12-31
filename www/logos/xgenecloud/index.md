@@ -1,5 +1,5 @@
 ---
-git: https://github.com/XgeneCloud/XgeneCloud
+codehost: https://github.com/https://github.com/XgeneCloud/XgeneCloud
 linkedin: https://linkedin.com/company/xgenecloud
 logohandle: xgenecloud
 sort: xgenecloud

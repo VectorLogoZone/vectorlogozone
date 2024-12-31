@@ -1,5 +1,5 @@
 ---
-git: https://github.com/eranif/codelite
+codehost: https://github.com/https://github.com/eranif/codelite
 logohandle: codelite
 sort: codelite
 title: CodeLite

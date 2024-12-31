@@ -1,5 +1,5 @@
 ---
-git: https://github.com/fold-dev
+codehost: https://github.com/https://github.com/fold-dev
 linkedin: https://www.linkedin.com/company/fold-dev
 logohandle: folddev
 sort: folddev

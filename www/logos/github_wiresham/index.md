@@ -1,5 +1,5 @@
 ---
-git: https://github.com/abstracta/wiresham
+codehost: https://github.com/https://github.com/abstracta/wiresham
 logohandle: github_wiresham
 sort: wiresham
 title: wiresham

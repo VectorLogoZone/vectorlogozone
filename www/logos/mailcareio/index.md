@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mailcare/mailcare
+codehost: https://github.com/https://github.com/mailcare/mailcare
 logohandle: mailcareio
 sort: mailcare
 title: MailCare

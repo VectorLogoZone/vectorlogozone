@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zeromq
+codehost: https://github.com/https://github.com/zeromq
 logohandle: zeromq
 sort: zeromq
 title: zeromq

@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/authlete
 facebook: https://facebook.com/authlete
-git: https://github.com/authlete
 linkedin: https://linkedin.com/company/authlete
 logohandle: authlete
 sort: authlete

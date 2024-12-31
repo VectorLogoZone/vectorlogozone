@@ -1,6 +1,6 @@
 ---
 blog: https://honeycomb.io/blog
-git: https://github.com/js-cookie/js-cookie
+codehost: https://github.com/https://github.com/js-cookie/js-cookie
 logohandle: honeycombio
 sort: honeycomb
 title: Honeycomb

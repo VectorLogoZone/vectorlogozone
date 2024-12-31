@@ -1,7 +1,7 @@
 ---
 blog: https://backtrace.io/blog/
+codehost: https://github.com/https://github.com/backtrace-labs
 facebook: https://facebook.com/backtrace.io
-git: https://github.com/backtrace-labs
 linkedin: https://linkedin.com/company/backtrace-i-o
 logohandle: backtraceio
 sort: backtraceio

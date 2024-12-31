@@ -1,5 +1,5 @@
 ---
-git: https://github.com/hybridgroup/gobot
+codehost: https://github.com/https://github.com/hybridgroup/gobot
 logohandle: gobotio
 sort: gobot
 title: Gobot

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.tenon.io/
-git: https://github.com/tenon-io
+codehost: https://github.com/https://github.com/tenon-io
 linkedin: https://linkedin.com/company/tenon-io
 logohandle: tenonio
 sort: tenonio

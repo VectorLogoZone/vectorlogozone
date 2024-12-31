@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/organicmaps/organicmaps
 facebook: https://facebook.com/OrganicMaps
-git: https://github.com/organicmaps/organicmaps
 instagram: https://instagram.com/organicmaps.app
 linkedin: https://linkedin.com/company/organic-maps
 logohandle: organicmapsapp

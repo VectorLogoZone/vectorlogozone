@@ -1,5 +1,5 @@
 ---
-git: https://github.com/arc-repos
+codehost: https://github.com/https://github.com/arc-repos
 logohandle: arccodes
 sort: architect
 title: .architect

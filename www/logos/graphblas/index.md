@@ -1,5 +1,5 @@
 ---
-git: https://github.com/GraphBLAS
+codehost: https://github.com/https://github.com/GraphBLAS
 logohandle: graphblas
 sort: graphblas
 title: GraphBLAS

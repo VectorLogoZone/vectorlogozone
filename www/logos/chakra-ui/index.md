@@ -1,5 +1,5 @@
 ---
-git: https://github.com/chakra-ui/chakra-ui
+codehost: https://github.com/https://github.com/chakra-ui/chakra-ui
 logohandle: chakra-ui
 sort: chakraui
 title: Chakra UI

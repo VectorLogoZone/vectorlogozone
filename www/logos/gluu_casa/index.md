@@ -1,5 +1,5 @@
 ---
-git: https://github.com/GluuFederation/casa
+codehost: https://github.com/https://github.com/GluuFederation/casa
 logohandle: gluu_casa
 sort: casa
 title: Casa

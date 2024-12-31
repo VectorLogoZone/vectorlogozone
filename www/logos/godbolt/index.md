@@ -1,5 +1,5 @@
 ---
-git: https://github.com/mattgodbolt/compiler-explorer
+codehost: https://github.com/https://github.com/mattgodbolt/compiler-explorer
 logohandle: godbolt
 sort: godbolt
 title: Compiler Explorer

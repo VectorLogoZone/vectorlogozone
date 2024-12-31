@@ -1,7 +1,7 @@
 ---
 blog: https://www.elastic.co/blog
+codehost: https://github.com/https://github.com/elastic/elasticsearch
 facebook: http://www.facebook.com/elastic.co
-git: https://github.com/elastic/elasticsearch
 images:
 - elastic-icon.svg
 - elastic-ar21.svg

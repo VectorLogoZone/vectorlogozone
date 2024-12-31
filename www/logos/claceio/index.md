@@ -1,5 +1,5 @@
 ---
-git: https://github.com/claceio/clace
+codehost: https://github.com/https://github.com/claceio/clace
 logohandle: claceio
 sort: clace
 title: Clace

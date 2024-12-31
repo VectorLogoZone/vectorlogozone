@@ -1,5 +1,5 @@
 ---
-git: https://github.com/virt-manager/virt-manager
+codehost: https://github.com/https://github.com/virt-manager/virt-manager
 logohandle: virt-manager
 sort: virt-manager
 title: Virtual Machine Manager

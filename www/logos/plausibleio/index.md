@@ -1,5 +1,5 @@
 ---
-git: https://github.com/plausible-insights/plausible
+codehost: https://github.com/https://github.com/plausible-insights/plausible
 logohandle: plausibleio
 sort: plausible
 title: Plausible Analytics

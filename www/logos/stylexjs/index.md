@@ -1,5 +1,5 @@
 ---
-git: https://github.com/facebook/stylex
+codehost: https://github.com/https://github.com/facebook/stylex
 logohandle: stylexjs
 sort: stylexjs
 title: StyleX

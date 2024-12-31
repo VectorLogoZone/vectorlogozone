@@ -1,8 +1,8 @@
 ---
+codehost: https://github.com/https://github.com/slevithan/xregexp
 font:
   myfonts: http://www.myfonts.com/fonts/ascender/cambria/regular/
   name: Cambria Regular
-git: https://github.com/slevithan/xregexp
 images:
 - xregexp-vertical.svg
 - xregexp-ar21.svg

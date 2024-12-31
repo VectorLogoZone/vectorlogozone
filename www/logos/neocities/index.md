@@ -1,7 +1,7 @@
 ---
 blog: http://blog.neocities.org/
+codehost: https://github.com/https://github.com/neocities
 facebook: https://facebook.com/neocities
-git: https://github.com/neocities
 logohandle: neocities
 sort: neocities
 title: Neocities

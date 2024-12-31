@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zitadel/zitadel
+codehost: https://github.com/https://github.com/zitadel/zitadel
 linkedin: https://linkedin.com/company/zitadel
 logohandle: zitadel
 sort: zitadel

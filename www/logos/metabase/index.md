@@ -1,5 +1,5 @@
 ---
-git: https://github.com/metabase/metabase
+codehost: https://github.com/https://github.com/metabase/metabase
 logohandle: metabase
 sort: metabase
 title: Metabase

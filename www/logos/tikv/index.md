@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tikv/tikv
+codehost: https://github.com/https://github.com/tikv/tikv
 guide: https://github.com/cncf/artwork
 logohandle: tikv
 sort: tikv

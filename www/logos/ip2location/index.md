@@ -1,7 +1,7 @@
 ---
 blog: https://blog.ip2location.com/
+codehost: https://github.com/https://github.com/ip2location
 facebook: https://facebook.com/ip2location
-git: https://github.com/ip2location
 logohandle: ip2location
 sort: ip2location
 title: IP2Location

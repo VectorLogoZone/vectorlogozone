@@ -1,7 +1,7 @@
 ---
 blog: https://blog.bugsnag.com/
+codehost: https://github.com/https://github.com/bugsnag
 dribbble: https://dribbble.com/bugsnag
-git: https://github.com/bugsnag
 logohandle: bugsnag
 sort: bugsnag
 title: Bugsnag

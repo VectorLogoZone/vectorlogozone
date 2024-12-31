@@ -1,5 +1,5 @@
 ---
-git: https://github.com/deadmanssnitch
+codehost: https://github.com/https://github.com/deadmanssnitch
 logohandle: deadmanssnitch
 sort: deadmanssnitch
 title: Dead Man's Snitch

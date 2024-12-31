@@ -1,6 +1,6 @@
 ---
 blog: https://prometheus.io/blog/
-git: https://github.com/prometheus
+codehost: https://github.com/https://github.com/prometheus
 logohandle: prometheusio
 sort: prometheus
 title: Prometheus

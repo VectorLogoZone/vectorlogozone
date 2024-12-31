@@ -1,7 +1,7 @@
 ---
 blog: https://filebase.com/blog
+codehost: https://github.com/https://github.com/filebase
 facebook: https://facebook.com/filebaseinc
-git: https://github.com/filebase
 logohandle: filebase
 sort: filebase
 title: Filebase

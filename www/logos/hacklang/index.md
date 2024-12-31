@@ -1,7 +1,7 @@
 ---
 blog: http://hhvm.com/blog
+codehost: https://github.com/https://github.com/facebook/hhvm
 facebook: https://code.facebook.com/projects
-git: https://github.com/facebook/hhvm
 logohandle: hacklang
 sort: hacklang
 title: Hack

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/segmentio/metalsmith
+codehost: https://github.com/https://github.com/segmentio/metalsmith
 logohandle: metalsmithio
 sort: metalsmith
 title: Metalsmith

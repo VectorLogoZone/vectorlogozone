@@ -1,5 +1,5 @@
 ---
-git: https://github.com/vikhyat/moondream
+codehost: https://github.com/https://github.com/vikhyat/moondream
 logohandle: moondreamai
 sort: moondream
 title: moondream

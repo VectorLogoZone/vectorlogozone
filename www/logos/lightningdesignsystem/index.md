@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/salesforce-ux/design-system
 dribbble: https://dribbble.com/salesforce
-git: https://github.com/salesforce-ux/design-system
 logohandle: lightningdesignsystem
 sort: lightningdesignsystem
 title: Lightning Design System

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/adoptium
+codehost: https://github.com/https://github.com/adoptium
 linkedin: https://linkedin.com/showcase/adoptium
 logohandle: adoptiumnet
 sort: adoptium

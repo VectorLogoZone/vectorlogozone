@@ -1,6 +1,6 @@
 ---
 blog: https://blog.sia.tech/
-git: https://github.com/NebulousLabs/skynet-webportal
+codehost: https://github.com/https://github.com/NebulousLabs/skynet-webportal
 logohandle: siaskynet
 sort: siasky
 title: Sia Skynet

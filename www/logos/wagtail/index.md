@@ -1,6 +1,6 @@
 ---
 blog: https://blog.google/
-git: https://github.com/wagtail/wagtail
+codehost: https://github.com/https://github.com/wagtail/wagtail
 logohandle: wagtail
 sort: wagtail
 title: Wagtail

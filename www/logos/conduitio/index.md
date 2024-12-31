@@ -1,5 +1,5 @@
 ---
-git: https://github.com/linkerd/linkerd2
+codehost: https://github.com/https://github.com/linkerd/linkerd2
 logohandle: conduitio
 sort: conduit
 title: Conduit

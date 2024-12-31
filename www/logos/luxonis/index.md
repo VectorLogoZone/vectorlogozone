@@ -1,6 +1,6 @@
 ---
 blog: https://discuss.luxonis.com/blog
-git: https://github.com/luxonis
+codehost: https://github.com/https://github.com/luxonis
 linkedin: https://linkedin.com/company/luxonis
 logohandle: luxonis
 sort: luxonis

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/api-platform/api-platform
+codehost: https://github.com/https://github.com/api-platform/api-platform
 logohandle: api-platform
 sort: api-platform
 title: API Platform

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/stackbit
+codehost: https://github.com/https://github.com/stackbit
 linkedin: https://linkedin.com/company/stackbit
 logohandle: stackbit
 sort: stackbit

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/sieve-data
+codehost: https://github.com/https://github.com/sieve-data
 linkedin: https://linkedin.com/company/sievedata
 logohandle: sievedata
 sort: sievedata

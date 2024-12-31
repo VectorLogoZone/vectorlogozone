@@ -1,5 +1,5 @@
 ---
-git: https://github.com/chaskiq/chaskiq
+codehost: https://github.com/https://github.com/chaskiq/chaskiq
 logohandle: chaskiqio
 sort: chaskiq
 title: Chaskiq

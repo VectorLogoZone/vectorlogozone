@@ -1,5 +1,5 @@
 ---
-git: https://github.com/lunatic-solutions/lunatic
+codehost: https://github.com/https://github.com/lunatic-solutions/lunatic
 logohandle: lunaticsolutions
 sort: lunatic
 title: Lunatic

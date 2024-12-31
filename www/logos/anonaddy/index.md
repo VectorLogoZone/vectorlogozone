@@ -1,5 +1,5 @@
 ---
-git: https://github.com/anonaddy/anonaddy
+codehost: https://github.com/https://github.com/anonaddy/anonaddy
 logohandle: anonaddy
 sort: anonaddy
 title: AnonAddy

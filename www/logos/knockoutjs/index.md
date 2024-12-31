@@ -1,5 +1,5 @@
 ---
-git: https://github.com/SteveSanderson/knockout
+codehost: https://github.com/https://github.com/SteveSanderson/knockout
 logohandle: knockoutjs
 sort: knockoutjs
 title: Knockout

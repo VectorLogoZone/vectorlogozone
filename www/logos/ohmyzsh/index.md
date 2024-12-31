@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/ohmyzsh/ohmyzsh
 facebook: https://facebook.com/WeAreOhMyZsh
-git: https://github.com/ohmyzsh/ohmyzsh
 instagram: https://instagram.com/_ohmyzsh
 logohandle: ohmyzsh
 sort: ohmyzsh

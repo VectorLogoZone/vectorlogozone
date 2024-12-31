@@ -1,6 +1,6 @@
 ---
 blog: http://blog.memcachier.com/
-git: https://github.com/memcachier
+codehost: https://github.com/https://github.com/memcachier
 logohandle: memcachier
 sort: memcachier
 title: MemCachier

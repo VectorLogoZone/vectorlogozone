@@ -1,5 +1,5 @@
 ---
-git: https://github.com/zanata/zanata-platform
+codehost: https://github.com/https://github.com/zanata/zanata-platform
 logohandle: zanata
 sort: zanata
 title: Zanata

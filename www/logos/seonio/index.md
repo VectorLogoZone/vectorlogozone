@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/seontechnologies
 facebook: https://facebook.com/seontechnologies
-git: https://github.com/seontechnologies
 linkedin: http://linkedin.com/company/seon-tech
 logohandle: seonio
 sort: seon

@@ -1,5 +1,5 @@
 ---
-git: https://github.com/cherrypy/cherrypy
+codehost: https://github.com/https://github.com/cherrypy/cherrypy
 logohandle: cherrypydev
 sort: cherrypy
 title: CherryPy

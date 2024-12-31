@@ -1,5 +1,5 @@
 ---
-git: https://github.com/hybridgroup/cylon
+codehost: https://github.com/https://github.com/hybridgroup/cylon
 logohandle: cylonjs
 sort: cylonjs
 title: Cylon.js

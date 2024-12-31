@@ -1,5 +1,5 @@
 ---
-git: https://github.com/tonicai
+codehost: https://github.com/https://github.com/tonicai
 linkedin: https://linkedin.com/company/tonicai
 logohandle: tonicai
 sort: tonicai

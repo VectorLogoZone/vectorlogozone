@@ -1,7 +1,7 @@
 ---
 blog: https://blog.zold.io/
+codehost: https://github.com/https://github.com/zold-io/zold
 facebook: https://facebook.com/zerocracy
-git: https://github.com/zold-io/zold
 instagram: https://instagram.com/zerocracy
 logohandle: zoldio
 sort: zold

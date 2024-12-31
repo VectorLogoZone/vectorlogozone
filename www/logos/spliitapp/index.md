@@ -1,5 +1,5 @@
 ---
-git: https://github.com/scastiel/spliit2
+codehost: https://github.com/https://github.com/scastiel/spliit2
 logohandle: spliitapp
 sort: spliit
 title: Spliit · Share Expenses with Friends &amp; Family

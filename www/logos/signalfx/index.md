@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/signalfx
 facebook: https://facebook.com/SignalFxInc
-git: https://github.com/signalfx
 linkedin: https://linkedin.com/company/signalfx
 logohandle: signalfx
 sort: signalfx

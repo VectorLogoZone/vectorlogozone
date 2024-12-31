@@ -1,6 +1,6 @@
 ---
 blog: https://blog.svix.com/
-git: https://github.com/svix
+codehost: https://github.com/https://github.com/svix
 linkedin: https://linkedin.com/company/svix
 logohandle: svix
 sort: svix

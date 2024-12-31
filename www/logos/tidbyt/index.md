@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/tidbyt
 facebook: https://facebook.com/HelloTidbyt
-git: https://github.com/tidbyt
 instagram: https://instagram.com/hellotidbyt
 logohandle: tidbyt
 sort: tidbyt

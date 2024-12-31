@@ -1,5 +1,5 @@
 ---
-git: https://github.com/gethomepage/homepage
+codehost: https://github.com/https://github.com/gethomepage/homepage
 logohandle: gethomepagedev
 sort: homepage
 title: homepage

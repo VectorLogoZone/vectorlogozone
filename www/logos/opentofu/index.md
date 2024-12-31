@@ -1,6 +1,6 @@
 ---
 blog: https://opentofu.org/blog/
-git: https://github.com/opentofu/opentofu
+codehost: https://github.com/https://github.com/opentofu/opentofu
 logohandle: opentofu
 sort: opentofu
 title: OpenTofu

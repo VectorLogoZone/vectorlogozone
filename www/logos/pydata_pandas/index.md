@@ -1,5 +1,5 @@
 ---
-git: https://github.com/pandas-dev/pandas
+codehost: https://github.com/https://github.com/pandas-dev/pandas
 logohandle: pydata_pandas
 sort: pandas
 title: pandas

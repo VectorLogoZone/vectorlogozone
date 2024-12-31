@@ -1,9 +1,9 @@
 ---
+codehost: https://github.com/https://github.com/digitalrosetta
 facebook: https://www.facebook.com/DigitalRosetta
 font:
   name: Play
   url: https://fonts.google.com/specimen/Play
-git: https://github.com/digitalrosetta
 images:
 - digitalrosetta-icon.svg
 - digitalrosetta-ar21.svg

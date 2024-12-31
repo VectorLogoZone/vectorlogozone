@@ -1,5 +1,5 @@
 ---
-git: https://github.com/romefrontend/rome
+codehost: https://github.com/https://github.com/romefrontend/rome
 logohandle: romefrontenddev
 sort: romefrontend
 title: Rome Frontend

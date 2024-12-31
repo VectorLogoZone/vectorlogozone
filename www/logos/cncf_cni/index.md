@@ -1,6 +1,6 @@
 ---
 blog: https://blog.github.com/
-git: https://github.com/containernetworking
+codehost: https://github.com/https://github.com/containernetworking
 logohandle: cncf_cni
 sort: cni
 title: CNI

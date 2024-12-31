@@ -1,7 +1,7 @@
 ---
 blog: https://scalingo.com/fr/blog
+codehost: https://github.com/https://github.com/Scalingo
 facebook: https://facebook.com/ScalingoHQ
-git: https://github.com/Scalingo
 linkedin: https://linkedin.com/company/scalingo
 logohandle: scalingo
 sort: scalingo

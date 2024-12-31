@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/the-vue-point
-git: https://github.com/vuejs/vue
+codehost: https://github.com/https://github.com/vuejs/vue
 logohandle: vuejs
 sort: vuejs
 title: Vue.js

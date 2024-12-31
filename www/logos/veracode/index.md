@@ -1,6 +1,6 @@
 ---
+codehost: https://github.com/https://github.com/aFarkas/lazysizes
 facebook: https://facebook.com/VeracodeInc
-git: https://github.com/aFarkas/lazysizes
 linkedin: https://linkedin.com/company/veracode
 logohandle: veracode
 sort: veracode

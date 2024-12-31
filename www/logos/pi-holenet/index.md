@@ -1,6 +1,6 @@
 ---
 blog: https://pi-hole.net/blog
-git: https://github.com/pi-hole
+codehost: https://github.com/https://github.com/pi-hole
 logohandle: pi-holenet
 sort: pi-hole
 title: Pi-hole

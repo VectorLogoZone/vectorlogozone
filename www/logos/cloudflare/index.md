@@ -1,11 +1,11 @@
 ---
 blog: https://blog.cloudflare.com/
+codehost: https://github.com/https://github.com/cloudflare
 colors:
 - '#FAAE40'
 - '#F38020'
 - '#404041'
 facebook: https://www.facebook.com/Cloudflare/
-git: https://github.com/cloudflare
 googleplus: https://plus.google.com/+cloudflare
 guide: https://www.cloudflare.com/logo/
 images:

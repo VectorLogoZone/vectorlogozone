@@ -1,5 +1,5 @@
 ---
-git: https://github.com/blinkist/terraform-aws-airship-ecs-service
+codehost: https://github.com/https://github.com/blinkist/terraform-aws-airship-ecs-service
 logohandle: airshiptf
 sort: airship
 title: Airship

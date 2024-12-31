@@ -1,5 +1,5 @@
 ---
-git: https://github.com/BaseXdb/basex
+codehost: https://github.com/https://github.com/BaseXdb/basex
 logohandle: basex
 sort: basex
 title: BaseX
