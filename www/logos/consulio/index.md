@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hashicorp/consul
+codehost: https://github.com/hashicorp/consul
 logohandle: consulio
 sort: consul
 title: Consul

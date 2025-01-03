@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/primocms/primo
+codehost: https://github.com/primocms/primo
 logohandle: primocms
 sort: primocms
 title: Primo CMS

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/marketplace/ranger
+codehost: https://github.com/marketplace/ranger
 logohandle: reporanger
 sort: reporanger
 title: Ranger

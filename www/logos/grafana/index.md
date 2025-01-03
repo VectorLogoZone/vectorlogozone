@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/grafana/grafana
+codehost: https://github.com/grafana/grafana
 logohandle: grafana
 sort: grafana
 title: Grafana

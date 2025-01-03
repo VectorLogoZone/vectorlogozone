@@ -1,6 +1,6 @@
 ---
 blog: https://kubemq.io/blog
-codehost: https://github.com/https://github.com/kubemq-io/kubemq-community
+codehost: https://github.com/kubemq-io/kubemq-community
 logohandle: kubemqio
 sort: kubemq
 title: KubeMQ

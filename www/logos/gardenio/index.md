@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/garden-io
-codehost: https://github.com/https://github.com/garden-io/garden
+codehost: https://github.com/garden-io/garden
 logohandle: gardenio
 sort: garden
 title: Garden.IO

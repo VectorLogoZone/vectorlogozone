@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/picturepan2/spectre
+codehost: https://github.com/picturepan2/spectre
 logohandle: picturepan2_spectre
 sort: spectrecss
 title: Spectre.css

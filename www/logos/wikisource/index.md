@@ -1,6 +1,6 @@
 ---
 blog: https://blog.wikimedia.org/c/wikisource/
-codehost: https://github.com/https://github.com/wikisource
+codehost: https://github.com/wikisource
 images:
 - wikisource-icon.svg
 - wikisource-ar21.svg

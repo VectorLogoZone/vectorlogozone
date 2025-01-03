@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vinceanalytics/vince
+codehost: https://github.com/vinceanalytics/vince
 logohandle: vinceanalytics
 sort: vinceanalytics
 title: vince

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/isaacs/node-glob
+codehost: https://github.com/isaacs/node-glob
 logohandle: github_node-glob
 sort: node-glob
 title: node-glob

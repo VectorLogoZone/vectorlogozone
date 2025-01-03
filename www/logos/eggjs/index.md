@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/eggjs
+codehost: https://github.com/eggjs
 logohandle: eggjs
 sort: eggjs
 title: egg.js

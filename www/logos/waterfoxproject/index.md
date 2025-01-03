@@ -1,6 +1,6 @@
 ---
 blog: https://blog.waterfoxproject.org/
-codehost: https://github.com/https://github.com/MrAlex94/Waterfox
+codehost: https://github.com/MrAlex94/Waterfox
 logohandle: waterfoxproject
 sort: waterfoxproject
 title: Waterfox

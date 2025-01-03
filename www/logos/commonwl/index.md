@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/common-workflow-language
+codehost: https://github.com/common-workflow-language
 logohandle: commonwl
 sort: commonwl
 title: Common Workflow Language (CWL)

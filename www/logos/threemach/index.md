@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/threema-ch
+codehost: https://github.com/threema-ch
 logohandle: threemach
 sort: threema
 title: Threema

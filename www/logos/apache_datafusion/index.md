@@ -1,6 +1,6 @@
 ---
 blog: https://datafusion.apache.org/blog
-codehost: https://github.com/https://github.com/apache/datafusion
+codehost: https://github.com/apache/datafusion
 logohandle: apache_datafusion
 sort: datafusion
 title: Apache DataFusion

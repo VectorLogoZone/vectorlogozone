@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/request
+codehost: https://github.com/request
 guide: https://github.com/request/request.js.org/blob/master/images/logo.svg
 logohandle: js_request
 sort: request

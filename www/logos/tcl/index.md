@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tcltk
+codehost: https://github.com/tcltk
 font:
   myfonts: http://www.myfonts.com/fonts/bitstream/atf-bodoni/bodoni-book/
   name: Bodoni Book

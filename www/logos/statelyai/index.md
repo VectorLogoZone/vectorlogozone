@@ -1,6 +1,6 @@
 ---
 blog: https://stately.ai/blog/
-codehost: https://github.com/https://github.com/statelyai
+codehost: https://github.com/statelyai
 linkedin: https://linkedin.com/company/statelyai
 logohandle: statelyai
 sort: statelyai

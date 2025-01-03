@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ionic-team/stencil
+codehost: https://github.com/ionic-team/stencil
 logohandle: stenciljs
 sort: stenciljs
 title: Stencil

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/singer-io
+codehost: https://github.com/singer-io
 logohandle: singerio
 sort: singer
 title: Singer

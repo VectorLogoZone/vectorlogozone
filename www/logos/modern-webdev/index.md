@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/modernweb-dev/web
+codehost: https://github.com/modernweb-dev/web
 logohandle: modern-webdev
 sort: modern-web
 title: Modern Web

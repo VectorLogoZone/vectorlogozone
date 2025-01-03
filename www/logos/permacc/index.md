@@ -1,6 +1,6 @@
 ---
 blog: https://blogs.law.harvard.edu/perma/
-codehost: https://github.com/https://github.com/harvard-lil/perma
+codehost: https://github.com/harvard-lil/perma
 logohandle: permacc
 sort: permacc
 title: Perma.cc

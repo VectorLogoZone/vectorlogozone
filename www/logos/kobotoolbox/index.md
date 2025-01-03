@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kobotoolbox
+codehost: https://github.com/kobotoolbox
 logohandle: kobotoolbox
 sort: kobotoolbox
 title: KoBoToolbox

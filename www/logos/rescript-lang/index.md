@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rescript-lang
+codehost: https://github.com/rescript-lang
 logohandle: rescript-lang
 sort: rescript-lang
 title: ReScript

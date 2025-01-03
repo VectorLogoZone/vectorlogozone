@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fedora-silverblue
+codehost: https://github.com/fedora-silverblue
 logohandle: fedoraproject_silverblue
 sort: silverblue
 title: Silverblue

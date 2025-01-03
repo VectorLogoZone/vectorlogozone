@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rilldata/rill-developer
+codehost: https://github.com/rilldata/rill-developer
 linkedin: https://linkedin.com/company/rilldata
 logohandle: rilldata
 sort: rill

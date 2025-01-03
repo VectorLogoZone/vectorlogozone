@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/libra
+codehost: https://github.com/libra
 facebook: https://facebook.com/LibraAssociation
 instagram: https://instagram.com/libra
 logohandle: libra

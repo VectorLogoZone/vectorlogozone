@@ -1,6 +1,6 @@
 ---
 blog: https://typegraphql.com/blog/
-codehost: https://github.com/https://github.com/MichalLytek/type-graphql
+codehost: https://github.com/MichalLytek/type-graphql
 logohandle: typegraphql
 sort: typegraphql
 title: TypeGraphQL

@@ -1,6 +1,6 @@
 ---
 blog: https://postgrid.com/blog
-codehost: https://github.com/https://github.com/postgrid
+codehost: https://github.com/postgrid
 facebook: https://facebook.com/postgridinc
 instagram: https://instagram.com/postgridinc
 linkedin: https://linkedin.com/company/postgrid

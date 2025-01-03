@@ -1,6 +1,6 @@
 ---
 blog: https://saltproject.io/blog/index.xml
-codehost: https://github.com/https://github.com/saltstack
+codehost: https://github.com/saltstack
 facebook: https://facebook.com/SaltProjectOSS
 instagram: https://instagram.com/saltproject_oss
 linkedin: https://linkedin.com/company/saltproject

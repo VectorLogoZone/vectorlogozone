@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lerna/lerna
+codehost: https://github.com/lerna/lerna
 logohandle: lernajsio
 sort: lernajs
 title: Lerna

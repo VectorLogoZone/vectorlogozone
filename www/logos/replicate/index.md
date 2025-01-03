@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/replicate/rtv
+codehost: https://github.com/replicate/rtv
 logohandle: replicate
 sort: replicate
 title: Replicate

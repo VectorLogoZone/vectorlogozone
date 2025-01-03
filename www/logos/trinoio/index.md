@@ -1,6 +1,6 @@
 ---
 blog: https://trino.io/blog/
-codehost: https://github.com/https://github.com/trinodb/trino
+codehost: https://github.com/trinodb/trino
 logohandle: trinoio
 sort: trino
 title: Trino

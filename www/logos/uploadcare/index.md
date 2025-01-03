@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/uploadcare
+codehost: https://github.com/uploadcare
 logohandle: uploadcare
 sort: uploadcare
 title: UploadCare

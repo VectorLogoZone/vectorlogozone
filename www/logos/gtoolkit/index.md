@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/feenk
-codehost: https://github.com/https://github.com/feenkcom/gtoolkit
+codehost: https://github.com/feenkcom/gtoolkit
 linkedin: https://linkedin.com/company/feenk
 logohandle: gtoolkit
 sort: gtoolkit

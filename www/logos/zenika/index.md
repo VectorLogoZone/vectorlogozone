@@ -1,6 +1,6 @@
 ---
 blog: https://blog.zenika.com/
-codehost: https://github.com/https://github.com/Zenika
+codehost: https://github.com/Zenika
 facebook: https://facebook.com/ZenikaIT
 logohandle: zenika
 sort: zenika

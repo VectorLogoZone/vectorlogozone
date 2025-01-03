@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/inverse-inc/sogo
+codehost: https://github.com/inverse-inc/sogo
 linkedin: http://linkedin.com/groups/SOGo-Groupware-4164805
 logohandle: sogonu
 sort: sogo

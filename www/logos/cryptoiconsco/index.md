@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/atomiclabs/cryptocurrency-icons
+codehost: https://github.com/atomiclabs/cryptocurrency-icons
 logohandle: cryptoiconsco
 sort: cryptoicons
 title: Cryptocurrency Icons

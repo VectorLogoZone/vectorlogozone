@@ -1,6 +1,6 @@
 ---
 blog: https://blog.conifer.rhizome.org/
-codehost: https://github.com/https://github.com/rhizome-conifer/conifer
+codehost: https://github.com/rhizome-conifer/conifer
 logohandle: rhizome_conifer
 sort: conifer
 title: Conifer

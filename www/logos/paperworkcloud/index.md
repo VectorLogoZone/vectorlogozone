@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/paperwork/paperwork
+codehost: https://github.com/paperwork/paperwork
 logohandle: paperworkcloud
 sort: paperwork
 title: Paperwork

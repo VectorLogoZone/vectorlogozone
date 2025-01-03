@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/stainless-api
+codehost: https://github.com/stainless-api
 linkedin: https://linkedin.com/company/stainless-api
 logohandle: stainlessapi
 sort: stainlessapi

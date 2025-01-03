@@ -1,6 +1,6 @@
 ---
 blog: https://ayrshare.com/blog
-codehost: https://github.com/https://github.com/ayrshare
+codehost: https://github.com/ayrshare
 facebook: https://facebook.com/Ayrshare
 instagram: https://instagram.com/ayrshare
 linkedin: https://linkedin.com/company/ayrshare

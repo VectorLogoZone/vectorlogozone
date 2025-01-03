@@ -1,6 +1,6 @@
 ---
 blog: https://graphistry.com/blog
-codehost: https://github.com/https://github.com/graphistry
+codehost: https://github.com/graphistry
 linkedin: https://linkedin.com/company/graphistry
 logohandle: graphistry
 sort: graphistry

@@ -1,6 +1,6 @@
 ---
 blog: https://jolocom.io/blog
-codehost: https://github.com/https://github.com/jolocom
+codehost: https://github.com/jolocom
 linkedin: https://linkedin.com/company/jolocom
 logohandle: jolocomio
 sort: jolocom

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dojo/framework
+codehost: https://github.com/dojo/framework
 logohandle: dojoio
 sort: dojo
 title: Dojo Framework

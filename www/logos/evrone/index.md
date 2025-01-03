@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/evrone
+codehost: https://github.com/evrone
 dribbble: https://dribbble.com/Evrone
 facebook: https://facebook.com/evrone
 instagram: https://instagram.com/evrone_com

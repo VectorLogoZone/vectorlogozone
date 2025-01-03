@@ -1,6 +1,6 @@
 ---
 blog: https://web.hypothes.is/blog
-codehost: https://github.com/https://github.com/hypothesis
+codehost: https://github.com/hypothesis
 facebook: https://facebook.com/myhypothesis
 linkedin: https://linkedin.com/company/hypothes.is
 logohandle: hypothesis

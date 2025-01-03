@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/micro
+codehost: https://github.com/micro
 logohandle: micromu
 sort: micro
 title: Micro

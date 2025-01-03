@@ -1,6 +1,6 @@
 ---
 blog: https://stability.ai/blog/
-codehost: https://github.com/https://github.com/Stability-AI
+codehost: https://github.com/Stability-AI
 linkedin: https://linkedin.com/company/stability-ai/mycompany
 logohandle: stabilityai
 sort: stabilityai

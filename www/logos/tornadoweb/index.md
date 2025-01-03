@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tornadoweb/tornado
+codehost: https://github.com/tornadoweb/tornado
 logohandle: tornadoweb
 sort: tornadoweb
 title: Tornado Web

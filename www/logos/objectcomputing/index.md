@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/objectcomputing
+codehost: https://github.com/objectcomputing
 linkedin: https://linkedin.com/company/oci
 logohandle: objectcomputing
 sort: objectcomputing

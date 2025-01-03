@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/liftbridge-io/liftbridge
+codehost: https://github.com/liftbridge-io/liftbridge
 logohandle: liftbridgeio
 sort: liftbridge
 title: Liftbridge

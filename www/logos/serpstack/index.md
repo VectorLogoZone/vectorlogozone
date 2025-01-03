@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apilayer/serpstack
+codehost: https://github.com/apilayer/serpstack
 logohandle: serpstack
 sort: serpstack
 title: serpstack

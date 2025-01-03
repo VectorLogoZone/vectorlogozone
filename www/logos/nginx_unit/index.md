@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nginx/unit
+codehost: https://github.com/nginx/unit
 logohandle: nginx_unit
 sort: unit
 title: NGINX Unit

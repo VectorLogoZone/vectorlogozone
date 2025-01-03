@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/bunq
+codehost: https://github.com/bunq
 facebook: https://facebook.com/bunq
 googleplus: https://plus.google.com/u/0/105103732066845856699
 instagram: https://instagram.com/bunq

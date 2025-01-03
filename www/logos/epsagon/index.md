@@ -1,6 +1,6 @@
 ---
 blog: https://epsagon.com/blog
-codehost: https://github.com/https://github.com/epsagon
+codehost: https://github.com/epsagon
 facebook: https://facebook.com/epsagon
 linkedin: https://linkedin.com/company/epsagon
 logohandle: epsagon

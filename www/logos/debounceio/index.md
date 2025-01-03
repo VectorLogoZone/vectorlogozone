@@ -1,6 +1,6 @@
 ---
 blog: https://debounce.io/blog
-codehost: https://github.com/https://github.com/debounceio
+codehost: https://github.com/debounceio
 linkedin: https://linkedin.com/company/debounceio
 logohandle: debounceio
 sort: debounce

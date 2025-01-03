@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/uracreative/identihub
+codehost: https://github.com/uracreative/identihub
 logohandle: identihubco
 sort: identihub
 title: Identihub

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/penpot
+codehost: https://github.com/penpot
 instagram: https://instagram.com/penpotapp
 linkedin: https://linkedin.com/company/penpot
 logohandle: penpotapp

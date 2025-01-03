@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pdf-association
+codehost: https://github.com/pdf-association
 facebook: https://facebook.com/PDFassociation
 linkedin: https://linkedin.com/company/pdf-association
 logohandle: pdfa

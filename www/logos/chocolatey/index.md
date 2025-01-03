@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/chocolatey
+codehost: https://github.com/chocolatey
 facebook: https://facebook.com/ChocolateySoftware
 guide: https://www.chocolatey.org/chocolatey-media-kit.zip
 logohandle: chocolatey

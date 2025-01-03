@@ -1,6 +1,6 @@
 ---
 blog: https://www.wikidata.org/wiki/Wikidata:Status_updates
-codehost: https://github.com/https://github.com/Wikidata
+codehost: https://github.com/Wikidata
 images:
 - wikidata-icon.svg
 - wikidata-ar21.svg

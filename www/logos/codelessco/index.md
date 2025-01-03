@@ -1,6 +1,6 @@
 ---
 blog: https://codeless.co/blog
-codehost: https://github.com/https://github.com/codelessteam
+codehost: https://github.com/codelessteam
 facebook: https://facebook.com/Codeless-Solutions-590477977725566
 instagram: https://instagram.com/codeless.co
 logohandle: codelessco

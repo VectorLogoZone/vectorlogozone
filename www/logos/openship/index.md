@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/openshiporg/openship
+codehost: https://github.com/openshiporg/openship
 logohandle: openship
 sort: openship
 title: Openship

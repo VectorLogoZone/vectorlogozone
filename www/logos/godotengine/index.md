@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/godotengine
+codehost: https://github.com/godotengine
 facebook: https://facebook.com/groups/godotengine
 guide: https://github.com/godotengine/godot/blob/master/logo.svg
 logohandle: godotengine

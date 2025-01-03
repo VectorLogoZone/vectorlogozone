@@ -1,6 +1,6 @@
 ---
 blog: https://wechaty.js.org/blog
-codehost: https://github.com/https://github.com/wechaty/wechaty
+codehost: https://github.com/wechaty/wechaty
 logohandle: js_wechaty
 sort: wechaty
 title: WeChaty

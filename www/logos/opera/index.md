@@ -1,6 +1,6 @@
 ---
 blog: https://blogs.opera.com/
-codehost: https://github.com/https://github.com/operasoftware
+codehost: https://github.com/operasoftware
 facebook: https://facebook.com/opera
 font:
   name: Basis Grotesque

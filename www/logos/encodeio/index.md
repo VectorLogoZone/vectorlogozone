@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/encode
+codehost: https://github.com/encode
 logohandle: encodeio
 sort: encode
 title: Encode

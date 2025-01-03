@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/env0
-codehost: https://github.com/https://github.com/env0
+codehost: https://github.com/env0
 facebook: https://facebook.com/env0-431115527473985
 linkedin: https://linkedin.com/company/env0
 logohandle: env0

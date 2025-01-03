@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/andela
+codehost: https://github.com/andela
 facebook: https://facebook.com/thisisandela
 instagram: https://instagram.com/thisisandela
 linkedin: https://linkedin.com/company/andela

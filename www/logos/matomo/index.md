@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/matomo-org/matomo
+codehost: https://github.com/matomo-org/matomo
 facebook: https://facebook.com/Matomo.org
 logohandle: matomo
 sort: matomo

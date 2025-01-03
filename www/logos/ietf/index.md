@@ -1,6 +1,6 @@
 ---
 blog: https://www.ietf.org/blog/
-codehost: https://github.com/https://github.com/ietf
+codehost: https://github.com/ietf
 images:
 - ietf-ar21.svg
 - ietf-icon.svg

@@ -1,6 +1,6 @@
 ---
 blog: https://polygon.io/blog
-codehost: https://github.com/https://github.com/polygon-io
+codehost: https://github.com/polygon-io
 facebook: https://facebook.com/polygonio
 linkedin: https://linkedin.com/company/polygon-io
 logohandle: polygonio

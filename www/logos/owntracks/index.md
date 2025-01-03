@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/owntracks
+codehost: https://github.com/owntracks
 logohandle: owntracks
 sort: owntracks
 title: OwnTracks

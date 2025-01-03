@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/panoratech/Panora
+codehost: https://github.com/panoratech/Panora
 linkedin: https://linkedin.com/company/trypanora
 logohandle: panoradev
 sort: panora

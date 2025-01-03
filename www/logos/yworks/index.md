@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/yworks
+codehost: https://github.com/yworks
 linkedin: https://linkedin.com/company/yworks-gmbh
 logohandle: yworks
 sort: yworks

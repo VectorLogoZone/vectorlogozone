@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/NativeScript/NativeScript
+codehost: https://github.com/NativeScript/NativeScript
 facebook: https://facebook.com/NativeScript
 logohandle: nativescript
 sort: nativescript

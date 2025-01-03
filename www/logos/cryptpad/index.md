@@ -1,6 +1,6 @@
 ---
 blog: https://blog.cryptpad.org/
-codehost: https://github.com/https://github.com/cryptpad/cryptpad
+codehost: https://github.com/cryptpad/cryptpad
 logohandle: cryptpad
 sort: cryptpad
 title: CryptPad

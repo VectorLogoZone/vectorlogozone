@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/moleculer
-codehost: https://github.com/https://github.com/moleculerjs
+codehost: https://github.com/moleculerjs
 logohandle: moleculerservices
 sort: moleculer
 title: Moleculer

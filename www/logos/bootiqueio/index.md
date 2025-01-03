@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/bootique/bootique
+codehost: https://github.com/bootique/bootique
 logohandle: bootiqueio
 sort: bootique
 title: Bootique

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/aspen-cloud/triplit
+codehost: https://github.com/aspen-cloud/triplit
 logohandle: triplitdev
 sort: triplit
 title: Triplit

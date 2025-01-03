@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/evilmartians
+codehost: https://github.com/evilmartians
 dribbble: https://dribbble.com/evilmartians
 facebook: https://facebook.com/evilmartians
 instagram: https://instagram.com/evil.martians

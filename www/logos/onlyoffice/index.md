@@ -1,6 +1,6 @@
 ---
 blog: http://onlyoffice.com/blog
-codehost: https://github.com/https://github.com/ONLYOFFICE
+codehost: https://github.com/ONLYOFFICE
 facebook: https://facebook.com/OnlyOffice-833032526736775
 instagram: https://instagram.com/the_onlyoffice
 logohandle: onlyoffice

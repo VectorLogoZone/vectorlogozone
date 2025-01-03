@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/veryfi
+codehost: https://github.com/veryfi
 facebook: https://facebook.com/veryfinance
 instagram: https://instagram.com/veryfi_inc
 linkedin: https://linkedin.com/company/veryfi-inc

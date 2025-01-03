@@ -1,6 +1,6 @@
 ---
 blog: https://zilliz.com/blog/
-codehost: https://github.com/https://github.com/zilliztech
+codehost: https://github.com/zilliztech
 linkedin: https://linkedin.com/company/zilliz
 logohandle: zilliz
 sort: zilliz

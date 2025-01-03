@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/grafbase/grafbase
+codehost: https://github.com/grafbase/grafbase
 linkedin: https://linkedin.com/company/grafbase
 logohandle: grafbase
 sort: grafbase

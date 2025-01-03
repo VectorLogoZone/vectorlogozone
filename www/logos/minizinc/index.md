@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/MiniZinc
+codehost: https://github.com/MiniZinc
 facebook: https://facebook.com/minizinclanguage
 logohandle: minizinc
 sort: minizinc

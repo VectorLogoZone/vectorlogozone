@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/FreeloaderWTF
+codehost: https://github.com/FreeloaderWTF
 font:
   name: BlackTop
   url: https://sixabovestudios.com/store/blacktop-font/

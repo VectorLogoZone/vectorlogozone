@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/WICG/webmonetization
+codehost: https://github.com/WICG/webmonetization
 logohandle: webmonetization
 sort: webmonetization
 title: Web Monetization

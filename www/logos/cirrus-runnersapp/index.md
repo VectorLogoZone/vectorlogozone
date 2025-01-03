@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cirruslabs
+codehost: https://github.com/cirruslabs
 logohandle: cirrus-runnersapp
 sort: cirrusrunners
 title: Cirrus Runners

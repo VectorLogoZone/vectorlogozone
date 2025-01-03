@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/containerd/containerd
+codehost: https://github.com/containerd/containerd
 logohandle: containerdio
 sort: containerd
 title: containerd

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/google/recaptcha
+codehost: https://github.com/google/recaptcha
 colors:
 - '#1C3AA9'
 - '#4285F4'

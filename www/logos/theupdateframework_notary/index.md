@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/theupdateframework/notary
+codehost: https://github.com/theupdateframework/notary
 logohandle: theupdateframework_notary
 sort: notary
 title: Notary

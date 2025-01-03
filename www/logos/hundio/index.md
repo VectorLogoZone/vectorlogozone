@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hundio
+codehost: https://github.com/hundio
 facebook: https://facebook.com/HundHQ
 logohandle: hundio
 sort: hund

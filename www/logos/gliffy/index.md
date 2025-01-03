@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/artberri/sidr
+codehost: https://github.com/artberri/sidr
 facebook: https://facebook.com/Gliffy
 linkedin: https://linkedin.com/company/gliffy
 logohandle: gliffy

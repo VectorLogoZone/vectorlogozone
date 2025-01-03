@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/uber/ludwig
+codehost: https://github.com/uber/ludwig
 guide: https://github.com/uber/ludwig/tree/master/docs/images
 logohandle: uber_ludwig
 sort: ludwig

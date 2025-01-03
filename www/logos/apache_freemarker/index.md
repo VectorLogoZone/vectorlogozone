@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/freemarker
+codehost: https://github.com/apache/freemarker
 logohandle: apache_freemarker
 sort: freemarker
 tags:

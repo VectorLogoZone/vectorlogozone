@@ -1,6 +1,6 @@
 ---
 blog: https://jetify.com/blog
-codehost: https://github.com/https://github.com/jetify-com
+codehost: https://github.com/jetify-com
 linkedin: https://linkedin.com/company/74745032
 logohandle: jetify
 sort: jetify

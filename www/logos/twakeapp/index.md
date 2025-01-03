@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/linagora/Twake
+codehost: https://github.com/linagora/Twake
 facebook: https://facebook.com/TwakeApp
 linkedin: https://linkedin.com/company/twake
 logohandle: twakeapp

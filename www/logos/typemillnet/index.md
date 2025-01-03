@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/typemill/typemill
+codehost: https://github.com/typemill/typemill
 logohandle: typemillnet
 sort: typemill
 title: Typemill

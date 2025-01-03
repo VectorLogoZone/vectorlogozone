@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/boxyhq
+codehost: https://github.com/boxyhq
 logohandle: boxyhq
 sort: boxyhq
 title: BoxyHQ

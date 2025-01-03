@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/chakra-ui/ark
+codehost: https://github.com/chakra-ui/ark
 logohandle: ark-ui
 sort: arkui
 title: Ark UI

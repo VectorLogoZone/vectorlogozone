@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/radix-ui
+codehost: https://github.com/radix-ui
 logohandle: radix-ui
 sort: radix-ui
 title: Radix UI

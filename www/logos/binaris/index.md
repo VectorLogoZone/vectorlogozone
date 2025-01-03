@@ -1,6 +1,6 @@
 ---
 blog: https://blog.binaris.com/
-codehost: https://github.com/https://github.com/binaris/jobs
+codehost: https://github.com/binaris/jobs
 logohandle: binaris
 sort: binaris
 title: Binaris

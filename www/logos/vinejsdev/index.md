@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vinejs/vine
+codehost: https://github.com/vinejs/vine
 logohandle: vinejsdev
 sort: vinejs
 title: VineJS

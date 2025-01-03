@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/microcks/microcks
+codehost: https://github.com/microcks/microcks
 linkedin: https://linkedin.com/company/microcks
 logohandle: microcksio
 sort: microcksio

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/openphish/pyopdb
+codehost: https://github.com/openphish/pyopdb
 logohandle: openphish
 sort: openphish
 title: OpenPhish

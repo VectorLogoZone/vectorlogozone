@@ -1,6 +1,6 @@
 ---
 blog: https://blog.xing.com/de/startseite/
-codehost: https://github.com/https://github.com/xing
+codehost: https://github.com/xing
 guide: https://dev.xing.com/logo_rules
 images:
 - xing-ar21.svg

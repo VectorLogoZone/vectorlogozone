@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dremio
+codehost: https://github.com/dremio
 facebook: https://facebook.com/dremio
 linkedin: https://linkedin.com/company/dremio
 logohandle: dremio

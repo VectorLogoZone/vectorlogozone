@@ -1,6 +1,6 @@
 ---
 blog: https://en.blog.wordpress.com/
-codehost: https://github.com/https://github.com/WordPress
+codehost: https://github.com/WordPress
 facebook: https://www.facebook.com/WordPress/
 font:
   myfonts: https://www.myfonts.com/fonts/emigre/mrs-eaves-xl-ot/

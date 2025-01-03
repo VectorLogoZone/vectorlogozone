@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/brentsimmons/NetNewsWire
+codehost: https://github.com/brentsimmons/NetNewsWire
 logohandle: netnewswire
 sort: netnewswire
 title: NetNewsWire

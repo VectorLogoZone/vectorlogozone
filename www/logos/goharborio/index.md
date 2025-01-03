@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/goharbor/harbor
+codehost: https://github.com/goharbor/harbor
 logohandle: goharborio
 sort: harbor
 stackoverflow: https://stackoverflow.com/search?tab=newest&q=harbor

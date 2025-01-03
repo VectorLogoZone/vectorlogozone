@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/umami-software
+codehost: https://github.com/umami-software
 linkedin: umami-software
 logohandle: umamiis
 sort: umami

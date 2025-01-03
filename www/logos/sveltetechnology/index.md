@@ -1,6 +1,6 @@
 ---
 blog: https://svelte.technology/blog
-codehost: https://github.com/https://github.com/sveltejs/svelte
+codehost: https://github.com/sveltejs/svelte
 logohandle: sveltetechnology
 other:
 - name: Discord

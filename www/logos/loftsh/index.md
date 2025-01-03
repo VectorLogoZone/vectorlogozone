@@ -1,6 +1,6 @@
 ---
 blog: https://loft.sh/blog
-codehost: https://github.com/https://github.com/loft-sh/loft
+codehost: https://github.com/loft-sh/loft
 facebook: https://facebook.com/DevSpaceCloud
 linkedin: https://linkedin.com/company/devspace-cloud
 logohandle: loftsh

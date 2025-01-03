@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tensult
+codehost: https://github.com/tensult
 facebook: https://facebook.com/tensult
 linkedin: https://linkedin.com/company/tensult
 logohandle: tensult

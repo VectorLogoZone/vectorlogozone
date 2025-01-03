@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/incubator-kudu
+codehost: https://github.com/apache/incubator-kudu
 logohandle: apache_kudu
 slack: https://getkudu-slack.herokuapp.com/
 sort: kudu

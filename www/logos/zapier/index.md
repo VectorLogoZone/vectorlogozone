@@ -1,6 +1,6 @@
 ---
 blog: https://zapier.com/blog/
-codehost: https://github.com/https://github.com/zapier
+codehost: https://github.com/zapier
 colors:
 - '#FF4A00'
 facebook: http://www.facebook.com/ZapierApp

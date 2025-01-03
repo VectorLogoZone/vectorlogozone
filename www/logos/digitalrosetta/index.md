@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/digitalrosetta
+codehost: https://github.com/digitalrosetta
 facebook: https://www.facebook.com/DigitalRosetta
 font:
   name: Play

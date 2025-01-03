@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tmate-io/tmate
+codehost: https://github.com/tmate-io/tmate
 logohandle: tmateio
 sort: tmate
 title: tmate

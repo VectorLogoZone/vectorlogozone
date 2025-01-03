@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/primcloud
+codehost: https://github.com/primcloud
 facebook: https://facebook.com/primcloud
 logohandle: primcloud
 sort: primcloud

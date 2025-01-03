@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebook/draft-js
+codehost: https://github.com/facebook/draft-js
 facebook: https://code.facebook.com/projects
 logohandle: draftjs
 sort: draftjs

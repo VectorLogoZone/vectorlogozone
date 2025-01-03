@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ytsaurus/ytsaurus
+codehost: https://github.com/ytsaurus/ytsaurus
 logohandle: ytsaurustech
 sort: ytsaurus
 title: YTsaurus

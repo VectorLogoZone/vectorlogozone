@@ -1,6 +1,6 @@
 ---
 blog: https://blog.wikimedia.org/
-codehost: https://github.com/https://github.com/wikimedia
+codehost: https://github.com/wikimedia
 font:
   myfonts: https://www.myfonts.com/fonts/adobe/gill-sans/bold/
   name: Gill Sans Bold

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/slint-ui/slint
+codehost: https://github.com/slint-ui/slint
 linkedin: https://linkedin.com/company/slint-ui
 logohandle: slintdev
 sort: slint

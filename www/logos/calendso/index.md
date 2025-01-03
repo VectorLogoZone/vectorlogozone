@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/calendso/calendso
+codehost: https://github.com/calendso/calendso
 logohandle: calendso
 sort: calendso
 title: Calendso

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tighten
+codehost: https://github.com/tighten
 linkedin: https://linkedin.com/company/tightenco
 logohandle: tightenco
 sort: tighten

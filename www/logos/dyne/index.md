@@ -1,6 +1,6 @@
 ---
 blog: https://dyne.org/category/blog
-codehost: https://github.com/https://github.com/dyne
+codehost: https://github.com/dyne
 facebook: https://facebook.com/dyne.org
 googleplus: http://plus.google.com/+DyneOrg
 instagram: https://instagram.com/dyneorg

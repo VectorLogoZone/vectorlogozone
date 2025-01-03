@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/coqui-ai
+codehost: https://github.com/coqui-ai
 facebook: https://facebook.com/coquiai
 linkedin: https://linkedin.com/company/coqui-ai
 logohandle: coquiai

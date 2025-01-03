@@ -1,6 +1,6 @@
 ---
 blog: http://news.dartlang.org/
-codehost: https://github.com/https://github.com/dart-lang
+codehost: https://github.com/dart-lang
 colors:
 - '#22D3C5'
 - '#0075C9'

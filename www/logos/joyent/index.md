@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/joyent
+codehost: https://github.com/joyent
 facebook: https://facebook.com/joyentcloud
 googleplus: https://plus.google.com/116067599577083513668
 instagram: https://instagram.com/joyenttriton

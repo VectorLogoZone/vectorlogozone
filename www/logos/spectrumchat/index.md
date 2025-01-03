@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/withspectrum
+codehost: https://github.com/withspectrum
 logohandle: spectrumchat
 sort: spectrum
 title: Spectrum Chat

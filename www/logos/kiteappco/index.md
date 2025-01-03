@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kitecomp
+codehost: https://github.com/kitecomp
 facebook: https://facebook.com/groups/kitecompositor
 logohandle: kiteappco
 sort: kiteapp

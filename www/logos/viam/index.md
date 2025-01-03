@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/viamrobotics
+codehost: https://github.com/viamrobotics
 instagram: https://instagram.com/viamrobotics
 linkedin: https://linkedin.com/company/viaminc/about
 logohandle: viam

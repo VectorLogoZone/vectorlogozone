@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tailwindcss/tailwindcss
+codehost: https://github.com/tailwindcss/tailwindcss
 logohandle: tailwindcss
 sort: tailwindcss
 title: Tailwind CSS

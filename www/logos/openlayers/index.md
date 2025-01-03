@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/openlayers/openlayers
+codehost: https://github.com/openlayers/openlayers
 logohandle: openlayers
 sort: openlayers
 title: OpenLayers

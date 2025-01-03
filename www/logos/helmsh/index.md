@@ -1,6 +1,6 @@
 ---
 blog: https://www.helm.sh/blog/
-codehost: https://github.com/https://github.com/kubernetes/helm
+codehost: https://github.com/kubernetes/helm
 images:
 - helmsh-ar21.svg
 - helmsh-icon.svg

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/yaakapp
+codehost: https://github.com/yaakapp
 logohandle: yaakapp
 sort: yaak
 title: Yaak

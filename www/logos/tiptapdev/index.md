@@ -1,6 +1,6 @@
 ---
 blog: https://tiptap.dev/blog
-codehost: https://github.com/https://github.com/ueberdosis/tiptap
+codehost: https://github.com/ueberdosis/tiptap
 logohandle: tiptapdev
 sort: tiptap
 title: Tiptap

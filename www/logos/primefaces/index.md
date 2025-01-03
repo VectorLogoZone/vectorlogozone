@@ -1,6 +1,6 @@
 ---
 blog: https://primefaces.org/blog
-codehost: https://github.com/https://github.com/primefaces
+codehost: https://github.com/primefaces
 facebook: http://facebook.com/groups/206606616332
 linkedin: https://linkedin.com/company/primetek-informatics
 logohandle: primefaces

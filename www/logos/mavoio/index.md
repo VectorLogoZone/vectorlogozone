@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mavoweb/mavo
+codehost: https://github.com/mavoweb/mavo
 logohandle: mavoio
 sort: mavo
 title: Mavo

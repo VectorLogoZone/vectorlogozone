@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/zerotier
+codehost: https://github.com/zerotier
 logohandle: zerotier
 sort: zerotier
 title: ZeroTier

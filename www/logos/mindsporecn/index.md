@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mindspore-ai/mindspore
+codehost: https://github.com/mindspore-ai/mindspore
 logohandle: mindsporecn
 sort: mindspore
 title: MindSpore

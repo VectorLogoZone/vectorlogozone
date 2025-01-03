@@ -1,6 +1,6 @@
 ---
 blog: https://trilon.io/blog
-codehost: https://github.com/https://github.com/trilonio
+codehost: https://github.com/trilonio
 linkedin: https://linkedin.com/company/trilon
 logohandle: trilonio
 sort: trilon

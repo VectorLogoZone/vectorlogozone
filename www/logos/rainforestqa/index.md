@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ukd1
+codehost: https://github.com/ukd1
 facebook: https://facebook.com/RainforestQA
 instagram: https://instagram.com/rainforestqa
 linkedin: https://linkedin.com/company/rainforestqa

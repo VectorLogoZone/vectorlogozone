@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Aviyel-oss
+codehost: https://github.com/Aviyel-oss
 facebook: https://facebook.com/AviyelHq
 linkedin: https://linkedin.com/company/aviyel
 logohandle: aviyel

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/3minread
-codehost: https://github.com/https://github.com/medium
+codehost: https://github.com/medium
 colors:
 - '#00AB6C'
 facebook: https://www.facebook.com/medium

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hashrocket
+codehost: https://github.com/hashrocket
 dribbble: https://dribbble.com/hashrocket
 facebook: https://facebook.com/hashrocket
 googleplus: https://plus.google.com/+hashrocket

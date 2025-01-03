@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/reflex-dev/reflex
+codehost: https://github.com/reflex-dev/reflex
 linkedin: https://linkedin.com/company/reflex-dev
 logohandle: reflexdev
 sort: reflexdev

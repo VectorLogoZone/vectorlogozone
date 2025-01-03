@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mozilla-spidermonkey
+codehost: https://github.com/mozilla-spidermonkey
 logohandle: spidermonkeydev
 sort: spidermonkey
 title: SpiderMonkey

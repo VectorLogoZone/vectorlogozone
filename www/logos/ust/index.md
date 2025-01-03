@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/js-cookie/js-cookie
+codehost: https://github.com/js-cookie/js-cookie
 facebook: https://facebook.com/USTGlobal
 instagram: https://instagram.com/ust.global
 linkedin: https://linkedin.com/company/ustglobal

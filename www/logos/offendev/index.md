@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/offen/offen
+codehost: https://github.com/offen/offen
 logohandle: offendev
 sort: offen
 title: Offen

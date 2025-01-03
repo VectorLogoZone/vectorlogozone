@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/clubhouse
+codehost: https://github.com/clubhouse
 facebook: https://facebook.com/clubhousesoftware
 linkedin: https://linkedin.com/company/clubhouse-software-inc
 logohandle: clubhouseio

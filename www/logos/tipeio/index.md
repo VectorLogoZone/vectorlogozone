@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tipeio
+codehost: https://github.com/tipeio
 facebook: https://facebook.com/tipecms
 logohandle: tipeio
 sort: tipe

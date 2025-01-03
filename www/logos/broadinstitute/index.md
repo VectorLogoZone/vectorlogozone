@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/aFarkas/lazysizes
+codehost: https://github.com/aFarkas/lazysizes
 facebook: https://facebook.com/broadinstitute
 instagram: https://instagram.com/broadinstitute
 linkedin: https://linkedin.com/company/broad-institute_2

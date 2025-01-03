@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lowercasename/gathio
+codehost: https://github.com/lowercasename/gathio
 logohandle: gathio
 sort: gathio
 title: Gathio

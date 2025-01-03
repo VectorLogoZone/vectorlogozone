@@ -1,6 +1,6 @@
 ---
 blog: https://singlestore.com/blog
-codehost: https://github.com/https://github.com/memsql
+codehost: https://github.com/memsql
 facebook: https://facebook.com/singlestoredb
 linkedin: https://linkedin.com/company/singlestore
 logohandle: singlestore

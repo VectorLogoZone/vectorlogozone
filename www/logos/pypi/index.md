@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pypa/warehouse
+codehost: https://github.com/pypa/warehouse
 guide: https://pypi.org/static/images/logo-large.72ad8bf1.svg
 images:
 - pypi-ar21.svg

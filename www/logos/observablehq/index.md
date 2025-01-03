@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/observablehq
+codehost: https://github.com/observablehq
 logohandle: observablehq
 sort: observablehq
 title: Observable

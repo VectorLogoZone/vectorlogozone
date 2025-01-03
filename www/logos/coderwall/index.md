@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/coderwall
+codehost: https://github.com/coderwall
 logohandle: coderwall
 sort: coderwall
 title: Coderwall

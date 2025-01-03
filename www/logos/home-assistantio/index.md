@@ -1,6 +1,6 @@
 ---
 blog: https://home-assistant.io/blog/
-codehost: https://github.com/https://github.com/home-assistant/home-assistant
+codehost: https://github.com/home-assistant/home-assistant
 facebook: https://facebook.com/homeassistantio
 logohandle: home-assistantio
 sort: home-assistant

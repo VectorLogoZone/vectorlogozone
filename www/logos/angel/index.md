@@ -1,6 +1,6 @@
 ---
 blog: https://blog.angel.co/
-codehost: https://github.com/https://github.com/AngelList
+codehost: https://github.com/AngelList
 colors:
 - '#000000'
 facebook: https://www.facebook.com/angellist/

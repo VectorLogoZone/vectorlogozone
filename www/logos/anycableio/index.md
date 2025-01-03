@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/anycable/anycable
+codehost: https://github.com/anycable/anycable
 logohandle: anycableio
 sort: anycable
 title: AnyCable

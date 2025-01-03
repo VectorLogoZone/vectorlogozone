@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gluufederation
+codehost: https://github.com/gluufederation
 linkedin: http://linkedin.com/company/gluu-inc
 logohandle: gluu
 sort: gluu

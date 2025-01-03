@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kamon-io/Kamon
+codehost: https://github.com/kamon-io/Kamon
 logohandle: kamonio
 sort: kamon
 title: Kamon

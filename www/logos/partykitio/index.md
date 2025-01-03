@@ -1,6 +1,6 @@
 ---
 blog: https://blog.partykit.io/
-codehost: https://github.com/https://github.com/partykit/partykit
+codehost: https://github.com/partykit/partykit
 logohandle: partykitio
 sort: partykit
 title: PartyKit

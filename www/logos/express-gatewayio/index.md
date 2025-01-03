@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@lunchbadger
-codehost: https://github.com/https://github.com/ExpressGateway/express-gateway
+codehost: https://github.com/ExpressGateway/express-gateway
 facebook: https://facebook.com/expressjsgateway
 logohandle: express-gatewayio
 sort: express-gateway

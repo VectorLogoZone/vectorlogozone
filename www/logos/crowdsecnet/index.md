@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/crowdsecurity
+codehost: https://github.com/crowdsecurity
 logohandle: crowdsecnet
 sort: crowdsec
 title: CrowdSec

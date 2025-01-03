@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mozilla/geckoview
+codehost: https://github.com/mozilla/geckoview
 logohandle: mozilla_geckoview
 sort: geckoview
 title: GeckoView

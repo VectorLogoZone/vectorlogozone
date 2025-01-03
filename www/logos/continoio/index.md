@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/contino
+codehost: https://github.com/contino
 facebook: https://facebook.com/ContinoHQ
 instagram: https://instagram.com/contino_io
 linkedin: https:/www.linkedin.com/company-beta/5097376

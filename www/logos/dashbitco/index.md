@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dashbitco
+codehost: https://github.com/dashbitco
 logohandle: dashbitco
 sort: dashbit
 title: Dashbit

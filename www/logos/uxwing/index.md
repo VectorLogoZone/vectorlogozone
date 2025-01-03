@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/uxwing
+codehost: https://github.com/uxwing
 facebook: https://facebook.com/uxwing
 instagram: https://instagram.com/uxwing
 logohandle: uxwing

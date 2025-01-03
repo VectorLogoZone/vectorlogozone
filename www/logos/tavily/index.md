@@ -1,6 +1,6 @@
 ---
 blog: https://blog.tavily.com/
-codehost: https://github.com/https://github.com/tavily-ai
+codehost: https://github.com/tavily-ai
 logohandle: tavily
 sort: tavily
 title: Tavily

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/squirrellyjs/squirrelly
+codehost: https://github.com/squirrellyjs/squirrelly
 facebook: https://facebook.com/squirrellyjs
 logohandle: js_squirrellyjs
 sort: squirrelly

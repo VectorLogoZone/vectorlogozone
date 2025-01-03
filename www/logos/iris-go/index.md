@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kataras/iris
+codehost: https://github.com/kataras/iris
 facebook: https://facebook.com/iris.framework
 logohandle: iris-go
 sort: iris

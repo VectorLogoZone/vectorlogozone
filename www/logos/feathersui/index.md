@@ -1,6 +1,6 @@
 ---
 blog: https://feathersui.com/blog/
-codehost: https://github.com/https://github.com/BowlerHatLLC/feathers-sdk
+codehost: https://github.com/BowlerHatLLC/feathers-sdk
 facebook: https://facebook.com/feathersui
 logohandle: feathersui
 sort: feathersui

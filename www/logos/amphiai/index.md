@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/amphi-ai
+codehost: https://github.com/amphi-ai
 linkedin: https://linkedin.com/company/amphi-ai
 logohandle: amphiai
 sort: amphi

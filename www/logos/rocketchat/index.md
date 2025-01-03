@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rocketchat
+codehost: https://github.com/rocketchat
 facebook: https://facebook.com/RocketChatApp
 instagram: https://instagram.com/rocket.chat
 linkedin: https://linkedin.com/company/rocket-chat

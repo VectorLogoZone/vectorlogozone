@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/koordinates/sno
+codehost: https://github.com/koordinates/sno
 logohandle: snoearth
 sort: sno
 title: Sno

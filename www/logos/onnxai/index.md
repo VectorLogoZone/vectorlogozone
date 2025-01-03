@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/onnx
+codehost: https://github.com/onnx
 facebook: https://facebook.com/onnxai
 keywords:
 - Open Neural Network Exchange

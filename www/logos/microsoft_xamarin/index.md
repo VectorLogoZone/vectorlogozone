@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/xamarin
+codehost: https://github.com/xamarin
 guide: https://commons.wikimedia.org/wiki/File:Xamarin-logo.svg
 logohandle: microsoft_xamarin
 sort: xamarin

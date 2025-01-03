@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/programminghistorian/jekyll
+codehost: https://github.com/programminghistorian/jekyll
 logohandle: programminghistorian
 sort: programminghistorian
 title: The Programming Historian

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/catboost
+codehost: https://github.com/catboost
 logohandle: catboostai
 sort: catboost
 title: CatBoost

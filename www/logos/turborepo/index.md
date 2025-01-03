@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/turborepo
+codehost: https://github.com/turborepo
 logohandle: turborepo
 sort: turborepo
 title: Turborepo

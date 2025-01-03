@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gridsome/gridsome
+codehost: https://github.com/gridsome/gridsome
 logohandle: gridsome
 sort: gridsome
 title: Gridsome

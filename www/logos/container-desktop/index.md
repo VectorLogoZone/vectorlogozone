@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/iongion/container-desktop
+codehost: https://github.com/iongion/container-desktop
 logohandle: container-desktop
 sort: containerdesktop
 title: Container Desktop

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cloudify-cosmo
+codehost: https://github.com/cloudify-cosmo
 facebook: https://facebook.com/Cloudify.co
 googleplus: https://plus.google.com/+GetcloudifyOrg
 instagram: https://instagram.com/lifeatcloudify

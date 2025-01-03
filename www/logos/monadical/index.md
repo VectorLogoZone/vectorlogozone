@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Monadical-SAS
+codehost: https://github.com/Monadical-SAS
 facebook: https://facebook.com/monadical
 linkedin: https://linkedin.com/company/monadical
 logohandle: monadical

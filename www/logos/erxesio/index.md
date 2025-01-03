@@ -1,6 +1,6 @@
 ---
 blog: https://erxes.io/blog
-codehost: https://github.com/https://github.com/erxes
+codehost: https://github.com/erxes
 facebook: https://facebook.com/erxesHQ
 linkedin: https://linkedin.com/company/erxes
 logohandle: erxesio

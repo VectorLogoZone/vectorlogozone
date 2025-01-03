@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/smol-ai
+codehost: https://github.com/smol-ai
 logohandle: smolai
 sort: smolai
 title: smol.ai

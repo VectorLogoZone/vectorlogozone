@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/werf/werf
+codehost: https://github.com/werf/werf
 logohandle: werfio
 sort: werf
 title: werf

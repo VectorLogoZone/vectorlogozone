@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/NocoDB/NocoDB
+codehost: https://github.com/NocoDB/NocoDB
 linkedin: https://linkedin.com/company/xgenecloud
 logohandle: nocodb
 sort: nocodb

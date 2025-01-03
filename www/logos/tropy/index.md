@@ -1,6 +1,6 @@
 ---
 blog: https://tropy.org/blog/
-codehost: https://github.com/https://github.com/tropy/tropy
+codehost: https://github.com/tropy/tropy
 logohandle: tropy
 sort: tropy
 title: Tropy

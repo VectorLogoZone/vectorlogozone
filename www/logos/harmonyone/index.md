@@ -1,6 +1,6 @@
 ---
 blog: https://blog.harmony.one/
-codehost: https://github.com/https://github.com/harmony-one
+codehost: https://github.com/harmony-one
 facebook: https://facebook.com/harmonyoneprotocol
 instagram: https://instagram.com/harmonyprotocol
 linkedin: https://linkedin.com/company/harmony-one

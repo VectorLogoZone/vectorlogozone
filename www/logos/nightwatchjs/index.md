@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nightwatchjs
+codehost: https://github.com/nightwatchjs
 logohandle: nightwatchjs
 sort: nightwatchjs
 title: Nightwatch.js

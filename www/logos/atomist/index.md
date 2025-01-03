@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/atomist
+codehost: https://github.com/atomist
 logohandle: atomist
 sort: atomist
 title: Atomist

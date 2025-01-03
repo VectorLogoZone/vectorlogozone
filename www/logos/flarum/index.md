@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/flarum
+codehost: https://github.com/flarum
 logohandle: flarum
 sort: flarum
 title: Flarum

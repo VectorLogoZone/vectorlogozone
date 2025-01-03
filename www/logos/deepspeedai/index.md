@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/microsoft/DeepSpeed
+codehost: https://github.com/microsoft/DeepSpeed
 logohandle: deepspeedai
 sort: deepspeed
 title: DeepSpeed

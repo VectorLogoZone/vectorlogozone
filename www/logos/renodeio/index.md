@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/renode/renode
+codehost: https://github.com/renode/renode
 logohandle: renodeio
 sort: renode
 title: Renode

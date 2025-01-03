@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/json-ld
+codehost: https://github.com/json-ld
 logohandle: json-ld
 sort: json-ld
 title: JSON-LD

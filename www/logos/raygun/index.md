@@ -1,6 +1,6 @@
 ---
 blog: https://raygun.com/blog
-codehost: https://github.com/https://github.com/MindscapeHQ
+codehost: https://github.com/MindscapeHQ
 facebook: https://facebook.com/raygundotio
 linkedin: https://linkedin.com/company/raygun-io
 logohandle: raygun

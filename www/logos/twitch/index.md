@@ -1,6 +1,6 @@
 ---
 blog: https://blog.twitch.tv/
-codehost: https://github.com/https://github.com/twitchdev
+codehost: https://github.com/twitchdev
 colors:
 - '#6441A4'
 facebook: https://facebook.com/twitch

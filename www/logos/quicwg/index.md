@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/quicwg/wg-materials
+codehost: https://github.com/quicwg/wg-materials
 guide: https://github.com/quicwg/wg-materials/tree/main/badge
 logohandle: quicwg
 sort: quic

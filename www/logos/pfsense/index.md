@@ -1,6 +1,6 @@
 ---
 blog: https://netgate.com/blog
-codehost: https://github.com/https://github.com/pfsense
+codehost: https://github.com/pfsense
 logohandle: pfsense
 sort: pfsense
 title: pfSense

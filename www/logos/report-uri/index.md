@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/report-uri
+codehost: https://github.com/report-uri
 facebook: https://facebook.com/reporturi
 logohandle: report-uri
 sort: report-uri

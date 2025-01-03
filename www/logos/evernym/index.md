@@ -1,6 +1,6 @@
 ---
 blog: https://evernym.com/blog
-codehost: https://github.com/https://github.com/evernym
+codehost: https://github.com/evernym
 logohandle: evernym
 sort: evernym
 title: Evernym

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/opendatadiscovery
-codehost: https://github.com/https://github.com/opendatadiscovery
+codehost: https://github.com/opendatadiscovery
 logohandle: opendatadiscovery
 sort: opendatadiscovery
 title: OpenDataDiscovery

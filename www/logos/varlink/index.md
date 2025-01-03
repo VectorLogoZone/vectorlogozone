@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/varlink/libvarlink
+codehost: https://github.com/varlink/libvarlink
 logohandle: varlink
 sort: varlink
 title: VARLINK

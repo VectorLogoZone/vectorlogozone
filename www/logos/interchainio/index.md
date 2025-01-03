@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/the-interchain-foundation
-codehost: https://github.com/https://github.com/interchainio
+codehost: https://github.com/interchainio
 linkedin: https://linkedin.com/company/interchain-foundation
 logohandle: interchainio
 sort: interchain

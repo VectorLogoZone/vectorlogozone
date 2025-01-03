@@ -1,6 +1,6 @@
 ---
 blog: https://ubersmith.com/blog
-codehost: https://github.com/https://github.com/TeamUbersmith
+codehost: https://github.com/TeamUbersmith
 instagram: https://instagram.com/ubersmithinc
 logohandle: ubersmith
 sort: ubersmith

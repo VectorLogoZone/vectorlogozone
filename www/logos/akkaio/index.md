@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/akka/akka
+codehost: https://github.com/akka/akka
 logohandle: akkaio
 sort: akka
 title: Akka

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.selectel.com/
-codehost: https://github.com/https://github.com/selectel
+codehost: https://github.com/selectel
 facebook: https://facebook.com/selectel
 instagram: https://instagram.com/selectelnews
 logohandle: selectelru

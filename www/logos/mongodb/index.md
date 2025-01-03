@@ -1,6 +1,6 @@
 ---
 blog: https://www.mongodb.com/blog
-codehost: https://github.com/https://github.com/mongodb
+codehost: https://github.com/mongodb
 facebook: https://facebook.com/mongodb
 images:
 - mongodb-icon.svg

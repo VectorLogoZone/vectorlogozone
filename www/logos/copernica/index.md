@@ -1,6 +1,6 @@
 ---
 blog: https://copernica.com/en/blog
-codehost: https://github.com/https://github.com/CopernicaMarketingSoftware
+codehost: https://github.com/CopernicaMarketingSoftware
 facebook: https://facebook.com/copernicanl
 googleplus: https://plus.google.com/+copernica
 instagram: https://instagram.com/copernica.emailsoftware

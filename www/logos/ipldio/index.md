@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ipld/docs
+codehost: https://github.com/ipld/docs
 logohandle: ipldio
 sort: ipld
 title: InterPlanetary Linked Data

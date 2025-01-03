@@ -1,6 +1,6 @@
 ---
 blog: https://panther.com/blog
-codehost: https://github.com/https://github.com/panther-labs
+codehost: https://github.com/panther-labs
 linkedin: https://linkedin.com/company/panther-labs
 logohandle: panther
 sort: panther

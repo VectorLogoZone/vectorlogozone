@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wakatime
+codehost: https://github.com/wakatime
 facebook: https://facebook.com/WakaTime
 logohandle: wakatime
 sort: wakatime

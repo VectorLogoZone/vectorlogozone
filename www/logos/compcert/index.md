@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/AbsInt/CompCert
+codehost: https://github.com/AbsInt/CompCert
 logohandle: compcert
 sort: compcert
 title: CompCert

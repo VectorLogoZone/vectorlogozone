@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/labstack/echo
+codehost: https://github.com/labstack/echo
 logohandle: labstack_echo
 sort: echo
 title: Echo

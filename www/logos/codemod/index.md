@@ -1,6 +1,6 @@
 ---
 blog: https://codemod.com/blog/
-codehost: https://github.com/https://github.com/codemod-com/codemod
+codehost: https://github.com/codemod-com/codemod
 linkedin: https://linkedin.com/company/codemod
 logohandle: codemod
 sort: codemod

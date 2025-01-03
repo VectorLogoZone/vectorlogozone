@@ -1,6 +1,6 @@
 ---
 blog: https://tabnine.com/blog
-codehost: https://github.com/https://github.com/codota/tabnine
+codehost: https://github.com/codota/tabnine
 facebook: https://facebook.com/TabnineInc
 linkedin: https://linkedin.com/company/tabnine
 logohandle: tabnine

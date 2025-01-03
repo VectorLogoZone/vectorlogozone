@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/leaningtech
+codehost: https://github.com/leaningtech
 linkedin: https://linkedin.com/company/leaning-technologies-ltd
 logohandle: leaningtech
 sort: leaningtech

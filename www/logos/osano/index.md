@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/osano
+codehost: https://github.com/osano
 logohandle: osano
 sort: osano
 title: Osano

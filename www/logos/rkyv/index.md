@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rkyv/rkyv
+codehost: https://github.com/rkyv/rkyv
 logohandle: rkyv
 sort: rkyv
 title: rkyv

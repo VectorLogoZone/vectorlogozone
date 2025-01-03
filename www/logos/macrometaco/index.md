@@ -1,6 +1,6 @@
 ---
 blog: https://macrometa.co/blog
-codehost: https://github.com/https://github.com/macrometacorp
+codehost: https://github.com/macrometacorp
 linkedin: https://linkedin.com/company/macrometa-corporation
 logohandle: macrometaco
 sort: macrometa

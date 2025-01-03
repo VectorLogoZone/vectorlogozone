@@ -1,6 +1,6 @@
 ---
 blog: https://impossiblecloud.com/blog/
-codehost: https://github.com/https://github.com/impossiblecloud
+codehost: https://github.com/impossiblecloud
 linkedin: https://linkedin.com/company/impossiblecloud
 logohandle: impossiblecloud
 sort: impossiblecloud

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.minio.io/
-codehost: https://github.com/https://github.com/minio
+codehost: https://github.com/minio
 facebook: https://www.facebook.com/Minio.io/
 guide: https://www.minio.io/logo.html
 images:

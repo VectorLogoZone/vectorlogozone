@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/falcosecurity/falco
+codehost: https://github.com/falcosecurity/falco
 guide: https://github.com/falcosecurity/falcosecurity.github.io/tree/master/images/logos
 logohandle: falco
 sort: falco

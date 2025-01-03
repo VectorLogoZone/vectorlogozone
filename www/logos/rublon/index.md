@@ -1,6 +1,6 @@
 ---
 blog: https://rublon.com/blog
-codehost: https://github.com/https://github.com/Rublon
+codehost: https://github.com/Rublon
 facebook: https://facebook.com/RublonApp
 instagram: https://instagram.com/rublon
 linkedin: https://linkedin.com/company/rublon

@@ -1,6 +1,6 @@
 ---
 blog: https://tokio.rs/blog/
-codehost: https://github.com/https://github.com/tokio-rs/tokio
+codehost: https://github.com/tokio-rs/tokio
 logohandle: tokiors
 sort: tokio
 title: Tokio

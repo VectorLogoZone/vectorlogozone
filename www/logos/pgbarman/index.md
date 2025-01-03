@@ -1,6 +1,6 @@
 ---
 blog: https://pgbarman.org/blog
-codehost: https://github.com/https://github.com/EnterpriseDB/barman
+codehost: https://github.com/EnterpriseDB/barman
 logohandle: pgbarman
 sort: barman
 title: Barman

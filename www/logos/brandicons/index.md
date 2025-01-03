@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rdimascio/icons
+codehost: https://github.com/rdimascio/icons
 logohandle: brandicons
 sort: brandicons
 title: Brand Icons

@@ -1,6 +1,6 @@
 ---
 blog: http://blogs.apache.org/tomcat/
-codehost: https://github.com/https://github.com/apache/tomcat
+codehost: https://github.com/apache/tomcat
 images:
 - apache_tomcat-icon.svg
 - apache_tomcat-ar21.svg

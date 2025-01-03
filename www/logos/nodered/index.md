@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/node-red
+codehost: https://github.com/node-red
 logohandle: nodered
 sort: nodered
 title: Node-RED

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Slicer/Slicer
+codehost: https://github.com/Slicer/Slicer
 logohandle: slicer
 sort: slicer
 title: Slicer

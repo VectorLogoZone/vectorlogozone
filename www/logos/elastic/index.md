@@ -1,6 +1,6 @@
 ---
 blog: https://www.elastic.co/blog
-codehost: https://github.com/https://github.com/elastic/elasticsearch
+codehost: https://github.com/elastic/elasticsearch
 facebook: http://www.facebook.com/elastic.co
 images:
 - elastic-icon.svg

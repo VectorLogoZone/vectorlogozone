@@ -1,6 +1,6 @@
 ---
 blog: https://materialize.com/blog
-codehost: https://github.com/https://github.com/MaterializeInc
+codehost: https://github.com/MaterializeInc
 linkedin: https://linkedin.com/company/materializeinc
 logohandle: materialize
 sort: materialize

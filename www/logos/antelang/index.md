@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jfecher/ante
+codehost: https://github.com/jfecher/ante
 logohandle: antelang
 sort: antelang
 title: Ante

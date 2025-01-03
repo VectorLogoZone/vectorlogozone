@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebookexperimental/rome
+codehost: https://github.com/facebookexperimental/rome
 logohandle: romejsdev
 sort: romejs
 title: Rome.js

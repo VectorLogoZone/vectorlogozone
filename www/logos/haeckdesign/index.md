@@ -1,6 +1,6 @@
 ---
 blog: https://haeckdesign.com/blog
-codehost: https://github.com/https://github.com/HaeckDesign
+codehost: https://github.com/HaeckDesign
 dribbble: https://dribbble.com/HaeckDesign
 facebook: https://facebook.com/haeckdesign
 googleplus: https://plus.google.com/+Haeckdesign

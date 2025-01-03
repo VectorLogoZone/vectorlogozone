@@ -1,6 +1,6 @@
 ---
 blog: https://blog.spiffe.io/
-codehost: https://github.com/https://github.com/spiffe
+codehost: https://github.com/spiffe
 logohandle: spiffeio
 slack: https://slack.spiffe.io/
 sort: spiffe

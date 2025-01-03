@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/mindsdb
-codehost: https://github.com/https://github.com/mindsdb/mindsdb
+codehost: https://github.com/mindsdb/mindsdb
 facebook: https://facebook.com/MindsDB
 linkedin: https://linkedin.com/company/mindsdb
 logohandle: mindsdb

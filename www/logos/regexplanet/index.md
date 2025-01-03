@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/regexplanet
+codehost: https://github.com/regexplanet
 colors:
 - '#AF0011'
 font:

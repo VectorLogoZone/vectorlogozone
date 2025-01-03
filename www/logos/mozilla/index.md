@@ -1,6 +1,6 @@
 ---
 blog: https://blog.mozilla.org/
-codehost: https://github.com/https://github.com/mozilla
+codehost: https://github.com/mozilla
 facebook: https://www.facebook.com/mozilla
 guide: https://mozilla.ninja/mlogo
 images:

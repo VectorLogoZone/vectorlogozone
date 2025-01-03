@@ -1,6 +1,6 @@
 ---
 blog: https://maps.me/blog/en
-codehost: https://github.com/https://github.com/mapsme/omim
+codehost: https://github.com/mapsme/omim
 facebook: http://facebook.com/MapsWithMe
 logohandle: mapsme
 sort: mapsme

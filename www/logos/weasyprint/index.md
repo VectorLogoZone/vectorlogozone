@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Kozea/WeasyPrint
+codehost: https://github.com/Kozea/WeasyPrint
 logohandle: weasyprint
 sort: weasyprint
 title: WeasyPrint

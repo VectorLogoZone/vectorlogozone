@@ -1,6 +1,6 @@
 ---
 blog: https://rossum.ai/blog
-codehost: https://github.com/https://github.com/RossumAI
+codehost: https://github.com/RossumAI
 facebook: https://facebook.com/RossumAi
 linkedin: https://linkedin.com/company/rossum
 logohandle: rossumai

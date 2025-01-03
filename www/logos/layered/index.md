@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/LayeredStudio
+codehost: https://github.com/LayeredStudio
 logohandle: layered
 sort: layered
 title: Layered

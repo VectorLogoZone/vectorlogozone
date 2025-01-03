@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cuelang/cue
+codehost: https://github.com/cuelang/cue
 logohandle: cuelang
 sort: cuelang
 title: CUE

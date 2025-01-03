@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/carboneio/carbone
+codehost: https://github.com/carboneio/carbone
 linkedin: https://linkedin.com/company/carboneio
 logohandle: carboneio
 sort: carbone

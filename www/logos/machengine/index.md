@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hexops/mach
+codehost: https://github.com/hexops/mach
 logohandle: machengine
 sort: machengine
 title: Mach

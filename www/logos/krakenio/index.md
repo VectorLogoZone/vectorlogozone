@@ -1,6 +1,6 @@
 ---
 blog: https://blog.kraken.io/
-codehost: https://github.com/https://github.com/kraken-io
+codehost: https://github.com/kraken-io
 logohandle: krakenio
 sort: krakenio
 title: Kraken.io

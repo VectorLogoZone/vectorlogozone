@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/yyyar/gobetween
+codehost: https://github.com/yyyar/gobetween
 logohandle: gobetweenio
 sort: gobetween
 title: gobetween

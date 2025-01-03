@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apple
+codehost: https://github.com/apple
 facebook: https://www.facebook.com/apple
 images:
 - apple-tile.svg

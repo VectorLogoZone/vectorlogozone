@@ -1,6 +1,6 @@
 ---
 blog: https://yottadb.com/blog
-codehost: https://github.com/https://github.com/YottaDB
+codehost: https://github.com/YottaDB
 facebook: https://facebook.com/yottadb
 linkedin: https://linkedin.com/company/yottadb
 logohandle: yottadb

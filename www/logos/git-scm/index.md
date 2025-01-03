@@ -1,6 +1,6 @@
 ---
 blog: https://git-scm.com/blog
-codehost: https://github.com/https://github.com/git
+codehost: https://github.com/git
 font:
   myfonts: https://www.myfonts.com/fonts/type-together/adelle/
   name: Adelle

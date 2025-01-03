@@ -1,6 +1,6 @@
 ---
 blog: https://balena.io/blog
-codehost: https://github.com/https://github.com/balena-io
+codehost: https://github.com/balena-io
 facebook: https://facebook.com/balenacloud
 instagram: https://instagram.com/balena_io
 linkedin: https://linkedin.com/company/balenaio

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/nanocurrency
-codehost: https://github.com/https://github.com/nanocurrency
+codehost: https://github.com/nanocurrency
 logohandle: nano
 sort: nano
 title: Nano

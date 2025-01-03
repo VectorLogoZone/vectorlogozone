@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/BuilderIO/partytown
+codehost: https://github.com/BuilderIO/partytown
 logohandle: builderio_partytown
 sort: partytown
 title: Partytown

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@symfony
-codehost: https://github.com/https://github.com/symfony
+codehost: https://github.com/symfony
 facebook: https://facebook.com/SymfonyFramework
 guide: https://symfony.com/logo
 logohandle: symfony

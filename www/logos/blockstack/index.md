@@ -1,6 +1,6 @@
 ---
 blog: http://blog.blockstack.org/
-codehost: https://github.com/https://github.com/blockstack
+codehost: https://github.com/blockstack
 logohandle: blockstack
 sort: blockstack
 title: Blockstack

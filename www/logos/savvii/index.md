@@ -1,6 +1,6 @@
 ---
 blog: https://savvii.com/blog
-codehost: https://github.com/https://github.com/Savvii
+codehost: https://github.com/Savvii
 facebook: https://facebook.com/savviihq
 instagram: https://instagram.com/savviihq
 linkedin: https://linkedin.com/company/savvii-hosting

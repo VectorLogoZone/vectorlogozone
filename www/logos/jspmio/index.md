@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jspm/project
+codehost: https://github.com/jspm/project
 dribbble: https://dribbble.com/luukdv
 logohandle: jspmio
 sort: jspm

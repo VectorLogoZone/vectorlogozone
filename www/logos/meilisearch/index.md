@@ -1,6 +1,6 @@
 ---
 blog: https://blog.meilisearch.com/
-codehost: https://github.com/https://github.com/meilisearch/MeiliSearch
+codehost: https://github.com/meilisearch/MeiliSearch
 linkedin: https://linkedin.com/company/meilisearch
 logohandle: meilisearch
 sort: meilisearch

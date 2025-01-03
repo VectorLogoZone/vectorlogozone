@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/flet-dev/flet
+codehost: https://github.com/flet-dev/flet
 logohandle: fletdev
 sort: flet
 title: Flet

@@ -1,6 +1,6 @@
 ---
 blog: https://www.tripadvisor.com/blog/
-codehost: https://github.com/https://github.com/tripadvisor
+codehost: https://github.com/tripadvisor
 facebook: https://www.facebook.com/TripAdvisor
 font:
   myfonts: https://www.myfonts.com/fonts/adobe/frutiger/roman-2/

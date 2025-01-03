@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/goeuro
+codehost: https://github.com/goeuro
 facebook: https://business.facebook.com/Omio
 instagram: https://instagram.com/Omio
 linkedin: https://linkedin.com/company/omio

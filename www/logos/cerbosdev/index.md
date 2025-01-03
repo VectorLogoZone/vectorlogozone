@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cerbos
+codehost: https://github.com/cerbos
 linkedin: https://linkedin.com/company/cerbos-dev
 logohandle: cerbosdev
 sort: cerbos

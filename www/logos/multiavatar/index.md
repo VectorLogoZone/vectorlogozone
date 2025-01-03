@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/multiavatar/Multiavatar
+codehost: https://github.com/multiavatar/Multiavatar
 facebook: https://facebook.com/multiavatar
 instagram: https://instagram.com/multiavatarcom
 logohandle: multiavatar

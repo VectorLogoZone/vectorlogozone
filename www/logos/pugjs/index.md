@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pugjs/pug
+codehost: https://github.com/pugjs/pug
 logohandle: pugjs
 sort: pugjs
 title: Pug

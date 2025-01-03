@@ -1,6 +1,6 @@
 ---
 blog: https://www.rabbitmq.com/blog/
-codehost: https://github.com/https://github.com/RabbitMQ
+codehost: https://github.com/RabbitMQ
 images:
 - rabbitmq-icon.svg
 - rabbitmq-ar21.svg

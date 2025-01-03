@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ianstormtaylor/superstruct
+codehost: https://github.com/ianstormtaylor/superstruct
 logohandle: superstructjs
 sort: superstructjs
 title: Superstruct

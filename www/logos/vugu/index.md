@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vugu/vugu
+codehost: https://github.com/vugu/vugu
 logohandle: vugu
 sort: vugu
 title: Vugu

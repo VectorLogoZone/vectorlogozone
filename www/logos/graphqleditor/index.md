@@ -1,6 +1,6 @@
 ---
 blog: https://blog.graphqleditor.com/
-codehost: https://github.com/https://github.com/graphql-editor/graphql-editor
+codehost: https://github.com/graphql-editor/graphql-editor
 logohandle: graphqleditor
 sort: graphqleditor
 title: GraphQL Editor

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/steamclock
+codehost: https://github.com/steamclock
 dribbble: https://dribbble.com/steamclock
 linkedin: https://linkedin.com/company/steamclock-software
 logohandle: steamclock

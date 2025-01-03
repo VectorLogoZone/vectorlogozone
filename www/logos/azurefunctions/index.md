@@ -1,6 +1,6 @@
 ---
 blog: https://azure.microsoft.com/en-us/blog
-codehost: https://github.com/https://github.com/Azure/Azure-Functions
+codehost: https://github.com/Azure/Azure-Functions
 facebook: https://facebook.com/microsoftazure
 linkedin: https://linkedin.com/company/16188386
 logohandle: azurefunctions

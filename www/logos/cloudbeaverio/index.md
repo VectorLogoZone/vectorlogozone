@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dbeaver/cloudbeaver
+codehost: https://github.com/dbeaver/cloudbeaver
 logohandle: cloudbeaverio
 sort: cloudbeaver
 title: CloudBeaver

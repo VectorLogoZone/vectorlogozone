@@ -1,6 +1,6 @@
 ---
 blog: https://hazelcast.com/blog
-codehost: https://github.com/https://github.com/hazelcast
+codehost: https://github.com/hazelcast
 facebook: https://facebook.com/hazelcast
 linkedin: https://linkedin.com/company/hazelcast
 logohandle: hazelcast

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nostr-protocol/nostr
+codehost: https://github.com/nostr-protocol/nostr
 logohandle: nostr
 sort: nostr
 title: Nostr

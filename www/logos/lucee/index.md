@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lucee
+codehost: https://github.com/lucee
 facebook: https://facebook.com/luceeserver
 logohandle: lucee
 sort: lucee

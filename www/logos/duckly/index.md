@@ -1,6 +1,6 @@
 ---
 blog: https://duckly.com/blog/
-codehost: https://github.com/https://github.com/GitDuckHQ
+codehost: https://github.com/GitDuckHQ
 logohandle: duckly
 sort: duckly
 title: Duckly

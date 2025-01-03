@@ -1,6 +1,6 @@
 ---
 blog: http://googlecloudplatform.blogspot.com/
-codehost: https://github.com/https://github.com/GoogleCloudPlatform
+codehost: https://github.com/GoogleCloudPlatform
 facebook: https://www.facebook.com/gcp
 googleplus: https://plus.google.com/+googlecloudplatform
 guide: https://cloud.google.com/press/

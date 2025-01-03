@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/derbyjs
+codehost: https://github.com/derbyjs
 gitter: https://gitter.im/derbyjs/derby
 logohandle: derbyjs
 sort: derbyjs

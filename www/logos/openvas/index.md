@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/greenbone/openvas-scanner
+codehost: https://github.com/greenbone/openvas-scanner
 logohandle: openvas
 sort: openvas
 title: OpenVAS

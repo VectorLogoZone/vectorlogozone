@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/flowbite
+codehost: https://github.com/flowbite
 logohandle: flowbite
 sort: flowbite
 title: Flowbite

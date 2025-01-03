@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/nixiesearch
-codehost: https://github.com/https://github.com/nixiesearch/nixiesearch
+codehost: https://github.com/nixiesearch/nixiesearch
 logohandle: nixiesearchai
 sort: nixiesearch
 title: Nixiesearch

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/inkit
+codehost: https://github.com/inkit
 facebook: https://facebook.com/inkit
 linkedin: https://linkedin.com/company/inkit
 logohandle: inkit

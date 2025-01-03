@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/interledger
+codehost: https://github.com/interledger
 linkedin: https://linkedin.com/company/interledger-foundation
 logohandle: interledger
 sort: interledger

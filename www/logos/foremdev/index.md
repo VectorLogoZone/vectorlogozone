@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/forem
+codehost: https://github.com/forem
 logohandle: foremdev
 sort: forem
 title: forem

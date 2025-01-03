@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/paxengine/pax
+codehost: https://github.com/paxengine/pax
 logohandle: paxdev
 sort: paxdev
 title: Pax

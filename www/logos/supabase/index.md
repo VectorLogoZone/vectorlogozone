@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/supabase
+codehost: https://github.com/supabase
 guide: https://supabase.com/brand-assets
 logohandle: supabase
 sort: supabase

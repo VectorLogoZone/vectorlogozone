@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/datreeio/datree
+codehost: https://github.com/datreeio/datree
 facebook: https://facebook.com/datreeio
 linkedin: https://linkedin.com/company/datreeio
 logohandle: datreeio

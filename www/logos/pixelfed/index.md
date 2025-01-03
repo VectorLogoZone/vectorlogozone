@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pixelfed/pixelfed
+codehost: https://github.com/pixelfed/pixelfed
 logohandle: pixelfed
 sort: pixelfed
 title: Pixelfed

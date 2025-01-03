@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Alfresco
+codehost: https://github.com/Alfresco
 facebook: https://facebook.com/alfrescosoftware
 linkedin: https://linkedin.com/company/alfresco
 logohandle: alfresco

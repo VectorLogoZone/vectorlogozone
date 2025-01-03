@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/modulz
+codehost: https://github.com/modulz
 logohandle: modulzapp
 sort: modulz
 title: Modulz

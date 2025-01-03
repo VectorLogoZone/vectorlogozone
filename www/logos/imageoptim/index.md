@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ImageOptim
+codehost: https://github.com/ImageOptim
 logohandle: imageoptim
 sort: imageoptim
 title: ImageOptim

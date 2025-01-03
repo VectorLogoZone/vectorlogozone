@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/api-evangelist
+codehost: https://github.com/api-evangelist
 linkedin: https://linkedin.com/organization/1500316
 logohandle: apievangelist
 sort: apievangelist

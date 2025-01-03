@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/breadwallet
+codehost: https://github.com/breadwallet
 instagram: https://instagram.com/blocksethq
 logohandle: blockset
 sort: blockset

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pharmer/pharmer
+codehost: https://github.com/pharmer/pharmer
 facebook: https://facebook.com/appscode
 logohandle: appscode
 sort: appscode

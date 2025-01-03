@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vmware
+codehost: https://github.com/vmware
 facebook: https://www.facebook.com/vmware
 googleplus: https://plus.google.com/+vmware
 guide: https://www.vmware.com/company/news/media-resources/press-kits.html

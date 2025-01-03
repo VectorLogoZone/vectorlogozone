@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apilayer
+codehost: https://github.com/apilayer
 facebook: https://facebook.com/apilayer
 linkedin: https://linkedin.com/company/apilayer
 logohandle: apilayer

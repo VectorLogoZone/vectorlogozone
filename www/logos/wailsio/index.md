@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wailsapp/wails
+codehost: https://github.com/wailsapp/wails
 logohandle: wailsio
 sort: wails
 title: Wails

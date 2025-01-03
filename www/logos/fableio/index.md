@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fable-compiler/Fable
+codehost: https://github.com/fable-compiler/Fable
 logohandle: fableio
 sort: fable
 title: Fable

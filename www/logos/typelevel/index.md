@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/typelevel
+codehost: https://github.com/typelevel
 logohandle: typelevel
 sort: typelevel
 title: Typelevel

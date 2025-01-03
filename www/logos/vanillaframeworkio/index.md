@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/canonical/vanilla-framework
+codehost: https://github.com/canonical/vanilla-framework
 logohandle: vanillaframeworkio
 sort: vanillaframework
 title: Vanilla Framework

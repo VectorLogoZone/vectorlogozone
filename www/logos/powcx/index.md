@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/basecamp/pow
+codehost: https://github.com/basecamp/pow
 logohandle: powcx
 sort: pow
 title: Pow

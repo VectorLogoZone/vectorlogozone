@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/actix
+codehost: https://github.com/actix
 logohandle: actixrs
 sort: actixrs
 title: Actix Web

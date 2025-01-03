@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/swup/swup
+codehost: https://github.com/swup/swup
 logohandle: js_swup
 sort: swup
 title: Swup

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/drone
+codehost: https://github.com/drone
 guide: https://github.com/drone/brand/tree/master/logos
 logohandle: droneio
 sort: drone

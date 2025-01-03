@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/beefytech/Beef
+codehost: https://github.com/beefytech/Beef
 logohandle: beeflang
 sort: beeflang
 title: The Beef Programming Language

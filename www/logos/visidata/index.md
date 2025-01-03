@@ -1,6 +1,6 @@
 ---
 blog: https://visidata.org/blog/rss.xml
-codehost: https://github.com/https://github.com/saulpw/visidata
+codehost: https://github.com/saulpw/visidata
 logohandle: visidata
 sort: visidata
 title: VisiData

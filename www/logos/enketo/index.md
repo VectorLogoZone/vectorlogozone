@@ -1,6 +1,6 @@
 ---
 blog: https://blog.enketo.org/
-codehost: https://github.com/https://github.com/enketo
+codehost: https://github.com/enketo
 linkedin: https://linkedin.com/company/enketo-llc
 logohandle: enketo
 sort: enketo

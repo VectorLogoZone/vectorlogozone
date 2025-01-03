@@ -1,6 +1,6 @@
 ---
 blog: https://www.ruby-lang.org/en/news/
-codehost: https://github.com/https://github.com/ruby
+codehost: https://github.com/ruby
 font:
   microsoft: https://www.microsoft.com/typography/fonts/font.aspx?FMID=1932
   myfonts: http://www.myfonts.com/fonts/ascender/georgia/regular/

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/ethworks
-codehost: https://github.com/https://github.com/ethWorks
+codehost: https://github.com/ethWorks
 dribbble: https://dribbble.com/ethworks
 facebook: https://facebook.com/ethworks
 linkedin: https://linkedin.com/company/ethworks

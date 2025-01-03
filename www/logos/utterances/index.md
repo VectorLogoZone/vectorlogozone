@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/utterance
+codehost: https://github.com/utterance
 logohandle: utterances
 sort: utterances
 title: utterances

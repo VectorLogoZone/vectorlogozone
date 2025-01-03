@@ -1,6 +1,6 @@
 ---
 blog: https://www.redhat.com/en/blog
-codehost: https://github.com/https://github.com/redhat-developer
+codehost: https://github.com/redhat-developer
 colors:
 - '#CC0000'
 - '#A30000'

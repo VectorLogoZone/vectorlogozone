@@ -1,6 +1,6 @@
 ---
 blog: https://reasonml.github.io/community/blog/
-codehost: https://github.com/https://github.com/reasonml
+codehost: https://github.com/reasonml
 images:
 - reasonml-icon.svg
 - reasonml-ar21.svg

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.openzeppelin.com/
-codehost: https://github.com/https://github.com/OpenZeppelin
+codehost: https://github.com/OpenZeppelin
 logohandle: openzeppelin
 sort: openzeppelin
 title: OpenZeppelin

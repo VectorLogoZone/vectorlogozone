@@ -1,6 +1,6 @@
 ---
 blog: https://zettlr.com/blog
-codehost: https://github.com/https://github.com/Zettlr/Zettlr
+codehost: https://github.com/Zettlr/Zettlr
 facebook: https://facebook.com/zettlrapp
 linkedin: https://linkedin.com/company/zettlr
 logohandle: zettlr

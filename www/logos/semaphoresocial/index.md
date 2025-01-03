@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/NickColley/semaphore
+codehost: https://github.com/NickColley/semaphore
 logohandle: semaphoresocial
 sort: semaphore
 title: Semaphore

@@ -1,6 +1,6 @@
 ---
 blog: https://cloudzero.com/blog
-codehost: https://github.com/https://github.com/Cloudzero
+codehost: https://github.com/Cloudzero
 facebook: https://facebook.com/cloudzeroinc
 logohandle: cloudzero
 sort: cloudzero

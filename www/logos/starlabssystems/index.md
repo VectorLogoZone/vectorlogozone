@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/StarLabsLtd
+codehost: https://github.com/StarLabsLtd
 facebook: https://facebook.com/starlabssystems
 instagram: https://instagram.com/starlabssystems
 logohandle: starlabssystems

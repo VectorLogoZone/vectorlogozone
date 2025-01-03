@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/testcontainers
+codehost: https://github.com/testcontainers
 logohandle: testcontainers
 sort: testcontainers
 title: Testcontainers

@@ -1,6 +1,6 @@
 ---
 blog: https://devblogs.microsoft.com/typescript/
-codehost: https://github.com/https://github.com/Microsoft/TypeScript
+codehost: https://github.com/Microsoft/TypeScript
 colors:
 - '#3178C6'
 guide: https://www.typescriptlang.org/branding

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/graphite-project
+codehost: https://github.com/graphite-project
 guide: https://github.com/graphite-project/graphite-project.github.io/tree/master/img
 logohandle: graphiteapp
 sort: graphite

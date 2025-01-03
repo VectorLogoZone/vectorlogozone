@@ -1,6 +1,6 @@
 ---
 blog: https://blogs.msdn.microsoft.com/dotnet/
-codehost: https://github.com/https://github.com/dotnet
+codehost: https://github.com/dotnet
 facebook: https://www.facebook.com/Dotnet
 font:
   google: https://fonts.google.com/specimen/Open+Sans

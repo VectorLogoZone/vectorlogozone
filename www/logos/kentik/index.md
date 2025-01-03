@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kentik
+codehost: https://github.com/kentik
 facebook: https://facebook.com/kentiktech
 linkedin: https://linkedin.com/company/kentik
 logohandle: kentik

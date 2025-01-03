@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/elastic/kibana
+codehost: https://github.com/elastic/kibana
 logohandle: elasticco_kibana
 sort: kibana
 title: Kibana

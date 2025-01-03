@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fengari-lua
+codehost: https://github.com/fengari-lua
 logohandle: fengariio
 sort: fengari
 title: Fengari

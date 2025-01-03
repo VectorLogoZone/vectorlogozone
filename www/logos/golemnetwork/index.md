@@ -1,6 +1,6 @@
 ---
 blog: http://blog.golemproject.net/
-codehost: https://github.com/https://github.com/golemfactory
+codehost: https://github.com/golemfactory
 facebook: https://facebook.com/golemproject
 logohandle: golemnetwork
 sort: golem

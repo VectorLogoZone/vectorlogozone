@@ -1,6 +1,6 @@
 ---
 blog: https://ceph.com/community/blog
-codehost: https://github.com/https://github.com/ceph
+codehost: https://github.com/ceph
 facebook: https://facebook.com/cephstorage
 googleplus: https://plus.google.com/+Cephstorage
 logohandle: ceph

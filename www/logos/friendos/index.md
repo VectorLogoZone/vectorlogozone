@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/friendupcloud
+codehost: https://github.com/friendupcloud
 facebook: https://facebook.com/friendupcloud
 linkedin: https://linkedin.com/company/4831723
 logohandle: friendos

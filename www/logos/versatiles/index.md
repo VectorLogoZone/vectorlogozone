@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/versatiles-org
+codehost: https://github.com/versatiles-org
 logohandle: versatiles
 sort: versatiles
 title: VersaTiles

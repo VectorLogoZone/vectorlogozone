@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/iipc
+codehost: https://github.com/iipc
 logohandle: netpreserve
 sort: iipc
 title: IIPC

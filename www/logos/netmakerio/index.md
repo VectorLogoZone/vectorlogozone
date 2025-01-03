@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gravitl/netmaker
+codehost: https://github.com/gravitl/netmaker
 linkedin: https://linkedin.com/company/gravitl
 logohandle: netmakerio
 sort: netmaker

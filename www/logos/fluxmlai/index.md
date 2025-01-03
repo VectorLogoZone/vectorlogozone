@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/FluxML
+codehost: https://github.com/FluxML
 logohandle: fluxmlai
 sort: fluxml
 title: Flux

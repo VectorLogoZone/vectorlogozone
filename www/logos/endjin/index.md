@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/endjin
+codehost: https://github.com/endjin
 facebook: https://facebook.com/endjinhq
 instagram: https://instagram.com/endjinhq
 linkedin: https://linkedin.com/company/endjin

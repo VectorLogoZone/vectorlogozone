@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/maniartech/InternetObject-vs-JSON-benchmark
+codehost: https://github.com/maniartech/InternetObject-vs-JSON-benchmark
 logohandle: internetobject
 sort: internetobject
 title: Internet Object

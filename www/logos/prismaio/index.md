@@ -1,6 +1,6 @@
 ---
 blog: https://prisma.io/blog
-codehost: https://github.com/https://github.com/prisma/prisma
+codehost: https://github.com/prisma/prisma
 facebook: https://facebook.com/prisma.io
 logohandle: prismaio
 sort: prisma

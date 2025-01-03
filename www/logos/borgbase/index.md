@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/borgbase
+codehost: https://github.com/borgbase
 logohandle: borgbase
 sort: borgbase
 title: BorgBase

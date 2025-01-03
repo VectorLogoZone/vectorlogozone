@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ElemeFE/element
+codehost: https://github.com/ElemeFE/element
 logohandle: elemeio
 sort: element
 title: Element

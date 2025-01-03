@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/timelock-dev/tlock-worker
+codehost: https://github.com/timelock-dev/tlock-worker
 logohandle: timelockdev
 sort: timelock
 title: Timelock

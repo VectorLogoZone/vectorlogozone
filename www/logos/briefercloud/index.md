@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/briefercloud
+codehost: https://github.com/briefercloud
 logohandle: briefercloud
 sort: briefer
 title: Briefer

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/BemiHQ/bemi
+codehost: https://github.com/BemiHQ/bemi
 linkedin: https://linkedin.com/company/bemihq/about
 logohandle: bemiio
 sort: bemi

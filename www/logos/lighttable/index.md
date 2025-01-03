@@ -1,6 +1,6 @@
 ---
 blog: http://lighttable.com/blog
-codehost: https://github.com/https://github.com/LightTable/LightTable
+codehost: https://github.com/LightTable/LightTable
 logohandle: lighttable
 sort: lighttable
 title: Light Table

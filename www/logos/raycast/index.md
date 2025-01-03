@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/raycast
+codehost: https://github.com/raycast
 dribbble: https://dribbble.com/raycastapp
 logohandle: raycast
 sort: raycast

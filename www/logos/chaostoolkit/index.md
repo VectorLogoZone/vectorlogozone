@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/chaostoolkit
+codehost: https://github.com/chaostoolkit
 logohandle: chaostoolkit
 sort: chaostoolkit
 title: Chaostoolkit

@@ -1,6 +1,6 @@
 ---
 blog: http://newsroom.1and1.com/
-codehost: https://github.com/https://github.com/1and1
+codehost: https://github.com/1and1
 colors:
 - '#002276'
 facebook: https://www.facebook.com/1and1

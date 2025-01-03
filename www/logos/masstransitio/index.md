@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/MassTransit/MassTransit
+codehost: https://github.com/MassTransit/MassTransit
 logohandle: masstransitio
 sort: masstransit
 title: MassTransit

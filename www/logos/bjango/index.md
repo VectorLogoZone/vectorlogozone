@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/bjango
+codehost: https://github.com/bjango
 dribbble: http://dribbble.com/bjango
 logohandle: bjango
 sort: bjango

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/sst/sst
+codehost: https://github.com/sst/sst
 linkedin: https://linkedin.com/company/sst-dev
 logohandle: sstdev
 sort: sst

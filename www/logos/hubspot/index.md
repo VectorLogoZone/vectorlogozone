@@ -1,6 +1,6 @@
 ---
 blog: https://thinkgrowth.org/
-codehost: https://github.com/https://github.com/hubspot
+codehost: https://github.com/hubspot
 facebook: http://www.facebook.com/hubspot
 guide: https://www.hubspot.com/newsroom
 instagram: http://www.instagram.com/hubspot

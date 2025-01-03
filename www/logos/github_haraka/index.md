@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/haraka/Haraka
+codehost: https://github.com/haraka/Haraka
 logohandle: github_haraka
 sort: haraka
 title: Haraka

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/halfmoonui/halfmoon
+codehost: https://github.com/halfmoonui/halfmoon
 logohandle: gethalfmoon
 sort: halfmoon
 title: Halfmoon

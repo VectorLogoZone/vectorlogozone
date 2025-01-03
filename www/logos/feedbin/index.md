@@ -1,6 +1,6 @@
 ---
 blog: https://feedbin.com/blo
-codehost: https://github.com/https://github.com/feedbin
+codehost: https://github.com/feedbin
 logohandle: feedbin
 sort: feedbin
 title: Feedbin

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/senecajs/seneca
+codehost: https://github.com/senecajs/seneca
 logohandle: senecajs
 sort: senecajs
 title: Seneca.js

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/githubsaturn/captainduckduck
+codehost: https://github.com/githubsaturn/captainduckduck
 logohandle: captainduckduck
 sort: captainduckduck
 title: CaptainDuckDuck

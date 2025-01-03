@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/riskledger
+codehost: https://github.com/riskledger
 facebook: https://facebook.com/riskledger
 instagram: https://instagram.com/riskledger
 linkedin: https://linkedin.com/company/risk-ledger

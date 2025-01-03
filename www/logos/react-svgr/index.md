@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gregberge/svgr
+codehost: https://github.com/gregberge/svgr
 logohandle: react-svgr
 sort: svgr
 title: SVGR

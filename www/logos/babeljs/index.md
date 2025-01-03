@@ -1,6 +1,6 @@
 ---
 blog: https://babeljs.io/blog/
-codehost: https://github.com/https://github.com/babel/babel
+codehost: https://github.com/babel/babel
 logohandle: babeljs
 slack: https://slack.babeljs.io/
 sort: babeljs

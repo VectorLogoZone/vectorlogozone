@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/WhatsApp
+codehost: https://github.com/WhatsApp
 facebook: https://www.facebook.com/WhatsApp
 guide: https://www.whatsappbrand.com/
 images:

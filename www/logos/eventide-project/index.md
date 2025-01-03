@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/eventide-project
+codehost: https://github.com/eventide-project
 logohandle: eventide-project
 sort: eventide-project
 title: Eventide

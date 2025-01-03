@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wbkd/react-flow
+codehost: https://github.com/wbkd/react-flow
 logohandle: reactflowdev
 sort: reactflow
 title: React Flow

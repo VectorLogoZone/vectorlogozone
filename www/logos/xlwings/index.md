@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/xlwings
+codehost: https://github.com/xlwings
 linkedin: https://linkedin.com/company/xlwings
 logohandle: xlwings
 sort: xlwings

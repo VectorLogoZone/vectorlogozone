@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gotson/komga
+codehost: https://github.com/gotson/komga
 logohandle: komga
 sort: komga
 title: Komga

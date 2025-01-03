@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/shikijs/shiki
+codehost: https://github.com/shikijs/shiki
 logohandle: shikistyle
 sort: shiki
 title: Shiki

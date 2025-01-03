@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/flamego/flamego
+codehost: https://github.com/flamego/flamego
 guide: https://github.com/flamego/brand-kit
 logohandle: flamegodev
 sort: flamego

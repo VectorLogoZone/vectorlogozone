@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/giveth
-codehost: https://github.com/https://github.com/giveth
+codehost: https://github.com/giveth
 facebook: https://facebook.com/givethio
 logohandle: givethio
 sort: giveth

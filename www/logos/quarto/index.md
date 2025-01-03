@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/quarto-dev/quarto-cli
+codehost: https://github.com/quarto-dev/quarto-cli
 logohandle: quarto
 sort: quarto
 title: Quarto

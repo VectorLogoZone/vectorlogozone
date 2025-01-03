@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/yegor256/cactoos
+codehost: https://github.com/yegor256/cactoos
 logohandle: cactoos
 sort: cactoos
 title: cactoos

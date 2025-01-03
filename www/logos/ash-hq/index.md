@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ash-project
+codehost: https://github.com/ash-project
 logohandle: ash-hq
 sort: ash
 title: Ash

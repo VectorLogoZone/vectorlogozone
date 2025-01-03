@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/metasfresh
+codehost: https://github.com/metasfresh
 facebook: https://facebook.com/metasfresh
 linkedin: https://linkedin.com/company/metasfresh
 logohandle: metasfresh

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/sequelpro/sequelpro
+codehost: https://github.com/sequelpro/sequelpro
 logohandle: sequelpro
 sort: sequelpro
 title: Sequel Pro

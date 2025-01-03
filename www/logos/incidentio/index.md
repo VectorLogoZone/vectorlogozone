@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/incident-io
+codehost: https://github.com/incident-io
 logohandle: incidentio
 sort: incident
 title: incident.io

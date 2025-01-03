@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/TablePlus/TablePlus
+codehost: https://github.com/TablePlus/TablePlus
 facebook: https://facebook.com/tableplusapp
 logohandle: tableplus
 sort: tableplus

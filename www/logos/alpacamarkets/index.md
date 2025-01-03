@@ -1,6 +1,6 @@
 ---
 blog: https://alpaca.markets/blog
-codehost: https://github.com/https://github.com/alpacahq
+codehost: https://github.com/alpacahq
 facebook: https://facebook.com/alpacahq
 linkedin: https://linkedin.com/company/alpacadb-inc-
 logohandle: alpacamarkets

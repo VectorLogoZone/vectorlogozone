@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/acmelogin
+codehost: https://github.com/acmelogin
 facebook: https://facebook.com/Acmelogin-1909128579375762
 linkedin: https://linkedin.com/company/acmelogin
 logohandle: acmelogin

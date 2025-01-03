@@ -1,6 +1,6 @@
 ---
 blog: https://chartbrew.com/blog
-codehost: https://github.com/https://github.com/chartbrew/chartbrew
+codehost: https://github.com/chartbrew/chartbrew
 logohandle: chartbrew
 sort: chartbrew
 title: Chartbrew

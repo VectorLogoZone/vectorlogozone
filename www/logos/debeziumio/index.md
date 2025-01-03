@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/debezium
+codehost: https://github.com/debezium
 logohandle: debeziumio
 sort: debezium
 title: Debezium

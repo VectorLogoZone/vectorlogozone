@@ -1,6 +1,6 @@
 ---
 blog: https://c9.io/blog
-codehost: https://github.com/https://github.com/c9
+codehost: https://github.com/c9
 colors:
 - '#00A8E9'
 facebook: https://www.facebook.com/Cloud9IDE

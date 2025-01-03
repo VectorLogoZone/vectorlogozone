@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/0ddParity/supershields
+codehost: https://github.com/0ddParity/supershields
 logohandle: supershieldsio
 sort: supershields
 title: SuperShields

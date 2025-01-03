@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/sangria-graphql
+codehost: https://github.com/sangria-graphql
 logohandle: sangria-graphql
 sort: sangria
 title: Sangria

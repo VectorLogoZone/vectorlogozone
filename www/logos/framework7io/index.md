@@ -1,6 +1,6 @@
 ---
 blog: https://blog.framework7.io/
-codehost: https://github.com/https://github.com/framework7io
+codehost: https://github.com/framework7io
 facebook: https://facebook.com/framework7io
 logohandle: framework7io
 sort: framework7

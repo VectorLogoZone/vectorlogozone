@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fleetdm/fleet
+codehost: https://github.com/fleetdm/fleet
 logohandle: fleetdm
 sort: fleetdm
 title: Fleet

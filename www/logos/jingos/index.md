@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/JingOS-team
+codehost: https://github.com/JingOS-team
 facebook: https://facebook.com/JingOSfb
 logohandle: jingos
 sort: jingos

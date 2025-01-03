@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/servo/servo
+codehost: https://github.com/servo/servo
 logohandle: servo
 sort: servo
 title: Servo

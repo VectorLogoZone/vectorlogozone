@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/DataHenOfficial
+codehost: https://github.com/DataHenOfficial
 logohandle: datahen
 sort: datahen
 title: DataHen

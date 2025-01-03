@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/CourtBouillon
+codehost: https://github.com/CourtBouillon
 linkedin: https://linkedin.com/company/courtbouillon
 logohandle: courtbouillon
 sort: courtbouillon

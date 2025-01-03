@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/veramo
-codehost: https://github.com/https://github.com/uport-project/veramo
+codehost: https://github.com/uport-project/veramo
 logohandle: veramoio
 sort: veramo
 title: Veramo

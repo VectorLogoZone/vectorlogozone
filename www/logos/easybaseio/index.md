@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/easybase
+codehost: https://github.com/easybase
 logohandle: easybaseio
 sort: easybase
 title: Easybase

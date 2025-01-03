@@ -1,6 +1,6 @@
 ---
 blog: http://blog.instagram.com/
-codehost: https://github.com/https://github.com/instagram
+codehost: https://github.com/instagram
 font:
   myfonts: https://www.myfonts.com/fonts/typeassociates/billabong/
   name: Billabong

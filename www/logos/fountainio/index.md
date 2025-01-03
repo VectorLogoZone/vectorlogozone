@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nyousefi/Fountain
+codehost: https://github.com/nyousefi/Fountain
 logohandle: fountainio
 sort: fountain
 title: Fountain

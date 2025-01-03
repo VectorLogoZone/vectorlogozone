@@ -1,6 +1,6 @@
 ---
 blog: https://bishopfox.com/blog
-codehost: https://github.com/https://github.com/BishopFox
+codehost: https://github.com/BishopFox
 facebook: https://facebook.com/BishopFoxConsulting
 instagram: https://instagram.com/bishopfoxconsulting
 linkedin: https://linkedin.com/company/bishop-fox

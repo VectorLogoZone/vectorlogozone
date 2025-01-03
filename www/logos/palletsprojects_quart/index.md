@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pallets/quart
+codehost: https://github.com/pallets/quart
 logohandle: palletsprojects_quart
 sort: quart
 title: Quart

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mitchellh/vagrant
+codehost: https://github.com/mitchellh/vagrant
 images:
 - vagrantup-official.svg
 - vagrantup-ar21.svg

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/woodpecker-ci/woodpecker
+codehost: https://github.com/woodpecker-ci/woodpecker
 logohandle: woodpecker-ci
 sort: woodpecker-ci
 title: Woodpecker CI

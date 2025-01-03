@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Gandi
+codehost: https://github.com/Gandi
 facebook: https://www.facebook.com/GandiBar
 images:
 - gandi-official.svg

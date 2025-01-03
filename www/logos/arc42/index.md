@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/arc42
+codehost: https://github.com/arc42
 logohandle: arc42
 sort: arc42
 title: arc42

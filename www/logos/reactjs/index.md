@@ -1,6 +1,6 @@
 ---
 blog: https://facebook.github.io/react/blog/
-codehost: https://github.com/https://github.com/facebook/react
+codehost: https://github.com/facebook/react
 images:
 - reactjs-icon.svg
 - reactjs-ar21.svg

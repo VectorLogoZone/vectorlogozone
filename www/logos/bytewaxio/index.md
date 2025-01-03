@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/bytewax
+codehost: https://github.com/bytewax
 linkedin: https://linkedin.com/company/bytewax
 logohandle: bytewaxio
 sort: bytewax

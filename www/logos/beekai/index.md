@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/beekai-oss
+codehost: https://github.com/beekai-oss
 logohandle: beekai
 sort: beekai
 title: BEEKAI

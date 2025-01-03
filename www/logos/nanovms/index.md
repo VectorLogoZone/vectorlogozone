@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nanovms/nanos
+codehost: https://github.com/nanovms/nanos
 linkedin: https://linkedin.com/company/nanovms
 logohandle: nanovms
 sort: nanovms

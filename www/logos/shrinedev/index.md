@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/shrinedev
+codehost: https://github.com/shrinedev
 facebook: https://facebook.com/shrinedev
 instagram: https://instagram.com/shrinedev
 linkedin: https://linkedin.com/shrinedev

@@ -1,6 +1,6 @@
 ---
 blog: http://blog.system76.com/
-codehost: https://github.com/https://github.com/system76
+codehost: https://github.com/system76
 facebook: https://facebook.com/system76
 googleplus: https://plus.google.com/104919222657565747428
 instagram: https://instagram.com/system76_com

@@ -1,6 +1,6 @@
 ---
 blog: https://www.paypal.com/stories/us
-codehost: https://github.com/https://github.com/paypal
+codehost: https://github.com/paypal
 colors:
 - '#00447B'
 - '#0079C0'

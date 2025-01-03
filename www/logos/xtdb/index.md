@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/xtdb/xtdb
+codehost: https://github.com/xtdb/xtdb
 logohandle: xtdb
 sort: xtdb
 title: XTDB

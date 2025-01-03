@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/alexandria-org
+codehost: https://github.com/alexandria-org
 logohandle: alexandria
 sort: alexandriasearch
 title: Alexandria Search

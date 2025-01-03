@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/stripe/einhorn
+codehost: https://github.com/stripe/einhorn
 logohandle: stripe_einhorn
 sort: einhorn
 title: Einhorn

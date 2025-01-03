@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/yarnpkg
+codehost: https://github.com/yarnpkg
 facebook: https://facebook.com/yarnpkg
 logohandle: yarnpkg
 sort: yarnpkg

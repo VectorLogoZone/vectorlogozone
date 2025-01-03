@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/incubator-weex
+codehost: https://github.com/apache/incubator-weex
 logohandle: apache_weex
 sort: weex
 tags:

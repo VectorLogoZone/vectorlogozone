@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lbryio
+codehost: https://github.com/lbryio
 facebook: https://facebook.com/lbryio
 logohandle: lbryio
 sort: lbry

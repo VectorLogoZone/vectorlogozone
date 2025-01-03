@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/watchtowrlabs
+codehost: https://github.com/watchtowrlabs
 linkedin: https://linkedin.com/company/watchtowr/?originalSubdomain=sg
 logohandle: watchtowr
 sort: watchtowr

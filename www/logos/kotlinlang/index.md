@@ -1,6 +1,6 @@
 ---
 blog: http://blog.jetbrains.com/kotlin
-codehost: https://github.com/https://github.com/JetBrains/kotlin
+codehost: https://github.com/JetBrains/kotlin
 images:
 - kotlinlang-icon.svg
 - kotlinlang-ar21.svg

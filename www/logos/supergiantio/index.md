@@ -1,6 +1,6 @@
 ---
 blog: https://supergiant.io/blog
-codehost: https://github.com/https://github.com/supergiant/supergiant
+codehost: https://github.com/supergiant/supergiant
 facebook: https://www.facebook.com/supergiantio/
 linkedin: https://www.linkedin.com/company/supergiant.io
 logohandle: supergiantio

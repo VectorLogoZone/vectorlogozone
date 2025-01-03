@@ -1,6 +1,6 @@
 ---
 blog: https://signal.org/blog/
-codehost: https://github.com/https://github.com/signalapp
+codehost: https://github.com/signalapp
 images:
 - signal-official.svg
 logohandle: signal

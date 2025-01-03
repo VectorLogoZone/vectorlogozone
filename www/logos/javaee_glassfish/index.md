@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/javaee/glassfish
+codehost: https://github.com/javaee/glassfish
 logohandle: javaee_glassfish
 sort: javaee_glassfish
 title: GlassFish

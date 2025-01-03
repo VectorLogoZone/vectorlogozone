@@ -1,6 +1,6 @@
 ---
 blog: https://apprenda.com/blog
-codehost: https://github.com/https://github.com/Apprenda
+codehost: https://github.com/Apprenda
 facebook: http://facebook.com/apprenda
 linkedin: https://linkedin.com/company/apprenda-inc-
 logohandle: apprenda

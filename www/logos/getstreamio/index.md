@@ -1,6 +1,6 @@
 ---
 blog: https://getstream.io/blog
-codehost: https://github.com/https://github.com/GetStream
+codehost: https://github.com/GetStream
 facebook: https://facebook.com/getstream.io
 linkedin: https://linkedin.com/company/getstream-io
 logohandle: getstreamio

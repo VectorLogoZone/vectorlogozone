@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nullstone-io/nullstone
+codehost: https://github.com/nullstone-io/nullstone
 linkedin: https://linkedin.com/company/nullstone
 logohandle: nullstoneio
 sort: nullstone

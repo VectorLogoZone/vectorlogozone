@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wundergraph
+codehost: https://github.com/wundergraph
 logohandle: wundergraph
 sort: wundergraph
 title: Wundergraph

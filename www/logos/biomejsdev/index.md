@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/biomejs/biome
+codehost: https://github.com/biomejs/biome
 logohandle: biomejsdev
 sort: biomejs
 title: Biome

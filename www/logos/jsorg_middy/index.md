@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/middyjs/middy
+codehost: https://github.com/middyjs/middy
 logohandle: jsorg_middy
 sort: middy
 title: Middy

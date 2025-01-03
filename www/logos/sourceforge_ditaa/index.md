@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/athoune/Ditaa-web
+codehost: https://github.com/athoune/Ditaa-web
 logohandle: sourceforge_ditaa
 sort: ditaa
 title: ditaa

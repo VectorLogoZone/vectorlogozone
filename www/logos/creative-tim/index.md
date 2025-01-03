@@ -1,6 +1,6 @@
 ---
 blog: https://blog.creative-tim.com/
-codehost: https://github.com/https://github.com/creativetimofficial
+codehost: https://github.com/creativetimofficial
 dribbble: https://dribbble.com/creativetim
 facebook: https://facebook.com/CreativeTim
 instagram: https://instagram.com/creativetimofficial

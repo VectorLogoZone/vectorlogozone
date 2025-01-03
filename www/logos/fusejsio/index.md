@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/krisk/fuse
+codehost: https://github.com/krisk/fuse
 logohandle: fusejsio
 sort: fusejs
 title: Fuse.js

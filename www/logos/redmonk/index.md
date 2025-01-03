@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/redmonk
+codehost: https://github.com/redmonk
 logohandle: redmonk
 sort: redmonk
 title: RedMonk

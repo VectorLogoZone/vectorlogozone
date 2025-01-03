@@ -1,6 +1,6 @@
 ---
 blog: https://blog.doctave.com/
-codehost: https://github.com/https://github.com/Doctave
+codehost: https://github.com/Doctave
 logohandle: doctave
 sort: doctave
 title: Doctave

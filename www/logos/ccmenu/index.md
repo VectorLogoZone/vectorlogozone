@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/erikdoe/ccmenu
+codehost: https://github.com/erikdoe/ccmenu
 logohandle: ccmenu
 sort: ccmenu
 title: CCMenu

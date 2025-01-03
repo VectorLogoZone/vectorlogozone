@@ -1,6 +1,6 @@
 ---
 blog: https://tenta.com/blog
-codehost: https://github.com/https://github.com/tenta-browser
+codehost: https://github.com/tenta-browser
 facebook: https://facebook.com/tentabrowser
 logohandle: tenta
 sort: tenta

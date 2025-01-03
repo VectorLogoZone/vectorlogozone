@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cinder/Cinder
+codehost: https://github.com/cinder/Cinder
 logohandle: libcinder
 sort: cinder
 title: Cinder

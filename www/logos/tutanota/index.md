@@ -1,6 +1,6 @@
 ---
 blog: https://tutanota.com/blog/
-codehost: https://github.com/https://github.com/tutao/tutanota
+codehost: https://github.com/tutao/tutanota
 facebook: https://facebook.com/tutanota
 logohandle: tutanota
 sort: tutanota

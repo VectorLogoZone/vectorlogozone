@@ -1,6 +1,6 @@
 ---
 blog: http://medium.com/tensorflow
-codehost: https://github.com/https://github.com/tensorflow
+codehost: https://github.com/tensorflow
 logohandle: tensorflow
 sort: tensorflow
 title: TensorFlow

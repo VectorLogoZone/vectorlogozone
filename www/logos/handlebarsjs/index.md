@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wycats/handlebars.js
+codehost: https://github.com/wycats/handlebars.js
 images:
 - handlebarsjs-icon.svg
 - handlebarsjs-ar21.svg

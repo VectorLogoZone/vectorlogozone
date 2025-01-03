@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/punkave
+codehost: https://github.com/punkave
 facebook: https://facebook.com/punkave
 instagram: https://instagram.com/punkave
 linkedin: https://linkedin.com/company/p%27unk-avenue

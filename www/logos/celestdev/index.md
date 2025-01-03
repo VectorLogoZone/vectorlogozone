@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/celest-dev/celest
+codehost: https://github.com/celest-dev/celest
 linkedin: https://linkedin.com/in/dillon-nys
 logohandle: celestdev
 sort: celest

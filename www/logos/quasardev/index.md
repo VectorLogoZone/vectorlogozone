@@ -1,6 +1,6 @@
 ---
 blog: https://blog.quasar.dev/
-codehost: https://github.com/https://github.com/quasarframework
+codehost: https://github.com/quasarframework
 facebook: https://www.facebook.com/QuasarFramework
 logohandle: quasardev
 sort: quasar

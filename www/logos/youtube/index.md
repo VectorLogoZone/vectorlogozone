@@ -1,6 +1,6 @@
 ---
 blog: https://youtube.googleblog.com/
-codehost: https://github.com/https://github.com/youtube
+codehost: https://github.com/youtube
 colors:
 - '#E52D27'
 - '#B31217'

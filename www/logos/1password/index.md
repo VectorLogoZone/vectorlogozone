@@ -1,6 +1,6 @@
 ---
 blog: https://blog.agilebits.com/
-codehost: https://github.com/https://github.com/1Password
+codehost: https://github.com/1Password
 facebook: https://facebook.com/1Password
 instagram: https://instagram.com/agilebits
 linkedin: https://linkedin.com/company/1Password

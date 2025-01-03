@@ -1,6 +1,6 @@
 ---
 blog: https://blog.worldlabel.com/
-codehost: https://github.com/https://github.com/worldlabel
+codehost: https://github.com/worldlabel
 facebook: http://www.facebook.com/pages/Worldlabelcom/128417713844953
 images:
 - worldlabel-ar21.svg

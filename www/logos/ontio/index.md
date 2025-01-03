@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/ontologynetwork
-codehost: https://github.com/https://github.com/ontio
+codehost: https://github.com/ontio
 facebook: https://facebook.com/ONTnetwork
 linkedin: https://linkedin.com/company/ontology-network-official
 logohandle: ontio

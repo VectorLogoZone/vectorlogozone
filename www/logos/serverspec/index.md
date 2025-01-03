@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/serverspec/serverspec
+codehost: https://github.com/serverspec/serverspec
 logohandle: serverspec
 sort: serverspec
 title: Serverspec

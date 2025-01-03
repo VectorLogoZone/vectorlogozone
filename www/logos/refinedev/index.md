@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pankod/refine
+codehost: https://github.com/pankod/refine
 logohandle: refinedev
 sort: refine
 title: Refine

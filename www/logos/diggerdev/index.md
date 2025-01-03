@@ -1,6 +1,6 @@
 ---
 blog: https://blog.digger.dev/
-codehost: https://github.com/https://github.com/diggerhq
+codehost: https://github.com/diggerhq
 linkedin: https://linkedin.com/company/diggerhq
 logohandle: diggerdev
 sort: digger

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/idris-lang/Idris-dev
+codehost: https://github.com/idris-lang/Idris-dev
 logohandle: idris-lang
 sort: idris-lang
 title: Idris

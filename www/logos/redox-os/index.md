@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/redox-os
+codehost: https://github.com/redox-os
 logohandle: redox-os
 sort: redox
 title: Redox

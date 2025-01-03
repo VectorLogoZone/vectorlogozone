@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cloudfour
+codehost: https://github.com/cloudfour
 facebook: https://facebook.com/cloudfourweb
 instagram: https://instagram.com/cloudfourpdx
 linkedin: https://linkedin.com/company/cloud-four

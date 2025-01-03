@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/NLnetLabs/unbound
+codehost: https://github.com/NLnetLabs/unbound
 logohandle: nlnetlabsnl_unbound
 sort: unbound
 title: Unbound

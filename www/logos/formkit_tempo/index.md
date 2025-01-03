@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/formkit/tempo
+codehost: https://github.com/formkit/tempo
 logohandle: formkit_tempo
 sort: tempo
 title: Tempo

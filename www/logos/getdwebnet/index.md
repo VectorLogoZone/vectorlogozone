@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/decentralized-web
-codehost: https://github.com/https://github.com/dweb-camp-2019
+codehost: https://github.com/dweb-camp-2019
 logohandle: getdwebnet
 sort: dweb
 title: Dweb

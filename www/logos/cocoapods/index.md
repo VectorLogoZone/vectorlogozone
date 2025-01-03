@@ -1,6 +1,6 @@
 ---
 blog: https://blog.cocoapods.org/
-codehost: https://github.com/https://github.com/CocoaPods/CocoaPods
+codehost: https://github.com/CocoaPods/CocoaPods
 logohandle: cocoapods
 sort: cocoapods
 title: CocoaPods

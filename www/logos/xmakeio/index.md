@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/xmake-io/xmake
+codehost: https://github.com/xmake-io/xmake
 logohandle: xmakeio
 sort: xmake
 title: xmake

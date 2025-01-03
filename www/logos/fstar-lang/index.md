@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/FStarLang/FStar
+codehost: https://github.com/FStarLang/FStar
 logohandle: fstar-lang
 sort: fstar
 title: F*

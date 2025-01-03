@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Kareadita/Kavita
+codehost: https://github.com/Kareadita/Kavita
 logohandle: kavitareader
 sort: kavitareader
 title: Kavita

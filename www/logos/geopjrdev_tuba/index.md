@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/GeopJr/Tuba
+codehost: https://github.com/GeopJr/Tuba
 logohandle: geopjrdev_tuba
 sort: tuba
 title: Tuba

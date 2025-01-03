@@ -1,6 +1,6 @@
 ---
 blog: https://blog.hello.coop/
-codehost: https://github.com/https://github.com/HelloCoop
+codehost: https://github.com/HelloCoop
 linkedin: https://linkedin.com/company/HelloCoop
 logohandle: hellocoop
 sort: hellocoop

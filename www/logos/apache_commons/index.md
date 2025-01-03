@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache
+codehost: https://github.com/apache
 logohandle: apache_commons
 sort: apachecommons
 tags:

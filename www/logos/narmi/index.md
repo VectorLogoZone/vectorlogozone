@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/narmi
+codehost: https://github.com/narmi
 linkedin: https://linkedin.com/company/narmi
 logohandle: narmi
 sort: narmi

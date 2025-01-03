@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/milligram/milligram
+codehost: https://github.com/milligram/milligram
 facebook: https://facebook.com/milligramcss
 logohandle: milligramio
 sort: milligram

@@ -1,6 +1,6 @@
 ---
 blog: https://animaapp.com/blog
-codehost: https://github.com/https://github.com/AnimaApp
+codehost: https://github.com/AnimaApp
 facebook: https://facebook.com/animaapp
 instagram: https://instagram.com/animaapp
 linkedin: https://linkedin.com/company/anima-app

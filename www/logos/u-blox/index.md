@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/u-blox
+codehost: https://github.com/u-blox
 facebook: https://facebook.com/ublox
 linkedin: https://linkedin.com/company/u-blox
 logohandle: u-blox

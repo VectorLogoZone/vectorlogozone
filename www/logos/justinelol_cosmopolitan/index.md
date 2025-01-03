@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jart/cosmopolitan
+codehost: https://github.com/jart/cosmopolitan
 logohandle: justinelol_cosmopolitan
 sort: cosmopolitan
 title: Cosmopolitan C Library

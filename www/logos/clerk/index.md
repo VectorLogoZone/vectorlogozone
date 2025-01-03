@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/clerkinc
+codehost: https://github.com/clerkinc
 facebook: https://facebook.com/clerkdev
 linkedin: https://linkedin.com/company/clerkinc
 logohandle: clerk

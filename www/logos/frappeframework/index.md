@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/frappe/frappe
+codehost: https://github.com/frappe/frappe
 logohandle: frappeframework
 sort: frappeframework
 title: Frappe Framework

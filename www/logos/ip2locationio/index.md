@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ip2location
+codehost: https://github.com/ip2location
 facebook: https://facebook.com/ip2location
 instagram: https://instagram.com/ip2location.ip
 linkedin: https://linkedin.com/company/ip2location

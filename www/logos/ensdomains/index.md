@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/the-ethereum-name-service
-codehost: https://github.com/https://github.com/ensdomains
+codehost: https://github.com/ensdomains
 logohandle: ensdomains
 sort: ens
 title: Ethereum Name Service

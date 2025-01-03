@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/emojidex
+codehost: https://github.com/emojidex
 logohandle: emojidex
 sort: emojidex
 title: emojidex

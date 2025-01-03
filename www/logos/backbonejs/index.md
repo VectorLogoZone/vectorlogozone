@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jashkenas/backbone/
+codehost: https://github.com/jashkenas/backbone/
 images:
 - backbonejs-icon.svg
 - backbonejs-ar21.svg

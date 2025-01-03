@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lewish/asciiflow
+codehost: https://github.com/lewish/asciiflow
 logohandle: asciiflow
 sort: asciiflow
 title: ASCIIFlow

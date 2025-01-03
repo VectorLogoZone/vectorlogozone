@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/quarkusio/quarkus
+codehost: https://github.com/quarkusio/quarkus
 logohandle: quarkusio
 sort: quarkus
 title: Quarkus

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.sonatype.com/
-codehost: https://github.com/https://github.com/sonatype
+codehost: https://github.com/sonatype
 facebook: https://facebook.com/Sonatype
 googleplus: https://plus.google.com/+Sonatypeinc/
 instagram: https://instagram.com/sonatypedotcom/

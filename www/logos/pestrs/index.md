@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pest-parser/pest
+codehost: https://github.com/pest-parser/pest
 logohandle: pestrs
 sort: pest
 title: pest

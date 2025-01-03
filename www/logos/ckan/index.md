@@ -1,6 +1,6 @@
 ---
 blog: https://ckan.org/blog/
-codehost: https://github.com/https://github.com/ckan
+codehost: https://github.com/ckan
 colors:
 - '#F03B41'
 - '#E3EB1F'

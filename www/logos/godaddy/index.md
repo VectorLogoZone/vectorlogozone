@@ -1,6 +1,6 @@
 ---
 blog: https://www.godaddy.com/blog/
-codehost: https://github.com/https://github.com/godaddy
+codehost: https://github.com/godaddy
 facebook: https://www.facebook.com/godaddy/
 font:
   name: Boing

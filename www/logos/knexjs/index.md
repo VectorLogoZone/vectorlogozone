@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tgriesser/knex
+codehost: https://github.com/tgriesser/knex
 logohandle: knexjs
 sort: knexjs
 title: Knex.js

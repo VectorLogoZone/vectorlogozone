@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/riverqueue/river
+codehost: https://github.com/riverqueue/river
 logohandle: riverqueue
 sort: riverqueue
 title: River

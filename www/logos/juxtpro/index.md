@@ -1,6 +1,6 @@
 ---
 blog: https://juxt.pro/blog
-codehost: https://github.com/https://github.com/juxt
+codehost: https://github.com/juxt
 linkedin: https://linkedin.com/company/juxt-juxt-pro-
 logohandle: juxtpro
 sort: juxt

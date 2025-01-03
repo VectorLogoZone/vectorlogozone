@@ -1,6 +1,6 @@
 ---
 blog: https://blog.digitalocean.com/
-codehost: https://github.com/https://github.com/digitalocean
+codehost: https://github.com/digitalocean
 colors:
 - '#0080FF'
 facebook: https://www.facebook.com/DigitalOceanCloudHosting

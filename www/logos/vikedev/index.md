@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vikejs/vike
+codehost: https://github.com/vikejs/vike
 logohandle: vikedev
 sort: vike
 title: Vike

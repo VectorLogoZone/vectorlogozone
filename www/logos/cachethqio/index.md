@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/CachetHQ
+codehost: https://github.com/CachetHQ
 facebook: https://facebook.com/CachetHQ
 logohandle: cachethqio
 sort: cachet

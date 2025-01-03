@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/filepreviews
+codehost: https://github.com/filepreviews
 logohandle: filepreviewsio
 sort: filepreviews
 title: FilePreviews

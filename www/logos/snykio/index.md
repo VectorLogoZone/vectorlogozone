@@ -1,6 +1,6 @@
 ---
 blog: https://snyk.io/blog
-codehost: https://github.com/https://github.com/snyk
+codehost: https://github.com/snyk
 facebook: https://facebook.com/snyksec
 linkedin: https://linkedin.com/company/snyk
 logohandle: snykio

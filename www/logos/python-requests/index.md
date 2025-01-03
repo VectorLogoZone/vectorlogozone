@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/requests/requests
+codehost: https://github.com/requests/requests
 guide: http://docs.python-requests.org/en/master/_static/requests-sidebar.png
 logohandle: python-requests
 sort: requests

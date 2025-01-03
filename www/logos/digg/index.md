@@ -1,6 +1,6 @@
 ---
 blog: http://blog.digg.com/
-codehost: https://github.com/https://github.com/digg
+codehost: https://github.com/digg
 facebook: https://www.facebook.com/digg
 font:
   name: FFF Forward

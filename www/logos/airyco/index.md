@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/airyhq
+codehost: https://github.com/airyhq
 logohandle: airyco
 sort: airy
 title: Airy

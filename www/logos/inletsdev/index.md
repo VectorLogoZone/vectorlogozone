@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/inlets/inlets
+codehost: https://github.com/inlets/inlets
 logohandle: inletsdev
 sort: inlets
 title: Inlets

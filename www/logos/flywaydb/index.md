@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/flyway/flyway
+codehost: https://github.com/flyway/flyway
 logohandle: flywaydb
 sort: flyway
 title: Flyway

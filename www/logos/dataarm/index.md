@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/DataArm
+codehost: https://github.com/DataArm
 facebook: https://www.facebook.com/dataarm/
 linkedin: https://www.linkedin.com/company/dataarm
 logohandle: dataarm

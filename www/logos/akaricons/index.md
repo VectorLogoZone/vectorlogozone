@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/artcoholic/akar-icons-app
+codehost: https://github.com/artcoholic/akar-icons-app
 logohandle: akaricons
 sort: akaricons
 title: Akar Icons

@@ -1,6 +1,6 @@
 ---
 blog: http://kiwiirc.com/blog/
-codehost: https://github.com/https://github.com/kiwiirc/kiwiirc
+codehost: https://github.com/kiwiirc/kiwiirc
 logohandle: kiwiirc
 sort: kiwiirc
 title: KiwiIRC

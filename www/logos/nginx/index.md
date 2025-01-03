@@ -1,6 +1,6 @@
 ---
 blog: https://www.nginx.com/blog/
-codehost: https://github.com/https://github.com/nginx
+codehost: https://github.com/nginx
 facebook: https://www.facebook.com/nginxinc
 images:
 - nginx-ar21.svg

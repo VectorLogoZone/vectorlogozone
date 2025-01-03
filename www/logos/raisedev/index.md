@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/raisedevs
+codehost: https://github.com/raisedevs
 facebook: https://facebook.com/raisedevs
 linkedin: https://linkedin.com/company/raisedevs
 logohandle: raisedev

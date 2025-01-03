@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/amplication/amplication
+codehost: https://github.com/amplication/amplication
 facebook: https://facebook.com/amplicationcom
 linkedin: https://linkedin.com/company/amplication
 logohandle: amplication

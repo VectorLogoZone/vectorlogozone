@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/zombodb/zombodb
+codehost: https://github.com/zombodb/zombodb
 guide: https://www.sparkpost.com/press-kit/
 logohandle: sparkpost
 sort: sparkpost

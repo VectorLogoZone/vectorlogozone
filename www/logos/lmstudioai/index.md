@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lmstudio-ai
+codehost: https://github.com/lmstudio-ai
 logohandle: lmstudioai
 sort: lmstudio
 title: LM Studio

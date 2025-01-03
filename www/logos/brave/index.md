@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/brave
+codehost: https://github.com/brave
 facebook: https://facebook.com/BraveSoftware
 logohandle: brave
 sort: brave

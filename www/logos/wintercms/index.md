@@ -1,6 +1,6 @@
 ---
 blog: https://wintercms.com/blog
-codehost: https://github.com/https://github.com/wintercms/winter
+codehost: https://github.com/wintercms/winter
 facebook: https://facebook.com/wintercms
 linkedin: https://linkedin.com/company/wintercms
 logohandle: wintercms

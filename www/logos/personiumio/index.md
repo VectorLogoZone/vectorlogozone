@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/personium
+codehost: https://github.com/personium
 logohandle: personiumio
 sort: personium
 title: Personium

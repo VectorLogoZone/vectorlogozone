@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/thomaspark/bootswatch
+codehost: https://github.com/thomaspark/bootswatch
 font:
   myfonts: https://www.myfonts.com/fonts/redrooster/harry-pro/fat/
   name: Harry Fat

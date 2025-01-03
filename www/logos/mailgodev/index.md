@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/manzinello/mailgo
+codehost: https://github.com/manzinello/mailgo
 logohandle: mailgodev
 sort: mailgo
 title: mailgo

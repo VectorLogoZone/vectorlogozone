@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/webrecorder
+codehost: https://github.com/webrecorder
 logohandle: webrecorder
 sort: webrecorder
 title: Webrecorder

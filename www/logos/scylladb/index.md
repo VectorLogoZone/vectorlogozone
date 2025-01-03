@@ -1,6 +1,6 @@
 ---
 blog: https://scylladb.com/blog
-codehost: https://github.com/https://github.com/ScyllaDB
+codehost: https://github.com/ScyllaDB
 facebook: https://facebook.com/scylladb
 logohandle: scylladb
 sort: scylladb

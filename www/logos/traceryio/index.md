@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/galaxykate/tracery
+codehost: https://github.com/galaxykate/tracery
 logohandle: traceryio
 sort: tracery
 title: Tracery

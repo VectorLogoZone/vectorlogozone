@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/VectorLogoZone/logosearch
+codehost: https://github.com/VectorLogoZone/logosearch
 logohandle: emojisearch
 sort: emojisearch
 title: Emoji Search

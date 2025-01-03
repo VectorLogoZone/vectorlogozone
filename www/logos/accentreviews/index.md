@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mirego/accent
+codehost: https://github.com/mirego/accent
 logohandle: accentreviews
 sort: accent
 title: Accent

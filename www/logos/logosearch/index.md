@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/VectorLogoZone/LogoSearch
+codehost: https://github.com/VectorLogoZone/LogoSearch
 font:
   google: https://fonts.google.com/specimen/Sansita
   name: Sansita

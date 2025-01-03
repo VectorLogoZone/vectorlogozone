@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/distributed-containers-inc
+codehost: https://github.com/distributed-containers-inc
 facebook: https://facebook.com/runtestsfaster
 linkedin: https://linkedin.com/company/layerci
 logohandle: layerci

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/antithesishq
+codehost: https://github.com/antithesishq
 instagram: https://instagram.com/antithesishq
 linkedin: https://linkedin.com/company/antithesis-operations/
 logohandle: antithesis

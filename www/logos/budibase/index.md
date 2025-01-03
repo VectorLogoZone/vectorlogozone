@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Budibase/budibase
+codehost: https://github.com/Budibase/budibase
 logohandle: budibase
 sort: budibase
 title: Budibase

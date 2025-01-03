@@ -1,6 +1,6 @@
 ---
 blog: https://selfkey.org/blog
-codehost: https://github.com/https://github.com/SelfKeyFoundation
+codehost: https://github.com/SelfKeyFoundation
 facebook: https://facebook.com/SelfKeyHQ
 instagram: https://instagram.com/SelfKey_Community
 linkedin: https://linkedin.com/company/selfkey

@@ -1,6 +1,6 @@
 ---
 blog: https://neuralegion.com/blog
-codehost: https://github.com/https://github.com/NeuraLegion
+codehost: https://github.com/NeuraLegion
 facebook: https://facebook.com/neuralegion
 linkedin: https://linkedin.com/company/neuralegion
 logohandle: neuralegion

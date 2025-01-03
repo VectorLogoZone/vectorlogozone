@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/webpod/webpod
+codehost: https://github.com/webpod/webpod
 logohandle: webpoddev
 sort: webpod
 title: Webpod

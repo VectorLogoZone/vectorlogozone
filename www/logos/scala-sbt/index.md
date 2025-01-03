@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/sbt/sbt
+codehost: https://github.com/sbt/sbt
 logohandle: scala-sbt
 sort: sbt
 title: sbt

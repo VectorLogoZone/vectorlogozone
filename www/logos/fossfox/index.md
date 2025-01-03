@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fossfox-com/fossfox
+codehost: https://github.com/fossfox-com/fossfox
 logohandle: fossfox
 sort: fossfox
 title: Fossfox

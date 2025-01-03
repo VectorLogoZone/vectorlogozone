@@ -1,6 +1,6 @@
 ---
 blog: https://aws.amazon.com/blogs/
-codehost: https://github.com/https://github.com/aws
+codehost: https://github.com/aws
 colors:
 - '#FF9900'
 facebook: https://www.facebook.com/amazonwebservices/

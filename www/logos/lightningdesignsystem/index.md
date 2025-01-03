@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/salesforce-ux/design-system
+codehost: https://github.com/salesforce-ux/design-system
 dribbble: https://dribbble.com/salesforce
 logohandle: lightningdesignsystem
 sort: lightningdesignsystem

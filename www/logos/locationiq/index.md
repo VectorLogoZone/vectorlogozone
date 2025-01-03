@@ -1,6 +1,6 @@
 ---
 blog: https://blog.locationiq.com/
-codehost: https://github.com/https://github.com/location-iq
+codehost: https://github.com/location-iq
 linkedin: https://linkedin.com/company/unwired-labs
 logohandle: locationiq
 sort: locationiq

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/orangeduck/Cello
+codehost: https://github.com/orangeduck/Cello
 logohandle: libcello
 sort: libcello
 title: Cello

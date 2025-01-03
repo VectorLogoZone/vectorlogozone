@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/unocss/unocss
+codehost: https://github.com/unocss/unocss
 logohandle: unocssdev
 sort: unocss
 title: UnoCSS

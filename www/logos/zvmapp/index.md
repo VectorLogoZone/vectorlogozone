@@ -1,6 +1,6 @@
 ---
 blog: https://zvm.app/blog/
-codehost: https://github.com/https://github.com/tristanisham/zvm
+codehost: https://github.com/tristanisham/zvm
 keywords:
 - Zig Version Manager
 logohandle: zvmapp

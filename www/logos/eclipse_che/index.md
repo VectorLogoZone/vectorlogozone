@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/eclipse/che
+codehost: https://github.com/eclipse/che
 googleplus: https://plus.google.com/103654360130207659246
 logohandle: eclipse_che
 sort: eclipseche

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.vector.im/
-codehost: https://github.com/https://github.com/vector-im
+codehost: https://github.com/vector-im
 logohandle: vectorim
 sort: vector
 title: New Vector

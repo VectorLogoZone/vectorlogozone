@@ -1,6 +1,6 @@
 ---
 blog: https://media.netflix.com/en/company-blog/
-codehost: https://github.com/https://github.com/netflix
+codehost: https://github.com/netflix
 facebook: https://www.facebook.com/netflixus
 font:
   myfonts: https://www.myfonts.com/fonts/flat-it/bebas-neue/

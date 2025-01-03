@@ -1,6 +1,6 @@
 ---
 blog: https://www.tesla.com/blog
-codehost: https://github.com/https://github.com/teslamotors
+codehost: https://github.com/teslamotors
 facebook: https://www.facebook.com/tesla/
 font:
   name: Emblem Bold D

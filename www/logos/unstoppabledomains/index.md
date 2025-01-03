@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/unstoppabledomain
-codehost: https://github.com/https://github.com/unstoppabledomains
+codehost: https://github.com/unstoppabledomains
 logohandle: unstoppabledomains
 sort: unstoppabledomains
 title: Unstoppable Domains

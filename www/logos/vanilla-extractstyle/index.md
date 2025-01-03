@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vanilla-extract-css/vanilla-extract
+codehost: https://github.com/vanilla-extract-css/vanilla-extract
 logohandle: vanilla-extractstyle
 sort: vanillaextract
 title: Vanilla Extract

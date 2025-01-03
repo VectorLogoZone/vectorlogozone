@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lunasec-io/lunasec
+codehost: https://github.com/lunasec-io/lunasec
 logohandle: lunasecio
 sort: lunasec
 title: LunaSec

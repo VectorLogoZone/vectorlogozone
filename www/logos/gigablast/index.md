@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gigablast
+codehost: https://github.com/gigablast
 logohandle: gigablast
 sort: gigablast
 title: Gigablast

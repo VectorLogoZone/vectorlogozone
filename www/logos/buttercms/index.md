@@ -1,6 +1,6 @@
 ---
 blog: https://buttercms.com/blog/
-codehost: https://github.com/https://github.com/ButterCMS
+codehost: https://github.com/ButterCMS
 linkedin: https://linkedin.com/company/buttercms
 logohandle: buttercms
 sort: buttercms

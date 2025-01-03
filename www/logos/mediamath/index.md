@@ -1,6 +1,6 @@
 ---
 blog: https://mediamath.com/blog
-codehost: https://github.com/https://github.com/MediaMath
+codehost: https://github.com/MediaMath
 facebook: https://facebook.com/MediaMath
 instagram: https://instagram.com/mediamathinc
 linkedin: https://linkedin.com/company/mediamath

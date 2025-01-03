@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/substrait-io/substrait
+codehost: https://github.com/substrait-io/substrait
 logohandle: substraitio
 sort: substrait
 title: Substrait

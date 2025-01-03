@@ -1,6 +1,6 @@
 ---
 blog: https://keybase.io/blog
-codehost: https://github.com/https://github.com/keybase
+codehost: https://github.com/keybase
 font:
   google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans

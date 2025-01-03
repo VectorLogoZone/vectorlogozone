@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/calpaterson/quarchive
+codehost: https://github.com/calpaterson/quarchive
 logohandle: quarchive
 sort: quarchive
 title: Quarchive

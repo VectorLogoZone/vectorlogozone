@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/onury/docma
+codehost: https://github.com/onury/docma
 logohandle: onuryio_docma
 sort: docma
 title: Docma

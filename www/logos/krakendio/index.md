@@ -1,6 +1,6 @@
 ---
 blog: https://krakend.io/blog
-codehost: https://github.com/https://github.com/devopsfaith/krakend
+codehost: https://github.com/devopsfaith/krakend
 facebook: https://facebook.com/apigateway
 logohandle: krakendio
 sort: krakend

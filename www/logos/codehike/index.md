@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/code-hike/codehike
+codehost: https://github.com/code-hike/codehike
 logohandle: codehike
 sort: codehike
 title: Code Hike

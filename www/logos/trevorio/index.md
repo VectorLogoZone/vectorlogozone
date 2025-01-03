@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tagspace/trevor-demo
+codehost: https://github.com/tagspace/trevor-demo
 logohandle: trevorio
 sort: trevor
 title: Trevor.io

@@ -1,6 +1,6 @@
 ---
 blog: http://graphql.org/blog/
-codehost: https://github.com/https://github.com/graphql
+codehost: https://github.com/graphql
 facebook: https://www.facebook.com/groups/graphql.community/
 images:
 - graphql-ar21.svg

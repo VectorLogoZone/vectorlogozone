@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/privacypass
+codehost: https://github.com/privacypass
 logohandle: github_privacypass
 sort: privacypass
 title: Privacy Pass

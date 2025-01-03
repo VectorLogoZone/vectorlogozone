@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fileformat/simpleshare
+codehost: https://github.com/fileformat/simpleshare
 font:
   google: https://fonts.google.com/specimen/Lato
   name: Lato Heavy

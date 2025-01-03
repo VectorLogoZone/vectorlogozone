@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/leaningtech/cheerpj-meta
+codehost: https://github.com/leaningtech/cheerpj-meta
 logohandle: cheerpj
 sort: cheerpj
 title: CheerpJ

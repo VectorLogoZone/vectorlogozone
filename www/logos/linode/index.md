@@ -1,6 +1,6 @@
 ---
 blog: https://blog.linode.com/
-codehost: https://github.com/https://github.com/linode
+codehost: https://github.com/linode
 facebook: https://facebook.com/linode
 images:
 - linode-icon.svg

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/grey-software
+codehost: https://github.com/grey-software
 linkedin: https://linkedin.com/company/grey-software
 logohandle: greysoftware
 sort: grey

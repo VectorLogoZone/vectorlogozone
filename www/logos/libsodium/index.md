@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jedisct1/libsodium
+codehost: https://github.com/jedisct1/libsodium
 logohandle: libsodium
 sort: libsodium
 title: LibSodium

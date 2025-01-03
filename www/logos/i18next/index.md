@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/i18next
+codehost: https://github.com/i18next
 guide: https://github.com/i18next/i18next-gitbook/blob/master/assets/img/logo.svg
 logohandle: i18next
 sort: i18next

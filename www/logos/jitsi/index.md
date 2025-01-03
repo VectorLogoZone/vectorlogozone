@@ -1,6 +1,6 @@
 ---
 blog: https://jitsi.org/blog
-codehost: https://github.com/https://github.com/jitsi
+codehost: https://github.com/jitsi
 facebook: https://facebook.com/jitsi
 logohandle: jitsi
 sort: jitsi

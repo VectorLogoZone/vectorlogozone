@@ -1,6 +1,6 @@
 ---
 blog: https://blog.pm2.io/
-codehost: https://github.com/https://github.com/unitech/pm2
+codehost: https://github.com/unitech/pm2
 logohandle: pm2io
 sort: pm2
 title: PM2

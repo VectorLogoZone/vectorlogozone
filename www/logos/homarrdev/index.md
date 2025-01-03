@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ajnart/homarr
+codehost: https://github.com/ajnart/homarr
 logohandle: homarrdev
 sort: homarr
 title: Homarr

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/marketplace/backhub
+codehost: https://github.com/marketplace/backhub
 facebook: https://facebook.com/backhub.co
 logohandle: backhubco
 sort: backhub

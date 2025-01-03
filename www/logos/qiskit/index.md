@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/Qiskit
-codehost: https://github.com/https://github.com/Qiskit
+codehost: https://github.com/Qiskit
 facebook: https://www.facebook.com/Qiskit
 logohandle: qiskit
 slack: https://qiskit.slack.com/

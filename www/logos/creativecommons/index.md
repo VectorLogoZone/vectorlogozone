@@ -1,6 +1,6 @@
 ---
 blog: https://creativecommons.org/blog/
-codehost: https://github.com/https://github.com/creativecommons
+codehost: https://github.com/creativecommons
 facebook: https://www.facebook.com/creativecommons
 font:
   freename: HK Grotesk

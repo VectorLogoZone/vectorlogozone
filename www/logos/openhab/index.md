@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/openhab
+codehost: https://github.com/openhab
 logohandle: openhab
 sort: openhab
 title: openHAB

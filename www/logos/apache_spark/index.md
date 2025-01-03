@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/amplab/spark-ec2
+codehost: https://github.com/amplab/spark-ec2
 logohandle: apache_spark
 sort: apache_spark
 tags:

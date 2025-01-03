@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fyne-io
+codehost: https://github.com/fyne-io
 logohandle: fyneio
 sort: fyne
 title: Fyne

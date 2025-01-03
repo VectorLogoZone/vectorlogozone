@@ -1,6 +1,6 @@
 ---
 blog: https://ably.com/blog/
-codehost: https://github.com/https://github.com/ably
+codehost: https://github.com/ably
 linkedin: https://linkedin.com/company/ably-realtime
 logohandle: ably
 sort: ably

@@ -1,6 +1,6 @@
 ---
 blog: http://blog.linkerd.io/
-codehost: https://github.com/https://github.com/linkerd/linkerd2
+codehost: https://github.com/linkerd/linkerd2
 logohandle: linkerdio
 slack: https://slack.linkerd.io/
 sort: linkerd

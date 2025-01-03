@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/js-cookie/js-cookie
+codehost: https://github.com/js-cookie/js-cookie
 facebook: https://facebook.com/assembledhq
 linkedin: https://linkedin.com/company/assembledhq
 logohandle: assembled

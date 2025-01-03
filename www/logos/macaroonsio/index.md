@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/macaroons-io
+codehost: https://github.com/macaroons-io
 logohandle: macaroonsio
 sort: macaroons
 title: Macaroons

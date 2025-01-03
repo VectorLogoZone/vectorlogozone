@@ -1,6 +1,6 @@
 ---
 blog: https://blog.grakn.ai/
-codehost: https://github.com/https://github.com/graknlabs/grakn
+codehost: https://github.com/graknlabs/grakn
 facebook: https://facebook.com/groups/1913787625527508
 linkedin: http://linkedin.com/organization/graknlabs
 logohandle: graknai

@@ -1,6 +1,6 @@
 ---
 blog: https://orc.apache.org/news/
-codehost: https://github.com/https://github.com/apache/orc
+codehost: https://github.com/apache/orc
 logohandle: apache_orc
 sort: orc
 tags:

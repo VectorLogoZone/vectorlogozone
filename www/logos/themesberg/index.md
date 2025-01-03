@@ -1,6 +1,6 @@
 ---
 blog: https://themesberg.com/blog
-codehost: https://github.com/https://github.com/themesberg
+codehost: https://github.com/themesberg
 dribbble: https://dribbble.com/themesberg
 facebook: https://facebook.com/themesberg
 instagram: https://instagram.com/themesberg

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/freedomlayer/offset
+codehost: https://github.com/freedomlayer/offset
 logohandle: offsetcredit
 sort: offsetcredit
 title: Offset Credit

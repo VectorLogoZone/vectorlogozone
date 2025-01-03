@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fileformat/heatmaptv
+codehost: https://github.com/fileformat/heatmaptv
 images:
 - heatmaptv-ar21.svg
 - heatmaptv-icon.svg

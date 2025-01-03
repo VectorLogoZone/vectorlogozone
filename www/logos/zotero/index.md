@@ -1,6 +1,6 @@
 ---
 blog: https://zotero.org/blog
-codehost: https://github.com/https://github.com/zotero
+codehost: https://github.com/zotero
 facebook: https://facebook.com/zotero
 logohandle: zotero
 sort: zotero

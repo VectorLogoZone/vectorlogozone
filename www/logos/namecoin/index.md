@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/namecoin
+codehost: https://github.com/namecoin
 logohandle: namecoin
 sort: namecoin
 title: Namecoin

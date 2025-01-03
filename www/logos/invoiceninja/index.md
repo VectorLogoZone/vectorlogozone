@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/invoiceninja/invoiceninja
+codehost: https://github.com/invoiceninja/invoiceninja
 facebook: https://facebook.com/invoiceninja
 logohandle: invoiceninja
 sort: invoiceninja

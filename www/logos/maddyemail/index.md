@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/foxcpp/maddy
+codehost: https://github.com/foxcpp/maddy
 logohandle: maddyemail
 sort: maddy
 title: maddy

@@ -1,6 +1,6 @@
 ---
 blog: https://zeit.co/blog
-codehost: https://github.com/https://github.com/zeit
+codehost: https://github.com/zeit
 facebook: https://facebook.com/zeithq
 guide: https://github.com/zeit/art
 images:

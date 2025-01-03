@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/orca-app/orca
+codehost: https://github.com/orca-app/orca
 logohandle: orca-appdev
 sort: orcaapp
 title: Orca

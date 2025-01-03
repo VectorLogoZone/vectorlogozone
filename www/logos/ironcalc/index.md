@@ -1,6 +1,6 @@
 ---
 blog: https://blog.ironcalc.com/
-codehost: https://github.com/https://github.com/ironcalc/IronCalc
+codehost: https://github.com/ironcalc/IronCalc
 logohandle: ironcalc
 sort: ironcalc
 title: IronCalc

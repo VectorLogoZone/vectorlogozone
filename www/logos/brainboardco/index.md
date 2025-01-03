@@ -1,6 +1,6 @@
 ---
 blog: https://blog.brainboard.co/
-codehost: https://github.com/https://github.com/marketplace/brainboard
+codehost: https://github.com/marketplace/brainboard
 facebook: https://facebook.com/brainboard.co
 linkedin: https://linkedin.com/company/brainboard-co
 logohandle: brainboardco

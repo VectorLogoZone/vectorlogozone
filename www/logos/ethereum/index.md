@@ -1,6 +1,6 @@
 ---
 blog: https://blog.ethereum.org/
-codehost: https://github.com/https://github.com/ethereum
+codehost: https://github.com/ethereum
 facebook: https://facebook.com/ethereumproject
 logohandle: ethereum
 sort: ethereum

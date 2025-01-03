@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/sanic-org/sanic
+codehost: https://github.com/sanic-org/sanic
 logohandle: sanicdev
 sort: sanic
 title: Sanic

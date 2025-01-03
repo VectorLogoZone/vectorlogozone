@@ -1,6 +1,6 @@
 ---
 blog: https://openbankproject.com/blog
-codehost: https://github.com/https://github.com/OpenBankProject
+codehost: https://github.com/OpenBankProject
 facebook: https://facebook.com/openbankproject
 guide: https://www.openbankproject.com/brandassets/
 linkedin: https://linkedin.com/company/open-bank-project

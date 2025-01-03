@@ -1,6 +1,6 @@
 ---
 blog: https://blog.archive.org/
-codehost: https://github.com/https://github.com/internetarchive
+codehost: https://github.com/internetarchive
 facebook: https://www.facebook.com/internetnetarchive/
 font:
   myfonts: https://www.myfonts.com/fonts/mti/rotis-semi-serif/bold-65/

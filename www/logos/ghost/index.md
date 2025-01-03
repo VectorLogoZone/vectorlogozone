@@ -1,6 +1,6 @@
 ---
 blog: https://blog.ghost.org/
-codehost: https://github.com/https://github.com/tryghost/ghost
+codehost: https://github.com/tryghost/ghost
 facebook: https://facebook.com/ghost
 images:
 - ghost-tile.svg

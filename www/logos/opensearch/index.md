@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/opensearch-project
+codehost: https://github.com/opensearch-project
 facebook: https://facebook.com/OpenSearchProject
 linkedin: https://linkedin.com/company/opensearch-project
 logohandle: opensearch

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/oftc
+codehost: https://github.com/oftc
 logohandle: oftcnet
 sort: oftc
 title: OFTC

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ratchetphp
+codehost: https://github.com/ratchetphp
 logohandle: socketome
 sort: ratchet
 title: Ratchet

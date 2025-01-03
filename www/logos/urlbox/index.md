@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/urlbox
+codehost: https://github.com/urlbox
 logohandle: urlbox
 sort: urlbox
 title: Urlbox

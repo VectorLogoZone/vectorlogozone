@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Asqatasun
+codehost: https://github.com/Asqatasun
 logohandle: asqatasun
 sort: asqatasun
 title: Asqatasun

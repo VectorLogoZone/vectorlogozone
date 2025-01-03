@@ -1,6 +1,6 @@
 ---
 blog: http://blog.pact.io/
-codehost: https://github.com/https://github.com/pact-foundation
+codehost: https://github.com/pact-foundation
 logohandle: pactio
 sort: pact
 title: Pact

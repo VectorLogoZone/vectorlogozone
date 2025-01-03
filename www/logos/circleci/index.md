@@ -1,6 +1,6 @@
 ---
 blog: https://circleci.com/blog/
-codehost: https://github.com/https://github.com/circleci
+codehost: https://github.com/circleci
 facebook: https://www.facebook.com/circleci
 linkedin: https://www.linkedin.com/company/circleci
 logohandle: circleci

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/django
+codehost: https://github.com/django
 logohandle: djangoproject
 sort: djangoproject
 title: Django

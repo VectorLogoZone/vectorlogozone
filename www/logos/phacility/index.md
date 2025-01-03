@@ -1,6 +1,6 @@
 ---
 blog: http://blog.phacility.com/
-codehost: https://github.com/https://github.com/phacility/phabricator
+codehost: https://github.com/phacility/phabricator
 logohandle: phacility
 sort: phacility
 title: Phacility

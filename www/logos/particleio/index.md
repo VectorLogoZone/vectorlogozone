@@ -1,6 +1,6 @@
 ---
 blog: https://blog.particle.io/
-codehost: https://github.com/https://github.com/particle-iot
+codehost: https://github.com/particle-iot
 facebook: https://facebook.com/particle
 instagram: https://instagram.com/particle_io
 linkedin: https://linkedin.com/company/particleio

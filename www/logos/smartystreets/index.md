@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/smartystreets
+codehost: https://github.com/smartystreets
 facebook: http://facebook.com/SmartyStreetsInfo
 linkedin: http://linkedin.com/company/smartystreets
 logohandle: smartystreets

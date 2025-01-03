@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/coollabsio/coolify
+codehost: https://github.com/coollabsio/coolify
 logohandle: coolifyio
 sort: coolify
 title: Coolify

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/segmentio/evergreen
+codehost: https://github.com/segmentio/evergreen
 logohandle: segment_evergreeen
 sort: evergreen
 title: Evergreen

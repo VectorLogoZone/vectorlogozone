@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/archivy/archivy
+codehost: https://github.com/archivy/archivy
 logohandle: githubio_archivy
 sort: archivy
 title: Archivy

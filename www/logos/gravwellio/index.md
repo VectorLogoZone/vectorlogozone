@@ -1,6 +1,6 @@
 ---
 blog: https://gravwell.io/blog
-codehost: https://github.com/https://github.com/gravwell
+codehost: https://github.com/gravwell
 facebook: https://facebook.com/gravwell
 linkedin: https://linkedin.com/company/gravwell
 logohandle: gravwellio

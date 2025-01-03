@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Keats/tera
+codehost: https://github.com/Keats/tera
 logohandle: netlify_tera
 sort: tera
 title: Tera

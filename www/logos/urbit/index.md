@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/urbit/urbit
+codehost: https://github.com/urbit/urbit
 logohandle: urbit
 sort: urbit
 title: Urbit

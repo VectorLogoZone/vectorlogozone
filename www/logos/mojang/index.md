@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mojang
+codehost: https://github.com/mojang
 logohandle: mojang
 sort: mojang
 title: Mojang

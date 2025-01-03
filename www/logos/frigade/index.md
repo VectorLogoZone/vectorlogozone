@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/FrigadeHQ
+codehost: https://github.com/FrigadeHQ
 linkedin: https://linkedin.com/company/frigade
 logohandle: frigade
 sort: frigade

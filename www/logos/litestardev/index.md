@@ -1,6 +1,6 @@
 ---
 blog: https://blog.litestar.dev/
-codehost: https://github.com/https://github.com/litestar-org/litestar
+codehost: https://github.com/litestar-org/litestar
 logohandle: litestardev
 sort: litestar
 title: Litestar

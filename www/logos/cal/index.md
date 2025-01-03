@@ -1,6 +1,6 @@
 ---
 blog: https://cal.com/blog/
-codehost: https://github.com/https://github.com/calcom
+codehost: https://github.com/calcom
 logohandle: cal
 sort: calcom
 title: Cal.com

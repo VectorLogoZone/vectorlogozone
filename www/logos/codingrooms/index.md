@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/CodingRooms
+codehost: https://github.com/CodingRooms
 facebook: https://facebook.com/CodingRooms
 instagram: https://instagram.com/CodingRooms
 linkedin: https://linkedin.com/company/codingrooms

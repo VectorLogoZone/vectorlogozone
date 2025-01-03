@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/StackStorm
+codehost: https://github.com/StackStorm
 facebook: https://facebook.com/stackstormdevops
 linkedin: https://linkedin.com/company/stackstorm
 logohandle: stackstorm

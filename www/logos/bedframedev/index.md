@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nyaggah/bedframe
+codehost: https://github.com/nyaggah/bedframe
 logohandle: bedframedev
 sort: bedframe
 title: Bedframe

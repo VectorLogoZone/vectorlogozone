@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/moment
+codehost: https://github.com/moment
 logohandle: momentjs
 sort: momentjs
 tags:

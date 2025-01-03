@@ -1,6 +1,6 @@
 ---
 blog: https://www.wufoo.com/blog/
-codehost: https://github.com/https://github.com/wufoo
+codehost: https://github.com/wufoo
 colors:
 - '#E86F69'
 facebook: https://www.facebook.com/formbuilder

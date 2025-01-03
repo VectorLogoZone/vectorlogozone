@@ -1,6 +1,6 @@
 ---
 blog: https://coronalabs.com/blog
-codehost: https://github.com/https://github.com/coronalabs
+codehost: https://github.com/coronalabs
 facebook: https://facebook.com/CoronaLabs
 googleplus: https://plus.google.com/+Coronalabsinc
 linkedin: https://linkedin.com/company/corona-labs

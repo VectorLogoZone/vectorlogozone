@@ -1,6 +1,6 @@
 ---
 blog: https://blog.algolia.com/
-codehost: https://github.com/https://github.com/Algolia
+codehost: https://github.com/Algolia
 dribbble: https://dribbble.com/algolia
 facebook: https://www.facebook.com/algolia
 guide: https://www.algolia.com/press

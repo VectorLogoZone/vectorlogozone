@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/olivernn/lunr.js
+codehost: https://github.com/olivernn/lunr.js
 font:
   name: Helvetica Neue
 images:

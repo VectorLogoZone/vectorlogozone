@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ImageMagick
+codehost: https://github.com/ImageMagick
 images:
 - imagemagick-ar21.svg
 - imagemagick-icon.svg

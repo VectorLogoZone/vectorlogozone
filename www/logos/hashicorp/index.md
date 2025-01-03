@@ -1,6 +1,6 @@
 ---
 blog: https://www.hashicorp.com/blog
-codehost: https://github.com/https://github.com/hashicorp
+codehost: https://github.com/hashicorp
 facebook: https://www.facebook.com/HashiCorp/
 guide: https://www.hashicorp.com/brand
 images:

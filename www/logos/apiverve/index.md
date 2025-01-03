@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apiverve
+codehost: https://github.com/apiverve
 facebook: https://facebook.com/apiverve
 instagram: https://instagram.com/apiverve
 linkedin: https://linkedin.com/company/apiverve

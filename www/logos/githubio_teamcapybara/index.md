@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/teamcapybara/capybara
+codehost: https://github.com/teamcapybara/capybara
 logohandle: githubio_teamcapybara
 sort: capybara
 title: Capybara

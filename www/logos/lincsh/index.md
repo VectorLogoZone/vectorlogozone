@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/bitgenics/linc
+codehost: https://github.com/bitgenics/linc
 logohandle: lincsh
 sort: linc
 title: Linc

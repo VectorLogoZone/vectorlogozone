@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/defold
+codehost: https://github.com/defold
 facebook: https://facebook.com/Defold
 linkedin: https://linkedin.com/company/defold-foundation
 logohandle: defold

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rainwayapp
+codehost: https://github.com/rainwayapp
 facebook: https://facebook.com/RainwayApp
 instagram: https://instagram.com/RainwayApp
 linkedin: https://linkedin.com/company/rainway-inc

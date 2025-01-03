@@ -1,6 +1,6 @@
 ---
 blog: https://about.udemy.com/blog
-codehost: https://github.com/https://github.com/udemy
+codehost: https://github.com/udemy
 colors:
 - '#EA5252'
 facebook: https://www.facebook.com/udemy

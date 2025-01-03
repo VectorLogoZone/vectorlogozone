@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/robiso/wondercms
+codehost: https://github.com/robiso/wondercms
 linkedin: https://linkedin.com/in/masha-pogorevc-70b151a5
 logohandle: wondercms
 sort: wondercms

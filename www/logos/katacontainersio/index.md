@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kata-containers
+codehost: https://github.com/kata-containers
 facebook: https://facebook.com/KataContainers
 logohandle: katacontainersio
 sort: katacontainers

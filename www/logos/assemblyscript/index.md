@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/AssemblyScript
+codehost: https://github.com/AssemblyScript
 logohandle: assemblyscript
 sort: assemblyscript
 title: AssemblyScript

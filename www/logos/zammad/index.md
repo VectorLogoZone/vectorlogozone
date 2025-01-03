@@ -1,6 +1,6 @@
 ---
 blog: https://zammad.com/en/blog
-codehost: https://github.com/https://github.com/zammad
+codehost: https://github.com/zammad
 facebook: https://facebook.com/zammadhq
 linkedin: https://linkedin.com/company/zammad
 logohandle: zammad

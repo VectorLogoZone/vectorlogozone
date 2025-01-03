@@ -1,6 +1,6 @@
 ---
 blog: https://pachyderm.com/blog/
-codehost: https://github.com/https://github.com/pachyderm
+codehost: https://github.com/pachyderm
 facebook: https://facebook.com/pachydermIO
 linkedin: https://linkedin.com/company/pachyderm-inc-
 logohandle: pachyderm

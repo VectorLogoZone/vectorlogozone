@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/debiki/talkyard
+codehost: https://github.com/debiki/talkyard
 logohandle: talkyardio
 sort: talkyard
 title: Talkyard

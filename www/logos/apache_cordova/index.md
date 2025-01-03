@@ -1,6 +1,6 @@
 ---
 blog: http://cordova.apache.org/blog
-codehost: https://github.com/https://github.com/apache/cordova-js
+codehost: https://github.com/apache/cordova-js
 images:
 - apache_cordova-icon.svg
 - apache_cordova-ar21.svg

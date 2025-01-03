@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/VSCodium
+codehost: https://github.com/VSCodium
 logohandle: githubio_vscodium
 sort: vscodium
 title: VSCodium

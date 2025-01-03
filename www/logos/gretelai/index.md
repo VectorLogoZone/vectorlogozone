@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/gretel-ai
-codehost: https://github.com/https://github.com/gretelai
+codehost: https://github.com/gretelai
 logohandle: gretelai
 sort: gretel
 title: Gretel

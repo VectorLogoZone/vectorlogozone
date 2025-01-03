@@ -1,6 +1,6 @@
 ---
 blog: https://devblog.mapquest.com/
-codehost: https://github.com/https://github.com/MapQuest
+codehost: https://github.com/MapQuest
 facebook: https://www.facebook.com/MapQuest
 guide: http://hello.mapquest.com/press/
 images:

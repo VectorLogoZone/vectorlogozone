@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pinry/pinry
+codehost: https://github.com/pinry/pinry
 logohandle: getpinry
 sort: pinry
 title: Pinry

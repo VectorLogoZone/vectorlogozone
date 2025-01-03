@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebook/sapling
+codehost: https://github.com/facebook/sapling
 logohandle: sapling-scm
 sort: sapling-scm
 title: Sapling SCM

@@ -1,6 +1,6 @@
 ---
 blog: https://aerospike.com/blog/
-codehost: https://github.com/https://github.com/aerospike
+codehost: https://github.com/aerospike
 facebook: http://facebook.com/aerospikedb
 linkedin: https://linkedin.com/company/2696852
 logohandle: aerospike

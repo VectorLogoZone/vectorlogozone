@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/unjs/nitro
+codehost: https://github.com/unjs/nitro
 logohandle: unjsio_nitro
 sort: nitro
 title: Nitro

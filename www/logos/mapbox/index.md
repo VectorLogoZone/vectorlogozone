@@ -1,6 +1,6 @@
 ---
 blog: https://www.mapbox.com/blog/
-codehost: https://github.com/https://github.com/mapbox
+codehost: https://github.com/mapbox
 facebook: https://www.facebook.com/Mapbox
 images:
 - mapbox-icon.svg

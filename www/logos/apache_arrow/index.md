@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/arrow
+codehost: https://github.com/apache/arrow
 logohandle: apache_arrow
 sort: arrow
 tags:

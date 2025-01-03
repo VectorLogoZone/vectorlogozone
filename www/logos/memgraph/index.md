@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/memgraph
+codehost: https://github.com/memgraph
 facebook: https://facebook.com/memgraph
 linkedin: https://linkedin.com/company/memgraph
 logohandle: memgraph

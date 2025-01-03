@@ -1,6 +1,6 @@
 ---
 blog: https://blog.nrwl.io/
-codehost: https://github.com/https://github.com/nrwl
+codehost: https://github.com/nrwl
 facebook: https://facebook.com/nrwlio
 instagram: https://instagram.com/nrwl_io
 linkedin: https://linkedin.com/company/17916949

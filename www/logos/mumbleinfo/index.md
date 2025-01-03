@@ -1,6 +1,6 @@
 ---
 blog: https://www.mumble.info/blog/
-codehost: https://github.com/https://github.com/mumble-voip
+codehost: https://github.com/mumble-voip
 logohandle: mumbleinfo
 sort: mumble
 title: Mumble

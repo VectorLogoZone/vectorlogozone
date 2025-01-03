@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Supernova-Studio
+codehost: https://github.com/Supernova-Studio
 linkedin: https://linkedin.com/company/supernova-io
 logohandle: supernovaio
 sort: supernova

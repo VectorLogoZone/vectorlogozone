@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/csound/csound
+codehost: https://github.com/csound/csound
 logohandle: csound
 sort: csound
 title: Csound

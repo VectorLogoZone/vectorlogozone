@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vitejs/vite
+codehost: https://github.com/vitejs/vite
 font:
   name: Inter Semi-bold
 logohandle: vitejsdev

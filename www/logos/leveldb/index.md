@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/level
+codehost: https://github.com/level
 guide: https://github.com/Level/leveldb.org/blob/master/assets/static/img/logo.svg
 logohandle: leveldb
 sort: leveldb

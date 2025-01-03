@@ -1,6 +1,6 @@
 ---
 blog: https://explosion.ai/blog
-codehost: https://github.com/https://github.com/explosion/spaCy
+codehost: https://github.com/explosion/spaCy
 logohandle: spacyio
 sort: spacy
 title: spaCy

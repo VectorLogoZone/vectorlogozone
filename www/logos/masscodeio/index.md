@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/antonreshetov/massCode
+codehost: https://github.com/antonreshetov/massCode
 logohandle: masscodeio
 sort: masscode
 title: massCode

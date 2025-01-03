@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/browsh-org/browsh
+codehost: https://github.com/browsh-org/browsh
 logohandle: browsh
 sort: brow
 title: Browsh

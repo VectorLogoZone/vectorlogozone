@@ -1,6 +1,6 @@
 ---
 blog: https://webtide.com/blogs/
-codehost: https://github.com/https://github.com/eclipse/jetty.project
+codehost: https://github.com/eclipse/jetty.project
 facebook: https://www.facebook.com/webtide
 images:
 - eclipse_jetty-ar21.svg

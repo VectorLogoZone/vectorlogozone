@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/sinonjs
+codehost: https://github.com/sinonjs
 logohandle: sinonjs
 sort: sinonjs
 stackoverflow: https://stackoverflow.com/questions/tagged/sinon

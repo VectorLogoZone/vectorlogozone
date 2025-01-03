@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/loglib/loglib
+codehost: https://github.com/loglib/loglib
 logohandle: loglibio
 sort: loglib
 title: LOGLIB

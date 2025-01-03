@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/toradex
+codehost: https://github.com/toradex
 instagram: https://instagram.com/toradexofficial
 logohandle: toradex
 sort: toradex

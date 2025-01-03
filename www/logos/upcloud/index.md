@@ -1,6 +1,6 @@
 ---
 blog: https://upcloud.com/blog
-codehost: https://github.com/https://github.com/UpCloudLtd
+codehost: https://github.com/UpCloudLtd
 facebook: https://facebook.com/UpCloudLtd
 linkedin: https://linkedin.com/company/upcloud
 logohandle: upcloud

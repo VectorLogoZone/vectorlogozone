@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/SimpleLegal
+codehost: https://github.com/SimpleLegal
 logohandle: simplelegal
 sort: simplelegal
 title: SimpleLegal

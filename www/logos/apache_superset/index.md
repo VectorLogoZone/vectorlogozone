@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/incubator-superset
+codehost: https://github.com/apache/incubator-superset
 logohandle: apache_superset
 sort: superset
 tags:

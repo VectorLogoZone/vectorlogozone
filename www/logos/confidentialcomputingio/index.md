@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/confidential-computing/artwork
+codehost: https://github.com/confidential-computing/artwork
 linkedin: https://linkedin.com/company/confidential-computing
 logohandle: confidentialcomputingio
 sort: confidentialcomputing

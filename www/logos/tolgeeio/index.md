@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tolgee
+codehost: https://github.com/tolgee
 linkedin: https://linkedin.com/company/tolgee
 logohandle: tolgeeio
 sort: tolgee

@@ -1,6 +1,6 @@
 ---
 blog: https://skiff.com/blog
-codehost: https://github.com/https://github.com/skiff-org
+codehost: https://github.com/skiff-org
 linkedin: https://linkedin.com/company/skiffprivacy
 logohandle: skiff
 sort: skiff

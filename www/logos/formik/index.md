@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/formik/formik
+codehost: https://github.com/formik/formik
 facebook: https://facebook.com/formikhq
 instagram: https://instagram.com/formikhq
 logohandle: formik

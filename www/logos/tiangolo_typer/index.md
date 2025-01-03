@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@tiangolo
-codehost: https://github.com/https://github.com/tiangolo/typer
+codehost: https://github.com/tiangolo/typer
 linkedin: https://linkedin.com/in/tiangolo
 logohandle: tiangolo_typer
 sort: typer

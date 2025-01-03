@@ -1,6 +1,6 @@
 ---
 blog: https://blog.iron.io/
-codehost: https://github.com/https://github.com/iron-io
+codehost: https://github.com/iron-io
 images:
 - ironio-ar21.svg
 - ironio-icon.svg

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/WasmEdge/WasmEdge
+codehost: https://github.com/WasmEdge/WasmEdge
 logohandle: wasmedge
 sort: wasmedge
 title: WasmEdge

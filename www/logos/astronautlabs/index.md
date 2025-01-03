@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/astronautlabs
+codehost: https://github.com/astronautlabs
 logohandle: astronautlabs
 sort: astronautlabs
 title: astronaut labs

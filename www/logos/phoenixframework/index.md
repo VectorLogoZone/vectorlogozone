@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/phoenixframework/phoenix
+codehost: https://github.com/phoenixframework/phoenix
 logohandle: phoenixframework
 sort: phoenixframework
 title: Phoenix

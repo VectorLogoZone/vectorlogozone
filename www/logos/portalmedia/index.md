@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/portalmedia
+codehost: https://github.com/portalmedia
 facebook: https://facebook.com/portalmedia
 linkedin: https://linkedin.com/company/portalmedia
 logohandle: portalmedia

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/aFarkas/lazysizes
+codehost: https://github.com/aFarkas/lazysizes
 facebook: https://facebook.com/wearesinch
 instagram: https://instagram.com/wearesinch
 linkedin: https://linkedin.com/company/sinch

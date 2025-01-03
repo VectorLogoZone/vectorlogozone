@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/artilleryio/artillery
+codehost: https://github.com/artilleryio/artillery
 logohandle: artilleryio
 sort: artillery
 title: Artillery.io

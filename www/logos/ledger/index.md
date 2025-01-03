@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/LedgerHQ
+codehost: https://github.com/LedgerHQ
 facebook: https://facebook.com/Ledger
 instagram: https://instagram.com/ledger
 linkedin: https://linkedin.com/company/ledgerhq

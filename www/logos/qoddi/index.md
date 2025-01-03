@@ -1,6 +1,6 @@
 ---
 blog: https://blog.qoddi.com/
-codehost: https://github.com/https://github.com/qoddiapps
+codehost: https://github.com/qoddiapps
 facebook: https://facebook.com/qoddiapps
 linkedin: https://linkedin.com/company/qoddiapps
 logohandle: qoddi

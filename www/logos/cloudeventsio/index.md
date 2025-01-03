@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cloudevents/spec
+codehost: https://github.com/cloudevents/spec
 logohandle: cloudeventsio
 sort: cloudevents
 title: CloudEvents

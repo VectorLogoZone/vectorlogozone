@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fortran-lang
+codehost: https://github.com/fortran-lang
 logohandle: fortran-lang
 sort: fortran-lang
 title: Fortran

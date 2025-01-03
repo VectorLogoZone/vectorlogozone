@@ -1,6 +1,6 @@
 ---
 blog: https://stackable.tech/en/blog
-codehost: https://github.com/https://github.com/stackabletech
+codehost: https://github.com/stackabletech
 linkedin: https://linkedin.com/company/stackabletech
 logohandle: stackabletech
 sort: stackable

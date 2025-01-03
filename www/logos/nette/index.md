@@ -1,6 +1,6 @@
 ---
 blog: https://blog.nette.org/
-codehost: https://github.com/https://github.com/nette
+codehost: https://github.com/nette
 logohandle: nette
 sort: nette
 title: Nette

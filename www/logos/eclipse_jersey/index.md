@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jersey
+codehost: https://github.com/jersey
 guide: https://github.com/jersey/jersey.github.io/tree/master/images
 logohandle: eclipse_jersey
 sort: jersey

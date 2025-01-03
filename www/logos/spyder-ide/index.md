@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/spyder-ide/spyder
+codehost: https://github.com/spyder-ide/spyder
 facebook: https://facebook.com/SpyderIDE
 logohandle: spyder-ide
 sort: spyder-ide

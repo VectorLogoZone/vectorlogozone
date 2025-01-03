@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/getshifter
+codehost: https://github.com/getshifter
 facebook: https://facebook.com/getshifter
 instagram: https://instagram.com/getshifter
 logohandle: getshifterio

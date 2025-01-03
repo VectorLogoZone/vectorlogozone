@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/relaycorp
+codehost: https://github.com/relaycorp
 logohandle: relaycorptech
 sort: relaycorp
 title: Relaycorp

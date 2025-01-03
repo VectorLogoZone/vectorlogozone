@@ -1,6 +1,6 @@
 ---
 blog: https://k6.io/blog
-codehost: https://github.com/https://github.com/grafana/xk6-kubernetes
+codehost: https://github.com/grafana/xk6-kubernetes
 logohandle: k6io
 sort: k6
 title: K6

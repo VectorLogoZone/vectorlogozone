@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/drakkan/sftpgo
+codehost: https://github.com/drakkan/sftpgo
 logohandle: sftpgo
 sort: sftpgo
 title: SFTPGo

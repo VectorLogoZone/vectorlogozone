@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/CollaboraOnline
+codehost: https://github.com/CollaboraOnline
 facebook: https://facebook.com/collaboraoffice
 instagram: https://instagram.com/collaboraoffice
 linkedin: https://linkedin.com/company/collaboraproductivity

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/MediaArea
+codehost: https://github.com/MediaArea
 facebook: https://facebook.com/MediaAreaNet
 googleplus: https://plus.google.com/u/0/+MediaAreaNetOfficial
 linkedin: https://linkedin.com/company/mediaarea-net

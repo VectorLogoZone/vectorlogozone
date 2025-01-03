@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/devicons/devicon
+codehost: https://github.com/devicons/devicon
 logohandle: techiconsdev
 sort: techicons
 title: TechIcons

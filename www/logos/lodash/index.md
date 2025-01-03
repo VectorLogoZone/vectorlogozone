@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lodash
+codehost: https://github.com/lodash
 logohandle: lodash
 sort: lodash
 title: Lodash

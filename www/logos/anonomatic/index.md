@@ -1,6 +1,6 @@
 ---
 blog: https://anonomatic.com/blog
-codehost: https://github.com/https://github.com/mattAnonomatic/PIIVault-Public
+codehost: https://github.com/mattAnonomatic/PIIVault-Public
 linkedin: https://linkedin.com/company/anonomatic
 logohandle: anonomatic
 sort: anonomatic

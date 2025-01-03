@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/HewlettPackard
+codehost: https://github.com/HewlettPackard
 facebook: http://facebook.com/hewlettpackardenterprise
 linkedin: https://linkedin.com/company/hewlett-packard-enterprise
 logohandle: hpe

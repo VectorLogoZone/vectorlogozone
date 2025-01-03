@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/flecs-hub/explorer
+codehost: https://github.com/flecs-hub/explorer
 logohandle: flecsdev
 sort: flecs
 title: Flecs

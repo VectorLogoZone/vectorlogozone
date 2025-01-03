@@ -1,6 +1,6 @@
 ---
 blog: https://blog.bigpicture.io/
-codehost: https://github.com/https://github.com/bigpictureio
+codehost: https://github.com/bigpictureio
 facebook: https://facebook.com/BigPictureIO
 linkedin: https://linkedin.com/company/bigpictureio
 logohandle: bigpictureio

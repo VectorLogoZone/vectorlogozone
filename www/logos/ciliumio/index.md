@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cilium/cilium
+codehost: https://github.com/cilium/cilium
 logohandle: ciliumio
 sort: cilium
 title: Cilium

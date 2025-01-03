@@ -1,6 +1,6 @@
 ---
 blog: https://teleporthq.io/blog
-codehost: https://github.com/https://github.com/teleporthq
+codehost: https://github.com/teleporthq
 facebook: https://facebook.com/teleportHQ
 linkedin: https://linkedin.com/company/teleporthq
 logohandle: teleporthqio

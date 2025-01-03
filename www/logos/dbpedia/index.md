@@ -1,6 +1,6 @@
 ---
 blog: http://blog.dbpedia.org/
-codehost: https://github.com/https://github.com/dbpedia
+codehost: https://github.com/dbpedia
 facebook: http://facebook.com/dbpedia
 linkedin: https://linkedin.com/company/dbpedia
 logohandle: dbpedia

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dailydotdev/daily
+codehost: https://github.com/dailydotdev/daily
 facebook: https://facebook.com/dailydotdev
 instagram: https://instagram.com/dailydotdev
 logohandle: dailydev

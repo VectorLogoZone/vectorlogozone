@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Ondsel-Development
+codehost: https://github.com/Ondsel-Development
 facebook: https://facebook.com/ondsel
 logohandle: ondsel
 sort: ondsel

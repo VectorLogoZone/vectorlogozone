@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/osquery
+codehost: https://github.com/osquery
 logohandle: osqueryio
 sort: osquery
 title: Osquery

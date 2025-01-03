@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ReactiveX
+codehost: https://github.com/ReactiveX
 logohandle: reactivexio
 sort: reactivex
 title: ReactiveX

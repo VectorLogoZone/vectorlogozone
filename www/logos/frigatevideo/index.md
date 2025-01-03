@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/blakeblackshear/frigate
+codehost: https://github.com/blakeblackshear/frigate
 logohandle: frigatevideo
 sort: frigate
 title: Frigate

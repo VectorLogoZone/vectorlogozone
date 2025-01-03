@@ -1,6 +1,6 @@
 ---
 blog: https://blog.packagecloud.io/
-codehost: https://github.com/https://github.com/computology
+codehost: https://github.com/computology
 facebook: https://facebook.com/Packagecloud-104247398674504
 linkedin: https://linkedin.com/company/packagecloud
 logohandle: packagecloudio

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/alpinejs
+codehost: https://github.com/alpinejs
 logohandle: github_alpinejs
 sort: alpinejs
 title: Alpine.js

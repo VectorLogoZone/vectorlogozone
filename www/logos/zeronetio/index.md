@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/HelloZeroNet/ZeroNet
+codehost: https://github.com/HelloZeroNet/ZeroNet
 facebook: https://facebook.com/HelloZeroNet
 logohandle: zeronetio
 sort: zeronet

@@ -1,6 +1,6 @@
 ---
 blog: http://blog.getambassador.io/
-codehost: https://github.com/https://github.com/datawire/ambassador
+codehost: https://github.com/datawire/ambassador
 logohandle: ambassadorio
 sort: ambassador
 title: Ambassador

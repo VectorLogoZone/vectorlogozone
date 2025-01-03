@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/omc
+codehost: https://github.com/omc
 linkedin: https://linkedin.com/company/2017822
 logohandle: bonsaiio
 sort: bonsai

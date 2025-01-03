@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dropwizard/metrics
+codehost: https://github.com/dropwizard/metrics
 logohandle: dropwizardio_metrics
 sort: metrics
 title: Metrics

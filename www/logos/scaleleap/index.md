@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ScaleLeap
+codehost: https://github.com/ScaleLeap
 facebook: https://facebook.com/ScaleLeap
 logohandle: scaleleap
 sort: scaleleap

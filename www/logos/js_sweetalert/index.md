@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/t4t5/sweetalert
+codehost: https://github.com/t4t5/sweetalert
 logohandle: js_sweetalert
 sort: sweetalert
 title: SweetAlert

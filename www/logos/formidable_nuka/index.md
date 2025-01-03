@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/FormidableLabs/nuka-carousel
+codehost: https://github.com/FormidableLabs/nuka-carousel
 logohandle: formidable_nuka
 sort: nuka
 title: Nuka

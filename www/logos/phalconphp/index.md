@@ -1,6 +1,6 @@
 ---
 blog: https://phalcon.link/blog
-codehost: https://github.com/https://github.com/phalcon/cphalcon
+codehost: https://github.com/phalcon/cphalcon
 logohandle: phalconphp
 sort: phalconphp
 title: Phalcon

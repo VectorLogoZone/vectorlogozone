@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fast-af
+codehost: https://github.com/fast-af
 dribbble: https://dribbble.com/fast
 instagram: https://instagram.com/passwordless
 linkedin: https://linkedin.com/company/fast

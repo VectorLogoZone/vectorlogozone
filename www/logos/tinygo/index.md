@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tinygo-org/tinygo
+codehost: https://github.com/tinygo-org/tinygo
 logohandle: tinygo
 sort: tinygo
 title: TinyGo

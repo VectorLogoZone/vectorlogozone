@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kogg/instant-logos
+codehost: https://github.com/kogg/instant-logos
 font:
   google: https://fonts.google.com/specimen/Lato
   name: Lato

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/microlinkhq
+codehost: https://github.com/microlinkhq
 logohandle: microlinkio
 sort: microlink
 title: microlink

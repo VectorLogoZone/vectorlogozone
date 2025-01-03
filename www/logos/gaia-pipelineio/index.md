@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gaia-pipeline/gaia
+codehost: https://github.com/gaia-pipeline/gaia
 logohandle: gaia-pipelineio
 sort: gaia-pipeline
 title: Gaia

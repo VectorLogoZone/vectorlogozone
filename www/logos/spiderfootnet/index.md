@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/smicallef/spiderfoot
+codehost: https://github.com/smicallef/spiderfoot
 logohandle: spiderfootnet
 sort: spiderfoot
 title: SpiderFoot

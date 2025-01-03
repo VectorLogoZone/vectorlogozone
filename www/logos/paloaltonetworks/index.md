@@ -1,6 +1,6 @@
 ---
 blog: https://blog.paloaltonetworks.com/
-codehost: https://github.com/https://github.com/js-cookie/js-cookie
+codehost: https://github.com/js-cookie/js-cookie
 facebook: https://facebook.com/PaloAltoNetworks
 instagram: https://instagram.com/paloaltontwks
 linkedin: https://linkedin.com/company/palo-alto-networks

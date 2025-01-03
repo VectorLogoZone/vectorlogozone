@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/onetrueawk/awk
+codehost: https://github.com/onetrueawk/awk
 logohandle: awk
 sort: awk
 tags:

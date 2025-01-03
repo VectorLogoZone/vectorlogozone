@@ -1,6 +1,6 @@
 ---
 blog: https://blog.8base.com/
-codehost: https://github.com/https://github.com/8base
+codehost: https://github.com/8base
 facebook: https://facebook.com/8baseApp
 instagram: https://instagram.com/8base
 linkedin: https://linkedin.com/company/8base

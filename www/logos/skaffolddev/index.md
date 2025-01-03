@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/GoogleContainerTools/skaffold
+codehost: https://github.com/GoogleContainerTools/skaffold
 logohandle: skaffolddev
 sort: skaffold
 title: Skaffold

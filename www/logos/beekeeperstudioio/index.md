@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/beekeeper-studio/beekeeper-studio
+codehost: https://github.com/beekeeper-studio/beekeeper-studio
 logohandle: beekeeperstudioio
 sort: beekeeperstudio
 title: Beekeeper Studio

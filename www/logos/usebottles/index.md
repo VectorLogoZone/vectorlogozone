@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/bottlesdevs
+codehost: https://github.com/bottlesdevs
 logohandle: usebottles
 sort: bottles
 title: Bottles

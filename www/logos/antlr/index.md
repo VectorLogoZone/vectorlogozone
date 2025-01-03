@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/antlr/antlr4
+codehost: https://github.com/antlr/antlr4
 logohandle: antlr
 sort: antlr
 title: ANTLR

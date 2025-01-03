@@ -1,6 +1,6 @@
 ---
 blog: https://blog.helium.com/
-codehost: https://github.com/https://github.com/helium
+codehost: https://github.com/helium
 facebook: https://facebook.com/heliumsystems
 instagram: https://instagram.com/helium
 linkedin: https://linkedin.com/company/heliuminc

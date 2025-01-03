@@ -1,6 +1,6 @@
 ---
 blog: https://dino.im/blog/
-codehost: https://github.com/https://github.com/dino/dino
+codehost: https://github.com/dino/dino
 logohandle: dinoim
 sort: dino
 title: Dino

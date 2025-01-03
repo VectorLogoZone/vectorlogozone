@@ -1,6 +1,6 @@
 ---
 blog: https://blog.quicktype.io/
-codehost: https://github.com/https://github.com/quicktype/quicktype
+codehost: https://github.com/quicktype/quicktype
 logohandle: quicktypeio
 slack: http://slack.quicktype.io/
 sort: quicktype

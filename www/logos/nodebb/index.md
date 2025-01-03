@@ -1,6 +1,6 @@
 ---
 blog: https://blog.nodebb.org/
-codehost: https://github.com/https://github.com/NodeBB/NodeBB
+codehost: https://github.com/NodeBB/NodeBB
 facebook: https://facebook.com/nodebb
 instagram: https://instagram.com/node.bb
 logohandle: nodebb

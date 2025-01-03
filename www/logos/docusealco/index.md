@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/docusealco/docuseal
+codehost: https://github.com/docusealco/docuseal
 logohandle: docusealco
 sort: docuseal
 title: DocuSeal

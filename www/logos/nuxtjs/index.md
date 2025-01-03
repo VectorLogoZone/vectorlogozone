@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nuxt
+codehost: https://github.com/nuxt
 logohandle: nuxtjs
 sort: nuxtjs
 title: Nuxt.js

@@ -1,6 +1,6 @@
 ---
 blog: https://osticket.com/blog
-codehost: https://github.com/https://github.com/osTicket/osTicket
+codehost: https://github.com/osTicket/osTicket
 facebook: http://facebook.com/Enhancesoft
 instagram: https://instagram.com/osticket_software
 logohandle: osticket

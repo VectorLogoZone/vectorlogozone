@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/matthieua/shecodes
+codehost: https://github.com/matthieua/shecodes
 facebook: https://facebook.com/shecodesio
 instagram: https://instagram.com/shecodes.io
 logohandle: shecodesio

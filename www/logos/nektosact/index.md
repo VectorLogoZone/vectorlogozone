@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nektos/act
+codehost: https://github.com/nektos/act
 logohandle: nektosact
 sort: act
 title: act

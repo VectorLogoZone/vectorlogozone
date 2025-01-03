@@ -1,6 +1,6 @@
 ---
 blog: https://blog.darksky.net/
-codehost: https://github.com/https://github.com/darkskyapp
+codehost: https://github.com/darkskyapp
 images:
 - darksky-icon.svg
 - darksky-ar21.svg

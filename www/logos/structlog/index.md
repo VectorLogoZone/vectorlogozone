@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hynek/structlog
+codehost: https://github.com/hynek/structlog
 logohandle: structlog
 sort: structlog
 title: structlog

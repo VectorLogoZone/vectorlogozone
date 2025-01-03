@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@covenant_labs
-codehost: https://github.com/https://github.com/CovenantSQL/CovenantSQL
+codehost: https://github.com/CovenantSQL/CovenantSQL
 logohandle: covenantsqlio
 sort: covenantsql
 title: CovenantSQL

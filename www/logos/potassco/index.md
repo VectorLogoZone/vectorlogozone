@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/potassco
+codehost: https://github.com/potassco
 logohandle: potassco
 sort: potassco
 title: Potassco

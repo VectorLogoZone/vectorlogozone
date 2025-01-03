@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/html5up
+codehost: https://github.com/html5up
 colors:
 - '#E7746F'
 font:

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/RevenueCat
+codehost: https://github.com/RevenueCat
 logohandle: revenuecat
 sort: revenuecat
 title: RevenueCat

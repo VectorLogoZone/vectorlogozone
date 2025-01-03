@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/solana-labs
+codehost: https://github.com/solana-labs
 logohandle: solana
 sort: solana
 title: Solana

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mochajs/mocha
+codehost: https://github.com/mochajs/mocha
 logohandle: mochajs
 sort: mochajs
 title: Mocha.js

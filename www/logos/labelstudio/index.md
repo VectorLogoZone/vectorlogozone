@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/heartexlabs/label-studio
+codehost: https://github.com/heartexlabs/label-studio
 logohandle: labelstudio
 sort: labelstudio
 title: Label Studio

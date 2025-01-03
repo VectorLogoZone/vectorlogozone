@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/absinthe-graphql
+codehost: https://github.com/absinthe-graphql
 logohandle: absinthe-graphql
 slack: https://elixir-slackin.herokuapp.com/
 sort: absinthe

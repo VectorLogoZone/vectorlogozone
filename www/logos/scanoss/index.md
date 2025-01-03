@@ -1,6 +1,6 @@
 ---
 blog: https://scanoss.com/blog
-codehost: https://github.com/https://github.com/scanoss
+codehost: https://github.com/scanoss
 logohandle: scanoss
 sort: scanoss
 title: SCANOSS

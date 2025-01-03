@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mockito/mockito
+codehost: https://github.com/mockito/mockito
 logohandle: mockito
 sort: mockito
 title: Mockito

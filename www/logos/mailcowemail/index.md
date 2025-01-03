@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mailcow
+codehost: https://github.com/mailcow
 logohandle: mailcowemail
 sort: mailcow
 title: mailcow

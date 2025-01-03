@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rsyslog
+codehost: https://github.com/rsyslog
 facebook: https://facebook.com/RSyslog
 guide: https://www.rsyslog.com/new-logo-selected/
 logohandle: rsyslog

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ruffle-rs/ruffle
+codehost: https://github.com/ruffle-rs/ruffle
 logohandle: rufflers
 sort: ruffle
 title: Ruffle

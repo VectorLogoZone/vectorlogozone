@@ -1,6 +1,6 @@
 ---
 blog: https://newsblog.ext.hp.com/
-codehost: https://github.com/https://github.com/hp-hq
+codehost: https://github.com/hp-hq
 facebook: http://www.facebook.com/HP
 font:
   myfonts: null

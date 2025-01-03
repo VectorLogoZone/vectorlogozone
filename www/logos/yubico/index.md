@@ -1,6 +1,6 @@
 ---
 blog: https://yubico.com/blog
-codehost: https://github.com/https://github.com/yubico
+codehost: https://github.com/yubico
 facebook: https://facebook.com/Yubikey
 googleplus: https://plus.google.com/+Yubico
 linkedin: https://linkedin.com/company/yubico

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/yiisoft
+codehost: https://github.com/yiisoft
 facebook: https://facebook.com/groups/yiitalk
 logohandle: yiiframework
 sort: yiiframework

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/louischatriot/nedb
+codehost: https://github.com/louischatriot/nedb
 logohandle: github_nedb
 sort: nedb
 title: nedb

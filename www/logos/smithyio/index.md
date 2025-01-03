@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/smithy-lang/smithy
+codehost: https://github.com/smithy-lang/smithy
 logohandle: smithyio
 sort: smithy
 title: Smithy

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mitsuhiko/werkzeug
+codehost: https://github.com/mitsuhiko/werkzeug
 logohandle: pocoo_werkzeug
 sort: werkzeug
 title: Werkzeug

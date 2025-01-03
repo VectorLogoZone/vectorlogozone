@@ -1,6 +1,6 @@
 ---
 blog: https://blog.bazel.build/
-codehost: https://github.com/https://github.com/bazelbuild
+codehost: https://github.com/bazelbuild
 guide: https://blog.bazel.build/2017/07/05/new-logo-and-homepage.html
 images:
 - bazel-icon.svg

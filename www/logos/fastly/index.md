@@ -1,6 +1,6 @@
 ---
 blog: https://www.fastly.com/blog
-codehost: https://github.com/https://github.com/fastly
+codehost: https://github.com/fastly
 facebook: https://www.facebook.com/FastlyCDN
 images:
 - fastly-icon.svg

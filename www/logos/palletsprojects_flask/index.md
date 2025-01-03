@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pallets/flask
+codehost: https://github.com/pallets/flask
 logohandle: palletsprojects_flask
 sort: flask
 tags:

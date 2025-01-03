@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Permify/permify
+codehost: https://github.com/Permify/permify
 linkedin: https://linkedin.com/company/permifyco
 logohandle: permifyco
 sort: permify

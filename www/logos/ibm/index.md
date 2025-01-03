@@ -1,6 +1,6 @@
 ---
 blog: https://www.ibm.com/blogs/
-codehost: https://github.com/https://github.com/ibm
+codehost: https://github.com/ibm
 facebook: https://www.facebook.com/IBM/
 font:
   name: MeninBlue

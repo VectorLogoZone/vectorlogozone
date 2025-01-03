@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tidbyt
+codehost: https://github.com/tidbyt
 facebook: https://facebook.com/HelloTidbyt
 instagram: https://instagram.com/hellotidbyt
 logohandle: tidbyt

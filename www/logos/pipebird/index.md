@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pipebird/pipebird
+codehost: https://github.com/pipebird/pipebird
 linkedin: https://linkedin.com/company/pipebird
 logohandle: pipebird
 sort: pipebird

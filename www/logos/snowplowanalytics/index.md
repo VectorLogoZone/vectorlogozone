@@ -1,6 +1,6 @@
 ---
 blog: https://snowplowanalytics.com/blog
-codehost: https://github.com/https://github.com/snowplow/snowplow
+codehost: https://github.com/snowplow/snowplow
 instagram: https://instagram.com/snowplowanalytics/?hl=en
 linkedin: https://linkedin.com/company/snowplow-analytics-ltd
 logohandle: snowplowanalytics

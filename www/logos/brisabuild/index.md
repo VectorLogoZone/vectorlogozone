@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/brisa-build/brisa
+codehost: https://github.com/brisa-build/brisa
 logohandle: brisabuild
 sort: brisa
 title: Brisa

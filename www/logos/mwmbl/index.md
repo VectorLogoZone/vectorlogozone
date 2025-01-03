@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mwmbl/mwmbl
+codehost: https://github.com/mwmbl/mwmbl
 logohandle: mwmbl
 sort: mwmbl
 title: MWMBL

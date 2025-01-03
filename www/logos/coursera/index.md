@@ -1,6 +1,6 @@
 ---
 blog: http://blog.coursera.org/
-codehost: https://github.com/https://github.com/coursera
+codehost: https://github.com/coursera
 facebook: https://www.facebook.com/Coursera
 googleplus: https://plus.google.com/+Coursera
 images:

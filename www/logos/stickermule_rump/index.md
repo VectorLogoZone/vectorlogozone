@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/stickermule/rump
+codehost: https://github.com/stickermule/rump
 guide: https://demo.identihub.co/rump#/
 logohandle: stickermule_rump
 sort: rump

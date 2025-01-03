@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gorgias
+codehost: https://github.com/gorgias
 logohandle: gorgias
 sort: gorgias
 title: Gorgias

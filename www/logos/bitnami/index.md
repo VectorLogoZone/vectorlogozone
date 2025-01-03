@@ -1,6 +1,6 @@
 ---
 blog: https://bitnami.com/news/blogs
-codehost: https://github.com/https://github.com/bitnami
+codehost: https://github.com/bitnami
 facebook: https://www.facebook.com/BitnamiProject/
 guide: https://bitnami.com/about-us/logos
 images:

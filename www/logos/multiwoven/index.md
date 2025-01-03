@@ -1,6 +1,6 @@
 ---
 blog: https://blog.multiwoven.com/
-codehost: https://github.com/https://github.com/Multiwoven/multiwoven
+codehost: https://github.com/Multiwoven/multiwoven
 logohandle: multiwoven
 sort: multiwoven
 title: Multiwoven

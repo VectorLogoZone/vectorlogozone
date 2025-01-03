@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rowyio/rowy
+codehost: https://github.com/rowyio/rowy
 logohandle: rowyio
 sort: rowy
 title: Rowy

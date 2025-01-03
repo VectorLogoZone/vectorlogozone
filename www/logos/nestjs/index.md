@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nestjs/nest
+codehost: https://github.com/nestjs/nest
 dribbble: https://dribbble.com/JakubStaron
 logohandle: nestjs
 sort: nestjs

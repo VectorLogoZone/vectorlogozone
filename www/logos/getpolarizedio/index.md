@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/burtonator/polar-bookshelf
+codehost: https://github.com/burtonator/polar-bookshelf
 logohandle: getpolarizedio
 sort: polar
 title: POLAR

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/IPQualityScore
+codehost: https://github.com/IPQualityScore
 facebook: https://facebook.com/IPQualityScore
 instagram: https://instagram.com/ipqualityscore
 linkedin: https://linkedin.com/company/ipqualityscore

@@ -1,6 +1,6 @@
 ---
 blog: https://linuxfoundation.org/newsroom/blog
-codehost: https://github.com/https://github.com/linuxfoundation
+codehost: https://github.com/linuxfoundation
 facebook: https://www.facebook.com/TheLinuxFoundation
 googleplus: https://plus.google.com/+LinuxfoundationOrg
 images:

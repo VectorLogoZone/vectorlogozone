@@ -1,6 +1,6 @@
 ---
 blog: https://blog.requarks.io/
-codehost: https://github.com/https://github.com/requarks
+codehost: https://github.com/requarks
 logohandle: requarksio
 sort: requarks
 title: requarks.io

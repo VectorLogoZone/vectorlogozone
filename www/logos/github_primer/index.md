@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/primer
+codehost: https://github.com/primer
 logohandle: github_primer
 sort: primer
 title: Primer

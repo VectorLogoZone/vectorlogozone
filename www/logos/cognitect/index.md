@@ -1,6 +1,6 @@
 ---
 blog: http://blog.cognitect.com/
-codehost: https://github.com/https://github.com/cognitect
+codehost: https://github.com/cognitect
 linkedin: https://linkedin.com/company/relevance
 logohandle: cognitect
 sort: cognitect

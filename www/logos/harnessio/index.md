@@ -1,6 +1,6 @@
 ---
 blog: https://harness.io/blog
-codehost: https://github.com/https://github.com/harness/drone
+codehost: https://github.com/harness/drone
 facebook: https://facebook.com/harnessinc
 instagram: https://instagram.com/harness.io
 linkedin: https://linkedin.com/company/harnessinc

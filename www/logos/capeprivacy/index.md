@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/capeprivacy
+codehost: https://github.com/capeprivacy
 linkedin: https://linkedin.com/company/capeprivacy
 logohandle: capeprivacy
 sort: capeprivacy

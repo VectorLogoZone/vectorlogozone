@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hocus-dev/hocus
+codehost: https://github.com/hocus-dev/hocus
 logohandle: hocusdev
 sort: hocus
 title: Hocus

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Automattic/mongoose
+codehost: https://github.com/Automattic/mongoose
 logohandle: mongoosejs
 sort: mongoosejs
 title: MongooseJS

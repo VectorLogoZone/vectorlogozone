@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gqless/gqless
+codehost: https://github.com/gqless/gqless
 logohandle: gqless
 sort: gqless
 title: GQLess

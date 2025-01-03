@@ -1,6 +1,6 @@
 ---
 blog: https://blog.twitter.com/
-codehost: https://github.com/https://github.com/twitter
+codehost: https://github.com/twitter
 colors:
 - '#1DA1F2'
 font:

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/seontechnologies
+codehost: https://github.com/seontechnologies
 facebook: https://facebook.com/seontechnologies
 linkedin: http://linkedin.com/company/seon-tech
 logohandle: seonio

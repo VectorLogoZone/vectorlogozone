@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/socprime
+codehost: https://github.com/socprime
 facebook: https://facebook.com/socprime
 linkedin: https://linkedin.com/company/soc-prime
 logohandle: socprime

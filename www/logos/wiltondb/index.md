@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wiltondb/wiltondb
+codehost: https://github.com/wiltondb/wiltondb
 logohandle: wiltondb
 sort: wiltondb
 title: WiltonDB

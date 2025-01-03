@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/primefaces/primereact
+codehost: https://github.com/primefaces/primereact
 logohandle: primereact
 sort: primereact
 title: PrimeReact

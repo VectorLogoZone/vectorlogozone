@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/novuhq/novu
+codehost: https://github.com/novuhq/novu
 logohandle: novuco
 sort: novu
 title: Novu

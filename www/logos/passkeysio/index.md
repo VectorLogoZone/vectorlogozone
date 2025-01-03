@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/teamhanko/hanko
+codehost: https://github.com/teamhanko/hanko
 logohandle: passkeysio
 sort: passkeys
 title: Passkeys.io

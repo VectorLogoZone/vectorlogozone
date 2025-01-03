@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/googleanalytics/autotrack
+codehost: https://github.com/googleanalytics/autotrack
 facebook: https://facebook.com/hiveteams
 linkedin: https://linkedin.com/company/hivetechnology
 logohandle: hive

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/revoltchat
+codehost: https://github.com/revoltchat
 logohandle: revoltchat
 sort: revoltchat
 title: Revolt Chat

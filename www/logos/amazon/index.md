@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/amzn
+codehost: https://github.com/amzn
 colors:
 - '#FF9900'
 facebook: https://www.facebook.com/amazon

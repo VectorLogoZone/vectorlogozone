@@ -1,6 +1,6 @@
 ---
 blog: https://www.python.org/blogs/
-codehost: https://github.com/https://github.com/python
+codehost: https://github.com/python
 font:
   myfonts: http://www.myfonts.com/fonts/t26/flux/regular/
   name: Flux Regular

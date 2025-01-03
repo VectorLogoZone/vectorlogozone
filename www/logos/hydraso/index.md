@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hydradatabase/hydra
+codehost: https://github.com/hydradatabase/hydra
 linkedin: https://linkedin.com/company/hydradatabase
 logohandle: hydraso
 sort: hydra

@@ -1,6 +1,6 @@
 ---
 blog: http://ultimatesoftware.com/blog
-codehost: https://github.com/https://github.com/UltimateSoftware
+codehost: https://github.com/UltimateSoftware
 facebook: https://facebook.com/UltimateSoftware
 googleplus: https://plus.google.com/110663172528105323134/posts
 linkedin: https://www.linkedin.com/company/ultimate-software

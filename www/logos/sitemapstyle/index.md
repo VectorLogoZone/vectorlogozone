@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fileformat/sitemap.style
+codehost: https://github.com/fileformat/sitemap.style
 logohandle: sitemapstyle
 sort: sitemap
 title: Sitemap Style

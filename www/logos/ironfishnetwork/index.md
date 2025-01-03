@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/iron-fish
+codehost: https://github.com/iron-fish
 logohandle: ironfishnetwork
 sort: ironfish
 title: Iron Fish

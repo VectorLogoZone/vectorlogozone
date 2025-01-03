@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/twitter/scalding
+codehost: https://github.com/twitter/scalding
 logohandle: twitter_scaling
 sort: scalding
 title: Scalding

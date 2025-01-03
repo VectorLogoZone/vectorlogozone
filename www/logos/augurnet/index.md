@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@AugurProject
-codehost: https://github.com/https://github.com/AugurProject
+codehost: https://github.com/AugurProject
 facebook: https://facebook.com/AugurProject
 logohandle: augurnet
 sort: augur

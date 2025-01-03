@@ -1,6 +1,6 @@
 ---
 blog: https://ably.io/blog/
-codehost: https://github.com/https://github.com/ably
+codehost: https://github.com/ably
 facebook: https://facebook.com/ablyrealtime
 linkedin: https://linkedin.com/company/ably---real-time-messaging
 logohandle: ablyio

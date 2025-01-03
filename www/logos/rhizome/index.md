@@ -1,6 +1,6 @@
 ---
 blog: https://rhizome.org/editorial/
-codehost: https://github.com/https://github.com/rhizomedotorg
+codehost: https://github.com/rhizomedotorg
 facebook: https://www.facebook.com/Rhizomedotorg/
 logohandle: rhizome
 sort: rhizome

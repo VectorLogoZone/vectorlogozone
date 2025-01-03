@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/stylelint/stylelint
+codehost: https://github.com/stylelint/stylelint
 logohandle: stylelintio
 sort: stylelint
 title: StyleLint

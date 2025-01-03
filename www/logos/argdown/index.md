@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/christianvoigt/argdown
+codehost: https://github.com/christianvoigt/argdown
 logohandle: argdown
 sort: argdown
 title: Argdown

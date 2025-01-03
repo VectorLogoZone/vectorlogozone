@@ -1,6 +1,6 @@
 ---
 blog: https://blog.producthunt.com/
-codehost: https://github.com/https://github.com/producthunt
+codehost: https://github.com/producthunt
 colors:
 - '#DA552F'
 facebook: https://www.facebook.com/producthunt/

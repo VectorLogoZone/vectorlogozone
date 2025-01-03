@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/WeblateOrg/weblate
+codehost: https://github.com/WeblateOrg/weblate
 facebook: https://facebook.com/WeblateOrg
 linkedin: https://linkedin.com/company/weblate
 logohandle: weblate

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fontforge
+codehost: https://github.com/fontforge
 facebook: https://facebook.com/fontforge
 logohandle: fontforge
 sort: fontforge

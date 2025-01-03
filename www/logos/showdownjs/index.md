@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/showdownjs/showdown
+codehost: https://github.com/showdownjs/showdown
 facebook: https://facebook.com/showdownjs
 logohandle: showdownjs
 sort: showdownjs

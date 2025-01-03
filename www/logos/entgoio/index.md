@@ -1,6 +1,6 @@
 ---
 blog: https://blog.golang.org/gopher
-codehost: https://github.com/https://github.com/ent/ent
+codehost: https://github.com/ent/ent
 logohandle: entgoio
 sort: entgo
 title: Ent

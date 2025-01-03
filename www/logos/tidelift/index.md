@@ -1,6 +1,6 @@
 ---
 blog: https://blog.tidelift.com/
-codehost: https://github.com/https://github.com/tidelift
+codehost: https://github.com/tidelift
 facebook: https://www.facebook.com/tidelift/
 linkedin: https://linkedin.com/company/tidelift
 logohandle: tidelift

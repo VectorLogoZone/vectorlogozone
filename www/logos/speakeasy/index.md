@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/speakeasy-api
+codehost: https://github.com/speakeasy-api
 linkedin: https://linkedin.com/company/76569023
 logohandle: speakeasy
 sort: speakeasy

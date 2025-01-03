@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Tribler/tribler
+codehost: https://github.com/Tribler/tribler
 facebook: https://facebook.com/TriblerTeam
 logohandle: tribler
 sort: tribler

@@ -1,6 +1,6 @@
 ---
 blog: https://flow.org/blog/
-codehost: https://github.com/https://github.com/facebook/flow
+codehost: https://github.com/facebook/flow
 logohandle: flow
 other:
 - name: StackOverflow

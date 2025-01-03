@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hyperdivision
+codehost: https://github.com/hyperdivision
 logohandle: hyperdivisiondk
 sort: hyperdivision
 title: Hyperdivision

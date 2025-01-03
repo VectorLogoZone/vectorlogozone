@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/astronomer
+codehost: https://github.com/astronomer
 facebook: https://facebook.com/astronomerio
 instagram: https://instagram.com/astronomerdata
 linkedin: https://linkedin.com/company/astronomer

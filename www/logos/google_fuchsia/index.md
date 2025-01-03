@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fuchsia-mirror
+codehost: https://github.com/fuchsia-mirror
 logohandle: google_fuchsia
 sort: fuchsia
 title: fuchsia

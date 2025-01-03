@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/bookwyrm-social/bookwyrm
+codehost: https://github.com/bookwyrm-social/bookwyrm
 logohandle: bookwyrmsocial
 sort: bookwyrm
 title: BookWyrm

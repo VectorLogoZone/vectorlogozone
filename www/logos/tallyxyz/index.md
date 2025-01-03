@@ -1,6 +1,6 @@
 ---
 blog: https://blog.tally.xyz/
-codehost: https://github.com/https://github.com/withtally
+codehost: https://github.com/withtally
 logohandle: tallyxyz
 sort: tally
 title: Tally

@@ -1,6 +1,6 @@
 ---
 blog: https://risingwave.com/blog/
-codehost: https://github.com/https://github.com/risingwavelabs/risingwave
+codehost: https://github.com/risingwavelabs/risingwave
 linkedin: https://linkedin.com/company/risingwave-labs
 logohandle: risingwave
 sort: risingwave

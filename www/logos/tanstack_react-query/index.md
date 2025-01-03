@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tannerlinsley/react-query
+codehost: https://github.com/tannerlinsley/react-query
 logohandle: tanstack_react-query
 sort: react-query
 title: React Query

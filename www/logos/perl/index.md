@@ -1,6 +1,6 @@
 ---
 blog: http://blogs.perl.org/
-codehost: https://github.com/https://github.com/Perl
+codehost: https://github.com/Perl
 font:
   freename: Guru by Bhikkhu Pesala
   freeurl: http://www.softerviews.org/Fonts.html

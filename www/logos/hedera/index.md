@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/hashgraph
-codehost: https://github.com/https://github.com/hashgraph
+codehost: https://github.com/hashgraph
 facebook: https://facebook.com/hashgraph
 linkedin: https://linkedin.com/company/hashgraph
 logohandle: hedera

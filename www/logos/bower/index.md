@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/bower/bower
+codehost: https://github.com/bower/bower
 logohandle: bower
 sort: bower
 title: Bower

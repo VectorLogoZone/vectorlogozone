@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/opentimestamps
+codehost: https://github.com/opentimestamps
 logohandle: opentimestamps
 sort: opentimestamps
 title: OpenTimestamps

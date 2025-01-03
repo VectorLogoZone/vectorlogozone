@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cnabio/duffle
+codehost: https://github.com/cnabio/duffle
 logohandle: dufflesh
 sort: duffle
 title: Duffle

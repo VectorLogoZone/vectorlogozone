@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jankammerath/gophie
+codehost: https://github.com/jankammerath/gophie
 logohandle: gophie
 sort: gophie
 title: Gophie

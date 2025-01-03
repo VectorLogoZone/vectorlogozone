@@ -1,6 +1,6 @@
 ---
 blog: https://blog.pinterest.com/en
-codehost: https://github.com/https://github.com/pinterest
+codehost: https://github.com/pinterest
 colors:
 - '#BD081C'
 facebook: https://www.facebook.com/pinterest/

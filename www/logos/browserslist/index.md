@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/browserslist/browserslist
+codehost: https://github.com/browserslist/browserslist
 logohandle: browserslist
 sort: browserslist
 title: Browserslist

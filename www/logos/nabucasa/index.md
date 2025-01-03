@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nabucasa
+codehost: https://github.com/nabucasa
 facebook: https://facebook.com/NabuCasa
 logohandle: nabucasa
 sort: nabucasa

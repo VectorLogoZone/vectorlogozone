@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kyleconroy/sqlc
+codehost: https://github.com/kyleconroy/sqlc
 logohandle: sqlcdev
 sort: sqlc
 title: sqlc

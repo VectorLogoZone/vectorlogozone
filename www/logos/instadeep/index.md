@@ -1,6 +1,6 @@
 ---
 blog: https://instadeep.com/category/blog
-codehost: https://github.com/https://github.com/instadeepai
+codehost: https://github.com/instadeepai
 facebook: https://facebook.com/InstaDeepAI
 linkedin: https://linkedin.com/company/instadeep
 logohandle: instadeep

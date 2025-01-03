@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/powerhome
+codehost: https://github.com/powerhome
 facebook: https://www.facebook.com/PowerHRG/
 logohandle: powerhrg
 sort: powerhrg

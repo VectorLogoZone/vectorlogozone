@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/SerenityOS/serenity
+codehost: https://github.com/SerenityOS/serenity
 logohandle: serenityos
 sort: serenityos
 title: SerenityOS

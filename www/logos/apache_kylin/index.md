@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/kylin
+codehost: https://github.com/apache/kylin
 facebook: https://facebook.com/kylinio
 logohandle: apache_kylin
 sort: kylin

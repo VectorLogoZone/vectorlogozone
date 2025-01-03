@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/valelint%3EBlog%3C/a%3E%3C/li%3E%3Cli
-codehost: https://github.com/https://github.com/algolia/vale-action
+codehost: https://github.com/algolia/vale-action
 logohandle: valesh
 sort: vale
 title: Vale.sh

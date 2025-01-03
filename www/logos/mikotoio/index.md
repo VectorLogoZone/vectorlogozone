@@ -1,6 +1,6 @@
 ---
 blog: https://blog.mikoto.io/
-codehost: https://github.com/https://github.com/mikotoIO/mikoto
+codehost: https://github.com/mikotoIO/mikoto
 logohandle: mikotoio
 sort: mikoto
 title: Mikoto

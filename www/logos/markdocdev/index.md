@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/markdoc/markdoc
+codehost: https://github.com/markdoc/markdoc
 logohandle: markdocdev
 sort: markdoc
 title: Markdoc

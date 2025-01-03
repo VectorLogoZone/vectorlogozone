@@ -1,6 +1,6 @@
 ---
 blog: https://openmainframeproject.org/news/blog
-codehost: https://github.com/https://github.com/openmainframeproject
+codehost: https://github.com/openmainframeproject
 linkedin: https://linkedin.com/company/the-open-mainframe-project
 logohandle: openmainframeproject
 sort: openmainframeproject

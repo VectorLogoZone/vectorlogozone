@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/statsbotco/cubejs-client
+codehost: https://github.com/statsbotco/cubejs-client
 logohandle: statsbotco_cubejs
 sort: cubejs
 title: cube.js

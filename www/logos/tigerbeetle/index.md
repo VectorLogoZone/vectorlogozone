@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/coilhq/tigerbeetle
+codehost: https://github.com/coilhq/tigerbeetle
 logohandle: tigerbeetle
 sort: tigerbeetle
 title: TigerBeetle

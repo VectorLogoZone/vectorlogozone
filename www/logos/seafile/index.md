@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/haiwen/seafile
+codehost: https://github.com/haiwen/seafile
 logohandle: seafile
 sort: seafile
 title: Seafile

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.cloudflare.com/
-codehost: https://github.com/https://github.com/cloudflare
+codehost: https://github.com/cloudflare
 colors:
 - '#FAAE40'
 - '#F38020'

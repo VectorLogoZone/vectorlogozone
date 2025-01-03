@@ -1,6 +1,6 @@
 ---
 blog: https://vercel.com/blog/automatic-ssl-with-vercel-lets-encrypt
-codehost: https://github.com/https://github.com/vercel
+codehost: https://github.com/vercel
 guide: https://vercel.com/design
 images:
 - vercel-ar21.svg

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/olifolkerd/tabulator
+codehost: https://github.com/olifolkerd/tabulator
 logohandle: tabulatorinfo
 sort: tabulator
 title: Tabulator

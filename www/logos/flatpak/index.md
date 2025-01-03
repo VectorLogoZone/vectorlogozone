@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/flatpak
+codehost: https://github.com/flatpak
 logohandle: flatpak
 sort: flatpak
 title: Flatpak

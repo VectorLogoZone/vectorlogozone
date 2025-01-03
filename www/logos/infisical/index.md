@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Infisical/infisical-cli
+codehost: https://github.com/Infisical/infisical-cli
 linkedin: https://linkedin.com/company/infisical
 logohandle: infisical
 sort: infisical

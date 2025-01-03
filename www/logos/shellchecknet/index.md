@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/koalaman/shellcheck
+codehost: https://github.com/koalaman/shellcheck
 logohandle: shellchecknet
 sort: shellcheck
 title: ShellCheck

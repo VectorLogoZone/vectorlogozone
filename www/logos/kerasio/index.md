@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/keras-team
+codehost: https://github.com/keras-team
 logohandle: kerasio
 sort: keras
 title: Keras

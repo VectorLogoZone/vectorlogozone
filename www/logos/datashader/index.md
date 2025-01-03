@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/holoviz/datashader
+codehost: https://github.com/holoviz/datashader
 logohandle: datashader
 sort: datashader
 title: Datashader

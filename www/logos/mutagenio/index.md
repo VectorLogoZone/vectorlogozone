@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mutagen-io/mutagen
+codehost: https://github.com/mutagen-io/mutagen
 logohandle: mutagenio
 sort: mutagen
 title: Mutagen

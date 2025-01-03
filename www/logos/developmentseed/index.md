@@ -1,6 +1,6 @@
 ---
 blog: https://developmentseed.org/blog/
-codehost: https://github.com/https://github.com/developmentseed
+codehost: https://github.com/developmentseed
 logohandle: developmentseed
 sort: developmentseed
 title: Development Seed

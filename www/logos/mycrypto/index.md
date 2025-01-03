@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/mycrypto
-codehost: https://github.com/https://github.com/MyCryptoHQ
+codehost: https://github.com/MyCryptoHQ
 facebook: https://facebook.com/mycryptoHQ
 linkedin: https://linkedin.com/company/mycrypto
 logohandle: mycrypto

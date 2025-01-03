@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hivemapper
+codehost: https://github.com/hivemapper
 logohandle: beemaps
 sort: beemaps
 title: Bee Maps

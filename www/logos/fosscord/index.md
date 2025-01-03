@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fosscord/fosscord
+codehost: https://github.com/fosscord/fosscord
 instagram: https://instagram.com/fosscord
 logohandle: fosscord
 sort: fosscord

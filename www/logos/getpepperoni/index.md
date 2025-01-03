@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/futurice/pepperoni-app-kit
+codehost: https://github.com/futurice/pepperoni-app-kit
 facebook: https://facebook.com/getpepperoni
 logohandle: getpepperoni
 sort: getpepperoni

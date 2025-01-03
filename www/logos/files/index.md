@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Files-com
+codehost: https://github.com/Files-com
 logohandle: files
 sort: files
 title: Files.com

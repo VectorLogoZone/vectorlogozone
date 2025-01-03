@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jsoftware
+codehost: https://github.com/jsoftware
 logohandle: jsoftware
 sort: jsoftware
 title: Jsoftware

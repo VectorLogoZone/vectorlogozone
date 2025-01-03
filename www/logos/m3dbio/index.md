@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/m3db/m3
+codehost: https://github.com/m3db/m3
 logohandle: m3dbio
 sort: m3db
 title: M3

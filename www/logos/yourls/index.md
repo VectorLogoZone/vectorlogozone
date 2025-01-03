@@ -1,6 +1,6 @@
 ---
 blog: http://blog.yourls.org/
-codehost: https://github.com/https://github.com/YOURLS/YOURLS
+codehost: https://github.com/YOURLS/YOURLS
 logohandle: yourls
 sort: yourls
 title: YOURLS

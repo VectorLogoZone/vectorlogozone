@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tengbao/vanta
+codehost: https://github.com/tengbao/vanta
 logohandle: vantajs
 sort: vantajs
 title: Vanta.js

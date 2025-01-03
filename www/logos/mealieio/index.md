@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mealie-recipes/mealie
+codehost: https://github.com/mealie-recipes/mealie
 logohandle: mealieio
 sort: mealie
 title: Mealie

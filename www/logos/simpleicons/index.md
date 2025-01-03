@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/simple-icons
+codehost: https://github.com/simple-icons
 logohandle: simpleicons
 sort: simpleicons
 tags:

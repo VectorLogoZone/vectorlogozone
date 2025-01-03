@@ -1,6 +1,6 @@
 ---
 blog: https://gumlet.com/blog
-codehost: https://github.com/https://github.com/gumlet
+codehost: https://github.com/gumlet
 facebook: https://facebook.com/gumlethq
 linkedin: https://linkedin.com/company/gumlet
 logohandle: gumlet

@@ -1,6 +1,6 @@
 ---
 blog: https://smaato.com/blog
-codehost: https://github.com/https://github.com/smaato
+codehost: https://github.com/smaato
 facebook: https://facebook.com/smaato
 linkedin: https://linkedin.com/company/smaato
 logohandle: smaato

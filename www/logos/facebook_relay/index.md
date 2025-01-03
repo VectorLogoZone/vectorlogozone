@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebook/relay
+codehost: https://github.com/facebook/relay
 images:
 - facebook_relay-icon.svg
 logohandle: facebook_relay

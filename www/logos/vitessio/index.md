@@ -1,6 +1,6 @@
 ---
 blog: http://blog.vitess.io/
-codehost: https://github.com/https://github.com/vitessio/vitess
+codehost: https://github.com/vitessio/vitess
 logohandle: vitessio
 other:
 - name: StackOverflow

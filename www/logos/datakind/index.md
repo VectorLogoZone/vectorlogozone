@@ -1,6 +1,6 @@
 ---
 blog: https://datakind.org/blog
-codehost: https://github.com/https://github.com/datakind
+codehost: https://github.com/datakind
 facebook: https://facebook.com/DataKindOrg
 linkedin: https://linkedin.com/company/datakind
 logohandle: datakind

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/DiemenDesign
+codehost: https://github.com/DiemenDesign
 facebook: https://facebook.com/diemendesign
 instagram: https://instagram.com/diemen_design
 logohandle: diemendesign

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/cycleplatform
-codehost: https://github.com/https://github.com/cycleplatform
+codehost: https://github.com/cycleplatform
 facebook: https://facebook.com/cycleplatform
 linkedin: https://linkedin.com/company/cycle-platform
 logohandle: cycleio

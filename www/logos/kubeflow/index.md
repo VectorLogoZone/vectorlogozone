@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/kubeflow
-codehost: https://github.com/https://github.com/kubeflow
+codehost: https://github.com/kubeflow
 logohandle: kubeflow
 sort: kubeflow
 title: Kubeflow

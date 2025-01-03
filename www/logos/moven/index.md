@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/moven
+codehost: https://github.com/moven
 colors:
 - '#0088BB'
 - '#2FBBCB'

@@ -1,6 +1,6 @@
 ---
 blog: https://dnsfilter.com/blog
-codehost: https://github.com/https://github.com/DNSFilter
+codehost: https://github.com/DNSFilter
 facebook: https://facebook.com/DNSFilter
 linkedin: https://linkedin.com/company/dnsfilter
 logohandle: dnsfilter

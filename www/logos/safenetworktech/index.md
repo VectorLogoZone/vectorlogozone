@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/safenetwork
-codehost: https://github.com/https://github.com/maidsafe
+codehost: https://github.com/maidsafe
 facebook: https://facebook.com/GetMaidSafe
 logohandle: safenetworktech
 sort: safenetwork

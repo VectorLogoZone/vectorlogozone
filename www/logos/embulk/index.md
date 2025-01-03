@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/embulk/embulk
+codehost: https://github.com/embulk/embulk
 logohandle: embulk
 sort: embulk
 title: Embulk

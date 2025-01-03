@@ -1,6 +1,6 @@
 ---
 blog: https://authy.com/blog/
-codehost: https://github.com/https://github.com/authy
+codehost: https://github.com/authy
 colors:
 - '#EC1C24'
 - '#51575C'

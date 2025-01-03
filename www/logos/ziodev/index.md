@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/zio/zio
+codehost: https://github.com/zio/zio
 logohandle: ziodev
 sort: zio
 title: ZIO

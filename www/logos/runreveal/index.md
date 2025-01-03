@@ -1,6 +1,6 @@
 ---
 blog: https://blog.runreveal.com/
-codehost: https://github.com/https://github.com/runreveal
+codehost: https://github.com/runreveal
 logohandle: runreveal
 sort: runreveal
 title: runreveal

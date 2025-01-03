@@ -1,6 +1,6 @@
 ---
 blog: https://blog.flant.com/
-codehost: https://github.com/https://github.com/flant
+codehost: https://github.com/flant
 facebook: https://facebook.com/flantcom
 linkedin: https://linkedin.com/company/flant
 logohandle: flant

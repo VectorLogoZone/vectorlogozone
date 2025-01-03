@@ -1,6 +1,6 @@
 ---
 blog: http://www.ebay.com/stories/
-codehost: https://github.com/https://github.com/ebay
+codehost: https://github.com/ebay
 facebook: https://www.facebook.com/eBay
 font:
   myfonts: https://www.myfonts.com/fonts/linotype/univers/53-extended/

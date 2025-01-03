@@ -1,6 +1,6 @@
 ---
 blog: https://blog.xibo.org.uk/
-codehost: https://github.com/https://github.com/xibosignage/xibo
+codehost: https://github.com/xibosignage/xibo
 facebook: https://facebook.com/xibosignage
 linkedin: https://linkedin.com/company/xibo-open-source-digital-signage
 logohandle: xiboorguk

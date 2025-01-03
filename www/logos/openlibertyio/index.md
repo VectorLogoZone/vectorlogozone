@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/OpenLiberty
+codehost: https://github.com/OpenLiberty
 guide: https://github.com/OpenLiberty/logos
 logohandle: openlibertyio
 sort: openliberty

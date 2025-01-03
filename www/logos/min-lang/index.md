@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/h3rald/min
+codehost: https://github.com/h3rald/min
 logohandle: min-lang
 sort: min-lang
 title: min language

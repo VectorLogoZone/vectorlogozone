@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/locustio/locust
+codehost: https://github.com/locustio/locust
 logohandle: locustio
 sort: locust
 title: Locust

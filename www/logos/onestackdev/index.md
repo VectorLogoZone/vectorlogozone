@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/onejs/one
+codehost: https://github.com/onejs/one
 logohandle: onestackdev
 sort: onestack
 title: One

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/incubator-opendal
+codehost: https://github.com/apache/incubator-opendal
 logohandle: apache_opendal
 sort: opendal
 tags:

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/formkit/formkit
+codehost: https://github.com/formkit/formkit
 logohandle: formkit
 sort: formkit
 title: FormKit

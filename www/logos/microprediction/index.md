@@ -1,6 +1,6 @@
 ---
 blog: https://microprediction.com/blog
-codehost: https://github.com/https://github.com/microprediction/microprediction
+codehost: https://github.com/microprediction/microprediction
 facebook: https://facebook.com/microprediction
 linkedin: https://linkedin.com/company/microprediction
 logohandle: microprediction

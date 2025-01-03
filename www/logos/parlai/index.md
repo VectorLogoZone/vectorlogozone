@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebookresearch/ParlAI
+codehost: https://github.com/facebookresearch/ParlAI
 logohandle: parlai
 sort: parl
 title: ParlAI

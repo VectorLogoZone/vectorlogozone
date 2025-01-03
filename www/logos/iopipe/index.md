@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/iopipe
+codehost: https://github.com/iopipe
 linkedin: https://linkedin.com/company/10311914
 logohandle: iopipe
 sort: iopipe

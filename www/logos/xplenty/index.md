@@ -1,6 +1,6 @@
 ---
 blog: https://xplenty.com/blog
-codehost: https://github.com/https://github.com/xplenty
+codehost: https://github.com/xplenty
 facebook: https://facebook.com/xplenty
 googleplus: https://plus.google.com/+Xplenty
 linkedin: https://linkedin.com/company/xplenty

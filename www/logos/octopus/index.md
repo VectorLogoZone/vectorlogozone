@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/OctopusDeploy
+codehost: https://github.com/OctopusDeploy
 facebook: https://facebook.com/OctopusDeploy
 linkedin: https://linkedin.com/company/octopus-deploy
 logohandle: octopus

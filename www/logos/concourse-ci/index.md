@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/concourse/docs
+codehost: https://github.com/concourse/docs
 logohandle: concourse-ci
 sort: concourse
 title: Concourse

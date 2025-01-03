@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/googleforgames/agones
+codehost: https://github.com/googleforgames/agones
 logohandle: agonesdev
 sort: agones
 title: Agones

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rome/tools
+codehost: https://github.com/rome/tools
 logohandle: rometools
 sort: rome
 title: Rome Tools

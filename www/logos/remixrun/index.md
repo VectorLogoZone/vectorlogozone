@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/remix-run
+codehost: https://github.com/remix-run
 discord: https://rmx.as/discord
 guide: https://remix.run/brand
 logohandle: remixrun

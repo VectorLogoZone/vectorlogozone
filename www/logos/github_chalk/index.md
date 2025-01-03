@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/chalk/chalk
+codehost: https://github.com/chalk/chalk
 logohandle: github_chalk
 sort: chalk
 title: chalk

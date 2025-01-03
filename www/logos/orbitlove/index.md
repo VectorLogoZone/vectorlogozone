@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/orbit-love
+codehost: https://github.com/orbit-love
 logohandle: orbitlove
 sort: orbit
 title: Orbit

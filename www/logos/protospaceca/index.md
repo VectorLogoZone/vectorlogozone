@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/protospace
+codehost: https://github.com/protospace
 logohandle: protospaceca
 sort: protospace
 title: Protospace

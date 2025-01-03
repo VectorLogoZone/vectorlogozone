@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@joinpursuit
-codehost: https://github.com/https://github.com/joinpursuit
+codehost: https://github.com/joinpursuit
 facebook: http://facebook.com/pursuit
 instagram: https://instagram.com/pursuit
 logohandle: pursuit

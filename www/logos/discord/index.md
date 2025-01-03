@@ -1,6 +1,6 @@
 ---
 blog: https://discord.com/blog
-codehost: https://github.com/https://github.com/discordapp
+codehost: https://github.com/discordapp
 colors:
 - '#7289DA'
 - '#FFFFFF'

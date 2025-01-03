@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/iceberg
+codehost: https://github.com/apache/iceberg
 logohandle: apache_iceberg
 sort: iceberg
 tags:

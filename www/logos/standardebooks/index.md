@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/standardebooks
+codehost: https://github.com/standardebooks
 logohandle: standardebooks
 sort: standardebooks
 title: Standard Ebooks

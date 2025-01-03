@@ -1,6 +1,6 @@
 ---
 blog: https://blog.cognitohq.com/
-codehost: https://github.com/https://github.com/cognito
+codehost: https://github.com/cognito
 facebook: https://facebook.com/cognitohq
 logohandle: cognitohq
 sort: cognitohq

@@ -1,6 +1,6 @@
 ---
 blog: https://stackoverflow.blog/
-codehost: https://github.com/https://github.com/StackExchange
+codehost: https://github.com/StackExchange
 facebook: https://www.facebook.com/officialstackoverflow/
 font:
   myfonts: https://www.myfonts.com/fonts/fontfont/ff-din/pro-medium/

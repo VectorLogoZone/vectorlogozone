@@ -1,6 +1,6 @@
 ---
 blog: https://element.io/blog
-codehost: https://github.com/https://github.com/vector-im
+codehost: https://github.com/vector-im
 images:
 - elementio-ar21.svg
 - elementio-icon.svg

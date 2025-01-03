@@ -1,6 +1,6 @@
 ---
 blog: https://alloy.com/blog
-codehost: https://github.com/https://github.com/useAlloy
+codehost: https://github.com/useAlloy
 facebook: https://facebook.com/usealloy
 instagram: https://instagram.com/use_alloy
 linkedin: https://linkedin.com/company/alloy-apis

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/rocketmq
+codehost: https://github.com/apache/rocketmq
 logohandle: apache_rocketmq
 sort: rocketmq
 tags:

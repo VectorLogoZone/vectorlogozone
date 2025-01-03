@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pipelinedb/pipelinedb
+codehost: https://github.com/pipelinedb/pipelinedb
 facebook: https://facebook.com/pipelinedb
 googleplus: https://plus.google.com/111830858515286413871
 logohandle: pipelinedb

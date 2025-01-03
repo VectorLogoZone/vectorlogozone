@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/MicrosoftEdge
+codehost: https://github.com/MicrosoftEdge
 facebook: https://www.facebook.com/MicrosoftEdge/
 images:
 - microsoft_edge-icon.svg

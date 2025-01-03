@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/DIYgod/RSSHub
+codehost: https://github.com/DIYgod/RSSHub
 dribbble: https://dribbble.com/sheldonrrr
 logohandle: rsshubapp
 sort: rsshub

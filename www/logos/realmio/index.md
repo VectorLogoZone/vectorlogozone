@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/realm
+codehost: https://github.com/realm
 logohandle: realmio
 sort: realm
 title: Realm

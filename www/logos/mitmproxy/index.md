@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mitmproxy/mitmproxy
+codehost: https://github.com/mitmproxy/mitmproxy
 logohandle: mitmproxy
 sort: mitmproxy
 title: mitmproxy

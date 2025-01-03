@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/vamp-io
-codehost: https://github.com/https://github.com/magneticio/vamp
+codehost: https://github.com/magneticio/vamp
 linkedin: https://linkedin.com/company/magnetic-io
 logohandle: vampio
 sort: vamp

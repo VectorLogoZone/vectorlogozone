@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/tiledb
-codehost: https://github.com/https://github.com/TileDB-Inc/TileDB
+codehost: https://github.com/TileDB-Inc/TileDB
 linkedin: https://linkedin.com/company/tiledb-inc
 logohandle: tiledb
 sort: tiledb

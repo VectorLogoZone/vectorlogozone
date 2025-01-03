@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/chroma-core/chroma
+codehost: https://github.com/chroma-core/chroma
 logohandle: trychroma
 sort: chroma
 title: Chroma

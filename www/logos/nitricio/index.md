@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nitrictech/nitric
+codehost: https://github.com/nitrictech/nitric
 logohandle: nitricio
 sort: nitric
 title: Nitric

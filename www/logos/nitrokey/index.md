@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nitrokey
+codehost: https://github.com/nitrokey
 facebook: https://facebook.com/nitrokey
 linkedin: https://linkedin.com/company/nitrokey
 logohandle: nitrokey

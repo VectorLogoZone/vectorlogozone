@@ -1,6 +1,6 @@
 ---
 blog: https://analytics.googleblog.com/
-codehost: https://github.com/https://github.com/googleanalytics
+codehost: https://github.com/googleanalytics
 colors:
 - '#FFC517'
 - '#EE7406'

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/anchore
+codehost: https://github.com/anchore
 linkedin: https://linkedin.com/company/anchore
 logohandle: anchore
 sort: anchore

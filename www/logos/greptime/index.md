@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/GreptimeTeam/greptimedb
+codehost: https://github.com/GreptimeTeam/greptimedb
 linkedin: https://linkedin.com/company/greptime
 logohandle: greptime
 sort: greptime

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hazy
+codehost: https://github.com/hazy
 facebook: https://facebook.com/hazyAI
 linkedin: https://linkedin.com/company/hazy-ai
 logohandle: hazy

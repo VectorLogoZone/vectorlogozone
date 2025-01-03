@@ -1,6 +1,6 @@
 ---
 blog: https://www.blog.google/products/maps/
-codehost: https://github.com/https://github.com/googlemaps
+codehost: https://github.com/googlemaps
 facebook: https://www.facebook.com/GoogleMaps/
 images:
 - google_maps-icon.svg

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.bufferapp.com/
-codehost: https://github.com/https://github.com/bufferapp
+codehost: https://github.com/bufferapp
 facebook: https://www.facebook.com/bufferapp
 guide: https://buffer.com/press
 images:

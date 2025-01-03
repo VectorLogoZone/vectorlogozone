@@ -1,6 +1,6 @@
 ---
 blog: https://clear.ml/blog
-codehost: https://github.com/https://github.com/allegroai/clearml
+codehost: https://github.com/allegroai/clearml
 facebook: https://facebook.com/clearmlapp
 linkedin: https://linkedin.com/company/clearml
 logohandle: clearml

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rollbar
+codehost: https://github.com/rollbar
 linkedin: https://linkedin.com/company/rollbar
 logohandle: rollbar
 sort: rollbar

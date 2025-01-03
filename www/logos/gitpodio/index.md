@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/gitpod
-codehost: https://github.com/https://github.com/gitpod-io/gitpod
+codehost: https://github.com/gitpod-io/gitpod
 logohandle: gitpodio
 sort: gitpod
 title: Gitpod

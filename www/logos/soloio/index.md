@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/solo-io
+codehost: https://github.com/solo-io
 linkedin: https://linkedin.com/company-beta/11074869
 logohandle: soloio
 sort: solo

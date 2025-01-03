@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/narrowlink/narrowlink
+codehost: https://github.com/narrowlink/narrowlink
 logohandle: narrowlink
 sort: narrowlink
 title: NarrowLink

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/trunk-io
+codehost: https://github.com/trunk-io
 logohandle: trunkio
 sort: trunk
 title: Trunk

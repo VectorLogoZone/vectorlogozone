@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lambdaclass
+codehost: https://github.com/lambdaclass
 logohandle: lambdaclass
 sort: lambdaclass
 title: LambdaClass

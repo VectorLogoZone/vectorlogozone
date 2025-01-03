@@ -1,6 +1,6 @@
 ---
 blog: https://news.microsoft.com/
-codehost: https://github.com/https://github.com/Microsoft
+codehost: https://github.com/Microsoft
 colors:
 - '#F25022'
 - '#7FBA00'

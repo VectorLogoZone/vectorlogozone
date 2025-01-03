@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/AirVPN
+codehost: https://github.com/AirVPN
 facebook: https://facebook.com/airvpn.org
 logohandle: airvpn
 sort: airvpn

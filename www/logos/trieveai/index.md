@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/devflowinc/trieve
+codehost: https://github.com/devflowinc/trieve
 logohandle: trieveai
 sort: trieve
 title: Trieve

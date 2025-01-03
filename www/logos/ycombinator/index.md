@@ -1,6 +1,6 @@
 ---
 blog: http://www.ycombinator.com/resources/
-codehost: https://github.com/https://github.com/HackerNews
+codehost: https://github.com/HackerNews
 colors:
 - '#F26625'
 images:

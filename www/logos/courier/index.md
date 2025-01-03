@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/trycourier
+codehost: https://github.com/trycourier
 linkedin: https://linkedin.com/company/trycourier
 logohandle: courier
 sort: courier

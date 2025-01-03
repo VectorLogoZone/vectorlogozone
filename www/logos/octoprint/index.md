@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/foosel/OctoPrint
+codehost: https://github.com/foosel/OctoPrint
 facebook: https://facebook.com/OctoPrint
 logohandle: octoprint
 sort: octoprint

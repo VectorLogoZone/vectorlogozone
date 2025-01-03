@@ -1,6 +1,6 @@
 ---
 blog: https://zephyrproject.org/blog
-codehost: https://github.com/https://github.com/zephyrproject-rtos/zephyr
+codehost: https://github.com/zephyrproject-rtos/zephyr
 facebook: https://facebook.com/ZephyrIoT
 linkedin: https://linkedin.com/company/the-zephyr-project
 logohandle: zephyrproject

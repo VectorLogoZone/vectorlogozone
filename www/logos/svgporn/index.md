@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gilbarbara/logos
+codehost: https://github.com/gilbarbara/logos
 colors:
 - '#FB0000'
 images:

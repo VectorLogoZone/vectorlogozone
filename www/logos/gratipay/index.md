@@ -1,6 +1,6 @@
 ---
 blog: http://blog.gittip.com/
-codehost: https://github.com/https://github.com/gratipay
+codehost: https://github.com/gratipay
 logohandle: gratipay
 sort: gratipay
 title: Gratipay

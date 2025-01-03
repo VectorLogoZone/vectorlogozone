@@ -1,6 +1,6 @@
 ---
 blog: https://lambdaschool.com/blog
-codehost: https://github.com/https://github.com/LambdaSchool
+codehost: https://github.com/LambdaSchool
 facebook: https://facebook.com/LambdaSchoolOnline
 linkedin: https://linkedin.com/school/lambdaschool
 logohandle: lambdaschool

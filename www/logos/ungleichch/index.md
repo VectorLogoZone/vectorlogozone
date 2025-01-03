@@ -1,6 +1,6 @@
 ---
 blog: https://ungleich.ch/blog
-codehost: https://github.com/https://github.com/ungleich
+codehost: https://github.com/ungleich
 facebook: https://facebook.com/ungleich.ch
 linkedin: https://linkedin.com/company/ungleich-gmbh
 logohandle: ungleichch

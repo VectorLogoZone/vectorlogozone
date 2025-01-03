@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/incubator-echarts
+codehost: https://github.com/apache/incubator-echarts
 logohandle: apache_echarts
 sort: echarts
 tags:

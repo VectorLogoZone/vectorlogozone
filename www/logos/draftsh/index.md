@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/azure/draft
+codehost: https://github.com/azure/draft
 logohandle: draftsh
 sort: draft
 title: Draft

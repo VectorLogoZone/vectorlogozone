@@ -1,6 +1,6 @@
 ---
 blog: https://blog.coveo.com/
-codehost: https://github.com/https://github.com/coveo
+codehost: https://github.com/coveo
 facebook: https://facebook.com/coveolife
 instagram: https://instagram.com/coveolife
 logohandle: coveo

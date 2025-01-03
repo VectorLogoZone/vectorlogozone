@@ -1,6 +1,6 @@
 ---
 blog: http://leafletjs.com/blog.html
-codehost: https://github.com/https://github.com/Leaflet
+codehost: https://github.com/Leaflet
 images:
 - leafletjs-ar21.svg
 - leafletjs-icon.svg

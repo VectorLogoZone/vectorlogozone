@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/beam
+codehost: https://github.com/apache/beam
 logohandle: apache_beam
 sort: beam
 tags:

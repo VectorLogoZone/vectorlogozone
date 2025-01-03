@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/textpattern/textpattern
+codehost: https://github.com/textpattern/textpattern
 logohandle: textpattern
 sort: textpattern
 title: Textpattern

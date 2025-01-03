@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/erpnext
+codehost: https://github.com/erpnext
 facebook: https://facebook.com/ERPNext
 instagram: https://instagram.com/frappetech
 logohandle: erpnext

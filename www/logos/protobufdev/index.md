@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/protocolbuffers/protobuf
+codehost: https://github.com/protocolbuffers/protobuf
 logohandle: protobufdev
 sort: protobuf
 title: Protocol Buffers

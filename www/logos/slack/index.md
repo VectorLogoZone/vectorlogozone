@@ -1,6 +1,6 @@
 ---
 blog: https://slackhq.com/
-codehost: https://github.com/https://github.com/slackhq
+codehost: https://github.com/slackhq
 facebook: https://www.facebook.com/slackhq
 guide: https://slack.com/brand-guidelines
 images:

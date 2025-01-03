@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vlang/v
+codehost: https://github.com/vlang/v
 logohandle: vlangio
 sort: vlang
 title: V

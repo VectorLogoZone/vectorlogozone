@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/FusionAuth
+codehost: https://github.com/FusionAuth
 facebook: https://facebook.com/fusionauth
 linkedin: https://linkedin.com/company/fusionauth
 logohandle: fusionauthio

@@ -1,6 +1,6 @@
 ---
 blog: https://storj.io/blog
-codehost: https://github.com/https://github.com/Storj
+codehost: https://github.com/Storj
 facebook: https://facebook.com/storjproject
 logohandle: storjio
 sort: storj

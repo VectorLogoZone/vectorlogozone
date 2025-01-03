@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hashicorp/boundary
+codehost: https://github.com/hashicorp/boundary
 logohandle: boundaryprojectio
 sort: boundaryproject
 title: Boundary

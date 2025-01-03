@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/salesforce/lwc
+codehost: https://github.com/salesforce/lwc
 logohandle: lwcdev
 sort: lwc
 title: Lightning Web Components

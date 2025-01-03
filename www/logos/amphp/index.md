@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/amphp
+codehost: https://github.com/amphp
 keywords:
 - Asynchronous Multitasking PHP
 logohandle: amphp

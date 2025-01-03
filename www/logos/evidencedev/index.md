@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/evidence-dev/evidence
+codehost: https://github.com/evidence-dev/evidence
 logohandle: evidencedev
 sort: evidence
 title: Evidence.dev

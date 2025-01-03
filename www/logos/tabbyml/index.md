@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/TabbyML/tabby
+codehost: https://github.com/TabbyML/tabby
 linkedin: https://linkedin.com/company/tabbyml
 logohandle: tabbyml
 sort: tabbyml

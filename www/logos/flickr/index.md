@@ -1,6 +1,6 @@
 ---
 blog: https://blog.flickr.net/en
-codehost: https://github.com/https://github.com/flickr
+codehost: https://github.com/flickr
 font:
   myfonts: https://www.myfonts.com/fonts/adobe/frutiger/
   name: Frutiger

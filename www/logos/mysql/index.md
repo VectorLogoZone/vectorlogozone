@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mysql
+codehost: https://github.com/mysql
 facebook: http://www.facebook.com/mysql
 guide: https://www.mysql.com/about/legal/logos.html
 images:

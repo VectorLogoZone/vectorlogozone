@@ -1,6 +1,6 @@
 ---
 blog: https://robocorp.com/blog/
-codehost: https://github.com/https://github.com/robocorp
+codehost: https://github.com/robocorp
 linkedin: https://linkedin.com/company/robocorp
 logohandle: robocorp
 sort: robocorp

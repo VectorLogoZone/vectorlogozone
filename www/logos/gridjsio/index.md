@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/grid-js/gridjs
+codehost: https://github.com/grid-js/gridjs
 logohandle: gridjsio
 sort: gridjs
 title: Grid.js

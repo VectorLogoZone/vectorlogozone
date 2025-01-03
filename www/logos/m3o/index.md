@@ -1,6 +1,6 @@
 ---
 blog: https://blog.m3o.com/
-codehost: https://github.com/https://github.com/m3o
+codehost: https://github.com/m3o
 linkedin: https://linkedin.com/company/micro-services-inc
 logohandle: m3o
 sort: m3o

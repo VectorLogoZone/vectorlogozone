@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Shopify/toxiproxy
+codehost: https://github.com/Shopify/toxiproxy
 logohandle: toxiproxyio
 sort: toxiproxy
 title: toxiproxy

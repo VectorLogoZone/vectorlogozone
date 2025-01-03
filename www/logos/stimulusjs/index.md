@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/stimulusjs/stimulus
+codehost: https://github.com/stimulusjs/stimulus
 logohandle: stimulusjs
 sort: stimulusjs
 title: StimulusJS

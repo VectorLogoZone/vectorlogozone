@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/phoboslab/qoi
+codehost: https://github.com/phoboslab/qoi
 logohandle: qoiformat
 sort: qoiformat
 title: QOI

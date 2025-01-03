@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/opencitations
+codehost: https://github.com/opencitations
 logohandle: opencitationsnet
 sort: opencitations
 title: OpenCitations

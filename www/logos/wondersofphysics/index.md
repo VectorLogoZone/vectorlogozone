@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kenwheeler/slick
+codehost: https://github.com/kenwheeler/slick
 facebook: https://facebook.com/wonderphy6
 instagram: https://instagram.com/wondersofphysics/
 logohandle: wondersofphysics

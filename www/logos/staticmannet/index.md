@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/eduardoboucas/staticman
+codehost: https://github.com/eduardoboucas/staticman
 logohandle: staticmannet
 sort: staticman
 title: Staticman

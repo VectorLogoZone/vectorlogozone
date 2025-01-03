@@ -1,6 +1,6 @@
 ---
 blog: https://blog.graph.cool/
-codehost: https://github.com/https://github.com/graphcool
+codehost: https://github.com/graphcool
 facebook: https://facebook.com/GraphcoolHQ
 images:
 - graphcool-ar21.svg

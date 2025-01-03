@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/zerossl
+codehost: https://github.com/zerossl
 facebook: https://facebook.com/ZeroSSL-109984184034784
 linkedin: https://linkedin.com/company/zerossl
 logohandle: zerossl

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/miniflux
+codehost: https://github.com/miniflux
 logohandle: minifluxapp
 sort: miniflux
 title: Miniflux

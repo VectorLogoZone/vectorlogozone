@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/slevithan/xregexp
+codehost: https://github.com/slevithan/xregexp
 font:
   myfonts: http://www.myfonts.com/fonts/ascender/cambria/regular/
   name: Cambria Regular

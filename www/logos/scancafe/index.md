@@ -1,6 +1,6 @@
 ---
 blog: https://www.scancafe.com/blog/
-codehost: https://github.com/https://github.com/scancafe
+codehost: https://github.com/scancafe
 facebook: https://www.facebook.com/scancafehome
 images:
 - scancafe-icon.svg

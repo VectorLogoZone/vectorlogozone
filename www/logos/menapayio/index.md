@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/menapay
-codehost: https://github.com/https://github.com/menapay
+codehost: https://github.com/menapay
 facebook: https://facebook.com/menapayio
 instagram: https://instagram.com/menapay
 logohandle: menapayio

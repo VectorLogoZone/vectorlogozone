@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/FreshRSS/FreshRSS
+codehost: https://github.com/FreshRSS/FreshRSS
 logohandle: freshrss
 sort: freshrss
 title: FreshRSS

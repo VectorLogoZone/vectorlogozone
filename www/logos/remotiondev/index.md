@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/JonnyBurger/remotion
+codehost: https://github.com/JonnyBurger/remotion
 logohandle: remotiondev
 sort: remotion
 title: Remotion

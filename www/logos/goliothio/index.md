@@ -1,6 +1,6 @@
 ---
 blog: https://blog.golioth.io/
-codehost: https://github.com/https://github.com/golioth
+codehost: https://github.com/golioth
 linkedin: https://linkedin.com/company/golioth
 logohandle: goliothio
 sort: golioth

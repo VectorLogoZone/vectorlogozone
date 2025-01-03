@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/infernojs
+codehost: https://github.com/infernojs
 logohandle: infernojs
 sort: infernojs
 title: Inferno

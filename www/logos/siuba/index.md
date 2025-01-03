@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/machow/siuba
+codehost: https://github.com/machow/siuba
 logohandle: siuba
 sort: siuba
 title: Siuba

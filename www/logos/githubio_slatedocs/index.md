@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/slatedocs/slate
+codehost: https://github.com/slatedocs/slate
 logohandle: githubio_slatedocs
 sort: slatedocs
 title: Slate Docs

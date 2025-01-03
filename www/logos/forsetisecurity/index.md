@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/forseti-security/forseti-security
+codehost: https://github.com/forseti-security/forseti-security
 logohandle: forsetisecurity
 sort: forsetisecurity
 title: Forseti Security

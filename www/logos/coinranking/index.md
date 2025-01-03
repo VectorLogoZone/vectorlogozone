@@ -1,6 +1,6 @@
 ---
 blog: https://coinranking.com/blog
-codehost: https://github.com/https://github.com/coinranking
+codehost: https://github.com/coinranking
 facebook: https://facebook.com/CoinrankingOfficial
 instagram: https://instagram.com/coinrankingofficial
 linkedin: https://linkedin.com/company/coinranking

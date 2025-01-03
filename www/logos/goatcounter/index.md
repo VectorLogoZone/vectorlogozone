@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/zgoat/goatcounter
+codehost: https://github.com/zgoat/goatcounter
 logohandle: goatcounter
 sort: goatcounter
 title: GoatCounter

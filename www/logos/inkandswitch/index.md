@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/inkandswitch
+codehost: https://github.com/inkandswitch
 logohandle: inkandswitch
 sort: inkandswitch
 title: Ink & Switch

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.openode.io/
-codehost: https://github.com/https://github.com/openode-io
+codehost: https://github.com/openode-io
 facebook: https://facebook.com/openodeio
 logohandle: openodeio
 sort: openode

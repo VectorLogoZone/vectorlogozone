@@ -1,6 +1,6 @@
 ---
 blog: https://carbonrelay.com/blog
-codehost: https://github.com/https://github.com/redskyops
+codehost: https://github.com/redskyops
 facebook: https://facebook.com/carbonrelayai
 linkedin: http://linkedin.com/company/carbonrelay
 logohandle: carbonrelay

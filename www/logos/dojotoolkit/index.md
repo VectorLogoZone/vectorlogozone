@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dojo
+codehost: https://github.com/dojo
 facebook: https://facebook.com/groups/4375511291
 googleplus: https://plus.google.com/106701567946037375891/posts
 logohandle: dojotoolkit

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/SimpleMobileTools
+codehost: https://github.com/SimpleMobileTools
 facebook: https://facebook.com/simplemobiletools
 logohandle: simplemobiletools
 sort: simplemobiletools

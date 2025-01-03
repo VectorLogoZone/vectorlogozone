@@ -1,6 +1,6 @@
 ---
 blog: https://blog.freecad.org/
-codehost: https://github.com/https://github.com/FreeCAD/FreeCAD
+codehost: https://github.com/FreeCAD/FreeCAD
 facebook: https://facebook.com/FreeCAD
 linkedin: https://linkedin.com/groups/4295230
 logohandle: freecad

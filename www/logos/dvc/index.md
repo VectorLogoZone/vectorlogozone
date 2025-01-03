@@ -1,6 +1,6 @@
 ---
 blog: https://dvc.org/blog/
-codehost: https://github.com/https://github.com/iterative/dvc
+codehost: https://github.com/iterative/dvc
 linkedin: https://linkedin.com/company/iterative-ai
 logohandle: dvc
 sort: dvc

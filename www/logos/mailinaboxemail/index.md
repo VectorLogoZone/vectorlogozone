@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mail-in-a-box/mailinabox
+codehost: https://github.com/mail-in-a-box/mailinabox
 logohandle: mailinaboxemail
 sort: mailinabox
 title: Mail-in-a-Box

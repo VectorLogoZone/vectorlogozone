@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lagonapp/lagon
+codehost: https://github.com/lagonapp/lagon
 logohandle: lagonapp
 sort: lagon
 title: Lagon

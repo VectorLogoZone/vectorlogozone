@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/reakit/reakit
+codehost: https://github.com/reakit/reakit
 facebook: https://facebook.com/reakitjs
 logohandle: reakitio
 sort: reakit

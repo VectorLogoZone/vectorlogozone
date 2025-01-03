@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebook/yoga
+codehost: https://github.com/facebook/yoga
 logohandle: yogalayout
 sort: yogalayout
 title: Yoga Layout

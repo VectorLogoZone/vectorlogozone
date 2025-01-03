@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/drud/ddev
+codehost: https://github.com/drud/ddev
 logohandle: ddev
 sort: ddev
 title: DDEV

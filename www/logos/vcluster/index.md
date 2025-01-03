@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/loft-sh/vcluster
+codehost: https://github.com/loft-sh/vcluster
 logohandle: vcluster
 sort: vcluster
 title: vCluster

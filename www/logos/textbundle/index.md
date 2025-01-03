@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/textbundle
+codehost: https://github.com/textbundle
 logohandle: textbundle
 sort: textbundle
 title: TextBundle

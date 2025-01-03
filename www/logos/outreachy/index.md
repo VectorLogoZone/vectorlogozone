@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/outreachy/website
+codehost: https://github.com/outreachy/website
 logohandle: outreachy
 sort: outreachy
 title: Outreachy

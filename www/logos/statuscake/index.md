@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/topics/statuscake
+codehost: https://github.com/topics/statuscake
 facebook: https://facebook.com/statuscake
 linkedin: https://linkedin.com/company/statuscake
 logohandle: statuscake

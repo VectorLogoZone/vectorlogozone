@@ -1,6 +1,6 @@
 ---
 blog: https://bluefyre.io/blog
-codehost: https://github.com/https://github.com/bluefyreio
+codehost: https://github.com/bluefyreio
 logohandle: bluefyreio
 sort: bluefyre
 title: Bluefyre

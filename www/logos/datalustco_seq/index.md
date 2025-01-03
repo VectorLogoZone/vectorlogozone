@@ -1,6 +1,6 @@
 ---
 blog: https://blog.datalust.co/
-codehost: https://github.com/https://github.com/datalust/seqcli
+codehost: https://github.com/datalust/seqcli
 logohandle: datalustco_seq
 sort: seq
 title: Seq

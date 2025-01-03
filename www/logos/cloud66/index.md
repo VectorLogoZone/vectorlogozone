@@ -1,6 +1,6 @@
 ---
 blog: http://blog.cloud66.com/
-codehost: https://github.com/https://github.com/cloud66
+codehost: https://github.com/cloud66
 logohandle: cloud66
 sort: cloud66
 title: Cloud 66

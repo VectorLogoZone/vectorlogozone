@@ -1,6 +1,6 @@
 ---
 blog: http://www.erlang.org/news
-codehost: https://github.com/https://github.com/erlang
+codehost: https://github.com/erlang
 font:
   myfonts: http://www.myfonts.com/fonts/urw/futura/sctdem/
   name: Futura SC Demi

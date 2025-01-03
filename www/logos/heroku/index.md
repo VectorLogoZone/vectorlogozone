@@ -1,6 +1,6 @@
 ---
 blog: https://blog.heroku.com/feed
-codehost: https://github.com/https://github.com/heroku
+codehost: https://github.com/heroku
 facebook: https://facebook.com/heroku
 font:
   myfonts: https://www.myfonts.com/fonts/typodermic/hybrea/

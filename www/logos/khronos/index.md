@@ -1,6 +1,6 @@
 ---
 blog: https://khronos.org/blog/
-codehost: https://github.com/https://github.com/KhronosGroup
+codehost: https://github.com/KhronosGroup
 logohandle: khronos
 sort: khronos
 title: Khronos Group

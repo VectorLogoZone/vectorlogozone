@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wowchemy/wowchemy-hugo-modules
+codehost: https://github.com/wowchemy/wowchemy-hugo-modules
 facebook: https://facebook.com/wowchemy
 logohandle: wowchemy
 sort: wowchemy

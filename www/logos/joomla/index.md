@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/joomla
+codehost: https://github.com/joomla
 facebook: https://facebook.com/joomla
 googleplus: https://plus.google.com/+joomla/posts
 instagram: https://instagram.com/joomlaofficial

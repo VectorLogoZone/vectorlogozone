@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kiegroup/optaplanner
+codehost: https://github.com/kiegroup/optaplanner
 facebook: https://facebook.com/OptaPlanner
 logohandle: optaplanner
 sort: optaplanner

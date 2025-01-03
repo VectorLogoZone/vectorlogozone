@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jitsucom/jitsu
+codehost: https://github.com/jitsucom/jitsu
 logohandle: jitsu
 sort: jitsu
 title: Jitsu

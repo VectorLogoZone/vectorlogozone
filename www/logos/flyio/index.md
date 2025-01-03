@@ -1,6 +1,6 @@
 ---
 blog: https://fly.io/articles/
-codehost: https://github.com/https://github.com/superfly
+codehost: https://github.com/superfly
 facebook: https://www.facebook.com/flydotio
 images:
 - flyio-icon.svg

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Picolab
+codehost: https://github.com/Picolab
 logohandle: picolabsio
 sort: picolabs
 title: Pico Labs

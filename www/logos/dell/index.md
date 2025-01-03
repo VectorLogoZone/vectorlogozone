@@ -1,6 +1,6 @@
 ---
 blog: https://blog.dell.com/
-codehost: https://github.com/https://github.com/dell
+codehost: https://github.com/dell
 colors:
 - '#007DB8'
 facebook: http://www.facebook.com/dell

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cyclic-software
+codehost: https://github.com/cyclic-software
 logohandle: cyclicsh
 sort: cyclicsh
 title: Cyclic.sh

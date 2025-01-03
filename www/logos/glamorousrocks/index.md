@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/paypal/glamorous
+codehost: https://github.com/paypal/glamorous
 logohandle: glamorousrocks
 sort: glamorous
 title: glamorous

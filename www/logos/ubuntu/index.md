@@ -1,6 +1,6 @@
 ---
 blog: https://community.ubuntu.com/c/announcements
-codehost: https://github.com/https://github.com/ubuntu
+codehost: https://github.com/ubuntu
 facebook: https://www.facebook.com/ubuntulinux/
 font:
   myfonts: https://www.myfonts.com/fonts/nm-concept-ltd/corisande/regular/

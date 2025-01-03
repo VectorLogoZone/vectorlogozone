@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebook/flipper
+codehost: https://github.com/facebook/flipper
 facebook: https://facebook.com/fbflipper/public/mac
 logohandle: fbflipper
 sort: flipper

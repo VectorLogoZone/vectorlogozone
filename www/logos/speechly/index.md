@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/speechly
+codehost: https://github.com/speechly
 linkedin: https://linkedin.com/company/speechly
 logohandle: speechly
 sort: speechly

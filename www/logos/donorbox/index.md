@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/donorbox/donorbox-api
+codehost: https://github.com/donorbox/donorbox-api
 facebook: https://facebook.com/donorbox
 linkedin: https://linkedin.com/company/donorbox
 logohandle: donorbox

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cypress-io/cypress
+codehost: https://github.com/cypress-io/cypress
 facebook: https://facebook.com/cypressio
 logohandle: cypressio
 sort: cypress

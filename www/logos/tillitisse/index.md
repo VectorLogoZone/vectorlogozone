@@ -1,6 +1,6 @@
 ---
 blog: https://tillitis.se/blog
-codehost: https://github.com/https://github.com/tillitis
+codehost: https://github.com/tillitis
 linkedin: https://linkedin.com/company/tillitis-ab
 logohandle: tillitisse
 sort: tillitis

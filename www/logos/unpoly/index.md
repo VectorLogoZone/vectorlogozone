@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/unpoly/unpoly
+codehost: https://github.com/unpoly/unpoly
 logohandle: unpoly
 sort: unpoly
 title: Unpoly

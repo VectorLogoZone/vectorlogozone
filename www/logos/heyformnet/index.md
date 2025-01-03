@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/heyform/heyform
+codehost: https://github.com/heyform/heyform
 facebook: https://facebook.com/HeyformHQ
 linkedin: https://linkedin.com/company/heyform
 logohandle: heyformnet

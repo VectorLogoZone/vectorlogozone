@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/brightid
-codehost: https://github.com/https://github.com/BrightID
+codehost: https://github.com/BrightID
 logohandle: brightid
 sort: brightid
 title: BrightID

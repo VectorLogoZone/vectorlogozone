@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/getsheety
+codehost: https://github.com/getsheety
 logohandle: sheetyco
 sort: sheety
 title: Sheety

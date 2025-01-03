@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/downshift-js/downshift
+codehost: https://github.com/downshift-js/downshift
 logohandle: downshift-js
 sort: downshiftjs
 title: Downshift.js

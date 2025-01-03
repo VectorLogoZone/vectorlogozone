@@ -1,6 +1,6 @@
 ---
 blog: https://blog.warp.dev/
-codehost: https://github.com/https://github.com/warpdotdev/warp
+codehost: https://github.com/warpdotdev/warp
 logohandle: warpdev
 sort: warp
 title: Warp

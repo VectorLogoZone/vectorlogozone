@@ -1,6 +1,6 @@
 ---
 blog: https://blog.sonarsource.com/
-codehost: https://github.com/https://github.com/SonarSource/sonarqube
+codehost: https://github.com/SonarSource/sonarqube
 logohandle: sonarqube
 sort: sonarqube
 title: SonarQube

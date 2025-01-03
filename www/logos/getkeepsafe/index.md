@@ -1,6 +1,6 @@
 ---
 blog: https://blog.getkeepsafe.com/
-codehost: https://github.com/https://github.com/Keepsafe
+codehost: https://github.com/Keepsafe
 facebook: https://facebook.com/getkeepsafe
 googleplus: https://plus.google.com/u/0/b/111313463249859686458/+Getkeepsafe
 instagram: https://instagram.com/getkeepsafe

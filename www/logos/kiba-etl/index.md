@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/thbar/kiba-common
+codehost: https://github.com/thbar/kiba-common
 logohandle: kiba-etl
 sort: kiba-etl
 title: Kiba ETL

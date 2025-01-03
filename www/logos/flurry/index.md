@@ -1,6 +1,6 @@
 ---
 blog: https://flurry.com/blog
-codehost: https://github.com/https://github.com/flurry
+codehost: https://github.com/flurry
 facebook: https://facebook.com/FlurryMobile
 linkedin: https://linkedin.com/company/flurry-inc-
 logohandle: flurry

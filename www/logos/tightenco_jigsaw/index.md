@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tighten/jigsaw
+codehost: https://github.com/tighten/jigsaw
 logohandle: tightenco_jigsaw
 sort: jigsaw
 title: Jigsaw

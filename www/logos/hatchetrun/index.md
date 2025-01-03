@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hatchet-dev/hatchet
+codehost: https://github.com/hatchet-dev/hatchet
 logohandle: hatchetrun
 sort: hatchet
 title: Hatchet

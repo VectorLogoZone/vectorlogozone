@@ -1,6 +1,6 @@
 ---
 blog: https://blog.codepen.io/
-codehost: https://github.com/https://github.com/CodePen
+codehost: https://github.com/CodePen
 facebook: https://www.facebook.com/CodePen/
 flickr: https://www.flickr.com/photos/codepen/
 guide: https://blog.codepen.io/documentation/brand-assets/logos/

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.sentry.io/
-codehost: https://github.com/https://github.com/getsentry
+codehost: https://github.com/getsentry
 facebook: https://facebook.com/getsentry
 logohandle: sentryio
 sort: sentry

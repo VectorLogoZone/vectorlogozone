@@ -1,6 +1,6 @@
 ---
 blog: https://onesignal.com/blog
-codehost: https://github.com/https://github.com/OneSignal
+codehost: https://github.com/OneSignal
 facebook: https://facebook.com/onesignalapp
 instagram: https://instagram.com/onesignal
 linkedin: https://linkedin.com/company/onesignal

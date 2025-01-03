@@ -1,6 +1,6 @@
 ---
 blog: https://blog.scaleway.com/
-codehost: https://github.com/https://github.com/scaleway
+codehost: https://github.com/scaleway
 facebook: https://facebook.com/scaleway
 instagram: https://instagram.com/scaleway
 linkedin: https://linkedin.com/company/scaleway

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.openziti.io/
-codehost: https://github.com/https://github.com/openziti/ziti
+codehost: https://github.com/openziti/ziti
 logohandle: openzitiio
 sort: openziti
 title: OpenZiti

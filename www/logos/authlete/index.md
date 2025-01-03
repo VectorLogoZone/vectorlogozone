@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/authlete
+codehost: https://github.com/authlete
 facebook: https://facebook.com/authlete
 linkedin: https://linkedin.com/company/authlete
 logohandle: authlete

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/LoginRadius
+codehost: https://github.com/LoginRadius
 facebook: https://facebook.com/loginradius
 linkedin: https://linkedin.com/company/loginradius
 logohandle: loginradius

@@ -1,6 +1,6 @@
 ---
 blog: https://exasol.com/en/blog
-codehost: https://github.com/https://github.com/exasol
+codehost: https://github.com/exasol
 facebook: https://facebook.com/exasolag
 instagram: https://instagram.com/exasolag
 linkedin: https://linkedin.com/company/exasol-ag

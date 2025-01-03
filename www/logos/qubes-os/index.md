@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/QubesOS
+codehost: https://github.com/QubesOS
 facebook: https://facebook.com/QubesOS
 logohandle: qubes-os
 sort: qubes-os

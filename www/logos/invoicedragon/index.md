@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/LaniJ/Invoice-Receipt-Generator
+codehost: https://github.com/LaniJ/Invoice-Receipt-Generator
 logohandle: invoicedragon
 sort: invoicedragon
 title: Invoice Dragon

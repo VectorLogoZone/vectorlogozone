@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/glimpse-editor/Glimpse
+codehost: https://github.com/glimpse-editor/Glimpse
 logohandle: glimpse-editor
 sort: glimpse
 title: Glimpse

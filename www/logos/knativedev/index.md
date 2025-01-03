@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/knative
+codehost: https://github.com/knative
 logohandle: knativedev
 sort: knative
 title: Knative

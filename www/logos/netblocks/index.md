@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hubgit/9547763
+codehost: https://github.com/hubgit/9547763
 facebook: https://facebook.com/netblocks
 linkedin: https://linkedin.com/company/netblocks
 logohandle: netblocks

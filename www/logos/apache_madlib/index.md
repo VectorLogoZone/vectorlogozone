@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/madlib
+codehost: https://github.com/apache/madlib
 logohandle: apache_madlib
 sort: madlib
 title: Apache MADlib

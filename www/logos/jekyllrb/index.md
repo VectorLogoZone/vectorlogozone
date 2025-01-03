@@ -1,6 +1,6 @@
 ---
 blog: https://jekyllrb.com/news/
-codehost: https://github.com/https://github.com/jekyll
+codehost: https://github.com/jekyll
 guide: https://github.com/jekyll/brand
 images:
 - jekyllrb-icon.svg

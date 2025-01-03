@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/grafana/mimir
+codehost: https://github.com/grafana/mimir
 facebook: https://facebook.com/grafana
 logohandle: grafana_mimir
 sort: mimir

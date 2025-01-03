@@ -1,6 +1,6 @@
 ---
 blog: https://blog.getbootstrap.com/
-codehost: https://github.com/https://github.com/twbs/bootstrap
+codehost: https://github.com/twbs/bootstrap
 images:
 - getbootstrap-icon.svg
 - getbootstrap-ar21.svg

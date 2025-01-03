@@ -1,6 +1,6 @@
 ---
 blog: https://eslint.org/blog
-codehost: https://github.com/https://github.com/eslint/eslint
+codehost: https://github.com/eslint/eslint
 logohandle: eslint
 sort: eslint
 title: ESLint

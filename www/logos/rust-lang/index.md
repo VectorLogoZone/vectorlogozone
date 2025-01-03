@@ -1,7 +1,7 @@
 ---
 activitypub: https://social.rust-lang.org/@rust
 blog: https://blog.rust-lang.org/
-codehost: https://github.com/https://github.com/rust-lang
+codehost: https://github.com/rust-lang
 discord: https://discord.gg/rust-lang
 font:
   google: https://fonts.google.com/specimen/Alfa+Slab+One

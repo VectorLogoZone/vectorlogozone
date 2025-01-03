@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pathwaycom
+codehost: https://github.com/pathwaycom
 linkedin: https://linkedin.com/company/pathway
 logohandle: pathway
 sort: pathway

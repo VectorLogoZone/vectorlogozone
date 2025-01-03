@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/monero-project
+codehost: https://github.com/monero-project
 guide: https://getmonero.org/press-kit/
 logohandle: getmonero
 reddit: https://reddit.com/r/monero

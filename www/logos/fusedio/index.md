@@ -1,6 +1,6 @@
 ---
 blog: https://docs.fused.io/blog
-codehost: https://github.com/https://github.com/fusedio/udfs
+codehost: https://github.com/fusedio/udfs
 linkedin: https://linkedin.com/company/fusedio
 logohandle: fusedio
 sort: fused

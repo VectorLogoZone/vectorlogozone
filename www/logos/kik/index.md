@@ -1,6 +1,6 @@
 ---
 blog: https://www.kik.com/news
-codehost: https://github.com/https://github.com/kikinteractive
+codehost: https://github.com/kikinteractive
 colors:
 - '#5DCD11'
 facebook: https://www.facebook.com/kikplaynice

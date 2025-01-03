@@ -1,6 +1,6 @@
 ---
 blog: https://heficed.com/blog
-codehost: https://github.com/https://github.com/heficed
+codehost: https://github.com/heficed
 facebook: https://facebook.com/Heficed
 linkedin: https://linkedin.com/company/heficed
 logohandle: heficed

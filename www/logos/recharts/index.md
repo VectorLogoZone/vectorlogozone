@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/recharts/recharts
+codehost: https://github.com/recharts/recharts
 logohandle: recharts
 sort: recharts
 title: Recharts

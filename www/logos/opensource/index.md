@@ -1,6 +1,6 @@
 ---
 blog: https://opensource.org/blog
-codehost: https://github.com/https://github.com/OpenSourceOrg
+codehost: https://github.com/OpenSourceOrg
 guide: https://opensource.org/logo-usage-guidelines
 images:
 - opensource-ar21.svg

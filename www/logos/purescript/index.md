@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/purescript/purescript
+codehost: https://github.com/purescript/purescript
 logohandle: purescript
 sort: purescript
 title: PureScript

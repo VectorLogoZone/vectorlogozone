@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/webpack
-codehost: https://github.com/https://github.com/webpack/webpack
+codehost: https://github.com/webpack/webpack
 guide: https://webpack.js.org/branding/
 images:
 - js_webpack-icon.svg

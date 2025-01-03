@@ -1,6 +1,6 @@
 ---
 blog: http://elm-lang.org/blog
-codehost: https://github.com/https://github.com/elm
+codehost: https://github.com/elm
 logohandle: elm-lang
 sort: elm-lang
 title: Elm

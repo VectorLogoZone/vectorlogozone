@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/yacy
+codehost: https://github.com/yacy
 logohandle: yacynet
 sort: yacy
 title: YaCy

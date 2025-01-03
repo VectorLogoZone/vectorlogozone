@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tajo/ladle
+codehost: https://github.com/tajo/ladle
 logohandle: ladledev
 sort: ladle
 title: Ladle

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/chaos-mesh/chaos-mesh
+codehost: https://github.com/chaos-mesh/chaos-mesh
 logohandle: chaos-mesh
 sort: chaos-mesh
 title: Chaos Mesh

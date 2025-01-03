@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ray-project/ray
+codehost: https://github.com/ray-project/ray
 logohandle: rayio
 sort: ray
 title: Ray

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/trailbaseio/trailbase
+codehost: https://github.com/trailbaseio/trailbase
 logohandle: trailbaseio
 sort: trailbase
 title: TrailBase

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.squarespace.com/
-codehost: https://github.com/https://github.com/squarespace
+codehost: https://github.com/squarespace
 facebook: http://facebook.com/squarespace
 googleplus: https://plus.google.com/108155307945418790534
 guide: https://www.squarespace.com/brand-guidelines/

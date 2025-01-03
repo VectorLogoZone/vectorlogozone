@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/CityOfPhiladelphia
+codehost: https://github.com/CityOfPhiladelphia
 facebook: https://facebook.com/cityofphiladelphia
 instagram: https://instagram.com/cityofphiladelphia
 linkedin: https://linkedin.com/showcase/phlcitycareers

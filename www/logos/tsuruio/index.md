@@ -1,6 +1,6 @@
 ---
 blog: https://blog.tsuru.io/
-codehost: https://github.com/https://github.com/tsuru
+codehost: https://github.com/tsuru
 logohandle: tsuruio
 sort: tsuru
 title: Tsuru

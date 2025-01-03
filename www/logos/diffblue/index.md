@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@DiffblueHQ
-codehost: https://github.com/https://github.com/diffblue
+codehost: https://github.com/diffblue
 facebook: https://facebook.com/AIforCode
 linkedin: http://linkedin.com/company/diffblue
 logohandle: diffblue

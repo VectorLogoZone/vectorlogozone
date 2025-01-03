@@ -1,6 +1,6 @@
 ---
 blog: https://blog.disqus.com/
-codehost: https://github.com/https://github.com/disqus
+codehost: https://github.com/disqus
 colors:
 - '#2E9FFF'
 facebook: https://www.facebook.com/disqus/

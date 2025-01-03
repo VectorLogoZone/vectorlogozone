@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/struts
+codehost: https://github.com/apache/struts
 facebook: https://facebook.com/apachestruts
 logohandle: apache_struts
 sort: struts

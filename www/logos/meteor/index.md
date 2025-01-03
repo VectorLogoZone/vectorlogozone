@@ -1,6 +1,6 @@
 ---
 blog: https://blog.meteor.com/
-codehost: https://github.com/https://github.com/meteor
+codehost: https://github.com/meteor
 facebook: https://www.facebook.com/meteorjs/
 images:
 - meteor-ar21.svg

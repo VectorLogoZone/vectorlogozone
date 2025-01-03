@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/delta-io/delta
+codehost: https://github.com/delta-io/delta
 logohandle: deltaio
 sort: deltalake
 title: Delta Lake

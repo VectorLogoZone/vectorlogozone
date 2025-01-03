@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/containous/maesh
+codehost: https://github.com/containous/maesh
 logohandle: maesh
 sort: maesh
 title: Maesh

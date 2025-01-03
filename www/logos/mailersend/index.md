@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mailersend
+codehost: https://github.com/mailersend
 facebook: https://facebook.com/MailerSend
 linkedin: https://linkedin.com/company/mailersend
 logohandle: mailersend

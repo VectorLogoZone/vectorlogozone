@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tomhodgins
+codehost: https://github.com/tomhodgins
 facebook: https://facebook.com/hashnode
 googleplus: https://plus.google.com/+Hashnode
 instagram: https://instagram.com/hashnode

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/microg
+codehost: https://github.com/microg
 logohandle: microg
 sort: microg
 title: microG

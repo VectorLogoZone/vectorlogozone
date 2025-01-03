@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/chatwoot/chatwoot
+codehost: https://github.com/chatwoot/chatwoot
 facebook: https://facebook.com/chatwootapp
 instagram: https://instagram.com/chatwoot
 linkedin: https://linkedin.com/company/chatwoot

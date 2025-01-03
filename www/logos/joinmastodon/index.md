@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tootsuite/mastodon
+codehost: https://github.com/tootsuite/mastodon
 guide: https://joinmastodon.org/branding
 images:
 - joinmastodon-tile.svg

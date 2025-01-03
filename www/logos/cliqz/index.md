@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cliqz-oss
+codehost: https://github.com/cliqz-oss
 facebook: https://facebook.com/cliqzde
 instagram: https://instagram.com/cliqzbrowser
 linkedin: https://linkedin.com/company/cliqz-gmbh

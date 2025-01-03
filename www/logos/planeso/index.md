@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/makeplane/plane
+codehost: https://github.com/makeplane/plane
 linkedin: https://linkedin.com/company/planepowers
 logohandle: planeso
 sort: plane

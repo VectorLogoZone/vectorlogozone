@@ -1,6 +1,6 @@
 ---
 blog: https://blog.getumbrel.com/
-codehost: https://github.com/https://github.com/getumbrel/umbrel
+codehost: https://github.com/getumbrel/umbrel
 logohandle: umbrel
 sort: umbrel
 title: Umbrel

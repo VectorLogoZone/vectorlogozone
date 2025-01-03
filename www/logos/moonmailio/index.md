@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/microapps/MoonMail
+codehost: https://github.com/microapps/MoonMail
 facebook: https://facebook.com/getmoonmail
 linkedin: https://linkedin.com/company/10267689
 logohandle: moonmailio

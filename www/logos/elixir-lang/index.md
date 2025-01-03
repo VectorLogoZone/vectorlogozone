@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/elixir-lang/elixir
+codehost: https://github.com/elixir-lang/elixir
 logohandle: elixir-lang
 sort: elixir-lang
 title: Elixir

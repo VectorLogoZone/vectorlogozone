@@ -1,6 +1,6 @@
 ---
 blog: https://blog.pulumi.com/
-codehost: https://github.com/https://github.com/pulumi
+codehost: https://github.com/pulumi
 linkedin: https://linkedin.com/company/pulumi
 logohandle: pulumiio
 sort: pulumi

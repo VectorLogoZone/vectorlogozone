@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/clojure/clojure
+codehost: https://github.com/clojure/clojure
 logohandle: clojure
 sort: clojure
 title: Clojure

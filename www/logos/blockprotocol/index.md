@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/blockprotocol
+codehost: https://github.com/blockprotocol
 logohandle: blockprotocol
 sort: blockprotocol
 title: Block Protocol

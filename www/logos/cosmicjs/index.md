@@ -1,6 +1,6 @@
 ---
 blog: https://cosmicjs.com/blog/how-to-choose-a-modern-cms-future-proof-your-content-2021
-codehost: https://github.com/https://github.com/cosmicjs
+codehost: https://github.com/cosmicjs
 colors:
 - '#29ABE2'
 - '#F7FBFC'

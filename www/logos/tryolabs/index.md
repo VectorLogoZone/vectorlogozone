@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tryolabs
+codehost: https://github.com/tryolabs
 facebook: https://facebook.com/tryolabs
 instagram: https://instagram.com/tryolabsteam
 linkedin: https://linkedin.com/company/tryolabs

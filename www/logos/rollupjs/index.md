@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/rollup/rollup
+codehost: https://github.com/rollup/rollup
 guide: https://rollupjs.org/logo.svg
 logohandle: rollupjs
 sort: rollupjs

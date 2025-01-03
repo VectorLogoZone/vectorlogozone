@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/takeshape
+codehost: https://github.com/takeshape
 facebook: https://facebook.com/takeshapeio
 instagram: http://instagram.com/takeshapeio
 linkedin: https://linkedin.com/company/takeshape-inc.

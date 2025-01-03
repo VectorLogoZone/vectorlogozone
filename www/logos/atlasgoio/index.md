@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ariga/atlas
+codehost: https://github.com/ariga/atlas
 logohandle: atlasgoio
 sort: atlasgo
 title: Atlas

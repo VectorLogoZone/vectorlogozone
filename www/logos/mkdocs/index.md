@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mkdocs/mkdocs
+codehost: https://github.com/mkdocs/mkdocs
 logohandle: mkdocs
 sort: mkdocs
 title: MkDocs

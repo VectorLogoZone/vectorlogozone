@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/parseablehq/parseable
+codehost: https://github.com/parseablehq/parseable
 linkedin: https://linkedin.com/company/parseable
 logohandle: parseableio
 sort: parseable

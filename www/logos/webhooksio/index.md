@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Webhooksio
+codehost: https://github.com/Webhooksio
 facebook: https://facebook.com/webhooksio
 googleplus: https://plus.google.com/+Webhooksio
 logohandle: webhooksio

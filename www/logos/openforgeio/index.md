@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/openforge
+codehost: https://github.com/openforge
 facebook: https://www.facebook.com/OpenForgeUS/
 instagram: https://www.instagram.com/openforgeteam/
 linkedin: https://www.linkedin.com/company/openforge/

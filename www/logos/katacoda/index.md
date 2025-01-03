@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/katacoda
+codehost: https://github.com/katacoda
 facebook: https://facebook.com/katacoda
 logohandle: katacoda
 sort: katacoda

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wyuenho/backgrid
+codehost: https://github.com/wyuenho/backgrid
 logohandle: backgridjs
 sort: backgridjs
 title: Backgrid.js

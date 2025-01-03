@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kanboard
+codehost: https://github.com/kanboard
 logohandle: kanboard
 sort: kanboard
 title: Kanboard

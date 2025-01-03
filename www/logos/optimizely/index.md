@@ -1,6 +1,6 @@
 ---
 blog: https://blog.optimizely.com/
-codehost: https://github.com/https://github.com/optimizely
+codehost: https://github.com/optimizely
 facebook: https://facebook.com/optimizely
 linkedin: https://linkedin.com/company/optimizely
 logohandle: optimizely

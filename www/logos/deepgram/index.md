@@ -1,6 +1,6 @@
 ---
 blog: https://blog.deepgram.com/
-codehost: https://github.com/https://github.com/deepgram
+codehost: https://github.com/deepgram
 dribbble: https://dribbble.com/deepgram
 facebook: https://facebook.com/deepgram
 linkedin: https://linkedin.com/company/deepgram

@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/therepm
-codehost: https://github.com/https://github.com/therehq
+codehost: https://github.com/therehq
 dribbble: https://dribbble.com/morajabi
 logohandle: thereteam
 other:

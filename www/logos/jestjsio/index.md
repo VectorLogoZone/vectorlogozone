@@ -1,6 +1,6 @@
 ---
 blog: https://jestjs.io/blog
-codehost: https://github.com/https://github.com/facebook/jest
+codehost: https://github.com/facebook/jest
 logohandle: jestjsio
 sort: jestjs
 title: Jest

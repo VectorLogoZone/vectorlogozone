@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hookdeck
+codehost: https://github.com/hookdeck
 linkedin: https://linkedin.com/company/hookdeck
 logohandle: hookdeck
 sort: hookdeck

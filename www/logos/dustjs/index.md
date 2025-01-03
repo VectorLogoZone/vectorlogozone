@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/linkedin/dustjs
+codehost: https://github.com/linkedin/dustjs
 logohandle: dustjs
 sort: dustjs
 title: Dust.js

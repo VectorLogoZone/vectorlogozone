@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Domain-Connect
+codehost: https://github.com/Domain-Connect
 guide: https://github.com/Domain-Connect/assets
 logohandle: domainconnect
 sort: domainconnect

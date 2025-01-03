@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/osohq/oso
+codehost: https://github.com/osohq/oso
 linkedin: https://linkedin.com/company/13056430
 logohandle: osohq
 sort: oso

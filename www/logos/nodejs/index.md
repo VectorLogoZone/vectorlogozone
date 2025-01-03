@@ -1,6 +1,6 @@
 ---
 blog: https://nodejs.org/en/blog/
-codehost: https://github.com/https://github.com/nodejs
+codehost: https://github.com/nodejs
 guide: https://github.com/nodejs/nodejs.org/tree/master/static/images
 images:
 - nodejs-icon.svg

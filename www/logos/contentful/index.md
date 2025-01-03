@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/contentful
+codehost: https://github.com/contentful
 linkedin: https://linkedin.com/company/contentful
 logohandle: contentful
 sort: contentful

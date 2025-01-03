@@ -1,6 +1,6 @@
 ---
 blog: https://blog.writefreely.org/
-codehost: https://github.com/https://github.com/writefreely/writefreely
+codehost: https://github.com/writefreely/writefreely
 logohandle: writefreely
 sort: writefreely
 title: WriteFreely

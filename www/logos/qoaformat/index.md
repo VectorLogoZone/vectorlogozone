@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/phoboslab/qoa
+codehost: https://github.com/phoboslab/qoa
 logohandle: qoaformat
 sort: qoaformat
 title: The Quite OK Audio Format

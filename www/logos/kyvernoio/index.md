@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kyverno/kyverno
+codehost: https://github.com/kyverno/kyverno
 logohandle: kyvernoio
 sort: kyverno
 title: Kyverno

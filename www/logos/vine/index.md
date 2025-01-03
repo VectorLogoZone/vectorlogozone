@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vine
+codehost: https://github.com/vine
 colors:
 - '#00BF8F'
 guide: http://brand.vine.co/

@@ -1,6 +1,6 @@
 ---
 blog: http://articles.fortawesome.com/
-codehost: https://github.com/https://github.com/FortAwesome/Font-Awesome
+codehost: https://github.com/FortAwesome/Font-Awesome
 font:
   myfonts: http://www.myfonts.com/fonts/exljbris/museo-slab/
   name: Museo Slab

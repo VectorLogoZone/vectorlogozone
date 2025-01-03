@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/scratchdata/ScratchDB
+codehost: https://github.com/scratchdata/ScratchDB
 logohandle: scratchdb
 sort: scratchdb
 title: ScratchDB

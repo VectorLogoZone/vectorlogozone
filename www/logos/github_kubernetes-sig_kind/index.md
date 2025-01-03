@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kubernetes-sigs/kind
+codehost: https://github.com/kubernetes-sigs/kind
 keywords:
 - Kubernetes IN Docker
 logohandle: github_kubernetes-sig_kind

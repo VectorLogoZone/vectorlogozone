@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ThreeDotsLabs
+codehost: https://github.com/ThreeDotsLabs
 linkedin: https://linkedin.com/company/three-dots-labs
 logohandle: threedotslabs
 sort: threedotslabs

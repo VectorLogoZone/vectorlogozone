@@ -1,6 +1,6 @@
 ---
 blog: https://mattermost.com/blog
-codehost: https://github.com/https://github.com/mattermost
+codehost: https://github.com/mattermost
 facebook: https://facebook.com/Mattermost-2300985916642531
 linkedin: https://linkedin.com/company/mattermost
 logohandle: mattermost

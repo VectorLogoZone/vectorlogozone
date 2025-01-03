@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mapd
+codehost: https://github.com/mapd
 facebook: https://facebook.com/mapdinc
 linkedin: https://linkedin.com/company/mapd
 logohandle: mapd

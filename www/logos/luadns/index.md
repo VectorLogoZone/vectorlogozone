@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/luadns
+codehost: https://github.com/luadns
 logohandle: luadns
 sort: luadns
 title: LuaDNS

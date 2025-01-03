@@ -1,6 +1,6 @@
 ---
 blog: https://haxe.org/blog
-codehost: https://github.com/https://github.com/HaxeFoundation
+codehost: https://github.com/HaxeFoundation
 facebook: https://www.facebook.com/haxe.org/
 images:
 - haxe-ar21.svg

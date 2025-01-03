@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/fnproject
-codehost: https://github.com/https://github.com/fnproject
+codehost: https://github.com/fnproject
 images:
 - fnproject-ar21.svg
 - fnproject-icon.svg

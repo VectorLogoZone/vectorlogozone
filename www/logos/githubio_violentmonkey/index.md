@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/violentmonkey/violentmonkey
+codehost: https://github.com/violentmonkey/violentmonkey
 logohandle: githubio_violentmonkey
 sort: violentmonkey
 title: Violent Monkey

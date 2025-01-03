@@ -1,6 +1,6 @@
 ---
 blog: http://www.scala-lang.org/blog/
-codehost: https://github.com/https://github.com/scala
+codehost: https://github.com/scala
 images:
 - scala-lang-ar21.svg
 - scala-lang-icon.svg

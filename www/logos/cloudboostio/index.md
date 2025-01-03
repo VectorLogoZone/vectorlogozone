@@ -1,6 +1,6 @@
 ---
 blog: https://blog.cloudboost.io/
-codehost: https://github.com/https://github.com/CloudBoost/whatsapp
+codehost: https://github.com/CloudBoost/whatsapp
 facebook: https://facebook.com/cloudboost.io
 logohandle: cloudboostio
 sort: cloudboost

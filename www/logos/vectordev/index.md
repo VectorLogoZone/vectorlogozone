@@ -1,6 +1,6 @@
 ---
 blog: https://vector.dev/blog/
-codehost: https://github.com/https://github.com/timberio/vector
+codehost: https://github.com/timberio/vector
 guide: https://vector.dev/press/
 logohandle: vectordev
 sort: vector

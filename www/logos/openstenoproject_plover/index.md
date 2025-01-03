@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/openstenoproject/plover
+codehost: https://github.com/openstenoproject/plover
 logohandle: openstenoproject_plover
 sort: plover
 title: Plover

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jodconverter/jodconverter
+codehost: https://github.com/jodconverter/jodconverter
 logohandle: github_jodconverter
 sort: jodconverter
 title: JOD Converter

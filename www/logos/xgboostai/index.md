@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dmlc/xgboost
+codehost: https://github.com/dmlc/xgboost
 logohandle: xgboostai
 sort: xgboost
 title: XGBoost

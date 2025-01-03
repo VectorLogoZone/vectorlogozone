@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/koj-co
+codehost: https://github.com/koj-co
 facebook: https://facebook.com/joinkoj
 instagram: https://instagram.com/joinkoj
 linkedin: https://linkedin.com/company/koj

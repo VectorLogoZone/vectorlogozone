@@ -1,6 +1,6 @@
 ---
 blog: https://the-guild.dev/blog
-codehost: https://github.com/https://github.com/the-guild-org
+codehost: https://github.com/the-guild-org
 linkedin: https://linkedin.com/company/the-guild-software
 logohandle: the-guilddev
 sort: guild

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.quora.com/
-codehost: https://github.com/https://github.com/quora
+codehost: https://github.com/quora
 facebook: https://www.facebook.com/quora
 images:
 - quora-card.png

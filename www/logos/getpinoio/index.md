@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pinojs/pino
+codehost: https://github.com/pinojs/pino
 font:
   name: Milliard (not exact)
 gitter: https://gitter.im/pinojs/pino

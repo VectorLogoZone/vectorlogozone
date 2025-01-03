@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/signalfx
+codehost: https://github.com/signalfx
 facebook: https://facebook.com/SignalFxInc
 linkedin: https://linkedin.com/company/signalfx
 logohandle: signalfx

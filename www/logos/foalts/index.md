@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/FoalTS/foal
+codehost: https://github.com/FoalTS/foal
 logohandle: foalts
 sort: foalts
 title: Foal TS

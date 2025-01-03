@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/unicorn-engine/unicorn
+codehost: https://github.com/unicorn-engine/unicorn
 logohandle: unicorn-engine
 sort: unicorn-engine
 title: Unicorn Emulator

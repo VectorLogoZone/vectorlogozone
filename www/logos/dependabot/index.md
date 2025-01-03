@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dependabot
+codehost: https://github.com/dependabot
 logohandle: dependabot
 sort: dependabot
 title: Dependabot

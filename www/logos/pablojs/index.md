@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/premasagar/pablo
+codehost: https://github.com/premasagar/pablo
 logohandle: pablojs
 sort: pablojs
 title: Pablo.js

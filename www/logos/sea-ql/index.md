@@ -1,6 +1,6 @@
 ---
 blog: https://sea-ql.org/blog
-codehost: https://github.com/https://github.com/SeaQL/sea-orm
+codehost: https://github.com/SeaQL/sea-orm
 logohandle: sea-ql
 sort: seaql
 title: SeaQL

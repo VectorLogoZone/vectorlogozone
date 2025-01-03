@@ -1,6 +1,6 @@
 ---
 blog: http://blog.screwdriver.cd/
-codehost: https://github.com/https://github.com/screwdriver-cd
+codehost: https://github.com/screwdriver-cd
 logohandle: screwdrivercd
 sort: screwdriver
 title: screwdriver

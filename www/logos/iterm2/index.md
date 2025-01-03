@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gnachman/iTerm2
+codehost: https://github.com/gnachman/iTerm2
 logohandle: iterm2
 sort: iterm2
 title: iTerm2

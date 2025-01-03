@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/drizzle-team
+codehost: https://github.com/drizzle-team
 logohandle: drizzleteam
 sort: drizzle
 title: Drizzle Team

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.docker.com/
-codehost: https://github.com/https://github.com/docker/docker
+codehost: https://github.com/docker/docker
 colors:
 - '#136EA3'
 facebook: https://www.facebook.com/docker.run

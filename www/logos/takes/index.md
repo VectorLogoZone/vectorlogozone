@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/yegor256/takes
+codehost: https://github.com/yegor256/takes
 logohandle: takes
 sort: takes
 title: takes.org

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/palantir/blueprint
+codehost: https://github.com/palantir/blueprint
 logohandle: blueprintjs
 sort: blueprintjs
 title: BlueprintJS

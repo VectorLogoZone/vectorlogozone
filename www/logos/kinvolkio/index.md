@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kinvolk
+codehost: https://github.com/kinvolk
 facebook: https://facebook.com/kinvolk
 linkedin: https://linkedin.com/company/kinvolk
 logohandle: kinvolkio

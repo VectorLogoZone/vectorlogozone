@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jaredhanson/passport
+codehost: https://github.com/jaredhanson/passport
 facebook: https://facebook.com/passportjs
 logohandle: passportjs
 sort: passportjs

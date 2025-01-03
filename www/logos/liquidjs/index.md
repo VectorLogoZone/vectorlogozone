@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/harttle/liquidjs
+codehost: https://github.com/harttle/liquidjs
 logohandle: liquidjs
 sort: liquidjs
 title: LiquidJS

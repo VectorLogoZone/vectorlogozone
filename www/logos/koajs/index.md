@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/koajs/koa
+codehost: https://github.com/koajs/koa
 font:
   google: https://fonts.google.com/specimen/Italiana
   name: Italiana

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pushy
+codehost: https://github.com/pushy
 logohandle: pushyme
 sort: pushy
 title: Pushy

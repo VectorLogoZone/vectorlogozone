@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jc21/nginx-proxy-manager
+codehost: https://github.com/jc21/nginx-proxy-manager
 logohandle: nginxproxymanager
 sort: nginxproxymanager
 title: Nginx Proxy Manager

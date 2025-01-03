@@ -1,6 +1,6 @@
 ---
 blog: https://statamic.com/blog
-codehost: https://github.com/https://github.com/statamic
+codehost: https://github.com/statamic
 facebook: https://facebook.com/statamic
 logohandle: statamic
 sort: statamic

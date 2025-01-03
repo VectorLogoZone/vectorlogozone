@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/unidoc
+codehost: https://github.com/unidoc
 linkedin: https://linkedin.com/company/unidoclib
 logohandle: unidocio
 sort: unidoc

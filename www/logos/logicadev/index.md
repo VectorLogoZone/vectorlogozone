@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/EvgSkv/logica
+codehost: https://github.com/EvgSkv/logica
 logohandle: logicadev
 sort: logica
 title: Logica

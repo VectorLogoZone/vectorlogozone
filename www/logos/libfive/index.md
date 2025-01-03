@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/libfive/libfive
+codehost: https://github.com/libfive/libfive
 logohandle: libfive
 sort: libfive
 title: libfive

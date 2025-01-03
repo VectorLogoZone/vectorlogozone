@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/linuxserver
+codehost: https://github.com/linuxserver
 facebook: https://facebook.com/linuxserver.io
 logohandle: linuxserverio
 sort: linuxserver

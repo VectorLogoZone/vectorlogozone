@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/stylus/stylus
+codehost: https://github.com/stylus/stylus
 logohandle: stylus-lang
 sort: stylus
 title: Stylus

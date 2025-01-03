@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Impactstory
+codehost: https://github.com/Impactstory
 logohandle: unpaywall
 sort: unpaywall
 title: Unpaywall

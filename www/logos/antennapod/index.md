@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/antennapod/AntennaPod
+codehost: https://github.com/antennapod/AntennaPod
 logohandle: antennapod
 sort: antennapod
 title: AntennaPod

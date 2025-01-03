@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/asciidoctor
+codehost: https://github.com/asciidoctor
 googleplus: https://plus.google.com/116431294697916948181
 logohandle: asciidoctor
 sort: asciidoctor

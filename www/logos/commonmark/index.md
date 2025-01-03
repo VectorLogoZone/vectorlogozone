@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/commonmark
+codehost: https://github.com/commonmark
 guide: https://github.com/dcurtis/markdown-mark
 images:
 - commonmark-icon.svg

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/saojs/sao
+codehost: https://github.com/saojs/sao
 logohandle: js_sao
 sort: sao
 title: SAO

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cesanta/mongoose
+codehost: https://github.com/cesanta/mongoose
 facebook: https://facebook.com/Cesanta-457367447755484/timeline
 linkedin: https://linkedin.com/company/cesanta-software
 logohandle: mongoosews

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/estuary/flow
+codehost: https://github.com/estuary/flow
 linkedin: https://linkedin.com/company/65266256
 logohandle: estuarydev
 sort: estuary

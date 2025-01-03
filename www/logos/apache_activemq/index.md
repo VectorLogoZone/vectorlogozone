@@ -1,6 +1,6 @@
 ---
 blog: http://activemq.apache.org/news.html
-codehost: https://github.com/https://github.com/apache/activemq
+codehost: https://github.com/apache/activemq
 guide: https://github.com/apache/activemq/tree/master/docs/img
 images:
 - apache_activemq-icon.svg

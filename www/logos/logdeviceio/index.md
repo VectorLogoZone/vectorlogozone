@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebookincubator/LogDevice
+codehost: https://github.com/facebookincubator/LogDevice
 facebook: https://facebook.com/groups/logdevice.oss
 logohandle: logdeviceio
 sort: logdevice

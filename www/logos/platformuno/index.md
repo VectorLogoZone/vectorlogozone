@@ -1,6 +1,6 @@
 ---
 blog: https://platform.uno/blog
-codehost: https://github.com/https://github.com/nventive/Uno
+codehost: https://github.com/nventive/Uno
 linkedin: https://linkedin.com/company/11774002
 logohandle: platformuno
 sort: uno

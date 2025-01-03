@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ecere
+codehost: https://github.com/ecere
 facebook: https://facebook.com/EcereSDK
 linkedin: https://linkedin.com/company/ecere-corporation
 logohandle: ecereca

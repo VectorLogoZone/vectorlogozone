@@ -1,6 +1,6 @@
 ---
 blog: https://js.foundation/blog
-codehost: https://github.com/https://github.com/JSFoundation
+codehost: https://github.com/JSFoundation
 linkedin: https://linkedin.com/company/js-foundation
 logohandle: jsfoundation
 sort: js

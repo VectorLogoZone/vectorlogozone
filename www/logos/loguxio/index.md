@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/logux
+codehost: https://github.com/logux
 guide: https://logux.io/branding/
 logohandle: loguxio
 sort: logux

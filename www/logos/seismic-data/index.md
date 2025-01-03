@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/SeismicData
+codehost: https://github.com/SeismicData
 logohandle: seismic-data
 sort: seismic-data
 title: Seismic Data

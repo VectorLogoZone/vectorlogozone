@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tumblr
+codehost: https://github.com/tumblr
 facebook: https://www.facebook.com/tumblr/
 font:
   myfonts: https://www.myfonts.com/fonts/mti/bookman-old-style/

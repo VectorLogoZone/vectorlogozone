@@ -1,6 +1,6 @@
 ---
 blog: https://cucumber.io/blog
-codehost: https://github.com/https://github.com/cucumber
+codehost: https://github.com/cucumber
 gitter: https://gitter.im/orgs/cucumber/rooms
 images:
 - cucumberio-ar21.svg

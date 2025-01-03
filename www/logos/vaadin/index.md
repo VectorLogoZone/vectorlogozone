@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vaadin
+codehost: https://github.com/vaadin
 facebook: https://facebook.com/vaadin
 instagram: https://instagram.com/vaadin
 linkedin: https://linkedin.com/company/vaadin

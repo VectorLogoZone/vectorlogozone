@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Kong/kong
+codehost: https://github.com/Kong/kong
 facebook: https://www.facebook.com/konghq/
 images:
 - konghq-ar21.svg

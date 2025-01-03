@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/SentryPeer/SentryPeer
+codehost: https://github.com/SentryPeer/SentryPeer
 logohandle: sentrypeer
 sort: sentrypeer
 title: SentryPeer

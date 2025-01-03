@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gbif
+codehost: https://github.com/gbif
 facebook: https://facebook.com/gbifnews
 instagram: https://instagram.com/gbifs
 keywords:

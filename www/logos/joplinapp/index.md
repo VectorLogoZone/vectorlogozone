@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/laurent22/joplin
+codehost: https://github.com/laurent22/joplin
 logohandle: joplinapp
 sort: joplin
 title: Joplin

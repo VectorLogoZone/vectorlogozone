@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jwstegemann/fritz2
+codehost: https://github.com/jwstegemann/fritz2
 logohandle: fritz2dev
 sort: fritz2
 title: fritz2

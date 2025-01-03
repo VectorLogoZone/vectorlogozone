@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/artefactual/atom
+codehost: https://github.com/artefactual/atom
 keywords:
 - Access to Memory
 logohandle: accesstomemory

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/f5/unovis
+codehost: https://github.com/f5/unovis
 logohandle: unovisdev
 sort: unovis
 title: Unovis

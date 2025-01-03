@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/centrifuge
-codehost: https://github.com/https://github.com/centrifuge
+codehost: https://github.com/centrifuge
 logohandle: centrifugeio
 sort: centrifuge
 title: Centrifuge

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/getgrav/grav
+codehost: https://github.com/getgrav/grav
 logohandle: getgrav
 sort: getgrav
 title: Grav

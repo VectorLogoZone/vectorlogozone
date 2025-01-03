@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/MarlinFirmware/Marlin
+codehost: https://github.com/MarlinFirmware/Marlin
 facebook: https://facebook.com/groups/1049718498464482
 logohandle: marlinfw
 sort: marlinfw

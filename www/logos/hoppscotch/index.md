@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hoppscotch/hoppscotch
+codehost: https://github.com/hoppscotch/hoppscotch
 logohandle: hoppscotch
 sort: hoppscotch
 title: Hoppscotch

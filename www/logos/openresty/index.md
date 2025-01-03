@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/openresty
+codehost: https://github.com/openresty
 logohandle: openresty
 sort: openresty
 title: OpenResty

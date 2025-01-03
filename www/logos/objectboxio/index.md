@@ -1,6 +1,6 @@
 ---
 blog: https://objectbox.io/blog
-codehost: https://github.com/https://github.com/objectbox
+codehost: https://github.com/objectbox
 facebook: https://facebook.com/objectboxTeam
 instagram: https://instagram.com/objectbox_io
 linkedin: https://linkedin.com/company/objectbox

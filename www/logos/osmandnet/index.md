@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/osmandapp
+codehost: https://github.com/osmandapp
 facebook: https://facebook.com/osmandapp
 logohandle: osmandnet
 sort: osmand

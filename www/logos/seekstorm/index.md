@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/SeekStorm
+codehost: https://github.com/SeekStorm
 facebook: https://facebook.com/SeekStorm
 linkedin: https://linkedin.com/company/seekstorm
 logohandle: seekstorm

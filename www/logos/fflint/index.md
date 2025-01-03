@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/FileFormatInfo/fflint
+codehost: https://github.com/FileFormatInfo/fflint
 font:
   google: https://fonts.google.com/specimen/Bitter
   name: Bitter Bold Italic

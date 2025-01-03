@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jgraph/drawio
+codehost: https://github.com/jgraph/drawio
 facebook: https://facebook.com/pages/drawio/161015263923018
 logohandle: drawio
 sort: draw

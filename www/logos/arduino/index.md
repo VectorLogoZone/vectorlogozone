@@ -1,6 +1,6 @@
 ---
 blog: https://blog.arduino.cc/
-codehost: https://github.com/https://github.com/ardunio
+codehost: https://github.com/ardunio
 colors:
 - '#00979C'
 facebook: https://www.facebook.com/official.arduino

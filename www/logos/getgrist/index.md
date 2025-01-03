@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gristlabs/grist-core
+codehost: https://github.com/gristlabs/grist-core
 facebook: https://facebook.com/getgrist
 linkedin: https://linkedin.com/company/grist-labs
 logohandle: getgrist

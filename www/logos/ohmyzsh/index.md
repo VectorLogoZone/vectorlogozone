@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ohmyzsh/ohmyzsh
+codehost: https://github.com/ohmyzsh/ohmyzsh
 facebook: https://facebook.com/WeAreOhMyZsh
 instagram: https://instagram.com/_ohmyzsh
 logohandle: ohmyzsh

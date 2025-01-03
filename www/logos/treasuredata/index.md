@@ -1,6 +1,6 @@
 ---
 blog: https://blog.treasuredata.com/
-codehost: https://github.com/https://github.com/treasure-data
+codehost: https://github.com/treasure-data
 facebook: https://facebook.com/TreasureData
 linkedin: https://linkedin.com/company/treasure-data-inc-
 logohandle: treasuredata

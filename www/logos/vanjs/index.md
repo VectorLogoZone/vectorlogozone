@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vanjs-org/van
+codehost: https://github.com/vanjs-org/van
 linkedin: https://linkedin.com/in/tao-xin-64234920
 logohandle: vanjs
 sort: vanjs

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/radare/radare2
+codehost: https://github.com/radare/radare2
 logohandle: radare
 sort: radare
 title: radare

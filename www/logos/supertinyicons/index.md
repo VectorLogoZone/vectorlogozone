@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/edent/supertinyicons
+codehost: https://github.com/edent/supertinyicons
 colors:
 - '#2100FF'
 images:

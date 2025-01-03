@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nuejs/nuejs
+codehost: https://github.com/nuejs/nuejs
 logohandle: nuejs
 sort: nuejs
 title: NueJS

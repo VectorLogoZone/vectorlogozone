@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pa11y/pa11y
+codehost: https://github.com/pa11y/pa11y
 logohandle: pa11y
 sort: pa11y
 title: Pa11y

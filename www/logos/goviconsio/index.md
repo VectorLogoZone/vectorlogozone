@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/540co/govicons
+codehost: https://github.com/540co/govicons
 logohandle: goviconsio
 sort: govicons
 title: Govicons

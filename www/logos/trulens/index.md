@@ -1,6 +1,6 @@
 ---
 blog: https://blog.trulens.org/
-codehost: https://github.com/https://github.com/truera/trulens
+codehost: https://github.com/truera/trulens
 logohandle: trulens
 sort: trulens
 title: TruLens

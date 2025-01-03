@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/AvaloniaUI/Avalonia
+codehost: https://github.com/AvaloniaUI/Avalonia
 logohandle: avaloniauinet
 sort: avaloniaui
 title: Avalonia UI

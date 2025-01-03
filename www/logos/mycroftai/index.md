@@ -1,6 +1,6 @@
 ---
 blog: https://mycroft.ai/blog
-codehost: https://github.com/https://github.com/MycroftAI
+codehost: https://github.com/MycroftAI
 facebook: https://facebook.com/aiforeveryone
 instagram: https://instagram.com/mycroft_ai
 linkedin: https://linkedin.com/company/mycroft-a.i.

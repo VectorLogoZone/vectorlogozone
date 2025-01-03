@@ -1,6 +1,6 @@
 ---
 blog: https://radar.io/blog/
-codehost: https://github.com/https://github.com/radarlabs
+codehost: https://github.com/radarlabs
 facebook: https://facebook.com/radarlabs
 linkedin: https://linkedin.com/company/radar-labs
 logohandle: radario

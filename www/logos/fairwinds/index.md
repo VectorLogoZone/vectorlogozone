@@ -1,6 +1,6 @@
 ---
 blog: https://fairwinds.com/blog
-codehost: https://github.com/https://github.com/FairwindsOps
+codehost: https://github.com/FairwindsOps
 facebook: https://facebook.com/fairwindsops
 instagram: https://instagram.com/fairwindsops
 linkedin: https://linkedin.com/company/fairwinds

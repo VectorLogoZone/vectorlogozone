@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nerves-project
+codehost: https://github.com/nerves-project
 logohandle: nerves-project
 sort: nerves-project
 title: Nerves Project

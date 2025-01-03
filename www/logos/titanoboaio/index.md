@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/mikub/titanoboa
+codehost: https://github.com/mikub/titanoboa
 logohandle: titanoboaio
 sort: titanoboa
 title: titanoboa.io

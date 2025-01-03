@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vercel/next.js
+codehost: https://github.com/vercel/next.js
 guide: https://vercel.com/geist/brands#next.js
 logohandle: nextjs
 sort: nextjs

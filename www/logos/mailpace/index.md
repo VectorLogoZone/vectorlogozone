@@ -1,6 +1,6 @@
 ---
 blog: https://blog.mailpace.com/
-codehost: https://github.com/https://github.com/mailpace
+codehost: https://github.com/mailpace
 logohandle: mailpace
 sort: mailpace
 title: MailPace

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.greenkeeper.io/
-codehost: https://github.com/https://github.com/greenkeeperio
+codehost: https://github.com/greenkeeperio
 logohandle: greenkeeperio
 sort: greenkeeper
 title: Greenkeeper

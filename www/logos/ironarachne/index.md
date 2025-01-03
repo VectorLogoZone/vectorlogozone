@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ironarachne/ironarachne
+codehost: https://github.com/ironarachne/ironarachne
 logohandle: ironarachne
 sort: ironarachne
 title: Iron Arachne

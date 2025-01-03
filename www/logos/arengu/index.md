@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/arengu
+codehost: https://github.com/arengu
 linkedin: https://linkedin.com/company/arengu
 logohandle: arengu
 sort: arengu

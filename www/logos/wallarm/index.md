@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wallarm
+codehost: https://github.com/wallarm
 facebook: https://facebook.com/wallarm
 linkedin: https://linkedin.com/company/wallarm
 logohandle: wallarm

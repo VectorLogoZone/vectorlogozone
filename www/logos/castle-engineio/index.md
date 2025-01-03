@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/castle-engine/cge-www
+codehost: https://github.com/castle-engine/cge-www
 logohandle: castle-engineio
 sort: castle-engine
 title: Castle Game Engine

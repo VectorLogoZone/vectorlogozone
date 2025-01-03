@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/avitorio/outstatic
+codehost: https://github.com/avitorio/outstatic
 logohandle: outstatic
 sort: outstatic
 title: Outstatic

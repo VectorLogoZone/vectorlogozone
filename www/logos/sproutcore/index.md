@@ -1,6 +1,6 @@
 ---
 blog: http://blog.sproutcore.com/
-codehost: https://github.com/https://github.com/sproutcore/sproutcore
+codehost: https://github.com/sproutcore/sproutcore
 facebook: http://facebook.com/sproutcore
 guide: http://sproutcore.com/about/#tab=logos
 logohandle: sproutcore

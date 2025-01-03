@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/ingenious
-codehost: https://github.com/https://github.com/ingsw-dev
+codehost: https://github.com/ingsw-dev
 logohandle: ingsw
 sort: ingenious
 title: Ingenious

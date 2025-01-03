@@ -1,6 +1,6 @@
 ---
 blog: https://blog.npmjs.com/
-codehost: https://github.com/https://github.com/npm
+codehost: https://github.com/npm
 guide: https://github.com/npm/logos
 images:
 - npmjs-tile.svg

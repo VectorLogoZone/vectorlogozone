@@ -1,6 +1,6 @@
 ---
 blog: http://blog.blitline.com/
-codehost: https://github.com/https://github.com/blitline-source/blitline
+codehost: https://github.com/blitline-source/blitline
 logohandle: blitline
 sort: blitline
 title: Blitline

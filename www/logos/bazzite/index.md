@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/bazzite
-codehost: https://github.com/https://github.com/bazzite
+codehost: https://github.com/bazzite
 facebook: https://facebook.com/bazzite
 googleplus: https://plus.google.com/+Bazzite
 instagram: https://instagram.com/bazzitees

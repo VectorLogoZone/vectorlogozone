@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apex/apex
+codehost: https://github.com/apex/apex
 logohandle: apexrun
 sort: apexrun
 title: Apex

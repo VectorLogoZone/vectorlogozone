@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/getnikola/nikola
+codehost: https://github.com/getnikola/nikola
 logohandle: getnikola
 sort: nikola
 title: Nikola

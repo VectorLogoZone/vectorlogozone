@@ -1,6 +1,6 @@
 ---
 blog: https://seatable.io/en/blog
-codehost: https://github.com/https://github.com/seatable
+codehost: https://github.com/seatable
 facebook: https://facebook.com/SeaTable.io
 instagram: https://instagram.com/seatable.io
 logohandle: seatableio

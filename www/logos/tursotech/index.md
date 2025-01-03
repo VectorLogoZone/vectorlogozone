@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tursodatabase
+codehost: https://github.com/tursodatabase
 logohandle: tursotech
 sort: turso
 title: Turso

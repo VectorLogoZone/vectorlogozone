@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/nlnetlabs
-codehost: https://github.com/https://github.com/NLnetLabs
+codehost: https://github.com/NLnetLabs
 facebook: https://facebook.com/nlnetlabs
 linkedin: https://linkedin.com/company/92855
 logohandle: nlnetlabsnl

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/coleifer/peewee
+codehost: https://github.com/coleifer/peewee
 logohandle: peewee-orm
 sort: peewee-orm
 title: peewee orm

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jetstack/cert-manager
+codehost: https://github.com/jetstack/cert-manager
 logohandle: cert-managerio
 sort: cert-manager
 title: cert-manager

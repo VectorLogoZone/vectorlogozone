@@ -1,6 +1,6 @@
 ---
 blog: https://volosoft.com/blog/
-codehost: https://github.com/https://github.com/volosoft
+codehost: https://github.com/volosoft
 facebook: https://facebook.com/volosoftcompany
 instagram: https://instagram.com/volosoftcompany
 linkedin: https://linkedin.com/company/volosoft

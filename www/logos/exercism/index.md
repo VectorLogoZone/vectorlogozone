@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/exercism
+codehost: https://github.com/exercism
 facebook: https://facebook.com/exercism.io
 logohandle: exercism
 sort: exercism

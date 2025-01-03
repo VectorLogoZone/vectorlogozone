@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/highlight/highlight
+codehost: https://github.com/highlight/highlight
 linkedin: https://linkedin.com/company/highlightrun
 logohandle: highlightio
 sort: highlightio

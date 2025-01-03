@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/darkreader/darkreader
+codehost: https://github.com/darkreader/darkreader
 logohandle: darkreader
 sort: darkreader
 title: Dark Reader

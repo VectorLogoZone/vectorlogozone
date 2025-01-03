@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/terrastruct
+codehost: https://github.com/terrastruct
 instagram: https://instagram.com/terrastruct
 linkedin: https://linkedin.com/company/terrastruct
 logohandle: terrastruct

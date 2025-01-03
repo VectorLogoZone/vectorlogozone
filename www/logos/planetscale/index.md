@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vitessio/vitess
+codehost: https://github.com/vitessio/vitess
 facebook: https://facebook.com/planetscaledata
 linkedin: https://linkedin.com/company/planetscale
 logohandle: planetscale

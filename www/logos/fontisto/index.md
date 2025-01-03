@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kenangundogan/fontisto
+codehost: https://github.com/kenangundogan/fontisto
 linkedin: https://linkedin.com/in/kenangundogan
 logohandle: fontisto
 other:

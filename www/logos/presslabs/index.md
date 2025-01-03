@@ -1,6 +1,6 @@
 ---
 blog: https://presslabs.com/blog
-codehost: https://github.com/https://github.com/presslabs
+codehost: https://github.com/presslabs
 facebook: https://facebook.com/presslabs
 linkedin: https://linkedin.com/company/presslabs
 logohandle: presslabs

@@ -1,6 +1,6 @@
 ---
 blog: https://killbill.io/blog
-codehost: https://github.com/https://github.com/sponsors/killbill
+codehost: https://github.com/sponsors/killbill
 logohandle: killbillio
 sort: killbill
 title: Kill Bill

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebook/open-graph-protocol
+codehost: https://github.com/facebook/open-graph-protocol
 facebook: https://facebook.com/groups/opengraph
 logohandle: ogpme
 sort: opengraph

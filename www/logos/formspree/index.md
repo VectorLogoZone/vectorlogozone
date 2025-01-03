@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/formspree
+codehost: https://github.com/formspree
 facebook: https://facebook.com/formspree
 logohandle: formspree
 sort: formspree

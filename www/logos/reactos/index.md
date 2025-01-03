@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/reactos
+codehost: https://github.com/reactos
 facebook: https://facebook.com/ReactOS-19143619259
 logohandle: reactos
 sort: reactos

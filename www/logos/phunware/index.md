@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/phunware
+codehost: https://github.com/phunware
 facebook: https://facebook.com/phunware
 instagram: https://instagram.com/phunware
 linkedin: https://linkedin.com/company/phunware

@@ -1,6 +1,6 @@
 ---
 blog: http://blog.routefusion.com/
-codehost: https://github.com/https://github.com/Routefusion
+codehost: https://github.com/Routefusion
 linkedin: https://linkedin.com/company/routefusion
 logohandle: routefusion
 sort: routefusion

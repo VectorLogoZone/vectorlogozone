@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/argentlabs
+codehost: https://github.com/argentlabs
 logohandle: argentxyz
 sort: argent
 title: Argent

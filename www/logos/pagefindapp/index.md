@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cloudcannon/pagefind
+codehost: https://github.com/cloudcannon/pagefind
 logohandle: pagefindapp
 sort: pagefind
 title: Pagefind

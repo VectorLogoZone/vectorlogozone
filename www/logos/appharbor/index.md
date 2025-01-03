@@ -1,6 +1,6 @@
 ---
 blog: http://blog.appharbor.com/
-codehost: https://github.com/https://github.com/appharbor
+codehost: https://github.com/appharbor
 colors:
 - '#113C5B'
 images:

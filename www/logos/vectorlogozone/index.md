@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/VectorLogoZone
+codehost: https://github.com/VectorLogoZone
 colors:
 - '#1D8286'
 facebook: https://www.facebook.com/VectorLogoZone/

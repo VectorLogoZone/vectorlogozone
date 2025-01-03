@@ -1,6 +1,6 @@
 ---
 activitypub: https://botsin.space/@VectorLogoZone
-codehost: https://github.com/https://github.com/VectorLogoZone/logo-of-the-day
+codehost: https://github.com/VectorLogoZone/logo-of-the-day
 facebook: https://www.facebook.com/VectorLogoZone/
 font:
   google: https://fonts.google.com/specimen/DM+Serif+Text

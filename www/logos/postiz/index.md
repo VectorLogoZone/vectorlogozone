@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gitroomhq/postiz-app
+codehost: https://github.com/gitroomhq/postiz-app
 linkedin: https://linkedin.com/company/postiz
 logohandle: postiz
 sort: postiz

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/controlplane-com
+codehost: https://github.com/controlplane-com
 logohandle: controlplane
 sort: controlplane
 title: Control Plane

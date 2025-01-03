@@ -1,6 +1,6 @@
 ---
 blog: https://blog.containo.us/
-codehost: https://github.com/https://github.com/containous
+codehost: https://github.com/containous
 linkedin: https://linkedin.com/company/containous
 logohandle: containous
 sort: containo

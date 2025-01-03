@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/AppFlowy-IO/appflowy
+codehost: https://github.com/AppFlowy-IO/appflowy
 logohandle: appflowyio
 sort: appflowy
 title: AppFlowy

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.weechat.org/
-codehost: https://github.com/https://github.com/weechat
+codehost: https://github.com/weechat
 logohandle: weechat
 sort: weechat
 title: WeeChat

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/getfider/fider
+codehost: https://github.com/getfider/fider
 logohandle: fiderio
 sort: fider
 title: Fider

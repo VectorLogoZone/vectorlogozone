@@ -1,6 +1,6 @@
 ---
 blog: https://grpc.io/blog/
-codehost: https://github.com/https://github.com/grpc
+codehost: https://github.com/grpc
 logohandle: grpcio
 reddit: https://www.reddit.com/r/grpc/
 sort: grpc

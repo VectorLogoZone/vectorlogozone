@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/aptakube/aptakube
+codehost: https://github.com/aptakube/aptakube
 logohandle: aptakube
 sort: aptakube
 title: Aptakube

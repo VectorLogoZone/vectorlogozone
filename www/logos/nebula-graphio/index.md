@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vesoft-inc/nebula
+codehost: https://github.com/vesoft-inc/nebula
 facebook: https://facebook.com/NebulaGraph
 linkedin: https://linkedin.com/company/vesoft-nebula-graph
 logohandle: nebula-graphio

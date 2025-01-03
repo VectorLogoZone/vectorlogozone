@@ -1,6 +1,6 @@
 ---
 blog: https://www.postgresql.org/about/newsarchive/
-codehost: https://github.com/https://github.com/postgres
+codehost: https://github.com/postgres
 font:
   google: https://www.google.com/fonts/specimen/Strait
   name: Strait

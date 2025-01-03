@@ -1,6 +1,6 @@
 ---
 blog: https://www.yelpblog.com/
-codehost: https://github.com/https://github.com/yelp
+codehost: https://github.com/yelp
 facebook: https://www.facebook.com/yelp/
 guide: https://www.yelp.com/brand
 images:

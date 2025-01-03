@@ -1,6 +1,6 @@
 ---
 blog: https://blog.readthedocs.com/
-codehost: https://github.com/https://github.com/rtfd/readthedocs.org
+codehost: https://github.com/rtfd/readthedocs.org
 logohandle: readthedocsio
 sort: readthedocs
 title: ReadTheDocs

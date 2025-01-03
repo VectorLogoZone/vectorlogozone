@@ -1,6 +1,6 @@
 ---
 blog: https://www.reddit.com/r/blog/
-codehost: https://github.com/https://github.com/reddit
+codehost: https://github.com/reddit
 facebook: https://www.facebook.com/reddit
 font:
   myfonts: https://www.myfonts.com/fonts/softmaker/volkswagen-serial/bold/

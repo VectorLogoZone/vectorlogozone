@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/james-project
+codehost: https://github.com/apache/james-project
 logohandle: apache_james
 sort: james
 tags:

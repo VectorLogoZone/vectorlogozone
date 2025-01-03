@@ -1,6 +1,6 @@
 ---
 blog: https://blogs.nasa.gov/
-codehost: https://github.com/https://github.com/nasa
+codehost: https://github.com/nasa
 facebook: https://www.facebook.com/nasa
 font:
   myfonts: https://www.myfonts.com/fonts/typodermic/nasalization/

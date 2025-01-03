@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vapor/vapor
+codehost: https://github.com/vapor/vapor
 logohandle: vaporcodes
 sort: vapor
 title: Vapor

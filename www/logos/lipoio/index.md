@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lipojs
+codehost: https://github.com/lipojs
 logohandle: lipoio
 sort: lipo
 title: Lipo

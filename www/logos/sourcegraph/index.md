@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/sourcegraph
+codehost: https://github.com/sourcegraph
 linkedin: https://linkedin.com/company/sourcegraph
 logohandle: sourcegraph
 sort: sourcegraph

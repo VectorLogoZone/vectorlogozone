@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/depot
+codehost: https://github.com/depot
 linkedin: https://linkedin.com/company/depot-technologies
 logohandle: depotdev
 sort: depot

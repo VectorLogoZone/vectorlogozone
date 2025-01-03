@@ -1,6 +1,6 @@
 ---
 blog: https://jina.ai/#/blog
-codehost: https://github.com/https://github.com/jina-ai
+codehost: https://github.com/jina-ai
 linkedin: https://www.linkedin.com/company/jinaai
 logohandle: jinaai
 sort: jina

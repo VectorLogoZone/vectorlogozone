@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dappnode
+codehost: https://github.com/dappnode
 logohandle: dappnodeio
 sort: dappnode
 title: DAppNode

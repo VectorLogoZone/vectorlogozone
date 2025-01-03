@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/vito/booklit
+codehost: https://github.com/vito/booklit
 logohandle: booklitpage
 sort: booklit
 title: Booklit

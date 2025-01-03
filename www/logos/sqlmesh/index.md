@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/TobikoData/sqlmesh
+codehost: https://github.com/TobikoData/sqlmesh
 linkedin: https://linkedin.com/company/tobikodata
 logohandle: sqlmesh
 sort: sqlmesh

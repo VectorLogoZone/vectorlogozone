@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/flexpa
+codehost: https://github.com/flexpa
 linkedin: https://linkedin.com/company/flexpa
 logohandle: flexpa
 sort: flexpa

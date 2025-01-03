@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/burstable-ai/burst
+codehost: https://github.com/burstable-ai/burst
 logohandle: burstableai
 sort: burstable
 title: Burstable

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/activeadmin/activeadmin
+codehost: https://github.com/activeadmin/activeadmin
 logohandle: activeadmininfo
 sort: activeadmin
 title: Active Admin

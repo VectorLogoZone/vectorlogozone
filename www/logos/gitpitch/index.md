@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gitpitch
+codehost: https://github.com/gitpitch
 logohandle: gitpitch
 sort: gitpitch
 title: GitPitch

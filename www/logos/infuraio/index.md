@@ -1,6 +1,6 @@
 ---
 blog: https://blog.infura.io/
-codehost: https://github.com/https://github.com/INFURA
+codehost: https://github.com/INFURA
 facebook: https://facebook.com/infura.io
 linkedin: https://linkedin.com/company/infuraio
 logohandle: infuraio

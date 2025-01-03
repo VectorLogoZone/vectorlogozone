@@ -1,6 +1,6 @@
 ---
 blog: https://bits.debian.org/
-codehost: https://github.com/https://github.com/Debian
+codehost: https://github.com/Debian
 font:
   myfonts: https://www.myfonts.com/fonts/berthold/laudatio-pro/med-cnd/
   name: Laudatio Pro Condensed Medium

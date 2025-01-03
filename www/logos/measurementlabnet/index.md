@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/m-lab
+codehost: https://github.com/m-lab
 logohandle: measurementlabnet
 sort: measurementlab
 title: M-Lab

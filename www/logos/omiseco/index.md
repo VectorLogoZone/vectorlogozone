@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/omise
+codehost: https://github.com/omise
 facebook: https://facebook.com/Omise
 logohandle: omiseco
 sort: omise

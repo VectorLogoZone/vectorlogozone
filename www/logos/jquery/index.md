@@ -1,6 +1,6 @@
 ---
 blog: http://blog.jquery.com/
-codehost: https://github.com/https://github.com/jquery
+codehost: https://github.com/jquery
 images:
 - jquery-wordmark.svg
 - jquery-vertical.svg

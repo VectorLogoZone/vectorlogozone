@@ -1,6 +1,6 @@
 ---
 blog: https://yahoo.tumblr.com/
-codehost: https://github.com/https://github.com/yahoo
+codehost: https://github.com/yahoo
 facebook: https://www.facebook.com/yahoo/
 font:
   myfonts: https://www.myfonts.com/fonts/linotype/optima/

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/WebAssembly
+codehost: https://github.com/WebAssembly
 colors:
 - '#654ff0'
 font:

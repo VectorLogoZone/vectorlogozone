@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kstenerud/concise-encoding
+codehost: https://github.com/kstenerud/concise-encoding
 logohandle: concise-encoding
 sort: concise-encoding
 title: Concise Encoding

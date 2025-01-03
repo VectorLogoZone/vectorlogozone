@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/skerkour/bloom
+codehost: https://github.com/skerkour/bloom
 logohandle: bloomsh
 sort: bloom
 title: Bloom

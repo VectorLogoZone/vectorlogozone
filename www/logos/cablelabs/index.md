@@ -1,6 +1,6 @@
 ---
 blog: https://blog.github.com/
-codehost: https://github.com/https://github.com/cablelabs
+codehost: https://github.com/cablelabs
 facebook: https://www.facebook.com/cablelabsinc/
 linkedin: http://www.linkedin.com/company/14315
 logohandle: cablelabs

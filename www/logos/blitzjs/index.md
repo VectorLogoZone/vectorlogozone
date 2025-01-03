@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/blitz-js/blitz
+codehost: https://github.com/blitz-js/blitz
 logohandle: blitzjs
 sort: blitzjs
 title: Blitz.js

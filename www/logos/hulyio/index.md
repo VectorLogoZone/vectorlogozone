@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hcengineering/platform
+codehost: https://github.com/hcengineering/platform
 linkedin: https://linkedin.com/company/hardcoreeng
 logohandle: hulyio
 sort: huly

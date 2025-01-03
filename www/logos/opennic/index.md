@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/OpenNIC
+codehost: https://github.com/OpenNIC
 logohandle: opennic
 sort: opennic
 title: OpenNIC

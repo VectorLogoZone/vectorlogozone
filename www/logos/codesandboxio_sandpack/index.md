@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/codesandbox/sandpack
+codehost: https://github.com/codesandbox/sandpack
 logohandle: codesandboxio_sandpack
 sort: sandpack
 title: Sandpack

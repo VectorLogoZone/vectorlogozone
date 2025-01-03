@@ -1,6 +1,6 @@
 ---
 blog: https://rudderstack.com/blog/
-codehost: https://github.com/https://github.com/rudderlabs/rudder-server
+codehost: https://github.com/rudderlabs/rudder-server
 logohandle: rudderstackdev
 sort: rudderstack
 title: RudderStack

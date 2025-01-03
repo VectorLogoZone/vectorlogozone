@@ -1,6 +1,6 @@
 ---
 blog: https://apostrophecms.com/blog
-codehost: https://github.com/https://github.com/apostrophecms
+codehost: https://github.com/apostrophecms
 facebook: https://facebook.com/apostrophecms
 linkedin: https://linkedin.com/company/apostrophecms
 logohandle: apostrophecms

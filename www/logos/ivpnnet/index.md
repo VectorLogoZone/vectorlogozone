@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ivpn
+codehost: https://github.com/ivpn
 logohandle: ivpnnet
 sort: ivpn
 title: IVPN

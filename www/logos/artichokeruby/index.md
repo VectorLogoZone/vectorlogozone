@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/artichoke/artichoke
+codehost: https://github.com/artichoke/artichoke
 guide: https://github.com/artichoke/logo
 logohandle: artichokeruby
 sort: artichokeruby

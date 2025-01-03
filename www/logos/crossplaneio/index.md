@@ -1,6 +1,6 @@
 ---
 blog: https://blog.crossplane.io/
-codehost: https://github.com/https://github.com/crossplane/crossplane
+codehost: https://github.com/crossplane/crossplane
 logohandle: crossplaneio
 sort: crossplane
 title: Crossplane

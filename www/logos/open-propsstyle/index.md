@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/argyleink/open-props
+codehost: https://github.com/argyleink/open-props
 logohandle: open-propsstyle
 sort: openprops
 title: Open Props

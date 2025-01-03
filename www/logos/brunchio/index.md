@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/brunch/brunch
+codehost: https://github.com/brunch/brunch
 logohandle: brunchio
 sort: brunch
 title: Brunch

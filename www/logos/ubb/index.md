@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/filamentgroup/grunticon
+codehost: https://github.com/filamentgroup/grunticon
 facebook: https://facebook.com/UnitedBankersBank/
 linkedin: https://linkedin.com/company/united-bankers
 logohandle: ubb

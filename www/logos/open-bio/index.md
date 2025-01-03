@@ -1,6 +1,6 @@
 ---
 blog: https://open-bio.org/blog
-codehost: https://github.com/https://github.com/OBF
+codehost: https://github.com/OBF
 logohandle: open-bio
 sort: open-bio
 title: Open Bioinformatics Foundation

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/cmu-db/peloton
+codehost: https://github.com/cmu-db/peloton
 logohandle: pelotondbio
 sort: pelotondb
 title: Peloton

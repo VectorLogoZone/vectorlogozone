@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jaredpalmer/after.js
+codehost: https://github.com/jaredpalmer/after.js
 logohandle: afterjs
 sort: afterjs
 title: After.js

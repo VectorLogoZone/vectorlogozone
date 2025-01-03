@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Kozea/Multicorn
+codehost: https://github.com/Kozea/Multicorn
 logohandle: multicorn
 sort: multicorn
 title: Multicorn

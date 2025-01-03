@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/clearos
+codehost: https://github.com/clearos
 facebook: https://facebook.com/ClearOS
 googleplus: https://plus.google.com/+ClearosOrem
 linkedin: https://linkedin.com/company/clearcenter

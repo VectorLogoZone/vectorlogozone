@@ -1,6 +1,6 @@
 ---
 blog: https://redis.io/buzz
-codehost: https://github.com/https://github.com/antirez/redis
+codehost: https://github.com/antirez/redis
 guide: https://github.com/antirez/redis-io/tree/master/public/images
 images:
 - redis-ar21.svg

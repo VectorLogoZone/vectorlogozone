@@ -1,6 +1,6 @@
 ---
 blog: https://blog.dstack.ai/
-codehost: https://github.com/https://github.com/dstackai/dstack
+codehost: https://github.com/dstackai/dstack
 logohandle: dstackai
 sort: dstack
 title: dstack.ai

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/eugenp
+codehost: https://github.com/eugenp
 facebook: https://facebook.com/baeldung
 googleplus: https://plus.google.com/+BaeldungTutorials
 logohandle: baeldung

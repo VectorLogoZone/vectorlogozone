@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/flox/flox
+codehost: https://github.com/flox/flox
 linkedin: https://linkedin.com/company/floxdev
 logohandle: floxdev
 sort: flox

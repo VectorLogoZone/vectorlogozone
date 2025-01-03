@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/diegomura/react-pdf
+codehost: https://github.com/diegomura/react-pdf
 logohandle: react-pdf
 sort: react-pdf
 title: React-pdf

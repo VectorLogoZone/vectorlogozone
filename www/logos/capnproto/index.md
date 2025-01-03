@@ -1,6 +1,6 @@
 ---
 blog: http://starfruit-cafe.net/blog
-codehost: https://github.com/https://github.com/sandstorm-io/capnproto
+codehost: https://github.com/sandstorm-io/capnproto
 logohandle: capnproto
 sort: capnproto
 title: Cap'n Proto

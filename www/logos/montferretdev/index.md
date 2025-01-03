@@ -1,6 +1,6 @@
 ---
 blog: https://montferret.dev/blog/index.xml
-codehost: https://github.com/https://github.com/MontFerret/ferret
+codehost: https://github.com/MontFerret/ferret
 logohandle: montferretdev
 sort: montferret
 title: Ferret

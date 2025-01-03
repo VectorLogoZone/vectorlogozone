@@ -1,6 +1,6 @@
 ---
 blog: https://blog.thundra.io/
-codehost: https://github.com/https://github.com/thundra-io
+codehost: https://github.com/thundra-io
 linkedin: https://linkedin.com/company/thundra
 logohandle: thundraio
 sort: thundra

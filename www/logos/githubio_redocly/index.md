@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Redocly/redoc
+codehost: https://github.com/Redocly/redoc
 logohandle: githubio_redocly
 sort: redoc
 title: ReDoc

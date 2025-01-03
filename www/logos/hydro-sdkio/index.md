@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/hydro-sdk
+codehost: https://github.com/hydro-sdk
 logohandle: hydro-sdkio
 sort: hydro-sdk
 title: Hydro

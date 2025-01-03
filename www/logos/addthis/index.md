@@ -1,6 +1,6 @@
 ---
 blog: https://www.addthis.com/blog/
-codehost: https://github.com/https://github.com/addthis
+codehost: https://github.com/addthis
 colors:
 - '#FF5C3E'
 font:

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/onetimesecret/onetimesecret
+codehost: https://github.com/onetimesecret/onetimesecret
 facebook: https://facebook.com/pages/One-Time-Secret/284990691536190
 logohandle: onetimesecret
 sort: onetimesecret

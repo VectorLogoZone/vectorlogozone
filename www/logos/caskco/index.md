@@ -1,6 +1,6 @@
 ---
 blog: http://blog.cask.co/
-codehost: https://github.com/https://github.com/caskdata
+codehost: https://github.com/caskdata
 facebook: http://facebook.com/cask
 linkedin: https://linkedin.com/company/2552378
 logohandle: caskco

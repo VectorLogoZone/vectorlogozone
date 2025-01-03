@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dapr
+codehost: https://github.com/dapr
 logohandle: daprio
 sort: dapr
 title: Dapr

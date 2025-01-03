@@ -1,6 +1,6 @@
 ---
 blog: https://github.com/blog
-codehost: https://github.com/https://github.com/github
+codehost: https://github.com/github
 font:
   myfonts: https://www.myfonts.com/fonts/k-type/collegiate/
   name: Collegiate

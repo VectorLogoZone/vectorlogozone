@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/coreos/flannel
+codehost: https://github.com/coreos/flannel
 logohandle: github_flannel
 sort: flannel
 title: flannel

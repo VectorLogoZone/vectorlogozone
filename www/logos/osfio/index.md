@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/centerforopenscience
+codehost: https://github.com/centerforopenscience
 facebook: https://www.facebook.com/CenterForOpenScience/
 logohandle: osfio
 sort: osf

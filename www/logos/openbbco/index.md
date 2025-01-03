@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/OpenBB-finance/OpenBBTerminal
+codehost: https://github.com/OpenBB-finance/OpenBBTerminal
 instagram: https://instagram.com/openbb.finance
 linkedin: https://linkedin.com/company/openbb-finance
 logohandle: openbbco

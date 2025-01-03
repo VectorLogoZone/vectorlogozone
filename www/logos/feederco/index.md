@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/feederco
+codehost: https://github.com/feederco
 facebook: https://facebook.com/feederco
 instagram: https://instagram.com/feederco
 linkedin: https://linkedin.com/company/feeder-co

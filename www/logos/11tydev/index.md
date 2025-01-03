@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/11ty/eleventy
+codehost: https://github.com/11ty/eleventy
 logohandle: 11tydev
 sort: 11ty
 title: Eleventy

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.litespeedtech.com/
-codehost: https://github.com/https://github.com/litespeedtech
+codehost: https://github.com/litespeedtech
 facebook: https://facebook.com/litespeedtech
 instagram: https://instagram.com/litespeed_technologies
 linkedin: https://linkedin.com/company/litespeed-technologies

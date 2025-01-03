@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/lxqt
+codehost: https://github.com/lxqt
 logohandle: lxqt-project
 sort: lxqt
 title: LXQt

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pytorch/pytorch
+codehost: https://github.com/pytorch/pytorch
 facebook: https://facebook.com/pytorch
 logohandle: pytorch
 sort: pytorch

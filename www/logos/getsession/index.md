@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/oxen-io
+codehost: https://github.com/oxen-io
 guide: https://getsession.org/assets/downloads/Session-Brandmarks.zip
 instagram: https://instagram.com/getsession
 logohandle: getsession

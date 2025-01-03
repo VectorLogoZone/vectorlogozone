@@ -1,6 +1,6 @@
 ---
 blog: https://blog.elest.io/
-codehost: https://github.com/https://github.com/elestio
+codehost: https://github.com/elestio
 linkedin: https://linkedin.com/company/elestio
 logohandle: elestio
 sort: elestio

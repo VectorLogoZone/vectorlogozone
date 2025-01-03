@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/suse
+codehost: https://github.com/suse
 colors:
 - '#02D35F'
 - '#0D2C40'

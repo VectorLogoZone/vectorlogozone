@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/eggheads/eggdrop
+codehost: https://github.com/eggheads/eggdrop
 logohandle: eggheads
 sort: eggheads
 title: Eggheads

@@ -1,6 +1,6 @@
 ---
 blog: https://www.aggdata.com/resource-center/news
-codehost: https://github.com/https://github.com/aggdata
+codehost: https://github.com/aggdata
 colors:
 - '#008FFF'
 - '#8ED800'

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/jax-ml/jax
+codehost: https://github.com/jax-ml/jax
 guide: https://github.com/jax-ml/jax/tree/main/images
 logohandle: readthedocsio_jax
 sort: jax

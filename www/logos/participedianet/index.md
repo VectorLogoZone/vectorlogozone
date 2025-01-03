@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/@participediaproject
-codehost: https://github.com/https://github.com/participedia
+codehost: https://github.com/participedia
 facebook: https://facebook.com/Participedia
 instagram: https://instagram.com/participedia
 linkedin: https://linkedin.com/company/participedia

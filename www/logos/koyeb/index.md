@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/koyeb
+codehost: https://github.com/koyeb
 facebook: https://facebook.com/gokoyeb
 linkedin: https://linkedin.com/company/koyeb
 logohandle: koyeb

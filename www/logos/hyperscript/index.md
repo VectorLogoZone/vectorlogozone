@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/bigskysoftware/_hyperscript
+codehost: https://github.com/bigskysoftware/_hyperscript
 logohandle: hyperscript
 sort: hyperscript
 title: hyperscript

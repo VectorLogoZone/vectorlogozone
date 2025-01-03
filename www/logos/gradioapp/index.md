@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/gradio-app/gradio
+codehost: https://github.com/gradio-app/gradio
 logohandle: gradioapp
 sort: gradio
 title: Gradio

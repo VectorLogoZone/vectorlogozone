@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ThePracticalDev
+codehost: https://github.com/ThePracticalDev
 facebook: https://facebook.com/ThePracticalDev
 instagram: https://instagram.com/ThePracticalDev
 logohandle: devto

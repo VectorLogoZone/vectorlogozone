@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Veriff
+codehost: https://github.com/Veriff
 facebook: https://facebook.com/veriff
 instagram: https://instagram.com/veriff.me
 linkedin: https://linkedin.com/company/veriff

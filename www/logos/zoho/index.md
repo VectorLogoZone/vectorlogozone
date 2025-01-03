@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/zoho
+codehost: https://github.com/zoho
 facebook: https://www.facebook.com/zoho/
 images:
 - zoho-icon.svg

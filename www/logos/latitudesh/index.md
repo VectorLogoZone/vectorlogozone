@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/latitudesh
+codehost: https://github.com/latitudesh
 linkedin: https://linkedin.com/company/22318494
 logohandle: latitudesh
 sort: latitude

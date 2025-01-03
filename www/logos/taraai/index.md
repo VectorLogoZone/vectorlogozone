@@ -1,6 +1,6 @@
 ---
 blog: https://blog.tara.ai/
-codehost: https://github.com/https://github.com/TaraAI
+codehost: https://github.com/TaraAI
 facebook: https://facebook.com/taradotai
 linkedin: https://linkedin.com/company/13208908
 logohandle: taraai

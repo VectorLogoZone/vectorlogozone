@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/syncthing/syncthing
+codehost: https://github.com/syncthing/syncthing
 logohandle: syncthingnet
 sort: syncthing
 title: Syncthing

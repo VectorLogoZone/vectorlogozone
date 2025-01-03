@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wildfly/wildfly
+codehost: https://github.com/wildfly/wildfly
 googleplus: https://plus.google.com/communities/103877841516607784660
 logohandle: wildfly
 sort: wildfly

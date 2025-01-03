@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/incubator-annotator
+codehost: https://github.com/apache/incubator-annotator
 logohandle: apache_annotator
 sort: annotator
 title: Apache Annotator

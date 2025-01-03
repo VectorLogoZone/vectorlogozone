@@ -1,6 +1,6 @@
 ---
 blog: https://www.grubhub.com/thecrave/
-codehost: https://github.com/https://github.com/grubhub
+codehost: https://github.com/grubhub
 facebook: https://www.facebook.com/grubhub
 guide: https://media.grubhub.com/media/multimedia/logos/default.aspx
 images:

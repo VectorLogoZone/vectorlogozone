@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/developit/preact
+codehost: https://github.com/developit/preact
 logohandle: preactjs
 sort: preactjs
 title: Preact

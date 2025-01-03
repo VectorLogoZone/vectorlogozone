@@ -1,6 +1,6 @@
 ---
 blog: https://repay.com/blog
-codehost: https://github.com/https://github.com/repaygithub
+codehost: https://github.com/repaygithub
 logohandle: repay
 sort: repay
 title: REPAY

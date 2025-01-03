@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fileformat/wctv-www
+codehost: https://github.com/fileformat/wctv-www
 images:
 - worldclocktv-ar21.svg
 - worldclocktv-icon.svg

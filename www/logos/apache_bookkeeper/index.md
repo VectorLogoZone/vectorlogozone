@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/apache/bookkeeper
+codehost: https://github.com/apache/bookkeeper
 logohandle: apache_bookkeeper
 sort: bookkeeper
 tags:

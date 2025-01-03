@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dunglas/frankenphp
+codehost: https://github.com/dunglas/frankenphp
 logohandle: frankenphpdev
 sort: frankenphp
 title: FrankenPHP

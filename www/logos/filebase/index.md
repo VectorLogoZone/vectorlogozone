@@ -1,6 +1,6 @@
 ---
 blog: https://filebase.com/blog
-codehost: https://github.com/https://github.com/filebase
+codehost: https://github.com/filebase
 facebook: https://facebook.com/filebaseinc
 logohandle: filebase
 sort: filebase

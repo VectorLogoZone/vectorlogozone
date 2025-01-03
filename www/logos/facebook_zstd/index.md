@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebook/zstd
+codehost: https://github.com/facebook/zstd
 logohandle: facebook_zstd
 sort: zstandard
 tags:

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/adonisjs
+codehost: https://github.com/adonisjs
 dribbble: https://dribbble.com/planetabhi
 logohandle: adonisjs
 sort: adonisjs

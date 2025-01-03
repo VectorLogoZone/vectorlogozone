@@ -1,6 +1,6 @@
 ---
 blog: http://blog.kaggle.com/
-codehost: https://github.com/https://github.com/kaggle
+codehost: https://github.com/kaggle
 facebook: https://www.facebook.com/kaggle
 images:
 - kaggle-icon.svg

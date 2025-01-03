@@ -1,6 +1,6 @@
 ---
 blog: https://blog.nrwl.io/
-codehost: https://github.com/https://github.com/nrwl/nx
+codehost: https://github.com/nrwl/nx
 logohandle: nxdev
 sort: nx
 title: Nx

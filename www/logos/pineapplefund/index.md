@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/PineappleFund/pineapplefund.github.io
+codehost: https://github.com/PineappleFund/pineapplefund.github.io
 logohandle: pineapplefund
 sort: pineapplefund
 title: Pineapple Fund

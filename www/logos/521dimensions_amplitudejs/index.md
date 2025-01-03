@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/521dimensions/amplitudejs
+codehost: https://github.com/521dimensions/amplitudejs
 logohandle: 521dimensions_amplitudejs
 sort: amplitudejs
 title: AmplitudeJS

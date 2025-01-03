@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/verdaccio
-codehost: https://github.com/https://github.com/verdaccio
+codehost: https://github.com/verdaccio
 logohandle: verdaccio
 sort: verdaccio
 title: Verdaccio

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/boxboat
+codehost: https://github.com/boxboat
 linkedin: https://linkedin.com/company/boxboat
 logohandle: boxboat
 sort: boxboat

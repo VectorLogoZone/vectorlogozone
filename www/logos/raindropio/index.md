@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/raindrop-io
-codehost: https://github.com/https://github.com/raindropio
+codehost: https://github.com/raindropio
 logohandle: raindropio
 sort: raindropio
 title: Raindrop.io

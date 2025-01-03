@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/strimzi
+codehost: https://github.com/strimzi
 logohandle: strimziio
 sort: strimzi
 title: Strimzi

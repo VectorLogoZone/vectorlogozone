@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/runtipi/runtipi
+codehost: https://github.com/runtipi/runtipi
 logohandle: runtipiio
 sort: runtipi
 title: Runtipi

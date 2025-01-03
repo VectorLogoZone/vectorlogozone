@@ -1,6 +1,6 @@
 ---
 blog: https://medium.com/anchore
-codehost: https://github.com/https://github.com/anchore
+codehost: https://github.com/anchore
 facebook: https://facebook.com/anchore
 linkedin: https://linkedin.com/company/anchore
 logohandle: anchoreio

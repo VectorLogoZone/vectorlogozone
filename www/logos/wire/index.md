@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/wireapp/wire
+codehost: https://github.com/wireapp/wire
 facebook: https://facebook.com/wire
 images:
 - wire-tile.svg

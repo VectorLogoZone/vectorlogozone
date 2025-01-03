@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/prql/prql
+codehost: https://github.com/prql/prql
 logohandle: prql-lang
 sort: prql
 title: PRQL

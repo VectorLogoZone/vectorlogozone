@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/caryll
+codehost: https://github.com/caryll
 guide: https://github.com/caryll/design
 logohandle: caryll
 sort: caryll

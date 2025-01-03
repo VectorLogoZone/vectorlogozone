@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/bundler/bundler
+codehost: https://github.com/bundler/bundler
 logohandle: bundlerio
 sort: bundler
 title: Bundler

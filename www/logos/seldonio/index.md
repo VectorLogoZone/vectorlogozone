@@ -1,6 +1,6 @@
 ---
 blog: https://seldon.io/resources/blog
-codehost: https://github.com/https://github.com/SeldonIO
+codehost: https://github.com/SeldonIO
 linkedin: https://linkedin.com/company/seldon
 logohandle: seldonio
 sort: seldon

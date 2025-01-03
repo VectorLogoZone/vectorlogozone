@@ -1,6 +1,6 @@
 ---
 blog: https://www.haskell.org/news
-codehost: https://github.com/https://github.com/haskell-infra/hl
+codehost: https://github.com/haskell-infra/hl
 font:
   freename: Swansea
   freeurl: http://www.fontspace.com/roger-white/swansea

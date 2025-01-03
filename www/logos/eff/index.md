@@ -1,6 +1,6 @@
 ---
 blog: https://www.eff.org/updates?type=blog
-codehost: https://github.com/https://github.com/EFForg
+codehost: https://github.com/EFForg
 facebook: https://www.facebook.com/eff
 guide: https://www.eff.org/press/logos
 images:

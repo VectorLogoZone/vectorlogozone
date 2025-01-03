@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/strongloop/loopback
+codehost: https://github.com/strongloop/loopback
 logohandle: loopbackio
 sort: loopback
 title: LoopBack

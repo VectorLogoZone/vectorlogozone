@@ -1,6 +1,6 @@
 ---
 blog: https://sourcetrail.com/blog/
-codehost: https://github.com/https://github.com/CoatiSoftware/SourcetrailDB
+codehost: https://github.com/CoatiSoftware/SourcetrailDB
 logohandle: sourcetrail
 sort: sourcetrail
 title: Sourcetrail

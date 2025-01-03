@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/camunda
+codehost: https://github.com/camunda
 facebook: https://facebook.com/CamundaBPM
 linkedin: https://linkedin.com/company/camunda-services-gmbh
 logohandle: camunda

@@ -1,6 +1,6 @@
 ---
 blog: https://about.gitlab.com/blog/
-codehost: https://github.com/https://github.com/gitlabhq
+codehost: https://github.com/gitlabhq
 colors:
 - '#FC6D26'
 - '#6B4FBB'

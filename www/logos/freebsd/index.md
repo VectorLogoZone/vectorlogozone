@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/freebsd
+codehost: https://github.com/freebsd
 colors:
 - '#AB2B28'
 guide: https://www.freebsdfoundation.org/about/project/

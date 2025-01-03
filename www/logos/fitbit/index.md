@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fitbit
+codehost: https://github.com/fitbit
 facebook: https://www.facebook.com/fitbit
 guide: https://brandisty.com/fitbit
 images:

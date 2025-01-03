@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/typst/typst
+codehost: https://github.com/typst/typst
 instagram: https://instagram.com/typstapp
 linkedin: https://linkedin.com/company/typst
 logohandle: typstapp

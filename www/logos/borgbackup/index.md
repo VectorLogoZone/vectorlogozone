@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/borgbackup/borg
+codehost: https://github.com/borgbackup/borg
 logohandle: borgbackup
 sort: borgbackup
 title: BorgBackup

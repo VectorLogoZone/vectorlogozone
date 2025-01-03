@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/supertokens
+codehost: https://github.com/supertokens
 facebook: https://facebook.com/SuperTokenss
 linkedin: https://linkedin.com/company/supertokens
 logohandle: supertokens

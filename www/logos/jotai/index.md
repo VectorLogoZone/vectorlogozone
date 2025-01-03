@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pmndrs/jotai
+codehost: https://github.com/pmndrs/jotai
 logohandle: jotai
 sort: jotai
 title: Jotai

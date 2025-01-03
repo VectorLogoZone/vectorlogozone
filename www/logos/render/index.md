@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/renderinc
+codehost: https://github.com/renderinc
 linkedin: https://linkedin.com/company/renderco
 logohandle: render
 sort: render

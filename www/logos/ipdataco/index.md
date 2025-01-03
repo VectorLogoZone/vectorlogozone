@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ipdata
+codehost: https://github.com/ipdata
 logohandle: ipdataco
 sort: ipdata
 title: ipdata

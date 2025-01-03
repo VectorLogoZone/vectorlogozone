@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dmbaturin/soupault-website
+codehost: https://github.com/dmbaturin/soupault-website
 logohandle: soupaultapp
 sort: soupault
 title: soupault

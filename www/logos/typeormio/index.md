@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/typeorm/typeorm
+codehost: https://github.com/typeorm/typeorm
 logohandle: typeormio
 sort: typeorm
 title: TypeORM

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.bazqux.com/
-codehost: https://github.com/https://github.com/bazqux/bazqux-api
+codehost: https://github.com/bazqux/bazqux-api
 logohandle: bazqux
 sort: bazqux
 title: BazQux

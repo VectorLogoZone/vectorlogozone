@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/peermaps
+codehost: https://github.com/peermaps
 logohandle: peermaps
 sort: peermaps
 title: peermaps

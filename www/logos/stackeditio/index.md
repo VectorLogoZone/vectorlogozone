@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/benweet/stackedit
+codehost: https://github.com/benweet/stackedit
 logohandle: stackeditio
 sort: stackedit
 title: StackEdit

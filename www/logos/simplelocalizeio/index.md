@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/simplelocalize
+codehost: https://github.com/simplelocalize
 facebook: https://facebook.com/simplelocalize
 instagram: https://instagram.com/simplelocalize
 linkedin: https://linkedin.com/in/jakubpomykala

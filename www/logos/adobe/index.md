@@ -1,6 +1,6 @@
 ---
 blog: https://blogs.adobe.com/
-codehost: https://github.com/https://github.com/adobe
+codehost: https://github.com/adobe
 facebook: https://www.facebook.com/adobe
 font:
   name: Myriad Condensed Bold

@@ -1,6 +1,6 @@
 ---
 blog: https://monicahq.com/blog
-codehost: https://github.com/https://github.com/monicahq/monica
+codehost: https://github.com/monicahq/monica
 facebook: https://facebook.com/MonicaPersonalCRM
 logohandle: monicahq
 sort: monicahq

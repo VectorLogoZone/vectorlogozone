@@ -1,6 +1,6 @@
 ---
 blog: https://stripe.com/blog
-codehost: https://github.com/https://github.com/stripe
+codehost: https://github.com/stripe
 font:
   myfonts: https://www.myfonts.com/fonts/mti/camphor/
   name: Camphor

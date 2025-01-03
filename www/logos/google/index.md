@@ -1,6 +1,6 @@
 ---
 blog: https://www.blog.google/
-codehost: https://github.com/https://github.com/google
+codehost: https://github.com/google
 facebook: https://www.facebook.com/google
 guide: https://developers.google.com/identity/branding-guidelines
 images:

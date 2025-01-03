@@ -1,6 +1,6 @@
 ---
 blog: https://blog.linkedin.com/
-codehost: https://github.com/https://github.com/linkedin
+codehost: https://github.com/linkedin
 colors:
 - '#0077B5'
 facebook: https://www.facebook.com/LinkedIn/

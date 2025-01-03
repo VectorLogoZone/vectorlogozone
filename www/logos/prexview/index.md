@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/prexview
+codehost: https://github.com/prexview
 facebook: https://facebook.com/PrexView
 logohandle: prexview
 sort: prexview

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/iconify
+codehost: https://github.com/iconify
 logohandle: iconifydesign
 sort: iconify
 title: Iconify

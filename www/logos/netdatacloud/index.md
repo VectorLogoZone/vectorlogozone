@@ -1,6 +1,6 @@
 ---
 blog: https://netdata.cloud/blog/
-codehost: https://github.com/https://github.com/netdata/netdata
+codehost: https://github.com/netdata/netdata
 facebook: https://facebook.com/linuxnetdata
 linkedin: https://linkedin.com/company/netdata-cloud
 logohandle: netdatacloud

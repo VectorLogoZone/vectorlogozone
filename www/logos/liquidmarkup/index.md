@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Shopify/liquid
+codehost: https://github.com/Shopify/liquid
 logohandle: liquidmarkup
 sort: liquidmarkup
 title: Liquid

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/WayfireWM/wayfire
+codehost: https://github.com/WayfireWM/wayfire
 logohandle: wayfire
 sort: wayfire
 title: Wayfire

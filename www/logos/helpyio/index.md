@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/helpyio/helpy
+codehost: https://github.com/helpyio/helpy
 logohandle: helpyio
 sort: helpy
 title: Helpy

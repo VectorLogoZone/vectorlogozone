@@ -1,6 +1,6 @@
 ---
 blog: https://blog.conjur.org/
-codehost: https://github.com/https://github.com/cyberark/conjur
+codehost: https://github.com/cyberark/conjur
 logohandle: conjur
 sort: conjur
 title: Conjur

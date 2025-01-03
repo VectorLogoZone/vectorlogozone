@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/aws/karpenter
+codehost: https://github.com/aws/karpenter
 logohandle: karpentersh
 sort: karpenter
 title: Karpenter

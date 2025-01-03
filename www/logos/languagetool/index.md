@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/languagetool-org
+codehost: https://github.com/languagetool-org
 facebook: https://facebook.com/LanguageTool
 instagram: https://instagram.com/languagetool
 linkedin: https://linkedin.com/company/languagetool

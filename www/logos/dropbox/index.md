@@ -1,6 +1,6 @@
 ---
 blog: https://blog.dropbox.com/
-codehost: https://github.com/https://github.com/dropbox
+codehost: https://github.com/dropbox
 colors:
 - '#0061FE'
 facebook: https://www.facebook.com/Dropbox

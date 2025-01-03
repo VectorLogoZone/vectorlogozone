@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/sxyazi/yazi
+codehost: https://github.com/sxyazi/yazi
 logohandle: github_yazi-rs
 sort: yazirs
 title: Yazi

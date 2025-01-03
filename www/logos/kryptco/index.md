@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/kryptco
+codehost: https://github.com/kryptco
 logohandle: kryptco
 sort: krypt
 title: Krypton

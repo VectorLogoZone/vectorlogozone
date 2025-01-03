@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/ubuntu-mate
+codehost: https://github.com/ubuntu-mate
 facebook: https://facebook.com/UbuntuMATEedition
 logohandle: ubuntu-mate
 sort: ubuntu-mate

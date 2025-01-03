@@ -1,6 +1,6 @@
 ---
 blog: https://www.opencpu.org/posts/svg-release/
-codehost: https://github.com/https://github.com/jeroen/rsvg
+codehost: https://github.com/jeroen/rsvg
 logohandle: rsvg
 sort: rsvg
 tags:

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/dnscrypt
+codehost: https://github.com/dnscrypt
 logohandle: dnscryptinfo
 sort: dnscrypt
 title: DNSCrypt

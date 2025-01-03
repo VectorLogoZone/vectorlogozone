@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/facebook/rocksdb
+codehost: https://github.com/facebook/rocksdb
 facebook: https://facebook.com/groups/rocksdb.dev
 logohandle: rocksdb
 sort: rocksdb

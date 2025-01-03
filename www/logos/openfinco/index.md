@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/openfin
+codehost: https://github.com/openfin
 linkedin: https://linkedin.com/company/openfin
 logohandle: openfinco
 sort: openfin

@@ -1,6 +1,6 @@
 ---
 blog: https://www.codecademy.com/blog
-codehost: https://github.com/https://github.com/Codecademy
+codehost: https://github.com/Codecademy
 dribbble: https://dribbble.com/codecademy
 facebook: https://www.facebook.com/codecademy
 font:

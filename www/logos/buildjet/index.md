@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/buildjet
+codehost: https://github.com/buildjet
 logohandle: buildjet
 sort: buildjet
 title: BuildJet

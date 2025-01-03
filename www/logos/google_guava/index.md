@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/google/guava
+codehost: https://github.com/google/guava
 logohandle: google_guava
 sort: guava
 title: Google Guava

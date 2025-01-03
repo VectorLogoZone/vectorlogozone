@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/pilosa
+codehost: https://github.com/pilosa
 facebook: https://facebook.com/pilosaco
 linkedin: https://linkedin.com/company/pilosa
 logohandle: pilosa

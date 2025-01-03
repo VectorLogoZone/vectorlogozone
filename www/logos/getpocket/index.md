@@ -1,6 +1,6 @@
 ---
 blog: http://getpocket.com/blog/
-codehost: https://github.com/https://github.com/pocket
+codehost: https://github.com/pocket
 facebook: https://facebook.com/pocket
 images:
 - getpocket-tile.svg

@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Infragistics
+codehost: https://github.com/Infragistics
 facebook: https://facebook.com/infragistics
 linkedin: http://linkedin.com/company/infragistics
 logohandle: infragistics

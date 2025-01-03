@@ -1,6 +1,6 @@
 ---
 blog: https://zod.dev/blog/
-codehost: https://github.com/https://github.com/colinhacks/zod
+codehost: https://github.com/colinhacks/zod
 logohandle: zoddev
 sort: zod
 title: Zod

@@ -1,6 +1,6 @@
 ---
 blog: https://themeselection.com/blog
-codehost: https://github.com/https://github.com/themeselection
+codehost: https://github.com/themeselection
 dribbble: https://dribbble.com/themeselection
 facebook: https://facebook.com/ThemeSelections
 instagram: https://instagram.com/themeselection

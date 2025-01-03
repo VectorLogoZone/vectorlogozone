@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/oabutton
+codehost: https://github.com/oabutton
 logohandle: openaccessbutton
 sort: openaccessbutton
 title: Open Access Button

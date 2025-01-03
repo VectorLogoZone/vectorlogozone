@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/itext
+codehost: https://github.com/itext
 facebook: https://www.facebook.com/iTextPDF/
 googleplus: https://plus.google.com/+itext
 images:

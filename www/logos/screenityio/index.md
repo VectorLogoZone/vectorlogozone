@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/alyssaxuu/screenity
+codehost: https://github.com/alyssaxuu/screenity
 logohandle: screenityio
 sort: screenity
 title: Screenity

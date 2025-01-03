@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/undb-xyz/undb
+codehost: https://github.com/undb-xyz/undb
 instagram: https://instagram.com/unified_undb
 logohandle: undbxyz
 sort: undb

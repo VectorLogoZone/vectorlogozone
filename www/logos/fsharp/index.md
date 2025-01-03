@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/fsharp/fsfoundation
+codehost: https://github.com/fsharp/fsfoundation
 facebook: http://facebook.com/fsharp.org
 logohandle: fsharp
 sort: fsharp

@@ -1,6 +1,6 @@
 ---
 blog: https://blog.trello.com/
-codehost: https://github.com/https://github.com/trello
+codehost: https://github.com/trello
 facebook: http://www.facebook.com/trelloapp
 guide: https://design.trello.com/
 images:

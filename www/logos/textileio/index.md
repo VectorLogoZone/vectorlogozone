@@ -1,6 +1,6 @@
 ---
 blog: https://blog.textile.io/
-codehost: https://github.com/https://github.com/textileio
+codehost: https://github.com/textileio
 logohandle: textileio
 sort: textile
 title: Textile

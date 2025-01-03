@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/nomad
+codehost: https://github.com/nomad
 logohandle: nomad-cli
 sort: nomad-cli
 title: Nomad

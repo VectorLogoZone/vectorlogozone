@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/tauri-apps/tauri
+codehost: https://github.com/tauri-apps/tauri
 logohandle: tauristudio
 sort: tauri
 title: Tauri

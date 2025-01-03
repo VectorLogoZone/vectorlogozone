@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/beakerbrowser/hashbase
+codehost: https://github.com/beakerbrowser/hashbase
 logohandle: hashbaseio
 sort: hashbase
 title: Hashbase

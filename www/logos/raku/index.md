@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/Raku
+codehost: https://github.com/Raku
 logohandle: raku
 sort: raku
 title: Raku

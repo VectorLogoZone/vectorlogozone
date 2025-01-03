@@ -1,6 +1,6 @@
 ---
 blog: https://botpress.io/blog
-codehost: https://github.com/https://github.com/botpress/botpress
+codehost: https://github.com/botpress/botpress
 logohandle: botpressio
 slack: https://slack.botpress.io/
 sort: botpress

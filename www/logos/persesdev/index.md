@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/perses/perses
+codehost: https://github.com/perses/perses
 logohandle: persesdev
 sort: perses
 title: Perses

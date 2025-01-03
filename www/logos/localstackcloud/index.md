@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/localstack/localstack
+codehost: https://github.com/localstack/localstack
 logohandle: localstackcloud
 sort: localstack
 title: LocalStack

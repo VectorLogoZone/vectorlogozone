@@ -1,6 +1,6 @@
 ---
 blog: https://cast.ai/blog
-codehost: https://github.com/https://github.com/castai
+codehost: https://github.com/castai
 facebook: https://facebook.com/cast.ai.platform
 linkedin: https://linkedin.com/company/cast-ai
 logohandle: castai

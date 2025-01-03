@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/formancehq
+codehost: https://github.com/formancehq
 linkedin: https://linkedin.com/company/formancehq
 logohandle: formance
 sort: formance

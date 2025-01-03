@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/JDLT-Ltd
+codehost: https://github.com/JDLT-Ltd
 facebook: https://facebook.com/JDLTLtd
 linkedin: https://linkedin.com/company/jdlt
 logohandle: jdltcouk

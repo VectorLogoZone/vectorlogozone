@@ -1,5 +1,5 @@
 ---
-codehost: https://github.com/https://github.com/swaywm
+codehost: https://github.com/swaywm
 logohandle: swaywm
 sort: swaywm
 title: Sway
