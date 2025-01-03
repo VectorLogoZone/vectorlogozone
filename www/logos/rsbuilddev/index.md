@@ -1,8 +1,8 @@
 ---
-codehost: https://github.com/https://github.com/web-infra-dev/rsbuild
+codehost: https://github.com/web-infra-dev/rsbuild
 logohandle: rsbuilddev
 sort: rsbuild
 title: RSBuild
-twitter: https://x.com/rspack_dev
+twitter: https://twitter.com/rspack_dev
 website: https://rsbuild.dev/
 ---
