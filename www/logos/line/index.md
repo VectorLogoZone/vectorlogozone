@@ -1,8 +1,8 @@
 ---
 blog: http://official-blog.line.me/en/
+codehost: https://github.com/line
 colors:
 - '#00B900'
-github: https://github.com/line
 guide: http://line.me/en/logo
 images:
 - line-ar21.svg

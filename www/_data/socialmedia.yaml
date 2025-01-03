@@ -1,11 +1,11 @@
 - id: blog
   iconhtml: <i class="fas fa-rss-square"></i>
   
+- id: codehost
+  iconhtml: <i class="far fa-code-branch"></i>
+
 - id: facebook
   iconhtml: <i class="fab fa-facebook"></i>
-
-- id: git
-  iconhtml: <i class="far fa-code-branch"></i>
 
 - id: googleplus
   iconhtml: <i class="fab fa-google-plus-square "></i>

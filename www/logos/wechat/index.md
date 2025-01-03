@@ -1,7 +1,7 @@
 ---
 blog: http://blog.wechat.com/
+codehost: https://github.com/tencent-wechat
 facebook: https://www.facebook.com/wechatapp
-github: https://github.com/tencent-wechat
 guide: https://wechat.design/
 images:
 - wechat-tile.svg

@@ -1,5 +1,5 @@
 ---
-github: https://github.com/aspnet/AspNetCore/tree/master/src/Components/Blazor
+codehost: https://github.com/aspnet/AspNetCore/tree/master/src/Components/Blazor
 logohandle: blazornet
 sort: blazor
 title: Blazor

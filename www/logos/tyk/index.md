@@ -1,6 +1,6 @@
 ---
 blog: https://tyk.io/blog/
-github: https://github.com/TykTechnologies
+codehost: https://github.com/TykTechnologies
 images:
 - tyk-ar21.svg
 - tyk-icon.svg

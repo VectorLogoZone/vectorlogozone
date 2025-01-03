@@ -1,5 +1,5 @@
 ---
-github: https://github.com/qgis/
+codehost: https://github.com/qgis/
 guide: https://qgis.org/en/site/getinvolved/styleguide.html
 logohandle: qgis
 sort: qgis

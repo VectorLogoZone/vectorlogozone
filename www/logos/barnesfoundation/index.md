@@ -1,6 +1,6 @@
 ---
+codehost: BarnesFoundation
 facebook: 'http://facebook.com/barnesfoundation'
-github: BarnesFoundation
 instagram: 'https://instagram.com/barnesfoundation'
 logohandle: barnesfoundation
 sort: barnesfoundation

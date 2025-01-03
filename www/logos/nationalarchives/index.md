@@ -1,7 +1,7 @@
 ---
 blog: http://blog.nationalarchives.gov.uk/
+codehost: https://github.com/digital-preservation
 facebook: https://www.facebook.com/TheNationalArchives
-github: https://github.com/digital-preservation
 logohandle: nationalarchives
 sort: nationalarchives
 title: National Archives (UK)

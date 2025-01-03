@@ -10,10 +10,10 @@ redirect_from: /logos/metadata.html
 {% capture checkoff %}<i class="fal fa-times" style="opacity:0.1"></i>{% endcapture %}
 {% assign logocount = 0 %}
 {% assign blogcount = 0 %}
+{% assign codehostcount = 0 %}
 {% assign colorcount = 0 %}
 {% assign facebookcount = 0 %}
 {% assign fontcount = 0 %}
-{% assign githubcount = 0 %}
 {% assign googlepluscount = 0 %}
 {% assign guidecount = 0 %}
 {% assign linkedincount = 0 %}
@@ -59,8 +59,8 @@ redirect_from: /logos/metadata.html
             </td>
             <td>
                 {% if logopage.blog %}<a href="{{logopage.blog}}"><i class="fas fa-rss-square"></i>{% assign blogcount = blogcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
+                {% if logopage.codehost %}<a href="{{logopage.codehost}}"><i class="far fa-code-branch"></i>{% assign codehostcount = codehostcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.facebook %}<a rel="nofollow" href="{{logopage.facebook}}"><i class="fab fa-facebook"></i>{% assign facebookcount = facebookcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
-                {% if logopage.git %}<a href="{{logopage.git}}"><i class="far fa-code-branch"></i>{% assign githubcount = githubcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.googleplus %}<a rel="nofollow" href="{{logopage.googleplus}}"><i class="fab fa-google-plus-square "></i>{% assign googlepluscount = googlepluscount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.instagram %}<a rel="nofollow" href="{{logopage.instagram}}/"><i class="fab fa-instagram"></i>{% assign instagramcount = instagramcount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
                 {% if logopage.linkedin %}<a rel="nofollow" href="{{logopage.linkedin}}"><i class="fab fa-linkedin"></i>{% assign linkedincount = linkedincount | plus:1 %}</a>{% else %}{{ checkoff }}{% endif %}
@@ -125,8 +125,8 @@ redirect_from: /logos/metadata.html
     </tr>
     <tr>
         <td>github</td>
-        <td class="text-center">{{githubcount | intcomma}}</td>
-        <td class="text-center">{{ githubcount | times:100 | divided_by: logocount}}%</td>
+        <td class="text-center">{{codehostcount | intcomma}}</td>
+        <td class="text-center">{{ codehostcount | times:100 | divided_by: logocount}}%</td>
     </tr>
     <tr>
         <td>googleplus</td>

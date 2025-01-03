@@ -1,5 +1,5 @@
 ---
-github: https://github.com/pusher/oauth2_proxy
+codehost: https://github.com/pusher/oauth2_proxy
 guide: https://github.com/pusher/oauth2_proxy/tree/master/docs/logos
 logohandle: pusher_oauth2_proxy
 sort: oauth2_proxy

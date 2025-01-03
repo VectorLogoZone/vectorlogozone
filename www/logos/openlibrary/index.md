@@ -1,5 +1,5 @@
 ---
-github: https://github.com/internetarchive/openlibrary/
+codehost: https://github.com/internetarchive/openlibrary/
 images:
 - openlibrary-icon.svg
 - openlibrary-ar21.svg
