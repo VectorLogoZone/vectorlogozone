@@ -1,4 +1,5 @@
 ---
+blog: https://stockanalysis.com/blog/
 facebook: https://facebook.com/stockanalysisoff
 logohandle: stockanalysis
 sort: stockanalysis
