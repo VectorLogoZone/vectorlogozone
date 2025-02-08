@@ -13,11 +13,10 @@ set -o nounset
 echo "INFO: build starting at $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
 echo "DEBUG: uname=$(uname -a)"
-echo "DEBUG: xmlstarlet=$(which xmlstarlet)"
-echo "DEBUG: xmlstarlet version=$(xmlstarlet --version)"
+
 
 echo "INFO: generating ar21's with a white background"
-bin/gen_bgwhite.sh
+python3 bin/gen_bgwhite.py
 
 echo "INFO: install frontmatter"
 python3 -m pip install python-frontmatter

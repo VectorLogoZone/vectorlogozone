@@ -7,7 +7,7 @@ import argparse
 import frontmatter
 import os
 
-default_path = "../www/logos"
+default_path = os.path.join(os.path.dirname(__file__), "..", "www", "logos")
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--directory", help="directory with logo subdirectories", action="store", default=default_path)
