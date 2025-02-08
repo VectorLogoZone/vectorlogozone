@@ -10,6 +10,15 @@ set -o nounset
 #echo "INFO: installing rsvg and imagemagick"
 #sudo apt-get install -y librsvg2-bin
 
+echo "INFO: build starting at $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
+echo "DEBUG: uname=$(uname -a)"
+echo "DEBUG: xmlstarlet=$(which xmlstarlet)"
+echo "DEBUG: xmlstarlet version=$(xmlstarlet --version)"
+
+echo "INFO: generating ar21's with a white background"
+bin/gen_bgwhite.sh
+
 echo "INFO: install frontmatter"
 python3 -m pip install python-frontmatter
 

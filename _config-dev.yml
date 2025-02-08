@@ -1,5 +1,5 @@
 #
 # additional config to speed up rebuilds during local development
 #
-exclude: [ "*.sh", "logos/[^fgjw]*" ]
+exclude: [ "*.sh", "logos/[^afgjw]*" ]
 production_url: "http://localhost:4000"
