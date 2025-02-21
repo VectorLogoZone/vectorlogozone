@@ -1,11 +1,29 @@
+- id: activitypub
+  iconhtml: <i class="fab fa-activitypub"></i>
+
 - id: blog
   iconhtml: <i class="fas fa-rss-square"></i>
+
+- id: bluesky
+  iconhtml: <i class="fab fa-bluesky"></i>
   
 - id: codehost
   iconhtml: <i class="far fa-code-branch"></i>
 
+- id: discord
+  iconhtml: <i class="fab fa-discord"></i>
+
+- id: dribbble
+  iconhtml: <i class="fab fa-dribbble"></i>
+
 - id: facebook
   iconhtml: <i class="fab fa-facebook"></i>
+
+- id: flickr
+  iconhtml: <i class="fab fa-flickr"></i>
+
+- id: gitter
+  iconhtml: <i class="fab fa-gitter"></i>
 
 - id: googleplus
   iconhtml: <i class="fab fa-google-plus-square "></i>
@@ -22,11 +40,47 @@
 - id: reddit
   iconhtml: <i class="fab fa-reddit"></i>
 
+- id: slack
+  iconhtml: <i class="fab fa-slack"></i>
+
+- id: slideshare
+  iconhtml: <i class="fab fa-slideshare"></i>
+
+- id: snapchat
+  iconhtml: <i class="fab fa-snapchat"></i>
+
+- id: soundcloud
+  iconhtml: <i class="fab fa-soundcloud"></i>
+
+- id: stackexchange
+  iconhtml: <i class="fab fa-stack-exchange"></i>
+
+- id: stackoverflow
+  iconhtml: <i class="fab fa-stack-overflow"></i>
+
+- id: telegram
+  iconhtml: <i class="fab fa-telegram"></i>
+
+- id: tiktok
+  iconhmtl: <i class="fab fa-tiktok"></i>
+
 - id: tumblr
   iconhtml: <i class="fab fa-tumblr"></i>
 
 - id: twitter
   iconhtml: <i class="fab fa-twitter"></i>
+
+- id: vimeo
+  iconhtml: <i class="fab fa-vimeo"></i>
+
+- id: vine
+  iconhtml: <i class="fab fa-vine"></i>
+
+- id: weibo
+  iconhtml: <i class="fab fa-weibo"></i>
+
+- id: xing
+  iconhtml: <i class="fab fa-xing"></i>
 
 - id: youtube
   iconhtml: <i class="fab fa-youtube"></i>
