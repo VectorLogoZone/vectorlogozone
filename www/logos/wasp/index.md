@@ -1,8 +1,8 @@
 ---
 codehost: https://github.com/wasp-lang/wasp
-logohandle: wasp-langdev
-sort: wasplang
+logohandle: wasp
+sort: wasp
 title: Wasp
 twitter: https://x.com/WaspLang
-website: https://wasp-lang.dev/
+website: https://wasp.sh/
 ---
