@@ -5,7 +5,7 @@ instagram: https://instagram.com/givelify
 linkedin: https://linkedin.com/company/givelify
 logohandle: givelify
 sort: givelify
-title: Best app to give and collect online donations for your church or nonprofit
+title: Givelify
 twitter: https://x.com/givelify
 website: https://www.givelify.com/
 youtube: https://youtube.com/givelify
