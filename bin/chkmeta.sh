@@ -36,7 +36,6 @@ echo "INFO: starting at $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 SOCIALKEYS=$(cat "${REPO_DIR}/www/_data/socialmedia.yaml" | yq '[.[].id] | join(",")')
 OPTIONALKEYS="colors,font,guide,images,keywords,noindex,other,redirect_from,tags"
 REQUIREDKEYS="logohandle,sort,title,website"
-#    --optional=activitypub,blog,bluesky,codehost,colors,discord,dribbble,facebook,flickr,flipboard,font,googleplus,gitter,guide,images,instagram,keywords,linkedin,noindex,other,pinterest,reddit,redirect_from,slack,slideshare,snapchat,soundcloud,stackexchange,stackoverflow,tags,telegram,threads,tiktok,tumblr,twitter,wikipedia,vimeo,vine,weibo,xing,youtube \
 
 fflint frontmatter \
     --strict=true \
