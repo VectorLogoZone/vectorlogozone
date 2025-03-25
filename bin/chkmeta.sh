@@ -15,9 +15,9 @@ if [ ! command -v fflint &> /dev/null ]; then
     exit 1
 fi
 
-SCRIPT_HOME="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-REPO_HOME="$(basename $SCRIPT_HOME)"
-DEFAULT_LOGODIR="$(realpath $SCRIPT_HOME/../www/logos)"
+SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+REPO_DIR="$( cd "${SCRIPT_DIR}/.." && pwd )"
+DEFAULT_LOGODIR="${REPO_DIR}/www/logos"
 
 LOGODIR="${1:-${DEFAULT_LOGODIR}}"
 if [ ! -d "${LOGODIR}" ]; then
@@ -33,10 +33,15 @@ fi
 
 echo "INFO: starting at $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
+SOCIALKEYS=$(cat "${REPO_DIR}/www/_data/socialmedia.yaml" | yq '[.[].id] | join(",")')
+OPTIONALKEYS="colors,font,guide,images,keywords,noindex,other,redirect_from,tags"
+REQUIREDKEYS="logohandle,sort,title,website"
+#    --optional=activitypub,blog,bluesky,codehost,colors,discord,dribbble,facebook,flickr,flipboard,font,googleplus,gitter,guide,images,instagram,keywords,linkedin,noindex,other,pinterest,reddit,redirect_from,slack,slideshare,snapchat,soundcloud,stackexchange,stackoverflow,tags,telegram,threads,tiktok,tumblr,twitter,wikipedia,vimeo,vine,weibo,xing,youtube \
+
 fflint frontmatter \
     --strict=true \
-    --required=title,website,logohandle,sort \
-    --optional=activitypub,blog,bluesky,codehost,colors,discord,dribbble,facebook,flickr,flipboard,font,googleplus,gitter,guide,images,instagram,keywords,linkedin,noindex,other,pinterest,reddit,redirect_from,slack,slideshare,snapchat,soundcloud,stackexchange,stackoverflow,tags,telegram,threads,tiktok,tumblr,twitter,wikipedia,vimeo,vine,weibo,xing,youtube \
+    --required=${REQUIREDKEYS} \
+    --optional="${SOCIALKEYS},${OPTIONALKEYS}" \
     --sorted=true \
     --schema="${SCHEMA}" \
     "${LOGODIR}/*/index.md"

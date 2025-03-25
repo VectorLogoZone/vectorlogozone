@@ -1,90 +1,127 @@
 - id: activitypub
   iconhtml: <i class="fab fa-activitypub"></i>
-  handle: w3_activitypub
+  logohandle: w3_activitypub
 
 - id: blog
   iconhtml: <i class="fas fa-rss-square"></i>
-  handle: rss
+  logohandle: rss
 
 - id: bluesky
   iconhtml: <i class="fab fa-bluesky"></i>
-  
+  logohandle: bskysocial
+
 - id: codehost
   iconhtml: <i class="far fa-code-branch"></i>
+  logohandle: git-scm
 
 - id: discord
   iconhtml: <i class="fab fa-discord"></i>
+  logohandle: discord
 
 - id: dribbble
   iconhtml: <i class="fab fa-dribbble"></i>
+  logohandle: dribbble
 
 - id: facebook
   iconhtml: <i class="fab fa-facebook"></i>
+  logohandle: facebook
 
 - id: flickr
   iconhtml: <i class="fab fa-flickr"></i>
+  logohandle: flickr
+
+- id: flipboard
+  iconhtml: <i class="fab fa-flipboard"></i>
+  logohandle: flipboard
 
 - id: gitter
   iconhtml: <i class="fab fa-gitter"></i>
+  logohandle: gitterim
 
 - id: googleplus
   iconhtml: <i class="fab fa-google-plus-square "></i>
+  logohandle: google
 
 - id: instagram
   iconhtml: <i class="fab fa-instagram"></i>
+  logohandle: instagram
 
 - id: linkedin
   iconhtml: <i class="fab fa-linkedin"></i>
+  logohandle: linkedin
 
 - id: pinterest
   iconhtml: <i class="fab fa-pinterest"></i>
+  logohandle: pinterest
 
 - id: reddit
   iconhtml: <i class="fab fa-reddit"></i>
+  logohandle: reddit
 
 - id: slack
   iconhtml: <i class="fab fa-slack"></i>
+  logohandle: slack
 
 - id: slideshare
   iconhtml: <i class="fab fa-slideshare"></i>
+  logohandle: slideshare
 
 - id: snapchat
   iconhtml: <i class="fab fa-snapchat"></i>
+  logohandle: snapchat
 
 - id: soundcloud
   iconhtml: <i class="fab fa-soundcloud"></i>
+  logohandle: soundcloud
 
 - id: stackexchange
   iconhtml: <i class="fab fa-stack-exchange"></i>
+  logohandle: stackexchange
 
 - id: stackoverflow
   iconhtml: <i class="fab fa-stack-overflow"></i>
+  logohandle: stackoverflow
 
 - id: telegram
   iconhtml: <i class="fab fa-telegram"></i>
+  logohandle: telegram
+
+- id: threads
+  iconhtml: <i class="fas fa-comments"></i>
+  logohandle: threads
 
 - id: tiktok
   iconhmtl: <i class="fab fa-tiktok"></i>
+  logohandle: tiktok
 
 - id: tumblr
   iconhtml: <i class="fab fa-tumblr"></i>
+  logohandle: tumblr
 
 - id: twitter
   iconhtml: <i class="fab fa-twitter"></i>
+  logohandle: twitter
 
 - id: vimeo
   iconhtml: <i class="fab fa-vimeo"></i>
+  logohandle: vimeo
 
 - id: vine
   iconhtml: <i class="fab fa-vine"></i>
+  logohandle: vine
 
 - id: weibo
   iconhtml: <i class="fab fa-weibo"></i>
+  logohandle: weibo
+
+- id: wikipedia
+  iconhtml: <i class="fab fa-wikipedia-w"></i>
+  logohandle: wikipedia
 
 - id: xing
   iconhtml: <i class="fab fa-xing"></i>
+  logohandle: xing
 
 - id: youtube
   iconhtml: <i class="fab fa-youtube"></i>
-
- 
+  logohandle: youtube
