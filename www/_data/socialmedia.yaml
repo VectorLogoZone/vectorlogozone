@@ -1,8 +1,10 @@
 - id: activitypub
   iconhtml: <i class="fab fa-activitypub"></i>
+  handle: w3_activitypub
 
 - id: blog
   iconhtml: <i class="fas fa-rss-square"></i>
+  handle: rss
 
 - id: bluesky
   iconhtml: <i class="fab fa-bluesky"></i>
