@@ -1,11 +1,10 @@
 ---
 facebook: https://facebook.com/usatoday
+flipboard: https://flipboard.com/@USAToday
 instagram: https://instagram.com/usatoday
 linkedin: http://linkedin.com/company/usa-today
 logohandle: usatoday
 other:
-- name: Flipboard
-  url: https://flipboard.com/@USAToday
 - name: TuneIn
   url: http://tunein.com/radio/USA-TODAY-s234044/
 pinterest: https://pinterest.com/usatoday

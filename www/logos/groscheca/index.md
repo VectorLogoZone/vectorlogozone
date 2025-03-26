@@ -6,8 +6,9 @@ linkedin: https://linkedin.com/company/grosche-international
 logohandle: groscheca
 pinterest: https://pinterest.com/groscheinc
 sort: grosche
+tiktok: https://www.tiktok.com/@grosche
 title: GROSCHE
 twitter: https://x.com/GroscheInc
-website: https://grosche.ca/?doing_wp_cron=1647814148.8961598873138427734375
+website: https://grosche.ca/
 youtube: https://youtube.com/user/Groscheteacoffee
 ---

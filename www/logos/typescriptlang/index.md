@@ -3,14 +3,11 @@ blog: https://devblogs.microsoft.com/typescript/
 codehost: https://github.com/Microsoft/TypeScript
 colors:
 - '#3178C6'
+discord: https://discord.gg/typescript
 guide: https://www.typescriptlang.org/branding
 logohandle: typescriptlang
-other:
-- name: Discord
-  url: https://discord.gg/typescript
-- name: StackOverflow
-  url: https://stackoverflow.com/questions/tagged/typescript
 sort: typescript
+stackoverflow: https://stackoverflow.com/questions/tagged/typescript
 tags:
 - microsoft
 - programming_language

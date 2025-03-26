@@ -1,9 +1,7 @@
 ---
+flipboard: https://flipboard.com/@OpenText
 linkedin: https://linkedin.com/company/opentext
 logohandle: opentext
-other:
-- name: Flipboard
-  url: https://flipboard.com/@OpenText
 sort: opentext
 title: OpenText
 twitter: https://x.com/OpenText

@@ -1,10 +1,9 @@
 ---
 codehost: https://github.com/badges/shields
+discord: https://discord.gg/HjJCwm5
 guide: https://github.com/badges/shields/blob/master/static/logo.svg
 logohandle: shieldsio
 other:
-- name: Discord
-  url: https://discord.gg/HjJCwm5
 - name: OpenCollective
   url: https://opencollective.com/shields
 sort: shields
