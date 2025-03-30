@@ -4,7 +4,7 @@ facebook: https://facebook.com/testlio
 images:
 - testlio-ar21.svg
 - testlio-icon.svg
-instagram: http://instagram.com/
+instagram: https://www.instagram.com/testlio/
 linkedin: https://linkedin.com/company/testlio
 logohandle: testlio
 sort: testlio

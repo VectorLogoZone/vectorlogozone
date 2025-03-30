@@ -1,6 +1,6 @@
 ---
 facebook: https://facebook.com/TeamJCWhitney
-instagram: http://instagram.com/
+instagram: https://www.instagram.com/teamjcwhitney/
 logohandle: jcwhitney
 pinterest: https://pinterest.com/teamjcwhitney
 sort: jcwhitney

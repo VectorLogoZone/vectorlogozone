@@ -2,7 +2,7 @@
 blog: https://productplan.com/blog
 facebook: https://facebook.com/productplan
 googleplus: https://plus.google.com/+Productplan
-instagram: http://instagram.com/
+instagram: https://instagram.com/productplanapp
 linkedin: https://linkedin.com/company/productplan
 logohandle: productplan
 sort: productplan

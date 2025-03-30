@@ -33,15 +33,19 @@
 - id: flickr
   iconhtml: <i class="fab fa-flickr icon-link"></i>
   logohandle: flickr
+  pattern: "^https://www\\.flickr\\.com/photos/.+"
 
 - id: flipboard
   iconhtml: <i class="fab fa-flipboard icon-link"></i>
   logohandle: flipboard
+  pattern: "^https://flipboard\\.com/@.+"
 
 - id: gitter
   iconhtml: <i class="fab fa-gitter icon-link"></i>
   logohandle: gitterim
+  pattern: "^https://gitter\\.im/.+"
 
+# NOTE: deprecated, should be removed everywhere
 - id: googleplus
   iconhtml: <i class="fab fa-google-plus-square  icon-link"></i>
   logohandle: google
@@ -49,6 +53,7 @@
 - id: instagram
   iconhtml: <i class="fab fa-instagram icon-link"></i>
   logohandle: instagram
+  pattern: "^http[s]?://(www\\.)?instagram\\.com/.+"
 
 - id: linkedin
   iconhtml: <i class="fab fa-linkedin icon-link"></i>

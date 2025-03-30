@@ -18,7 +18,7 @@ images:
 - discordapp-icon.svg
 - discordapp-tile.svg
 - discordapp-ar21.svg
-instagram: discord
+instagram: https://www.instagram.com/discord/
 logohandle: discord
 redirect_from: /logos/discordapp/index.html
 sort: discord

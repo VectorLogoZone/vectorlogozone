@@ -1,5 +1,4 @@
 ---
-instagram: 'http://instagram.com/'
 logohandle: pingpilot
 sort: pingpilot
 title: 'PingPilot'

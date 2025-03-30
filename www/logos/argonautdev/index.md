@@ -1,6 +1,5 @@
 ---
 blog: https://argonaut.dev/blog
-instagram: https://instagram.com/
 linkedin: https://linkedin.com/company/argonautdev
 logohandle: argonautdev
 sort: argonaut

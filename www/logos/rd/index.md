@@ -1,8 +1,8 @@
 ---
 facebook: https://facebook.com/ReadersDigest
-instagram: http://instagram.com/
+instagram: https://instagram.com/readersdigest
 logohandle: rd
-pinterest: http://pinterest.com/
+pinterest: https://www.pinterest.com/readersdigest/
 sort: rd
 title: Reader’s Digest
 twitter: https://x.com/readersdigest

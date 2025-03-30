@@ -1,6 +1,7 @@
 ---
 facebook: https://facebook.com/voxfunding
-instagram: http://instagram.com/
+instagram: https://www.instagram.com/voxfunding/
+linkedin: https://www.linkedin.com/company/voxfunding/
 logohandle: voxfunding
 sort: voxfunding
 title: VOX Funding

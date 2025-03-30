@@ -1,6 +1,6 @@
 ---
+blog: https://engineering.doit.com/
 facebook: https://facebook.com/DoIT.International
-instagram: http://instagram.com/
 linkedin: https://linkedin.com/company/doitintl
 logohandle: doit
 pinterest: http://pinterest.com/pin/create/button

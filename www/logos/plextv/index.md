@@ -1,13 +1,15 @@
 ---
 blog: https://plex.tv/blog
+bluesky: https://bsky.app/profile/plex.tv
 facebook: https://facebook.com/plexapp
 googleplus: https://plus.google.com/+plex
 images:
 - plextv-tile.svg
-instagram: http://instagram.com/
+instagram: https://www.instagram.com/plex.tv/
 linkedin: https://linkedin.com/company/plex-inc
 logohandle: plextv
 sort: plex
+tiktok: https://www.tiktok.com/@plex.tv
 title: Plex
 twitter: https://x.com/plex
 website: https://www.plex.tv/
