@@ -1,7 +1,6 @@
 ---
 codehost: https://github.com/EiffelSoftware/eiffelstudio
 facebook: https://facebook.com/pages/Eiffel-Programming-Language/235981463124887
-googleplus: https://plus.google.com/117564431713099800122/posts
 logohandle: eiffel
 sort: eiffel
 title: Eiffel

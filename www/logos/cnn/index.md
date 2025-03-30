@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/cnn
-googleplus: https://plus.google.com/+cnn/posts
 instagram: https://instagram.com/cnn
 logohandle: cnn
 sort: cnn

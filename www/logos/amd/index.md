@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/amd
-googleplus: https://plus.google.com/+AMD
 linkedin: https://linkedin.com/company/amd
 logohandle: amd
 pinterest: https://pinterest.com/amd

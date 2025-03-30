@@ -1,7 +1,6 @@
 ---
 blog: https://lightningtools.com/blog/
 facebook: https://facebook.com/lightningtools
-googleplus: https://plus.google.com/+Lightningtools
 linkedin: https://linkedin.com/company/lightning-tools
 logohandle: lightningtools
 sort: lightningtools

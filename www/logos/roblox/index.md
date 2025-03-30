@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/ROBLOX
-googleplus: https://plus.google.com/+roblox
 instagram: https://instagram.com/roblox
 linkedin: https://linkedin.com/company/147977
 logohandle: roblox

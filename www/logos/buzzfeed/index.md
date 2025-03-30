@@ -1,6 +1,5 @@
 ---
 facebook: 'https://www.facebook.com/BuzzFeedVideo/'
-googleplus: 'https://plus.google.com/108807575261328575617'
 instagram: 'http://www.instagram.com/buzzfeed'
 linkedin: 'https://www.linkedin.com/company/buzzfeed'
 logohandle: buzzfeed

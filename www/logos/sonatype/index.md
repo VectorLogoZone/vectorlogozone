@@ -2,7 +2,6 @@
 blog: https://blog.sonatype.com/
 codehost: https://github.com/sonatype
 facebook: https://facebook.com/Sonatype
-googleplus: https://plus.google.com/+Sonatypeinc/
 instagram: https://instagram.com/sonatypedotcom/
 linkedin: https://linkedin.com/company/sonatype
 logohandle: sonatype

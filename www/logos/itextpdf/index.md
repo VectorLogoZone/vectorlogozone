@@ -1,7 +1,6 @@
 ---
 codehost: https://github.com/itext
 facebook: https://www.facebook.com/iTextPDF/
-googleplus: https://plus.google.com/+itext
 images:
 - itextpdf-icon.svg
 - itextpdf-ar21.svg

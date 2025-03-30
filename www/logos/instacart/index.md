@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Instacart
-googleplus: https://plus.google.com/+Instacart
 instagram: https://instagram.com/instacart
 linkedin: https://linkedin.com/company/instacart
 logohandle: instacart

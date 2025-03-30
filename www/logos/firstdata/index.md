@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/firstdata
-googleplus: https://plus.google.com/+firstdata
 linkedin: http://linkedin.com/company/first-data-corporation
 logohandle: firstdata
 sort: firstdata

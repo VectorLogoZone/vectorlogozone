@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/unitedpress
-googleplus: https://plus.google.com/+UpiNews/posts
 instagram: https://instagram.com/upi
 linkedin: https://linkedin.com/company/united-press-international
 logohandle: upi

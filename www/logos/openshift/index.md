@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/openshift
-googleplus: https://plus.google.com/+OpenShift
 images:
 - openshift-icon.svg
 - openshift-ar21.svg

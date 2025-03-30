@@ -1,7 +1,6 @@
 ---
 blog: https://blog.3dcart.com/
 facebook: https://facebook.com/3dcart
-googleplus: https://plus.google.com/+3dcart
 instagram: https://instagram.com/3dcart
 linkedin: https://linkedin.com/company/3dcart.com
 logohandle: 3dcart

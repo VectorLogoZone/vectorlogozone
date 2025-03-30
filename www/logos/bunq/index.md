@@ -1,7 +1,6 @@
 ---
 codehost: https://github.com/bunq
 facebook: https://facebook.com/bunq
-googleplus: https://plus.google.com/u/0/105103732066845856699
 instagram: https://instagram.com/bunq
 linkedin: https://linkedin.com/company/bunq
 logohandle: bunq

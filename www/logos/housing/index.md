@@ -1,5 +1,4 @@
 ---
-googleplus: 'https://plus.google.com/+Housing-com'
 logohandle: housing
 sort: housing
 title: Housing

@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/EntMagazine
-googleplus: https://plus.google.com/112642400145469652250
 instagram: http://instagram.com/entrepreneur
 linkedin: https://linkedin.com/company/entrepreneur-media
 logohandle: entrepreneur

@@ -1,6 +1,5 @@
 ---
 facebook: http://www.facebook.com/eSolia
-googleplus: https://plus.google.com/+Esolia/posts
 linkedin: http://www.linkedin.com/company/esolia-inc
 logohandle: esolia
 sort: esolia

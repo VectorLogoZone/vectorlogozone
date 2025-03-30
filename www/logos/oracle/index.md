@@ -1,7 +1,6 @@
 ---
 blog: https://blogs.oracle.com/
 facebook: https://www.facebook.com/Oracle/
-googleplus: https://plus.google.com/+oracle
 images:
 - oracle-ar21.svg
 - oracle-icon.svg

@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/InnovAccer
-googleplus: https://plus.google.com/Innovaccer
 linkedin: https://linkedin.com/company/innovaccer
 logohandle: innovaccer
 sort: innovaccer

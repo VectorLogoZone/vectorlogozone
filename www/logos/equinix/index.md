@@ -1,7 +1,6 @@
 ---
 blog: https://blog.equinix.com/
 facebook: https://facebook.com/Equinix
-googleplus: https://plus.google.com/+equinix/
 linkedin: https://linkedin.com/company/equinix
 logohandle: equinix
 sort: equinix

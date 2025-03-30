@@ -1,7 +1,6 @@
 ---
 blog: https://blog.fundly.com/
 facebook: http://facebook.com/fundly
-googleplus: http://plus.google.com/+FundlyOnlineFundraising
 instagram: http://instagram.com/fundly
 logohandle: fundly
 pinterest: http://pinterest.com/fundly

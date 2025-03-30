@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/studentuniverse
-googleplus: https://plus.google.com/117477990385708314785
 instagram: https://instagram.com/studentuniverse
 linkedin: https://linkedin.com/company/studentuniverse-com
 logohandle: studentuniverse

@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/whitesource
-googleplus: https://plus.google.com/u/0/+Whitesourcesoftware-page
 linkedin: https://linkedin.com/company/white-source
 logohandle: whitesourcesoftware
 sort: whitesourcesoftware

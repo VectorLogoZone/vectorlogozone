@@ -9,7 +9,6 @@ facebook: http://www.facebook.com/RedHatInc
 font:
   name: Interstate
   url: https://store.typenetwork.com/foundry/fontbureau/series/interstate
-googleplus: https://plus.google.com/+RedHat
 guide: https://brand.redhat.com/
 images:
 - redhat-ar21.svg

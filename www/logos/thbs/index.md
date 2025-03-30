@@ -1,7 +1,6 @@
 ---
 blog: https://thbs.com/blog
 facebook: https://facebook.com/TorryHarrisBusinessSolutions
-googleplus: https://plus.google.com/+TorryHarris/
 instagram: https://instagram.com/torryharrisbusinesssolutions/
 linkedin: https://linkedin.com/company/torry-harris-business-solutions
 logohandle: thbs

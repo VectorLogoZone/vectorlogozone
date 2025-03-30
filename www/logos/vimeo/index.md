@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Vimeo
-googleplus: https://plus.google.com/+vimeo
 images:
 - vimeo-tile.svg
 instagram: https://instagram.com/vimeo

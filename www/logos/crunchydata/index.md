@@ -1,7 +1,6 @@
 ---
 blog: https://info.crunchydata.com/blog
 codehost: https://github.com/CrunchyData
-googleplus: http://plus.google.com/+Crunchydatasolutionsinc
 linkedin: https://linkedin.com/company/crunchy-data-solutions-inc-
 logohandle: crunchydata
 sort: crunchydata

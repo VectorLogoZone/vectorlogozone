@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/NVIDIA
-googleplus: https://plus.google.com/104889184472622775891
 logohandle: nvidia
 sort: nvidia
 title: NVIDIA

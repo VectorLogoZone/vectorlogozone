@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Symantec
-googleplus: https://plus.google.com/+symantec/posts
 linkedin: https://linkedin.com/company/1231
 logohandle: symantec
 sort: symantec

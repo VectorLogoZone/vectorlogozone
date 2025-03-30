@@ -1,6 +1,5 @@
 ---
 facebook: 'https://facebook.com/Stommpy'
-googleplus: 'https://plus.google.com/u/0/+STOMMPYImpactSafetySystems'
 linkedin: 'https://linkedin.com/company/stommpy'
 logohandle: stommpy
 sort: stommpy

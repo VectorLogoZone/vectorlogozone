@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/marketwatch
-googleplus: https://plus.google.com/+marketwatch
 linkedin: https://linkedin.com/company/marketwatch
 logohandle: marketwatch
 sort: marketwatch

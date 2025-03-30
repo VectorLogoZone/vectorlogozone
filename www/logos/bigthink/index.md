@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/BigThinkdotcom
-googleplus: https://plus.google.com/+bigthink
 instagram: https://instagram.com/bigthinkers
 linkedin: https://linkedin.com/company/big-think
 logohandle: bigthink

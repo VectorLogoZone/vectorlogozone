@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/GrupoBBVA
-googleplus: https://plus.google.com/116515550915076317173/posts
 instagram: https://instagram.com/bbva
 linkedin: https://linkedin.com/company/bbva
 logohandle: bbva

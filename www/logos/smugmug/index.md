@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/SmugMug
-googleplus: https://plus.google.com/+SmugMug
 instagram: https://instagram.com/smugmug
 logohandle: smugmug
 sort: smugmug

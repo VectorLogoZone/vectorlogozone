@@ -1,7 +1,6 @@
 ---
 codehost: https://github.com/scotch-io
 facebook: https://facebook.com/scotchdevelopment
-googleplus: https://plus.google.com/b/113854128330570384219
 logohandle: scotchio
 sort: scotchio
 title: Scotch.io

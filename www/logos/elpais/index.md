@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/elpais
-googleplus: https://plus.google.com/+elpais
 instagram: https://instagram.com/el_pais
 logohandle: elpais
 sort: elpais

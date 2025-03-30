@@ -1,7 +1,6 @@
 ---
 blog: https://blog.asana.com/
 facebook: http://facebook.com/asana
-googleplus: https://plus.google.com/u/0/113573148566753524000
 instagram: http://instagram.com/teamasana
 linkedin: https://linkedin.com/company/asana
 logohandle: asana

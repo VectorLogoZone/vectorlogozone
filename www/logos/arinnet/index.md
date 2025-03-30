@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/TeamARIN
-googleplus: https://plus.google.com/106553352516672539964
 linkedin: https://linkedin.com/company/arin
 logohandle: arinnet
 sort: arin

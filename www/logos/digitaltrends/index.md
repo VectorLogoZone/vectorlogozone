@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/DigitalTrends
-googleplus: https://plus.google.com/+digitaltrends
 instagram: https://instagram.com/digitaltrends
 linkedin: https://linkedin.com/company/digitaltrends-com
 logohandle: digitaltrends

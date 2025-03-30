@@ -1,7 +1,6 @@
 ---
 blog: https://blog.zabbix.com/
 facebook: https://facebook.com/zabbix
-googleplus: https://plus.google.com/+Zabbix
 linkedin: https://linkedin.com/company/zabbix
 logohandle: zabbix
 sort: zabbix

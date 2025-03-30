@@ -1,7 +1,6 @@
 ---
 blog: https://medium.com/kickstarter/
 facebook: https://www.facebook.com/Kickstarter/
-googleplus: https://plus.google.com/118239121095465976293
 instagram: https://www.instagram.com/kickstarter/
 logohandle: kickstarter
 sort: kickstarter

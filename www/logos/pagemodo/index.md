@@ -1,7 +1,6 @@
 ---
 blog: http://pagemodo.com/blog
 facebook: http://facebook.com/pagemodo
-googleplus: https://plus.google.com/107269171757601961284
 instagram: https://instagram.com/pagemodo
 linkedin: http://linkedin.com/company/pagemodo
 logohandle: pagemodo

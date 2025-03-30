@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/DeployGate
-googleplus: https://plus.google.com/114833926621038209135/about
 logohandle: deploygate
 sort: deploygate
 title: DeployGate

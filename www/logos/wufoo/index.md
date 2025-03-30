@@ -4,7 +4,6 @@ codehost: https://github.com/wufoo
 colors:
 - '#E86F69'
 facebook: https://www.facebook.com/formbuilder
-googleplus: https://plus.google.com/+wufoot
 images:
 - wufoo-ar21.svg
 - wufoo-icon.svg

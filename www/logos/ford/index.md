@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/ford
-googleplus: https://plus.google.com/+ford
 instagram: http://instagram.com/ford
 linkedin: https://linkedin.com/company/ford-motor-company
 logohandle: ford

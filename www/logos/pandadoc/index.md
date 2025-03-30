@@ -1,7 +1,6 @@
 ---
 blog: https://blog.pandadoc.com/
 facebook: https://facebook.com/PandaDoc
-googleplus: https://plus.google.com/+Pandadoc
 linkedin: https://linkedin.com/company/pandadoc
 logohandle: pandadoc
 sort: pandadoc

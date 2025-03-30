@@ -4,7 +4,6 @@ codehost: https://github.com/lastpass
 colors:
 - '#D32D27'
 facebook: https://www.facebook.com/LastPass
-googleplus: https://plus.google.com/+LastPass
 guide: https://lastpass.com/press-room/
 instagram: https://www.instagram.com/lastpassofficial/
 linkedin: https://www.linkedin.com/company/lastpass

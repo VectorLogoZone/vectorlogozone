@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/ABCNetwork
-googleplus: https://plus.google.com/+ABCNetwork
 logohandle: abcgo
 sort: abcgo
 title: ABC

@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/blackenterprise
-googleplus: https://plus.google.com/106400423847614749556/
 instagram: https://instagram.com/blackenterprise
 linkedin: https://linkedin.com/company/black-enterprise
 logohandle: blackenterprise

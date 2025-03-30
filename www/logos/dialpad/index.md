@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Dialpadhq
-googleplus: https://plus.google.com/111356529615278748542
 instagram: https://instagram.com/dialpadhq/?hl=en
 linkedin: https://linkedin.com/company/dialpad
 logohandle: dialpad

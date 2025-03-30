@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/yatzer
-googleplus: https://plus.google.com/+Yatzerized
 instagram: https://instagram.com/yatzer
 logohandle: yatzer
 pinterest: https://pinterest.com/yatzer

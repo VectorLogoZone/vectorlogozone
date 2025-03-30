@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Digiconomist
-googleplus: https://plus.google.com/+DigiconomistNetwork
 linkedin: https://linkedin.com/company/digiconomist/
 logohandle: digiconomistnet
 sort: digiconomist

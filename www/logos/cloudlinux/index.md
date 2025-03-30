@@ -1,7 +1,6 @@
 ---
 blog: https://blog.cloudlinux.com/
 facebook: https://facebook.com/CloudLinux
-googleplus: https://plus.google.com/118422480335751588838/posts
 linkedin: https://linkedin.com/company/cloudlinux
 logohandle: cloudlinux
 sort: cloudlinux

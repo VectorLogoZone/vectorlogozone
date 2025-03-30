@@ -1,5 +1,4 @@
 ---
-googleplus: https://plus.google.com/+3scaleNet
 linkedin: https://linkedin.com/company/364517
 logohandle: 3scalenet
 sort: 3scale

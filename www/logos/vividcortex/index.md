@@ -1,7 +1,6 @@
 ---
 blog: https://vividcortex.com/blog
 facebook: https://facebook.com/VividCortexInc
-googleplus: https://plus.google.com/+Vividcortex
 linkedin: https://linkedin.com/company/vividcortex
 logohandle: vividcortex
 sort: vividcortex

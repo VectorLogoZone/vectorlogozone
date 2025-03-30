@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/AtlanticNet
-googleplus: https://plus.google.com/+AtlanticNet
 linkedin: https://linkedin.com/company/atlantic.net-inc
 logohandle: atlanticnet
 sort: atlantic

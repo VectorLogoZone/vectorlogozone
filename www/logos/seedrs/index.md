@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Seedrs
-googleplus: https://plus.google.com/+SeedrsCrowdfunding
 instagram: https://instagram.com/seedrs
 linkedin: https://linkedin.com/company/seedrs
 logohandle: seedrs

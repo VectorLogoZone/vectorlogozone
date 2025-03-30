@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/purismcomputer
-googleplus: https://plus.google.com/111393989043350251300/posts
 logohandle: purism
 pinterest: https://pinterest.com/purismcomputer
 sort: purism

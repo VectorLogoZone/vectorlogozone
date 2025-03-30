@@ -1,7 +1,6 @@
 ---
 blog: https://vpnreactor.com/blog
 facebook: https://facebook.com/vpnreactor
-googleplus: https://plus.google.com/113495462023773015487
 linkedin: http://linkedin.com/pub/vpn-reactor/91/3ba/b79
 logohandle: vpnreactor
 sort: vpnreactor

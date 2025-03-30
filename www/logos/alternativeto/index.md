@@ -1,7 +1,6 @@
 ---
 blog: https://blog.alternativeto.net/
 facebook: https://www.facebook.com/AlternativeTo
-googleplus: https://plus.google.com/+alternativeto
 images:
 - alternativeto-icon.svg
 - alternativeto-ar21.svg

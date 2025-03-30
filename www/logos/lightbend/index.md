@@ -1,6 +1,5 @@
 ---
 blog: https://developer.lightbend.com/blog
-googleplus: https://plus.google.com/106872819502956543735
 guide: https://www.lightbend.com/brand
 logohandle: lightbend
 sort: lightbend

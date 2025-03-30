@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Jelly-1526680197345277
-googleplus: https://plus.google.com/b/107353614693136130939/communities/111037556061933024343
 logohandle: unihertz
 pinterest: https://pinterest.com/unihertz
 sort: unihertz

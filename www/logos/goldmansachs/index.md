@@ -1,6 +1,5 @@
 ---
 facebook: https://www.facebook.com/goldmansachs
-googleplus: https://plus.google.com/+GoldmanSachs
 linkedin: https://linkedin.com/company/goldman-sachs
 logohandle: goldmansachs
 sort: goldmansachs

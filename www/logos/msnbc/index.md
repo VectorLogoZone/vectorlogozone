@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/msnbc
-googleplus: https://plus.google.com/+msnbc
 instagram: http://instagram.com/msnbc
 linkedin: https://linkedin.com/company/msnbc
 logohandle: msnbc

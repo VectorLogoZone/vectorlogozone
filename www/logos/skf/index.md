@@ -1,6 +1,5 @@
 ---
 facebook: http://www.facebook.com/SKFGroup
-googleplus: https://plus.google.com/u/0/111628970954092946024
 instagram: http://instagram.com/skfgroup
 linkedin: https://www.linkedin.com/company/skf
 logohandle: skf

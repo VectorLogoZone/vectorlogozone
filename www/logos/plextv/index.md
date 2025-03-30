@@ -2,7 +2,6 @@
 blog: https://plex.tv/blog
 bluesky: https://bsky.app/profile/plex.tv
 facebook: https://facebook.com/plexapp
-googleplus: https://plus.google.com/+plex
 images:
 - plextv-tile.svg
 instagram: https://www.instagram.com/plex.tv/

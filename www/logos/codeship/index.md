@@ -1,7 +1,6 @@
 ---
 blog: https://blog.codeship.com/
 facebook: https://facebook.com/codeship
-googleplus: https://plus.google.com/104419910257777182146/
 instagram: https://instagram.com/codeship
 linkedin: https://linkedin.com/company/codeship
 logohandle: codeship

@@ -1,7 +1,6 @@
 ---
 blog: https://blogs.sas.com/content/
 facebook: https://www.facebook.com/SASsoftware
-googleplus: https://plus.google.com/+sassoftware
 images:
 - sas-icon.svg
 - sas-ar21.svg

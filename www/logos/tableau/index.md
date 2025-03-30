@@ -1,6 +1,5 @@
 ---
 blog: https://tableau.com/about/blog
-googleplus: http://plus.google.com/+tableausoftware
 linkedin: https://linkedin.com/company/tableau-software
 logohandle: tableau
 sort: tableau

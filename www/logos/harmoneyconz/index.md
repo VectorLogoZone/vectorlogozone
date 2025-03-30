@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/HarmoneyNZ
-googleplus: https://plus.google.com/+HarmoneyCoNZ
 linkedin: https://linkedin.com/company/3564785
 logohandle: harmoneyconz
 sort: harmoney

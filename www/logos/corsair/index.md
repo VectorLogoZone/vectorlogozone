@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Corsair
-googleplus: https://plus.google.com/+corsair/
 images:
 - corsair-ar21.svg
 - corsair-icon.svg

@@ -1,7 +1,6 @@
 ---
 blog: https://blog.shareaholic.com/
 facebook: https://facebook.com/shareaholic
-googleplus: https://plus.google.com/+shareaholic
 instagram: https://instagram.com/shareaholic
 linkedin: https://linkedin.com/company/shareaholic-inc
 logohandle: shareaholic

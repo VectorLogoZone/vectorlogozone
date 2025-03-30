@@ -1,7 +1,6 @@
 ---
 blog: https://bitovi.com/blog
 codehost: https://github.com/donejs/donejs
-googleplus: https://plus.google.com/+Bitovi/posts
 logohandle: donejs
 sort: donejs
 title: donejs

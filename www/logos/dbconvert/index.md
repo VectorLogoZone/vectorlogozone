@@ -2,7 +2,6 @@
 blog: https://medium.com/dbconvert
 codehost: https://github.com/slotix
 facebook: https://facebook.com/DBConvert
-googleplus: http://plus.google.com/+Convertdb
 logohandle: dbconvert
 sort: dbconvert
 title: DBConvert

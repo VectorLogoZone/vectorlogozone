@@ -1,6 +1,5 @@
 ---
 blog: https://googledrive.blogspot.com/
-googleplus: https://plus.google.com/+GoogleDrive
 images:
 - google_drive-ar21.svg
 - google_drive-icon.svg

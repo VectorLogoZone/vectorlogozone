@@ -2,7 +2,6 @@
 blog: http://blog.shippable.com/
 codehost: https://github.com/Shippable/support
 facebook: https://facebook.com/beShippable
-googleplus: https://plus.google.com/b/103100794808234172473/103100794808234172473
 linkedin: https://linkedin.com/company/shippable
 logohandle: shippable
 sort: shippable

@@ -8,7 +8,6 @@ font:
   myfonts: null
   name: Gotham
   url: https://www.typography.com/fonts/gotham/overview/
-googleplus: https://plus.google.com/+SUSE
 guide: https://www.suse.com/brandcentral/suse/identity.php
 images:
 - suse-icon.svg

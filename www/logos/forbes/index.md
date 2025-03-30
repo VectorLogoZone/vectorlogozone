@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/forbes
-googleplus: https://plus.google.com/+Forbes
 instagram: https://instagram.com/forbes
 linkedin: https://linkedin.com/company/forbes-magazine
 logohandle: forbes

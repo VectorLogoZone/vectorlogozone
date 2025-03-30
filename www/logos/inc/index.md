@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Inc
-googleplus: https://plus.google.com/101053931292824178985
 instagram: https://instagram.com/incmagazine
 linkedin: https://linkedin.com/company/inc--magazine
 logohandle: inc

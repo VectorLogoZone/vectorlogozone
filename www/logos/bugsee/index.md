@@ -1,7 +1,6 @@
 ---
 blog: https://bugsee.com/blog
 facebook: https://facebook.com/BugseeHQ
-googleplus: https://plus.google.com/+Bugsee
 linkedin: https://linkedin.com/company/bugsee
 logohandle: bugsee
 sort: bugsee

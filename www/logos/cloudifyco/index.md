@@ -1,7 +1,6 @@
 ---
 codehost: https://github.com/cloudify-cosmo
 facebook: https://facebook.com/Cloudify.co
-googleplus: https://plus.google.com/+GetcloudifyOrg
 instagram: https://instagram.com/lifeatcloudify
 linkedin: https://linkedin.com/company-beta/17918192
 logohandle: cloudifyco

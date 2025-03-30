@@ -1,7 +1,6 @@
 ---
 blog: http://info.larky.com/blog/
 facebook: https://facebook.com/getlarky
-googleplus: https://plus.google.com/+Larky/posts
 linkedin: https://linkedin.com/company/larky
 logohandle: larky
 sort: larky

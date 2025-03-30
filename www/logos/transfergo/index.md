@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/TransferGo
-googleplus: https://plus.google.com/+transfergo
 linkedin: https://linkedin.com/company/transfergo
 logohandle: transfergo
 sort: transfergo

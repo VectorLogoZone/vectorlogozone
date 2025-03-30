@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/williamandmary
-googleplus: https://plus.google.com/+williamandmary
 instagram: https://instagram.com/william_and_mary
 linkedin: https://linkedin.com/edu/school?id=19598
 logohandle: wmedu

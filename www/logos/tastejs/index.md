@@ -1,7 +1,6 @@
 ---
 blog: http://blog.tastejs.com/
 codehost: https://github.com/tastejs
-googleplus: https://plus.google.com/118031398813892182447
 logohandle: tastejs
 sort: tastejs
 title: TasteJS

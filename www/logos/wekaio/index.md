@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Weka.IO
-googleplus: https://plus.google.com/u/0/b/112086508971157153094/112086508971157153094
 linkedin: https://linkedin.com/company/weka-io
 logohandle: wekaio
 sort: wekaio

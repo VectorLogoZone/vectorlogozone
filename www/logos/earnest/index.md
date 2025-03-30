@@ -1,7 +1,6 @@
 ---
 blog: https://earnest.com/blog
 facebook: https://facebook.com/meetearnest
-googleplus: https://plus.google.com/+Meetearnest
 instagram: https://instagram.com/meetearnest
 linkedin: https://linkedin.com/company/earnest-inc
 logohandle: earnest

@@ -1,6 +1,5 @@
 ---
 facebook: https://www.facebook.com/SamsungUS
-googleplus: https://plus.google.com/+SamsungUSA
 images:
 - samsung-ar21.svg
 - samsung-icon.svg

@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/go2group
-googleplus: https://plus.google.com/+Go2group
 linkedin: https://linkedin.com/company/go2group
 logohandle: go2group
 sort: go2group

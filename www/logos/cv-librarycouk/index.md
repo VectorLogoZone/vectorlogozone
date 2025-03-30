@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/CVLibraryUK
-googleplus: https://plus.google.com/+cvlibrary
 instagram: https://instagram.com/cvlibraryuk
 linkedin: https://linkedin.com/company/298012
 logohandle: cv-librarycouk

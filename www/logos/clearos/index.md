@@ -1,7 +1,6 @@
 ---
 codehost: https://github.com/clearos
 facebook: https://facebook.com/ClearOS
-googleplus: https://plus.google.com/+ClearosOrem
 linkedin: https://linkedin.com/company/clearcenter
 logohandle: clearos
 sort: clearos

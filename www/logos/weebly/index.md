@@ -2,7 +2,6 @@
 blog: https://weebly.com/blog
 codehost: https://github.com/weebly
 facebook: https://facebook.com/weebly
-googleplus: https://plus.google.com/+weebly
 instagram: https://instagram.com/weebly
 linkedin: https://linkedin.com/company/weebly
 logohandle: weebly

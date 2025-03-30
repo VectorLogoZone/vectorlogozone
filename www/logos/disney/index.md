@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Disney
-googleplus: https://plus.google.com/+Disney
 instagram: http://instagram.com/disney
 logohandle: disney
 pinterest: http://pinterest.com/Disney

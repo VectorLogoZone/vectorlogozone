@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/tiaa
-googleplus: https://plus.google.com/+tiaa
 linkedin: https://linkedin.com/company/tiaa
 logohandle: tiaa
 sort: tiaa

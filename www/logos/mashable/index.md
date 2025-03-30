@@ -1,6 +1,5 @@
 ---
 facebook: http://www.facebook.com/mashable
-googleplus: https://plus.google.com/+Mashable
 images:
 - mashable-icon.svg
 - mashable-ar21.svg

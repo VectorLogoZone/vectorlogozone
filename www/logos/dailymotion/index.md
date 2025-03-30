@@ -1,7 +1,6 @@
 ---
 blog: https://blog.dailymotion.com/
 facebook: https://www.facebook.com/Dailymotion
-googleplus: https://plus.google.com/+dailymotion
 images:
 - dailymotion-icon.svg
 - dailymotion-ar21.svg

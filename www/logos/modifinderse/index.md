@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/modifinderab
-googleplus: https://plus.google.com/112398791900784047937
 linkedin: https://linkedin.com/company/modifinder-ab
 logohandle: modifinderse
 sort: modifinder

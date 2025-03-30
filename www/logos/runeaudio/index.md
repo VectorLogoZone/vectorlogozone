@@ -2,7 +2,6 @@
 blog: http://runeaudio.com/blog
 codehost: https://github.com/RuneAudio
 facebook: https://facebook.com/runeaudio
-googleplus: https://plus.google.com/+Runeaudio
 logohandle: runeaudio
 sort: runeaudio
 title: RuneAudio

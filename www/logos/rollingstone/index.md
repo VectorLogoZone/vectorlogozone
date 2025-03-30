@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/RollingStone
-googleplus: https://plus.google.com/+RollingStone/posts
 instagram: https://instagram.com/rollingstone
 logohandle: rollingstone
 pinterest: https://pinterest.com/rollingstone

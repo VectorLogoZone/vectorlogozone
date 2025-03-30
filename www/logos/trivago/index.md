@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/trivagoUS
-googleplus: https://plus.google.com/104932839474048215618
 instagram: https://instagram.com/trivago
 linkedin: https://linkedin.com/company/trivagonv
 logohandle: trivago

@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/lacnic
-googleplus: https://plus.google.com/u/0/+lacnicstaff/
 logohandle: lacnicnet
 sort: lacnic
 title: LACNIC Inicio

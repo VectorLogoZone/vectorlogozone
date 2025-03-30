@@ -1,6 +1,5 @@
 ---
 facebook: https://www.facebook.com/Fender/
-googleplus: https://plus.google.com/+fender
 instagram: https://www.instagram.com/fender
 logohandle: fender
 pinterest: https://www.pinterest.com/fender/

@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/RedSharkNews
-googleplus: https://plus.google.com/u/0/+Redsharknews
 instagram: https://instagram.com/redshark_news
 logohandle: redsharknews
 sort: redsharknews

@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/BleepingComputer
-googleplus: https://plus.google.com/+bleepingcomputer
 logohandle: bleepingcomputer
 sort: bleepingcomputer
 title: BleepingComputer.com

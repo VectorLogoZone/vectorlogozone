@@ -1,7 +1,6 @@
 ---
 blog: https://yola.com/blog
 facebook: https://facebook.com/Yola
-googleplus: https://plus.google.com/102098834877599409395/posts
 instagram: https://instagram.com/yolainc
 logohandle: yola
 sort: yola

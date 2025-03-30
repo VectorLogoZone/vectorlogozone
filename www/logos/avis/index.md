@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/avis
-googleplus: https://plus.google.com/106284786996002686465
 instagram: https://instagram.com/avisusa
 linkedin: https://linkedin.com/company/avis-budget-group
 logohandle: avis

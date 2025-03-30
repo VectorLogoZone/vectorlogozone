@@ -1,5 +1,4 @@
 ---
-googleplus: 'https://plus.google.com/+livemint'
 logohandle: livemint
 sort: livemint
 title: Livemint

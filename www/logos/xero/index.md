@@ -1,7 +1,6 @@
 ---
 blog: https://xero.com/blog
 facebook: https://facebook.com/Xero.Accounting
-googleplus: https://plus.google.com/+xero
 instagram: https://instagram.com/xero
 linkedin: https://linkedin.com/company/xero
 logohandle: xero

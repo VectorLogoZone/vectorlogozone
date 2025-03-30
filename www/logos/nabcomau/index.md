@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/NAB
-googleplus: https://plus.google.com/+NAB
 linkedin: http://linkedin.com/company/national-australia-bank
 logohandle: nabcomau
 sort: nab

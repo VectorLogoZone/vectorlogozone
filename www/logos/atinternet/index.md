@@ -1,7 +1,6 @@
 ---
 blog: https://blog.atinternet.com/en
 facebook: https://facebook.com/atinternet.analytics
-googleplus: https://plus.google.com/+ATinternet
 linkedin: https://linkedin.com/company/at-internet
 logohandle: atinternet
 sort: atinternet

@@ -1,6 +1,5 @@
 ---
 blog: https://typefox.io/blog
-googleplus: https://plus.google.com/113217881905759783845
 logohandle: typefoxio
 sort: typefox
 title: TypeFox

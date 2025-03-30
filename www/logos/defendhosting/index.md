@@ -1,7 +1,6 @@
 ---
 blog: https://defendhosting.com/blog
 facebook: https://facebook.com/DefendHosting-957711570962568
-googleplus: https://plus.google.com/102737420009905217854/posts?hl=en
 instagram: https://instagram.com/defendhosting
 linkedin: https://linkedin.com/company/defendhosting
 logohandle: defendhosting

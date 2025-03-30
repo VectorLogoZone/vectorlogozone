@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/Shell
-googleplus: http://plus.google.com/+shell
 instagram: http://instagram.com/shell
 linkedin: http://linkedin.com/company/shell
 logohandle: shell

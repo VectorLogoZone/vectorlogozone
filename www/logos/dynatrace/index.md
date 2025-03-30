@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/Dynatrace
-googleplus: https://plus.google.com/+dynatrace
 instagram: https://instagram.com/dynatrace
 linkedin: https://linkedin.com/company/dynatrace
 logohandle: dynatrace

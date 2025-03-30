@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/pingboard
-googleplus: https://plus.google.com/+Pingboard1
 linkedin: https://linkedin.com/company/pingboard
 logohandle: pingboard
 pinterest: https://pinterest.com/pingboard

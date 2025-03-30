@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/acquia
-googleplus: https://plus.google.com/+acquia
 linkedin: http://linkedin.com/company/167056
 logohandle: acquia
 sort: acquia

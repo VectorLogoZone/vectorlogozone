@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/HostGator
-googleplus: https://plus.google.com/+hostgator
 logohandle: hostgator
 sort: hostgator
 title: HostGator

@@ -1,5 +1,4 @@
 ---
-googleplus: https://plus.google.com/103479662510872788195
 logohandle: monetdb
 sort: monetdb
 title: MonetDB

@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/oasis.open
-googleplus: https://plus.google.com/+Oasis-openOrg
 logohandle: oasis-open
 sort: oasis-open
 title: OASIS

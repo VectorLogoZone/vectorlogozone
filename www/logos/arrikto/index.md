@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/arrikto
-googleplus: https://plus.google.com/explore
 instagram: https://instagram.com/arrikto
 linkedin: https://linkedin.com/company/arrikto
 logohandle: arrikto

@@ -1,7 +1,6 @@
 ---
 blog: https://galois.com/blog
 codehost: https://github.com/GaloisInc
-googleplus: https://plus.google.com/+GaloisInc
 linkedin: https://linkedin.com/company/galois-inc-
 logohandle: galois
 sort: galois

@@ -1,7 +1,6 @@
 ---
 blog: https://mesosphere.com/blog
 facebook: https://facebook.com/pages/Mesosphere/493275120756820
-googleplus: https://plus.google.com/+Mesosphere
 linkedin: https://linkedin.com/company/mesosphere
 logohandle: mesosphere
 sort: mesosphere

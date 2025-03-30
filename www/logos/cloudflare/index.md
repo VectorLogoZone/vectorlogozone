@@ -5,8 +5,8 @@ colors:
 - '#FAAE40'
 - '#F38020'
 - '#404041'
+discord: https://discord.com/invite/cloudflaredev
 facebook: https://www.facebook.com/Cloudflare/
-googleplus: https://plus.google.com/+cloudflare
 guide: https://www.cloudflare.com/logo/
 images:
 - cloudflare-official.svg

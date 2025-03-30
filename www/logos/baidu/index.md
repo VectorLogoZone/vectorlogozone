@@ -1,6 +1,5 @@
 ---
 facebook: https://www.facebook.com/baiduUSA/
-googleplus: https://plus.google.com/+BaiduUSASunnyvale
 images:
 - baidu-icon.svg
 - baidu-tile.svg

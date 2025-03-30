@@ -1,7 +1,6 @@
 ---
 blog: https://wix.com/blog
 facebook: https://facebook.com/wix
-googleplus: https://plus.google.com/+Wix/posts
 instagram: https://instagram.com/wix
 linkedin: https://linkedin.com/company/wix-com?trk=biz-companies-cym
 logohandle: wix

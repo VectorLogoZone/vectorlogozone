@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/bustledotcom
-googleplus: https://plus.google.com/+bustledotcom%3E
 instagram: https://instagram.com/bustle
 logohandle: bustle
 pinterest: https://pinterest.com/bustledotcom

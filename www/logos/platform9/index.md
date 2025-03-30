@@ -1,7 +1,6 @@
 ---
 blog: https://platform9.com/blog
 facebook: https://facebook.com/platform9sys
-googleplus: https://plus.google.com/+Platform9
 linkedin: https://linkedin.com/company/platform9-systems
 logohandle: platform9
 sort: platform9

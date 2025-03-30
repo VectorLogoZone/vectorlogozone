@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/SoFi
-googleplus: https://plus.google.com/+SoFi
 instagram: https://instagram.com/sofi
 linkedin: https://linkedin.com/company/sofi
 logohandle: sofi

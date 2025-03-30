@@ -1,6 +1,5 @@
 ---
 facebook: http://www.facebook.com/rabobank
-googleplus: http://plus.google.com/115587448251938942518
 logohandle: rabobank
 sort: rabobank
 title: Rabobank

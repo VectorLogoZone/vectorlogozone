@@ -1,7 +1,6 @@
 ---
 blog: https://blog.balsamiq.com/
 facebook: https://facebook.com/balsamiq
-googleplus: https://plus.google.com/+balsamiq
 guide: https://balsamiq.com/company/brandassets/
 instagram: https://www.instagram.com/balsamiq/
 linkedin: https://www.linkedin.com/company/balsamiq

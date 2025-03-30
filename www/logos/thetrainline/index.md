@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/trainline.uk
-googleplus: https://plus.google.com/+trainline
 instagram: https://instagram.com/trainline/?hl=en
 linkedin: https://linkedin.com/company/trainline
 logohandle: thetrainline

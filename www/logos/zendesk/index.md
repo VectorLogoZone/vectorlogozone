@@ -3,7 +3,6 @@ colors:
 - '#16140c'
 - fffcf6
 facebook: http://facebook.com/zendesk
-googleplus: http://plus.google.com/+zendesk
 guide: https://dam.zendesk.com/guidelines/guide/917681d4-0746-47a4-9e18-61729d8ee987
 instagram: http://instagram.com/zendesk
 linkedin: http://linkedin.com/company/zendesk

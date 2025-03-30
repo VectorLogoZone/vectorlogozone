@@ -1,7 +1,6 @@
 ---
 blog: https://blogs.akamai.com/
 facebook: https://facebook.com/AkamaiTechnologies
-googleplus: https://plus.google.com/+akamai
 linkedin: https://linkedin.com/company/akamai-technologies
 logohandle: akamai
 sort: akamai

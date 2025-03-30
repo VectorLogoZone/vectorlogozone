@@ -3,7 +3,6 @@ blog: https://haeckdesign.com/blog
 codehost: https://github.com/HaeckDesign
 dribbble: https://dribbble.com/HaeckDesign
 facebook: https://facebook.com/haeckdesign
-googleplus: https://plus.google.com/+Haeckdesign
 instagram: https://instagram.com/haeckdesign
 linkedin: https://linkedin.com/in/haeckdesign
 logohandle: haeckdesign

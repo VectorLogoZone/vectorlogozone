@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/columbiajournalismreview
-googleplus: https://plus.google.com/106602845844762607131
 instagram: https://instagram.com/columbiajournalismreview
 logohandle: cjr
 sort: cjr

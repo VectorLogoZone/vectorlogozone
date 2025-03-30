@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/TheStreet
-googleplus: https://plus.google.com/+TheStreet
 linkedin: https://linkedin.com/company/thestreet
 logohandle: thestreet
 sort: thestreet

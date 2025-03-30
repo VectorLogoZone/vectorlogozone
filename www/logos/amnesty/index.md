@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/amnestyglobal
-googleplus: https://plus.google.com/+amnesty
 instagram: https://instagram.com/amnesty
 logohandle: amnesty
 sort: amnesty

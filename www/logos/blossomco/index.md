@@ -1,7 +1,6 @@
 ---
 codehost: https://github.com/blossom
 facebook: https://facebook.com/blossom
-googleplus: https://plus.google.com/+BlossomIo
 linkedin: https://linkedin.com/company/2297910
 logohandle: blossomco
 sort: blossom

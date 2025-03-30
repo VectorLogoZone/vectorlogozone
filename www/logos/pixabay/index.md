@@ -1,7 +1,6 @@
 ---
 blog: https://pixabay.com/en/blog/
 facebook: https://www.facebook.com/pixabay
-googleplus: https://plus.google.com/+Pixabay
 images:
 - pixabay-icon.svg
 - pixabay-ar21.svg

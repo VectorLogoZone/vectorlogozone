@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/simple
-googleplus: https://plus.google.com/+simple
 instagram: https://instagram.com/simple
 linkedin: https://linkedin.com/company/simple-finance
 logohandle: simple

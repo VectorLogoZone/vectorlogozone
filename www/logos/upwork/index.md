@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/upwork
-googleplus: https://plus.google.com/107040851368295259701
 images:
 - upwork-tile.svg
 instagram: https://instagram.com/upworkinc

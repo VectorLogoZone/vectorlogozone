@@ -2,7 +2,6 @@
 blog: https://linuxfoundation.org/newsroom/blog
 codehost: https://github.com/linuxfoundation
 facebook: https://www.facebook.com/TheLinuxFoundation
-googleplus: https://plus.google.com/+LinuxfoundationOrg
 images:
 - linuxfoundation-icon.svg
 - linuxfoundation-ar21.svg

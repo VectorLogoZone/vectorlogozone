@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/LendingTree
-googleplus: https://plus.google.com/+lendingtree
 instagram: https://instagram.com/LendingTree
 logohandle: lendingtree
 pinterest: https://pinterest.com/lendingtree

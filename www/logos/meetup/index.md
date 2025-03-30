@@ -1,7 +1,6 @@
 ---
 blog: https://medium.com/meetup
 facebook: https://facebook.com/meetup
-googleplus: https://plus.google.com/+Meetup
 instagram: https://instagram.com/meetup
 logohandle: meetup
 sort: meetup

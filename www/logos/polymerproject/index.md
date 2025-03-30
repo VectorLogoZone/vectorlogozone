@@ -1,7 +1,6 @@
 ---
 blog: https://www.polymer-project.org/blog/
 codehost: https://github.com/polymer
-googleplus: https://plus.google.com/+PolymerProject
 logohandle: polymerproject
 sort: polymer
 title: Polymer

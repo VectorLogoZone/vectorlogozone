@@ -1,7 +1,6 @@
 ---
 blog: https://blog.vanillaforums.com/
 facebook: https://facebook.com/vanillaforums
-googleplus: https://plus.google.com/114911737178548458245
 instagram: https://instagram.com/vanillaforums
 linkedin: https://linkedin.com/company/vanilla-forums-inc
 logohandle: vanillaforums

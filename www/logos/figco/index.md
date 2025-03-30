@@ -1,7 +1,6 @@
 ---
 blog: https://blog.fig.co/
 facebook: https://facebook.com/playfig
-googleplus: https://plus.google.com/+FigPlay
 instagram: https://instagram.com/playfig
 linkedin: https://linkedin.com/company/fig-co
 logohandle: figco

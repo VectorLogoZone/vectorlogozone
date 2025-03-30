@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/HBR
-googleplus: https://plus.google.com/+harvardbusinessreview
 linkedin: https://linkedin.com/company/harvard-business-review?
 logohandle: hbr
 sort: hbr

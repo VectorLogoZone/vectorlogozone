@@ -2,7 +2,6 @@
 blog: https://blog.patreon.com/
 codehost: https://github.com/patreon
 facebook: https://www.facebook.com/patreon
-googleplus: https://plus.google.com/+Patreon
 guide: https://www.patreon.com/brand
 images:
 - patreon-ar21.svg

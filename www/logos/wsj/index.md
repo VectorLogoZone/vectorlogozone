@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/wsj
-googleplus: https://plus.google.com/117720626238470886461
 logohandle: wsj
 sort: wallstreetjournal
 title: The Wall Street Journal

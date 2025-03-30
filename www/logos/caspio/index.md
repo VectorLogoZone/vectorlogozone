@@ -1,7 +1,6 @@
 ---
 blog: https://blog.caspio.com/
 facebook: https://facebook.com/caspioinc
-googleplus: https://plus.google.com/+Caspio
 linkedin: https://linkedin.com/company/caspio-inc
 logohandle: caspio
 sort: caspio

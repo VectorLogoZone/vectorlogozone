@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/teksystems
-googleplus: https://plus.google.com/u/1/+TEKsystems
 instagram: https://instagram.com/teksystems
 linkedin: https://linkedin.com/company/teksystems
 logohandle: teksystems

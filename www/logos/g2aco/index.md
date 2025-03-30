@@ -1,7 +1,6 @@
 ---
 blog: https://g2a.co/blog
 facebook: https://facebook.com/G2Acom
-googleplus: https://plus.google.com/+G2Amarketplace
 guide: https://www.g2a.co/documents/
 instagram: https://instagram.com/g2a_com
 linkedin: https://linkedin.com/company/g2a-com

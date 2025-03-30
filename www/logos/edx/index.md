@@ -2,7 +2,6 @@
 blog: https://blog.edx.org/
 codehost: https://github.com/edx
 facebook: http://www.facebook.com/EdxOnline
-googleplus: https://plus.google.com/+edXOnline
 guide: https://www.edx.org/media-kit
 images:
 - edx-icon.svg

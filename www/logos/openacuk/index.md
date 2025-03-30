@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/theopenuniversity
-googleplus: https://plus.google.com/+TheOpenUniversity
 logohandle: openacuk
 sort: openuniversity
 title: The Open University

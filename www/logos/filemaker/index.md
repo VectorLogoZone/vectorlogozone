@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/FileMaker
-googleplus: https://plus.google.com/+filemakerinc
 linkedin: https://linkedin.com/company/filemaker
 logohandle: filemaker
 sort: filemaker

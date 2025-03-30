@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/nbc
-googleplus: https://plus.google.com/110741260330832413403
 logohandle: nbc
 pinterest: https://pinterest.com/nbctv
 sort: nbc

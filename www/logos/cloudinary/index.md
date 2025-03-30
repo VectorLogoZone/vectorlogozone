@@ -1,7 +1,6 @@
 ---
 blog: https://cloudinary.com/blog/
 facebook: https://facebook.com/Cloudinary
-googleplus: https://plus.google.com/+Cloudinary
 linkedin: https://linkedin.com/company/cloudinary
 logohandle: cloudinary
 sort: cloudinary

@@ -1,7 +1,6 @@
 ---
 blog: https://www.freelancer.com/about/media
 facebook: https://www.facebook.com/fansoffreelancer
-googleplus: https://plus.google.com/+Freelancer
 images:
 - freelancer-ar21.svg
 - freelancer-icon.svg

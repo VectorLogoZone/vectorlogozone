@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/detikcom
-googleplus: https://plus.google.com/+detikcom
 instagram: https://instagram.com/detikcom
 linkedin: https://linkedin.com/company/detik-com
 logohandle: detik

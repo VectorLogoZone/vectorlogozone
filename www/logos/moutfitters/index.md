@@ -1,7 +1,6 @@
 ---
 blog: https://moutfitters.com/blog
 facebook: https://facebook.com/mobileoutfit
-googleplus: https://plus.google.com/+moutfitters
 instagram: http://instagram.com/mobileoutfitters
 logohandle: moutfitters
 sort: mobileoutfitters

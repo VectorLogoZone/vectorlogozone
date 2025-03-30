@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/RadioNewZealand
-googleplus: https://plus.google.com/105231754464729614147
 instagram: https://instagram.com/radionewzealand
 logohandle: rnzconz
 sort: rnz

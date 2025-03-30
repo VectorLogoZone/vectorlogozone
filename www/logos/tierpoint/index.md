@@ -1,7 +1,6 @@
 ---
 blog: https://blog.tierpoint.com/
 facebook: https://facebook.com/TierPoint
-googleplus: https://plus.google.com/s/tierpoint/top
 linkedin: https://linkedin.com/company/tierpoint
 logohandle: tierpoint
 sort: tierpoint

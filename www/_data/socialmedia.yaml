@@ -45,11 +45,6 @@
   logohandle: gitterim
   pattern: "^https://gitter\\.im/.+"
 
-# NOTE: deprecated, should be removed everywhere
-- id: googleplus
-  iconhtml: <i class="fab fa-google-plus-square  icon-link"></i>
-  logohandle: google
-
 - id: instagram
   iconhtml: <i class="fab fa-instagram icon-link"></i>
   logohandle: instagram

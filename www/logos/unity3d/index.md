@@ -1,6 +1,5 @@
 ---
 facebook: http://facebook.com/unity3d
-googleplus: https://plus.google.com/u/0/104568650392955941577
 instagram: https://instagram.com/unitytechnologies
 linkedin: https://linkedin.com/company/unity-technologies
 logohandle: unity3d

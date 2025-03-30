@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/TheFedoraProject
-googleplus: https://plus.google.com/112917221531140868607
 guide: https://fedoraproject.org/wiki/Logo
 logohandle: getfedora
 sort: fedora

@@ -2,7 +2,6 @@
 blog: http://pdfsam.org/blog
 codehost: https://github.com/torakiki/pdfsam
 facebook: http://facebook.com/PDFsplitandmerge
-googleplus: https://plus.google.com/u/0/+pdfsam
 guide: https://github.com/torakiki/pdfsam/tree/master/pdfsam-docs/graphics
 logohandle: pdfsam
 sort: pdfsam

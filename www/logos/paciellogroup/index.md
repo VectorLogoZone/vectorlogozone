@@ -1,6 +1,5 @@
 ---
 blog: https://developer.paciellogroup.com/blog
-googleplus: https://plus.google.com/+Paciellogroup
 keywords:
 - TPG
 linkedin: http://linkedin.com/company/the-paciello-group

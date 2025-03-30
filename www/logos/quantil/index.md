@@ -1,6 +1,5 @@
 ---
 facebook: https://facebook.com/quantil.inc
-googleplus: https://plus.google.com/+Quantil_team
 linkedin: https://linkedin.com/company/quantil
 logohandle: quantil
 sort: quantil

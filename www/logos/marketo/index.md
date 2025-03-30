@@ -1,7 +1,6 @@
 ---
 blog: https://blog.marketo.com/
 facebook: https://facebook.com/Marketo
-googleplus: https://plus.google.com/104107596768724514776
 linkedin: https://linkedin.com/company/236175
 logohandle: marketo
 sort: marketo

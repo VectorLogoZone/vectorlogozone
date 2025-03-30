@@ -1,6 +1,5 @@
 ---
 facebook: https://www.facebook.com/eclipse.org
-googleplus: https://plus.google.com/+Eclipse
 guide: https://www.eclipse.org/artwork/
 images:
 - eclipse-ar21.svg

@@ -1,7 +1,6 @@
 ---
 blog: https://blog.logmein.com/
 facebook: https://facebook.com/logmein
-googleplus: https://plus.google.com/+logmein
 logohandle: logmein
 sort: logmein
 title: LogMeIn

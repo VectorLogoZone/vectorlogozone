@@ -1,7 +1,6 @@
 ---
 blog: https://medium.com/chaperone
 facebook: https://www.facebook.com/getchaperone
-googleplus: https://plus.google.com/u/0/+Getchaperone
 linkedin: https://linkedin.com/company-beta/11143649
 logohandle: getchaperone
 sort: chaperone
