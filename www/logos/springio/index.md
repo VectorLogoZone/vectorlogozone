@@ -7,5 +7,5 @@ title: Spring Framework
 twitter: https://x.com/springcentral
 website: https://spring.io/
 wikipedia: https://en.wikipedia.org/wiki/Spring_Framework
-youtube: https://spring.io/videos
+youtube: https://www.youtube.com/user/SpringSourceDev
 ---

@@ -66,43 +66,30 @@ The `sort` is usually the same as the `logohandle`, but can be different if the 
 
 ## Social Media Links
 
-Links to this project/company on various websites. I'm generally interested in sites where there should be a publicly accessible logo.
-
-- blog
-- facebook
-- github - just the bare organization name or org/repo
-- googleplus
-- instagram
-- linkedin
-- pinterest
-- reddit
-- tumblr
-- twitter - just the bare id (no @ sign)
-- wikipedia
-- youtube
+Links to this project/company on various websites. I'm generally interested in sites where there should be a publicly accessible logo.  See the list in [socialmedia.yaml](https://github.com/VectorLogoZone/vectorlogozone/blob/main/www/_data/socialmedia.yaml)
 
 ### Other Social Media Links
 
 These are some less common social media sites that some projects/companies use. Feel free to add any that are linked from the main website.
 
-- discord
-- discourse
+For now, put them under `other`, like:
+```yaml
+other:
+- name: "my_new_service"
+  url: https://www.example.com/id_at_newservice
+```
+
+### Possible future additions
+
+As soon as they get used a bunch:
+
+- angelist
+- discourse (or forum?)
 - dockerhub
-- dribbble
-- flickr
-- gitter
 - glassdoor
 - medium
 - meetup
-- slack
-- slideshare
-- soundcloud
-- stackexchange
-- stackoverflow
-- vimeo
-- vine
-- weibo
-- xing
+
 
 ### Font
 

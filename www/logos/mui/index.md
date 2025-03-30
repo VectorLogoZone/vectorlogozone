@@ -1,7 +1,7 @@
 ---
 blog: https://mui.com/blog/
 codehost: https://github.com/mui
-discord: "https://mui.com/r/discord/"
+discord: "https://discord.com/invite/tewQuNeUyS"
 facebook: https://www.facebook.com/muiorg/
 linkedin: https://linkedin.com/company/mui
 logohandle: mui

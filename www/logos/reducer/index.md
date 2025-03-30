@@ -1,8 +1,8 @@
 ---
 colors:
 - '#F40C8F'
-facebook: reduceruk
-linkedin: reduceruk
+facebook: https://www.facebook.com/reduceruk/
+linkedin: https://www.linkedin.com/company/reduceruk
 logohandle: reducer
 sort: reducer
 title: Reducer.co.uk

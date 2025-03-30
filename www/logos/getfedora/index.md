@@ -7,5 +7,5 @@ sort: fedora
 title: Fedora Linux
 twitter: https://x.com/fedora
 website: https://getfedora.org/
-wikipedia: https://fedoraproject.org/wiki/Logo
+wikipedia: https://en.wikipedia.org/wiki/Fedora_Project
 ---

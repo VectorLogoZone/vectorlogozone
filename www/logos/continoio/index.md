@@ -2,7 +2,7 @@
 codehost: https://github.com/contino
 facebook: https://facebook.com/ContinoHQ
 instagram: https://instagram.com/contino_io
-linkedin: https:/www.linkedin.com/company-beta/5097376
+linkedin: https://www.linkedin.com/company/contino/
 logohandle: continoio
 sort: contino
 title: Contino

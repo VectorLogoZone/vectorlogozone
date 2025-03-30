@@ -1,6 +1,6 @@
 ---
 codehost: https://github.com/remix-run
-discord: https://rmx.as/discord
+discord: https://discord.com/invite/xwx7mMzVkA
 guide: https://remix.run/brand
 logohandle: remixrun
 sort: remixrun

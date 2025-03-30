@@ -1,7 +1,7 @@
 ---
 blog: https://medium.com/paxos
-facebook: paxosglobal
-linkedin: paxos
+facebook: https://www.facebook.com/paxosglobal
+linkedin: https://www.linkedin.com/company/paxos/
 logohandle: paxos
 sort: paxos
 tags:

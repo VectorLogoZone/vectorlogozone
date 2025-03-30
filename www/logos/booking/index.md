@@ -4,7 +4,7 @@ images:
 - booking-icon.svg
 - booking-ar21.svg
 instagram: https://www.instagram.com/bookingcom/
-linkedin: http://nl.linkedin.com/company/booking.com
+linkedin: https://www.linkedin.com/company/booking.com/
 logohandle: booking
 sort: booking.com
 title: booking.com

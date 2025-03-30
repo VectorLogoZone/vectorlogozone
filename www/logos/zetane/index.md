@@ -3,7 +3,7 @@ codehost: https://github.com/zetane
 discord: https://discord.gg/zetaforge
 facebook: https://www.facebook.com/ZetaneSystems/
 instagram: https://www.instagram.com/zetane_systems/
-linkedin: https://ca.linkedin.com/company/zetane
+linkedin: https://www.linkedin.com/company/zetane
 logohandle: zetane
 sort: zetane
 title: Zetane

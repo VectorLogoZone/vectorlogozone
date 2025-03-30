@@ -2,7 +2,7 @@
 facebook: https://www.facebook.com/Citrix/
 googleplus: https://plus.google.com/+citrix
 instagram: https://instagram.com/citrix/
-linkedin: https://en.wikipedia.org/wiki/Citrix_Systems
+linkedin: https://www.linkedin.com/company/citrix/
 logohandle: citrix
 sort: citrix
 title: Citrix

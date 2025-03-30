@@ -1,6 +1,6 @@
 ---
 codehost: https://github.com/umami-software
-linkedin: umami-software
+linkedin: https://www.linkedin.com/umami-software
 logohandle: umamiis
 sort: umami
 title: Umami
