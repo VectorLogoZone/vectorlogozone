@@ -7,6 +7,6 @@ sort: wir
 title: WIR Bank
 website: 'https://www.wir.ch/'
 wikipedia: 'https://en.wikipedia.org/wiki/WIR_Bank'
-xing: 'https://www.xing.com/companies/wirbankgenossenschaft'
+xing: 'https://www.xing.com/pages/wirbankgenossenschaft'
 youtube: 'https://www.youtube.com/channel/UCh-eBLFtnUOR9eXLZbHWUAQ'
 ---

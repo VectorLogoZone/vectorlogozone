@@ -2,7 +2,7 @@
 codehost: https://github.com/monero-project
 guide: https://getmonero.org/press-kit/
 logohandle: getmonero
-reddit: https://reddit.com/r/monero
+reddit: https://www.reddit.com/r/monero
 sort: getmonero
 stackexchange: https://monero.stackexchange.com/
 title: Monero

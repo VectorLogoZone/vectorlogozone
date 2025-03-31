@@ -5,6 +5,6 @@ linkedin: 'https://linkedin.com/company/knaw'
 logohandle: knawnl
 sort: knaw
 title: KNAW
-vimeo: 'http://vimeo.com/knaw'
+vimeo: 'https://vimeo.com/knaw'
 website: 'https://www.knaw.nl/'
 ---

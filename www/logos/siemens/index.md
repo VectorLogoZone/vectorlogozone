@@ -8,5 +8,6 @@ title: Siemens
 twitter: https://x.com/siemens
 website: https://www.siemens.com/global/en/home.html
 wikipedia: https://en.wikipedia.org/wiki/Siemens
+xing: https://www.xing.com/pages/siemensag
 youtube: https://youtube.com/user/Siemens
 ---

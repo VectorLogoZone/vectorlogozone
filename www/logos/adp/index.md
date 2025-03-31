@@ -1,7 +1,7 @@
 ---
 linkedin: http://www.linkedin.com/company/adp
 logohandle: adp
-slideshare: http://www.slideshare.net/adp
+slideshare: https://www.slideshare.net/adp
 sort: adp
 title: ADP
 twitter: https://x.com/ADP

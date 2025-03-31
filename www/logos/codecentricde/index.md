@@ -10,6 +10,6 @@ sort: codecentric
 title: codecentric
 twitter: https://x.com/codecentric
 website: https://www.codecentric.de/
-xing: https://www.xing.com/companies/codecentricgmbh
+xing: https://www.xing.com/pages/codecentric
 youtube: https://www.youtube.com/user/codecentricAG
 ---

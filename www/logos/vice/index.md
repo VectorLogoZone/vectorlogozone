@@ -2,7 +2,6 @@
 facebook: https://facebook.com/VICE
 instagram: https://www.instagram.com/vice
 logohandle: vice
-pinterest: http://pinterest.com/
 sort: vice
 tiktok: https://www.tiktok.com/@vice
 title: VICE

@@ -5,7 +5,7 @@ linkedin: 'https://linkedin.com/company/newrez-llc'
 logohandle: newrez
 sort: newrez
 title: Newrez
-twitter: newrezhq
+twitter: https://x.com/newrezhq
 website: 'https://www.newrez.com/'
 youtube: 'https://youtube.com/channel/UClETfTq5-PpdWfwECedmt5w'
 ---

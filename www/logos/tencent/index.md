@@ -7,6 +7,6 @@ logohandle: tencent
 sort: tencent
 title: Tencent
 website: https://www.tencent.com/
-weibo: http://weibo.com/tencent
+weibo: https://weibo.com/tencent
 wikipedia: https://en.wikipedia.org/wiki/Tencent
 ---

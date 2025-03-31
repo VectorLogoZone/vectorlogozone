@@ -7,7 +7,7 @@ sort: alibabagroup
 title: Alibaba Group
 twitter: https://x.com/AlibabaGroup
 website: https://www.alibabagroup.com/
-weibo: http://weibo.com/aligroup
+weibo: https://weibo.com/aligroup
 wikipedia: https://en.wikipedia.org/wiki/Alibaba_Group
 youtube: http://www.youtube.com/AlibabaGroup
 ---

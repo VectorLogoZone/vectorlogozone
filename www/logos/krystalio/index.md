@@ -7,6 +7,6 @@ linkedin: 'https://linkedin.com/company/krystal-webhosting'
 logohandle: krystalio
 sort: krystal
 title: Krystal Hosting
-twitter: krystalhosting
+twitter: https://x.com/krystalhosting
 website: 'https://krystal.io/'
 ---

@@ -6,6 +6,6 @@ sort: k15t
 title: k15t
 twitter: https://x.com/k15tsoftware
 website: https://www.k15t.com/
-xing: https://www.xing.com/companies/k15tsoftwaregmbh
+xing: https://www.xing.com/pages/k15t
 youtube: https://youtube.com/user/k15tsoftware
 ---

@@ -13,7 +13,6 @@ logohandle: khanacademy
 pinterest: https://www.pinterest.com/KhanAcademy/
 sort: khanacademy
 title: Khan Academy
-tumblr: http://life.khanacademy.org/
 twitter: https://x.com/khanacademy
 website: https://www.khanacademy.org/
 wikipedia: https://en.wikipedia.org/wiki/Khan_Academy

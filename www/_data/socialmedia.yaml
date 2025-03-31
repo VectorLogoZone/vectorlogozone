@@ -58,18 +58,24 @@
 - id: pinterest
   iconhtml: <i class="fab fa-pinterest icon-link"></i>
   logohandle: pinterest
+  pattern: "http[s]?://(www\\.)?pinterest\\.com/.+"
 
 - id: reddit
   iconhtml: <i class="fab fa-reddit icon-link"></i>
   logohandle: reddit
+  pattern: "^https://www\\.reddit\\.com/r/.+"
 
 - id: slack
   iconhtml: <i class="fab fa-slack icon-link"></i>
   logohandle: slack
+  detail: |
+    Slack uses a user-selected subdomain for each workspace. The URL will usually
+    look like `https://<subdomain>.slack.com` or `https://slack.<primary>/`, but can be anything.
 
 - id: slideshare
   iconhtml: <i class="fab fa-slideshare icon-link"></i>
   logohandle: slideshare
+  pattern: "^https://www\\.slideshare\\.net/.+"
 
 - id: snapchat
   iconhtml: <i class="fab fa-snapchat icon-link"></i>
@@ -78,46 +84,52 @@
 - id: soundcloud
   iconhtml: <i class="fab fa-soundcloud icon-link"></i>
   logohandle: soundcloud
+  pattern: "^https://soundcloud\\.com/.+"
 
 - id: stackexchange
   iconhtml: <i class="fab fa-stack-exchange icon-link"></i>
   logohandle: stackexchange
+  pattern: "^https://([a-z0-9]+)\\.stackexchange\\.com/$"
 
 - id: stackoverflow
   iconhtml: <i class="fab fa-stack-overflow icon-link"></i>
   logohandle: stackoverflow
+  pattern: "^https://stackoverflow\\.com/.+"
 
 - id: telegram
   iconhtml: <i class="fab fa-telegram icon-link"></i>
   logohandle: telegram
+  pattern: "^https://t\\.me/.+"
 
 - id: threads
   iconhtml: <i class="fas fa-comments icon-link"></i>
   logohandle: threads
+  pattern: "^https://www\\.threads\\.net/@.+"
 
 - id: tiktok
   iconhmtl: <i class="fab fa-tiktok icon-link"></i>
   logohandle: tiktok
+  pattern: "^https://www\\.tiktok\\.com/@.+"
 
 - id: tumblr
   iconhtml: <i class="fab fa-tumblr icon-link"></i>
   logohandle: tumblr
+  pattern: "^https://([a-z]+)\\.tumblr\\.com/$"
 
 - id: twitter
   iconhtml: <i class="fab fa-twitter icon-link"></i>
   logohandle: twitter
+  pattern: "^http[s]?://(www\\.)?(twitter|x)\\.com/.+"
 
 - id: vimeo
   iconhtml: <i class="fab fa-vimeo icon-link"></i>
   logohandle: vimeo
-
-- id: vine
-  iconhtml: <i class="fab fa-vine icon-link"></i>
-  logohandle: vine
+  pattern: "^https://vimeo\\.com/.+"
 
 - id: weibo
   iconhtml: <i class="fab fa-weibo icon-link"></i>
   logohandle: weibo
+  pattern: "^https://weibo\\.com/[a-z0-9]+"
 
 - id: wikipedia
   iconhtml: <i class="fab fa-wikipedia-w icon-link"></i>
@@ -127,8 +139,9 @@
 - id: xing
   iconhtml: <i class="fab fa-xing icon-link"></i>
   logohandle: xing
+  pattern: "^http[s]?://(www\\.)?xing\\.com/pages/.+"
 
 - id: youtube
   iconhtml: <i class="fab fa-youtube icon-link"></i>
   logohandle: youtube
-  pattern: "^http[s]?://(www\\.)?youtube\\.com/.*"
+  pattern: "^http[s]?://(www\\.)?youtube\\.com/.+"

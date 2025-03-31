@@ -12,7 +12,7 @@ snapchat: https://go.snapchat.com/add/usatoday
 sort: usatoday
 soundcloud: https://soundcloud.com/usatoday
 title: USA TODAY
-tumblr: http://www.usatoday.tumblr.com/
+tumblr: https://usatoday.tumblr.com/
 twitter: https://x.com/usatoday
 website: https://www.usatoday.com/
 wikipedia: https://en.wikipedia.org/wiki/USA_Today

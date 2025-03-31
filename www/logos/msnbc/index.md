@@ -5,7 +5,7 @@ linkedin: https://linkedin.com/company/msnbc
 logohandle: msnbc
 sort: msnbc
 title: MSNBC
-tumblr: http://msnbc.tumblr.com/
+tumblr: https://msnbc.tumblr.com/
 twitter: https://x.com/msnbc
 website: http://www.msnbc.com/
 wikipedia: https://en.wikipedia.org/wiki/MSNBC

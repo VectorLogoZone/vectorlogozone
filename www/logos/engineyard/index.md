@@ -6,7 +6,7 @@ logohandle: engineyard
 sort: engineyard
 title: Engine Yard
 twitter: https://x.com/engineyard
-vimeo: http://vimeo.com/engineyard
+vimeo: https://vimeo.com/engineyard
 website: https://www.engineyard.com/
 wikipedia: https://en.wikipedia.org/wiki/Engine_Yard
 ---

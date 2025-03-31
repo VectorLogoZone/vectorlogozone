@@ -7,7 +7,7 @@ linkedin: https://www.linkedin.com/company/flipboard-inc-
 logohandle: flipboard
 sort: flipboard
 title: Flipboard
-tumblr: http://flipboard.tumblr.com/
+tumblr: https://flipboard.tumblr.com/
 twitter: https://x.com/flipboard
 website: https://flipboard.com/
 wikipedia: https://en.wikipedia.org/wiki/Flipboard

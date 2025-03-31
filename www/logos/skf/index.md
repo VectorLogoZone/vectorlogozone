@@ -5,9 +5,9 @@ linkedin: https://www.linkedin.com/company/skf
 logohandle: skf
 sort: skf
 title: SKF
-tumblr: http://skfgroup.tumblr.com/
+tumblr: https://skfgroup.tumblr.com/
 twitter: https://x.com/SKFgroup
-website: http://www.skf.com/group/splash/index.html
+website: https://www.skf.com/group/splash/index.html
 wikipedia: https://en.wikipedia.org/wiki/SKF
 youtube: http://www.youtube.com/user/SKFOfficial
 ---

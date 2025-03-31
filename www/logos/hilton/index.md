@@ -2,7 +2,6 @@
 facebook: https://facebook.com/hiltonnewsroom
 instagram: https://instagram.com/hiltonnewsroom
 logohandle: hilton
-pinterest: http://pinterest.com/
 sort: hilton
 title: Hilton
 twitter: https://twitter.com/hiltonnewsroom

@@ -5,7 +5,7 @@ images:
 logohandle: soundcloud
 sort: soundcloud
 title: SoundCloud
-tumblr: http://soundcloud.tumblr.com/
+tumblr: https://soundcloud.tumblr.com/
 twitter: https://x.com/SoundCloud
 website: https://soundcloud.com/
 wikipedia: https://en.wikipedia.org/wiki/SoundCloud

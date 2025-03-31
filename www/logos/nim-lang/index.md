@@ -9,7 +9,7 @@ other:
   url: https://matrix.to/#/#nim:envs.net
 - name: IRC
   url: irc://irc.libera.chat/nim
-reddit: https://reddit.com/r/nim
+reddit: https://www.reddit.com/r/nim
 sort: nim-lang
 stackoverflow: https://stackoverflow.com/questions/tagged/nim-lang
 telegram: https://t.me/nim_lang

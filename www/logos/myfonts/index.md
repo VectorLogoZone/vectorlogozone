@@ -14,7 +14,7 @@ sort: myfonts
 tags:
 - fonts
 title: MyFonts
-tumblr: http://myfonts.tumblr.com/
+tumblr: https://myfonts.tumblr.com/
 twitter: https://x.com/MyFonts
 website: https://www.myfonts.com/
 wikipedia: https://en.wikipedia.org/wiki/MyFonts

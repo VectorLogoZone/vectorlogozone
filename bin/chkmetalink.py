@@ -21,6 +21,7 @@ default_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "ww
 parser = argparse.ArgumentParser()
 parser.add_argument("-q", "--quiet", help="hide status messages", default=True, dest='verbose', action="store_false")
 parser.add_argument("-d", "--directory", help="directory to search", default=default_path, dest='directory')
+parser.add_argument("-f", "--filenames", help="only print failing filenames", default=False, dest='filenames', action="store_true")
 parser.add_argument("-v", "--verbose", help="verbose output", default=False, dest='debug', action="store_true")
 
 args = parser.parse_args()
@@ -66,7 +67,10 @@ for indexfn in found_files:
             pattern = metamap[key]
             if pattern.match(indexmd[key]) == None:
                 errCount += 1
-                sys.stdout.write("ERROR: %s %s: %s (%s)\n" % (indexmd['logohandle'], key, indexmd[key], indexfn))
+                if args.filenames:
+                    sys.stdout.write("%s " % indexfn)
+                else:
+                    sys.stdout.write("ERROR: %s %s: %s (%s)\n" % (indexmd['logohandle'], key, indexmd[key], indexfn))
             else:
                 if args.debug:
                     sys.stdout.write("DEBUG: success %s %s: %s\n" % (indexmd['logohandle'], key, indexmd[key]))
