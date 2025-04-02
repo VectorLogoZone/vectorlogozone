@@ -48,7 +48,7 @@ for sm in sm_yaml:
 if args.debug:
     sys.stdout.write("DEBUG: loaded %d patterns from %s\n" % (len(metamap), sm_file))
 
-found_files = list(pathlib.Path(args.directory).glob('**/index.md'))
+found_files = list(pathlib.Path(os.path.join(args.directory, "logos")).glob('**/index.md'))
 found_files.sort()   # only so debug output is consistent
 
 idxCount = 0
