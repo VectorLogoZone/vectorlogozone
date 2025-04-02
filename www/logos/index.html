@@ -9,7 +9,7 @@ h1: Logo Index
 
 {%- assign start = sorted_pages | first %}
 
-<details class="py-2 logo-container">
+<details class="py-2 logo-container" name="a2z">
 {%- for logopage in sorted_pages %}
     <a href="{{ logopage.url }}{{site.indexpage}}"><img alt="{{logopage.title}} logo" src="{{ logopage.logohandle }}/{{ logopage.logohandle }}-ar21.svg" title="{{logopage.title}}"/></a>
     {%- assign loopmod = forloop.index | modulo: 72 -%}
@@ -19,7 +19,7 @@ h1: Logo Index
         {%- assign nextpage = sorted_pages[nextindex] -%}
         {%- assign start = nextpage %}
 </details>
-<details class="py-2 logo-container">
+<details class="py-2 logo-container" name="a2z">
     {%- endif -%}
 {%- endfor -%}
 {%- if start -%}
