@@ -14,6 +14,8 @@ echo "INFO: build starting at $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
 echo "DEBUG: uname=$(uname -a)"
 
+export PYTHON_UNBUFFERED=1
+
 
 echo "INFO: generating ar21's with a white background"
 python3 bin/gen_bgwhite.py
@@ -23,6 +25,9 @@ python3 -m pip install python-frontmatter
 
 echo "INFO: updating frontmatter"
 python3 bin/frontmatter_update.py --directory=www/logos
+
+echo "INFO: generated full metadata export"
+python3 bin/gen_fulldata.py
 
 echo "INFO: updating tags"
 python3 bin/fm2tag.py --directory=www/logos --tagfile=www/_data/tags.yaml

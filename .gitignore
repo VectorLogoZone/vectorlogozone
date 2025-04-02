@@ -12,3 +12,4 @@ _site/
 tmp*
 work-in-progress/
 www/_data/nextprev.yaml
+www/util/fulldata.json
