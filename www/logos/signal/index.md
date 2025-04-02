@@ -1,8 +1,10 @@
 ---
+activitypub: https://mastodon.world/@signalapp
 blog: https://signal.org/blog/
+bluesky: https://bsky.app/profile/signal.org
 codehost: https://github.com/signalapp
-images:
-- signal-official.svg
+guide: https://signal.org/brand/
+instagram: https://www.instagram.com/signal_app/
 logohandle: signal
 sort: signal
 tags:
