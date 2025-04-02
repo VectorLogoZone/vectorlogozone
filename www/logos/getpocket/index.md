@@ -4,6 +4,7 @@ codehost: https://github.com/pocket
 facebook: https://facebook.com/pocket
 images:
 - getpocket-tile.svg
+instagram: https://instagram.com/pocket
 logohandle: getpocket
 sort: pocket
 tags:
