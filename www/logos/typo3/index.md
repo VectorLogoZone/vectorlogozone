@@ -1,6 +1,7 @@
 ---
-facebook: https://facebook.com/typo3
+facebook: https://facebook.com/typo3/
 logohandle: typo3
+slack: https://typo3.slack.com/
 sort: typo3
 title: TYPO3
 twitter: https://x.com/typo3
