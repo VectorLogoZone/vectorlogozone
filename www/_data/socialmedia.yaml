@@ -32,6 +32,7 @@
   iconhtml: <i class="fab fa-facebook icon-link"></i>
   logohandle: facebook
   pattern: "^http[s]?://((www\\.)|(business\\.)|([a-z]{2}[-][a-z]{2}\\.))?facebook\\.com/.+"
+  antipattern: ".*((/tr)|(/fbml)|(/sharer))(\\W|$)"
 
 - id: flickr
   iconhtml: <i class="fab fa-flickr icon-link"></i>
@@ -56,7 +57,8 @@
 - id: linkedin
   iconhtml: <i class="fab fa-linkedin icon-link"></i>
   logohandle: linkedin
-  pattern: "^http[s]?://(www\\.)?linkedin\\.com/.*"
+  pattern: "^http[s]?://(www\\.)?linkedin\\.com/.+"
+  antipattern: ".*\\W/shareArticle(\\W|$).*"
 
 - id: pinterest
   iconhtml: <i class="fab fa-pinterest icon-link"></i>
@@ -120,6 +122,7 @@
   iconhtml: <i class="fab fa-twitter icon-link"></i>
   logohandle: twitter
   pattern: "^http[s]?://(www\\.)?(twitter|x)\\.com/.+"
+  antipattern: ".*\\W/intent(\\W|$).*"
 
 - id: vimeo
   iconhtml: <i class="fab fa-vimeo icon-link"></i>

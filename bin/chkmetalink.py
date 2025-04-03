@@ -41,12 +41,15 @@ if args.debug:
     sys.stdout.write("DEBUG: loaded %d records from %s\n" % (len(sm_yaml), sm_file))
 
 metamap = {}
+antimap = {}
 for sm in sm_yaml:
     if 'pattern' in sm:
         metamap[sm['id']] = re.compile(sm['pattern'])
+    if 'antipattern' in sm:
+        antimap[sm['id']] = re.compile(sm['antipattern'])
 
-if args.debug:
-    sys.stdout.write("DEBUG: loaded %d patterns from %s\n" % (len(metamap), sm_file))
+if args.verbose:
+    sys.stdout.write("INFO: loaded %d patterns and %d antipatterns for %d social media sites from %s\n" % (len(metamap), len(antimap), len(sm_yaml), sm_file))
 
 found_files = list(pathlib.Path(os.path.join(args.directory, "logos")).glob('**/index.md'))
 found_files.sort()   # only so debug output is consistent
@@ -65,7 +68,14 @@ for indexfn in found_files:
     for key in indexmd.keys():
         if key in metamap:
             pattern = metamap[key]
+            antipattern = antimap[key] if key in antimap else None
             if pattern.match(indexmd[key]) == None:
+                errCount += 1
+                if args.filenames:
+                    sys.stdout.write("%s " % indexfn)
+                else:
+                    sys.stdout.write("ERROR: %s %s: %s (%s)\n" % (indexmd['logohandle'], key, indexmd[key], indexfn))
+            elif antipattern and antipattern.match(indexmd[key]) != None:
                 errCount += 1
                 if args.filenames:
                     sys.stdout.write("%s " % indexfn)

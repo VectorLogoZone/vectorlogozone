@@ -1,7 +1,10 @@
 ---
-facebook: https://facebook.com/tr?ev=PageView&id=832000476880185&noscript=1
+facebook: https://www.facebook.com/informationweek
 linkedin: http://linkedin.com/company/informationweek
 logohandle: informationweek
+other:
+- name: GoogleNews
+  url: https://news.google.com/publications/CAAqBwgKMOfGrQsw9NHFAw
 sort: informationweek
 title: InformationWeek
 twitter: https://x.com/InformationWeek
