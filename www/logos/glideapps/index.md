@@ -1,5 +1,5 @@
 ---
-codehost: glideapps
+codehost: https://github.com/glideapps
 linkedin: 'https://linkedin.com/company/glideapps'
 logohandle: glideapps
 sort: glideapps

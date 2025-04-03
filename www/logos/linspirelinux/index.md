@@ -1,5 +1,4 @@
 ---
-codehost: http://sourceforge.net/projects/os4online
 facebook: https://facebook.com/pcoslinux
 logohandle: linspirelinux
 sort: linspirelinux

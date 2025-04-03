@@ -1,6 +1,6 @@
 ---
 blog: 'https://krystal.io/blog/'
-codehost: krystal
+codehost: https://github.com/krystal
 facebook: 'https://facebook.com/krystalhosting'
 instagram: 'https://instagram.com/krystalhosting'
 linkedin: 'https://linkedin.com/company/krystal-webhosting'

@@ -1,10 +1,12 @@
 - id: activitypub
   iconhtml: <i class="fab fa-activitypub icon-link"></i>
   logohandle: w3_activitypub
+  pattern: "^https://[-.a-zA-Z0-9]+/@[_a-zA-Z0-9]+"
 
 - id: blog
   iconhtml: <i class="fas fa-rss-square icon-link"></i>
   logohandle: rss
+  searchpattern: "(.*blog[s]?(\\W|$).*)|(.*\\Wblog[s]?.*)|(https://medium\\.com/.+)"
 
 - id: bluesky
   iconhtml: <i class="fab fa-bluesky icon-link"></i>
@@ -14,6 +16,7 @@
 - id: codehost
   iconhtml: <i class="far fa-code-branch icon-link"></i>
   logohandle: git-scm
+  pattern: "^https://((code\\.launchpad\\.net)|(codeberg\\.org)|(bitbucket\\.com)|(git\\.sr\\.ht)|(github\\.com)|(gitlab\\.com)|(sourceforge\\.net))/.+$"
 
 - id: discord
   iconhtml: <i class="fab fa-discord icon-link"></i>
@@ -68,6 +71,7 @@
 - id: slack
   iconhtml: <i class="fab fa-slack icon-link"></i>
   logohandle: slack
+  pattern: "^.*\\Wslack(\\W|$).*$"
   detail: |
     Slack uses a user-selected subdomain for each workspace. The URL will usually
     look like `https://<subdomain>.slack.com` or `https://slack.<primary>/`, but can be anything.
@@ -76,10 +80,6 @@
   iconhtml: <i class="fab fa-slideshare icon-link"></i>
   logohandle: slideshare
   pattern: "^https://www\\.slideshare\\.net/.+"
-
-- id: snapchat
-  iconhtml: <i class="fab fa-snapchat icon-link"></i>
-  logohandle: snapchat
 
 - id: soundcloud
   iconhtml: <i class="fab fa-soundcloud icon-link"></i>

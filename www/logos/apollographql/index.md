@@ -1,8 +1,10 @@
 ---
-blog: https://blog.apollographql.com/
+blog: https://www.apollographql.com/blog
 codehost: https://github.com/apollographql
 logohandle: apollographql
-slack: https://www.apollographql.com/slack
+other:
+- name: discourse
+  url: https://community.apollographql.com/
 sort: apollographql
 title: Apollo
 twitter: https://x.com/apollographql

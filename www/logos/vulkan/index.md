@@ -7,7 +7,7 @@ logohandle: vulkan
 other:
 - name: Discourse
   url: https://community.khronos.org/
-reddit: https://reddit.com/r/vulkan
+reddit: https://www.reddit.com/r/vulkan/
 sort: vulkan
 stackoverflow: https://stackoverflow.com/questions/tagged/vulkan
 title: Vulkan

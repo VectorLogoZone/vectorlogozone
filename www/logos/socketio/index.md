@@ -1,8 +1,8 @@
 ---
-blog: https://codeinwp.com/blog
+blog: https://socket.io/blog
 codehost: https://github.com/socketio/socket.io
 logohandle: socketio
-slack: https://slackin-socketio.now.sh/
+stackoverflow: https://stackoverflow.com/questions/tagged/socket.io
 sort: socketio
 title: Socket.IO
 twitter: https://x.com/SocketIO

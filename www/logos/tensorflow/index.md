@@ -1,5 +1,5 @@
 ---
-blog: http://medium.com/tensorflow
+blog: https://medium.com/tensorflow
 codehost: https://github.com/tensorflow
 logohandle: tensorflow
 sort: tensorflow

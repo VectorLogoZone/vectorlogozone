@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/elixir-lang/elixir
 logohandle: elixir-lang
+other:
+- name: discourse
+  url: https://elixirforum.com/
 sort: elixir-lang
 title: Elixir
 twitter: https://x.com/elixirlang
