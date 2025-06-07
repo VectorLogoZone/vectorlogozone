@@ -16,7 +16,7 @@
 - id: codehost
   iconhtml: <i class="far fa-code-branch icon-link"></i>
   logohandle: git-scm
-  pattern: "^https://((code\\.launchpad\\.net)|(codeberg\\.org)|(bitbucket\\.com)|(git\\.sr\\.ht)|(github\\.com)|(gitlab\\.com)|(sourceforge\\.net))/.+$"
+  pattern: "^https://((code\\.launchpad\\.net)|(codeberg\\.org)|(bitbucket\\.com)|(git\\.sr\\.ht)|(github\\.com)|(gitlab\\.com)|(invent\\.kde\\.org)|(sourceforge\\.net))/.+$"
 
 - id: discord
   iconhtml: <i class="fab fa-discord icon-link"></i>
