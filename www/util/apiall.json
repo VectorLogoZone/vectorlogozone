@@ -1,0 +1,15 @@
+---
+layout: none
+noindex: true
+title: Complete API data for reports/etc.
+---
+{%- assign sorted_pages = site.pages | where_exp:"item","item.logohandle" | sort:'sort' -%}
+[
+{%- for logopage in sorted_pages -%}
+    {%- if logopage.noindex %}{% else %}
+      {{ logopage | jsonify }}
+    {%- unless forloop.last %},
+    {% endunless %}
+    {%- endif -%}
+{% endfor %}
+]
