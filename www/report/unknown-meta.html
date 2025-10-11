@@ -5,9 +5,9 @@ noindex: true
 <p>Logos with unknown entries in their metadata</p>
 
 {%- assign stdmeta = 'colors font guide images keywords logohandle noindex notes posted redirect_from sort tags title website wikipedia' | split: ' ' %}
-{%- assign jekyllmeta = 'content dir layout name path url' | split: ' ' %}
+{%- assign jekyllmeta = 'content dir excerpt layout name path url' | split: ' ' %}
 {%- assign stdmeta = stdmeta | concat:jekyllmeta %}
-{%- assign todometa = 'angellist behance discord discourse dockerhub dribbble flickr flipboard gitter glassdoor keypass mastodon medium meetup opencollective slack slideshare snapchat soundcloud stackexchange stackoverflow vimeo vine weibo xing' | split: ' ' %}
+{%- assign todometa = 'angellist behance discord discourse dockerhub dribbble flickr flipboard gitter glassdoor keypass mastodon medium meetup opencollective other slack slideshare snapchat soundcloud stackexchange stackoverflow vimeo vine weibo xing' | split: ' ' %}
 {%- assign stdmeta = stdmeta | concat:todometa %}
 {%- for sm in site.data.socialmedia %}
     {%- assign smid = sm.id | split:' ' %}
