@@ -2,9 +2,9 @@
 title: Complete list of available SVG logos
 h1: Logo Index
 ---
-{%- assign sorted_pages = site.pages 
+{%- assign sorted_pages = site.pages
     | where_exp: 'item', 'item.images != nil'
-    | sort:'sort' 
+    | sort:'sort'
     -%}
 
 {%- assign start = sorted_pages | first %}
@@ -15,9 +15,7 @@ h1: Logo Index
     {%- assign loopmod = forloop.index | modulo: 72 -%}
     {%- if loopmod == 0 %}
     <summary class="">{{start.title}} - {{logopage.title}}</summary>
-        {%- assign nextindex = forloop.index | plus: 1 -%}
-        {%- assign nextpage = sorted_pages[nextindex] -%}
-        {%- assign start = nextpage %}
+        {%- assign start = sorted_pages[forloop.index] %}
 </details>
 <details class="py-2 logo-container" name="a2z">
     {%- endif -%}
