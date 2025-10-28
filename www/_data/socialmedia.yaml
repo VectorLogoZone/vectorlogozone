@@ -16,7 +16,7 @@
 - id: codehost
   iconhtml: <i class="far fa-code-branch icon-link"></i>
   logohandle: git-scm
-  pattern: "^https://((code\\.launchpad\\.net)|(codeberg\\.org)|(bitbucket\\.com)|(git\\.sr\\.ht)|(github\\.com)|(gitlab\\.com)|(invent\\.kde\\.org)|(sourceforge\\.net))/.+$"
+  pattern: "^https://((code\\.launchpad\\.net)|(codeberg\\.org)|(bitbucket\\.com)|(git\\.sr\\.ht)|(github\\.com)|(gitlab\\.[a-z0-9.]+)|(gitlab\\.com)|(invent\\.kde\\.org)|(sourceforge\\.net))/.+$"
 
 - id: discord
   iconhtml: <i class="fab fa-discord icon-link"></i>
@@ -106,12 +106,12 @@
 - id: threads
   iconhtml: <i class="fas fa-comments icon-link"></i>
   logohandle: threads
-  pattern: "^https://www\\.threads\\.net/@.+"
+  pattern: "^https://(www\\.)?threads\\.net/@.+"
 
 - id: tiktok
   iconhmtl: <i class="fab fa-tiktok icon-link"></i>
   logohandle: tiktok
-  pattern: "^https://www\\.tiktok\\.com/@.+"
+  pattern: "^https://(www\\.)?tiktok\\.com/@.+"
 
 - id: tumblr
   iconhtml: <i class="fab fa-tumblr icon-link"></i>
