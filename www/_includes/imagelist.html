@@ -9,9 +9,23 @@
 	</thead>
 	<tbody>
 {% assign sorted_images = page.images | sort %}{% for image in sorted_images %}
+    {%- capture imagetype %}{{image|split:'-'|last|split:'.'|first}}{% endcapture %}
+    {%- assign standard = false %}
+    {%- capture alt_text %}Alternate image for {{page.title}}{% endcapture %}
+    {%- assign theType = none %}
+    {%- assign heightWidth = '' %}
+    {%- for standardtype in site.data.imagetype %}
+        {%- if standardtype.id == imagetype %}
+            {%- assign theType = standardtype %}
+            {%- assign standard = true %}
+            {%- assign customstyle = standardtype.customstyle %}
+            {%- capture alt_text %}Vector (.svg) logo for {{page.title}}: {{standardtype.title}}{% endcapture %}
+            {%- capture heightWidth %}&amp;height={{standardtype.height}}&amp;width={{standardtype.width}}{% endcapture %}
+        {%- endif %}
+    {%- endfor %}
 		<tr>
 			<td class="d-none d-md-table-cell" style="white-space:nowrap;vertical-align:middle;">
-				<a class="btn btn-secondary btn-sm" href="{{site.viewer}}?url={{site.production_url}}/logos/{{page.logohandle}}/{{image}}&amp;zoom=max&amp;backUrl={{site.production_url}}/logos/{{page.logohandle}}/index.html&amp;backText=Return+to+VectorLogoZone" title="preview" rel="nofollow"><i class="far fa-eye"></i></a>
+				<a class="btn btn-secondary btn-sm" href="{{site.viewer}}?url={{site.production_url}}/logos/{{page.logohandle}}/{{image}}&amp;zoom=max&amp;backUrl={{site.production_url}}/logos/{{page.logohandle}}/index.html&amp;backText=Return+to+VectorLogoZone{{heightWidth}}" title="preview" rel="nofollow"><i class="far fa-eye"></i></a>
 				<a class="btn btn-secondary btn-sm" download="{{image}}" href="{{image}}" title="Download"><i class="fa fa-download"></i></a>
 				<button class="btn btn-secondary btn-sm copy2cb" data-clipboard-text="{{site.production_url}}/logos/{{page.logohandle}}/{{image}}" href="#" title="Copy URL to Clipboard" rel="nofollow"><i class="far fa-clipboard"></i></button>
 				<div style="position:relative;display:inline-block;"><button class="btn btn-primary btn-sm copy2tip" style="position:absolute;left:0;right:0;">Copied to Clipboard</button>
@@ -19,18 +33,9 @@
 				</div>
 			</td>
 			<td class="d-none d-sm-table-cell" style="white-space:nowrap;vertical-align:middle;">
-			{%- capture imagetype %}{{image|split:'-'|last|split:'.'|first}}{% endcapture %}
-			{%- assign standard = false %}
-			{%- capture alt_text %}Alternate image for {{page.title}}{% endcapture %}
-			{%- for standardtype in site.data.imagetype %}
-				{% if standardtype.id == imagetype %}
-					{{standardtype.title}}
-					{% capture alt_text %}Vector (.svg) logo for {{page.title}}: {{standardtype.title}}{% endcapture %}
-					{% assign standard = true %}
-					{% assign customstyle = standardtype.customstyle %}
-				{% endif %}
-			{% endfor %}
-			{% if standard == false %}
+			{%- if standard %}
+                {{theType.title}}
+            {%- else %}
 				{{imagetype}}
 			{% endif %}
 			{% capture extension %}{{image|split:'.'|last}}{% endcapture %}
@@ -38,7 +43,7 @@
 				(Raster)
 			{% endif %}
 			</td>
-			<td><a href="{{site.viewer}}?url={{site.production_url}}/logos/{{page.logohandle}}/{{image}}&amp;zoom=max&amp;backUrl={{site.production_url}}/logos/{{page.logohandle}}/index.html&amp;backText=Return+to+VectorLogoZone" rel="nofollow"><img alt="{{alt_text}}" src="{{image}}" style="{% if customstyle%}{{customstyle}}{% else %}height:120px;{% endif %}" /></a></td>
+			<td><a href="{{site.viewer}}?url={{site.production_url}}/logos/{{page.logohandle}}/{{image}}&amp;zoom=max&amp;backUrl={{site.production_url}}/logos/{{page.logohandle}}/index.html&amp;backText=Return+to+VectorLogoZone{{heightWidth}}" rel="nofollow"><img alt="{{alt_text}}" src="{{image}}" style="{% if customstyle%}{{customstyle}}{% else %}height:120px;{% endif %}" /></a></td>
 		</tr>
 {% endfor %}
 	</tbody>
