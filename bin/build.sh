@@ -39,8 +39,11 @@ python3 bin/gen_next_prev.py
 #echo "INFO: generating social media banner images"
 #bin/mkcard.sh
 
-echo "INFO: running jekyll"
-bundle exec jekyll build --source www --verbose --profile
+echo "INFO: installing javascript dependencies"
+npm install
+
+echo "INFO: running astro build"
+npm run build
 
 echo "INFO: merging index files"
 tar cvzf _site/util/sourceData.tgz _site/util/sourceData*.json

@@ -1,0 +1,7 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { siteConfig } from "../lib/site";
+---
+<BaseLayout pageTitle={`404 - Page Not Found - ${siteConfig.title}`} noindex={true}>
+  <p>The page you requested could not be found!</p>
+</BaseLayout>

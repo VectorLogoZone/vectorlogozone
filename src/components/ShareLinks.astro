@@ -1,0 +1,18 @@
+---
+import { siteConfig } from "../lib/site";
+
+const { pageUrl, title } = Astro.props;
+---
+<p>
+  Share:
+  {
+    siteConfig.sharingTargets.map((target) => {
+      const shareUrl = `https://simpleshare.dev/go?site=${encodeURIComponent(target)}&url=${encodeURIComponent(siteConfig.productionUrl + pageUrl + siteConfig.indexPage)}&text=${encodeURIComponent(`${title} Logo`)}&ga=${encodeURIComponent(siteConfig.googleAnalyticsId)}`;
+      return (
+        <a href={shareUrl} rel="nofollow" title={`share on ${target}`}>
+          <img alt={`share on ${target}`} class="sharelogo" src={`/logos/${target}/${target}-tile.svg`} />
+        </a>
+      );
+    })
+  }
+</p>

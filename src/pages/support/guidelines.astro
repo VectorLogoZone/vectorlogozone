@@ -1,0 +1,126 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getImageTypes } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const imageTypes = getImageTypes();
+---
+<BaseLayout pageTitle={`Guidelines - ${siteConfig.title}`}>
+  <p>
+    See the
+    <a href="https://github.com/VectorLogoZone/vectorlogozone/blob/main/CONTRIBUTING.md">contributing how-to</a>
+    on github for how to contribute.
+  </p>
+
+  <h2>File/Directory naming guidelines</h2>
+  <p>
+    Use the base domain name without the top-level domain. For example: Bootstrap's website is
+    <code>www.getbootstrap.com</code>, so the directory and logo handle should be
+    <code>getbootstrap</code>.
+  </p>
+  <p>
+    If the home page is a subdirectory or subdomain, put an underscore and then the subdirectory/subdomain.
+  </p>
+
+  <h2>Image guidelines</h2>
+  <p>
+    One of the key reasons for VectorLogoZone is a visually consistent look. These are the guidelines for making
+    images.
+  </p>
+
+  <p>Detailed rules:</p>
+  <ul>
+    <li>
+      Do not reference external fonts in <code>.svg</code> files: convert to curves. However, document the name (and
+      URL) of the font.
+    </li>
+    <li>Add a shadow or outline if there are white elements/edges so logos look good on a light background.</li>
+    <li>Make the background transparent.</li>
+    <li>
+      Include the original file with <code>_src</code> suffix (if legally possible). Document the URL where you found
+      it.
+    </li>
+  </ul>
+
+  <h2>Images to make</h2>
+  <hr />
+  {
+    imageTypes.map((imagetype) => (
+      <>
+        <h3>{imagetype.title}</h3>
+        <p>{imagetype.description}</p>
+
+        {imagetype.id === "ar21" && (
+          <>
+            <p>Image should have padding</p>
+            <p>Image must be 120px wide by 60px tall</p>
+          </>
+        )}
+
+        {imagetype.id === "horizontal" && (
+          <>
+            <p>Leave the appropriate padding if the characters do not have ascenders or descenders.</p>
+            <p>
+              Text font size should be 64px. See the <a href="#template">template</a> below.
+            </p>
+          </>
+        )}
+
+        {imagetype.id === "icon" && (
+          <>
+            <p>Image should go all the way to the edge: no extra whitespace/padding.</p>
+            <p>Image should be 32px square</p>
+          </>
+        )}
+
+        {imagetype.id === "wordmark" && (
+          <>
+            <p>Leave the appropriate padding if the characters do not have ascenders or descenders.</p>
+            <p>
+              Text font size should be 64px. See the <a href="#template">template</a> below.
+            </p>
+          </>
+        )}
+
+        {imagetype.id === "vertical" && (
+          <>
+            <p>
+              The image can be wider or narrower. Image should be padded and centered. Logo and text should be
+              properly proportioned.
+            </p>
+          </>
+        )}
+
+        <p>
+          <a href={`/logos/index.html#${imagetype.id}`}>View all</a>
+        </p>
+        <hr />
+      </>
+    ))
+  }
+
+  <h2 id="template">Template</h2>
+  <p>The text in the horizontal and wordmark versions should be 64px high.</p>
+  <p>
+    If the text does not have any letters with descenders, the bottom of the text should be at 16px. I.e. 15px of
+    whitespace below the text.
+  </p>
+  <p>
+    If the text does not have any letters with ascenders, the top of the text should be at 50px. I.e. 14px of
+    whitespace above the text.
+  </p>
+  <p>If the logo is bigger than the text, the image can be bigger as well.</p>
+  <p>
+    If the font has strange proportions (or is too light or dark), the size can be adjusted so it is visually similar
+    to the guidelines.
+  </p>
+  <p class="text-center">
+    <a href="/util/preview.html?image=/template/64point.svg&amp;next=/support/guidelines.html%23template">
+      <img
+        alt="template for horizontal and wordmark"
+        src="/template/64point.svg"
+        style="border:1px solid black"
+      />
+    </a>
+  </p>
+</BaseLayout>

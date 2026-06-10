@@ -1,0 +1,65 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getAllLogoRecords, getTags } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const records = getAllLogoRecords();
+const tags = getTags();
+---
+<BaseLayout pageTitle={`Logos by Tag - ${siteConfig.title}`}>
+  <div id="accordion">
+    {
+      Object.entries(tags).map(([tagId, meta]) => {
+        const matches = records.filter((record) => {
+          const data = record.data;
+          const file = `${data.logohandle}-ar21.svg`;
+          return Array.isArray(data.tags) && data.tags.includes(tagId) && data.images.includes(file);
+        });
+
+        return (
+          <div class="card">
+            <div class="card-header" id={`heading${tagId}`}>
+              <h5 class="mb-0">
+                <a class="btn btn-link" href={`#${tagId}`} aria-expanded="false" title={`${meta.title} (${tagId})`}>
+                  {(meta.title || tagId).replaceAll("_", " ")}
+                </a>
+                <span class="badge badge-info float-right">{meta.count ?? matches.length}</span>
+              </h5>
+            </div>
+            <div id={`collapse${tagId}`} class="collapse" data-parent="#accordion">
+              <div class="card-body logo-container">
+                {matches.map((record) => {
+                  const data = record.data;
+                  const file = `${data.logohandle}-ar21.svg`;
+                  return (
+                    <a href={`/logos/${data.logohandle}/index.html`}><img alt={data.title} src={`${data.logohandle}/${file}`} /></a>
+                  );
+                })}
+              </div>
+            </div>
+          </div>
+        );
+      })
+    }
+  </div>
+
+  <script is:inline>
+    function switchPanels() {
+      $(".collapse").hide();
+      var hash = window.location.hash;
+      if (!hash || hash === "#") {
+        return;
+      }
+      var tag = hash.substring(1);
+      $("#collapse" + tag).show();
+    }
+
+    $(document).ready(function () {
+      $(window).bind("hashchange", switchPanels);
+      if (window.location.hash) {
+        switchPanels();
+        $(document).scrollTop($("#heading" + window.location.hash.substring(1)).offset().top);
+      }
+    });
+  </script>
+</BaseLayout>

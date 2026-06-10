@@ -13,3 +13,7 @@ tmp*
 work-in-progress/
 www/_data/nextprev.yaml
 www/util/fulldata.json
+node_modules/
+dist/
+public/
+.astro/

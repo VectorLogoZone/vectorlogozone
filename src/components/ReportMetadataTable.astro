@@ -1,0 +1,141 @@
+---
+const { records } = Astro.props;
+
+const socialFields = [
+  "blog",
+  "codehost",
+  "facebook",
+  "googleplus",
+  "instagram",
+  "linkedin",
+  "pinterest",
+  "reddit",
+  "tumblr",
+  "twitter",
+  "youtube"
+];
+
+const counts = {
+  logos: records.length,
+  color: 0,
+  font: 0,
+  guide: 0,
+  website: 0,
+  wikipedia: 0,
+  tags: 0,
+  social: Object.fromEntries(socialFields.map((field) => [field, 0]))
+};
+
+for (const record of records) {
+  const data = record.data;
+  if (Array.isArray(data.colors) && data.colors.length > 0) counts.color += 1;
+  if (data.font) counts.font += 1;
+  if (data.guide) counts.guide += 1;
+  if (data.website) counts.website += 1;
+  if (data.wikipedia) counts.wikipedia += 1;
+  if (Array.isArray(data.tags) && data.tags.length > 0) counts.tags += 1;
+
+  for (const field of socialFields) {
+    if (data[field]) {
+      counts.social[field] += 1;
+    }
+  }
+}
+
+const pct = (value) => (counts.logos > 0 ? Math.floor((value * 100) / counts.logos) : 0);
+const fmt = (value) => value.toLocaleString("en-US");
+const checkOn = '<i class="fa fa-check"></i>';
+const checkOff = '<i class="fal fa-times" style="opacity:0.1"></i>';
+---
+<table class="table table-striped table-bordered">
+  <thead>
+    <tr>
+      <th>Name</th>
+      <th style="text-align:center">Color</th>
+      <th style="text-align:center">Font</th>
+      <th style="text-align:center">Guidelines</th>
+      <th style="text-align:center">Website</th>
+      <th style="text-align:center">Wikipedia</th>
+      <th>Social media</th>
+      <th style="text-align:center"># Tags</th>
+    </tr>
+  </thead>
+  <tbody>
+    {
+      records.map((record) => {
+        const data = record.data;
+        return (
+          <tr>
+            <td><a href={`/logos/${data.logohandle}/index.html`}>{data.title || "(untitled)"}</a></td>
+            <td class="text-center" set:html={data.colors ? checkOn : checkOff}></td>
+            <td class="text-center" set:html={data.font ? checkOn : checkOff}></td>
+            <td class="text-center">{data.guide ? <a href={data.guide} set:html={checkOn}></a> : <span set:html={checkOff}></span>}</td>
+            <td class="text-center">{data.website ? <a href={data.website} set:html={checkOn}></a> : <span set:html={checkOff}></span>}</td>
+            <td class="text-center">{data.wikipedia ? <a href={data.wikipedia} set:html={checkOn}></a> : <span set:html={checkOff}></span>}</td>
+            <td>
+              {data.blog ? <a href={data.blog}><i class="fas fa-rss-square"></i></a> : <span set:html={checkOff}></span>}
+              {data.codehost ? <a href={data.codehost}><i class="far fa-code-branch"></i></a> : <span set:html={checkOff}></span>}
+              {data.facebook ? <a href={data.facebook}><i class="fab fa-facebook"></i></a> : <span set:html={checkOff}></span>}
+              {data.googleplus ? <a href={data.googleplus}><i class="fab fa-google-plus-square"></i></a> : <span set:html={checkOff}></span>}
+              {data.instagram ? <a href={data.instagram}><i class="fab fa-instagram"></i></a> : <span set:html={checkOff}></span>}
+              {data.linkedin ? <a href={data.linkedin}><i class="fab fa-linkedin"></i></a> : <span set:html={checkOff}></span>}
+              {data.pinterest ? <a href={data.pinterest}><i class="fab fa-pinterest"></i></a> : <span set:html={checkOff}></span>}
+              {data.reddit ? <a href={data.reddit}><i class="fab fa-reddit"></i></a> : <span set:html={checkOff}></span>}
+              {data.tumblr ? <a href={data.tumblr}><i class="fab fa-tumblr"></i></a> : <span set:html={checkOff}></span>}
+              {data.twitter ? <a href={data.twitter}><i class="fab fa-twitter"></i></a> : <span set:html={checkOff}></span>}
+              {data.youtube ? <a href={data.youtube}><i class="fab fa-youtube"></i></a> : <span set:html={checkOff}></span>}
+            </td>
+            <td class="text-center"><a href={`/logos/${data.logohandle}/index.html`}>{Array.isArray(data.tags) ? data.tags.length : 0}</a></td>
+          </tr>
+        );
+      })
+    }
+  </tbody>
+  <tfoot>
+    {counts.logos > 0 && (
+      <tr>
+        <td>&nbsp;</td>
+        <td class="text-center">{fmt(counts.color)}<br/>({pct(counts.color)}%)</td>
+        <td class="text-center">{fmt(counts.font)}<br/>({pct(counts.font)}%)</td>
+        <td class="text-center">{fmt(counts.guide)}<br/>({pct(counts.guide)}%)</td>
+        <td class="text-center">{fmt(counts.website)}<br/>({pct(counts.website)}%)</td>
+        <td class="text-center">{fmt(counts.wikipedia)}<br/>({pct(counts.wikipedia)}%)</td>
+        <td>&nbsp;</td>
+        <td class="text-center">{fmt(counts.tags)}<br/>({pct(counts.tags)}%)</td>
+      </tr>
+    )}
+    <tr>
+      <th>&nbsp;</th>
+      <th style="text-align:center">Color</th>
+      <th style="text-align:center">Font</th>
+      <th style="text-align:center">Guidelines</th>
+      <th style="text-align:center">Website</th>
+      <th style="text-align:center">Wikipedia</th>
+      <th>Social media</th>
+      <th style="text-align:center"># Tags</th>
+    </tr>
+  </tfoot>
+</table>
+
+<p>{fmt(counts.logos)} logo and placeholder pages</p>
+
+{counts.logos > 0 && (
+  <table class="table table-striped table-bordered" style="width:auto;">
+    <thead>
+      <tr>
+        <th>Social media site</th>
+        <th class="text-center">Count</th>
+        <th class="text-center">Percent available</th>
+      </tr>
+    </thead>
+    <tbody>
+      {socialFields.map((field) => (
+        <tr>
+          <td>{field}</td>
+          <td class="text-center">{fmt(counts.social[field])}</td>
+          <td class="text-center">{pct(counts.social[field])}%</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+)}

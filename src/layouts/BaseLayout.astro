@@ -1,0 +1,118 @@
+---
+const {
+  pageTitle,
+  noindex = false,
+  hasImages = false,
+  canonical,
+  prevHref,
+  nextHref
+} = Astro.props;
+---
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{pageTitle}</title>
+    <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    <link href="/css/fontawesome-all.min.css" rel="stylesheet" type="text/css" />
+    <meta name="theme-color" content="#2c3e50" />
+    {noindex && <meta name="robots" content="noindex" />}
+    {canonical && <link rel="canonical" href={canonical} />}
+    {prevHref && <link rel="prev" href={prevHref} />}
+    {nextHref && <link rel="next" href={nextHref} />}
+    <meta name="referrer" content="unsafe-url" />
+    <slot name="head" />
+    <noscript>
+      <style>
+        .scriptonly { display: none !important; }
+      </style>
+    </noscript>
+    <style is:global>
+      .logo-container img { box-shadow: 0 0 5px #1d1d1d; border: solid #ccc 1px; margin: 6px; }
+      .card-footer { background-color: inherit; border-top: 0; }
+      .navbar-brand { font-weight: bold; }
+      .nav-link { font-weight: bold; }
+      .navbar-dark .navbar-nav .nav-link { color: white; }
+      .navbar-logo { height: 31px; margin-top: -8px; padding-top: 8px; padding-right: 8px; }
+      h1 { margin-top: 21px; }
+      .padded { padding: 5px; }
+      .maxsize { max-width: 120px; max-height: 120px; }
+      .ar21 { height: 60px; width: 120px; }
+      .nav-tabs > li.active > a,
+      .nav-tabs > li.active > a:hover,
+      .nav-tabs > li.active > a:focus { outline: 0; }
+      .icon-link { color: #888; margin-top: 10px; margin-right: 5px; padding: 8px; }
+      .sharelogo { margin: 6px; width: 32px; }
+      .searchlogo { margin: 6px; width: 32px; }
+      .carousel-control { padding-top: 25%; }
+      .alert-info a { color: white; text-decoration: underline; }
+      .btn-share { background-color: #fff; border-color: #ccc; border-width: 1px; padding: 4px 4px 0 4px; margin-left: 5px; }
+      .preview-color { height: 30px; width: 45px; display: inline-block; border: 1px solid #a2a2a2; border-radius: 4px; vertical-align: middle; margin-left: 10px; }
+      .social-footer { margin-left: 8px; margin-right: 8px; vertical-align: middle; width: 20px; }
+      .copy2tip { display: none; }
+      a { color: #003bbf; }
+    </style>
+    <script is:inline src="/js/jquery-3.3.1.min.js"></script>
+    <script is:inline src="/js/popper.min.js"></script>
+    <script is:inline src="/js/bootstrap.min.js"></script>
+    {
+      hasImages && (
+        <script is:inline src="https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js"></script>
+      )
+    }
+    {
+      hasImages && (
+        <script is:inline>
+          $(document).ready(function () {
+            if (window.ClipboardJS && ClipboardJS.isSupported()) {
+              var clipboard = new ClipboardJS(".copy2cb");
+              clipboard.on("success", function (e) {
+                var tip = $(e.trigger).next().children().first();
+                tip.show();
+                window.setTimeout(function () {
+                  tip.hide();
+                }, 1000);
+                e.clearSelection();
+              });
+            } else {
+              $(".copy2cb").hide();
+            }
+          });
+        </script>
+      )
+    }
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-sm navbar-dark navbar-static-top d-print-none" style="background-color:#1d8286;">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="/" title="Vector Logo Zone"><img src="/images/about/vlzlogo-white.svg" alt="Vector Logo Zone Logo" class="navbar-logo" /></a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
+      <div class="navbar-collapse collapse navbar-right" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item"><a class="nav-link" href="/about.html">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="/logos/index.html">A-Z</a></li>
+          <li class="nav-item"><a class="nav-link" href="/support/index.html">FAQ</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://github.com/VectorLogoZone/vectorlogozone/blob/main/CONTRIBUTING.md">Contribute</a></li>
+          <li class="nav-item"><a class="nav-link" href="/report/index.html">Reports</a></li>
+          <li class="nav-item"><a class="nav-link" href="/index.html" title="Search"><span>Search</span></a></li>
+        </ul>
+      </div>
+    </nav>
+    <div class="container">
+      <slot />
+      <hr />
+      <footer class="d-print-none">
+        <p class="small text-muted text-center">
+          Follow:
+          <a href="https://logo-of-the-day.vectorlogo.zone/" title="Logo of the day"><img alt="Logo of the day" src="https://logo-of-the-day.vectorlogo.zone/favicon.svg" class="social-footer" /></a>
+          <a href="https://www.github.com/VectorLogoZone/vectorlogozone" title="Fork VectorLogoZone on Github"><img alt="Github" src="/logos/github/github-tile.svg" class="social-footer" /></a>
+          | <a href="https://validator.w3.org/check/referer">Validate HTML</a>
+        </p>
+      </footer>
+    </div>
+  </body>
+</html>

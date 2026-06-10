@@ -1,0 +1,18 @@
+---
+const target = "/report/metadata.html";
+---
+<!doctype html>
+<html lang="en-US">
+  <head>
+    <meta charset="utf-8" />
+    <title>Redirecting...</title>
+    <link rel="canonical" href={target} />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <meta name="robots" content="noindex" />
+    <script is:inline>{`location="${target}"`}</script>
+  </head>
+  <body>
+    <h1>Redirecting...</h1>
+    <a href={target}>Click here if you are not redirected.</a>
+  </body>
+</html>

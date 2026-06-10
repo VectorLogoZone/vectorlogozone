@@ -1,0 +1,180 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getVisibleLogoRecords } from "../lib/logos";
+import { siteConfig } from "../lib/site";
+
+const withAr21 = getVisibleLogoRecords()
+  .filter((record) => record.data.images.includes(`${record.data.logohandle}-ar21.svg`))
+  .map((record) => record.data.logohandle);
+
+const shuffled = [...withAr21].sort(() => Math.random() - 0.5);
+const defaultLogos = shuffled.slice(0, 72);
+---
+<BaseLayout pageTitle={`Gorgeous SVG logos, perfect for your README or credits page - ${siteConfig.title}`}>
+  <div class="jumbotron jumbotron-fluid bg-transparent pb-0 pt-2">
+    <div class="container px-0">
+      <h1 class="display-4 d-flex justify-content-center"><a href="/about.html"><img alt="VectorLogoZone logo" src="/images/about/vlzlogo-grey.svg" style="max-width:100%;object-fit:contain;" /></a></h1>
+      <p class="lead d-flex justify-content-center" style="font-size:1.75rem;">3,000+ gorgeous SVG logos, perfect for your README or credits page</p>
+    </div>
+  </div>
+
+  <noscript>
+    <div class="alert alert-info" role="alert">
+      You have disabled JavaScript. While pages will display properly, the search function relies on JavaScript.
+      <br/><br/>
+      Please use <a class="alert-link" href="https://logosear.ch/">LogoSearch</a> or browse the <a class="alert-link" href="/logos/index.html">A-Z index</a> to find logos.
+    </div>
+    <div class="row" id="default_div">
+      <div class="col logo-container">
+        {defaultLogos.map((logo) => <a href={`/logos/${logo}/index.html`} title={logo}><img class="ar21" alt={logo} src={`/logos/${logo}/${logo}-ar21.svg`} /></a>)}
+      </div>
+    </div>
+  </noscript>
+
+  <div class="row scriptonly" id="wait">
+    <div class="col">
+      <div class="alert alert-info" role="alert">
+        <img alt="Loading..." class="float-start" src="/images/spinner.svg" style="height:64px;width:64px;" />
+        Please wait... If you have JavaScript disabled or the index never finishes loading, please try
+        <ul>
+          <li><a class="alert-link" href="javascript:location.reload();">Reloading this page</a> - only if you have JavaScript enabled</li>
+          <li>Browsing the <a class="alert-link" href="/logos/index.html">A-Z list</a> - works without JavaScript, but so many SVGs can crash your browser</li>
+          <li>Searching with <a class="alert-link" href="https://logosear.ch/">LogoSearch</a> - works without JavaScript</li>
+          <li>Letting me know via the <a class="alert-link" href="/support/contact.html">contact page</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <form action="" method="get" class="form-inline justify-content-center noscript" id="site_search" style="display:none;">
+    <div class="form-row align-items-center" style="padding-bottom:20px;">
+      <div class="col-auto">
+        <label class="sr-only" for="q">Search query</label>
+        <div class="input-group">
+          <input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search terms" type="text" />
+          <div class="input-group-append">
+            <button type="submit" class="btn" style="background-color:#1d8286;color:white;font-weight:bold;">Search</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </form>
+
+  <div class="row clearfix">
+    <div class="logo-container" id="search_results"></div>
+  </div>
+
+  <div class="row clearfix mt-3">
+    <div class="col">
+      <p id="pending-tip" class="alert alert-primary" style="display:none;">The following logos are on the "To Do" list and should be ready shortly.</p>
+      <ul id="pending"></ul>
+    </div>
+  </div>
+
+  <script is:inline src="/js/lunr.min.js"></script>
+  <script is:inline define:vars={{ defaultLogos }}>
+    $(function () {
+      lunr.tokenizer.seperator = /[\s\-_\.]+/;
+      window.idx = lunr(function () {
+        this.field("id");
+        this.field("title", { boost: 10 });
+        this.field("keywords");
+        this.field("website");
+        this.field("category");
+      });
+      window.idx.pipeline.remove(lunr.stopWordFilter);
+
+      window.default_logos = defaultLogos;
+      window.data = $.getJSON("/util/fulltext.json");
+
+      window.data.then(function (loaded_data) {
+        $.each(loaded_data, function (index, value) {
+          window.idx.add($.extend({ id: index }, value));
+        });
+        $("#wait").hide();
+        $("#site_search").show();
+        show_default();
+      });
+
+      function getParameterByName(name) {
+        var match = RegExp("[?&]" + name + "=([^&]*)").exec(window.location.search);
+        return match && decodeURIComponent(match[1].replace(/\+/g, " "));
+      }
+
+      function htmlEncode(value) {
+        return $("<div>").text(value).html();
+      }
+
+      function show_default() {
+        var $search_results = $("#search_results");
+        $search_results.empty();
+        for (var loop = 0; loop < default_logos.length; loop++) {
+          var logohandle = default_logos[loop];
+          $search_results.append('<a href="/logos/' + logohandle + '/index.html" title="' + htmlEncode(logohandle) + '"><img class="ar21" alt="' + htmlEncode(logohandle) + '" src="/logos/' + logohandle + '/' + logohandle + '-ar21.svg" /></a>');
+        }
+      }
+
+      function display_search_results(query, results) {
+        var $search_results = $("#search_results");
+        var $pending = $("#pending");
+        $search_results.empty();
+        $pending.empty();
+        $("#pending-tip").css("display", "none");
+
+        window.data.then(function (loaded_data) {
+          if (results.length > 50) {
+            results.length = 50;
+          }
+
+          if (!results.length) {
+            $search_results.html('<div class="alert alert-warning">No results found for "' + htmlEncode(query) + '". Try searching at <a href="https://logosear.ch/search.html?q=' + encodeURIComponent(query) + '">Logo Search</a>!</div>');
+            return;
+          }
+
+          results.forEach(function (result) {
+            var item = loaded_data[result.ref];
+            if (item.haslogo) {
+              $search_results.append('<a href="/logos/' + result.ref + '/index.html" title="' + htmlEncode(item.title) + '"><img class="ar21" alt="' + htmlEncode(item.title) + '" src="/logos/' + result.ref + '/' + result.ref + '-ar21.svg" /></a>');
+            } else {
+              $pending.append($("<li>").append($("<a>").text(item.title).attr("href", "/logos/" + result.ref + "/index.html")));
+            }
+          });
+
+          $("#pending-tip").css("display", $pending.children().length > 0 ? "block" : "none");
+        });
+      }
+
+      function doSearch(query) {
+        if (!query || query.length === 0) {
+          $("#pending").empty();
+          $("#pending-tip").css("display", "none");
+          show_default();
+          return false;
+        }
+        var results = window.idx.search(query);
+        display_search_results(query, results);
+        return false;
+      }
+
+      $("#q").on("input propertychange paste", function () {
+        var query = $("#q").val();
+        history.replaceState({ q: query }, "", query ? "?q=" + encodeURIComponent(query) : window.location.pathname);
+        document.title = query ? "Search logos for '" + query + "'" : "Vector Logo Zone";
+        doSearch(query);
+      });
+
+      $("#site_search").submit(function () {
+        doSearch($("#q").val());
+        return false;
+      });
+
+      var query = getParameterByName("q");
+      if (query && query.length) {
+        window.data.then(function () {
+          $("#q").val(query);
+          doSearch(query);
+        });
+      }
+    });
+  </script>
+</BaseLayout>

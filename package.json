@@ -1,0 +1,18 @@
+{
+  "name": "vectorlogozone-astro",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "predev": "node scripts/sync-public.mjs",
+    "dev": "astro dev",
+    "prebuild": "node scripts/sync-public.mjs",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "dependencies": {
+    "astro": "^5.10.0",
+    "gray-matter": "^4.0.3",
+    "marked": "^13.0.2",
+    "yaml": "^2.8.1"
+  }
+}

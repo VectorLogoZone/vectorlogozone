@@ -1,0 +1,42 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getFavicons, getAllLogoRecords } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const favicons = getFavicons();
+const rows = getAllLogoRecords().filter((record) => {
+  const data = record.data;
+  const iconFile = `${data.logohandle}-icon.svg`;
+  return data.images.includes(iconFile) && favicons[data.logohandle] && favicons[data.logohandle] !== "-";
+});
+---
+<BaseLayout pageTitle={`Compare icon vs favicon - ${siteConfig.title}`} noindex={true}>
+  <p>This is a test page to compare the icons with the actual favicon.ico image from the website.</p>
+
+  <div class="logo-container">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Icon</th>
+          <th>Favicon</th>
+          <th>Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((record) => {
+          const data = record.data;
+          const iconFile = `${data.logohandle}-icon.svg`;
+          const favicon = favicons[data.logohandle];
+          const host = data.website ? new URL(data.website).host : "";
+          return (
+            <tr>
+              <td><img alt={`icon of ${data.title}`} src={`/logos/${data.logohandle}/${iconFile}`} style="height: 64px; width: 64px;"/></td>
+              <td><a href={data.website}><img alt={`favicon from ${host}`} src={favicon} style="height: 64px; width: 64px;" /></a></td>
+              <td><a href={`/logos/${data.logohandle}/index.html`}>{data.title}</a></td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+</BaseLayout>

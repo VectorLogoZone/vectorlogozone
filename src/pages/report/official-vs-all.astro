@@ -1,0 +1,42 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getAllLogoRecords } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const rows = getAllLogoRecords().filter((record) => {
+  const data = record.data;
+  return data.images.includes(`${data.logohandle}-official.svg`) && data.images.includes(`${data.logohandle}-ar21.svg`);
+});
+---
+<BaseLayout pageTitle={`Compare with Official Logos - ${siteConfig.title}`} noindex={true}>
+  <p>This is a page to compare the official logos.</p>
+
+  <div class="logo-container">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Official</th>
+          <th>Rectangle</th>
+          <th>Icon</th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((record) => {
+          const data = record.data;
+          const officialFile = `${data.logohandle}-official.svg`;
+          const ar21File = `${data.logohandle}-ar21.svg`;
+          const iconFile = `${data.logohandle}-icon.svg`;
+          return (
+            <tr>
+              <td><a href={`/logos/${data.logohandle}/index.html`}>{data.title}</a></td>
+              <td><img alt={`official logo for ${data.title}`} src={`/logos/${data.logohandle}/${officialFile}`} style="max-height: 128px; max-width: 384px; padding: 10px;" /></td>
+              <td><img alt={`rectangular logo for ${data.title}`} src={`/logos/${data.logohandle}/${ar21File}`} style="height: 128px; padding: 0px;" /></td>
+              <td>{data.images.includes(iconFile) && <img alt={`icon of ${data.title}`} src={`/logos/${data.logohandle}/${iconFile}`} style="height: 128px; padding: 10px;" />}</td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+</BaseLayout>

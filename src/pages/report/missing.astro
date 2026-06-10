@@ -1,0 +1,126 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getSimpleIcons, getSvgporn, getVisibleLogoRecords } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const svgporn = getSvgporn();
+const simple = getSimpleIcons();
+
+const rows = [];
+let svgporncount = 0;
+let guidecount = 0;
+let othertotal = 0;
+
+for (const record of getVisibleLogoRecords()) {
+  const data = record.data;
+  const logoar21 = `${data.logohandle}-ar21.svg`;
+  const logoicon = `${data.logohandle}-icon.svg`;
+  const hasAr21 = data.images.includes(logoar21);
+  const hasIcon = data.images.includes(logoicon);
+
+  if (hasAr21 && hasIcon) {
+    continue;
+  }
+
+  let othercount = data.images.length;
+  if (hasAr21) othercount -= 1;
+  if (hasIcon) othercount -= 1;
+
+  othertotal += othercount;
+  if (data.guide) guidecount += 1;
+
+  const svgpornImages = Array.isArray(svgporn[data.logohandle]) ? svgporn[data.logohandle] : [];
+  const simpleIcon = simple[data.logohandle];
+  if (svgpornImages.length > 0) svgporncount += 1;
+  if (simpleIcon) svgporncount += 1;
+
+  rows.push({ data, hasAr21, hasIcon, othercount, svgpornImages, simpleIcon });
+}
+
+const logocount = rows.length;
+const simpleIconHref = (value) => (value.startsWith("http") ? value : `https://simpleicons.org/icons/${value}`);
+---
+<BaseLayout pageTitle={`Missing Logos - ${siteConfig.title}`} noindex={true}>
+  <p>In theory, every logo should have at least the icon and rectangular versions. This is the list of logos that don't have both.</p>
+
+  <table class="table table-striped table-bordered">
+    <thead>
+      <tr>
+        <th class="text-center d-none d-lg-table-cell d-print-table-cell">ID</th>
+        <th>Name</th>
+        <th>Icon</th>
+        <th>Rectangle</th>
+        <th class="text-center d-none d-lg-table-cell d-print-table-cell">Other</th>
+        <th class="text-center d-none d-lg-table-cell d-print-table-cell">User-submitted</th>
+        <th class="text-center d-none d-lg-table-cell d-print-table-cell">Guidelines</th>
+        <th class="text-center d-none d-lg-table-cell d-print-table-cell">SVGPorn</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        rows.map((row) => (
+          <tr>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell"><a href={`/logos/${row.data.logohandle}/index.html`} rel="nofollow">{row.data.logohandle}</a></td>
+            <td><a href={`/logos/${row.data.logohandle}/index.html`}>{row.data.title || "(untitled)"}</a></td>
+            <td>{row.hasIcon ? "" : "MISSING"}</td>
+            <td>{row.hasAr21 ? "" : "MISSING"}</td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">{row.othercount > 0 ? row.othercount : ""}</td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell" id={`contrib-${row.data.logohandle}`}></td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">
+              {row.data.guide ? <a href={row.data.guide}><i class="fa fa-certificate"></i></a> : ""}
+            </td>
+            <td class="text-center d-none d-lg-table-cell d-print-table-cell">
+              {row.svgpornImages.map((img) => <a href={`https://cdn.svgporn.com/logos/${img}`}><img alt={`svgporn for ${row.data.title}`} src={`https://cdn.svgporn.com/logos/${img}`} style="height:12pt;width:12pt" /></a>)}
+              {row.simpleIcon && <a href={simpleIconHref(row.simpleIcon)}><img alt={`simple-icons for ${row.data.title}`} src={simpleIconHref(row.simpleIcon)} style="height:12pt;width:12pt" /></a>}
+            </td>
+          </tr>
+        ))
+      }
+    </tbody>
+    <tfoot>
+      <tr class="d-none d-lg-table-row d-print-table-row">
+        <td class="text-center d-none d-lg-table-cell d-print-table-cell"></td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td class="text-center d-none d-lg-table-cell d-print-table-cell">{othertotal}</td>
+        <td class="text-center d-none d-lg-table-cell d-print-table-cell" id="contribcount">
+          <img src="/images/spinner.svg" style="height:1.5em;" />
+        </td>
+        <td class="text-center d-none d-lg-table-cell d-print-table-cell">{guidecount}</td>
+        <td class="text-center d-none d-lg-table-cell d-print-table-cell">{svgporncount}</td>
+      </tr>
+    </tfoot>
+  </table>
+
+  <p>{logocount.toLocaleString("en-US")} logos with something missing</p>
+
+  <script is:inline>
+    $(document).ready(function () {
+      $.ajax({
+        dataType: "jsonp",
+        error: function (xhr, status, err) {
+          console.error("ERROR: " + status, err);
+        },
+        method: "GET",
+        success: function (data) {
+          if (data.success) {
+            for (const result of data.data) {
+              $("#contrib-" + result.logohandle).append(
+                $("<a>")
+                  .attr("href", "https://upload.vectorlogo.zone/logos/" + result.logohandle + "/index.html")
+                  .attr("title", "User submissions")
+                  .text(result.count)
+              );
+            }
+            $("#contribcount").empty().text(data.count);
+          } else {
+            $("#contribcount").empty().text("0");
+          }
+        },
+        timeout: 15000,
+        url: "https://upload.vectorlogo.zone/logos/pending.json"
+      });
+    });
+  </script>
+</BaseLayout>

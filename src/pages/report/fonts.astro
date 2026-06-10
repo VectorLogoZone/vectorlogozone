@@ -1,0 +1,76 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getAllLogoRecords } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const records = getAllLogoRecords().filter((record) => record.data.logohandle);
+const logocount = records.length;
+const withFont = records.filter((record) => record.data.font);
+
+let googlecount = 0;
+let myfontscount = 0;
+let microsoftcount = 0;
+let freecount = 0;
+
+for (const record of withFont) {
+  const font = record.data.font || {};
+  if (font.google) googlecount += 1;
+  if (font.myfonts) myfontscount += 1;
+  if (font.microsoft) microsoftcount += 1;
+  if (font.freename) freecount += 1;
+}
+
+const checkOn = '<i class="fa fa-check"></i>';
+const checkOff = '<i class="fa fa-fw"></i>';
+const pct = (value) => (logocount > 0 ? Math.floor((value * 100) / logocount) : 0);
+---
+<BaseLayout pageTitle={`Logo Font Report - ${siteConfig.title}`}>
+  <table class="table table-striped table-bordered">
+    <thead>
+      <tr>
+        <th>Logo</th>
+        <th style="text-align:center">Font</th>
+        <th style="text-align:center">Google</th>
+        <th style="text-align:center">Microsoft</th>
+        <th style="text-align:center">MyFonts</th>
+        <th style="text-align:center">Free</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        withFont.map((record) => {
+          const data = record.data;
+          const font = data.font || {};
+          return (
+            <tr>
+              <td><a href={`/logos/${data.logohandle}/index.html`}>{data.title}</a></td>
+              <td>{font.url ? <a href={font.url}>{font.name}</a> : font.name}</td>
+              <td class="text-center">{font.google ? <a href={font.google} set:html={checkOn}></a> : <span set:html={checkOff}></span>}</td>
+              <td class="text-center">{font.microsoft ? <a href={font.microsoft} set:html={checkOn}></a> : <span set:html={checkOff}></span>}</td>
+              <td class="text-center">{font.myfonts ? <a href={font.myfonts} set:html={checkOn}></a> : <span set:html={checkOff}></span>}</td>
+              <td>{font.freename ? (font.freeurl ? <a href={font.freeurl}>{font.freename}</a> : font.freename) : <span set:html={checkOff}></span>}</td>
+            </tr>
+          );
+        })
+      }
+      {logocount > 0 && (
+        <tr>
+          <td>&nbsp;</td>
+          <td class="text-center">{withFont.length.toLocaleString("en-US")} ({pct(withFont.length)}%)</td>
+          <td class="text-center">{googlecount.toLocaleString("en-US")} ({pct(googlecount)}%)</td>
+          <td class="text-center">{microsoftcount.toLocaleString("en-US")} ({pct(microsoftcount)}%)</td>
+          <td class="text-center">{myfontscount.toLocaleString("en-US")} ({pct(myfontscount)}%)</td>
+          <td class="text-center">{freecount.toLocaleString("en-US")} ({pct(freecount)}%)</td>
+        </tr>
+      )}
+      <tr>
+        <th>&nbsp;</th>
+        <th style="text-align:center">Font</th>
+        <th style="text-align:center">Google</th>
+        <th style="text-align:center">Microsoft</th>
+        <th style="text-align:center">MyFonts</th>
+        <th style="text-align:center">Free</th>
+      </tr>
+    </tbody>
+  </table>
+</BaseLayout>

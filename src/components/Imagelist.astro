@@ -1,0 +1,89 @@
+---
+const {
+  images = [],
+  title,
+  logohandle,
+  imageTypes = [],
+  viewer,
+  productionUrl
+} = Astro.props;
+
+const sortedImages = [...images].sort();
+
+const parseImageType = (image) => {
+  const noExt = image.split(".").slice(0, -1).join(".");
+  return noExt.split("-").pop();
+};
+
+const getTypeData = (imageType) => imageTypes.find((item) => item.id === imageType);
+
+const getViewerHref = (image, typeData) => {
+  const params = new URLSearchParams({
+    url: `${productionUrl}/logos/${logohandle}/${image}`,
+    zoom: "max",
+    backUrl: `${productionUrl}/logos/${logohandle}/index.html`,
+    backText: "Return to VectorLogoZone"
+  });
+
+  if (typeData?.height) {
+    params.set("height", String(typeData.height));
+  }
+
+  if (typeData?.width) {
+    params.set("width", String(typeData.width));
+  }
+
+  return `${viewer}?${params.toString()}`;
+};
+---
+<div class="row"><div class="col">
+<table class="table table-striped border-bottom">
+  <thead>
+    <tr>
+      <th class="d-none d-md-table-cell">&nbsp;</th>
+      <th class="d-none d-sm-table-cell">Name</th>
+      <th>Image</th>
+    </tr>
+  </thead>
+  <tbody>
+    {
+      sortedImages.map((image) => {
+        const imageType = parseImageType(image);
+        const typeData = getTypeData(imageType);
+        const standard = !!typeData;
+        const imageTitle = standard ? typeData.title : imageType;
+        const customstyle = typeData?.customstyle;
+        const extension = image.split(".").pop();
+        const altText = standard
+          ? `Vector (.svg) logo for ${title}: ${typeData.title}`
+          : `Alternate image for ${title}`;
+        const viewerHref = getViewerHref(image, typeData);
+
+        return (
+          <tr>
+            <td class="d-none d-md-table-cell" style="white-space:nowrap;vertical-align:middle;">
+              <a class="btn btn-secondary btn-sm" href={viewerHref} title="preview" rel="nofollow"><i class="far fa-eye"></i></a>
+              <a class="btn btn-secondary btn-sm" download={image} href={image} title="Download"><i class="fa fa-download"></i></a>
+              <button class="btn btn-secondary btn-sm copy2cb" data-clipboard-text={`${productionUrl}/logos/${logohandle}/${image}`} title="Copy URL to Clipboard" rel="nofollow"><i class="far fa-clipboard"></i></button>
+              <div style="position:relative;display:inline-block;"><button class="btn btn-primary btn-sm copy2tip" style="position:absolute;left:0;right:0;">Copied to Clipboard</button>
+              <a class="btn btn-secondary btn-sm" href={`/util/convert_to_png.html?svg=/logos/${logohandle}/${image}`} title="Convert to PNG" rel="nofollow"><i class="fa fa-exchange"></i></a>
+              </div>
+            </td>
+            <td class="d-none d-sm-table-cell" style="white-space:nowrap;vertical-align:middle;">
+              {imageTitle}
+              {extension === "png" && " (Raster)"}
+            </td>
+            <td><a href={viewerHref} rel="nofollow"><img alt={altText} src={image} style={customstyle || "height:120px;"} /></a></td>
+          </tr>
+        );
+      })
+    }
+  </tbody>
+</table>
+<p>
+  <a class="btn btn-secondary" href={`https://github.com/VectorLogoZone/vectorlogozone/commits/main/www/logos/${logohandle}`}>
+    <i class="fa fa-history"></i>
+    View history
+  </a>
+</p>
+</div></div>

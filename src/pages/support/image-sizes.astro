@@ -1,0 +1,52 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getRasterSizes } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const sizes = getRasterSizes();
+---
+<BaseLayout pageTitle={`Standard Image Sizes - ${siteConfig.title}`}>
+  <p>
+    While this site only has vector logos which look good at any resolution, many sites don't accept SVGs for profile
+    photos or banners. This is a list of the standard image sizes for various sites.
+  </p>
+
+  <table class="table table-bordered">
+    <thead>
+      <tr>
+        <th>Site</th>
+        <th>Image</th>
+        <th>Size</th>
+        <th>Notes</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        sizes.map((size) => (
+          <tr>
+            <td>
+              {size.logo ? (
+                <img src={`/logos/${size.logo}/${size.logo}-ar21.svg`} alt={size.site} />
+              ) : (
+                size.site
+              )}
+            </td>
+            <td>{size.description}</td>
+            <td>{size.width}w x {size.height}h</td>
+            <td>
+              {size.notes ? <>{size.notes} </> : null}
+              {size.url ? <a href={size.url}>details</a> : null}
+            </td>
+          </tr>
+        ))
+      }
+    </tbody>
+  </table>
+
+  <p>More resources:</p>
+  <ul>
+    <li><a href="https://sproutsocial.com/insights/social-media-image-sizes-guide/">SproutSocial</a></li>
+    <li><a href="https://postcron.com/en/blog/social-media-image-dimensions-sizes/">PostCron</a></li>
+    <li><a href="https://blog.hubspot.com/marketing/ultimate-guide-social-media-image-dimensions-infographic">HubSpot</a></li>
+  </ul>
+</BaseLayout>

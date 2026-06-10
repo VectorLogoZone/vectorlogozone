@@ -1,0 +1,39 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getAllLogoRecords } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const rows = getAllLogoRecords().filter((record) => {
+  const data = record.data;
+  return data.images.includes(`${data.logohandle}-icon.svg`) && data.images.includes(`${data.logohandle}-tile.svg`);
+});
+---
+<BaseLayout pageTitle={`Compare icons to tiles - ${siteConfig.title}`} noindex={true}>
+  <p>This is a page to compare the icons with the tiles.</p>
+
+  <div class="logo-container">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Icon</th>
+          <th>Tile</th>
+          <th>Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((record) => {
+          const data = record.data;
+          const iconFile = `${data.logohandle}-icon.svg`;
+          const tileFile = `${data.logohandle}-tile.svg`;
+          return (
+            <tr>
+              <td><img alt={`icon of ${data.title}`} src={`/logos/${data.logohandle}/${iconFile}`} style="height: 128px; width: 128px; padding: 10px;" /></td>
+              <td><img alt={`tile of ${data.title}`} src={`/logos/${data.logohandle}/${tileFile}`} style="height: 128px; width: 128px; padding: 10px;" /></td>
+              <td><a href={`/logos/${data.logohandle}/index.html`}>{data.title}</a></td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+</BaseLayout>

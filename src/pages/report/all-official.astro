@@ -1,0 +1,8 @@
+---
+import AllPagedReport from "../../components/AllPagedReport.astro";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { siteConfig } from "../../lib/site";
+---
+<BaseLayout pageTitle={`All by Type: Official - ${siteConfig.title}`}>
+  <AllPagedReport targetSuffix="-official" imageStyle="height: 64px" />
+</BaseLayout>

@@ -1,0 +1,81 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getAllLogoRecords, getImageTypes } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const pageSize = 100;
+const imageTypes = getImageTypes().filter((type) => type.visualinventory);
+
+const rows = getAllLogoRecords().filter((record) => record.data.logohandle && record.data.images.length > 0);
+const maxPage = Math.max(1, Math.ceil(rows.length / pageSize));
+const imgCount = rows.reduce((sum, row) => sum + row.data.images.length, 0);
+---
+<BaseLayout pageTitle={`Visual Logo Inventory - ${siteConfig.title}`}>
+  <div class="btn-toolbar d-flex justify-content-center mb-3" role="toolbar" aria-label="Paging">
+    <div class="btn-group" role="group" aria-label="Pages">
+      {Array.from({ length: maxPage }, (_, index) => index + 1).map((pageNum) => (
+        <a href={`#page${pageNum}`} class={`btn btn-outline-secondary pagelink pagelink${pageNum}`}>{pageNum}</a>
+      ))}
+    </div>
+  </div>
+
+  <table class="table table-striped table-bordered">
+    <thead>
+      <tr>
+        <th>Project/Company</th>
+        <th>Logos</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        rows.map((record, index) => {
+          const data = record.data;
+          const pageNum = Math.floor(index / pageSize) + 1;
+          return (
+            <tr class={`paged page${pageNum}${pageNum > 1 ? " d-none" : ""}`}>
+              <td><a href={`/logos/${data.logohandle}/index.html`}>{data.title || "(untitled)"}</a></td>
+              <td>
+                {
+                  imageTypes.map((type) => {
+                    const file = `${data.logohandle}-${type.id}.svg`;
+                    if (!data.images.includes(file)) return null;
+                    return (
+                      <a href={`/util/preview.html?image=/logos/${data.logohandle}/${file}&next=/report/visual.html`} rel="nofollow"><img src={`/logos/${data.logohandle}/${file}`} style="height:30px;" /></a>
+                    );
+                  })
+                }
+              </td>
+            </tr>
+          );
+        })
+      }
+    </tbody>
+  </table>
+
+  <div class="btn-toolbar d-flex justify-content-center mb-3" role="toolbar" aria-label="Pagings">
+    <div class="btn-group" role="group" aria-label="Pages">
+      {Array.from({ length: maxPage }, (_, index) => index + 1).map((pageNum) => (
+        <a href={`#page${pageNum}`} class={`btn btn-outline-secondary pagelink pagelink${pageNum}`}>{pageNum}</a>
+      ))}
+    </div>
+  </div>
+
+  <p>{imgCount.toLocaleString("en-US")} images for {rows.length.toLocaleString("en-US")} companies/projects.</p>
+
+  <script is:inline>
+    function changeTab() {
+      var newpage = parseInt(window.location.hash.replace(/#page/, "") || "1", 10);
+      $(".paged").addClass("d-none");
+      $(".page" + newpage).removeClass("d-none");
+      $(".pagelink").removeClass("active");
+      $(".pagelink" + newpage).addClass("active");
+    }
+
+    $(function() {
+      $(window).on("hashchange", function() {
+        changeTab();
+      });
+      changeTab();
+    });
+  </script>
+</BaseLayout>

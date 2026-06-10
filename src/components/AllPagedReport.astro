@@ -1,0 +1,70 @@
+---
+import { getVisibleLogoRecords } from "../lib/logos";
+
+const {
+  targetSuffix = "-icon",
+  imageStyle = "",
+  pageSize = 144
+} = Astro.props;
+
+const records = getVisibleLogoRecords();
+const rows = records.filter((record) => record.data.images.includes(`${record.data.logohandle}${targetSuffix}.svg`));
+const maxPage = Math.max(1, Math.ceil(rows.length / pageSize));
+---
+{maxPage > 1 && (
+  <div class="btn-toolbar d-flex justify-content-center my-3" role="toolbar" aria-label="Paging">
+    <div class="btn-group" role="group" aria-label="Pages">
+      {Array.from({ length: maxPage }, (_, index) => index + 1).map((pageNum) => (
+        <a href={`#page${pageNum}`} class={`btn btn-outline-secondary pagelink pagelink${pageNum}`}>{pageNum}</a>
+      ))}
+    </div>
+  </div>
+)}
+
+<div class="logo-container my-3">
+  {
+    rows.map((record, index) => {
+      const pageNum = Math.floor(index / pageSize) + 1;
+      const targetFile = `${record.data.logohandle}${targetSuffix}.svg`;
+      return (
+        <a class={`paged page${pageNum}${pageNum > 1 ? " d-none" : ""}`} href={`/logos/${record.data.logohandle}/index.html`}>
+          <img
+            src={`/logos/${record.data.logohandle}/${targetFile}`}
+            alt={record.data.title || "(untitled)"}
+            title={record.data.title || "(untitled)"}
+            style={imageStyle}
+          />
+        </a>
+      );
+    })
+  }
+</div>
+
+{maxPage > 1 && (
+  <div class="btn-toolbar d-flex justify-content-center my-3" role="toolbar" aria-label="Pagings">
+    <div class="btn-group" role="group" aria-label="Pages">
+      {Array.from({ length: maxPage }, (_, index) => index + 1).map((pageNum) => (
+        <a href={`#page${pageNum}`} class={`btn btn-outline-secondary pagelink pagelink${pageNum}`}>{pageNum}</a>
+      ))}
+    </div>
+  </div>
+)}
+
+<p>Total: {rows.length.toLocaleString("en-US")} images</p>
+
+<script is:inline>
+  function changeTab() {
+    var newpage = parseInt(window.location.hash.replace(/#page/, "") || "1", 10);
+    $(".paged").addClass("d-none");
+    $(".page" + newpage).removeClass("d-none");
+    $(".pagelink").removeClass("active");
+    $(".pagelink" + newpage).addClass("active");
+  }
+
+  $(function () {
+    $(window).on("hashchange", function () {
+      changeTab();
+    });
+    changeTab();
+  });
+</script>

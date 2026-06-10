@@ -1,0 +1,128 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getAllLogoRecords, getSupertinyIcons } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const supertiny = getSupertinyIcons();
+const rows = getAllLogoRecords().filter((record) => record.data.images.includes(`${record.data.logohandle}-tile.svg`));
+---
+<BaseLayout pageTitle={`Compare tiles with SuperTinyIcons - ${siteConfig.title}`} noindex={true}>
+  <style>
+    .img-container {
+      position: relative;
+      height: 128px;
+      width: 128px;
+    }
+
+    .img-preview {
+      width: 128px;
+      height: 128px;
+    }
+
+    .overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 128px;
+      height: 128px;
+    }
+
+    .img-overlay {
+      width: 128px;
+      height: 128px;
+    }
+  </style>
+
+  <p>This is a page to compare the tiles with the ones from <a href="https://github.com/edent/SuperTinyIcons">SuperTinyIcons</a>.</p>
+
+  <div>
+    Overlay image:
+    <button class="btn" id="btn-none">none</button>
+    <button class="btn" id="btn-yellow">yellow</button>
+    <button class="btn" id="btn-red">red</button>
+    <button class="btn" id="btn-black">black</button>
+    <button class="btn" id="btn-hollow">black lines</button>
+    <button class="btn" id="btn-white">white lines</button>
+  </div>
+  <div>
+    Overlay opacity:
+    <button class="btn" id="btn-opacity10">10%</button>
+    <button class="btn" id="btn-opacity25">25%</button>
+    <button class="btn" id="btn-opacity50">50%</button>
+    <button class="btn" id="btn-opacity100">100%</button>
+  </div>
+  <div>
+    <table class="table table-bordered" style="width:inherit;">
+      <thead>
+        <tr>
+          <th>VLZ Tile</th>
+          <th>STI</th>
+          <th>Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((record) => {
+          const data = record.data;
+          const stiFile = supertiny[data.logohandle] || data.logohandle;
+          const tileFile = `${data.logohandle}-tile.svg`;
+          return (
+            <tr>
+              <td>
+                <div class="img-container"><img alt={`tile of ${data.title}`} class="img-preview" src={`/logos/${data.logohandle}/${tileFile}`} />
+                  <div class="overlay">
+                    <img class="img-overlay" src="/images/overlay/tile-hollow.svg" />
+                  </div>
+                </div>
+              </td>
+              <td>
+                {stiFile !== "-" && (
+                  <div class="img-container"><img alt={`SuperTinyIcon version of ${data.title}`} class="img-preview" src={`https://github-logos.vectorlogo.zone/super-tiny-icons/${stiFile}.svg`} />
+                    <div class="overlay">
+                      <img class="img-overlay" src="/images/overlay/tile-hollow.svg" />
+                    </div>
+                  </div>
+                )}
+              </td>
+              <td><a href={`/logos/${data.logohandle}/index.html`}>{data.title || "(untitled)"}</a></td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+
+  <script is:inline>
+    $(document).ready(function() {
+      $("#btn-none").click(function() {
+        $(".img-overlay").attr("src", "/images/overlay/tile-none.svg").css("width", "128px").css("height", "128px");
+      });
+      $("#btn-yellow").click(function() {
+        $(".img-overlay").attr("src", "/images/overlay/tile-yellow.svg").css("width", "128px").css("height", "128px");
+      });
+      $("#btn-red").click(function() {
+        $(".img-overlay").attr("src", "/images/overlay/tile-red.svg").css("width", "128px").css("height", "128px");
+      });
+      $("#btn-black").click(function() {
+        $(".img-overlay").attr("src", "/images/overlay/tile-black.svg").css("width", "128px").css("height", "128px");
+      });
+      $("#btn-hollow").click(function() {
+        $(".img-overlay").attr("src", "/images/overlay/tile-hollow.svg").css("width", "128px").css("height", "128px");
+      });
+      $("#btn-white").click(function() {
+        $(".img-overlay").attr("src", "/images/overlay/tile-white.svg").css("width", "128px").css("height", "128px");
+      });
+      $("#btn-opacity10").click(function() {
+        $(".img-overlay").css("opacity", "0.1");
+      });
+      $("#btn-opacity25").click(function() {
+        $(".img-overlay").css("opacity", "0.25");
+      });
+      $("#btn-opacity50").click(function() {
+        $(".img-overlay").css("opacity", "0.5");
+      });
+      $("#btn-opacity100").click(function() {
+        $(".img-overlay").css("opacity", "1.0");
+      });
+    });
+  </script>
+</BaseLayout>

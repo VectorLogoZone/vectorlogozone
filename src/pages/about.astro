@@ -1,0 +1,71 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import { getAllLogoRecords } from "../lib/logos";
+import { siteConfig } from "../lib/site";
+
+const records = getAllLogoRecords();
+let imageCount = 0;
+let pageCount = 0;
+
+for (const record of records) {
+  const count = Array.isArray(record.data.images) ? record.data.images.length : 0;
+  imageCount += count;
+  if (count > 0) {
+    pageCount += 1;
+  }
+}
+---
+<BaseLayout pageTitle={`About - ${siteConfig.title}`}>
+  <div class="row pt-2">
+    <div class="col">
+      <h1 class="d-flex justify-content-center">
+        <a href="/index.html"><img alt="about" src="/images/about/about.svg" /></a>
+      </h1>
+    </div>
+  </div>
+
+  <h2 class="pt-3">Why another logo website?</h2>
+
+  <div class="row">
+    <div class="col">
+      Vector Logo Zone is a place to find uniform SVG logos perfect for any website. Each logo is consistently sized, padded, and has a transparent background making it look great on any website.
+      All our logos are free to use, including hot-linked from our ultra-fast CDN!
+
+      <p class="pt-2">
+        Currently there are <b>{imageCount.toLocaleString("en-US")}</b> images
+        for <b>{pageCount.toLocaleString("en-US")}</b> companies/projects.
+      </p>
+    </div>
+  </div>
+
+  <h2 class="pt-4">Why SVG?</h2>
+
+  <div class="row">
+    <div class="col">
+      SVG stands for Scalable Vector Logo and are nothing more than simple plain text files that describe lines, curves, shapes, colors, and texts. What separates SVGs from the competition is that they are easily modified and can be manipulated via CSS or JavaScript making them far more flexible and versatile than traditional PNG, GIF or JPGs. The most important difference is that SVGs are able to scale infinitely making them look good at any size without pixelating.
+    </div>
+  </div>
+
+  <h2 class="d-flex justify-content-center pt-5" style="font-weight:bold;font-size:4.5rem;color:#424242;">Meet the team</h2>
+
+  <div class="row d-flex justify-content-center">
+    <div class="col-6 d-flex justify-content-center">
+      <div class="card border-white my-3" style="margin:0;padding:0;width:18rem;">
+        <a href="https://andrew.marcuse.info/"><img class="card-img-top px-4" src="/images/about/andrew.svg" alt="Avatar for Andrew" /></a>
+        <div class="card-body">
+          <h3 class="card-title text-center" style="color:#424242;font-weight:bold;">Andrew</h3>
+          <p class="card-text text-center lead">Developer</p>
+        </div>
+      </div>
+    </div>
+    <div class="col-6 d-flex justify-content-center">
+      <div class="card border-white my-3" style="margin:0;padding:0;width:18rem;">
+        <a href="https://noahmarcuse.com/"><img class="card-img-top px-4" src="/images/about/noah.svg" alt="Avatar for Noah" /></a>
+        <div class="card-body">
+          <h3 class="card-title text-center" style="color:#424242;font-weight:bold;">Noah</h3>
+          <p class="card-text text-center lead">Designer</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>

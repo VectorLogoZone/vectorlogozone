@@ -1,0 +1,36 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getAllLogoRecords } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const records = getAllLogoRecords().filter((record) => record.data.logohandle);
+const notagcount = records.filter((record) => !Array.isArray(record.data.tags) || record.data.tags.length === 0).length;
+---
+<BaseLayout pageTitle={`Tag Report - ${siteConfig.title}`}>
+  <table class="table table-striped table-bordered">
+    <thead>
+      <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Tags</th>
+      </tr>
+    </thead>
+    <tbody>
+      {
+        records.map((record) => {
+          const data = record.data;
+          const tags = Array.isArray(data.tags) ? [...data.tags].sort().join(", ") : "";
+          return (
+            <tr>
+              <td><a href={`/logos/${data.logohandle}/index.html`}>{data.logohandle}</a></td>
+              <td>{data.title || "(untitled)"}</td>
+              <td>{tags}</td>
+            </tr>
+          );
+        })
+      }
+    </tbody>
+  </table>
+
+  <p>{notagcount.toLocaleString("en-US")} logos without tags</p>
+</BaseLayout>

@@ -1,0 +1,198 @@
+---
+import { marked } from "marked";
+import CommunityContributions from "../../../components/CommunityContributions.astro";
+import Imagelist from "../../../components/Imagelist.astro";
+import LogoSearchLinks from "../../../components/LogoSearchLinks.astro";
+import SearchResultsFallback from "../../../components/SearchResultsFallback.astro";
+import ShareLinks from "../../../components/ShareLinks.astro";
+import BaseLayout from "../../../layouts/BaseLayout.astro";
+import {
+  getImageTypes,
+  getLogoRedirectAliases,
+  getLogoHandles,
+  getLogoNeighbors,
+  getLogoRecord,
+  getSocialMedia,
+  getTags
+} from "../../../lib/logos";
+import { siteConfig } from "../../../lib/site";
+
+export const getStaticPaths = async () => {
+  const primaryPaths = getLogoHandles().map((logohandle) => ({
+    params: { logohandle },
+    props: { canonicalHandle: logohandle, isAliasRedirect: false }
+  }));
+
+  const aliasPaths = getLogoRedirectAliases().map(({ aliasHandle, canonicalHandle }) => ({
+    params: { logohandle: aliasHandle },
+    props: { canonicalHandle, isAliasRedirect: true }
+  }));
+
+  return [...primaryPaths, ...aliasPaths];
+};
+
+const { logohandle } = Astro.params;
+const { canonicalHandle = logohandle, isAliasRedirect = false } = Astro.props;
+
+if (isAliasRedirect) {
+  const target = `/logos/${canonicalHandle}/index.html`;
+
+  Astro.response.headers.set("location", target);
+  Astro.response.status = 302;
+}
+
+const logo = getLogoRecord(canonicalHandle);
+
+if (!logo) {
+  throw new Error(`Unknown logo handle: ${canonicalHandle}`);
+}
+
+const { data, content } = logo;
+const imageTypes = getImageTypes();
+const socialMedia = getSocialMedia();
+const tags = getTags();
+const neighbors = getLogoNeighbors(canonicalHandle);
+const hasImages = Array.isArray(data.images) && data.images.length > 0;
+const socialLinks = socialMedia
+  .filter((entry) => typeof data[entry.id] === "string" && data[entry.id].length > 0)
+  .map((entry) => ({ id: entry.id, iconhtml: entry.iconhtml, href: data[entry.id] }));
+
+const h1 = data.h1 || data.title || "(untitled)";
+const pageTitle = `${data.title || "(untitled)"}${hasImages ? " SVG Vector Logos" : ""} - ${siteConfig.title}`;
+const canonical = `${siteConfig.productionUrl}/logos/${data.logohandle}/index.html`;
+const description = `Vector logos for ${data.title} in uniform sizes and layouts in the standard SVG file format`;
+const markdownHtml = marked.parse(content || "");
+---
+{
+  isAliasRedirect ? (
+    <html lang="en-US">
+      <head>
+        <meta charset="utf-8" />
+        <title>Redirecting...</title>
+        <meta http-equiv="refresh" content={`0; url=/logos/${canonicalHandle}/index.html`} />
+        <meta name="robots" content="noindex" />
+      </head>
+      <body>
+        <a href={`/logos/${canonicalHandle}/index.html`}>Click here if you are not redirected.</a>
+      </body>
+    </html>
+  ) : (
+<BaseLayout
+  pageTitle={pageTitle}
+  noindex={!!data.noindex}
+  hasImages={hasImages}
+  canonical={canonical}
+  prevHref={neighbors.prev ? `../${neighbors.prev.logohandle}/index.html` : undefined}
+  nextHref={neighbors.next ? `../${neighbors.next.logohandle}/index.html` : undefined}
+>
+  {
+    hasImages && (
+      <Fragment slot="head">
+        <meta property="description" content={description} />
+        <meta property="og:type" content="article" />
+        <meta property="og:title" content={`${data.title} SVG Vector Logos`} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content={`${siteConfig.productionUrl}/logos/${data.logohandle}/${data.logohandle}-ar21.png`} />
+        <meta property="og:site_name" content="VectorLogoZone" />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="twitter:title" content={`${data.title} SVG Vector Logos`} />
+        <meta name="twitter:description" content={description} />
+        <meta name="twitter:image" content={`${siteConfig.productionUrl}/logos/${data.logohandle}/${data.logohandle}-ar21.png`} />
+      </Fragment>
+    )
+  }
+  <div class="row">
+    <div class="col">
+      <div class="float-right icon-link-header" style="padding-top:20px;">
+        {data.guide && <a title="Official Guidelines" href={data.guide}><i class="fa fa-certificate icon-link"></i></a>}
+        {data.website && <a title="Website" href={data.website}><i class="fal fa-globe icon-link"></i></a>}
+        {
+          socialLinks.map((item) => (
+            <a title={item.id} href={item.href} set:html={item.iconhtml}></a>
+          ))
+        }
+        {
+          neighbors.prev && (
+            <a class="btn btn-secondary btn-xs" href={`/logos/${neighbors.prev.logohandle}/index.html`} title={`${neighbors.prev.title} Logos`}>
+              <i class="fa fa-caret-left"></i><span class="d-none d-md-inline"> {neighbors.prev.title}</span>
+            </a>
+          )
+        }
+        {
+          neighbors.next && (
+            <a class="btn btn-secondary btn-xs" href={`/logos/${neighbors.next.logohandle}/index.html`} title={`${neighbors.next.title} Logos`}>
+              <span class="d-none d-md-inline">{neighbors.next.title} </span><i class="fa fa-caret-right"></i>
+            </a>
+          )
+        }
+      </div>
+      {!data.no_h1 && <h1>{h1}{data.subtitle && <small> - {data.subtitle}</small>}</h1>}
+      <div set:html={markdownHtml}></div>
+    </div>
+  </div>
+
+  {
+    hasImages ? (
+      <Imagelist
+        images={data.images}
+        title={data.title}
+        logohandle={data.logohandle}
+        imageTypes={imageTypes}
+        viewer={siteConfig.viewer}
+        productionUrl={siteConfig.productionUrl}
+      />
+    ) : (
+      <SearchResultsFallback title={data.title} />
+    )
+  }
+
+  {
+    Array.isArray(data.colors) && data.colors.length > 0 && (
+      <div class="row"><div class="col"><p>Colors: {data.colors.map((color) => <><span class="preview-color" style={`background-color:${color}`}></span> {color} &nbsp;</>)}</p></div></div>
+    )
+  }
+
+  {
+    data.font && (
+      <div class="row"><div class="col">
+        <p>
+          Font: {data.font.url ? <a href={data.font.url}>{data.font.name}</a> : data.font.name}
+          {data.font.myfonts && <> | <a href={`${data.font.myfonts}?refby=vlz`}>MyFonts</a></>}
+          {data.font.google && <> | <a href={data.font.google}>Google</a></>}
+          {data.font.microsoft && <> | <a href={data.font.microsoft}>Microsoft</a></>}
+          {data.font.freename && <> | Free Alternative: <a href={data.font.freeurl}>{data.font.freename}</a></>}
+        </p>
+      </div></div>
+    )
+  }
+
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <CommunityContributions logohandle={data.logohandle} />
+    </div>
+  </div>
+
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1">
+      <LogoSearchLinks title={data.title} />
+    </div>
+  </div>
+
+  {
+    hasImages && (
+      <div class="row">
+        <div class="col-md-10 col-md-offset-1">
+          <ShareLinks pageUrl={`/logos/${data.logohandle}/`} title={data.title} />
+        </div>
+      </div>
+    )
+  }
+
+  {
+    Array.isArray(data.tags) && data.tags.length > 0 && (
+      <div class="row"><div class="col-md-10 col-md-offset-1"><p> Tags:{data.tags.map((tag) => <a class="badge badge-secondary" href={`/logos/tags.html#${tag}`}>{tags[tag]?.title || tag.replaceAll("_", " ")}</a>)}</p></div></div>
+    )
+  }
+</BaseLayout>
+  )
+}

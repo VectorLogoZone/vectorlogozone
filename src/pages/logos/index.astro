@@ -1,0 +1,36 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getAllLogoRecords } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const records = getAllLogoRecords().filter((record) => {
+  const data = record.data;
+  return data.images && data.images.includes(`${data.logohandle}-ar21.svg`);
+});
+
+const chunkSize = 72;
+const chunks = [];
+for (let i = 0; i < records.length; i += chunkSize) {
+  chunks.push(records.slice(i, i + chunkSize));
+}
+---
+<BaseLayout pageTitle={`Logo Index - ${siteConfig.title}`}>
+  {
+    chunks.map((chunk) => (
+      <details class="py-2 logo-container" name="a2z">
+        {chunk.map((record) => (
+          <a href={`/logos/${record.data.logohandle}/index.html`}>
+            <img
+              alt={`${record.data.title} logo`}
+              src={`${record.data.logohandle}/${record.data.logohandle}-ar21.svg`}
+              title={record.data.title}
+            />
+          </a>
+        ))}
+        <summary>{chunk[0].data.title} - {chunk[chunk.length - 1].data.title}</summary>
+      </details>
+    ))
+  }
+
+  <p class="pt-2">Count: {records.length.toLocaleString("en-US")}</p>
+</BaseLayout>

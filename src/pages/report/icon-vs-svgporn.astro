@@ -1,0 +1,46 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { getAllLogoRecords, getSvgporn } from "../../lib/logos";
+import { siteConfig } from "../../lib/site";
+
+const svgporn = getSvgporn();
+const rows = getAllLogoRecords().filter((record) => {
+  const data = record.data;
+  const iconFile = `${data.logohandle}-icon.svg`;
+  return data.images.includes(iconFile) && Array.isArray(svgporn[data.logohandle]) && svgporn[data.logohandle].length > 0;
+});
+---
+<BaseLayout pageTitle={`Compare icon vs SVGPorn - ${siteConfig.title}`} noindex={true}>
+  <p>This is a test page to compare the VLZ icons with the <a href="https://www.svgporn.com/">SVG Porn</a> icons.</p>
+
+  <div class="logo-container">
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Icon</th>
+          <th>SVGPorn</th>
+          <th>Name</th>
+        </tr>
+      </thead>
+      <tbody>
+        {rows.map((record) => {
+          const data = record.data;
+          const iconFile = `${data.logohandle}-icon.svg`;
+          return (
+            <tr>
+              <td><img alt={`icon of ${data.title}`} src={`/logos/${data.logohandle}/${iconFile}`} style="height: 64px; width: 64px;"/></td>
+              <td>
+                {svgporn[data.logohandle].map((img) => (
+                  <img alt={`svgporn for ${data.title}`} src={`https://cdn.svgporn.com/logos/${img}`} style="height:64px; width:64px" />
+                ))}
+              </td>
+              <td><a href={`/logos/${data.logohandle}/index.html`}>{data.title}</a></td>
+            </tr>
+          );
+        })}
+      </tbody>
+    </table>
+  </div>
+
+  <p>Icons on both sites: {rows.length.toLocaleString("en-US")}.</p>
+</BaseLayout>
