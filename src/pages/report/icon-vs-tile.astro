@@ -8,7 +8,7 @@ const rows = ((await getAllLogoRecords())).filter((record) => {
   return data.images.includes(`${data.logohandle}-icon.svg`) && data.images.includes(`${data.logohandle}-tile.svg`);
 });
 ---
-<BaseLayout pageTitle={`Compare icons to tiles - ${siteConfig.title}`} noindex={true}>
+<BaseLayout pageTitle={`Compare icons to tiles`} noindex={true}>
   <p>This is a page to compare the icons with the tiles.</p>
 
   <div class="logo-container">

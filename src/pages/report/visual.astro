@@ -10,7 +10,7 @@ const rows = ((await getAllLogoRecords())).filter((record) => record.data.logoha
 const maxPage = Math.max(1, Math.ceil(rows.length / pageSize));
 const imgCount = rows.reduce((sum, row) => sum + row.data.images.length, 0);
 ---
-<BaseLayout pageTitle={`Visual Logo Inventory - ${siteConfig.title}`}>
+<BaseLayout pageTitle={`Visual Logo Inventory`}>
   <div class="btn-toolbar d-flex justify-content-center mb-3" role="toolbar" aria-label="Paging">
     <div class="btn-group" role="group" aria-label="Pages">
       {Array.from({ length: maxPage }, (_, index) => index + 1).map((pageNum) => (

@@ -6,7 +6,7 @@ import { siteConfig } from "../../lib/site";
 const records = ((await getAllLogoRecords())).filter((record) => record.data.logohandle);
 const notagcount = records.filter((record) => !Array.isArray(record.data.tags) || record.data.tags.length === 0).length;
 ---
-<BaseLayout pageTitle={`Tag Report - ${siteConfig.title}`}>
+<BaseLayout pageTitle={`Tag Report`}>
   <table class="table table-striped table-bordered">
     <thead>
       <tr>

@@ -10,7 +10,7 @@ const rows = ((await getAllLogoRecords())).filter((record) => {
   return data.images.includes(iconFile) && Array.isArray(svgporn[data.logohandle]) && svgporn[data.logohandle].length > 0;
 });
 ---
-<BaseLayout pageTitle={`Compare icon vs SVGPorn - ${siteConfig.title}`} noindex={true}>
+<BaseLayout pageTitle={`Compare icon vs SVGPorn`} noindex={true}>
   <p>This is a test page to compare the VLZ icons with the <a href="https://www.svgporn.com/">SVG Porn</a> icons.</p>
 
   <div class="logo-container">

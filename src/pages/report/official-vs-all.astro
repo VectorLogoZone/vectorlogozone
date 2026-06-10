@@ -8,7 +8,7 @@ const rows = ((await getAllLogoRecords())).filter((record) => {
   return data.images.includes(`${data.logohandle}-official.svg`) && data.images.includes(`${data.logohandle}-ar21.svg`);
 });
 ---
-<BaseLayout pageTitle={`Compare with Official Logos - ${siteConfig.title}`} noindex={true}>
+<BaseLayout pageTitle={`Compare with Official Logos`} noindex={true}>
   <p>This is a page to compare the official logos.</p>
 
   <div class="logo-container">

@@ -1,19 +1,27 @@
 ---
+import { siteConfig } from "../lib/site";
+
 const {
   pageTitle,
+  h1,
+  no_h1 = false,
+  subtitle,
   noindex = false,
   hasImages = false,
   canonical,
   prevHref,
   nextHref
 } = Astro.props;
+
+const titleText = h1 ? pageTitle : `${pageTitle} - ${siteConfig.title}`;
+const h1Text = h1 || pageTitle || "(untitled)";
 ---
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>{pageTitle}</title>
+    <title>{titleText}</title>
     <link rel="stylesheet" href="/css/bootstrap.min.css" />
     <link href="/css/fontawesome-all.min.css" rel="stylesheet" type="text/css" />
     <meta name="theme-color" content="#2c3e50" />
@@ -96,14 +104,24 @@ const {
           <li class="nav-item"><a class="nav-link" href="/about.html">About</a></li>
           <li class="nav-item"><a class="nav-link" href="/logos/index.html">A-Z</a></li>
           <li class="nav-item"><a class="nav-link" href="/support/index.html">FAQ</a></li>
-          <li class="nav-item"><a class="nav-link" href="https://github.com/VectorLogoZone/vectorlogozone/blob/main/CONTRIBUTING.md">Contribute</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://upload.vectorlogo.zone/">Contribute</a></li>
           <li class="nav-item"><a class="nav-link" href="/report/index.html">Reports</a></li>
           <li class="nav-item"><a class="nav-link" href="/index.html" title="Search"><span>Search</span></a></li>
         </ul>
       </div>
     </nav>
     <div class="container">
-      <slot />
+      <div class="row">
+        <div class="col">
+          {!no_h1 && (
+            <h1>
+              {h1Text}
+              {subtitle && <small> - {subtitle}</small>}
+            </h1>
+          )}
+          <slot />
+        </div>
+      </div>
       <hr />
       <footer class="d-print-none">
         <p class="small text-muted text-center">

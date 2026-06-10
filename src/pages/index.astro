@@ -10,7 +10,7 @@ const withAr21 = (await getVisibleLogoRecords())
 const shuffled = [...withAr21].sort(() => Math.random() - 0.5);
 const defaultLogos = shuffled.slice(0, 72);
 ---
-<BaseLayout pageTitle={`Gorgeous SVG logos, perfect for your README or credits page - ${siteConfig.title}`}>
+<BaseLayout pageTitle={`Gorgeous SVG logos, perfect for your README or credits page`} no_h1={true}>
   <div class="jumbotron jumbotron-fluid bg-transparent pb-0 pt-2">
     <div class="container px-0">
       <h1 class="display-4 d-flex justify-content-center"><a href="/about.html"><img alt="VectorLogoZone logo" src="/images/about/vlzlogo-grey.svg" style="max-width:100%;object-fit:contain;" /></a></h1>

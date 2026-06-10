@@ -6,7 +6,7 @@ import { siteConfig } from "../../lib/site";
 const records = (await getAllLogoRecords());
 const tags = getTags();
 ---
-<BaseLayout pageTitle={`Logos by Tag - ${siteConfig.title}`}>
+<BaseLayout pageTitle={`Logos by Tag`}>
   <div id="accordion">
     {
       Object.entries(tags).map(([tagId, meta]) => {

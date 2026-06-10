@@ -6,7 +6,7 @@ import { siteConfig } from "../../lib/site";
 const supertiny = getSupertinyIcons();
 const rows = ((await getAllLogoRecords())).filter((record) => record.data.images.includes(`${record.data.logohandle}-tile.svg`));
 ---
-<BaseLayout pageTitle={`Compare tiles with SuperTinyIcons - ${siteConfig.title}`} noindex={true}>
+<BaseLayout pageTitle={`Compare tiles with SuperTinyIcons`} noindex={true}>
   <style>
     .img-container {
       position: relative;

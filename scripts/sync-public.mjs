@@ -17,6 +17,10 @@ const astroManagedPages = new Set([
   "search.html",
   "search-other.html",
   "sitemap.xml",
+  "util/socialmedia.json",
+  "util/sourceData-ar21.json",
+  "util/sourceData-icons.json",
+  "util/sourceData-other.json",
   "logos/index.html",
   "logos/inventory.html",
   "logos/links.html",
@@ -60,6 +64,7 @@ const astroManagedPages = new Set([
   "support/tools.html",
   "util/index.html",
   "util/fulltext.json",
+  "util/convert_to_png.html",
   "util/tile-vs-supertiny.html"
 ]);
 

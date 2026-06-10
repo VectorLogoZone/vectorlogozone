@@ -14,7 +14,8 @@ for (let i = 0; i < records.length; i += chunkSize) {
   chunks.push(records.slice(i, i + chunkSize));
 }
 ---
-<BaseLayout pageTitle={`Logo Index - ${siteConfig.title}`}>
+<BaseLayout pageTitle={`Logo Index`}>
+  <div class="alert alert-warning">Browsers have trouble with too many SVGs at once.  Expanding more than one section at your own risk!</div>
   {
     chunks.map((chunk) => (
       <details class="py-2 logo-container" name="a2z">

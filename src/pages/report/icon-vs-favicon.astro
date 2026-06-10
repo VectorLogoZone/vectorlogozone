@@ -10,7 +10,7 @@ const rows = ((await getAllLogoRecords())).filter((record) => {
   return data.images.includes(iconFile) && favicons[data.logohandle] && favicons[data.logohandle] !== "-";
 });
 ---
-<BaseLayout pageTitle={`Compare icon vs favicon - ${siteConfig.title}`} noindex={true}>
+<BaseLayout pageTitle={`Compare icon vs favicon`} noindex={true}>
   <p>This is a test page to compare the icons with the actual favicon.ico image from the website.</p>
 
   <div class="logo-container">

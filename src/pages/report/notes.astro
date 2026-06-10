@@ -5,7 +5,7 @@ import { siteConfig } from "../../lib/site";
 
 const rows = ((await getAllLogoRecords())).filter((record) => record.data.logohandle && record.data.notes);
 ---
-<BaseLayout pageTitle={`Notes - ${siteConfig.title}`} noindex={true}>
+<BaseLayout pageTitle={`Notes`} noindex={true}>
   <p>Normally notes should get processed and removed before publishing, but sometimes they are missed.</p>
 
   <table class="table table-striped table-bordered">

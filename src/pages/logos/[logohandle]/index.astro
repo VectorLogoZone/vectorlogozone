@@ -58,7 +58,7 @@ const socialLinks = socialMedia
   .map((entry) => ({ id: entry.id, iconhtml: entry.iconhtml, href: data[entry.id] }));
 
 const h1 = data.h1 || data.title || "(untitled)";
-const pageTitle = `${data.title || "(untitled)"}${hasImages ? " SVG Vector Logos" : ""} - ${siteConfig.title}`;
+const pageTitle = `${data.title || "(untitled)"}${hasImages ? " SVG Vector Logos" : ""}`;
 const canonical = `${siteConfig.productionUrl}/logos/${data.logohandle}/index.html`;
 const description = `Vector logos for ${data.title} in uniform sizes and layouts in the standard SVG file format`;
 const markdownHtml = marked.parse(content || "");

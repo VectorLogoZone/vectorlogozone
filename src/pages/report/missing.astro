@@ -40,7 +40,7 @@ for (const record of (await getVisibleLogoRecords())) {
 const logocount = rows.length;
 const simpleIconHref = (value) => (value.startsWith("http") ? value : `https://simpleicons.org/icons/${value}`);
 ---
-<BaseLayout pageTitle={`Missing Logos - ${siteConfig.title}`} noindex={true}>
+<BaseLayout pageTitle={`Missing Logos`} noindex={true}>
   <p>In theory, every logo should have at least the icon and rectangular versions. This is the list of logos that don't have both.</p>
 
   <table class="table table-striped table-bordered">
