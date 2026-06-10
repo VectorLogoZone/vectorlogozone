@@ -16,6 +16,7 @@ const astroManagedPages = new Set([
   "search-github.html",
   "search.html",
   "search-other.html",
+  "sitemap.xml",
   "logos/index.html",
   "logos/inventory.html",
   "logos/links.html",
@@ -58,6 +59,7 @@ const astroManagedPages = new Set([
   "support/specification.html",
   "support/tools.html",
   "util/index.html",
+  "util/fulltext.json",
   "util/tile-vs-supertiny.html"
 ]);
 

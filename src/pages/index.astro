@@ -85,7 +85,7 @@ const defaultLogos = shuffled.slice(0, 72);
       window.idx.pipeline.remove(lunr.stopWordFilter);
 
       window.default_logos = defaultLogos;
-      window.data = $.getJSON("/util/fulltext.json");
+      window.data = $.getJSON("/api/fulltext.json");
 
       window.data.then(function (loaded_data) {
         $.each(loaded_data, function (index, value) {
