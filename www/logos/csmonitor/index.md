@@ -1,8 +1,11 @@
 ---
+images:
+- csmonitor-ar21.svg
+- csmonitor-icon.svg
 logohandle: csmonitor
 sort: csmonitor
 title: The Christian Science Monitor
-website: 'https://www.csmonitor.com/'
+website: https://www.csmonitor.com/
 wikipedia: https://en.wikipedia.org/wiki/The_Christian_Science_Monitor
-youtube: 'https://www.youtube.com/channel/UCTdvpZLANeVfpckUBQD7lCQ'
+youtube: https://www.youtube.com/channel/UCTdvpZLANeVfpckUBQD7lCQ
 ---

@@ -9,6 +9,7 @@ font:
 guide: https://about.twitter.com/en_us/company/brand-resources.html
 images:
 - twitter-icon.svg
+- twitter-official.svg
 - twitter-tile.svg
 - twitter-ar21.svg
 logohandle: twitter

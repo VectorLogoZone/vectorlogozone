@@ -1,5 +1,8 @@
 ---
 blog: http://blog.couchdb.org/
+images:
+- apache_couchdb-ar21.svg
+- apache_couchdb-icon.svg
 logohandle: apache_couchdb
 sort: couchdb
 tags:

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/1800flowers
+images:
+- 1800flowers-ar21.svg
+- 1800flowers-icon.svg
 instagram: https://instagram.com/1800flowers
 logohandle: 1800flowers
 pinterest: https://pinterest.com/1800flowers

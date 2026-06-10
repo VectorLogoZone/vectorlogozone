@@ -1,6 +1,9 @@
 ---
 blog: http://blog.smartbear.com/
 facebook: http://facebook.com/smartbear
+images:
+- smartbear-icon.svg
+- smartbear-ar21.svg
 linkedin: http://linkedin.com/company/smartbear-software
 logohandle: smartbear
 sort: smartbear

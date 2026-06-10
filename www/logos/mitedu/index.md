@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/MITnews
+images:
+- mitedu-icon.svg
+- mitedu-ar21.svg
 instagram: https://instagram.com/mitpics
 logohandle: mitedu
 sort: mit

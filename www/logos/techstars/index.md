@@ -1,6 +1,9 @@
 ---
 blog: https://medium.com/techstars
 facebook: https://facebook.com/techstars
+images:
+- techstars-icon.svg
+- techstars-ar21.svg
 instagram: https://instagram.com/techstars
 linkedin: https://linkedin.com/company/techstars
 logohandle: techstars

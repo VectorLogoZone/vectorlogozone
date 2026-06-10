@@ -1,7 +1,7 @@
 ---
 images:
-- ghostscript-ar21.svg
 - ghostscript-icon.svg
+- ghostscript-ar21.svg
 logohandle: ghostscript
 sort: ghostscript
 title: Ghostscript

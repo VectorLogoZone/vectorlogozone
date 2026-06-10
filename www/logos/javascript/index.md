@@ -1,13 +1,17 @@
 ---
-colors: [ "#EFDE72", "#2b2729" ]
+colors:
+- '#EFDE72'
+- '#2b2729'
 font:
-  name: "Neutraface Text Bold"
+  name: Neutraface Text Bold
   url: https://housefonts.com/hi/neutraface
 images:
-- javascript-vertical.svg
-- javascript-horizontal.svg
 - javascript-icon.svg
 - javascript-ar21.svg
+- javascript-icon~alt.svg
+- javascript-horizontal.svg
+- javascript-vertical.svg
+- javascript-ar21~alt.svg
 logohandle: javascript
 sort: javascript
 tags:

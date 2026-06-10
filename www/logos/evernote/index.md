@@ -8,8 +8,8 @@ font:
 guide: https://evernote.com/press
 images:
 - evernote-ar21.svg
-- evernote-icon.svg
 - evernote-tile.svg
+- evernote-icon.svg
 logohandle: evernote
 sort: evernote
 title: Evernote

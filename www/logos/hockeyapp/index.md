@@ -2,8 +2,8 @@
 facebook: https://facebook.com/hockeyapp
 guide: https://www.hockeyapp.net/brand-guidelines/
 images:
-- hockeyapp-ar21.svg
 - hockeyapp-icon.svg
+- hockeyapp-ar21.svg
 logohandle: hockeyapp
 sort: hockeyapp
 tags:

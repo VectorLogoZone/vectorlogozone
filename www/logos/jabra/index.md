@@ -1,6 +1,9 @@
 ---
 blog: https://blog.jabra.com/
 facebook: https://facebook.com/jabra
+images:
+- jabra-ar21.svg
+- jabra-icon.svg
 linkedin: https://linkedin.com/company/jabra
 logohandle: jabra
 sort: jabra

@@ -3,9 +3,9 @@ blog: https://www.addtoany.com/blog/
 colors:
 - '#0166FF'
 images:
+- addtoany-official.svg
 - addtoany-ar21.svg
 - addtoany-icon.svg
-- addtoany-official.svg
 logohandle: addtoany
 sort: addtoany
 title: AddToAny

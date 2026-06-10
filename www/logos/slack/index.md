@@ -4,8 +4,8 @@ codehost: https://github.com/slackhq
 facebook: https://www.facebook.com/slackhq
 guide: https://slack.com/brand-guidelines
 images:
-- slack-icon.svg
 - slack-tile.svg
+- slack-icon.svg
 - slack-ar21.svg
 logohandle: slack
 sort: slack

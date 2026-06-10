@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/TechTime-298228983540429
+images:
+- techtime-icon.svg
+- techtime-ar21.svg
 linkedin: https://linkedin.com/company/techtime-initiative-group-limited
 logohandle: techtime
 sort: techtime

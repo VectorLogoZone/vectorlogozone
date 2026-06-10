@@ -1,6 +1,9 @@
 ---
 blog: https://medium.com/gitpod
 codehost: https://github.com/gitpod-io/gitpod
+images:
+- gitpodio-ar21.svg
+- gitpodio-icon.svg
 logohandle: gitpodio
 sort: gitpod
 title: Gitpod

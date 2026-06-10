@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/LGUSA
+images:
+- lg-icon.svg
+- lg-ar21.svg
 instagram: https://instagram.com/lgusa
 logohandle: lg
 pinterest: https://pinterest.com/lgusa

@@ -7,8 +7,8 @@ font:
   name: Frutiger Roman
 guide: https://www.tripadvisor.com/TripAdvisorInsights/n2716/brand-guidelines-partners
 images:
-- tripadvisor-icon.svg
 - tripadvisor-ar21.svg
+- tripadvisor-icon.svg
 instagram: https://www.instagram.com/tripadvisor/
 linkedin: https://www.linkedin.com/company/15027/
 logohandle: tripadvisor

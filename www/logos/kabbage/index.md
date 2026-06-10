@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/KabbageInc
+images:
+- kabbage-icon.svg
+- kabbage-ar21.svg
 instagram: https://instagram.com/kabbageinc
 linkedin: http://linkedin.com/company/kabbage-inc
 logohandle: kabbage

@@ -4,8 +4,8 @@ codehost: https://github.com/appharbor
 colors:
 - '#113C5B'
 images:
-- appharbor-ar21.svg
 - appharbor-icon.svg
+- appharbor-ar21.svg
 logohandle: appharbor
 sort: appharbor
 tags:

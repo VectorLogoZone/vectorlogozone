@@ -1,5 +1,8 @@
 ---
 blog: https://blog.manifold.co/
+images:
+- manifoldco-ar21.svg
+- manifoldco-icon.svg
 logohandle: manifoldco
 sort: manifold
 title: Manifold

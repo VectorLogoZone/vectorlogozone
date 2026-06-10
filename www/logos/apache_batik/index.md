@@ -1,7 +1,7 @@
 ---
 images:
-- apache_batik-ar21.svg
 - apache_batik-icon.svg
+- apache_batik-ar21.svg
 logohandle: apache_batik
 sort: batik
 tags:

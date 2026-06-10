@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/ups
+images:
+- ups-icon.svg
+- ups-ar21.svg
 linkedin: https://linkedin.com/company/ups
 logohandle: ups
 sort: ups

@@ -1,4 +1,7 @@
 ---
+images:
+- jsfiddle-icon.svg
+- jsfiddle-ar21.svg
 logohandle: jsfiddle
 sort: jsfiddle
 title: JSFiddle

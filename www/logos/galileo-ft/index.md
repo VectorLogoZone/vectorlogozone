@@ -1,5 +1,8 @@
 ---
 blog: https://galileo-ft.com/resources/blog
+images:
+- galileo-ft-icon.svg
+- galileo-ft-ar21.svg
 instagram: https://instagram.com/explore/tags/galileolife
 linkedin: https://linkedin.com/company/galileo-processing
 logohandle: galileo-ft

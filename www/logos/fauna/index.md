@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/faunadb
+images:
+- fauna-icon.svg
+- fauna-ar21.svg
 linkedin: https://linkedin.com/company/faunadb
 logohandle: fauna
 sort: fauna

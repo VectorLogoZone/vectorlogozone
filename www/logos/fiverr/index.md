@@ -1,6 +1,9 @@
 ---
 blog: https://blog.fiverr.com/
 facebook: https://facebook.com/fiverr
+images:
+- fiverr-ar21.svg
+- fiverr-icon.svg
 instagram: https://instagram.com/fiverr
 linkedin: https://linkedin.com/company/fiverr-com
 logohandle: fiverr

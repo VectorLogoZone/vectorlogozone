@@ -2,6 +2,9 @@
 blog: https://balena.io/blog
 codehost: https://github.com/balena-io
 facebook: https://facebook.com/balenacloud
+images:
+- balenaio-ar21.svg
+- balenaio-icon.svg
 instagram: https://instagram.com/balena_io
 linkedin: https://linkedin.com/company/balenaio
 logohandle: balenaio

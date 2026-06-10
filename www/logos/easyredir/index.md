@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/easyredir
+images:
+- easyredir-ar21.svg
+- easyredir-icon.svg
 instagram: https://instagram.com/easyredir
 linkedin: https://linkedin.com/company/easyredir
 logohandle: easyredir

@@ -1,6 +1,9 @@
 ---
 blog: https://greenplum.org/blog
 codehost: https://github.com/greenplum-db/gpdb
+images:
+- greenplum-ar21.svg
+- greenplum-icon.svg
 linkedin: https://linkedin.com/groups/8248250
 logohandle: greenplum
 sort: greenplum

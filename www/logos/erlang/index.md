@@ -5,11 +5,11 @@ font:
   myfonts: http://www.myfonts.com/fonts/urw/futura/sctdem/
   name: Futura SC Demi
 images:
-- erlang-vertical.svg
 - erlang-horizontal.svg
 - erlang-ar21.svg
 - erlang-icon.svg
 - erlang-official.svg
+- erlang-vertical.svg
 logohandle: erlang
 sort: erlang
 tags:

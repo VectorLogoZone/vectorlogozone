@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/aliexpress
+images:
+- aliexpress-ar21.svg
+- aliexpress-icon.svg
 instagram: https://instagram.com/aliexpress.official
 logohandle: aliexpress
 sort: aliexpress

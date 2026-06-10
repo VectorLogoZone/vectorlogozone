@@ -1,6 +1,9 @@
 ---
 facebook: https://www.facebook.com/dominipuntCAT
 flickr: https://www.flickr.com/photos/puntcat/
+images:
+- puntcat-icon.svg
+- puntcat-ar21.svg
 linkedin: https://www.linkedin.com/company/fundaci-puntcat
 logohandle: puntcat
 sort: puntcat

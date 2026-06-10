@@ -3,8 +3,8 @@ blog: https://blog.worldlabel.com/
 codehost: https://github.com/worldlabel
 facebook: http://www.facebook.com/pages/Worldlabelcom/128417713844953
 images:
-- worldlabel-ar21.svg
 - worldlabel-icon.svg
+- worldlabel-ar21.svg
 logohandle: worldlabel
 sort: worldlabel
 tags:

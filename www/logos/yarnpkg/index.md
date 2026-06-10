@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/yarnpkg
 facebook: https://facebook.com/yarnpkg
+images:
+- yarnpkg-icon.svg
+- yarnpkg-ar21.svg
 logohandle: yarnpkg
 sort: yarnpkg
 title: Yarn

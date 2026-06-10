@@ -1,4 +1,7 @@
 ---
+images:
+- digitalasset-icon.svg
+- digitalasset-ar21.svg
 linkedin: https://linkedin.com/company/digital-asset-holdings-llc
 logohandle: digitalasset
 sort: digitalasset

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Beardbrand
+images:
+- beardbrand-icon.svg
+- beardbrand-ar21.svg
 instagram: https://instagram.com/beardbrand
 logohandle: beardbrand
 sort: beardbrand

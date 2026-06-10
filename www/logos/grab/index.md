@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Grab
+images:
+- grab-ar21.svg
+- grab-icon.svg
 instagram: https://instagram.com/grab_sg
 linkedin: https://linkedin.com/company/grabapp
 logohandle: grab

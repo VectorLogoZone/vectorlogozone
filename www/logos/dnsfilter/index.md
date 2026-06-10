@@ -2,6 +2,9 @@
 blog: https://dnsfilter.com/blog
 codehost: https://github.com/DNSFilter
 facebook: https://facebook.com/DNSFilter
+images:
+- dnsfilter-ar21.svg
+- dnsfilter-icon.svg
 linkedin: https://linkedin.com/company/dnsfilter
 logohandle: dnsfilter
 sort: dnsfilter

@@ -1,8 +1,8 @@
 ---
 codehost: https://github.com/caolan/async
 images:
-- asyncjs-icon.svg
 - asyncjs-ar21.svg
+- asyncjs-icon.svg
 logohandle: asyncjs
 sort: async.js
 tags:

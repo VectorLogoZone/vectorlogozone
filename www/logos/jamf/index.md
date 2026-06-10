@@ -1,6 +1,9 @@
 ---
 blog: https://jamf.com/blog
 facebook: https://facebook.com/jamfsoftware
+images:
+- jamf-ar21.svg
+- jamf-icon.svg
 instagram: https://instagram.com/jamfsoftware
 linkedin: https://linkedin.com/company/jamf-software
 logohandle: jamf

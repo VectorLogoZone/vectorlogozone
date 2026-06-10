@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/hibernate/hibernate-orm
+images:
+- hibernate-ar21.svg
+- hibernate-icon.svg
 logohandle: hibernate
 sort: hibernate
 title: Hibernate

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/SolarWinds
+images:
+- solarwinds-icon.svg
+- solarwinds-ar21.svg
 linkedin: https://linkedin.com/company/solarwinds
 logohandle: solarwinds
 sort: solarwinds

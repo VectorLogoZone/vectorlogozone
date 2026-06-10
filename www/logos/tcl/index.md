@@ -4,9 +4,9 @@ font:
   myfonts: http://www.myfonts.com/fonts/bitstream/atf-bodoni/bodoni-book/
   name: Bodoni Book
 images:
+- tcl-vertical.svg
 - tcl-ar21.svg
 - tcl-horizontal.svg
-- tcl-vertical.svg
 - tcl-icon.svg
 logohandle: tcl
 sort: tcl

@@ -8,9 +8,11 @@ font:
 guide: https://github.com/dotnet/brand
 images:
 - dotnet-vertical.svg
-- dotnet-horizontal.svg
+- dotnet-official.svg
 - dotnet-ar21.svg
 - dotnet-icon.svg
+- dotnet-tile.svg
+- dotnet-horizontal.svg
 logohandle: dotnet
 redirect_from: /logos/microsoft_dotnet/index.html
 sort: microsoft_dotnet

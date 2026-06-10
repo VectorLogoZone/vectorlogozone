@@ -6,8 +6,8 @@ colors:
 guide: http://line.me/en/logo
 images:
 - line-ar21.svg
-- line-icon.svg
 - line-tile.svg
+- line-icon.svg
 - line-official.svg
 logohandle: line
 sort: line

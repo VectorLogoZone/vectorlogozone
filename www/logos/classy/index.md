@@ -1,6 +1,9 @@
 ---
 blog: https://classy.org/blog
 facebook: https://facebook.com/classy.org
+images:
+- classy-ar21.svg
+- classy-icon.svg
 instagram: https://instagram.com/classy_org
 linkedin: http://linkedin.com/company/stayclassy
 logohandle: classy

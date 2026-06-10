@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/opencast
+images:
+- opencast-icon.svg
+- opencast-ar21.svg
 logohandle: opencast
 sort: opencast
 title: Opencast

@@ -1,6 +1,9 @@
 ---
 blog: https://matillion.com/community/blog
 facebook: https://facebook.com/matillion
+images:
+- matillion-icon.svg
+- matillion-ar21.svg
 linkedin: https://linkedin.com/company/matillion-limited
 logohandle: matillion
 sort: matillion

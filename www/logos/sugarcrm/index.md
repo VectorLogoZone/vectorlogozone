@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/sugarcrm
+images:
+- sugarcrm-icon.svg
+- sugarcrm-ar21.svg
 linkedin: https://linkedin.com/company/sugarcrm
 logohandle: sugarcrm
 sort: sugarcrm

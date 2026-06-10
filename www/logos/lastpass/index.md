@@ -5,6 +5,10 @@ colors:
 - '#D32D27'
 facebook: https://www.facebook.com/LastPass
 guide: https://lastpass.com/press-room/
+images:
+- lastpass-ar21.svg
+- lastpass-tile.svg
+- lastpass-icon.svg
 instagram: https://www.instagram.com/lastpassofficial/
 linkedin: https://www.linkedin.com/company/lastpass
 logohandle: lastpass

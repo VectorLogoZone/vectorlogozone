@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/teconnectivity
+images:
+- te-ar21.svg
+- te-icon.svg
 instagram: https://instagram.com/teconnectivity
 linkedin: https://linkedin.com/company/te-connectivity
 logohandle: te

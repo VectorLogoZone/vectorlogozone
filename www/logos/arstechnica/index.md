@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/arstechnica
+images:
+- arstechnica-ar21.svg
+- arstechnica-icon.svg
 instagram: https://instagram.com/arstechnica
 logohandle: arstechnica
 sort: arstechnica

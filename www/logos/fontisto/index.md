@@ -1,5 +1,9 @@
 ---
 codehost: https://github.com/kenangundogan/fontisto
+images:
+- fontisto-icon.svg
+- fontisto-ar21.svg
+- fontisto-official.svg
 linkedin: https://linkedin.com/in/kenangundogan
 logohandle: fontisto
 other:

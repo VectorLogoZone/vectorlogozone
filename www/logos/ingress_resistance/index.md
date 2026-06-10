@@ -1,4 +1,6 @@
 ---
+images:
+- ingress_resistance-icon.svg
 logohandle: ingress_resistance
 sort: ingressresistance
 title: Ingress Resistance

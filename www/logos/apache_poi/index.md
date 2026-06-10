@@ -1,4 +1,7 @@
 ---
+images:
+- apache_poi-icon.svg
+- apache_poi-ar21.svg
 logohandle: apache_poi
 sort: poi
 tags:

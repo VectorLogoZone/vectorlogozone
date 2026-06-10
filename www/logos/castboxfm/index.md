@@ -1,6 +1,9 @@
 ---
 blog: https://castbox.fm/blog
 facebook: https://facebook.com/castbox.fm
+images:
+- castboxfm-icon.svg
+- castboxfm-ar21.svg
 instagram: https://instagram.com/castbox_fm
 logohandle: castboxfm
 sort: castbox

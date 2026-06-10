@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/geekflare
+images:
+- geekflare-ar21.svg
+- geekflare-icon.svg
 linkedin: https://linkedin.com/in/chandank
 logohandle: geekflare
 sort: geekflare

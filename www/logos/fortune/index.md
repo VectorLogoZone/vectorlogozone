@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/FortuneMagazine
+images:
+- fortune-wordmark.svg
+- fortune-icon.svg
+- fortune-ar21.svg
 instagram: https://instagram.com/fortunemag/?hl=en
 linkedin: https://linkedin.com/company/fortune-magazine
 logohandle: fortune

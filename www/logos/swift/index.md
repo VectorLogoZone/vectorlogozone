@@ -2,11 +2,11 @@
 blog: https://swift.org/blog/
 guide: https://developer.apple.com/swift/resources/
 images:
-- swift-vertical.svg
-- swift-official.svg
-- swift-horizontal.svg
-- swift-icon.svg
 - swift-ar21.svg
+- swift-icon.svg
+- swift-horizontal.svg
+- swift-official.svg
+- swift-vertical.svg
 logohandle: swift
 sort: swift
 tags:

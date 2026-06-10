@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/BulldogCreativeServices
+images:
+- bulldogcreative-ar21.svg
+- bulldogcreative-icon.svg
 instagram: https://instagram.com/bulldogcreativeservices
 linkedin: http://linkedin.com/company/bulldog-creative-services
 logohandle: bulldogcreative

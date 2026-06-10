@@ -1,4 +1,8 @@
 ---
+images:
+- fingoal-official.svg
+- fingoal-icon.svg
+- fingoal-ar21.svg
 linkedin: https://linkedin.com/company/fingoal
 logohandle: fingoal
 sort: fingoal

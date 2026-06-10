@@ -1,6 +1,9 @@
 ---
 blog: https://codeclimate.com/blog
 facebook: https://www.facebook.com/codeclimate
+images:
+- codeclimate-icon.svg
+- codeclimate-ar21.svg
 logohandle: codeclimate
 sort: codeclimate
 title: Code Climate

@@ -1,8 +1,8 @@
 ---
 images:
 - copyleft-official.svg
-- copyleft-ar21.svg
 - copyleft-icon.svg
+- copyleft-ar21.svg
 logohandle: copyleft
 sort: copyleft
 title: Copyleft

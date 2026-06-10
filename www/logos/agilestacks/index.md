@@ -1,6 +1,9 @@
 ---
 blog: https://agilestacks.com/blog
 facebook: https://facebook.com/agilestacks
+images:
+- agilestacks-icon.svg
+- agilestacks-ar21.svg
 linkedin: https://linkedin.com/company/agile-stacks-inc
 logohandle: agilestacks
 sort: agilestacks

@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/Inc
+images:
+- inc-wordmark.svg
+- inc-icon.svg
+- inc-ar21.svg
 instagram: https://instagram.com/incmagazine
 linkedin: https://linkedin.com/company/inc--magazine
 logohandle: inc

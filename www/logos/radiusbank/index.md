@@ -1,6 +1,9 @@
 ---
 blog: https://radiusbank.com/company/blog
 facebook: https://facebook.com/radiusbank
+images:
+- radiusbank-ar21.svg
+- radiusbank-icon.svg
 instagram: https://instagram.com/radius_bank
 linkedin: https://linkedin.com/company/radius-bank
 logohandle: radiusbank

@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/HBR
+images:
+- hbr-icon.svg
+- hbr-ar21.svg
 linkedin: https://linkedin.com/company/harvard-business-review?
 logohandle: hbr
 sort: hbr

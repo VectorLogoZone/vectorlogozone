@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/societegenerale
+images:
+- societegenerale-ar21.svg
+- societegenerale-icon.svg
 instagram: http://instagram.com/societegenerale
 linkedin: http://linkedin.com/company/societe-generale
 logohandle: societegenerale

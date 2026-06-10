@@ -5,8 +5,8 @@ font:
   name: x360
   url: https://www.dafont.com/x360.font
 images:
-- xbox-icon.svg
 - xbox-ar21.svg
+- xbox-icon.svg
 logohandle: xbox
 sort: xbox
 tags:

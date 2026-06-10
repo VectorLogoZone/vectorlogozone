@@ -11,8 +11,8 @@ guide: https://www.dropbox.com/branding
 images:
 - dropbox-official.svg
 - dropbox-ar21.svg
-- dropbox-icon.svg
 - dropbox-tile.svg
+- dropbox-icon.svg
 logohandle: dropbox
 sort: dropbox
 tags:

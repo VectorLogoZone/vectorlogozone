@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/TipeeeOfficiel
+images:
+- tipeee-icon.svg
+- tipeee-ar21.svg
 logohandle: tipeee
 sort: tipeee
 title: Tipeee

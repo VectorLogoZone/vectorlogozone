@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Bose
+images:
+- bose-ar21.svg
+- bose-icon.svg
 instagram: https://instagram.com/bose
 logohandle: bose
 sort: bose

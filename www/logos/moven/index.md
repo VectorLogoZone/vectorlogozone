@@ -5,6 +5,10 @@ colors:
 - '#2FBBCB'
 - '#015B7D'
 facebook: https://facebook.com/getMoven
+images:
+- moven-ar21.svg
+- moven-tile.svg
+- moven-icon.svg
 instagram: https://instagram.com/getmoven
 logohandle: moven
 sort: moven

@@ -1,6 +1,9 @@
 ---
 blog: https://aporeto.com/blog
 facebook: https://facebook.com/aporeto1
+images:
+- aporeto-ar21.svg
+- aporeto-icon.svg
 linkedin: https://linkedin.com/company/aporeto
 logohandle: aporeto
 sort: aporeto

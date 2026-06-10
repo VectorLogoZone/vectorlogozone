@@ -2,6 +2,9 @@
 blog: http://info.varnish-software.com/blog
 codehost: https://github.com/varnish
 facebook: https://facebook.com/varnishsoftware
+images:
+- varnish-software-ar21.svg
+- varnish-software-icon.svg
 linkedin: https://linkedin.com/company/varnish-software
 logohandle: varnish-software
 sort: varnish-software

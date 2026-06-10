@@ -1,6 +1,9 @@
 ---
 blog: https://snaplogic.com/blog
 facebook: http://facebook.com/SnapLogic
+images:
+- snaplogic-ar21.svg
+- snaplogic-icon.svg
 instagram: https://instagram.com/snaplogicinc
 linkedin: https://linkedin.com/company/snaplogic
 logohandle: snaplogic

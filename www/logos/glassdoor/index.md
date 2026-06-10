@@ -1,6 +1,9 @@
 ---
 blog: https://glassdoor.com/blog
 facebook: https://facebook.com/Glassdoor
+images:
+- glassdoor-ar21.svg
+- glassdoor-icon.svg
 instagram: https://instagram.com/glassdoor
 logohandle: glassdoor
 sort: glassdoor

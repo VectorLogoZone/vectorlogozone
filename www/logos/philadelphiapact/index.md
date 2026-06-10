@@ -1,6 +1,9 @@
 ---
 blog: https://philadelphiapact.com/blog
 facebook: https://facebook.com/PACT-Philadelphia-Alliance-for-Capital-and-Technologies-140450232659090
+images:
+- philadelphiapact-icon.svg
+- philadelphiapact-ar21.svg
 instagram: https://instagram.com/pactphl
 keywords:
 - Philadelphia Alliance for Capital and Technologies

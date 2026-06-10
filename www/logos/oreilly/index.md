@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/OReilly
+images:
+- oreilly-ar21.svg
+- oreilly-icon.svg
 linkedin: https://linkedin.com/company/oreilly-media
 logohandle: oreilly
 sort: oreilly

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Dynatrace
+images:
+- dynatrace-ar21.svg
+- dynatrace-icon.svg
 instagram: https://instagram.com/dynatrace
 linkedin: https://linkedin.com/company/dynatrace
 logohandle: dynatrace

@@ -9,11 +9,11 @@ font:
   url: http://www.editions205.fr/maax_article_e.html
 guide: https://www.digitalocean.com/company/logos-and-badges/
 images:
+- digitalocean-icon.svg
+- digitalocean-official.svg
 - digitalocean-tile.svg
 - digitalocean-horizontal.svg
-- digitalocean-icon.svg
 - digitalocean-ar21.svg
-- digitalocean-official.svg
 logohandle: digitalocean
 sort: digital ocean
 tags:

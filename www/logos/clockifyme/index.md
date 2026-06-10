@@ -1,6 +1,9 @@
 ---
 blog: https://medium.com/@clockify
 facebook: https://facebook.com/clockify.me
+images:
+- clockifyme-icon.svg
+- clockifyme-ar21.svg
 linkedin: https://linkedin.com/company/clockify
 logohandle: clockifyme
 sort: clockify

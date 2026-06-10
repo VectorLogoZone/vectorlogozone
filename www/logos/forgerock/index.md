@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/pages/ForgeRock/101648653214231
+images:
+- forgerock-ar21.svg
+- forgerock-icon.svg
 instagram: https://instagram.com/forgerock
 linkedin: https://linkedin.com/company/forgerock
 logohandle: forgerock

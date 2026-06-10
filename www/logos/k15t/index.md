@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/k15tsoftware/
+images:
+- k15t-icon.svg
+- k15t-ar21.svg
 linkedin: https://www.linkedin.com/company/k15t-software-gmbh
 logohandle: k15t
 sort: k15t

@@ -1,6 +1,9 @@
 ---
 facebook: https://facebook.com/usatoday
 flipboard: https://flipboard.com/@USAToday
+images:
+- usatoday-ar21.svg
+- usatoday-icon.svg
 instagram: https://instagram.com/usatoday
 linkedin: http://linkedin.com/company/usa-today
 logohandle: usatoday

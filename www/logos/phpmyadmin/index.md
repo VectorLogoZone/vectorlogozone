@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/phpmyadmin
 facebook: https://facebook.com/pages/PhpMyAdmin/157021164334486
+images:
+- phpmyadmin-icon.svg
+- phpmyadmin-ar21.svg
 logohandle: phpmyadmin
 sort: phpmyadmin
 title: phpMyAdmin

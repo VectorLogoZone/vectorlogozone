@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/boxboat
+images:
+- boxboat-icon.svg
+- boxboat-ar21.svg
 linkedin: https://linkedin.com/company/boxboat
 logohandle: boxboat
 sort: boxboat

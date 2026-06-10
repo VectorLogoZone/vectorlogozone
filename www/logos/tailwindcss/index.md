@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/tailwindcss/tailwindcss
+images:
+- tailwindcss-ar21.svg
+- tailwindcss-icon.svg
 logohandle: tailwindcss
 sort: tailwindcss
 title: Tailwind CSS

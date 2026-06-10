@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/unitedpress
+images:
+- upi-ar21.svg
+- upi-icon.svg
 instagram: https://instagram.com/upi
 linkedin: https://linkedin.com/company/united-press-international
 logohandle: upi

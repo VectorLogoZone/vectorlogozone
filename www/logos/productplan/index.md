@@ -1,6 +1,9 @@
 ---
 blog: https://productplan.com/blog
 facebook: https://facebook.com/productplan
+images:
+- productplan-icon.svg
+- productplan-ar21.svg
 instagram: https://instagram.com/productplanapp
 linkedin: https://linkedin.com/company/productplan
 logohandle: productplan

@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/firstdata
+images:
+- firstdata-icon.svg
+- firstdata-ar21.svg
 linkedin: http://linkedin.com/company/first-data-corporation
 logohandle: firstdata
 sort: firstdata

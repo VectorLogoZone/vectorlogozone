@@ -2,6 +2,9 @@
 blog: https://studio.blender.org/blog/
 facebook: https://facebook.com/YourOwn3DSoftware
 guide: https://www.blender.org/about/logo/
+images:
+- blender-ar21.svg
+- blender-icon.svg
 instagram: https://instagram.com/blender.official
 linkedin: https://linkedin.com/company/blender-org
 logohandle: blender

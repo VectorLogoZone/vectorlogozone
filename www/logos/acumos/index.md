@@ -1,5 +1,8 @@
 ---
 blog: https://acumos.org/blog
+images:
+- acumos-icon.svg
+- acumos-ar21.svg
 logohandle: acumos
 sort: acumos
 title: Acumos

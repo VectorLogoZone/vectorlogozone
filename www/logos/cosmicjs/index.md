@@ -7,6 +7,9 @@ colors:
 - '#11171A'
 facebook: https://facebook.com/cosmicjs
 guide: https://www.cosmicjs.com/brand
+images:
+- cosmicjs-ar21.svg
+- cosmicjs-icon.svg
 instagram: https://instagram.com/cosmic_js_
 linkedin: https://linkedin.com/company/cosmic-js
 logohandle: cosmicjs

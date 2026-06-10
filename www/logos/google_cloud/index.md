@@ -3,6 +3,9 @@ blog: http://googlecloudplatform.blogspot.com/
 codehost: https://github.com/GoogleCloudPlatform
 facebook: https://www.facebook.com/gcp
 guide: https://cloud.google.com/press/
+images:
+- google_cloud-icon.svg
+- google_cloud-ar21.svg
 linkedin: https://www.linkedin.com/company/google-cloud
 logohandle: google_cloud
 sort: google_cloud

@@ -7,10 +7,10 @@ font:
   myfonts: http://www.myfonts.com/fonts/linotype/helvetica/bold/
   name: Helvetica
 images:
-- haskell-ar21.svg
-- haskell-wordmark.svg
-- haskell-vertical.svg
 - haskell-horizontal.svg
+- haskell-wordmark.svg
+- haskell-ar21.svg
+- haskell-vertical.svg
 - haskell-icon.svg
 logohandle: haskell
 sort: haskell

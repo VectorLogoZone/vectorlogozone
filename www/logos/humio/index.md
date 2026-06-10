@@ -1,5 +1,8 @@
 ---
 blog: https://medium.com/humio
+images:
+- humio-icon.svg
+- humio-ar21.svg
 logohandle: humio
 sort: humio
 title: Humio

@@ -1,6 +1,9 @@
 ---
 blog: http://monday.com/blog
 facebook: https://facebook.com/mondaydotcom
+images:
+- monday-ar21.svg
+- monday-icon.svg
 instagram: https://instagram.com/mondaydotcom
 linkedin: https://linkedin.com/company/2525169
 logohandle: monday

@@ -1,6 +1,9 @@
 ---
 blog: https://ttpsc.pl/blog
 facebook: https://facebook.com/ttpsc.atlassian
+images:
+- transitiontechnologies-icon.svg
+- transitiontechnologies-ar21.svg
 linkedin: https://linkedin.com/company/ttpsc.atlassian
 logohandle: transitiontechnologies
 sort: transitiontechnologies

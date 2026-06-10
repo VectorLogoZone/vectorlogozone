@@ -1,6 +1,9 @@
 ---
 blog: https://snowflake.com/blog
 facebook: https://facebook.com/Snowflake-Computing-709171695819345
+images:
+- snowflake-icon.svg
+- snowflake-ar21.svg
 linkedin: https://linkedin.com/company/3653845
 logohandle: snowflake
 sort: snowflake

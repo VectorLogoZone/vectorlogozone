@@ -3,9 +3,9 @@ blog: http://yeoman.io/blog/
 codehost: https://github.com/yeoman
 guide: https://github.com/yeoman/media
 images:
-- yeoman-official.svg
-- yeoman-ar21.svg
 - yeoman-icon.svg
+- yeoman-ar21.svg
+- yeoman-official.svg
 logohandle: yeoman
 sort: yeoman
 tags:

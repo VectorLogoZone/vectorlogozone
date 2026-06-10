@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/transferwise
+images:
+- transferwise-ar21.svg
+- transferwise-icon.svg
 logohandle: transferwise
 sort: transferwise
 title: TransferWise

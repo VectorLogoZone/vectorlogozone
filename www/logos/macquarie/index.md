@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/MacquarieGroup
+images:
+- macquarie-icon.svg
+- macquarie-ar21.svg
 instagram: https://instagram.com/macquarieart
 linkedin: https://linkedin.com/company/macquariegroup
 logohandle: macquarie

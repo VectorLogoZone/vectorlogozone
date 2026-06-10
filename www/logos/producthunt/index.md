@@ -6,8 +6,9 @@ colors:
 facebook: https://www.facebook.com/producthunt/
 guide: https://www.producthunt.com/branding
 images:
-- producthunt-icon.svg
+- producthunt-official.svg
 - producthunt-ar21.svg
+- producthunt-icon.svg
 instagram: https://www.instagram.com/producthunt/
 linkedin: https://www.linkedin.com/company/product-hunt
 logohandle: producthunt

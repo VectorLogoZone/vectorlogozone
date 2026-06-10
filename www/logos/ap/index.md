@@ -1,6 +1,9 @@
 ---
 blog: https://blog.ap.org/
 facebook: https://facebook.com/APNews
+images:
+- ap-icon.svg
+- ap-ar21.svg
 linkedin: https://linkedin.com/company/associated-press
 logohandle: ap
 sort: ap

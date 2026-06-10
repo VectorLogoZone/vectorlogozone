@@ -6,8 +6,8 @@ font:
   name: Boing
   url: https://www.a2-type.co.uk/boing
 images:
-- godaddy-ar21.svg
 - godaddy-icon.svg
+- godaddy-ar21.svg
 logohandle: godaddy
 sort: godaddy
 tags:

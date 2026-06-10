@@ -1,7 +1,7 @@
 ---
 images:
-- archive_web-icon.svg
 - archive_web-ar21.svg
+- archive_web-icon.svg
 logohandle: archive_web
 sort: waybackmachine
 title: Wayback Machine

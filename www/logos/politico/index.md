@@ -1,6 +1,9 @@
 ---
 blog: https://politico.com/about/press/blog
 facebook: https://facebook.com/politico
+images:
+- politico-icon.svg
+- politico-ar21.svg
 instagram: https://instagram.com/politico
 logohandle: politico
 sort: politico

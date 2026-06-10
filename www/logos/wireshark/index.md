@@ -2,8 +2,8 @@
 blog: https://blog.wireshark.org/
 codehost: https://github.com/wireshark
 images:
-- wireshark-ar21.svg
 - wireshark-icon.svg
+- wireshark-ar21.svg
 logohandle: wireshark
 sort: wireshark
 title: Wireshark

@@ -5,8 +5,8 @@ colors:
 facebook: http://www.facebook.com/zoomwithus
 guide: https://zoom.us/brandguidelines
 images:
-- zoomus-ar21.svg
 - zoomus-icon.svg
+- zoomus-ar21.svg
 linkedin: https://www.linkedin.com/company/2532259/
 logohandle: zoomus
 sort: zoom

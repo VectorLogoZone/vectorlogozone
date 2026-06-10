@@ -1,5 +1,9 @@
 ---
 guide: https://www.selenic.com/hg-logo/
+images:
+- mercurial-scm-icon.svg
+- mercurial-scm-ar21.svg
+- mercurial-scm-official.svg
 logohandle: mercurial-scm
 reddit: https://www.reddit.com/r/mercurial/
 sort: mercurial

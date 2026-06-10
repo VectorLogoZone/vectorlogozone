@@ -6,8 +6,8 @@ font:
   url: https://fonts.google.com/specimen/Play
 images:
 - digitalrosetta-icon.svg
-- digitalrosetta-ar21.svg
 - digitalrosetta-tile.svg
+- digitalrosetta-ar21.svg
 logohandle: digitalrosetta
 sort: digitalrosetta
 tags:

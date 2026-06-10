@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/DiemenDesign
 facebook: https://facebook.com/diemendesign
+images:
+- diemendesign-ar21.svg
+- diemendesign-icon.svg
 instagram: https://instagram.com/diemen_design
 logohandle: diemendesign
 sort: diemendesign

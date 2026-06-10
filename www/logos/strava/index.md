@@ -2,6 +2,9 @@
 blog: https://blog.strava.com/
 codehost: https://github.com/strava
 facebook: https://facebook.com/Strava
+images:
+- strava-ar21.svg
+- strava-icon.svg
 instagram: https://instagram.com/strava
 logohandle: strava
 sort: strava

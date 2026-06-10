@@ -1,6 +1,10 @@
 ---
 blog: https://opentofu.org/blog/
 codehost: https://github.com/opentofu/opentofu
+images:
+- opentofu-icon.svg
+- opentofu-ar21.svg
+- opentofu-official.svg
 logohandle: opentofu
 sort: opentofu
 title: OpenTofu

@@ -1,7 +1,7 @@
 ---
 images:
-- virtualbox-ar21.svg
 - virtualbox-icon.svg
+- virtualbox-ar21.svg
 logohandle: virtualbox
 sort: virtualbox
 title: VirtualBox

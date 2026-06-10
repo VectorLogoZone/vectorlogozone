@@ -1,5 +1,9 @@
 ---
 facebook: https://www.facebook.com/techcrunch
+images:
+- techcrunch-ar21.svg
+- techcrunch-icon.svg
+- techcrunch-wordmark.svg
 instagram: http://instagram.com/techcrunch
 linkedin: http://www.linkedin.com/company/techcrunch
 logohandle: techcrunch

@@ -2,6 +2,9 @@
 blog: https://www.cockroachlabs.com/blog/
 codehost: https://github.com/cockroachdb
 gitter: https://gitter.im/cockroachdb/cockroach
+images:
+- cockroachlabs-ar21.svg
+- cockroachlabs-icon.svg
 logohandle: cockroachlabs
 sort: cockroachlabs
 stackoverflow: https://stackoverflow.com/questions/tagged/cockroachdb

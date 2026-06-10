@@ -2,6 +2,9 @@
 blog: https://ceph.com/community/blog
 codehost: https://github.com/ceph
 facebook: https://facebook.com/cephstorage
+images:
+- ceph-icon.svg
+- ceph-ar21.svg
 logohandle: ceph
 sort: ceph
 title: Ceph

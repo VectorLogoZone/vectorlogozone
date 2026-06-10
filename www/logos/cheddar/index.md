@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/cheddar
+images:
+- cheddar-icon.svg
+- cheddar-ar21.svg
 instagram: https://instagram.com/cheddar
 linkedin: https://linkedin.com/company/cheddar-inc-
 logohandle: cheddar

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/RollingStone
+images:
+- rollingstone-ar21.svg
+- rollingstone-icon.svg
 instagram: https://instagram.com/rollingstone
 logohandle: rollingstone
 pinterest: https://pinterest.com/rollingstone

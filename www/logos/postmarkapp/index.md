@@ -2,6 +2,9 @@
 blog: https://postmarkapp.com/blog
 codehost: https://github.com/wildbit/postmark-gem
 facebook: https://facebook.com/postmarkapp
+images:
+- postmarkapp-icon.svg
+- postmarkapp-ar21.svg
 logohandle: postmarkapp
 sort: postmarkapp
 title: Postmark

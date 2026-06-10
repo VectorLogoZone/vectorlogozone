@@ -2,6 +2,9 @@
 blog: https://julialang.org/blog/
 codehost: https://github.com/JuliaLang
 guide: https://github.com/JuliaLang/www.julialang.org/tree/master/images
+images:
+- julialang-icon.svg
+- julialang-ar21.svg
 logohandle: julialang
 other:
 - name: Discourse

@@ -1,4 +1,7 @@
 ---
+images:
+- stencila-ar21.svg
+- stencila-icon.svg
 logohandle: stencila
 sort: stencila
 title: Stencila

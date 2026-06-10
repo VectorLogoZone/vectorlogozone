@@ -1,4 +1,7 @@
 ---
+images:
+- cleanbrowsing-icon.svg
+- cleanbrowsing-ar21.svg
 logohandle: cleanbrowsing
 sort: cleanbrowsing
 title: CleanBrowsing

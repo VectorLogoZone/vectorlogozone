@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/heyflywheel
+images:
+- getflywheel-ar21.svg
+- getflywheel-icon.svg
 instagram: http://instagram.com/heyflywheel
 linkedin: http://linkedin.com/company/heyflywheel
 logohandle: getflywheel

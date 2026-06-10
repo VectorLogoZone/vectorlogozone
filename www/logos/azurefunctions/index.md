@@ -2,6 +2,9 @@
 blog: https://azure.microsoft.com/en-us/blog
 codehost: https://github.com/Azure/Azure-Functions
 facebook: https://facebook.com/microsoftazure
+images:
+- azurefunctions-ar21.svg
+- azurefunctions-icon.svg
 linkedin: https://linkedin.com/company/16188386
 logohandle: azurefunctions
 sort: azurefunctions

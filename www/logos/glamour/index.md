@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/glamour
+images:
+- glamour-icon.svg
+- glamour-ar21.svg
+- glamour-wordmark.svg
 instagram: https://instagram.com/glamourmag
 logohandle: glamour
 pinterest: https://pinterest.com/glamourmag

@@ -1,6 +1,9 @@
 ---
 blog: https://greendot.com/blog
 facebook: https://facebook.com/GreenDot
+images:
+- greendot-icon.svg
+- greendot-ar21.svg
 instagram: https://instagram.com/greendotcards
 logohandle: greendot
 sort: greendot

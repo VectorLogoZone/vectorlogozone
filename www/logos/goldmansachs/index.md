@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/goldmansachs
+images:
+- goldmansachs-ar21.svg
+- goldmansachs-icon.svg
 linkedin: https://linkedin.com/company/goldman-sachs
 logohandle: goldmansachs
 sort: goldmansachs

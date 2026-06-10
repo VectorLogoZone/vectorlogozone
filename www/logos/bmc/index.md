@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/bmcsoftware
+images:
+- bmc-icon.svg
+- bmc-ar21.svg
 linkedin: https://linkedin.com/company/1597
 logohandle: bmc
 sort: bmc

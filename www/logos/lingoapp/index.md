@@ -1,5 +1,8 @@
 ---
 blog: https://blog.lingoapp.com/
+images:
+- lingoapp-ar21.svg
+- lingoapp-icon.svg
 logohandle: lingoapp
 sort: lingoapp
 title: Lingo

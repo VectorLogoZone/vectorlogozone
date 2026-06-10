@@ -7,9 +7,9 @@ font:
   name: Mrs Eaves XL Serif Bold
 guide: https://wordpress.org/about/logos/
 images:
-- wordpress-ar21.svg
 - wordpress-icon.svg
 - wordpress-tile.svg
+- wordpress-ar21.svg
 logohandle: wordpress
 sort: wordpress
 tags:

@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/vogue
+images:
+- vogue-icon.svg
+- vogue-ar21.svg
 instagram: http://instagram.com/voguemagazine
 logohandle: vogue
 pinterest: http://pinterest.com/voguemagazine

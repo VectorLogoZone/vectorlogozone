@@ -1,6 +1,9 @@
 ---
 blog: https://justinmind.com/blog
 facebook: https://facebook.com/pages/JustInMind-Prototyper/90153054718
+images:
+- justinmind-icon.svg
+- justinmind-ar21.svg
 linkedin: https://linkedin.com/company/justinmind
 logohandle: justinmind
 sort: justinmind

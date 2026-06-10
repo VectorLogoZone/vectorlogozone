@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/forrester
+images:
+- forrester-icon.svg
+- forrester-ar21.svg
 linkedin: https://linkedin.com/company/forrester-research
 logohandle: forrester
 sort: forrester

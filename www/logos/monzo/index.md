@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/monzobank
+images:
+- monzo-icon.svg
+- monzo-ar21.svg
 linkedin: https://linkedin.com/company/monzo-bank
 logohandle: monzo
 sort: monzo

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/ApressMedia
+images:
+- apress-ar21.svg
+- apress-icon.svg
 logohandle: apress
 sort: apress
 title: Apress

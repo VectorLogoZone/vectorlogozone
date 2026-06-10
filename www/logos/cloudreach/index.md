@@ -1,6 +1,9 @@
 ---
 blog: https://cloudreach.com/blog
 facebook: https://facebook.com/Cloudreach
+images:
+- cloudreach-icon.svg
+- cloudreach-ar21.svg
 linkedin: https://linkedin.com/company/cloudreach
 logohandle: cloudreach
 sort: cloudreach

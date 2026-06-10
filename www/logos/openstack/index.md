@@ -3,8 +3,8 @@ blog: https://www.openstack.org/blog/
 codehost: https://github.com/openstack
 facebook: https://www.facebook.com/openstack
 images:
-- openstack-icon.svg
 - openstack-ar21.svg
+- openstack-icon.svg
 linkedin: https://www.linkedin.com/groups/3239106
 logohandle: openstack
 sort: openstack

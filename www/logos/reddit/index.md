@@ -7,9 +7,9 @@ font:
   name: Volkswagen Serial Bold
 guide: https://www.redditinc.com/press
 images:
-- reddit-ar21.svg
 - reddit-tile.svg
 - reddit-icon.svg
+- reddit-ar21.svg
 logohandle: reddit
 sort: reddit
 tags:

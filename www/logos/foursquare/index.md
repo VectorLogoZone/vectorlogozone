@@ -3,8 +3,8 @@ blog: http://blog.foursquare.com/
 facebook: http://www.facebook.com/foursquare
 guide: https://foursquare.com/about/logos
 images:
-- foursquare-ar21.svg
 - foursquare-icon.svg
+- foursquare-ar21.svg
 instagram: https://www.instagram.com/foursquare/
 logohandle: foursquare
 other:

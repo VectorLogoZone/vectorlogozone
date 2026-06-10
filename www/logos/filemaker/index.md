@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/FileMaker
+images:
+- filemaker-ar21.svg
+- filemaker-icon.svg
 linkedin: https://linkedin.com/company/filemaker
 logohandle: filemaker
 sort: filemaker

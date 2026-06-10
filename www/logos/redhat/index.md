@@ -11,8 +11,8 @@ font:
   url: https://store.typenetwork.com/foundry/fontbureau/series/interstate
 guide: https://brand.redhat.com/
 images:
-- redhat-ar21.svg
 - redhat-icon.svg
+- redhat-ar21.svg
 linkedin: http://www.linkedin.com/company/red-hat
 logohandle: redhat
 sort: redhat

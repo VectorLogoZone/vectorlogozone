@@ -1,6 +1,9 @@
 ---
 blog: https://buildium.com/blog
 facebook: https://facebook.com/Buildium
+images:
+- buildium-icon.svg
+- buildium-ar21.svg
 instagram: https://instagram.com/buildium_
 linkedin: https://linkedin.com/company/buildium-llc
 logohandle: buildium

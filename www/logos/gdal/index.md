@@ -1,7 +1,10 @@
 ---
+images:
+- gdal-icon.svg
+- gdal-ar21.svg
 logohandle: gdal
 sort: gdal
 title: GDAL
-website: 'https://www.gdal.org/'
-wikipedia: 'https://en.wikipedia.org/wiki/GDAL'
+website: https://www.gdal.org/
+wikipedia: https://en.wikipedia.org/wiki/GDAL
 ---

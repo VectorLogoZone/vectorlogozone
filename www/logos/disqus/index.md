@@ -9,9 +9,9 @@ font:
   name: Museo Sans Cyrl-900
 guide: https://disqus.com/brand/
 images:
-- disqus-ar21.svg
 - disqus-tile.svg
 - disqus-icon.svg
+- disqus-ar21.svg
 - disqus-official.svg
 logohandle: disqus
 sort: disqus

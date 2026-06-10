@@ -1,8 +1,8 @@
 ---
 facebook: http://facebook.com/georgemason
 images:
-- gmu_edu-icon.svg
 - gmu_edu-ar21.svg
+- gmu_edu-icon.svg
 logohandle: gmu_edu
 sort: george_mason
 tags:

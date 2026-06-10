@@ -4,8 +4,8 @@ colors:
 - '#C9002B'
 facebook: https://www.facebook.com/PepsiUS/
 images:
-- pepsi-ar21.svg
 - pepsi-icon.svg
+- pepsi-ar21.svg
 logohandle: pepsi
 sort: pepsi
 title: Pepsi

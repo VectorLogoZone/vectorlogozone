@@ -7,8 +7,8 @@ facebook: https://www.facebook.com/official.arduino
 guide: https://www.arduino.cc/en/Trademark/HomePage?from=Main.Trademark
 images:
 - arduino-ar21.svg
-- arduino-icon.svg
 - arduino-official.svg
+- arduino-icon.svg
 logohandle: arduino
 sort: arduino
 tags:

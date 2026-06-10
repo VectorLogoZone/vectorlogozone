@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/trivagoUS
+images:
+- trivago-ar21.svg
+- trivago-icon.svg
 instagram: https://instagram.com/trivago
 linkedin: https://linkedin.com/company/trivagonv
 logohandle: trivago

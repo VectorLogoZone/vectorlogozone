@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/Cisco
+images:
+- cisco-icon.svg
+- cisco-ar21.svg
 instagram: http://instagram.com/cisco
 linkedin: http://linkedin.com/company/cisco
 logohandle: cisco

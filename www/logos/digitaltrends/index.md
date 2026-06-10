@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/DigitalTrends
+images:
+- digitaltrends-ar21.svg
+- digitaltrends-icon.svg
 instagram: https://instagram.com/digitaltrends
 linkedin: https://linkedin.com/company/digitaltrends-com
 logohandle: digitaltrends

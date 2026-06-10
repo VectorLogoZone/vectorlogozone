@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/flarum
+images:
+- flarum-ar21.svg
+- flarum-icon.svg
 logohandle: flarum
 sort: flarum
 title: Flarum

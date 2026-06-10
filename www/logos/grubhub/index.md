@@ -4,8 +4,8 @@ codehost: https://github.com/grubhub
 facebook: https://www.facebook.com/grubhub
 guide: https://media.grubhub.com/media/multimedia/logos/default.aspx
 images:
-- grubhub-ar21.svg
 - grubhub-icon.svg
+- grubhub-ar21.svg
 logohandle: grubhub
 sort: grubhub
 title: Grubhub

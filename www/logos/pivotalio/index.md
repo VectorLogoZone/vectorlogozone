@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/pivotalsoftware
+images:
+- pivotalio-icon.svg
+- pivotalio-ar21.svg
 instagram: https://instagram.com/pivotalsoftware/
 linkedin: https://linkedin.com/company/3048967
 logohandle: pivotalio

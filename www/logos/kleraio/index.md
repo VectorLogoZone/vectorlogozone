@@ -1,4 +1,7 @@
 ---
+images:
+- kleraio-icon.svg
+- kleraio-ar21.svg
 linkedin: https://linkedin.com/company/klera
 logohandle: kleraio
 sort: kleraio

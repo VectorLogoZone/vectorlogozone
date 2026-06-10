@@ -2,9 +2,9 @@
 blog: http://www.stumbleupon.com/blog
 codehost: https://github.com/stumbleupon
 images:
-- stumbleupon-ar21.svg
-- stumbleupon-tile.svg
 - stumbleupon-icon.svg
+- stumbleupon-tile.svg
+- stumbleupon-ar21.svg
 logohandle: stumbleupon
 sort: stumbleupon
 tags:

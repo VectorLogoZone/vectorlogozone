@@ -1,6 +1,9 @@
 ---
 blog: https://coscale.com/blog
 facebook: https://facebook.com/coscale
+images:
+- coscale-icon.svg
+- coscale-ar21.svg
 linkedin: https://linkedin.com/company/coscale
 logohandle: coscale
 sort: coscale

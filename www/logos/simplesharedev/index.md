@@ -6,8 +6,8 @@ font:
   url: http://www.latofonts.com/lato-free-fonts/
 images:
 - simplesharedev-ar21.svg
-- simplesharedev-icon.svg
 - simplesharedev-tile.svg
+- simplesharedev-icon.svg
 logohandle: simplesharedev
 sort: simpleshare
 tags:

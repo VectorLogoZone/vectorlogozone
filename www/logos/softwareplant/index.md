@@ -1,5 +1,8 @@
 ---
 blog: http://softwareplant.com/blog
+images:
+- softwareplant-ar21.svg
+- softwareplant-icon.svg
 linkedin: https://linkedin.com/company/9451441
 logohandle: softwareplant
 sort: softwareplant

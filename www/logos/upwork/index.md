@@ -1,7 +1,9 @@
 ---
 facebook: https://facebook.com/upwork
 images:
+- upwork-icon.svg
 - upwork-tile.svg
+- upwork-ar21.svg
 instagram: https://instagram.com/upworkinc
 linkedin: https://linkedin.com/company/upwork
 logohandle: upwork

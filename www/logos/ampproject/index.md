@@ -5,9 +5,9 @@ colors:
 - '#0379C4'
 guide: https://github.com/ampproject/docs/blob/master/assets/img/icons/
 images:
-- ampproject-ar21.svg
 - ampproject-official.svg
 - ampproject-icon.svg
+- ampproject-ar21.svg
 logohandle: ampproject
 sort: amp
 title: AMP

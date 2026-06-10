@@ -1,6 +1,9 @@
 ---
 blog: https://blog.perlu.com/
 facebook: https://facebook.com/perlusocial
+images:
+- perlu-ar21.svg
+- perlu-icon.svg
 instagram: https://instagram.com/perlusocial
 linkedin: https://linkedin.com/company/perlu
 logohandle: perlu

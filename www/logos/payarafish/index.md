@@ -1,6 +1,9 @@
 ---
 blog: https://blog.payara.fish/
 facebook: https://facebook.com/PayaraFish
+images:
+- payarafish-ar21.svg
+- payarafish-icon.svg
 linkedin: https://linkedin.com/company/payara
 logohandle: payarafish
 sort: payara

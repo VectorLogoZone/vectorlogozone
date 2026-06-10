@@ -7,8 +7,8 @@ font:
   url: https://www.colophon-foundry.org/typefaces/basis-grotesque/
 guide: http://brand.opera.com/brandbook/identity-guidelines
 images:
-- opera-ar21.svg
 - opera-icon.svg
+- opera-ar21.svg
 logohandle: opera
 sort: opera
 title: Opera

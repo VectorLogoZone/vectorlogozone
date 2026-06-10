@@ -1,4 +1,7 @@
 ---
+images:
+- appveyor-ar21.svg
+- appveyor-icon.svg
 logohandle: appveyor
 sort: appveyor
 title: AppVeyor

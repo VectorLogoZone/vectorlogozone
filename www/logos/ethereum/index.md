@@ -2,6 +2,9 @@
 blog: https://blog.ethereum.org/
 codehost: https://github.com/ethereum
 facebook: https://facebook.com/ethereumproject
+images:
+- ethereum-ar21.svg
+- ethereum-icon.svg
 logohandle: ethereum
 sort: ethereum
 title: Ethereum Project

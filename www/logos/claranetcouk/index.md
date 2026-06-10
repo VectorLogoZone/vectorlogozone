@@ -1,4 +1,7 @@
 ---
+images:
+- claranetcouk-icon.svg
+- claranetcouk-ar21.svg
 linkedin: https://linkedin.com/company/claranet?trk=company_logo
 logohandle: claranetcouk
 sort: claranet

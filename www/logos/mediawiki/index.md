@@ -2,6 +2,7 @@
 blog: https://blog.wikimedia.org/c/technology
 facebook: https://www.facebook.com/MediaWikiProject
 images:
+- mediawiki-icon.svg
 - mediawiki-ar21.svg
 logohandle: mediawiki
 sort: mediawiki

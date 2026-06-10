@@ -1,8 +1,8 @@
 ---
 facebook: https://www.facebook.com/Avery
 images:
-- avery-icon.svg
 - avery-ar21.svg
+- avery-icon.svg
 logohandle: avery
 sort: avery
 tags:

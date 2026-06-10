@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/elixir-lang/elixir
+images:
+- elixir-lang-icon.svg
+- elixir-lang-ar21.svg
 logohandle: elixir-lang
 other:
 - name: discourse

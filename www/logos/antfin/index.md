@@ -1,4 +1,7 @@
 ---
+images:
+- antfin-ar21.svg
+- antfin-icon.svg
 linkedin: https://linkedin.com/company/167072
 logohandle: antfin
 sort: antfin

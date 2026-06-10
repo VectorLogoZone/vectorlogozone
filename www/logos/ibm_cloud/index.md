@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/IBMCloud
+images:
+- ibm_cloud-icon.svg
+- ibm_cloud-ar21.svg
 logohandle: ibm_cloud
 sort: ibmcloud
 title: IBM Cloud

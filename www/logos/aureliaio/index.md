@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/aurelia
+images:
+- aureliaio-ar21.svg
+- aureliaio-icon.svg
 logohandle: aureliaio
 sort: aurelia
 title: Aurelia

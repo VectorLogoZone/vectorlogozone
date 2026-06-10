@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Jimdo
+images:
+- jimdo-icon.svg
+- jimdo-ar21.svg
 logohandle: jimdo
 sort: jimdo
 title: Jimdo

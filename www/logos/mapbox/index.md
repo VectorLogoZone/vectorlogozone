@@ -3,8 +3,8 @@ blog: https://www.mapbox.com/blog/
 codehost: https://github.com/mapbox
 facebook: https://www.facebook.com/Mapbox
 images:
-- mapbox-icon.svg
 - mapbox-ar21.svg
+- mapbox-icon.svg
 logohandle: mapbox
 sort: mapbox
 tags:

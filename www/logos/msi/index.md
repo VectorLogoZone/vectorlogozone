@@ -2,8 +2,8 @@
 blog: https://us.msi.com/blog/
 facebook: https://facebook.com/MSIGamingUSA
 images:
-- msi-icon.svg
 - msi-ar21.svg
+- msi-icon.svg
 instagram: https://instagram.com/msius
 logohandle: msi
 sort: msi

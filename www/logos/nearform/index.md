@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/nearFormLtd
+images:
+- nearform-ar21.svg
+- nearform-icon.svg
 linkedin: http://linkedin.com/company/nearform
 logohandle: nearform
 sort: nearform

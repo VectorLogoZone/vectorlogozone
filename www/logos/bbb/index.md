@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/BetterBusinessBureau
+images:
+- bbb-icon.svg
+- bbb-ar21.svg
 linkedin: https://linkedin.com/company/better-business-bureau
 logohandle: bbb
 sort: bbb

@@ -2,6 +2,9 @@
 blog: https://blog.cloudboost.io/
 codehost: https://github.com/CloudBoost/whatsapp
 facebook: https://facebook.com/cloudboost.io
+images:
+- cloudboostio-icon.svg
+- cloudboostio-ar21.svg
 logohandle: cloudboostio
 sort: cloudboost
 title: CloudBoost

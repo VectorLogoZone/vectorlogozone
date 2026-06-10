@@ -2,6 +2,9 @@
 blog: https://apprenda.com/blog
 codehost: https://github.com/Apprenda
 facebook: http://facebook.com/apprenda
+images:
+- apprenda-icon.svg
+- apprenda-ar21.svg
 linkedin: https://linkedin.com/company/apprenda-inc-
 logohandle: apprenda
 sort: apprenda

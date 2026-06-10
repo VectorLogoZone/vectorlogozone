@@ -1,7 +1,7 @@
 ---
 images:
-- google_plus-tile.svg
 - google_plus-ar21.svg
+- google_plus-tile.svg
 - google_plus-icon.svg
 logohandle: google_plus
 noindex: true

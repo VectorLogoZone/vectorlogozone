@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/hapijs/hapi
+images:
+- hapijs-ar21.svg
+- hapijs-icon.svg
 logohandle: hapijs
 sort: hapijs
 title: hapi.js

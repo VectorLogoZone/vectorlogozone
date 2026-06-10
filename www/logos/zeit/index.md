@@ -4,8 +4,8 @@ codehost: https://github.com/zeit
 facebook: https://facebook.com/zeithq
 guide: https://github.com/zeit/art
 images:
-- zeit-ar21.svg
 - zeit-icon.svg
+- zeit-ar21.svg
 linkedin: https://www.linkedin.com/company/16181286/
 logohandle: zeit
 sort: zeit

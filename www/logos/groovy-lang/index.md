@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/apache/groovy
+images:
+- groovy-lang-icon.svg
+- groovy-lang-ar21.svg
 logohandle: groovy-lang
 sort: groovy
 title: Groovy

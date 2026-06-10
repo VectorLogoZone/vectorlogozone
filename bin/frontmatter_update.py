@@ -1,4 +1,7 @@
-#!/usr/bin/python
+#!/usr/bin/env -S uv run --script
+# /// script
+# dependencies = ["argparse", "python-frontmatter", "pyyaml"]
+# ///
 #
 # utility to update frontmatter with list of available images
 #
@@ -43,28 +46,29 @@ def process(options, dirparam):
 		images.append(f)
 
 	if len(images) == 0:
-		print("WARNING: no images for %s" % logohandle)
+		#print("DEBUG: no images for %s" % logohandle)
 		return
-
 
 	indexfn = os.path.join(logodir, "index.md")
 	if os.path.exists(indexfn) == False:
 		print("WARNING: no index.md for %s" % logohandle)
 		return
-		#indexmd = frontmatter.loads("---\n---\n")
-	else:
-		indexmd = frontmatter.load(indexfn)
+
+	indexmd = frontmatter.load(indexfn)
 
 	indexmd['images'] = images
 	#indexmd['skipped'] = skipped
 
 	if "logohandle" not in indexmd.keys():
+		print("WARNING: no logohandle in frontmatter for %s, adding it" % logohandle)
 		indexmd["logohandle"] = logohandle
 
 	if "title" not in indexmd.keys():
+		print("WARNING: no title in frontmatter for %s, adding it" % logohandle)
 		indexmd["title"] = logohandle.capitalize()
 
 	if "sort" not in indexmd.keys():
+		print("WARNING: no sort in frontmatter for %s, adding it" % logohandle)
 		indexmd["sort"] = indexmd["title"].lower()
 
 	f = open(indexfn, 'w')

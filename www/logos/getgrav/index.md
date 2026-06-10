@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/getgrav/grav
+images:
+- getgrav-ar21.svg
+- getgrav-icon.svg
 logohandle: getgrav
 sort: getgrav
 title: Grav

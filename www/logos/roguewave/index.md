@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/pages/Rogue-Wave-Software/340310722680802
+images:
+- roguewave-icon.svg
+- roguewave-ar21.svg
 linkedin: https://linkedin.com/company/rogue-wave-software
 logohandle: roguewave
 sort: roguewave

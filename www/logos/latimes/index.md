@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/latimes
+images:
+- latimes-icon.svg
+- latimes-ar21.svg
 instagram: https://instagram.com/latimes
 logohandle: latimes
 sort: latimes

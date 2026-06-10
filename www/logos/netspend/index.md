@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/netspend
+images:
+- netspend-ar21.svg
+- netspend-icon.svg
 linkedin: https://linkedin.com/company/netspend-corporation
 logohandle: netspend
 sort: netspend

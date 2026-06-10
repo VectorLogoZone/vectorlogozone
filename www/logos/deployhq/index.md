@@ -1,4 +1,7 @@
 ---
+images:
+- deployhq-icon.svg
+- deployhq-ar21.svg
 instagram: https://instagram.com/atechmedia
 logohandle: deployhq
 sort: deployhq

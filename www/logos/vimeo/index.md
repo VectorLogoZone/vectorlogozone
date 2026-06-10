@@ -1,7 +1,9 @@
 ---
 facebook: https://facebook.com/Vimeo
 images:
+- vimeo-icon.svg
 - vimeo-tile.svg
+- vimeo-ar21.svg
 instagram: https://instagram.com/vimeo
 linkedin: https://linkedin.com/company/vimeo
 logohandle: vimeo

@@ -2,8 +2,8 @@
 blog: https://www.twilio.com/blog
 codehost: https://github.com/twilio
 images:
-- twilio-icon.svg
 - twilio-ar21.svg
+- twilio-icon.svg
 - twilio-tile.svg
 logohandle: twilio
 sort: twilio

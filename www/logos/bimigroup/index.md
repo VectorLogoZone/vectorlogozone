@@ -1,5 +1,8 @@
 ---
 blog: https://bimigroup.org/blog
+images:
+- bimigroup-icon.svg
+- bimigroup-ar21.svg
 linkedin: https://linkedin.com/company/66710136
 logohandle: bimigroup
 sort: bimigroup

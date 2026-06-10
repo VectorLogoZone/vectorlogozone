@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/engadget
+images:
+- engadget-icon.svg
+- engadget-ar21.svg
 instagram: https://instagram.com/engadget
 linkedin: https://linkedin.com/company/101421
 logohandle: engadget

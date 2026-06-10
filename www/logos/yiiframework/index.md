@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/yiisoft
 facebook: https://facebook.com/groups/yiitalk
+images:
+- yiiframework-ar21.svg
+- yiiframework-icon.svg
 logohandle: yiiframework
 sort: yiiframework
 title: Yii

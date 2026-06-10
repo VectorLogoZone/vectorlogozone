@@ -1,5 +1,8 @@
 ---
 blog: https://www.bipm.org/en/news/
+images:
+- bipm-icon.svg
+- bipm-ar21.svg
 logohandle: bipm
 sort: bipm
 tags:

@@ -4,6 +4,9 @@ codehost: https://github.com/liberapay
 colors:
 - '#F5C310'
 facebook: https://www.facebook.com/Liberapay-472128142945598/
+images:
+- liberapay-icon.svg
+- liberapay-ar21.svg
 logohandle: liberapay
 sort: liberapay
 title: Liberapay

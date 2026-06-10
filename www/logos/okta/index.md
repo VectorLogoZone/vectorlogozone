@@ -1,6 +1,9 @@
 ---
 blog: https://okta.com/blog
 facebook: https://facebook.com/OktaIdentity
+images:
+- okta-icon.svg
+- okta-ar21.svg
 linkedin: https://linkedin.com/company/okta-inc-
 logohandle: okta
 sort: okta

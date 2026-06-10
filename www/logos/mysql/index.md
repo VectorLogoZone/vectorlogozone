@@ -3,10 +3,10 @@ codehost: https://github.com/mysql
 facebook: http://www.facebook.com/mysql
 guide: https://www.mysql.com/about/legal/logos.html
 images:
-- mysql-ar21.svg
 - mysql-horizontal.svg
-- mysql-icon.svg
+- mysql-ar21.svg
 - mysql-official.svg
+- mysql-icon.svg
 logohandle: mysql
 sort: mysql
 tags:

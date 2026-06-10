@@ -3,8 +3,8 @@ blog: http://blog.coursera.org/
 codehost: https://github.com/coursera
 facebook: https://www.facebook.com/Coursera
 images:
-- coursera-ar21.svg
 - coursera-icon.svg
+- coursera-ar21.svg
 linkedin: https://www.linkedin.com/company/coursera
 logohandle: coursera
 sort: coursera

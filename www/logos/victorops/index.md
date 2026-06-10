@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/VictorOpsInc
+images:
+- victorops-icon.svg
+- victorops-ar21.svg
 instagram: https://instagram.com/victor_ops
 linkedin: https://linkedin.com/company/victorops-inc-
 logohandle: victorops

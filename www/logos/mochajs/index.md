@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/mochajs/mocha
+images:
+- mochajs-icon.svg
+- mochajs-ar21.svg
 logohandle: mochajs
 sort: mochajs
 title: Mocha.js

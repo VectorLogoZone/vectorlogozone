@@ -1,8 +1,8 @@
 ---
 facebook: https://facebook.com/Tasktop
 images:
-- tasktop-ar21.svg
 - tasktop-icon.svg
+- tasktop-ar21.svg
 linkedin: https://linkedin.com/company/tasktop-technologies
 logohandle: tasktop
 sort: tasktop

@@ -2,6 +2,9 @@
 blog: https://blog.balsamiq.com/
 facebook: https://facebook.com/balsamiq
 guide: https://balsamiq.com/company/brandassets/
+images:
+- balsamiq-icon.svg
+- balsamiq-ar21.svg
 instagram: https://www.instagram.com/balsamiq/
 linkedin: https://www.linkedin.com/company/balsamiq
 logohandle: balsamiq

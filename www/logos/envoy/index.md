@@ -2,6 +2,9 @@
 blog: https://envoy.com/blog
 facebook: https://www.facebook.com/SignWithEnvoy/
 guide: https://envoy.com/press#brand
+images:
+- envoy-ar21.svg
+- envoy-icon.svg
 linkedin: https://www.linkedin.com/company/envoy-inc/
 logohandle: envoy
 sort: envoy

@@ -1,6 +1,8 @@
 ---
 images:
 - okru-tile.svg
+- okru-icon.svg
+- okru-ar21.svg
 logohandle: okru
 sort: okru
 title: OK.RU

@@ -2,8 +2,8 @@
 blog: http://blog.jetbrains.com/kotlin
 codehost: https://github.com/JetBrains/kotlin
 images:
-- kotlinlang-icon.svg
 - kotlinlang-ar21.svg
+- kotlinlang-icon.svg
 logohandle: kotlinlang
 sort: kotlin
 title: Kotlin

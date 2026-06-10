@@ -2,6 +2,9 @@
 blog: https://blog.getmeadow.com/
 codehost: https://github.com/meadow
 facebook: https://www.facebook.com/getmeadow
+images:
+- getmeadow-ar21.svg
+- getmeadow-icon.svg
 instagram: https://www.instagram.com/meadow.sf
 logohandle: getmeadow
 pinterest: https://www.pinterest.com/getmeadow

@@ -4,6 +4,10 @@ codehost: https://github.com/containers/podman
 colors:
 - '#892CA0'
 discord: https://discord.com/invite/x5GzFF6QH4
+images:
+- podmanio-icon.svg
+- podmanio-official.svg
+- podmanio-ar21.svg
 logohandle: podmanio
 sort: podman
 title: Podman

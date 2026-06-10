@@ -2,8 +2,8 @@
 blog: http://blogs.apache.org/tomcat/
 codehost: https://github.com/apache/tomcat
 images:
-- apache_tomcat-icon.svg
 - apache_tomcat-ar21.svg
+- apache_tomcat-icon.svg
 logohandle: apache_tomcat
 sort: tomcat
 tags:

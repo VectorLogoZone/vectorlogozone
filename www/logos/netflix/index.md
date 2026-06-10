@@ -9,8 +9,8 @@ font:
 guide: https://media.netflix.com/en/company-assets
 images:
 - netflix-icon.svg
-- netflix-official.svg
 - netflix-ar21.svg
+- netflix-official.svg
 instagram: https://www.instagram.com/netflix/
 logohandle: netflix
 sort: netflix

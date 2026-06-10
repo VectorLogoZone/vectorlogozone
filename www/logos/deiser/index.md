@@ -1,6 +1,9 @@
 ---
 blog: http://blog.deiser.com/
 facebook: https://facebook.com/deiserteam
+images:
+- deiser-icon.svg
+- deiser-ar21.svg
 instagram: https://instagram.com/deiserteam
 linkedin: https://linkedin.com/company/398203
 logohandle: deiser

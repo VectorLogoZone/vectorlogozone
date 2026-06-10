@@ -1,6 +1,9 @@
 ---
 blog: https://qasymphony.com/blog
 facebook: https://facebook.com/qasymphony
+images:
+- qasymphony-ar21.svg
+- qasymphony-icon.svg
 linkedin: http://linkedin.com/company/qasymphony
 logohandle: qasymphony
 sort: qasymphony

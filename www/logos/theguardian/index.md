@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/theguardian
+images:
+- theguardian-ar21.svg
+- theguardian-icon.svg
 logohandle: theguardian
 sort: guardian
 title: The Guardian

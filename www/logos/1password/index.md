@@ -2,6 +2,9 @@
 blog: https://blog.agilebits.com/
 codehost: https://github.com/1Password
 facebook: https://facebook.com/1Password
+images:
+- 1password-ar21.svg
+- 1password-icon.svg
 instagram: https://instagram.com/agilebits
 linkedin: https://linkedin.com/company/1Password
 logohandle: 1password

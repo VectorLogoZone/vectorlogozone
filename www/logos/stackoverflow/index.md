@@ -7,10 +7,10 @@ font:
   name: FF DIN
 guide: https://stackoverflow.com/company/logos
 images:
-- stackoverflow-official.svg
+- stackoverflow-tile.svg
 - stackoverflow-icon.svg
 - stackoverflow-ar21.svg
-- stackoverflow-tile.svg
+- stackoverflow-official.svg
 logohandle: stackoverflow
 sort: stackoverflow
 tags:

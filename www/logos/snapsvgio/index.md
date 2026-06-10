@@ -1,4 +1,7 @@
 ---
+images:
+- snapsvgio-icon.svg
+- snapsvgio-ar21.svg
 logohandle: snapsvgio
 sort: snapsvg
 title: Snap.svg

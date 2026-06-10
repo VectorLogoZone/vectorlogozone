@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/getmyboat
+images:
+- getmyboat-ar21.svg
+- getmyboat-icon.svg
 instagram: https://instagram.com/getmyboat
 linkedin: https://linkedin.com/company/getmyboat
 logohandle: getmyboat

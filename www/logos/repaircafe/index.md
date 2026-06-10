@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/RepairCafeInternational
+images:
+- repaircafe-icon.svg
+- repaircafe-ar21.svg
 logohandle: repaircafe
 sort: repaircafe
 title: Repair Café

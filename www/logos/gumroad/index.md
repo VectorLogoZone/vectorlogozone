@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/gumroad
+images:
+- gumroad-ar21.svg
+- gumroad-icon.svg
 linkedin: https://www.linkedin.com/company/gumroad
 logohandle: gumroad
 sort: gumroad

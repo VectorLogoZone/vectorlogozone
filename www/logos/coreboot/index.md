@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/coreboot
 facebook: https://facebook.com/coreboot
+images:
+- coreboot-ar21.svg
+- coreboot-icon.svg
 logohandle: coreboot
 sort: coreboot
 title: coreboot

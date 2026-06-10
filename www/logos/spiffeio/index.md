@@ -1,6 +1,9 @@
 ---
 blog: https://blog.spiffe.io/
 codehost: https://github.com/spiffe
+images:
+- spiffeio-ar21.svg
+- spiffeio-icon.svg
 logohandle: spiffeio
 slack: https://slack.spiffe.io/
 sort: spiffe

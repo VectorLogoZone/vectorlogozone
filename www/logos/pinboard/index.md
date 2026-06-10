@@ -1,9 +1,9 @@
 ---
 blog: http://blog.pinboard.in/
 images:
-- pinboard-tile.svg
-- pinboard-icon.svg
 - pinboard-ar21.svg
+- pinboard-icon.svg
+- pinboard-tile.svg
 logohandle: pinboard
 sort: pinboard
 tags:

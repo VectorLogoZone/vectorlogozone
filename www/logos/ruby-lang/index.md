@@ -7,10 +7,10 @@ font:
   name: Georgia
 guide: https://www.ruby-lang.org/en/about/logo/
 images:
-- ruby-lang-ar21.svg
-- ruby-lang-horizontal.svg
 - ruby-lang-vertical.svg
 - ruby-lang-icon.svg
+- ruby-lang-ar21.svg
+- ruby-lang-horizontal.svg
 logohandle: ruby-lang
 redirect_from: /logos/ruby/index.html
 sort: ruby

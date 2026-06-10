@@ -1,6 +1,9 @@
 ---
 blog: https://neo4j.com/blog
 facebook: https://facebook.com/neo4j.graph.database
+images:
+- neo4j-ar21.svg
+- neo4j-icon.svg
 linkedin: https://linkedin.com/company/neo4j
 logohandle: neo4j
 sort: neo4j

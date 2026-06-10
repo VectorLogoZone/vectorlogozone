@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/gremlininc
+images:
+- gremlin-icon.svg
+- gremlin-ar21.svg
 instagram: https://instagram.com/thegremlininc
 linkedin: https://linkedin.com/company/gremlin-inc.
 logohandle: gremlin

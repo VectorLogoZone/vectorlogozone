@@ -1,8 +1,8 @@
 ---
 codehost: https://github.com/MohammadYounes/AlertifyJS/
 images:
-- alertifyjs-icon.svg
 - alertifyjs-ar21.svg
+- alertifyjs-icon.svg
 logohandle: alertifyjs
 sort: alertifyjs
 tags:

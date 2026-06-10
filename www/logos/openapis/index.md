@@ -1,6 +1,9 @@
 ---
 blog: https://openapis.org/blog
 codehost: https://github.com/oai
+images:
+- openapis-ar21.svg
+- openapis-icon.svg
 linkedin: https://linkedin.com/groups/8556951
 logohandle: openapis
 sort: openapis

@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/modxcms
 facebook: https://facebook.com/modxcms
+images:
+- modx-ar21.svg
+- modx-icon.svg
 linkedin: https://linkedin.com/company/modx
 logohandle: modx
 pinterest: http://pinterest.com/modx

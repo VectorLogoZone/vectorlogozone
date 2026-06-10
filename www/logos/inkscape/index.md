@@ -6,8 +6,8 @@ font:
   name: Calluna Regular
   url: http://www.exljbris.com/calluna.html
 images:
-- inkscape-icon.svg
 - inkscape-ar21.svg
+- inkscape-icon.svg
 logohandle: inkscape
 sort: inkscape
 tags:

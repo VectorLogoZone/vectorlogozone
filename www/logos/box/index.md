@@ -2,6 +2,9 @@
 blog: https://www.box.com/blog
 facebook: https://www.facebook.com/box
 guide: https://www.box.com/about-us/press
+images:
+- box-ar21.svg
+- box-icon.svg
 logohandle: box
 sort: box
 title: box

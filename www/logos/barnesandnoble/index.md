@@ -1,6 +1,9 @@
 ---
 blog: https://barnesandnoble.com/blog
 facebook: https://facebook.com/barnesandnoble
+images:
+- barnesandnoble-icon.svg
+- barnesandnoble-ar21.svg
 instagram: https://instagram.com/barnesandnoble
 linkedin: https://linkedin.com/company/barnes-&-noble
 logohandle: barnesandnoble

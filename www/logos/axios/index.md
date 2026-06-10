@@ -1,4 +1,7 @@
 ---
+images:
+- axios-icon.svg
+- axios-ar21.svg
 logohandle: axios
 sort: axios
 title: Axios

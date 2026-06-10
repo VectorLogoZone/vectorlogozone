@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/nats-io
+images:
+- natsio-ar21.svg
+- natsio-icon.svg
 logohandle: natsio
 sort: nats
 title: NATS

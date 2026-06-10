@@ -1,6 +1,9 @@
 ---
 blog: https://gong.io/blog
 facebook: https://facebook.com/To.GongIO
+images:
+- gongio-icon.svg
+- gongio-ar21.svg
 instagram: https://instagram.com/gong.io
 linkedin: https://linkedin.com/company/gong-io
 logohandle: gongio

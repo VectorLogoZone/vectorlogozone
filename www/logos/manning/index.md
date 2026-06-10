@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/ManningBooks
+images:
+- manning-ar21.svg
+- manning-icon.svg
 logohandle: manning
 sort: manning
 title: Manning

@@ -1,8 +1,8 @@
 ---
 blog: https://adsense.googleblog.com/
 images:
-- google_adsense-icon.svg
 - google_adsense-ar21.svg
+- google_adsense-icon.svg
 logohandle: google_adsense
 sort: adsense
 tags:

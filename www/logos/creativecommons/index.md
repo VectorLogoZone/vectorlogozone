@@ -9,8 +9,9 @@ font:
   url: https://www.bertholdtypes.com/font/akzidenz-grotesk/standard/
 guide: https://creativecommons.org/about/downloads/
 images:
-- creativecommons-ar21.svg
 - creativecommons-icon.svg
+- creativecommons-official.svg
+- creativecommons-ar21.svg
 keywords:
 - cc
 logohandle: creativecommons

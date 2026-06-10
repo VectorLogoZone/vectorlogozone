@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/BancoCentralAR
+images:
+- bcragobar-icon.svg
+- bcragobar-ar21.svg
 linkedin: https://linkedin.com/company/bcra
 logohandle: bcragobar
 sort: bcra

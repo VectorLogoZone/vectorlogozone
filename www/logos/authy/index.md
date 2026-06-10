@@ -6,9 +6,9 @@ colors:
 - '#51575C'
 facebook: https://www.facebook.com/authysec
 images:
-- authy-ar21.svg
 - authy-icon.svg
 - authy-tile.svg
+- authy-ar21.svg
 linkedin: https://linkedin.com/company/authy
 logohandle: authy
 sort: authy

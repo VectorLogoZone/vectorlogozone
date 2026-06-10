@@ -7,8 +7,8 @@ facebook: https://www.facebook.com/kikplaynice
 images:
 - kik-icon.svg
 - kik-tile.svg
-- kik-official.svg
 - kik-ar21.svg
+- kik-official.svg
 logohandle: kik
 sort: kik
 title: kik

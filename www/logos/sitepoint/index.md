@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/sitepoint
+images:
+- sitepoint-icon.svg
+- sitepoint-ar21.svg
 logohandle: sitepoint
 sort: sitepoint
 title: SitePoint

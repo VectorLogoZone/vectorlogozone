@@ -1,6 +1,9 @@
 ---
 blog: https://drift.com/blog
 facebook: http://facebook.com/heydrift
+images:
+- drift-icon.svg
+- drift-ar21.svg
 linkedin: https://linkedin.com/company/drift-conversational-marketing
 logohandle: drift
 sort: drift

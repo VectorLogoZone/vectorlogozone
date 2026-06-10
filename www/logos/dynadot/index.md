@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/pages/Dynadot/119239589383
+images:
+- dynadot-icon.svg
+- dynadot-ar21.svg
 instagram: https://instagram.com/dynadot
 linkedin: https://linkedin.com/company/dynadot
 logohandle: dynadot

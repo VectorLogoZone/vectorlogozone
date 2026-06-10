@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/PrintflyCorp
+images:
+- printfly-ar21.svg
+- printfly-icon.svg
 instagram: https://instagram.com/printfly
 linkedin: https://linkedin.com/company/3217546
 logohandle: printfly

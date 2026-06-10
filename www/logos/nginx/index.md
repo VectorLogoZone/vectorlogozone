@@ -3,8 +3,8 @@ blog: https://www.nginx.com/blog/
 codehost: https://github.com/nginx
 facebook: https://www.facebook.com/nginxinc
 images:
-- nginx-ar21.svg
 - nginx-icon.svg
+- nginx-ar21.svg
 linkedin: http://www.linkedin.com/company/nginx
 logohandle: nginx
 sort: nginx

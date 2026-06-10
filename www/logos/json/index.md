@@ -1,7 +1,7 @@
 ---
 images:
-- json-icon.svg
 - json-ar21.svg
+- json-icon.svg
 logohandle: json
 sort: json
 title: JSON

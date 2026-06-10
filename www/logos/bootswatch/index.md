@@ -6,8 +6,8 @@ font:
   url: https://www.youworkforthem.com/font/T2067/harry-pro?refby=vectorlogozone
 guide: https://github.com/thomaspark/bootswatch/tree/v5/docs/_assets/img
 images:
-- bootswatch-icon.svg
 - bootswatch-ar21.svg
+- bootswatch-icon.svg
 logohandle: bootswatch
 sort: bootswatch
 tags:

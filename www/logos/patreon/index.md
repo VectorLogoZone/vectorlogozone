@@ -5,8 +5,8 @@ facebook: https://www.facebook.com/patreon
 guide: https://www.patreon.com/brand
 images:
 - patreon-ar21.svg
-- patreon-icon.svg
 - patreon-tile.svg
+- patreon-icon.svg
 instagram: https://www.instagram.com/patreon/
 linkedin: https://www.linkedin.com/company/patreon/
 logohandle: patreon

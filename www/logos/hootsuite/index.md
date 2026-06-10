@@ -1,6 +1,9 @@
 ---
 blog: https://blog.hootsuite.com/
 facebook: https://facebook.com/hootsuite
+images:
+- hootsuite-icon.svg
+- hootsuite-ar21.svg
 instagram: https://instagram.com/hootsuite
 linkedin: https://linkedin.com/company/hootsuite
 logohandle: hootsuite

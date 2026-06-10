@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/gq
+images:
+- gq-ar21.svg
+- gq-icon.svg
+- gq-wordmark.svg
 instagram: https://instagram.com/gq
 logohandle: gq
 pinterest: https://pinterest.com/gqmagazine

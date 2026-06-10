@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/appwrite
 facebook: https://facebook.com/appwrite.io
+images:
+- appwriteio-icon.svg
+- appwriteio-ar21.svg
 instagram: https://instagram.com/appwrite.io
 linkedin: https://linkedin.com/company/appwrite
 logohandle: appwriteio

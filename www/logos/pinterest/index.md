@@ -6,9 +6,9 @@ colors:
 facebook: https://www.facebook.com/pinterest/
 guide: https://business.pinterest.com/en-gb/brand-guidelines
 images:
-- pinterest-icon.svg
 - pinterest-ar21.svg
 - pinterest-tile.svg
+- pinterest-icon.svg
 logohandle: pinterest
 sort: pinterest
 tags:

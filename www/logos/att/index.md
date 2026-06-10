@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/ATT
+images:
+- att-ar21.svg
+- att-icon.svg
 instagram: http://instagram.com/att
 linkedin: https://linkedin.com/company/at&t
 logohandle: att

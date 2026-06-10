@@ -2,6 +2,9 @@
 blog: https://blog.scaleway.com/
 codehost: https://github.com/scaleway
 facebook: https://facebook.com/scaleway
+images:
+- scaleway-ar21.svg
+- scaleway-icon.svg
 instagram: https://instagram.com/scaleway
 linkedin: https://linkedin.com/company/scaleway
 logohandle: scaleway

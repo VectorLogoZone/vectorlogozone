@@ -1,6 +1,9 @@
 ---
 blog: https://blog.etsy.com/
 facebook: https://www.facebook.com/Etsy
+images:
+- etsy-ar21.svg
+- etsy-icon.svg
 instagram: https://www.instagram.com/etsy/
 logohandle: etsy
 pinterest: https://www.pinterest.com/etsy/

@@ -1,6 +1,9 @@
 ---
 blog: https://helloinspire.com/blog
 facebook: https://facebook.com/helloinspire
+images:
+- helloinspire-icon.svg
+- helloinspire-ar21.svg
 instagram: https://instagram.com/heyinspire
 logohandle: helloinspire
 sort: inspire

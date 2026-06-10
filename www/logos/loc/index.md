@@ -3,8 +3,8 @@ blog: https://www.loc.gov/rss/
 codehost: https://github.com/LibraryOfCongress
 facebook: https://www.facebook.com/libraryofcongress/
 images:
-- loc-icon.svg
 - loc-ar21.svg
+- loc-icon.svg
 logohandle: loc
 sort: libraryofcongress
 tags:

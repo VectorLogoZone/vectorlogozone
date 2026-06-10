@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/opencv/opencv
 facebook: https://facebook.com/opencvlibrary
+images:
+- opencv-icon.svg
+- opencv-ar21.svg
 logohandle: opencv
 sort: opencv
 title: OpenCV

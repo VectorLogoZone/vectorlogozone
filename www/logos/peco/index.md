@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/pecoconnect
+images:
+- peco-ar21.svg
+- peco-icon.svg
 linkedin: https://linkedin.com/company/4678
 logohandle: peco
 sort: peco

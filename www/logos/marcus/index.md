@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/marcus
+images:
+- marcus-icon.svg
+- marcus-ar21.svg
 logohandle: marcus
 sort: marcus
 title: Marcus

@@ -1,6 +1,9 @@
 ---
 blog: https://wavefront.com/blog
 facebook: https://facebook.com/wavefronthq
+images:
+- wavefront-icon.svg
+- wavefront-ar21.svg
 linkedin: https://linkedin.com/company/wavefront-inc
 logohandle: wavefront
 sort: wavefront

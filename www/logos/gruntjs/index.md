@@ -1,6 +1,9 @@
 ---
 blog: https://gruntjs.com/blog
 codehost: https://github.com/gruntjs
+images:
+- gruntjs-ar21.svg
+- gruntjs-icon.svg
 logohandle: gruntjs
 sort: gruntjs
 title: Grunt

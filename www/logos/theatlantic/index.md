@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/TheAtlantic
+images:
+- theatlantic-icon.svg
+- theatlantic-ar21.svg
 instagram: https://instagram.com/theatlantic
 linkedin: https://linkedin.com/company/the-atlantic
 logohandle: theatlantic

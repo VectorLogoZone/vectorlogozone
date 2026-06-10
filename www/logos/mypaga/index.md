@@ -1,5 +1,8 @@
 ---
 facebook: http://www.facebook.com/mypaga
+images:
+- mypaga-ar21.svg
+- mypaga-icon.svg
 instagram: http://instagram.com/my_paga
 logohandle: mypaga
 sort: mypaga

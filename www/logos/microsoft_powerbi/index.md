@@ -1,6 +1,9 @@
 ---
 blog: https://powerbi.microsoft.com/en-us/blog
 facebook: https://facebook.com/microsoftbi
+images:
+- microsoft_powerbi-ar21.svg
+- microsoft_powerbi-icon.svg
 logohandle: microsoft_powerbi
 sort: powerbi
 title: Power BI

@@ -4,6 +4,9 @@ colors:
 - '#774AA4'
 facebook: https://www.facebook.com/datadoghq/
 guide: https://www.datadoghq.com/about/press/resources/
+images:
+- datadoghq-ar21.svg
+- datadoghq-icon.svg
 instagram: https://instagram.com/datadoghq
 linkedin: https://www.linkedin.com/company/datadog
 logohandle: datadoghq

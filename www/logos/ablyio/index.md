@@ -2,6 +2,9 @@
 blog: https://ably.io/blog/
 codehost: https://github.com/ably
 facebook: https://facebook.com/ablyrealtime
+images:
+- ablyio-ar21.svg
+- ablyio-icon.svg
 linkedin: https://linkedin.com/company/ably---real-time-messaging
 logohandle: ablyio
 sort: ably

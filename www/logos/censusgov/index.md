@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/uscensusbureau
+images:
+- censusgov-ar21.svg
+- censusgov-icon.svg
 instagram: http://instagram.com/uscensusbureau
 linkedin: http://linkedin.com/company/us-census-bureau
 logohandle: censusgov

@@ -1,6 +1,9 @@
 ---
 blog: https://blog.galvanize.com/
 facebook: https://facebook.com/GalvanizeHQ
+images:
+- galvanize-ar21.svg
+- galvanize-icon.svg
 instagram: https://instagram.com/GalvanizeHQ
 linkedin: https://linkedin.com/company/galvanize-it
 logohandle: galvanize

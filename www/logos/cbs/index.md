@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/CBS
+images:
+- cbs-icon.svg
+- cbs-wordmark.svg
+- cbs-ar21.svg
 instagram: https://instagram.com/cbstv
 logohandle: cbs
 sort: cbs

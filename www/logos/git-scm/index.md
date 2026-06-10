@@ -7,8 +7,8 @@ font:
   url: http://www.type-together.com/Adelle
 guide: http://git-scm.com/downloads/logos
 images:
-- git-scm-ar21.svg
 - git-scm-icon.svg
+- git-scm-ar21.svg
 logohandle: git-scm
 sort: git
 tags:

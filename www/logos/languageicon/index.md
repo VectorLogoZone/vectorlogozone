@@ -1,10 +1,11 @@
 ---
 font:
-  name: Cinzel
   google: https://fonts.google.com/specimen/Cinzel
+  name: Cinzel
 images:
-- languageicon-official.svg
+- languageicon-ar21.svg
 - languageicon-icon.svg
+- languageicon-official.svg
 logohandle: languageicon
 sort: languageicon
 title: Language Icon

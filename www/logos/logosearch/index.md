@@ -4,9 +4,9 @@ font:
   google: https://fonts.google.com/specimen/Sansita
   name: Sansita
 images:
+- logosearch-horizontal.svg
 - logosearch-ar21.svg
 - logosearch-icon.svg
-- logosearch-horizontal.svg
 logohandle: logosearch
 sort: logosearch
 tags:

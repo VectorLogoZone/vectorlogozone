@@ -9,6 +9,7 @@ guide: https://en.facebookbrand.com/guidelines/brand
 images:
 - facebook-icon.svg
 - facebook-tile.svg
+- facebook-official.svg
 - facebook-ar21.svg
 logohandle: facebook
 sort: facebook

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/asus.n.america
+images:
+- asus-ar21.svg
+- asus-icon.svg
 instagram: http://instagram.com/asususa/
 logohandle: asus
 sort: asus

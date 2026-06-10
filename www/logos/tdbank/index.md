@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/TDBank
+images:
+- tdbank-icon.svg
+- tdbank-ar21.svg
 instagram: https://instagram.com/TDBank_US
 linkedin: http://linkedin.com/company/2775
 logohandle: tdbank

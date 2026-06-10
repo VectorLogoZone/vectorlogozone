@@ -2,6 +2,9 @@
 codehost: https://github.com/hashrocket
 dribbble: https://dribbble.com/hashrocket
 facebook: https://facebook.com/hashrocket
+images:
+- hashrocket-icon.svg
+- hashrocket-ar21.svg
 linkedin: https://linkedin.com/company/hashrocket
 logohandle: hashrocket
 sort: hashrocket

@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/dapr
+images:
+- daprio-ar21.svg
+- daprio-icon.svg
 logohandle: daprio
 sort: dapr
 title: Dapr

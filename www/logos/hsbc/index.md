@@ -1,4 +1,7 @@
 ---
+images:
+- hsbc-icon.svg
+- hsbc-ar21.svg
 linkedin: https://linkedin.com/company/hsbc
 logohandle: hsbc
 sort: hsbc

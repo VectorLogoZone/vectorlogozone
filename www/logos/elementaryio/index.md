@@ -2,6 +2,9 @@
 blog: https://medium.com/elementaryos
 facebook: https://facebook.com/elementaryos
 guide: https://github.com/elementary/brand
+images:
+- elementaryio-icon.svg
+- elementaryio-ar21.svg
 logohandle: elementaryio
 sort: elementaryos
 title: elementary OS

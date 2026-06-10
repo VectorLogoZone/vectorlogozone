@@ -1,8 +1,8 @@
 ---
 codehost: https://github.com/svg/svgo
 images:
-- svgo-icon.svg
 - svgo-ar21.svg
+- svgo-icon.svg
 logohandle: svgo
 sort: svgo
 tags:

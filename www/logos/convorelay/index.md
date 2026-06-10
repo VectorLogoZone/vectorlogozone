@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/convo/
+images:
+- convorelay-icon.svg
+- convorelay-ar21.svg
 instagram: https://www.instagram.com/convo/
 logohandle: convorelay
 sort: convorelay

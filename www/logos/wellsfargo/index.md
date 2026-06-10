@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/wellsfargo
+images:
+- wellsfargo-ar21.svg
+- wellsfargo-icon.svg
 instagram: https://instagram.com/wellsfargo
 linkedin: https://linkedin.com/company/wellsfargo
 logohandle: wellsfargo

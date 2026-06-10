@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/siroop.ch
+images:
+- siroopch-ar21.svg
+- siroopch-icon.svg
 instagram: http://instagram.com/siroop.ch
 linkedin: http://linkedin.com/company-beta/6461687
 logohandle: siroopch

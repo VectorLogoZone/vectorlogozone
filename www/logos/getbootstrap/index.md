@@ -2,8 +2,8 @@
 blog: https://blog.getbootstrap.com/
 codehost: https://github.com/twbs/bootstrap
 images:
-- getbootstrap-icon.svg
 - getbootstrap-ar21.svg
+- getbootstrap-icon.svg
 logohandle: getbootstrap
 sort: bootstrap
 tags:

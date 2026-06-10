@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Infobloxinc
+images:
+- infoblox-ar21.svg
+- infoblox-icon.svg
 linkedin: https://linkedin.com/company/infoblox
 logohandle: infoblox
 sort: infoblox

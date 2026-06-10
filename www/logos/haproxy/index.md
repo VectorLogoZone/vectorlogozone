@@ -1,7 +1,10 @@
 ---
+images:
+- haproxy-ar21.svg
+- haproxy-icon.svg
 logohandle: haproxy
 sort: haproxy
 title: HAProxy
-website: 'http://www.haproxy.org/'
-wikipedia: 'https://en.wikipedia.org/wiki/HAProxy'
+website: http://www.haproxy.org/
+wikipedia: https://en.wikipedia.org/wiki/HAProxy
 ---

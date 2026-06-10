@@ -1,4 +1,7 @@
 ---
+images:
+- eggheadio-icon.svg
+- eggheadio-ar21.svg
 logohandle: eggheadio
 sort: egghead
 title: Egghead

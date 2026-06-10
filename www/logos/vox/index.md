@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Vox
+images:
+- vox-icon.svg
+- vox-ar21.svg
 logohandle: vox
 sort: vox
 title: Vox

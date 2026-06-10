@@ -6,10 +6,10 @@ font:
   name: Strait
 guide: https://wiki.postgresql.org/wiki/Identity_Guidelines
 images:
-- postgresql-ar21.svg
 - postgresql-horizontal.svg
-- postgresql-wordmark.svg
 - postgresql-icon.svg
+- postgresql-ar21.svg
+- postgresql-wordmark.svg
 - postgresql-vertical.svg
 logohandle: postgresql
 sort: postgresql

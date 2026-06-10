@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/spectrum
+images:
+- spectrum-ar21.svg
+- spectrum-icon.svg
 instagram: https://instagram.com/getspectrum
 logohandle: spectrum
 sort: spectrum

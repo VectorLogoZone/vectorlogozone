@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/namecoin
+images:
+- namecoin-icon.svg
+- namecoin-ar21.svg
 logohandle: namecoin
 sort: namecoin
 title: Namecoin

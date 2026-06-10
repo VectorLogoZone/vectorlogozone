@@ -1,4 +1,7 @@
 ---
+images:
+- credit-agricole-ar21.svg
+- credit-agricole-icon.svg
 logohandle: credit-agricole
 sort: credit-agricole
 title: Crédit Agricole

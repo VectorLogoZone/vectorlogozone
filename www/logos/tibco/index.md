@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/TIBCO
+images:
+- tibco-icon.svg
+- tibco-ar21.svg
 linkedin: https://linkedin.com/company/tibco-software-inc-
 logohandle: tibco
 sort: tibco

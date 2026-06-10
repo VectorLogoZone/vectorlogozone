@@ -6,9 +6,9 @@ colors:
 facebook: https://www.facebook.com/udemy
 guide: https://about.udemy.com/newbrand/
 images:
-- udemy-ar21.svg
 - udemy-official.svg
 - udemy-icon.svg
+- udemy-ar21.svg
 instagram: https://www.instagram.com/udemy/
 linkedin: https://www.linkedin.com/company/udemy
 logohandle: udemy

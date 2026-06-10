@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/veevasystems
+images:
+- veeva-ar21.svg
+- veeva-icon.svg
 linkedin: https://linkedin.com/company/veeva-systems
 logohandle: veeva
 sort: veeva

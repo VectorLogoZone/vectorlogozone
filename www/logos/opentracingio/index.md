@@ -1,6 +1,9 @@
 ---
 blog: https://medium.com/opentracing
 codehost: https://github.com/opentracing
+images:
+- opentracingio-icon.svg
+- opentracingio-ar21.svg
 logohandle: opentracingio
 sort: opentracing
 title: The OpenTracing project

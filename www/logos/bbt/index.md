@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/BBTBank
+images:
+- bbt-icon.svg
+- bbt-ar21.svg
 instagram: http://instagram.com/bbt
 linkedin: http://linkedin.com/company/bb%26t
 logohandle: bbt

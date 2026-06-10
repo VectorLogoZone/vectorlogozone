@@ -6,10 +6,10 @@ colors:
 facebook: https://www.facebook.com/docker.run
 guide: https://www.docker.com/brand-guidelines
 images:
-- docker-official.svg
 - docker-icon.svg
 - docker-tile.svg
 - docker-ar21.svg
+- docker-official.svg
 logohandle: docker
 sort: docker
 tags:

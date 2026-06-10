@@ -1,5 +1,10 @@
 ---
 facebook: https://facebook.com/tiaa
+images:
+- tiaa-icon~2023.svg
+- tiaa-icon.svg
+- tiaa-ar21.svg
+- tiaa-ar21~2023.svg
 linkedin: https://linkedin.com/company/tiaa
 logohandle: tiaa
 sort: tiaa

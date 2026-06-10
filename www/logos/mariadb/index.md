@@ -2,8 +2,8 @@
 blog: https://mariadb.org/blog/
 guide: https://mariadb.org/about/logos/
 images:
-- mariadb-ar21.svg
 - mariadb-icon.svg
+- mariadb-ar21.svg
 logohandle: mariadb
 sort: mariadb
 title: MariaDB

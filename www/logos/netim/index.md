@@ -1,5 +1,7 @@
 ---
 facebook: https://facebook.com/netimcom
+images:
+- netim-official.svg
 linkedin: https://linkedin.com/company/netim.com
 logohandle: netim
 sort: netim

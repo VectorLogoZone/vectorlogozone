@@ -1,6 +1,9 @@
 ---
 blog: https://blog.canonical.com/
 facebook: https://facebook.com/pages/Canonical/125818784107695
+images:
+- canonical-ar21.svg
+- canonical-icon.svg
 logohandle: canonical
 sort: canonical
 title: Canonical

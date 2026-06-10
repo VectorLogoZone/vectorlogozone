@@ -1,6 +1,9 @@
 ---
 blog: https://blog.newrelic.com/
 facebook: http://facebook.com/NewRelic
+images:
+- newrelic-icon.svg
+- newrelic-ar21.svg
 instagram: https://instagram.com/newrelic
 linkedin: https://linkedin.com/company/new-relic-inc-
 logohandle: newrelic

@@ -2,8 +2,8 @@
 blog: http://geonames.wordpress.com/
 codehost: https://github.com/geonames
 images:
-- geonames-ar21.svg
 - geonames-icon.svg
+- geonames-ar21.svg
 logohandle: geonames
 sort: geonames
 title: GeoNames

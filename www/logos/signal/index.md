@@ -4,6 +4,9 @@ blog: https://signal.org/blog/
 bluesky: https://bsky.app/profile/signal.org
 codehost: https://github.com/signalapp
 guide: https://signal.org/brand/
+images:
+- signal-icon.svg
+- signal-ar21.svg
 instagram: https://www.instagram.com/signal_app/
 logohandle: signal
 sort: signal

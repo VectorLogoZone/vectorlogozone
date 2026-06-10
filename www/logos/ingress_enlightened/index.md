@@ -1,4 +1,6 @@
 ---
+images:
+- ingress_enlightened-icon.svg
 logohandle: ingress_enlightened
 sort: ingressenlightened
 title: Ingress Enlightened

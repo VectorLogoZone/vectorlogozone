@@ -2,6 +2,9 @@
 blog: https://blog.datproject.org/
 codehost: https://github.com/datproject
 guide: https://github.com/datproject/design/blob/master/public/img/dat-data-logo.svg
+images:
+- datproject-ar21.svg
+- datproject-icon.svg
 logohandle: datproject
 sort: datproject
 title: Dat Project

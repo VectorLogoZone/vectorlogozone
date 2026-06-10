@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/500px
+images:
+- 500px-ar21.svg
+- 500px-icon.svg
 instagram: http://instagram.com/500px
 logohandle: 500px
 pinterest: http://pinterest.com/500px

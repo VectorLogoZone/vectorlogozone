@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Westpac
+images:
+- westpaccomau-icon.svg
+- westpaccomau-ar21.svg
 instagram: https://instagram.com/westpac
 linkedin: https://linkedin.com/company/westpac
 logohandle: westpaccomau

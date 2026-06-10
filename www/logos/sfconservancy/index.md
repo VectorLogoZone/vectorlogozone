@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/SoftwareFreedomConservancy
+images:
+- sfconservancy-icon.svg
+- sfconservancy-ar21.svg
 logohandle: sfconservancy
 sort: sfconservancy
 title: Software Freedom Conservancy

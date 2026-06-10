@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/adaptavist/
+images:
+- adaptavist-icon.svg
+- adaptavist-ar21.svg
 linkedin: https://linkedin.com/company/adaptavist
 logohandle: adaptavist
 sort: adaptavist

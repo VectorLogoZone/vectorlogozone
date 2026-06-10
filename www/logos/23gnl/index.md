@@ -1,6 +1,9 @@
 ---
 dribbble: https://dribbble.com/23G
 facebook: https://facebook.com/23gnl
+images:
+- 23gnl-icon.svg
+- 23gnl-ar21.svg
 instagram: https://instagram.com/23g_nl
 linkedin: https://www.linkedin.com/company/23g/
 logohandle: 23gnl

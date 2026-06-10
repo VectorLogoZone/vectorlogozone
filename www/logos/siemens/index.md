@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Siemens
+images:
+- siemens-ar21.svg
+- siemens-icon.svg
 instagram: https://instagram.com/siemens
 linkedin: https://linkedin.com/company/siemens
 logohandle: siemens

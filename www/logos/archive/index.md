@@ -6,9 +6,9 @@ font:
   myfonts: https://www.myfonts.com/fonts/mti/rotis-semi-serif/bold-65/
   name: Rotis Semi Serif Bold 65
 images:
+- archive-ar21.svg
 - archive-tile.svg
 - archive-icon.svg
-- archive-ar21.svg
 logohandle: archive
 sort: internet_archive
 tags:

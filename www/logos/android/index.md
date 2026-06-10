@@ -6,10 +6,10 @@ colors:
 facebook: https://www.facebook.com/AndroidOfficial
 guide: https://developer.android.com/distribute/marketing-tools/brand-guidelines.html
 images:
-- android-ar21.svg
 - android-official.svg
-- android-icon.svg
+- android-ar21.svg
 - android-tile.svg
+- android-icon.svg
 logohandle: android
 sort: android
 tags:

@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/tomhodgins
 facebook: https://facebook.com/hashnode
+images:
+- hashnode-ar21.svg
+- hashnode-icon.svg
 instagram: https://instagram.com/hashnode
 linkedin: https://linkedin.com/company/hashnode
 logohandle: hashnode

@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/pytorch/pytorch
 facebook: https://facebook.com/pytorch
+images:
+- pytorch-icon.svg
+- pytorch-ar21.svg
 logohandle: pytorch
 sort: pytorch
 title: PyTorch

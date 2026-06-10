@@ -1,6 +1,10 @@
 ---
 blog: https://blog.google/products/ads/
 facebook: https://www.facebook.com/GoogleAds/
+images:
+- google_ads-icon.svg
+- google_ads-ar21.svg
+- google_ads-official.svg
 logohandle: google_ads
 sort: googleads
 title: Google Ads

@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/Spartez
+images:
+- spartez-icon.svg
+- spartez-ar21.svg
 linkedin: https://linkedin.com/company/spartez
 logohandle: spartez
 sort: spartez

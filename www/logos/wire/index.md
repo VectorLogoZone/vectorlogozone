@@ -2,7 +2,9 @@
 codehost: https://github.com/wireapp/wire
 facebook: https://facebook.com/wire
 images:
+- wire-icon.svg
 - wire-tile.svg
+- wire-ar21.svg
 linkedin: https://linkedin.com/company/4836762
 logohandle: wire
 sort: wire

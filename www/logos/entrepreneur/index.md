@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/EntMagazine
+images:
+- entrepreneur-wordmark.svg
+- entrepreneur-icon.svg
+- entrepreneur-ar21.svg
 instagram: http://instagram.com/entrepreneur
 linkedin: https://linkedin.com/company/entrepreneur-media
 logohandle: entrepreneur

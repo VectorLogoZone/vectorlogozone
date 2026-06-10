@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/451-Research-734422849998305
+images:
+- 451research-icon.svg
+- 451research-ar21.svg
 logohandle: 451research
 sort: 451research
 title: 451 Research

@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/dremio
 facebook: https://facebook.com/dremio
+images:
+- dremio-ar21.svg
+- dremio-icon.svg
 linkedin: https://linkedin.com/company/dremio
 logohandle: dremio
 sort: dremio

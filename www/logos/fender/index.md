@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/Fender/
+images:
+- fender-ar21.svg
+- fender-icon.svg
 instagram: https://www.instagram.com/fender
 logohandle: fender
 pinterest: https://www.pinterest.com/fender/

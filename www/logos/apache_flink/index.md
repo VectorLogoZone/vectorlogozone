@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/apache/flink
+images:
+- apache_flink-icon.svg
+- apache_flink-ar21.svg
 logohandle: apache_flink
 sort: flink
 tags:

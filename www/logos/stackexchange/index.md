@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/officialstackoverflow
+images:
+- stackexchange-ar21.svg
+- stackexchange-icon.svg
 linkedin: https://linkedin.com/company/stack-overflow
 logohandle: stackexchange
 sort: stackexchange

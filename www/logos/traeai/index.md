@@ -1,7 +1,10 @@
 ---
 colors:
-  - '#FF4A36'
+- '#FF4A36'
 discord: https://discord.gg/NV3MF24tAe
+images:
+- traeai-ar21.svg
+- traeai-icon.svg
 logohandle: traeai
 sort: traeai
 title: Trae AI

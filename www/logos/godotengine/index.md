@@ -2,6 +2,9 @@
 codehost: https://github.com/godotengine
 facebook: https://facebook.com/groups/godotengine
 guide: https://github.com/godotengine/godot/blob/master/logo.svg
+images:
+- godotengine-ar21.svg
+- godotengine-icon.svg
 logohandle: godotengine
 sort: godotengine
 title: Godot Engine

@@ -4,9 +4,9 @@ colors:
 - '#FFFC00'
 guide: https://www.snap.com/en-US/brand-guidelines/
 images:
-- snapchat-ar21.svg
-- snapchat-tile.svg
 - snapchat-icon.svg
+- snapchat-tile.svg
+- snapchat-ar21.svg
 logohandle: snapchat
 sort: snapchat
 title: Snapchat

@@ -1,6 +1,9 @@
 ---
 blog: http://formstack.com/blog
 facebook: https://facebook.com/Formstack
+images:
+- formstack-icon.svg
+- formstack-ar21.svg
 instagram: https://instagram.com/formstack
 linkedin: https://linkedin.com/company/formstack
 logohandle: formstack

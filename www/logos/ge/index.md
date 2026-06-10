@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/GE-Digital-888112767949156
+images:
+- ge-icon.svg
+- ge-ar21.svg
 instagram: http://instagram.com/generalelectric
 linkedin: https://linkedin.com/company/ge
 logohandle: ge

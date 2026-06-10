@@ -3,8 +3,8 @@ blog: http://planet.centos.org/
 codehost: https://github.com/CentOS
 guide: https://wiki.centos.org/ArtWork/Brand/Logo
 images:
-- centos-ar21.svg
 - centos-icon.svg
+- centos-ar21.svg
 logohandle: centos
 sort: centos
 title: CentOS

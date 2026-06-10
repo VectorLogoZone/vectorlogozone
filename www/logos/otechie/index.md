@@ -1,4 +1,7 @@
 ---
+images:
+- otechie-ar21.svg
+- otechie-icon.svg
 linkedin: https://linkedin.com/company/otechie
 logohandle: otechie
 sort: otechie

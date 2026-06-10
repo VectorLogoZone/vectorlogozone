@@ -1,5 +1,8 @@
 ---
 blog: https://blog.getguru.com/
+images:
+- getguru-icon.svg
+- getguru-ar21.svg
 linkedin: https://linkedin.com/company/getguru
 logohandle: getguru
 sort: getguru

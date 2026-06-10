@@ -1,6 +1,9 @@
 ---
 blog: https://babeljs.io/blog/
 codehost: https://github.com/babel/babel
+images:
+- babeljs-icon.svg
+- babeljs-ar21.svg
 logohandle: babeljs
 slack: https://slack.babeljs.io/
 sort: babeljs

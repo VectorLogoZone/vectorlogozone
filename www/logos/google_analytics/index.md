@@ -9,9 +9,13 @@ colors:
 guide: https://developers.google.com/analytics/terms/branding-policy
 images:
 - google_analytics-ar21.svg
-- google_analytics-horizontal.svg
-- google_analytics-official.svg
+- google_analytics-horizontal~old.svg
 - google_analytics-icon.svg
+- google_analytics-image.svg
+- google_analytics-ar21~old.svg
+- google_analytics-horizontal.svg
+- google_analytics-icon~old.svg
+- google_analytics-official.svg
 logohandle: google_analytics
 sort: google analytics
 tags:

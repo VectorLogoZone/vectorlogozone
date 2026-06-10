@@ -1,6 +1,7 @@
 ---
 facebook: https://facebook.com/infor
 images:
+- infor-icon.svg
 - infor-ar21.svg
 linkedin: http://linkedin.com/company/infor
 logohandle: infor

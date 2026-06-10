@@ -7,8 +7,8 @@ font:
   name: Printed Circuit Board
   url: https://www.dafont.com/printed-circuit-board.font
 images:
-- hp-icon.svg
 - hp-ar21.svg
+- hp-icon.svg
 logohandle: hp
 sort: hp
 title: Hewlett Packard

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/AriaSystems
+images:
+- ariasystems-icon.svg
+- ariasystems-ar21.svg
 linkedin: https://linkedin.com/company/43948
 logohandle: ariasystems
 sort: ariasystems

@@ -1,6 +1,9 @@
 ---
 blog: http://blog.mi.com/en
 facebook: https://facebook.com/xiaomiglobal
+images:
+- mi-icon.svg
+- mi-ar21.svg
 keywords:
 - xiaomi
 logohandle: mi

@@ -3,8 +3,8 @@ blog: https://blog.hyper.sh/
 codehost: https://github.com/hyperhq
 guide: https://github.com/hyperhq/www.hyper.sh/tree/master/logo
 images:
-- hyper_sh-icon.svg
 - hyper_sh-ar21.svg
+- hyper_sh-icon.svg
 logohandle: hyper_sh
 sort: hyper_sh
 title: hyper.sh

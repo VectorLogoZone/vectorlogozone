@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/Ericsson
+images:
+- ericsson-ar21.svg
+- ericsson-icon.svg
 linkedin: https://linkedin.com/company/Ericsson
 logohandle: ericsson
 sort: ericsson

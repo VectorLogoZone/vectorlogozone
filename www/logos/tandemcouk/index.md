@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Tandem-Bank-1682801535265376
+images:
+- tandemcouk-icon.svg
+- tandemcouk-ar21.svg
 linkedin: https://linkedin.com/company/tandem-bank
 logohandle: tandemcouk
 sort: tandem

@@ -6,9 +6,9 @@ font:
   name: Bookman Old Style
 guide: https://www.tumblr.com/logo
 images:
-- tumblr-ar21.svg
 - tumblr-tile.svg
 - tumblr-icon.svg
+- tumblr-ar21.svg
 logohandle: tumblr
 sort: tumblr
 tags:

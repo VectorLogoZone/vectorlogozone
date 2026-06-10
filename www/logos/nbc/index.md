@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/nbc
+images:
+- nbc-ar21.svg
+- nbc-icon.svg
+- nbc-wordmark.svg
 logohandle: nbc
 pinterest: https://pinterest.com/nbctv
 sort: nbc

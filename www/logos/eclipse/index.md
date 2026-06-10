@@ -2,8 +2,8 @@
 facebook: https://www.facebook.com/eclipse.org
 guide: https://www.eclipse.org/artwork/
 images:
-- eclipse-ar21.svg
 - eclipse-icon.svg
+- eclipse-ar21.svg
 linkedin: https://www.linkedin.com/company/eclipse-foundation
 logohandle: eclipse
 sort: eclipse

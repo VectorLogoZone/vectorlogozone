@@ -1,6 +1,9 @@
 ---
 blog: https://blog.litecoin.org/litecoin-core-v0-16-3-release-cdd7b6f17d11%27%3ERelease
 codehost: https://github.com/litecoin-project
+images:
+- litecoin-ar21.svg
+- litecoin-icon.svg
 logohandle: litecoin
 sort: litecoin
 title: Litecoin

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/tray.io
+images:
+- trayio-ar21.svg
+- trayio-icon.svg
 linkedin: https://linkedin.com/company/tray-io
 logohandle: trayio
 sort: tray

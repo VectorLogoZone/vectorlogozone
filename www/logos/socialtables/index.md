@@ -1,6 +1,9 @@
 ---
 blog: https://socialtables.com/blog
 facebook: https://facebook.com/socialtables
+images:
+- socialtables-ar21.svg
+- socialtables-icon.svg
 instagram: https://instagram.com/socialtables
 linkedin: https://linkedin.com/company/1990961
 logohandle: socialtables

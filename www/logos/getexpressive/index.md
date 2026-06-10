@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/zendframework/zend-expressive
+images:
+- getexpressive-ar21.svg
+- getexpressive-icon.svg
 logohandle: getexpressive
 sort: getexpressive
 title: Expressive

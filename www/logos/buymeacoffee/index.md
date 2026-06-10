@@ -6,8 +6,8 @@ colors:
 guide: https://www.buymeacoffee.com/brand
 images:
 - buymeacoffee-icon.svg
-- buymeacoffee-official.svg
 - buymeacoffee-ar21.svg
+- buymeacoffee-official.svg
 instagram: https://www.instagram.com/thebuymeacoffee/
 logohandle: buymeacoffee
 sort: buymeacoffee

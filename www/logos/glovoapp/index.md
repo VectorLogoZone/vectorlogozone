@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/glovoappES
+images:
+- glovoapp-icon.svg
+- glovoapp-ar21.svg
 instagram: https://instagram.com/glovo_es
 logohandle: glovoapp
 sort: glovoapp

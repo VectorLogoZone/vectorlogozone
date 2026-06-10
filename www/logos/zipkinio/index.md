@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/openzipkin/zipkin
+images:
+- zipkinio-ar21.svg
+- zipkinio-icon.svg
 logohandle: zipkinio
 sort: zipkin
 title: OpenZipkin

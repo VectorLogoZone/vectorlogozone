@@ -1,6 +1,9 @@
 ---
 blog: https://blog.glowforge.com/
 facebook: https://facebook.com/glowforge
+images:
+- glowforge-ar21.svg
+- glowforge-icon.svg
 instagram: https://instagram.com/glowforge
 logohandle: glowforge
 pinterest: https://pinterest.com/glowforge

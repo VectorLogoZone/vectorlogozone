@@ -2,6 +2,9 @@
 blog: https://blog.bugsnag.com/
 codehost: https://github.com/bugsnag
 dribbble: https://dribbble.com/bugsnag
+images:
+- bugsnag-icon.svg
+- bugsnag-ar21.svg
 logohandle: bugsnag
 sort: bugsnag
 title: Bugsnag

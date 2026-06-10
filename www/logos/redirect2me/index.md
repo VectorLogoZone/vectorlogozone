@@ -3,6 +3,7 @@ font:
   name: Helvetica Neue
 images:
 - redirect2me-ar21.svg
+- redirect2me-tile.svg
 - redirect2me-icon.svg
 logohandle: redirect2me
 sort: redirect2me

@@ -2,8 +2,8 @@
 blog: https://tyk.io/blog/
 codehost: https://github.com/TykTechnologies
 images:
-- tyk-ar21.svg
 - tyk-icon.svg
+- tyk-ar21.svg
 logohandle: tyk
 sort: tyk
 title: Tyk

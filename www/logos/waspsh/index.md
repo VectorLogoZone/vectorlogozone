@@ -6,6 +6,9 @@ font:
   google: https://fonts.google.com/specimen/Inter
   name: Inter
   url: https://rsms.me/inter/
+images:
+- waspsh-ar21.svg
+- waspsh-icon.svg
 logohandle: waspsh
 sort: waspsh
 title: Wasp

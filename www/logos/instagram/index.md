@@ -6,10 +6,10 @@ font:
   name: Billabong
 guide: https://en.instagram-brand.com/
 images:
-- instagram-icon.svg
-- instagram-ar21.svg
 - instagram-wordmark.svg
+- instagram-ar21.svg
 - instagram-tile.svg
+- instagram-icon.svg
 logohandle: instagram
 sort: instagram
 tags:

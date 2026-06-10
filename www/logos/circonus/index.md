@@ -1,6 +1,9 @@
 ---
 blog: https://circonus.com/blog
 codehost: https://github.com/circonus-labs
+images:
+- circonus-ar21.svg
+- circonus-icon.svg
 linkedin: http://linkedin.com/company/circonus
 logohandle: circonus
 sort: circonus

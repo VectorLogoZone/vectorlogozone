@@ -2,8 +2,8 @@
 codehost: https://github.com/mitchellh/vagrant
 images:
 - vagrantup-official.svg
-- vagrantup-ar21.svg
 - vagrantup-icon.svg
+- vagrantup-ar21.svg
 logohandle: vagrantup
 sort: vagrant
 tags:

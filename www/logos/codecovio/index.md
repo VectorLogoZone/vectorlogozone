@@ -2,8 +2,8 @@
 codehost: https://github.com/codecov
 guide: https://github.com/codecov/media/tree/master/logos
 images:
-- codecovio-icon.svg
 - codecovio-ar21.svg
+- codecovio-icon.svg
 logohandle: codecovio
 sort: codecov
 title: Codecov

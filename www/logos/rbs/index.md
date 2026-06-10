@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/royalbankofscotland
+images:
+- rbs-icon.svg
+- rbs-ar21.svg
 instagram: http://www.instagram.com/royalbank
 linkedin: http://linkedin.com/company/royal-bank-of-scotland
 logohandle: rbs

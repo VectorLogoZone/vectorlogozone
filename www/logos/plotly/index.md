@@ -3,6 +3,10 @@ blog: https://medium.com/plotly
 codehost: https://github.com/plotly
 facebook: https://facebook.com/Plotly
 guide: https://brand.plot.ly/
+images:
+- plotly-icon.svg
+- plotly-ar21.svg
+- plotly-official.svg
 instagram: https://instagram.com/plotly
 logohandle: plotly
 redirect_from: /logos/plot_ly/index.html

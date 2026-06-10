@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/joomla
 facebook: https://facebook.com/joomla
+images:
+- joomla-ar21.svg
+- joomla-icon.svg
 instagram: https://instagram.com/joomlaofficial
 linkedin: https://linkedin.com/company/joomla
 logohandle: joomla

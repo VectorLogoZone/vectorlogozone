@@ -1,6 +1,9 @@
 ---
 blog: https://www.icann.org/news/blog
 facebook: http://facebook.com/icannorg
+images:
+- icann-ar21.svg
+- icann-icon.svg
 linkedin: https://linkedin.com/company/icann
 logohandle: icann
 sort: icann

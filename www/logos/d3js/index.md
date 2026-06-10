@@ -1,8 +1,8 @@
 ---
 codehost: https://github.com/d3/d3
 images:
-- d3js-icon.svg
 - d3js-ar21.svg
+- d3js-icon.svg
 logohandle: d3js
 sort: d3
 tags:

@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/cnn
+images:
+- cnn-wordmark.svg
+- cnn-icon.svg
+- cnn-ar21.svg
 instagram: https://instagram.com/cnn
 logohandle: cnn
 sort: cnn

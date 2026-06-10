@@ -1,6 +1,9 @@
 ---
 blog: https://riada.se/blog
 facebook: https://facebook.com/RiadaAB%27
+images:
+- riadase-ar21.svg
+- riadase-icon.svg
 linkedin: https://linkedin.com/company/riada-ab%27
 logohandle: riadase
 sort: riada

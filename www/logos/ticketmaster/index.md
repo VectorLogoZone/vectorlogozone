@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/Ticketmaster
+images:
+- ticketmaster-icon.svg
+- ticketmaster-ar21.svg
 instagram: https://www.instagram.com/ticketmaster/
 linkedin: https://www.linkedin.com/company/ticketmaster
 logohandle: ticketmaster

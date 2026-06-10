@@ -1,5 +1,8 @@
 ---
 blog: https://tails.boum.org/news/index.en.html
+images:
+- boum_tails-ar21.svg
+- boum_tails-icon.svg
 logohandle: boum_tails
 sort: tails
 title: Tails

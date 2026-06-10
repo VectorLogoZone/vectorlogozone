@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/saucelabs
+images:
+- saucelabs-icon.svg
+- saucelabs-ar21.svg
 linkedin: https://linkedin.com/company/891955
 logohandle: saucelabs
 sort: saucelabs

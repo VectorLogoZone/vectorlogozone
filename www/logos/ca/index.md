@@ -1,5 +1,8 @@
 ---
 facebook: http://www.facebook.com/CATechnologies
+images:
+- ca-ar21.svg
+- ca-icon.svg
 linkedin: http://www.linkedin.com/company/ca-technologies
 logohandle: ca
 sort: ca

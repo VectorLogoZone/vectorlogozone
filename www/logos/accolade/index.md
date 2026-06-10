@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/AccoladeInc
+images:
+- accolade-icon.svg
+- accolade-ar21.svg
 instagram: https://instagram.com/we_are_accolade/
 linkedin: https://linkedin.com/company-beta/579052
 logohandle: accolade

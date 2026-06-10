@@ -1,6 +1,9 @@
 ---
 blog: https://cloudbees.com/blog
 facebook: https://facebook.com/CloudBees
+images:
+- cloudbees-ar21.svg
+- cloudbees-icon.svg
 linkedin: https://linkedin.com/company/cloudbees
 logohandle: cloudbees
 sort: cloudbees

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/rbc
+images:
+- rbcroyalbank-ar21.svg
+- rbcroyalbank-icon.svg
 instagram: https://instagram.com/rbc
 linkedin: https://linkedin.com/company/rbc
 logohandle: rbcroyalbank

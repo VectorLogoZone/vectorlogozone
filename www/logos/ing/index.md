@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/ing
+images:
+- ing-icon.svg
+- ing-ar21.svg
 linkedin: https://linkedin.com/company/ing
 logohandle: ing
 sort: ing

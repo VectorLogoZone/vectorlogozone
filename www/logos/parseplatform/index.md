@@ -2,6 +2,9 @@
 blog: https://github.com/parse-community/blog
 codehost: https://github.com/parse-community
 facebook: https://facebook.com/parseit
+images:
+- parseplatform-icon.svg
+- parseplatform-ar21.svg
 logohandle: parseplatform
 sort: parseplatform
 title: Parse Platform

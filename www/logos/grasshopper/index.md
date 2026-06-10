@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/grasshopper
+images:
+- grasshopper-ar21.svg
+- grasshopper-icon.svg
 linkedin: http://linkedin.com/company/grasshopper
 logohandle: grasshopper
 sort: grasshopper

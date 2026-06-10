@@ -3,6 +3,9 @@ activitypub: https://fosstodon.org/@vulkan
 bluesky: https://bsky.app/profile/vulkan.org
 codehost: https://github.com/KhronosGroup/Vulkan-Docs
 discord: https://discord.gg/vulkan
+images:
+- vulkan-ar21.svg
+- vulkan-icon.svg
 logohandle: vulkan
 other:
 - name: Discourse

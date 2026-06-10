@@ -1,6 +1,9 @@
 ---
 blog: https://docusign.com/blog
 facebook: https://facebook.com/DocuSign
+images:
+- docusign-ar21.svg
+- docusign-icon.svg
 instagram: http://www.instagram.com/docusign
 linkedin: https://linkedin.com/company/docusign
 logohandle: docusign

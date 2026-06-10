@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/AutomatticInc
+images:
+- automattic-icon.svg
+- automattic-ar21.svg
 logohandle: automattic
 sort: automattic
 title: Automattic

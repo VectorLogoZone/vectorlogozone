@@ -2,8 +2,8 @@
 blog: https://www.linux.com/news
 codehost: https://github.com/torvalds/linux
 images:
-- linux-icon.svg
 - linux-ar21.svg
+- linux-icon.svg
 logohandle: linux
 sort: linux
 title: Linux

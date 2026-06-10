@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/InternetSociety
+images:
+- internetsociety-ar21.svg
+- internetsociety-icon.svg
 instagram: https://instagram.com/internetsociety
 logohandle: internetsociety
 sort: internetsociety

@@ -1,5 +1,8 @@
 ---
 blog: http://blog.getpostman.com/
+images:
+- getpostman-ar21.svg
+- getpostman-icon.svg
 linkedin: https://linkedin.com/company/postman-api-tools-
 logohandle: getpostman
 sort: getpostman

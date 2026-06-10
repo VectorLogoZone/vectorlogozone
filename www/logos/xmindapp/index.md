@@ -2,6 +2,9 @@
 discord: https://discord.gg/2BmSWujkq9
 facebook: https://www.facebook.com/XmindHQ/
 guide: https://xmind.app/brand-identity/
+images:
+- xmindapp-icon.svg
+- xmindapp-ar21.svg
 instagram: https://www.instagram.com/xmind.app/
 linkedin: https://www.linkedin.com/company/xmind-ltd/
 logohandle: xmindapp

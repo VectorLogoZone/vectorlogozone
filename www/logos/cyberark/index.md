@@ -1,6 +1,9 @@
 ---
 blog: https://cyberark.com/blog
 facebook: https://facebook.com/CyberArk
+images:
+- cyberark-ar21.svg
+- cyberark-icon.svg
 linkedin: https://linkedin.com/company/cyber-ark-software
 logohandle: cyberark
 sort: cyberark

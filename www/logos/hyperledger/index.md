@@ -1,6 +1,9 @@
 ---
 blog: https://hyperledger.org/blog
 facebook: https://facebook.com/hyperledger
+images:
+- hyperledger-icon.svg
+- hyperledger-ar21.svg
 linkedin: https://linkedin.com/company/hyperledger-project
 logohandle: hyperledger
 sort: hyperledger

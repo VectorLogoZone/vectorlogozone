@@ -3,8 +3,8 @@ blog: https://cucumber.io/blog
 codehost: https://github.com/cucumber
 gitter: https://gitter.im/orgs/cucumber/rooms
 images:
-- cucumberio-ar21.svg
 - cucumberio-icon.svg
+- cucumberio-ar21.svg
 logohandle: cucumberio
 sort: cucumberio
 title: Cucumber

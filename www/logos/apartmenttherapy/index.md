@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/apartmenttherapy
+images:
+- apartmenttherapy-ar21.svg
+- apartmenttherapy-icon.svg
 instagram: https://instagram.com/apartmenttherapy
 logohandle: apartmenttherapy
 pinterest: https://pinterest.com/apttherapy

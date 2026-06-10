@@ -2,6 +2,9 @@
 blog: https://revolt.chat/updates
 bluesky: https://bsky.app/profile/revolt.chat
 codehost: https://github.com/revoltchat
+images:
+- revoltchat-ar21.svg
+- revoltchat-icon.svg
 logohandle: revoltchat
 other:
 - name: Revolt Chat

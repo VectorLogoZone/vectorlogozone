@@ -4,11 +4,11 @@ colors:
 - '#005A9C'
 guide: https://www.w3.org/2009/08/svg-logos.html
 images:
-- w3_svg-icon.svg
-- w3_svg-official.svg
 - w3_svg-vertical.svg
-- w3_svg-tile.svg
+- w3_svg-official.svg
 - w3_svg-ar21.svg
+- w3_svg-tile.svg
+- w3_svg-icon.svg
 logohandle: w3_svg
 sort: svg
 title: SVG

@@ -1,8 +1,9 @@
 ---
-colors: ['#A81C7D']
+colors:
+- '#A81C7D'
 images:
-- apache_ant-icon.svg
 - apache_ant-official.svg
+- apache_ant-icon.svg
 - apache_ant-ar21.svg
 logohandle: apache_ant
 sort: ant

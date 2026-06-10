@@ -1,8 +1,8 @@
 ---
 facebook: http://www.facebook.com/openculture
 images:
-- openculture-ar21.svg
 - openculture-icon.svg
+- openculture-ar21.svg
 logohandle: openculture
 sort: openculture
 title: Open Culture

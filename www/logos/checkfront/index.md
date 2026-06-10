@@ -2,6 +2,9 @@
 blog: https://www.checkfront.com/blog
 facebook: https://facebook.com/checkfront.bookings
 guide: https://www.checkfront.com/brand-guidelines
+images:
+- checkfront-icon.svg
+- checkfront-ar21.svg
 instagram: https://instagram.com/checkfront.bookings
 linkedin: https://linkedin.com/company/checkfront-inc
 logohandle: checkfront

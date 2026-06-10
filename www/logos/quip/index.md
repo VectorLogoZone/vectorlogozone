@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/quip
+images:
+- quip-ar21.svg
+- quip-icon.svg
 logohandle: quip
 sort: quip
 title: Quip

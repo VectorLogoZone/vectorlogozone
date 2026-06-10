@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/nationalreview
+images:
+- nationalreview-icon.svg
+- nationalreview-ar21.svg
 instagram: https://instagram.com/nationalreview
 logohandle: nationalreview
 sort: nationalreview

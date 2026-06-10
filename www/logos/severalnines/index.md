@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/pages/Severalnines/104774439598301
+images:
+- severalnines-icon.svg
+- severalnines-ar21.svg
 linkedin: http://linkedin.com/company/severalnines
 logohandle: severalnines
 sort: severalnines

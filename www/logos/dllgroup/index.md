@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/dllgroup
+images:
+- dllgroup-ar21.svg
+- dllgroup-icon.svg
 linkedin: https://linkedin.com/company/dllgroup
 logohandle: dllgroup
 sort: dll

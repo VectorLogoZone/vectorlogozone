@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/electron
+images:
+- electronjs-icon.svg
+- electronjs-ar21.svg
 logohandle: electronjs
 sort: electronjs
 title: Electron

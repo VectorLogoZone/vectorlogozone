@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/SDxCentral
+images:
+- sdxcentral-ar21.svg
+- sdxcentral-icon.svg
 linkedin: https://linkedin.com/groups/SDNCentral-1-SoftwareDefined-Networking-Network-4156686
 logohandle: sdxcentral
 sort: sdxcentral

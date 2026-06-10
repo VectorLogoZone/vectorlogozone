@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/clojure/clojure
+images:
+- clojure-ar21.svg
+- clojure-icon.svg
 logohandle: clojure
 sort: clojure
 title: Clojure

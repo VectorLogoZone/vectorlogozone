@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Nextcloud-1032807203462807/
+images:
+- nextcloud-ar21.svg
+- nextcloud-icon.svg
 instagram: https://instagram.com/nextclouders
 linkedin: https://linkedin.com/company/10827569/
 logohandle: nextcloud

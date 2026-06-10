@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/omise
 facebook: https://facebook.com/Omise
+images:
+- omiseco-ar21.svg
+- omiseco-icon.svg
 logohandle: omiseco
 sort: omise
 title: Omise

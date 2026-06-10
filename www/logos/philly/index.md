@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/phillydotcom
+images:
+- philly-icon.svg
+- philly-ar21.svg
 logohandle: philly
 sort: philly
 title: Philly.com

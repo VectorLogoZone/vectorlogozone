@@ -6,8 +6,8 @@ font:
   myfonts: https://www.myfonts.com/fonts/typodermic/nasalization/
   name: Nasalization Medium
 images:
-- nasa-icon.svg
 - nasa-ar21.svg
+- nasa-icon.svg
 logohandle: nasa
 sort: nasa
 title: NASA

@@ -4,8 +4,8 @@ codehost: https://github.com/yelp
 facebook: https://www.facebook.com/yelp/
 guide: https://www.yelp.com/brand
 images:
-- yelp-ar21.svg
 - yelp-icon.svg
+- yelp-ar21.svg
 linkedin: https://www.linkedin.com/company/31517/
 logohandle: yelp
 sort: yelp

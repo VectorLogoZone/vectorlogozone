@@ -1,6 +1,9 @@
 ---
 blog: https://pingcap.com/blog
 codehost: https://github.com/pingcap
+images:
+- pingcap-ar21.svg
+- pingcap-icon.svg
 linkedin: https://linkedin.com/company/pingcap
 logohandle: pingcap
 sort: pingcap

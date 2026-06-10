@@ -1,4 +1,7 @@
 ---
+images:
+- videolan-ar21.svg
+- videolan-icon.svg
 logohandle: videolan
 sort: videolan
 title: VideoLAN

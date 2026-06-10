@@ -2,9 +2,9 @@
 blog: https://blog.opentable.com/
 facebook: https://www.facebook.com/opentable
 images:
+- opentable-official.svg
 - opentable-ar21.svg
 - opentable-icon.svg
-- opentable-official.svg
 logohandle: opentable
 sort: opentable
 title: OpenTable

@@ -1,6 +1,9 @@
 ---
 blog: https://filecoin.io/blog/
 codehost: https://github.com/filecoin-project
+images:
+- filecoinio-icon.svg
+- filecoinio-ar21.svg
 logohandle: filecoinio
 sort: filecoin
 title: Filecoin

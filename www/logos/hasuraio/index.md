@@ -3,6 +3,9 @@ blog: https://blog.hasura.io/
 codehost: https://github.com/hasura
 discord: https://discord.gg/vBPpJkS
 facebook: https://www.facebook.com/HasuraHQ/
+images:
+- hasuraio-icon.svg
+- hasuraio-ar21.svg
 instagram: https://instagram.com/hasurahq
 linkedin: https://linkedin.com/company/hasura
 logohandle: hasuraio

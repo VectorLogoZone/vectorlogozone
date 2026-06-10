@@ -1,7 +1,7 @@
 ---
 images:
-- google_appengine-ar21.svg
 - google_appengine-icon.svg
+- google_appengine-ar21.svg
 logohandle: google_appengine
 sort: appengine
 tags:

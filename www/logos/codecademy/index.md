@@ -8,8 +8,8 @@ font:
   name: DIN Next (customized)
   url: https://www.linotype.com/5798/din-next.html
 images:
-- codecademy-ar21.svg
 - codecademy-icon.svg
+- codecademy-ar21.svg
 instagram: https://www.instagram.com/codecademy/
 logohandle: codecademy
 sort: codecademy

@@ -2,12 +2,12 @@
 blog: http://blog.jquery.com/
 codehost: https://github.com/jquery
 images:
-- jquery-wordmark.svg
-- jquery-vertical.svg
-- jquery-horizontal.svg
-- jquery-ar21.svg
-- jquery-icon.svg
 - jquery-official.svg
+- jquery-wordmark.svg
+- jquery-ar21.svg
+- jquery-vertical.svg
+- jquery-icon.svg
+- jquery-horizontal.svg
 logohandle: jquery
 sort: jquery
 tags:

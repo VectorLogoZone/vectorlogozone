@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/Huawei
+images:
+- huawei-ar21.svg
+- huawei-icon.svg
 linkedin: http://linkedin.com/company/huawei
 logohandle: huawei
 sort: huawei

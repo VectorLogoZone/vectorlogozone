@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/openstack/magnum
+images:
+- catalystcloud-icon.svg
+- catalystcloud-ar21.svg
 logohandle: catalystcloud
 sort: catalystcloud
 title: Catalyst Cloud

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/AtomBankOfficial
+images:
+- atombank-ar21.svg
+- atombank-icon.svg
 instagram: https://instagram.com/atom.bank
 linkedin: https://linkedin.com/company/atom-bank
 logohandle: atombank

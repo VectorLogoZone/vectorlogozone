@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/maprtech
+images:
+- mapr-icon.svg
+- mapr-ar21.svg
 linkedin: https://linkedin.com/company/mapr-technologies
 logohandle: mapr
 sort: mapr

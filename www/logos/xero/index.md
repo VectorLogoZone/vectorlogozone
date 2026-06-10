@@ -1,6 +1,9 @@
 ---
 blog: https://xero.com/blog
 facebook: https://facebook.com/Xero.Accounting
+images:
+- xero-ar21.svg
+- xero-icon.svg
 instagram: https://instagram.com/xero
 linkedin: https://linkedin.com/company/xero
 logohandle: xero

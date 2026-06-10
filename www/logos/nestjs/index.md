@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/nestjs/nest
 dribbble: https://dribbble.com/JakubStaron
+images:
+- nestjs-ar21.svg
+- nestjs-icon.svg
 logohandle: nestjs
 sort: nestjs
 title: Nest.js

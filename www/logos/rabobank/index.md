@@ -1,5 +1,8 @@
 ---
 facebook: http://www.facebook.com/rabobank
+images:
+- rabobank-icon.svg
+- rabobank-ar21.svg
 logohandle: rabobank
 sort: rabobank
 title: Rabobank

@@ -8,6 +8,7 @@ colors:
 facebook: https://www.facebook.com/gitlab
 guide: https://about.gitlab.com/press/
 images:
+- gitlab-tile.svg
 - gitlab-icon.svg
 - gitlab-ar21.svg
 linkedin: https://www.linkedin.com/company/gitlab-com

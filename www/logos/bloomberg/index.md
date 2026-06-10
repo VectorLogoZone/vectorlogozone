@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/Bloomberglp
+images:
+- bloomberg-ar21.svg
+- bloomberg-icon.svg
 instagram: https://instagram.com/bloomberg
 linkedin: https://linkedin.com/company/2494
 logohandle: bloomberg

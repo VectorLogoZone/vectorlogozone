@@ -1,6 +1,10 @@
 ---
 activitypub: https://mastodon.social/@csstricks
 facebook: https://facebook.com/CSSTricks
+images:
+- css-tricks-wordmark.svg
+- css-tricks-ar21.svg
+- css-tricks-icon.svg
 instagram: https://instagram.com/real_css_tricks
 logohandle: css-tricks
 sort: css-tricks

@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/neovim/neovim
 guide: https://neovim.io/logos/neovim-logos.zip
+images:
+- neovimio-ar21.svg
+- neovimio-icon.svg
 logohandle: neovimio
 sort: neovim
 title: Neovim

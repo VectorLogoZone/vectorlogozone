@@ -1,6 +1,9 @@
 ---
 blog: https://pir.org/blog
 facebook: https://facebook.com/PIRegistry
+images:
+- pir-ar21.svg
+- pir-icon.svg
 instagram: http://instagram.com/piregistry
 logohandle: pir
 sort: pir

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/CardConnectPayments
+images:
+- cardconnect-ar21.svg
+- cardconnect-icon.svg
 instagram: https://instagram.com/card_connect
 linkedin: https://linkedin.com/company/cardconnect
 logohandle: cardconnect

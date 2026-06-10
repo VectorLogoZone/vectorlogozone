@@ -1,6 +1,9 @@
 ---
 blog: https://medium.com/meetup
 facebook: https://facebook.com/meetup
+images:
+- meetup-icon.svg
+- meetup-ar21.svg
 instagram: https://instagram.com/meetup
 logohandle: meetup
 sort: meetup

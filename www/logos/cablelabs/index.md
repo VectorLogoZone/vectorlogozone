@@ -2,6 +2,9 @@
 blog: https://blog.github.com/
 codehost: https://github.com/cablelabs
 facebook: https://www.facebook.com/cablelabsinc/
+images:
+- cablelabs-icon.svg
+- cablelabs-ar21.svg
 linkedin: http://www.linkedin.com/company/14315
 logohandle: cablelabs
 sort: cablelabs

@@ -1,4 +1,7 @@
 ---
+images:
+- barclays-ar21.svg
+- barclays-icon.svg
 logohandle: barclays
 sort: barclays
 title: Barclays

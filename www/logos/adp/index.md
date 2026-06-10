@@ -1,4 +1,7 @@
 ---
+images:
+- adp-icon.svg
+- adp-ar21.svg
 linkedin: http://www.linkedin.com/company/adp
 logohandle: adp
 slideshare: https://www.slideshare.net/adp

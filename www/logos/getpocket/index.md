@@ -3,7 +3,9 @@ blog: http://getpocket.com/blog/
 codehost: https://github.com/pocket
 facebook: https://facebook.com/pocket
 images:
+- getpocket-ar21.svg
 - getpocket-tile.svg
+- getpocket-icon.svg
 instagram: https://instagram.com/pocket
 logohandle: getpocket
 sort: pocket

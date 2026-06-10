@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/flexera
+images:
+- flexera-icon.svg
+- flexera-ar21.svg
 instagram: https://instagram.com/weareflexera
 linkedin: https://linkedin.com/company/flexera
 logohandle: flexera

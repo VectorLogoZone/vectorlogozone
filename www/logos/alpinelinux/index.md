@@ -1,4 +1,7 @@
 ---
+images:
+- alpinelinux-icon.svg
+- alpinelinux-ar21.svg
 logohandle: alpinelinux
 sort: alpinelinux
 title: Alpine Linux

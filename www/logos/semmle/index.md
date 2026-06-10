@@ -1,8 +1,10 @@
 ---
-linkedin: 'https://linkedin.com/company/semmle'
+images:
+- semmle-ar21.svg
+- semmle-icon.svg
+linkedin: https://linkedin.com/company/semmle
 logohandle: semmle
 sort: semmle
 title: Semmle
-website: 'https://semmle.com/'
+website: https://semmle.com/
 ---
-

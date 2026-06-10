@@ -6,11 +6,11 @@ font:
   name: Flux Regular
 guide: https://www.python.org/community/logos/
 images:
+- python-official.svg
 - python-ar21.svg
 - python-icon.svg
-- python-horizontal.svg
-- python-official.svg
 - python-vertical.svg
+- python-horizontal.svg
 logohandle: python
 sort: python
 tags:

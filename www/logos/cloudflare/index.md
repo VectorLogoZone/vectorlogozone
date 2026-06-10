@@ -9,8 +9,8 @@ discord: https://discord.com/invite/cloudflaredev
 facebook: https://www.facebook.com/Cloudflare/
 guide: https://www.cloudflare.com/logo/
 images:
-- cloudflare-official.svg
 - cloudflare-icon.svg
+- cloudflare-official.svg
 - cloudflare-ar21.svg
 linkedin: https://www.linkedin.com/company/407222
 logohandle: cloudflare

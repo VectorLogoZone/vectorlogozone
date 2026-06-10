@@ -3,8 +3,8 @@ blog: https://blog.meteor.com/
 codehost: https://github.com/meteor
 facebook: https://www.facebook.com/meteorjs/
 images:
-- meteor-ar21.svg
 - meteor-icon.svg
+- meteor-ar21.svg
 logohandle: meteor
 sort: meteor
 title: Meteor

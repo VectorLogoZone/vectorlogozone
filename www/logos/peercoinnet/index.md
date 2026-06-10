@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/peercoin
 facebook: https://facebook.com/Peercoin
+images:
+- peercoinnet-ar21.svg
+- peercoinnet-icon.svg
 logohandle: peercoinnet
 sort: peercoin
 title: Peercoin

@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/photonstorm/phaser
+images:
+- phaserio-icon.svg
+- phaserio-ar21.svg
 logohandle: phaserio
 sort: phaser
 title: Phaser

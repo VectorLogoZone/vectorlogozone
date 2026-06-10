@@ -1,6 +1,9 @@
 ---
 blog: https://cdt.org/blog
 facebook: https://facebook.com/CenDemTech
+images:
+- cdt-icon.svg
+- cdt-ar21.svg
 linkedin: https://linkedin.com/company/center-for-democracy-&-technology
 logohandle: cdt
 sort: cdt

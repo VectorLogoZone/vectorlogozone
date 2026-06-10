@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/Shell
+images:
+- shell-ar21.svg
+- shell-icon.svg
 instagram: http://instagram.com/shell
 linkedin: http://linkedin.com/company/shell
 logohandle: shell

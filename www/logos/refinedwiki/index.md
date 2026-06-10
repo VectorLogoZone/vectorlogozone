@@ -1,6 +1,9 @@
 ---
 blog: https://refinedwiki.com/blog
 facebook: https://facebook.com/RefinedWiki
+images:
+- refinedwiki-icon.svg
+- refinedwiki-ar21.svg
 instagram: https://instagram.com/refinedwiki
 linkedin: https://linkedin.com/company/2232657
 logohandle: refinedwiki

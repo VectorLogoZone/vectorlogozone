@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Collaboraltd
+images:
+- collabora-ar21.svg
+- collabora-icon.svg
 linkedin: https://linkedin.com/company/collabora
 logohandle: collabora
 sort: collabora

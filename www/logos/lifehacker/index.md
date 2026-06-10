@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/lifehacker
+images:
+- lifehacker-icon.svg
+- lifehacker-ar21.svg
+- lifehacker-wordmark.svg
 instagram: https://instagram.com/lifehackerdotcom
 logohandle: lifehacker
 sort: lifehacker

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/wired
+images:
+- wired-icon.svg
+- wired-ar21.svg
 instagram: https://instagram.com/wired
 logohandle: wired
 pinterest: https://pinterest.com/wired

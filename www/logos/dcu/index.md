@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/DigitalFederalCreditUnion
+images:
+- dcu-icon.svg
+- dcu-ar21.svg
 instagram: https://instagram.com/dcucreditunion
 logohandle: dcu
 sort: dcu

@@ -1,5 +1,8 @@
 ---
 blog: https://redpoint.com/blog
+images:
+- redpoint-icon.svg
+- redpoint-ar21.svg
 linkedin: http://linkedin.com/company/redpointventures
 logohandle: redpoint
 sort: redpoint

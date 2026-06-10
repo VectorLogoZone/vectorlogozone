@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/GoCardless
+images:
+- gocardless-ar21.svg
+- gocardless-icon.svg
 linkedin: https://linkedin.com/company/gocardless
 logohandle: gocardless
 sort: gocardless

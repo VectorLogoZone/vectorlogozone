@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/debezium
+images:
+- debeziumio-icon.svg
+- debeziumio-ar21.svg
 logohandle: debeziumio
 sort: debezium
 title: Debezium

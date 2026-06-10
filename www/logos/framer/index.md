@@ -2,6 +2,9 @@
 blog: https://medium.com/@framerteam
 dribbble: https://dribbble.com/framer
 facebook: https://facebook.com/framerjs
+images:
+- framer-ar21.svg
+- framer-icon.svg
 logohandle: framer
 sort: framer
 title: Framer

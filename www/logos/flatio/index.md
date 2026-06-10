@@ -2,6 +2,9 @@
 blog: https://blog.flat.io/
 codehost: https://github.com/FlatIO
 facebook: https://facebook.com/flat.io
+images:
+- flatio-ar21.svg
+- flatio-icon.svg
 instagram: https://instagram.com/flat.io
 linkedin: https://linkedin.com/company/flat-io
 logohandle: flatio

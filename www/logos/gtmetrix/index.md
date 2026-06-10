@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/gtmetrix
+images:
+- gtmetrix-icon.svg
+- gtmetrix-ar21.svg
 logohandle: gtmetrix
 sort: gtmetrix
 title: GTmetrix

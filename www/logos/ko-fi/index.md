@@ -1,4 +1,7 @@
 ---
+images:
+- ko-fi-icon.svg
+- ko-fi-ar21.svg
 logohandle: ko-fi
 sort: ko-fi
 title: Ko-fi

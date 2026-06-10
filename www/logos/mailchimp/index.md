@@ -1,6 +1,9 @@
 ---
 blog: http://blog.mailchimp.com/
 facebook: https://facebook.com/mailchimp/
+images:
+- mailchimp-icon.svg
+- mailchimp-ar21.svg
 instagram: https://instagram.com/mailchimp/
 linkedin: https://linkedin.com/company/mailchimp
 logohandle: mailchimp

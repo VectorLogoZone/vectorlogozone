@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/sbt/sbt
+images:
+- scala-sbt-ar21.svg
+- scala-sbt-icon.svg
 logohandle: scala-sbt
 sort: sbt
 title: sbt

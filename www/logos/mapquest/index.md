@@ -4,8 +4,8 @@ codehost: https://github.com/MapQuest
 facebook: https://www.facebook.com/MapQuest
 guide: http://hello.mapquest.com/press/
 images:
-- mapquest-ar21.svg
 - mapquest-icon.svg
+- mapquest-ar21.svg
 logohandle: mapquest
 sort: mapquest
 tags:

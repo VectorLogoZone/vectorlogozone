@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/django
+images:
+- djangoproject-icon.svg
+- djangoproject-ar21.svg
 logohandle: djangoproject
 sort: djangoproject
 title: Django

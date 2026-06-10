@@ -1,8 +1,8 @@
 ---
 facebook: https://facebook.com/openshift
 images:
-- openshift-icon.svg
 - openshift-ar21.svg
+- openshift-icon.svg
 logohandle: openshift
 sort: openshift
 title: OpenShift

@@ -1,4 +1,7 @@
 ---
+images:
+- grails-ar21.svg
+- grails-icon.svg
 logohandle: grails
 sort: grails
 title: Grails

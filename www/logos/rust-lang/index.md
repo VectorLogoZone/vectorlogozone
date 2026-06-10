@@ -11,6 +11,8 @@ guide: https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/
 images:
 - rust-lang-icon.svg
 - rust-lang-ar21.svg
+- rust-lang-official.svg
+- rust-lang-vertical.svg
 logohandle: rust-lang
 sort: rust
 tags:

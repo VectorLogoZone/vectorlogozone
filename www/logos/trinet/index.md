@@ -1,6 +1,9 @@
 ---
 blog: https://www.trinet.com/hr-insights/blog/
 facebook: https://facebook.com/TriNetHR
+images:
+- trinet-ar21.svg
+- trinet-icon.svg
 linkedin: https://linkedin.com/company/trinet
 logohandle: trinet
 sort: trinet

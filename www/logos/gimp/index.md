@@ -2,9 +2,9 @@
 blog: https://www.gimp.org/news/
 facebook: https://www.facebook.com/gimpofficial/
 images:
+- gimp-icon.svg
 - gimp-wordmark.svg
 - gimp-ar21.svg
-- gimp-icon.svg
 logohandle: gimp
 sort: gimp
 tags:

@@ -1,6 +1,9 @@
 ---
 blog: https://blog.aquasec.com/
 facebook: https://facebook.com/AquaSecTeam
+images:
+- aquasec-ar21.svg
+- aquasec-icon.svg
 linkedin: https://linkedin.com/company/aquasecteam
 logohandle: aquasec
 sort: aquasec

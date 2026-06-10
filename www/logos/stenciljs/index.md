@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/ionic-team/stencil
+images:
+- stenciljs-icon.svg
+- stenciljs-ar21.svg
 logohandle: stenciljs
 sort: stenciljs
 title: Stencil

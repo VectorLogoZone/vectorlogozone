@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Symantec
+images:
+- symantec-icon.svg
+- symantec-ar21.svg
 linkedin: https://linkedin.com/company/1231
 logohandle: symantec
 sort: symantec

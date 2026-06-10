@@ -1,6 +1,9 @@
 ---
 blog: https://json-schema.org/blog
 codehost: https://github.com/json-schema-org
+images:
+- json-schema-ar21.svg
+- json-schema-icon.svg
 linkedin: https://linkedin.com/company/jsonschema/
 logohandle: json-schema
 other:

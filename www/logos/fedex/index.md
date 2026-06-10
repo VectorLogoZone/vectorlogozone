@@ -1,6 +1,9 @@
 ---
 blog: http://about.van.fedex.com/blog/
 facebook: https://facebook.com/FedEx
+images:
+- fedex-ar21.svg
+- fedex-icon.svg
 instagram: http://www.instagram.com/fedex
 linkedin: https://linkedin.com/company/fedex
 logohandle: fedex

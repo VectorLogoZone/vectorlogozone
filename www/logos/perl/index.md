@@ -7,10 +7,10 @@ font:
   myfonts: http://www.myfonts.com/fonts/itc/garamond/lit/
   name: ITC Garamond
 images:
-- perl-ar21.svg
-- perl-vertical.svg
-- perl-icon.svg
 - perl-horizontal.svg
+- perl-vertical.svg
+- perl-ar21.svg
+- perl-icon.svg
 logohandle: perl
 sort: perl
 tags:

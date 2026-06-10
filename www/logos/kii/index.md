@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/KiiCorporation
+images:
+- kii-ar21.svg
+- kii-icon.svg
 linkedin: https://linkedin.com/company/1406171
 logohandle: kii
 sort: kii

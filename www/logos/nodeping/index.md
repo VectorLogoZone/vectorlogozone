@@ -3,8 +3,8 @@ blog: http://blog.nodeping.com/
 codehost: https://github.com/nodeping
 facebook: https://www.facebook.com/nodeping
 images:
-- nodeping-ar21.svg
 - nodeping-icon.svg
+- nodeping-ar21.svg
 logohandle: nodeping
 sort: nodeping
 tags:

@@ -4,9 +4,9 @@ font:
   google: https://fonts.google.com/specimen/Noticia+Text
   name: Noticia Text
 images:
-- iconsearch-ar21.svg
 - iconsearch-icon.svg
 - iconsearch-horizontal.svg
+- iconsearch-ar21.svg
 logohandle: iconsearch
 sort: iconsearch
 tags:

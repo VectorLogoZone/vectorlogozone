@@ -2,6 +2,8 @@
 blog: http://blog.workato.com/
 facebook: http://facebook.com/workato
 images:
+- workato-ar21.svg
+- workato-icon.svg
 - workato-tile.svg
 linkedin: http://linkedin.com/company/workato
 logohandle: workato

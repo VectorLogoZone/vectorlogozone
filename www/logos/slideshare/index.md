@@ -4,8 +4,8 @@ font:
   url: https://fonts2u.com/wolf-sans-regular.font
 images:
 - slideshare-ar21.svg
-- slideshare-tile.svg
 - slideshare-icon.svg
+- slideshare-tile.svg
 logohandle: slideshare
 sort: slideshare
 tags:

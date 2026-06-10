@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/amnestyglobal
+images:
+- amnesty-ar21.svg
+- amnesty-icon.svg
 instagram: https://instagram.com/amnesty
 logohandle: amnesty
 sort: amnesty

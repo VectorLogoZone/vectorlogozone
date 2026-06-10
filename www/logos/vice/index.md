@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/VICE
+images:
+- vice-icon.svg
+- vice-ar21.svg
+- vice-wordmark.svg
 instagram: https://www.instagram.com/vice
 logohandle: vice
 sort: vice

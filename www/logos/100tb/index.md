@@ -1,6 +1,9 @@
 ---
 blog: https://blog.100tb.com/
 facebook: https://facebook.com/100tb
+images:
+- 100tb-ar21.svg
+- 100tb-icon.svg
 linkedin: https://www.linkedin.com/company/100tb
 logohandle: 100tb
 sort: 100tb

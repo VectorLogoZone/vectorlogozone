@@ -4,11 +4,11 @@ font:
   myfonts: http://www.myfonts.com/fonts/ascender/cambria/regular/
   name: Cambria Regular
 images:
-- xregexp-vertical.svg
-- xregexp-ar21.svg
-- xregexp-wordmark.svg
-- xregexp-icon.svg
 - xregexp-horizontal.svg
+- xregexp-wordmark.svg
+- xregexp-vertical.svg
+- xregexp-icon.svg
+- xregexp-ar21.svg
 logohandle: xregexp
 sort: xregexp
 tags:

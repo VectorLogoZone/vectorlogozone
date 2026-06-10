@@ -4,8 +4,8 @@ codehost: https://github.com/edx
 facebook: http://www.facebook.com/EdxOnline
 guide: https://www.edx.org/media-kit
 images:
-- edx-icon.svg
 - edx-ar21.svg
+- edx-icon.svg
 logohandle: edx
 reddit: https://www.reddit.com/r/edx
 sort: edx

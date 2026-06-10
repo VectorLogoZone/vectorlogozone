@@ -8,9 +8,9 @@ font:
   note: based on [Optima](https://fontsinuse.com/uses/4713/yahoo-logo-2013)
 guide: https://policies.yahoo.com/us/en/yahoo/permissions/branduseguidelines/index.htm
 images:
-- yahoo-icon.svg
-- yahoo-tile.svg
 - yahoo-ar21.svg
+- yahoo-tile.svg
+- yahoo-icon.svg
 linkedin: https://www.linkedin.com/company/1288/
 logohandle: yahoo
 sort: yahoo

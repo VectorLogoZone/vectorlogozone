@@ -2,8 +2,8 @@
 blog: http://datahub.io/blog
 codehost: https://github.com/datasets
 images:
-- datahub-ar21.svg
 - datahub-icon.svg
+- datahub-ar21.svg
 logohandle: datahub
 sort: datahub
 tags:

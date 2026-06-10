@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/gogcom
+images:
+- gog-ar21.svg
+- gog-icon.svg
 logohandle: gog
 sort: gog
 title: GOG.com

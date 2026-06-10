@@ -2,6 +2,9 @@
 blog: https://blog.cloudsmith.io/
 codehost: https://github.com/cloudsmith-io
 facebook: https://facebook.com/cloudsmith.io
+images:
+- cloudsmithio-icon.svg
+- cloudsmithio-ar21.svg
 linkedin: https://linkedin.com/company/cloudsmith
 logohandle: cloudsmithio
 sort: cloudsmith

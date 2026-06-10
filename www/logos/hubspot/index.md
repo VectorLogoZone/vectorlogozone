@@ -3,6 +3,9 @@ blog: https://thinkgrowth.org/
 codehost: https://github.com/hubspot
 facebook: http://www.facebook.com/hubspot
 guide: https://www.hubspot.com/newsroom
+images:
+- hubspot-icon.svg
+- hubspot-ar21.svg
 instagram: http://www.instagram.com/hubspot
 linkedin: http://www.linkedin.com/company/hubspot
 logohandle: hubspot

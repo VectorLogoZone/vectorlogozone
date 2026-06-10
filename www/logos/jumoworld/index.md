@@ -1,4 +1,7 @@
 ---
+images:
+- jumoworld-icon.svg
+- jumoworld-ar21.svg
 linkedin: https://linkedin.com/company/10092734
 logohandle: jumoworld
 sort: jumo

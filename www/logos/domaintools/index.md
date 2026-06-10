@@ -1,6 +1,9 @@
 ---
 blog: https://blog.domaintools.com/
 facebook: https://facebook.com/domaintoolsllc
+images:
+- domaintools-ar21.svg
+- domaintools-icon.svg
 linkedin: https://linkedin.com/company/domaintools
 logohandle: domaintools
 sort: domaintools

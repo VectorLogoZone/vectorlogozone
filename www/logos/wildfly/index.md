@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/wildfly/wildfly
+images:
+- wildfly-ar21.svg
+- wildfly-icon.svg
 logohandle: wildfly
 sort: wildfly
 title: WildFly

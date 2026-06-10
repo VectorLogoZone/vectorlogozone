@@ -2,6 +2,9 @@
 activitypub: https://mastodon.social/@drupal
 facebook: https://www.facebook.com/DrupalOpenSource/
 flickr: https://www.flickr.com/photos/drupalassoc/
+images:
+- drupal-icon.svg
+- drupal-ar21.svg
 instagram: https://www.instagram.com/drupalassociation/
 linkedin: https://www.linkedin.com/company/drupal-project/
 logohandle: drupal

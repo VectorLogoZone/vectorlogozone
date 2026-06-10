@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/buildpack
+images:
+- buildpacksio-icon.svg
+- buildpacksio-ar21.svg
 logohandle: buildpacksio
 sort: buildpacks
 title: Buildpacks

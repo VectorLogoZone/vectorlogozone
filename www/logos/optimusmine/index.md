@@ -1,11 +1,11 @@
 ---
-font: 
-  name: "Bank Gothic"
+font:
+  name: Bank Gothic
 images:
-- optimus-mine-ar21.svg
-- optimus-mine-icon.svg
+- optimusmine-icon.svg
+- optimusmine-ar21.svg
 logohandle: optimusmine
 sort: optimusmine
 title: Optimus Mine
-website: 'https://optimusmine.com/'
+website: https://optimusmine.com/
 ---

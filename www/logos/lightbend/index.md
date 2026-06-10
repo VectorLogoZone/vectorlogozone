@@ -1,6 +1,9 @@
 ---
 blog: https://developer.lightbend.com/blog
 guide: https://www.lightbend.com/brand
+images:
+- lightbend-ar21.svg
+- lightbend-icon.svg
 logohandle: lightbend
 sort: lightbend
 title: Lightbend

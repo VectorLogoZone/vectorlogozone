@@ -1,5 +1,8 @@
 ---
 blog: https://blog.woises.com/
+images:
+- woises-ar21.svg
+- woises-icon.svg
 instagram: https://instagram.com/allwoises
 linkedin: https://www.linkedin.com/company/woises/
 logohandle: woises

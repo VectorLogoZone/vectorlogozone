@@ -2,6 +2,9 @@
 blog: https://blog.ionicframework.com/
 codehost: https://github.com/ionic-team/ionic
 facebook: https://facebook.com/ionicframework
+images:
+- ionicframework-ar21.svg
+- ionicframework-icon.svg
 instagram: https://instagram.com/ionicframework
 linkedin: https://linkedin.com/company/drifty-co-
 logohandle: ionicframework

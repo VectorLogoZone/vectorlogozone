@@ -1,4 +1,7 @@
 ---
+images:
+- usefulcharts-ar21.svg
+- usefulcharts-icon.svg
 instagram: https://instagram.com/usefulcharts
 logohandle: usefulcharts
 sort: usefulcharts

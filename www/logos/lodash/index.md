@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/lodash
+images:
+- lodash-icon.svg
+- lodash-ar21.svg
 logohandle: lodash
 sort: lodash
 title: Lodash

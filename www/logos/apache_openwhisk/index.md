@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/apache/incubator-openwhisk-runtime-nodejs
+images:
+- apache_openwhisk-icon.svg
+- apache_openwhisk-ar21.svg
 logohandle: apache_openwhisk
 sort: openwhisk
 tags:

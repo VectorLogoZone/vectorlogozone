@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/cartaoelo
+images:
+- cartaoelocombr-ar21.svg
+- cartaoelocombr-icon.svg
 instagram: https://instagram.com/cartaoelo
 logohandle: cartaoelocombr
 sort: cartaoelo

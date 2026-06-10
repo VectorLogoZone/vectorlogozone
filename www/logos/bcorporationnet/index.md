@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/bcorporation
+images:
+- bcorporationnet-icon.svg
+- bcorporationnet-ar21.svg
 instagram: http://instagram.com/bcorporation
 linkedin: https://linkedin.com/company/b-lab
 logohandle: bcorporationnet

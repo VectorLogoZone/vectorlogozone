@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/nianticlabs
+images:
+- nianticlabs-icon.svg
+- nianticlabs-ar21.svg
 instagram: https://instagram.com/nianticlabs
 logohandle: nianticlabs
 sort: nianticlabs

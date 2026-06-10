@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/fluent/fluentd
 facebook: https://facebook.com/pages/Fluentd/196064987183037
+images:
+- fluentd-ar21.svg
+- fluentd-icon.svg
 logohandle: fluentd
 sort: fluentd
 title: Fluentd

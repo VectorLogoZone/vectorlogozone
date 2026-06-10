@@ -7,6 +7,10 @@ facebook: https://facebook.com/workday
 font:
   name: Adelle Sans
 guide: https://brand.workday.com/d/Umu4dggHQFn1/logos
+images:
+- workday-official.svg
+- workday-icon.svg
+- workday-ar21.svg
 instagram: https://instagram.com/workday
 linkedin: https://linkedin.com/company/workday
 logohandle: workday

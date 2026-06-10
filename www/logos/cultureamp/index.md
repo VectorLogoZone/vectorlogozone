@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/CultureAmp
+images:
+- cultureamp-ar21.svg
+- cultureamp-icon.svg
 linkedin: https://www.linkedin.com/company/cultureamp
 logohandle: cultureamp
 sort: cultureamp

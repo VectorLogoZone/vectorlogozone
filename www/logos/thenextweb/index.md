@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/thenextweb
+images:
+- thenextweb-ar21.svg
+- thenextweb-icon.svg
 instagram: https://instagram.com/thenextweb
 linkedin: https://linkedin.com/company/the-next-web
 logohandle: thenextweb

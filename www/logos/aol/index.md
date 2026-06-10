@@ -1,7 +1,10 @@
 ---
-instagram: 'http://instagram.com/aol'
+images:
+- aol-ar21.svg
+- aol-icon.svg
+instagram: http://instagram.com/aol
 logohandle: aol
 sort: aol
 title: AOL
-website: 'https://www.aol.com/'
+website: https://www.aol.com/
 ---

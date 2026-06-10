@@ -4,9 +4,9 @@ font:
   google: https://fonts.google.com/specimen/Open+Sans
   name: Open Sans
 images:
+- blogger-ar21.svg
 - blogger-icon.svg
 - blogger-tile.svg
-- blogger-ar21.svg
 logohandle: blogger
 sort: blogger
 title: Blogger

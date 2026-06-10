@@ -1,6 +1,9 @@
 ---
 blog: http://blog.8tracks.com/
 facebook: http://facebook.com/8tracks
+images:
+- 8tracks-icon.svg
+- 8tracks-ar21.svg
 instagram: http://instagram.com/8tracks
 linkedin: https://www.linkedin.com/company/8tracks/
 logohandle: 8tracks

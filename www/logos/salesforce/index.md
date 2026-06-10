@@ -2,6 +2,9 @@
 blog: https://www.salesforce.com/blog/
 facebook: http://www.facebook.com/salesforce
 guide: https://brandfolder.com/salesforce
+images:
+- salesforce-icon.svg
+- salesforce-ar21.svg
 instagram: http://instagram.com/salesforce
 linkedin: https://www.linkedin.com/company/salesforce
 logohandle: salesforce

@@ -1,7 +1,9 @@
 ---
 blog: https://blog.soundcloud.com/
 images:
+- soundcloud-ar21.svg
 - soundcloud-tile.svg
+- soundcloud-icon.svg
 logohandle: soundcloud
 sort: soundcloud
 title: SoundCloud

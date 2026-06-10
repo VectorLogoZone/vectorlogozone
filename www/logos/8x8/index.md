@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/8x8Inc
+images:
+- 8x8-icon.svg
+- 8x8-ar21.svg
 linkedin: https://linkedin.com/company/8x8
 logohandle: 8x8
 sort: 8x8

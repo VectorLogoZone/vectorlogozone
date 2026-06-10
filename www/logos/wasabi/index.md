@@ -2,6 +2,9 @@
 blog: https://wasabi.com/blog
 codehost: https://github.com/wasabi-tech
 facebook: https://facebook.com/Wasabi-Technologies-Inc-1909620995946675
+images:
+- wasabi-icon.svg
+- wasabi-ar21.svg
 instagram: https://instagram.com/wasabi_cloud
 linkedin: https://linkedin.com/company/wasabitechnologiesinc
 logohandle: wasabi

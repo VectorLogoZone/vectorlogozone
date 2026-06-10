@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/Paychex
+images:
+- paychex-icon.svg
+- paychex-ar21.svg
 linkedin: http://linkedin.com/company/paychex
 logohandle: paychex
 other:

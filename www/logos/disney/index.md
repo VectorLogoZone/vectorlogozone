@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Disney
+images:
+- disney-icon.svg
+- disney-ar21.svg
 instagram: http://instagram.com/disney
 logohandle: disney
 pinterest: http://pinterest.com/Disney

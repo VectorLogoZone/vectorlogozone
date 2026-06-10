@@ -7,9 +7,10 @@ font:
   google: https://fonts.google.com/specimen/Roboto
   name: Roboto
 images:
-- vectorlogozone-icon.svg
 - vectorlogozone-tile.svg
+- vectorlogozone-icon.svg
 - vectorlogozone-ar21.svg
+- vectorlogozone-wordmark.svg
 logohandle: vectorlogozone
 sort: vectorlogozone
 tags:

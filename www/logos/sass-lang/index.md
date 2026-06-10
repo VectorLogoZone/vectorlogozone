@@ -1,4 +1,7 @@
 ---
+images:
+- sass-lang-icon.svg
+- sass-lang-ar21.svg
 keywords:
 - scss
 logohandle: sass-lang

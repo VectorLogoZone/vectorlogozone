@@ -2,6 +2,9 @@
 blog: https://storj.io/blog
 codehost: https://github.com/Storj
 facebook: https://facebook.com/storjproject
+images:
+- storjio-icon.svg
+- storjio-ar21.svg
 logohandle: storjio
 sort: storj
 title: Storj

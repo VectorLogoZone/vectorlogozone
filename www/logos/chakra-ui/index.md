@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/chakra-ui/chakra-ui
+images:
+- chakra-ui-ar21.svg
+- chakra-ui-icon.svg
 logohandle: chakra-ui
 sort: chakraui
 title: Chakra UI

@@ -8,9 +8,9 @@ font:
   url: http://www.k-type.com/fonts/collegiate/
 guide: https://github.com/logos
 images:
-- github-ar21.svg
-- github-tile.svg
 - github-icon.svg
+- github-tile.svg
+- github-ar21.svg
 logohandle: github
 sort: github
 tags:

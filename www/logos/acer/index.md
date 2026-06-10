@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/AcerUSA
+images:
+- acer-ar21.svg
+- acer-icon.svg
 instagram: https://instagram.com/Acer
 logohandle: acer
 sort: acer

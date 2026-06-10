@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/fivethirtyeight
+images:
+- fivethirtyeight-icon.svg
+- fivethirtyeight-ar21.svg
 instagram: https://instagram.com/fivethirtyeight
 logohandle: fivethirtyeight
 sort: fivethirtyeight

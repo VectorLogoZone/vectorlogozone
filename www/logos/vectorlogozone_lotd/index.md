@@ -6,8 +6,8 @@ font:
   google: https://fonts.google.com/specimen/DM+Serif+Text
   name: DM Serif Text
 images:
-- vectorlogozone_lotd-icon.svg
 - vectorlogozone_lotd-ar21.svg
+- vectorlogozone_lotd-icon.svg
 logohandle: vectorlogozone_lotd
 sort: logooftheday
 tags:

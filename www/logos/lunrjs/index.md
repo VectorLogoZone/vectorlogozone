@@ -3,8 +3,8 @@ codehost: https://github.com/olivernn/lunr.js
 font:
   name: Helvetica Neue
 images:
-- lunrjs-icon.svg
 - lunrjs-ar21.svg
+- lunrjs-icon.svg
 logohandle: lunrjs
 sort: lunr.js
 tags:

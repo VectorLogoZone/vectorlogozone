@@ -1,6 +1,9 @@
 ---
 blog: http://blog.udacity.com/
 facebook: https://facebook.com/Udacity
+images:
+- udacity-icon.svg
+- udacity-ar21.svg
 instagram: https://instagram.com/udacity
 linkedin: https://linkedin.com/company/udacity
 logohandle: udacity

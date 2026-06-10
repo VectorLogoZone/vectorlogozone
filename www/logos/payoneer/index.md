@@ -1,6 +1,9 @@
 ---
 blog: http://blog.payoneer.com/
 facebook: https://www.facebook.com/Payoneer
+images:
+- payoneer-ar21.svg
+- payoneer-icon.svg
 linkedin: https://www.linkedin.com/company/payoneer
 logohandle: payoneer
 sort: payoneer

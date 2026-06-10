@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/nuxt
+images:
+- nuxtjs-ar21.svg
+- nuxtjs-icon.svg
 logohandle: nuxtjs
 sort: nuxtjs
 title: Nuxt.js

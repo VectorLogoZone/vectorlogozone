@@ -1,6 +1,9 @@
 ---
 blog: http://blog.powerdns.com/
 codehost: https://github.com/PowerDNS
+images:
+- powerdns-ar21.svg
+- powerdns-icon.svg
 linkedin: http://linkedin.com/groups/PowerDNS-2083262?gid=2083262
 logohandle: powerdns
 sort: powerdns

@@ -3,9 +3,9 @@ codehost: https://github.com/zenorocha/clipboard.js
 guide: https://github.com/zenorocha/clipboard.js/blob/gh-pages/assets/images/clippy.svg
 images:
 - clipboardjs-tile.svg
-- clipboardjs-official.svg
 - clipboardjs-icon.svg
 - clipboardjs-ar21.svg
+- clipboardjs-official.svg
 logohandle: clipboardjs
 sort: clipboardjs
 title: clipboard.js

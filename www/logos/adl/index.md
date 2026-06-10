@@ -1,6 +1,9 @@
 ---
 blog: https://adl.org/blog
 facebook: https://facebook.com/anti.defamation.league
+images:
+- adl-icon.svg
+- adl-ar21.svg
 instagram: https://instagram.com/adl_national
 logohandle: adl
 pinterest: https://pinterest.com/adlnational

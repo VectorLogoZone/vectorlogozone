@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/isostandards
+images:
+- iso-tile.svg
+- iso-icon.svg
+- iso-ar21.svg
 instagram: https://instagram.com/isostandards
 keywords:
 - International Organization for Standardization

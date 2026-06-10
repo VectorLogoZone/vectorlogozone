@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/forbes
+images:
+- forbes-wordmark.svg
+- forbes-ar21.svg
+- forbes-icon.svg
 instagram: https://instagram.com/forbes
 linkedin: https://linkedin.com/company/forbes-magazine
 logohandle: forbes

@@ -1,6 +1,9 @@
 ---
 blog: https://medium.com/tensorflow
 codehost: https://github.com/tensorflow
+images:
+- tensorflow-ar21.svg
+- tensorflow-icon.svg
 logohandle: tensorflow
 sort: tensorflow
 title: TensorFlow

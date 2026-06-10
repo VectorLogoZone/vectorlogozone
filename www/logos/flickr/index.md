@@ -5,8 +5,8 @@ font:
   myfonts: https://www.myfonts.com/fonts/adobe/frutiger/
   name: Frutiger
 images:
-- flickr-ar21.svg
 - flickr-icon.svg
+- flickr-ar21.svg
 logohandle: flickr
 sort: flickr
 title: Flickr

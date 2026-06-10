@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/tiktok
+images:
+- tiktok-ar21.svg
+- tiktok-icon.svg
 instagram: https://instagram.com/tiktok
 logohandle: tiktok
 sort: tiktok

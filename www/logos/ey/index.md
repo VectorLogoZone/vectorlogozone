@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/pages/Ernst-Young/195665063800329
+images:
+- ey-icon.svg
+- ey-ar21.svg
 linkedin: https://linkedin.com/company/1073
 logohandle: ey
 sort: ey

@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/xfinity
+images:
+- xfinity-ar21.svg
+- xfinity-icon.svg
 logohandle: xfinity
 sort: xfinity
 title: XFINITY

@@ -3,7 +3,9 @@ blog: https://plex.tv/blog
 bluesky: https://bsky.app/profile/plex.tv
 facebook: https://facebook.com/plexapp
 images:
+- plextv-icon.svg
 - plextv-tile.svg
+- plextv-ar21.svg
 instagram: https://www.instagram.com/plex.tv/
 linkedin: https://linkedin.com/company/plex-inc
 logohandle: plextv

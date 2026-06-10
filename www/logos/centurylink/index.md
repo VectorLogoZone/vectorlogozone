@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/CenturyLink/
+images:
+- centurylink-icon.svg
+- centurylink-ar21.svg
 instagram: http://instagram.com/centurylinkrecruit
 linkedin: https://www.linkedin.com/company/centurylink
 logohandle: centurylink

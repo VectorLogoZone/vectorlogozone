@@ -3,6 +3,9 @@ blog: https://nim-lang.org/blog.html
 codehost: https://github.com/nim-lang/nim
 discord: https://discord.gg/nim
 gitter: https://gitter.im/nim-lang/Nim
+images:
+- nim-lang-icon.svg
+- nim-lang-ar21.svg
 logohandle: nim-lang
 other:
 - name: Matrix

@@ -3,6 +3,9 @@ blog: https://haeckdesign.com/blog
 codehost: https://github.com/HaeckDesign
 dribbble: https://dribbble.com/HaeckDesign
 facebook: https://facebook.com/haeckdesign
+images:
+- haeckdesign-icon.svg
+- haeckdesign-ar21.svg
 instagram: https://instagram.com/haeckdesign
 linkedin: https://linkedin.com/in/haeckdesign
 logohandle: haeckdesign

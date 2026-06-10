@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/Graylog2
+images:
+- graylog-icon.svg
+- graylog-ar21.svg
 linkedin: https://linkedin.com/company/graylog
 logohandle: graylog
 sort: graylog

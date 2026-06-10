@@ -2,6 +2,9 @@
 blog: http://blog.tlrobinson.net/
 codehost: https://github.com/jashkenas/coffeescript
 guide: https://github.com/jashkenas/coffeescript/tree/master/documentation/site
+images:
+- coffeescript-ar21.svg
+- coffeescript-icon.svg
 logohandle: coffeescript
 sort: coffeescript
 title: CoffeeScript

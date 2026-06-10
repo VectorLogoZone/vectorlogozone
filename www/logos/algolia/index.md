@@ -4,6 +4,9 @@ codehost: https://github.com/Algolia
 dribbble: https://dribbble.com/algolia
 facebook: https://www.facebook.com/algolia
 guide: https://www.algolia.com/press
+images:
+- algolia-icon.svg
+- algolia-ar21.svg
 logohandle: algolia
 sort: algolia
 tags:

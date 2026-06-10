@@ -1,6 +1,9 @@
 ---
 blog: http://blog.techsoup.org/
 facebook: https://facebook.com/TechSoupGlobal
+images:
+- techsoup-icon.svg
+- techsoup-ar21.svg
 instagram: https://instagram.com/techsoup
 linkedin: https://linkedin.com/company/techsoup
 logohandle: techsoup

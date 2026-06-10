@@ -1,10 +1,10 @@
 ---
 facebook: https://facebook.com/CIBC
 images:
-- cibc-ar21.svg
+- cibc-official~light.svg
 - cibc-icon.svg
+- cibc-ar21.svg
 - cibc-official.svg
-- cibc-white-official.svg
 linkedin: https://linkedin.com/company/cibc
 logohandle: cibc
 sort: cibc

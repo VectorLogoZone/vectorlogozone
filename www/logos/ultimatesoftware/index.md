@@ -2,6 +2,9 @@
 blog: http://ultimatesoftware.com/blog
 codehost: https://github.com/UltimateSoftware
 facebook: https://facebook.com/UltimateSoftware
+images:
+- ultimatesoftware-ar21.svg
+- ultimatesoftware-icon.svg
 linkedin: https://www.linkedin.com/company/ultimate-software
 logohandle: ultimatesoftware
 pinterest: http://pinterest.com/ultimatehcm

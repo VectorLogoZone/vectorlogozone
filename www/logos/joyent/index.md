@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/joyent
 facebook: https://facebook.com/joyentcloud
+images:
+- joyent-ar21.svg
+- joyent-icon.svg
 instagram: https://instagram.com/joyenttriton
 linkedin: http://linkedin.com/company/joyent
 logohandle: joyent

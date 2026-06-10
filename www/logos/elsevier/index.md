@@ -1,6 +1,10 @@
 ---
 facebook: https://facebook.com/ElsevierConnect
 guide: https://cdn.elsevier.io/matrix/includes/svg/logo-elsevier-wordmark.svg
+images:
+- elsevier-icon.svg
+- elsevier-ar21.svg
+- elsevier-official.svg
 linkedin: https://linkedin.com/company/elsevier
 logohandle: elsevier
 sort: elsevier

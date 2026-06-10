@@ -10,8 +10,8 @@ font:
   name: Avant Garde Gothic Bold Oblique
 guide: https://issuu.com/lukaszkulakowski/docs/pp_masterbrandguidelines_v21_mm
 images:
-- paypal-ar21.svg
 - paypal-icon.svg
+- paypal-ar21.svg
 instagram: https://www.instagram.com/paypalde/
 linkedin: https://www.linkedin.com/company/paypal
 logohandle: paypal

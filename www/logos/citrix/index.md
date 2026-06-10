@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/Citrix/
+images:
+- citrix-icon.svg
+- citrix-ar21.svg
 instagram: https://instagram.com/citrix/
 linkedin: https://www.linkedin.com/company/citrix/
 logohandle: citrix

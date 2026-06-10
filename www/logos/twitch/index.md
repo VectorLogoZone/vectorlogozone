@@ -10,8 +10,8 @@ font:
 guide: https://www.twitch.tv/p/brand/
 images:
 - twitch-official.svg
-- twitch-horizontal.svg
 - twitch-ar21.svg
+- twitch-horizontal.svg
 - twitch-tile.svg
 - twitch-icon.svg
 linkedin: https://www.linkedin.com/company/twitch-tv

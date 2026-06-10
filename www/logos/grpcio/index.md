@@ -1,6 +1,9 @@
 ---
 blog: https://grpc.io/blog/
 codehost: https://github.com/grpc
+images:
+- grpcio-icon.svg
+- grpcio-ar21.svg
 logohandle: grpcio
 reddit: https://www.reddit.com/r/grpc/
 sort: grpc

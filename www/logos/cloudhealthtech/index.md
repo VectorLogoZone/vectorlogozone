@@ -1,6 +1,9 @@
 ---
 blog: https://cloudhealthtech.com/blog
 facebook: https://facebook.com/CloudhealthTech
+images:
+- cloudhealthtech-icon.svg
+- cloudhealthtech-ar21.svg
 linkedin: https://linkedin.com/company-beta/2838309/
 logohandle: cloudhealthtech
 sort: cloudhealth

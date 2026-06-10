@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/amd
+images:
+- amd-icon.svg
+- amd-ar21.svg
 linkedin: https://linkedin.com/company/amd
 logohandle: amd
 pinterest: https://pinterest.com/amd

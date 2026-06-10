@@ -5,8 +5,8 @@ colors:
 - '#002276'
 facebook: https://www.facebook.com/1and1
 images:
-- 1and1-icon.svg
 - 1and1-ar21.svg
+- 1and1-icon.svg
 logohandle: 1and1
 sort: 1and1
 tags:

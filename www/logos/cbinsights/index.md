@@ -1,6 +1,9 @@
 ---
 blog: https://cbinsights.com/blog
 facebook: https://facebook.com/cbinsights
+images:
+- cbinsights-ar21.svg
+- cbinsights-icon.svg
 linkedin: https://linkedin.com/company/1140722?trk=ppro_cprof
 logohandle: cbinsights
 sort: cbinsights

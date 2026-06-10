@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/SmartDraw
+images:
+- smartdraw-icon.svg
+- smartdraw-ar21.svg
 linkedin: https://linkedin.com/company/smartdraw-software-llc
 logohandle: smartdraw
 pinterest: https://pinterest.com/smartdraw

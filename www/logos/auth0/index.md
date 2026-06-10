@@ -1,6 +1,9 @@
 ---
 blog: https://auth0.com/blog
 facebook: https://facebook.com/getauth0
+images:
+- auth0-icon.svg
+- auth0-ar21.svg
 linkedin: https://linkedin.com/company/auth0
 logohandle: auth0
 sort: auth0

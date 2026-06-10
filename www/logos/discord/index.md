@@ -14,10 +14,10 @@ font:
   url: http://www.fontfabric.com/uni-sans-free/
 guide: https://discord.com/branding
 images:
-- discordapp-official.svg
-- discordapp-icon.svg
-- discordapp-tile.svg
-- discordapp-ar21.svg
+- discord-icon.svg
+- discord-tile.svg
+- discord-ar21.svg
+- discord-official.svg
 instagram: https://www.instagram.com/discord/
 logohandle: discord
 redirect_from: /logos/discordapp/index.html

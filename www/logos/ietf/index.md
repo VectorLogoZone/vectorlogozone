@@ -2,8 +2,8 @@
 blog: https://www.ietf.org/blog/
 codehost: https://github.com/ietf
 images:
-- ietf-ar21.svg
 - ietf-icon.svg
+- ietf-ar21.svg
 logohandle: ietf
 sort: ietf
 title: IETF

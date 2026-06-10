@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/PagerDuty
+images:
+- pagerduty-icon.svg
+- pagerduty-ar21.svg
 linkedin: https://linkedin.com/company/pagerduty
 logohandle: pagerduty
 sort: pagerduty

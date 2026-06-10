@@ -1,6 +1,9 @@
 ---
 blog: https://medium.com/kickstarter/
 facebook: https://www.facebook.com/Kickstarter/
+images:
+- kickstarter-ar21.svg
+- kickstarter-icon.svg
 instagram: https://www.instagram.com/kickstarter/
 logohandle: kickstarter
 sort: kickstarter

@@ -12,9 +12,9 @@ font:
   name: Alternate Gothic No. 2
 guide: https://www.youtube.com/yt/about/brand-resources/
 images:
-- youtube-icon.svg
 - youtube-ar21.svg
 - youtube-tile.svg
+- youtube-icon.svg
 linkedin: https://www.linkedin.com/company/16140/
 logohandle: youtube
 sort: youtube

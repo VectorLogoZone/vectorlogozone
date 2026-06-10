@@ -1,5 +1,8 @@
 ---
 facebook: https://business.facebook.com/morganstanley
+images:
+- morganstanley-ar21.svg
+- morganstanley-icon.svg
 instagram: https://instagram.com/morgan.stanley
 linkedin: https://linkedin.com/company/morgan-stanley
 logohandle: morganstanley

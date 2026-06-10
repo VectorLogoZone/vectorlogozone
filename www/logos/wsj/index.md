@@ -1,5 +1,9 @@
 ---
 facebook: http://facebook.com/wsj
+images:
+- wsj-wordmark.svg
+- wsj-icon.svg
+- wsj-ar21.svg
 logohandle: wsj
 sort: wallstreetjournal
 title: The Wall Street Journal

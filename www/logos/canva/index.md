@@ -1,6 +1,9 @@
 ---
 dribbble: http://dribbble.com/canva
 facebook: http://facebook.com/canva
+images:
+- canva-icon.svg
+- canva-ar21.svg
 instagram: https://instagram.com/canva
 logohandle: canva
 pinterest: http://pinterest.com/canva

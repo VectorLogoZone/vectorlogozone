@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/vivaldi.browser
+images:
+- vivaldi-ar21.svg
+- vivaldi-icon.svg
 instagram: https://instagram.com/vivaldibrowser
 linkedin: https://linkedin.com/company/vivaldi-technologies
 logohandle: vivaldi

@@ -1,5 +1,8 @@
 ---
 blog: https://spring.io/blog
+images:
+- springio-ar21.svg
+- springio-icon.svg
 linkedin: https://www.linkedin.com/groups/Spring-Users-46964
 logohandle: springio
 sort: spring_framework

@@ -1,12 +1,15 @@
 ---
 blog: https://mui.com/blog/
 codehost: https://github.com/mui
-discord: "https://discord.com/invite/tewQuNeUyS"
+discord: https://discord.com/invite/tewQuNeUyS
 facebook: https://www.facebook.com/muiorg/
+images:
+- mui-icon.svg
+- mui-ar21.svg
 linkedin: https://linkedin.com/company/mui
 logohandle: mui
 sort: mui
-stackoverflow: "https://stackoverflow.com/questions/tagged/material-ui"
+stackoverflow: https://stackoverflow.com/questions/tagged/material-ui
 title: MUI
 twitter: https://x.com/MUI_hq
 website: https://mui.com/

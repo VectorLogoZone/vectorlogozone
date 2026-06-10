@@ -1,8 +1,8 @@
 ---
 facebook: https://facebook.com/Corsair
 images:
-- corsair-ar21.svg
 - corsair-icon.svg
+- corsair-ar21.svg
 instagram: https://instagram.com/corsair
 logohandle: corsair
 sort: corsair

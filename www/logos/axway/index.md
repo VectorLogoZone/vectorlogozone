@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/pages/Axway/86528901728
+images:
+- axway-icon.svg
+- axway-ar21.svg
 linkedin: https://linkedin.com/company/axway
 logohandle: axway
 sort: axway

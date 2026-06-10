@@ -1,6 +1,9 @@
 ---
 blog: https://canadalearningcode.ca/blog
 facebook: https://facebook.com/canadalearningcode
+images:
+- canadalearningcodeca-icon.svg
+- canadalearningcodeca-ar21.svg
 instagram: https://instagram.com/learningcode
 linkedin: https://linkedin.com/company/canadalearningcode
 logohandle: canadalearningcodeca

@@ -4,8 +4,8 @@ colors:
 - '#EF404E'
 facebook: https://www.facebook.com/aclu
 images:
-- aclu-icon.svg
 - aclu-ar21.svg
+- aclu-icon.svg
 logohandle: aclu
 sort: aclu
 tags:

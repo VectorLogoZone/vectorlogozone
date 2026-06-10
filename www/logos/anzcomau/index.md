@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/ANZAustralia
+images:
+- anzcomau-icon.svg
+- anzcomau-ar21.svg
 linkedin: https://linkedin.com/company/anz
 logohandle: anzcomau
 sort: anz

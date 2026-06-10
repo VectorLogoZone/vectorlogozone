@@ -1,6 +1,9 @@
 ---
 blog: https://blendo.co/blog
 facebook: https://facebook.com/blendo.co
+images:
+- blendoco-ar21.svg
+- blendoco-icon.svg
 linkedin: https://linkedin.com/company/blendo.co
 logohandle: blendoco
 sort: blendo

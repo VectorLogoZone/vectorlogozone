@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/NETELLER
+images:
+- neteller-icon.svg
+- neteller-ar21.svg
 logohandle: neteller
 sort: neteller
 title: NETELLER

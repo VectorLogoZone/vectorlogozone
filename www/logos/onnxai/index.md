@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/onnx
 facebook: https://facebook.com/onnxai
+images:
+- onnxai-ar21.svg
+- onnxai-icon.svg
 keywords:
 - Open Neural Network Exchange
 logohandle: onnxai

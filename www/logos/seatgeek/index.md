@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/seatgeek/api-support
 facebook: https://facebook.com/SeatGeek
+images:
+- seatgeek-icon.svg
+- seatgeek-ar21.svg
 linkedin: https://linkedin.com/company/seatgeek
 logohandle: seatgeek
 sort: seatgeek

@@ -3,9 +3,9 @@ blog: https://blogs.adobe.com/documentcloud/category/acrobat/
 colors:
 - '#C80A0A'
 images:
-- adobe_acrobat-icon.svg
-- adobe_acrobat-tile.svg
 - adobe_acrobat-ar21.svg
+- adobe_acrobat-tile.svg
+- adobe_acrobat-icon.svg
 keywords:
 - pdf
 logohandle: adobe_acrobat

@@ -2,6 +2,9 @@
 blog: https://todogroup.org/blog
 codehost: https://github.com/todogroup
 guide: https://github.com/todogroup/assets/blob/master/logo/todo_logo_vert.svg
+images:
+- todogroup-ar21.svg
+- todogroup-icon.svg
 logohandle: todogroup
 slack: https://slack.todogroup.org/
 sort: todogroup

@@ -2,8 +2,8 @@
 blog: https://blogs.sas.com/content/
 facebook: https://www.facebook.com/SASsoftware
 images:
-- sas-icon.svg
 - sas-ar21.svg
+- sas-icon.svg
 linkedin: http://www.linkedin.com/company/sas
 logohandle: sas
 sort: sas

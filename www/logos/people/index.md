@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/peoplemag
+images:
+- people-ar21.svg
+- people-icon.svg
 instagram: https://instagram.com/people
 logohandle: people
 pinterest: https://pinterest.com/people

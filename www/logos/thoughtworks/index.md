@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/ThoughtWorks
+images:
+- thoughtworks-icon.svg
+- thoughtworks-ar21.svg
 instagram: https://instagram.com/thoughtworks
 linkedin: http://linkedin.com/company/thoughtworks
 logohandle: thoughtworks

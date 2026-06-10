@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/MuleSoft
+images:
+- mulesoft-icon.svg
+- mulesoft-ar21.svg
 instagram: https://instagram.com/mulesoft
 linkedin: https://linkedin.com/company/mulesoft
 logohandle: mulesoft

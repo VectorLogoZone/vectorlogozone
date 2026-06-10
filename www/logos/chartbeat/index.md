@@ -1,6 +1,9 @@
 ---
 blog: http://blog.chartbeat.com/
 facebook: https://facebook.com/chartbeat
+images:
+- chartbeat-ar21.svg
+- chartbeat-icon.svg
 linkedin: https://linkedin.com/company/chartbeat
 logohandle: chartbeat
 sort: chartbeat

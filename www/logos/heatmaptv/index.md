@@ -1,8 +1,8 @@
 ---
 codehost: https://github.com/fileformat/heatmaptv
 images:
-- heatmaptv-ar21.svg
 - heatmaptv-icon.svg
+- heatmaptv-ar21.svg
 logohandle: heatmaptv
 sort: heatmaptv
 tags:

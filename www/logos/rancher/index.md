@@ -2,6 +2,9 @@
 blog: https://rancher.com/blog
 codehost: https://github.com/rancher
 facebook: https://facebook.com/rancherlabs
+images:
+- rancher-ar21.svg
+- rancher-icon.svg
 linkedin: https://linkedin.com/groups/6977008/profile
 logohandle: rancher
 sort: rancher

@@ -7,8 +7,8 @@ font:
 guide: http://apache.org/foundation/press/kit/#links
 images:
 - apache-official.svg
-- apache-ar21.svg
 - apache-icon.svg
+- apache-ar21.svg
 logohandle: apache
 slack: https://the-asf.slack.com/
 sort: apache software foundation

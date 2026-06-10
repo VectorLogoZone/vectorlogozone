@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/Reuters
+images:
+- reuters-icon.svg
+- reuters-ar21.svg
 instagram: http://instagram.com/reuters
 linkedin: http://linkedin.com/company/10256858
 logohandle: reuters

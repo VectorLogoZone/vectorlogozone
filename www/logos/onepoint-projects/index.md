@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/onepointproject
+images:
+- onepoint-projects-ar21.svg
+- onepoint-projects-icon.svg
 linkedin: https://linkedin.com/company/5036996
 logohandle: onepoint-projects
 sort: onepoint-projects

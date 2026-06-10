@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/newyorker
+images:
+- newyorker-ar21.svg
+- newyorker-icon.svg
 instagram: https://instagram.com/newyorkermag
 logohandle: newyorker
 sort: newyorker

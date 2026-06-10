@@ -1,6 +1,9 @@
 ---
 blog: http://blog.flattr.com/
 facebook: https://facebook.com/flattrcom
+images:
+- flattr-icon.svg
+- flattr-ar21.svg
 logohandle: flattr
 sort: flattr
 title: Flattr

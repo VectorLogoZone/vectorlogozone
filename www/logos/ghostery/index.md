@@ -1,6 +1,9 @@
 ---
 blog: https://ghostery.com/blog
 facebook: https://facebook.com/ghostery
+images:
+- ghostery-icon.svg
+- ghostery-ar21.svg
 instagram: https://instagram.com/ghosterygram
 logohandle: ghostery
 sort: ghostery

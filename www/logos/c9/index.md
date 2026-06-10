@@ -5,8 +5,8 @@ colors:
 - '#00A8E9'
 facebook: https://www.facebook.com/Cloud9IDE
 images:
-- c9-ar21.svg
 - c9-icon.svg
+- c9-ar21.svg
 logohandle: c9
 sort: cloud9
 title: Cloud9

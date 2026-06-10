@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Altmetric
+images:
+- altmetric-icon.svg
+- altmetric-ar21.svg
 instagram: https://instagram.com/altmetric
 linkedin: https://linkedin.com/company/altmetric
 logohandle: altmetric

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/quickbase
+images:
+- quickbase-ar21.svg
+- quickbase-icon.svg
 linkedin: https://linkedin.com/company/quickbase
 logohandle: quickbase
 sort: quickbase

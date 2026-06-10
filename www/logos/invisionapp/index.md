@@ -5,6 +5,9 @@ colors:
 dribbble: http://dribbble.com/InVisionApp
 facebook: https://www.facebook.com/invisionapp
 guide: https://in.invisionapp.com/boards/FH3LW3S7XSD
+images:
+- invisionapp-ar21.svg
+- invisionapp-icon.svg
 logohandle: invisionapp
 sort: invisionapp
 title: InVision

@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/pharmer/pharmer
 facebook: https://facebook.com/appscode
+images:
+- appscode-icon.svg
+- appscode-ar21.svg
 logohandle: appscode
 sort: appscode
 title: AppsCode

@@ -1,4 +1,7 @@
 ---
+images:
+- opentechfund-icon.svg
+- opentechfund-ar21.svg
 logohandle: opentechfund
 sort: opentech
 title: Open Technology Fund

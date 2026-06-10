@@ -6,8 +6,8 @@ colors:
 - '#8ED800'
 facebook: http://www.facebook.com/pages/AggDatacom/99221817174
 images:
-- aggdata-icon.svg
 - aggdata-ar21.svg
+- aggdata-icon.svg
 logohandle: aggdata
 sort: aggdata
 tags:

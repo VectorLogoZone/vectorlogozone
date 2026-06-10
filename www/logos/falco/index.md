@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/falcosecurity/falco
 guide: https://github.com/falcosecurity/falcosecurity.github.io/tree/master/images/logos
+images:
+- falco-ar21.svg
+- falco-icon.svg
 logohandle: falco
 sort: falco
 stackoverflow: https://stackoverflow.com/search?tab=newest&q=falco

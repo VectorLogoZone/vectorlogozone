@@ -1,5 +1,8 @@
 ---
 facebook: https://business.facebook.com/TeamHindsight
+images:
+- hindsightsoftware-icon.svg
+- hindsightsoftware-ar21.svg
 linkedin: https://linkedin.com/company/hindsight-software-ltd
 logohandle: hindsightsoftware
 sort: hindsightsoftware

@@ -3,8 +3,8 @@ colors:
 - '#000000'
 facebook: https://www.facebook.com/adidasUS/?brand_redir=182162001806727
 images:
-- adidas-icon.svg
 - adidas-ar21.svg
+- adidas-icon.svg
 logohandle: adidas
 sort: adidas
 title: Adidas

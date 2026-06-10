@@ -1,6 +1,9 @@
 ---
 facebook: https://facebook.com/getswish
 guide: https://www.swish.nu/marketing-toolbox/logotype
+images:
+- swishnu-ar21.svg
+- swishnu-icon.svg
 instagram: https://instagram.com/getswish
 linkedin: https://www.linkedin.com/company/getswish
 logohandle: swishnu

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/mattermark
+images:
+- mattermark-icon.svg
+- mattermark-ar21.svg
 linkedin: https://linkedin.com/company/mattermark
 logohandle: mattermark
 sort: mattermark

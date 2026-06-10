@@ -1,6 +1,9 @@
 ---
 blog: https://go.chatwork.com/blog/en
 facebook: https://facebook.com/chatwork
+images:
+- chatwork-ar21.svg
+- chatwork-icon.svg
 linkedin: http://linkedin.com/company/chatwork
 logohandle: chatwork
 sort: chatwork

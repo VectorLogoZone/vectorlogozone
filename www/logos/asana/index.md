@@ -1,6 +1,8 @@
 ---
 blog: https://blog.asana.com/
 facebook: http://facebook.com/asana
+images:
+- asana-ar21.svg
 instagram: http://instagram.com/teamasana
 linkedin: https://linkedin.com/company/asana
 logohandle: asana

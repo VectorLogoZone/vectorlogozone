@@ -11,9 +11,9 @@ font:
   name: Montserrat
 guide: https://github.com/dart-lang/logos
 images:
-- dartlang-official.svg
 - dartlang-icon.svg
 - dartlang-ar21.svg
+- dartlang-official.svg
 logohandle: dartlang
 sort: dartlang
 tags:

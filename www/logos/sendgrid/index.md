@@ -2,6 +2,9 @@
 blog: https://sendgrid.com/blog
 codehost: https://github.com/sendgrid
 facebook: https://facebook.com/SendGrid
+images:
+- sendgrid-icon.svg
+- sendgrid-ar21.svg
 linkedin: https://linkedin.com/company/sendgrid
 logohandle: sendgrid
 sort: sendgrid

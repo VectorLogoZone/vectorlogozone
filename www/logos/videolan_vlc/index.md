@@ -1,5 +1,8 @@
 ---
 facebook: http://www.facebook.com/vlc.media.player
+images:
+- videolan_vlc-icon.svg
+- videolan_vlc-ar21.svg
 logohandle: videolan_vlc
 sort: vlc
 title: VLC

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/WeWork
+images:
+- wework-ar21.svg
+- wework-icon.svg
 instagram: https://instagram.com/wework
 linkedin: https://linkedin.com/company/wework
 logohandle: wework

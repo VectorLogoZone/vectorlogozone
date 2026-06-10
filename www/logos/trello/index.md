@@ -5,9 +5,9 @@ facebook: http://www.facebook.com/trelloapp
 guide: https://design.trello.com/
 images:
 - trello-icon.svg
+- trello-tile.svg
 - trello-ar21.svg
 - trello-official.svg
-- trello-tile.svg
 logohandle: trello
 sort: trello
 title: Trello

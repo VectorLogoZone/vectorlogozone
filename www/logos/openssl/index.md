@@ -3,9 +3,9 @@ blog: https://www.openssl.org/blog/
 codehost: https://github.com/openssl/openssl
 guide: https://github.com/openssl/web/tree/master/img
 images:
-- openssl-icon.svg
-- openssl-original.svg
 - openssl-ar21.svg
+- openssl-icon.svg
+- openssl-official.svg
 logohandle: openssl
 sort: openssl
 title: openssl

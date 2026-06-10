@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/shirkdog/pulledpork
+images:
+- snort-ar21.svg
+- snort-icon.svg
 logohandle: snort
 sort: snort
 title: Snort

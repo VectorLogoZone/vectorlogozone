@@ -7,11 +7,11 @@ font:
   google: https://fonts.google.com/specimen/Work+Sans
   name: Work Sans
 images:
-- golang-horizontal.svg
-- golang-vertical.svg
 - golang-icon.svg
-- golang-ar21.svg
 - golang-official.svg
+- golang-vertical.svg
+- golang-ar21.svg
+- golang-horizontal.svg
 logohandle: golang
 sort: go language
 tags:

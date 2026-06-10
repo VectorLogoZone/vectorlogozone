@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/BankofAmerica
+images:
+- bankofamerica-icon.svg
+- bankofamerica-ar21.svg
 instagram: https://instagram.com/bankofamerica
 linkedin: https://linkedin.com/company/bank-of-america
 logohandle: bankofamerica

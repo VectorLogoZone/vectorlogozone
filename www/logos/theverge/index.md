@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/verge
+images:
+- theverge-ar21.svg
+- theverge-icon.svg
 logohandle: theverge
 sort: verge
 title: The Verge

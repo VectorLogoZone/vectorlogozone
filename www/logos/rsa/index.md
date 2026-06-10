@@ -1,4 +1,7 @@
 ---
+images:
+- rsa-ar21.svg
+- rsa-icon.svg
 linkedin: https://linkedin.com/company/rsa-the-security-division-of-emc
 logohandle: rsa
 sort: rsa

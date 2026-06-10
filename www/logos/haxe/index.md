@@ -3,8 +3,8 @@ blog: https://haxe.org/blog
 codehost: https://github.com/HaxeFoundation
 facebook: https://www.facebook.com/haxe.org/
 images:
-- haxe-ar21.svg
 - haxe-icon.svg
+- haxe-ar21.svg
 logohandle: haxe
 sort: haxe
 title: Haxe

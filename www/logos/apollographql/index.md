@@ -1,6 +1,9 @@
 ---
 blog: https://www.apollographql.com/blog
 codehost: https://github.com/apollographql
+images:
+- apollographql-ar21.svg
+- apollographql-icon.svg
 logohandle: apollographql
 other:
 - name: discourse

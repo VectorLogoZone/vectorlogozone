@@ -2,8 +2,8 @@
 codehost: https://github.com/MicrosoftEdge
 facebook: https://www.facebook.com/MicrosoftEdge/
 images:
-- microsoft_edge-icon.svg
 - microsoft_edge-ar21.svg
+- microsoft_edge-icon.svg
 logohandle: microsoft_edge
 sort: edge
 tags:

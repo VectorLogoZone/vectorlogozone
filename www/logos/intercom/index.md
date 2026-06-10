@@ -5,6 +5,7 @@ guide: https://www.intercom.com/press
 images:
 - intercom-icon.svg
 - intercom-ar21.svg
+- intercom-official.svg
 linkedin: https://www.linkedin.com/company/intercom
 logohandle: intercom
 sort: intercom

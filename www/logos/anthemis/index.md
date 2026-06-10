@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/anthemisgroup
+images:
+- anthemis-icon.svg
+- anthemis-ar21.svg
 linkedin: https://linkedin.com/company/1342997
 logohandle: anthemis
 sort: anthemis

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/VultureCentral
+images:
+- theregistercouk-ar21.svg
+- theregistercouk-icon.svg
 linkedin: https://linkedin.com/company/the-register
 logohandle: theregistercouk
 sort: register

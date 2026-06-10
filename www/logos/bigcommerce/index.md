@@ -1,6 +1,9 @@
 ---
 blog: https://bigcommerce.com/blog
 facebook: http://facebook.com/Bigcommerce
+images:
+- bigcommerce-icon.svg
+- bigcommerce-ar21.svg
 instagram: https://instagram.com/bigcommerce
 linkedin: http://linkedin.com/company/bigcommerce
 logohandle: bigcommerce

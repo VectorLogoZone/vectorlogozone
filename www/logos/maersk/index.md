@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/Maersk/
+images:
+- maersk-icon.svg
+- maersk-ar21.svg
 instagram: https://www.instagram.com/maerskgroup/
 linkedin: https://www.linkedin.com/company/maersk-group/
 logohandle: maersk

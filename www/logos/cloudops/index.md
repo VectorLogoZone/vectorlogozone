@@ -1,5 +1,8 @@
 ---
 blog: https://cloudops.com/category/blog
+images:
+- cloudops-icon.svg
+- cloudops-ar21.svg
 logohandle: cloudops
 sort: cloudops
 title: CloudOps

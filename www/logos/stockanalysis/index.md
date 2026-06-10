@@ -1,6 +1,9 @@
 ---
 blog: https://stockanalysis.com/blog/
 facebook: https://facebook.com/stockanalysisoff
+images:
+- stockanalysis-icon.svg
+- stockanalysis-ar21.svg
 logohandle: stockanalysis
 sort: stockanalysis
 title: Stock Analysis

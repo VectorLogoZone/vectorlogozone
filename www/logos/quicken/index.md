@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/Quicken
+images:
+- quicken-ar21.svg
+- quicken-icon.svg
 logohandle: quicken
 sort: quicken
 title: Quicken

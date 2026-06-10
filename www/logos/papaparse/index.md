@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/mholt/PapaParse
+images:
+- papaparse-ar21.svg
+- papaparse-icon.svg
 logohandle: papaparse
 sort: papaparse
 title: Papa Parse

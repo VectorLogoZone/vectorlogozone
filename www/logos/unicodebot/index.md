@@ -1,4 +1,8 @@
 ---
+images:
+- unicodebot-tile.svg
+- unicodebot-icon.svg
+- unicodebot-ar21.svg
 logohandle: unicodebot
 sort: unicodebot
 title: Unicode.Bot

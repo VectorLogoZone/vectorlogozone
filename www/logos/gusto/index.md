@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/GustoHQ
+images:
+- gusto-ar21.svg
+- gusto-icon.svg
 instagram: https://instagram.com/gustohq/
 linkedin: https://linkedin.com/company/gustohq/
 logohandle: gusto

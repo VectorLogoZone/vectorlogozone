@@ -5,6 +5,10 @@ colors:
 - '#3178C6'
 discord: https://discord.gg/typescript
 guide: https://www.typescriptlang.org/branding
+images:
+- typescriptlang-icon.svg
+- typescriptlang-ar21.svg
+- typescriptlang-official.svg
 logohandle: typescriptlang
 sort: typescript
 stackoverflow: https://stackoverflow.com/questions/tagged/typescript

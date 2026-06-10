@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/NPR
+images:
+- npr-ar21.svg
+- npr-icon.svg
 instagram: https://instagram.com/npr
 logohandle: npr
 sort: npr

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/audafoundation
+images:
+- audaorgau-ar21.svg
+- audaorgau-icon.svg
 linkedin: https://linkedin.com/company/-au-domain-administration-ltd-
 logohandle: audaorgau
 sort: auda

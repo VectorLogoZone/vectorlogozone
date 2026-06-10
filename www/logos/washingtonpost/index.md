@@ -1,5 +1,9 @@
 ---
 facebook: https://facebook.com/washingtonpost
+images:
+- washingtonpost-icon.svg
+- washingtonpost-ar21.svg
+- washingtonpost-wordmark.svg
 logohandle: washingtonpost
 sort: washingtonpost
 title: The Washington Post

@@ -1,6 +1,9 @@
 ---
 blog: https://blog.dgraph.io/
 codehost: https://github.com/dgraph-io/dgraph
+images:
+- dgraphio-ar21.svg
+- dgraphio-icon.svg
 logohandle: dgraphio
 sort: dgraph
 title: Dgraph

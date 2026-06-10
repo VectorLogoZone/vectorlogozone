@@ -1,4 +1,7 @@
 ---
+images:
+- citusdata-icon.svg
+- citusdata-ar21.svg
 linkedin: https://linkedin.com/company/5356039/%27
 logohandle: citusdata
 sort: citusdata

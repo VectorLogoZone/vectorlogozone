@@ -4,8 +4,8 @@ colors:
 - '#FB0000'
 images:
 - svgporn-official.svg
-- svgporn-icon.svg
 - svgporn-ar21.svg
+- svgporn-icon.svg
 logohandle: svgporn
 sort: svgporn
 tags:

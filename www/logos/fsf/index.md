@@ -1,8 +1,8 @@
 ---
 blog: https://www.fsf.org/blogs/
 images:
-- fsf-icon.svg
 - fsf-ar21.svg
+- fsf-icon.svg
 logohandle: fsf
 sort: fsf
 title: FSF

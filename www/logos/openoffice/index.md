@@ -2,9 +2,9 @@
 blog: https://blogs.apache.org/OOo/
 facebook: https://www.facebook.com/ApacheOO
 images:
-- openoffice-ar21.svg
 - openoffice-official.svg
 - openoffice-icon.svg
+- openoffice-ar21.svg
 logohandle: openoffice
 sort: openoffice
 tags:

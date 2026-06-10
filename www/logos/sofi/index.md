@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/SoFi
+images:
+- sofi-ar21.svg
+- sofi-icon.svg
 instagram: https://instagram.com/sofi
 linkedin: https://linkedin.com/company/sofi
 logohandle: sofi

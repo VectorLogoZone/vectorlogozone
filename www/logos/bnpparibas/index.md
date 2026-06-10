@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/mabanque.bnpparibas
+images:
+- bnpparibas-ar21.svg
+- bnpparibas-icon.svg
 instagram: https://instagram.com/bnpparibas
 linkedin: https://linkedin.com/company/bnp-paribas
 logohandle: bnpparibas

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/unitedhealthgroup
+images:
+- unitedhealthgroup-icon.svg
+- unitedhealthgroup-ar21.svg
 linkedin: https://linkedin.com/company/unitedhealth-group
 logohandle: unitedhealthgroup
 sort: unitedhealthgroup

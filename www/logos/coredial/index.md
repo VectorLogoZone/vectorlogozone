@@ -1,6 +1,9 @@
 ---
 blog: https://success.coredial.com/blog
 facebook: https://facebook.com/coredial
+images:
+- coredial-ar21.svg
+- coredial-icon.svg
 linkedin: https://linkedin.com/company/99631
 logohandle: coredial
 sort: coredial

@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/solo-io
+images:
+- soloio-icon.svg
+- soloio-ar21.svg
 linkedin: https://linkedin.com/company-beta/11074869
 logohandle: soloio
 sort: solo

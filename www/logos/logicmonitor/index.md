@@ -1,6 +1,9 @@
 ---
 blog: https://logicmonitor.com/blog
 facebook: https://facebook.com/LogicMonitor
+images:
+- logicmonitor-icon.svg
+- logicmonitor-ar21.svg
 linkedin: https://linkedin.com/company/logicmonitor
 logohandle: logicmonitor
 sort: logicmonitor

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/fountain.inc/
+images:
+- fountain-icon.svg
+- fountain-ar21.svg
 linkedin: https://linkedin.com/company/onboardiq
 logohandle: fountain
 sort: fountain

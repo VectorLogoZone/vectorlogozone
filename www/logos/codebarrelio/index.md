@@ -1,5 +1,8 @@
 ---
 blog: http://blog.codebarrel.io/
+images:
+- codebarrelio-ar21.svg
+- codebarrelio-icon.svg
 logohandle: codebarrelio
 sort: codebarrelio
 title: Code Barrel

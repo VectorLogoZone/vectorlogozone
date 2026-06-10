@@ -3,6 +3,9 @@ activitypub: https://dnsimple.social/@trusty
 blog: https://blog.dnsimple.com/
 bluesky: https://bsky.app/profile/dnsimple.bsky.social
 facebook: https://facebook.com/dnsimple
+images:
+- dnsimple-icon.svg
+- dnsimple-ar21.svg
 linkedin: https://www.linkedin.com/company/dnsimple/
 logohandle: dnsimple
 sort: dnsimple

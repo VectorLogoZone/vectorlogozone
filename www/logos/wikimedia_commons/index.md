@@ -1,8 +1,8 @@
 ---
 images:
-- wikimedia_commons-icon.svg
-- wikimedia_commons-ar21.svg
 - wikimedia_commons-vertical.svg
+- wikimedia_commons-ar21.svg
+- wikimedia_commons-icon.svg
 logohandle: wikimedia_commons
 sort: wikimedia commons
 tags:

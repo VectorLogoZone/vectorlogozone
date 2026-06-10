@@ -1,5 +1,8 @@
 ---
 facebook: http://www.facebook.com/Boeing
+images:
+- boeing-icon.svg
+- boeing-ar21.svg
 instagram: http://www.instagram.com/boeing
 linkedin: http://www.linkedin.com/company/boeing
 logohandle: boeing

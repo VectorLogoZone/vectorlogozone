@@ -1,5 +1,8 @@
 ---
 blog: https://blog.macstadium.com/
+images:
+- macstadium-ar21.svg
+- macstadium-icon.svg
 linkedin: http://linkedin.com/company/macstadium
 logohandle: macstadium
 sort: macstadium

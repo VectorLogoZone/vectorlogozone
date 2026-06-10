@@ -1,6 +1,9 @@
 ---
 blog: https://phalcon.link/blog
 codehost: https://github.com/phalcon/cphalcon
+images:
+- phalconphp-ar21.svg
+- phalconphp-icon.svg
 logohandle: phalconphp
 sort: phalconphp
 title: Phalcon

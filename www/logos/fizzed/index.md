@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/fizzed
+images:
+- fizzed-ar21.svg
+- fizzed-icon.svg
 logohandle: fizzed
 sort: fizzed
 title: Fizzed

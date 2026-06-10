@@ -1,8 +1,8 @@
 ---
 facebook: http://www.facebook.com/mashable
 images:
-- mashable-icon.svg
 - mashable-ar21.svg
+- mashable-icon.svg
 instagram: https://www.instagram.com/mashable/
 linkedin: https://www.linkedin.com/company/mashable
 logohandle: mashable

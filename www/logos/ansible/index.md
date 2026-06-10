@@ -2,6 +2,9 @@
 blog: https://ansible.com/blog
 codehost: https://github.com/ansible/ansible
 facebook: https://facebook.com/ansibleautomation
+images:
+- ansible-icon.svg
+- ansible-ar21.svg
 logohandle: ansible
 sort: ansible
 title: Ansible

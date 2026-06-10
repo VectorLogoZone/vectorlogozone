@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/less
+images:
+- lesscss-icon.svg
+- lesscss-ar21.svg
 logohandle: lesscss
 sort: less
 title: less

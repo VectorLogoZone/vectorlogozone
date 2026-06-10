@@ -2,6 +2,9 @@
 blog: https://saltstack.com/blog
 codehost: https://github.com/saltstack
 facebook: https://facebook.com/SaltStack
+images:
+- saltstack-icon.svg
+- saltstack-ar21.svg
 linkedin: https://linkedin.com/company/salt-stack-inc
 logohandle: saltstack
 sort: saltstack

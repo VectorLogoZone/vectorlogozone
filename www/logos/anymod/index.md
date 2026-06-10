@@ -1,7 +1,10 @@
 ---
-blog: 'https://medium.com/anymod'
+blog: https://medium.com/anymod
+images:
+- anymod-icon.svg
+- anymod-ar21.svg
 logohandle: anymod
 sort: anymod
 title: AnyMod
-website: 'https://anymod.com/'
+website: https://anymod.com/
 ---

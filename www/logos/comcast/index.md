@@ -3,8 +3,8 @@ blog: https://corporate.comcast.com/press
 codehost: https://github.com/comcast
 facebook: https://www.facebook.com/comcast
 images:
-- comcast-icon.svg
 - comcast-ar21.svg
+- comcast-icon.svg
 logohandle: comcast
 sort: comcast
 title: comcast

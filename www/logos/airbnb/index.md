@@ -1,6 +1,8 @@
 ---
 facebook: https://www.facebook.com/airbnb
 images:
+- airbnb-ar21.svg
+- airbnb-icon.svg
 - airbnb-tile.svg
 instagram: https://instagram.com/airbnb
 logohandle: airbnb

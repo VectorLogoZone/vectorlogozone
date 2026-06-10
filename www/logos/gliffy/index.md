@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/artberri/sidr
 facebook: https://facebook.com/Gliffy
+images:
+- gliffy-icon.svg
+- gliffy-ar21.svg
 linkedin: https://linkedin.com/company/gliffy
 logohandle: gliffy
 sort: gliffy

@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/dashpay
 facebook: https://facebook.com/dashpay
+images:
+- dash-ar21.svg
+- dash-icon.svg
 linkedin: https://linkedin.com/groups?gid=8179817&goback=.gmp_8179817&home=&trk=groups_most_recent-h-logo
 logohandle: dash
 sort: dash

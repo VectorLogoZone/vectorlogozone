@@ -1,6 +1,9 @@
 ---
 blog: https://medium.com/gemini/
 facebook: https://facebook.com/GeminiTrust
+images:
+- gemini-ar21.svg
+- gemini-icon.svg
 instagram: https://instagram.com/gemini
 linkedin: https://linkedin.com/company/gemini-com
 logohandle: gemini

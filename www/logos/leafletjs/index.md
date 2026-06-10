@@ -2,8 +2,8 @@
 blog: http://leafletjs.com/blog.html
 codehost: https://github.com/Leaflet
 images:
-- leafletjs-ar21.svg
 - leafletjs-icon.svg
+- leafletjs-ar21.svg
 logohandle: leafletjs
 sort: leaflet
 title: Leaflet

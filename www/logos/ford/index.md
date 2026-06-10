@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/ford
+images:
+- ford-ar21.svg
+- ford-icon.svg
 instagram: http://instagram.com/ford
 linkedin: https://linkedin.com/company/ford-motor-company
 logohandle: ford

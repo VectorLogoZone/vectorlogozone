@@ -1,8 +1,8 @@
 ---
 guide: https://github.com/apache/maven-site/tree/master/content/resources/images
 images:
-- apache_maven-ar21.svg
 - apache_maven-icon.svg
+- apache_maven-ar21.svg
 logohandle: apache_maven
 sort: maven
 tags:

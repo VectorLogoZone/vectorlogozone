@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/ScientificAmerican
+images:
+- scientificamerican-icon.svg
+- scientificamerican-ar21.svg
 instagram: https://instagram.com/scientific_american/
 logohandle: scientificamerican
 sort: scientificamerican

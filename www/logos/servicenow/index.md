@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/servicenow
+images:
+- servicenow-icon.svg
+- servicenow-ar21.svg
 linkedin: https://linkedin.com/company/servicenow
 logohandle: servicenow
 sort: servicenow

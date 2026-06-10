@@ -1,6 +1,9 @@
 ---
 blog: https://blog.hello.coop/
 codehost: https://github.com/HelloCoop
+images:
+- hellocoop-icon.svg
+- hellocoop-ar21.svg
 linkedin: https://linkedin.com/company/HelloCoop
 logohandle: hellocoop
 sort: hellocoop

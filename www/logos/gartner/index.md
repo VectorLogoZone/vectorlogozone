@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Gartner
+images:
+- gartner-icon.svg
+- gartner-ar21.svg
 linkedin: https://linkedin.com/company/gartner
 logohandle: gartner
 sort: gartner

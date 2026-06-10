@@ -3,9 +3,9 @@ blog: https://redis.io/buzz
 codehost: https://github.com/antirez/redis
 guide: https://github.com/antirez/redis-io/tree/master/public/images
 images:
+- redis-official.svg
 - redis-ar21.svg
 - redis-icon.svg
-- redis-official.svg
 logohandle: redis
 sort: redis
 title: Redis

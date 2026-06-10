@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/CommunicationArts
+images:
+- commarts-ar21.svg
+- commarts-icon.svg
 instagram: http://instagram.com/communicationarts
 linkedin: https://linkedin.com/company/37272
 logohandle: commarts

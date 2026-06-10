@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/theacttest
+images:
+- act-ar21.svg
+- act-icon.svg
 instagram: https://instagram.com/actstudent
 linkedin: https://linkedin.com/company/act
 logohandle: act

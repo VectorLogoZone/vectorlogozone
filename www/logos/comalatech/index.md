@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/comalatech
+images:
+- comalatech-ar21.svg
+- comalatech-icon.svg
 logohandle: comalatech
 sort: comalatech
 title: Comalatech

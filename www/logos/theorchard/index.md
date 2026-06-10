@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/theorchard
+images:
+- theorchard-ar21.svg
+- theorchard-icon.svg
 instagram: https://instagram.com/the_orchard_
 logohandle: theorchard
 sort: theorchard

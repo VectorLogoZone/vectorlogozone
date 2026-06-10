@@ -2,6 +2,9 @@
 blog: https://medium.com/@AugurProject
 codehost: https://github.com/AugurProject
 facebook: https://facebook.com/AugurProject
+images:
+- augurnet-ar21.svg
+- augurnet-icon.svg
 logohandle: augurnet
 sort: augur
 title: Augur

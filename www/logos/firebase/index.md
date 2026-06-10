@@ -4,8 +4,8 @@ codehost: https://github.com/firebase
 facebook: https://www.facebook.com/Firebase/
 guide: https://firebase.google.com/brand-guidelines/
 images:
-- firebase-ar21.svg
 - firebase-icon.svg
+- firebase-ar21.svg
 logohandle: firebase
 sort: firebase
 tags:

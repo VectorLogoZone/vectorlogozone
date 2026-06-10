@@ -3,8 +3,8 @@ codehost: https://github.com/fitbit
 facebook: https://www.facebook.com/fitbit
 guide: https://brandisty.com/fitbit
 images:
-- fitbit-icon.svg
 - fitbit-ar21.svg
+- fitbit-icon.svg
 logohandle: fitbit
 sort: fitbit
 title: Fitbit

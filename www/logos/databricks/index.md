@@ -1,6 +1,9 @@
 ---
 blog: https://databricks.com/blog
 facebook: https://facebook.com/pages/Databricks/560203607379694
+images:
+- databricks-icon.svg
+- databricks-ar21.svg
 linkedin: https://linkedin.com/company/databricks
 logohandle: databricks
 sort: databricks

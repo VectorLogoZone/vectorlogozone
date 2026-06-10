@@ -1,4 +1,7 @@
 ---
+images:
+- apache_cassandra-ar21.svg
+- apache_cassandra-icon.svg
 logohandle: apache_cassandra
 sort: cassandra
 tags:

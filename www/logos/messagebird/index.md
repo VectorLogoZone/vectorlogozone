@@ -1,8 +1,11 @@
 ---
-blog: 'http://blog.messagebird.com/'
-guide: 'https://cdn-gc.messagebird.com/assets/images/glyph.svg'
+blog: http://blog.messagebird.com/
+guide: https://cdn-gc.messagebird.com/assets/images/glyph.svg
+images:
+- messagebird-ar21.svg
+- messagebird-icon.svg
 logohandle: messagebird
 sort: messagebird
 title: MessageBird
-website: 'https://www.messagebird.com/en-us/'
+website: https://www.messagebird.com/en-us/
 ---

@@ -2,8 +2,8 @@
 codehost: https://github.com/Kong/kong
 facebook: https://www.facebook.com/konghq/
 images:
-- konghq-ar21.svg
 - konghq-icon.svg
+- konghq-ar21.svg
 linkedin: https://linkedin.com/company/278819
 logohandle: konghq
 other:

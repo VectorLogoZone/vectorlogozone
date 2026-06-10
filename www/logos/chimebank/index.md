@@ -1,6 +1,9 @@
 ---
 blog: https://chimebank.com/blog
 facebook: https://facebook.com/chimebank
+images:
+- chimebank-icon.svg
+- chimebank-ar21.svg
 instagram: https://instagram.com/Chime
 logohandle: chimebank
 sort: chimebank

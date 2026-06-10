@@ -1,8 +1,10 @@
 ---
-blog: 'https://blog.skymind.ai/'
+blog: https://blog.skymind.ai/
+images:
+- skymindai-icon.svg
+- skymindai-ar21.svg
 logohandle: skymindai
 sort: skymind
 title: Skymind
-website: 'https://skymind.ai/'
+website: https://skymind.ai/
 ---
-

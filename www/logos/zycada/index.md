@@ -1,4 +1,7 @@
 ---
+images:
+- zycada-icon.svg
+- zycada-ar21.svg
 linkedin: https://linkedin.com/company/zycada-networks
 logohandle: zycada
 sort: zycada

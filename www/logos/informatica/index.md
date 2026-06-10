@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/InformaticaLLC
+images:
+- informatica-icon.svg
+- informatica-ar21.svg
 instagram: https://instagram.com/informaticacorp
 linkedin: https://linkedin.com/company/informatica
 logohandle: informatica

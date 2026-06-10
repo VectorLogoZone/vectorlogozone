@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/lyrebirdai
+images:
+- lyrebirdai-icon.svg
+- lyrebirdai-ar21.svg
 logohandle: lyrebirdai
 sort: lyrebird
 title: Lyrebird

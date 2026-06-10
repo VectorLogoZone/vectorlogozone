@@ -1,10 +1,10 @@
 ---
 codehost: https://github.com/php
 images:
-- php-icon.svg
-- php-horizontal.svg
-- php-ar21.svg
 - php-vertical.svg
+- php-icon.svg
+- php-ar21.svg
+- php-horizontal.svg
 logohandle: php
 sort: php
 tags:

@@ -1,6 +1,9 @@
 ---
 blog: https://toptal.com/blog
 facebook: https://facebook.com/toptal
+images:
+- toptal-ar21.svg
+- toptal-icon.svg
 instagram: https://instagram.com/toptal
 linkedin: https://linkedin.com/company/toptal
 logohandle: toptal

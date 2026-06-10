@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/FreedomofthePressFoundation
+images:
+- freedompress-ar21.svg
+- freedompress-icon.svg
 logohandle: freedompress
 sort: freedom
 title: Freedom of the Press Foundation

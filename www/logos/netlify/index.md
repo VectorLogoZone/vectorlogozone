@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/netlify
+images:
+- netlify-icon.svg
+- netlify-ar21.svg
 logohandle: netlify
 sort: netlify
 title: Netlify

@@ -2,6 +2,10 @@
 codehost: https://github.com/BunsenLabs
 facebook: https://www.facebook.com/groups/43721619798/
 guide: https://github.com/BunsenLabs/website/tree/master/src/img
+images:
+- bunsenlabs-icon.svg
+- bunsenlabs-official.svg
+- bunsenlabs-ar21.svg
 logohandle: bunsenlabs
 reddit: https://www.reddit.com/r/BunsenLabs/
 sort: bunsenlabs

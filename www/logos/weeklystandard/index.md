@@ -1,4 +1,7 @@
 ---
+images:
+- weeklystandard-icon.svg
+- weeklystandard-ar21.svg
 logohandle: weeklystandard
 sort: weeklystandard
 title: The Weekly Standard

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/cloudera
+images:
+- cloudera-ar21.svg
+- cloudera-icon.svg
 linkedin: https://linkedin.com/company/cloudera
 logohandle: cloudera
 sort: cloudera

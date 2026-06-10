@@ -3,6 +3,8 @@ blog: https://telegram.org/blog
 guide: https://telegram.org/press
 images:
 - telegram-tile.svg
+- telegram-icon.svg
+- telegram-ar21.svg
 logohandle: telegram
 sort: telegram
 tags:

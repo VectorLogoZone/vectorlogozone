@@ -9,8 +9,8 @@ font:
   name: Open Sans
 guide: https://zapier.com/brand/
 images:
-- zapier-ar21.svg
 - zapier-icon.svg
+- zapier-ar21.svg
 - zapier-official.svg
 linkedin: http://www.linkedin.com/company/zapier/
 logohandle: zapier

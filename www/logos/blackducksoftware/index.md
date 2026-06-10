@@ -1,6 +1,9 @@
 ---
 blog: http://blog.blackducksoftware.com/
 facebook: http://www.facebook.com/pages/Black-Duck-Software/85506379074
+images:
+- blackducksoftware-ar21.svg
+- blackducksoftware-icon.svg
 linkedin: http://linkedin.com/company/black-duck-software
 logohandle: blackducksoftware
 slideshare: https://www.slideshare.net/blackducksoftware

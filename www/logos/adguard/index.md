@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/AdguardEn
+images:
+- adguard-icon.svg
+- adguard-ar21.svg
 instagram: https://instagram.com/adguard
 logohandle: adguard
 sort: adguard

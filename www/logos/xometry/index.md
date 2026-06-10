@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/xometry
+images:
+- xometry-ar21.svg
+- xometry-icon.svg
 instagram: https://instagram.com/xometry
 linkedin: https://linkedin.com/company/xometry
 logohandle: xometry

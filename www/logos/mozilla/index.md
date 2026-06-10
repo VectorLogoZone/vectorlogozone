@@ -4,8 +4,8 @@ codehost: https://github.com/mozilla
 facebook: https://www.facebook.com/mozilla
 guide: https://mozilla.ninja/mlogo
 images:
-- mozilla-icon.svg
 - mozilla-ar21.svg
+- mozilla-icon.svg
 logohandle: mozilla
 sort: mozilla
 tags:

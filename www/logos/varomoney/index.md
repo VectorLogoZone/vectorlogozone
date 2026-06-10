@@ -1,6 +1,8 @@
 ---
 blog: https://varomoney.com/blog
 facebook: https://facebook.com/varomoney
+images:
+- varomoney-official.svg
 instagram: https://instagram.com/varomoney
 linkedin: https://linkedin.com/company/varo-money-inc
 logohandle: varomoney

@@ -8,8 +8,8 @@ font:
   name: Open Sans
 guide: https://github.com/carlosbaraza/web-assembly-logo
 images:
-- webassembly-icon.svg
 - webassembly-ar21.svg
+- webassembly-icon.svg
 logohandle: webassembly
 sort: webassembly
 tags:

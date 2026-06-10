@@ -1,8 +1,8 @@
 ---
 blog: https://coreos.com/blog
 images:
-- coreos-ar21.svg
 - coreos-icon.svg
+- coreos-ar21.svg
 logohandle: coreos
 sort: coreos
 title: CoreOS

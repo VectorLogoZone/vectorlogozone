@@ -1,5 +1,8 @@
 ---
 guide: https://www.wappalyzer.com/logos/
+images:
+- wappalyzer-ar21.svg
+- wappalyzer-icon.svg
 logohandle: wappalyzer
 sort: wappalyzer
 title: Wappalyzer

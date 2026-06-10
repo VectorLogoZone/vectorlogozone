@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/shopify
+images:
+- shopify-ar21.svg
+- shopify-icon.svg
 instagram: https://instagram.com/shopify
 linkedin: https://linkedin.com/company/shopify
 logohandle: shopify

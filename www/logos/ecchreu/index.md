@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/ecchr.eu
+images:
+- ecchreu-icon.svg
+- ecchreu-ar21.svg
 logohandle: ecchreu
 sort: ecchr
 title: European Center for Constitutional and Human Rights

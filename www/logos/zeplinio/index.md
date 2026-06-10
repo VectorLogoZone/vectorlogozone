@@ -1,6 +1,9 @@
 ---
 blog: https://blog.zeplin.io/
 facebook: https://facebook.com/zeplin.io
+images:
+- zeplinio-ar21.svg
+- zeplinio-icon.svg
 linkedin: https://linkedin.com/company/zeplin-io
 logohandle: zeplinio
 sort: zeplin

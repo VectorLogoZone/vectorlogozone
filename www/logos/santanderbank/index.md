@@ -1,5 +1,8 @@
 ---
 facebook: https://www.facebook.com/SantanderBankUS
+images:
+- santanderbank-ar21.svg
+- santanderbank-icon.svg
 instagram: https://www.instagram.com/santanderbankus
 linkedin: https://www.linkedin.com/company/santander-bank-na
 logohandle: santanderbank

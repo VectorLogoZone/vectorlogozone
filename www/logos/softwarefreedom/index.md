@@ -1,4 +1,7 @@
 ---
+images:
+- softwarefreedom-icon.svg
+- softwarefreedom-ar21.svg
 logohandle: softwarefreedom
 sort: softwarefreedom
 title: Software Freedom Law Center

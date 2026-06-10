@@ -1,4 +1,7 @@
 ---
+images:
+- bbc-icon.svg
+- bbc-ar21.svg
 logohandle: bbc
 sort: bbc
 title: BBC

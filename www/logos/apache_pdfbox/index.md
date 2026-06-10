@@ -1,4 +1,7 @@
 ---
+images:
+- apache_pdfbox-ar21.svg
+- apache_pdfbox-icon.svg
 logohandle: apache_pdfbox
 sort: pdfbox
 tags:
@@ -6,5 +9,5 @@ tags:
 - java
 - pdf
 title: Apache PDFBox
-website: 'https://pdfbox.apache.org/'
+website: https://pdfbox.apache.org/
 ---

@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/remy/nodemon
+images:
+- nodemonio-ar21.svg
+- nodemonio-icon.svg
 logohandle: nodemonio
 other:
 - name: OpenCollective

@@ -1,8 +1,8 @@
 ---
 facebook: https://www.facebook.com/minecraft/
 images:
-- minecraft-ar21.svg
 - minecraft-icon.svg
+- minecraft-ar21.svg
 logohandle: minecraft
 sort: minecraft
 tags:

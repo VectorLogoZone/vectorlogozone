@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/pingboard
+images:
+- pingboard-icon.svg
+- pingboard-ar21.svg
 linkedin: https://linkedin.com/company/pingboard
 logohandle: pingboard
 pinterest: https://pinterest.com/pingboard

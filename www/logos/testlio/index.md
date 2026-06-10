@@ -2,8 +2,8 @@
 blog: https://testlio.com/blog
 facebook: https://facebook.com/testlio
 images:
-- testlio-ar21.svg
 - testlio-icon.svg
+- testlio-ar21.svg
 instagram: https://www.instagram.com/testlio/
 linkedin: https://linkedin.com/company/testlio
 logohandle: testlio

@@ -2,8 +2,8 @@
 codehost: https://github.com/Gandi
 facebook: https://www.facebook.com/GandiBar
 images:
-- gandi-official.svg
 - gandi-icon.svg
+- gandi-official.svg
 - gandi-ar21.svg
 logohandle: gandi
 sort: gandi

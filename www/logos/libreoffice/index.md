@@ -5,8 +5,8 @@ font:
   url: http://www.fontspace.com/arro/vegur
 guide: https://wiki.documentfoundation.org/Marketing/Branding
 images:
-- libreoffice-ar21.svg
 - libreoffice-official.svg
+- libreoffice-ar21.svg
 - libreoffice-icon.svg
 logohandle: libreoffice
 sort: libreoffice

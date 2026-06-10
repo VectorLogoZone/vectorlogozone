@@ -1,6 +1,9 @@
 ---
 codehost: https://github.com/brave
 facebook: https://facebook.com/BraveSoftware
+images:
+- brave-icon.svg
+- brave-ar21.svg
 logohandle: brave
 sort: brave
 title: Brave Browser

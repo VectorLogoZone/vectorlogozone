@@ -1,5 +1,8 @@
 ---
 facebook: http://facebook.com/NVIDIA
+images:
+- nvidia-ar21.svg
+- nvidia-icon.svg
 logohandle: nvidia
 sort: nvidia
 title: NVIDIA

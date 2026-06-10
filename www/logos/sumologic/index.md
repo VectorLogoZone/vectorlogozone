@@ -1,6 +1,9 @@
 ---
 blog: https://sumologic.com/blog
 facebook: https://facebook.com/Sumo.Logic
+images:
+- sumologic-ar21.svg
+- sumologic-icon.svg
 linkedin: https://linkedin.com/company/sumo-logic
 logohandle: sumologic
 sort: sumologic

@@ -1,6 +1,9 @@
 ---
 blog: https://stride.com/blog
 facebook: https://facebook.com/Atlassian
+images:
+- stride-ar21.svg
+- stride-icon.svg
 logohandle: stride
 sort: stride
 title: Stride

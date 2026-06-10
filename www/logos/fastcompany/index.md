@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/FastCompany
+images:
+- fastcompany-icon.svg
+- fastcompany-ar21.svg
 instagram: https://instagram.com/fastcompany
 linkedin: https://linkedin.com/company/fast-company
 logohandle: fastcompany

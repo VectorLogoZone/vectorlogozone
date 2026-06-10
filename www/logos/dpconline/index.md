@@ -1,4 +1,7 @@
 ---
+images:
+- dpconline-icon.svg
+- dpconline-ar21.svg
 instagram: https://instagram.com/digitalpreservationcoalition
 logohandle: dpconline
 sort: dpconline

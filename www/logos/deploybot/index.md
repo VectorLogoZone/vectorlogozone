@@ -1,5 +1,8 @@
 ---
 blog: https://deploybot.com/blog
+images:
+- deploybot-ar21.svg
+- deploybot-icon.svg
 logohandle: deploybot
 sort: deploybot
 title: DeployBot

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/IEEE.org
+images:
+- ieee-icon.svg
+- ieee-ar21.svg
 instagram: https://instagram.com/ieeeorg
 linkedin: https://linkedin.com/company/ieee
 logohandle: ieee

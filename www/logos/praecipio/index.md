@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/praecipio
+images:
+- praecipio-icon.svg
+- praecipio-ar21.svg
 linkedin: https://linkedin.com/company/praecipio-consulting
 logohandle: praecipio
 sort: praecipio

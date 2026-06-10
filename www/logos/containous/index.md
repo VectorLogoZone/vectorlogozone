@@ -1,6 +1,9 @@
 ---
 blog: https://blog.containo.us/
 codehost: https://github.com/containous
+images:
+- containous-ar21.svg
+- containous-icon.svg
 linkedin: https://linkedin.com/company/containous
 logohandle: containous
 sort: containo

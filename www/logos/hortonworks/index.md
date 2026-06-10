@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/hortonworks
+images:
+- hortonworks-ar21.svg
+- hortonworks-icon.svg
 linkedin: http://www.linkedin.com/company/hortonworks
 logohandle: hortonworks
 sort: hortonworks

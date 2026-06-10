@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Intel
+images:
+- intel-ar21.svg
+- intel-icon.svg
 instagram: http://instagram.com/intel
 linkedin: https://linkedin.com/company/intel-corporation
 logohandle: intel

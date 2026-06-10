@@ -2,6 +2,9 @@
 blog: https://keycdn.com/blog
 codehost: https://github.com/keycdn
 facebook: http://facebook.com/keycdn
+images:
+- keycdn-ar21.svg
+- keycdn-icon.svg
 linkedin: https://linkedin.com/company/keycdn
 logohandle: keycdn
 sort: keycdn

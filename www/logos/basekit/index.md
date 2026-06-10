@@ -1,6 +1,9 @@
 ---
 blog: https://basekit.com/blog
 facebook: https://facebook.com/TeamBaseKit
+images:
+- basekit-ar21.svg
+- basekit-icon.svg
 linkedin: https://linkedin.com/company/basekit
 logohandle: basekit
 sort: basekit

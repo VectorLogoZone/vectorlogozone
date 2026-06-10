@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/fastify/fastify
+images:
+- fastifyio-ar21.svg
+- fastifyio-icon.svg
 logohandle: fastifyio
 sort: fastify
 title: Fastify

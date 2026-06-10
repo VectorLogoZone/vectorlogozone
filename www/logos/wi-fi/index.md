@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/wificertified
+images:
+- wi-fi-icon.svg
+- wi-fi-ar21.svg
 linkedin: https://linkedin.com/company/wi-fi-alliance
 logohandle: wi-fi
 sort: wifi

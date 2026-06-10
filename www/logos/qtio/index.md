@@ -1,6 +1,9 @@
 ---
 blog: http://blog.qt.io/
 facebook: https://facebook.com/qt
+images:
+- qtio-ar21.svg
+- qtio-icon.svg
 logohandle: qtio
 sort: qt
 title: Qt

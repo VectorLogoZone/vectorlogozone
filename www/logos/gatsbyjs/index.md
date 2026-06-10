@@ -1,6 +1,9 @@
 ---
 blog: https://gatsbyjs.org/blog
 codehost: https://github.com/gatsbyjs/gatsby
+images:
+- gatsbyjs-icon.svg
+- gatsbyjs-ar21.svg
 logohandle: gatsbyjs
 sort: gatsbyjs
 title: Gatsby.js

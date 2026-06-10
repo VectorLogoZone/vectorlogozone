@@ -1,5 +1,8 @@
 ---
 codehost: https://github.com/amio/badgen
+images:
+- badgennet-ar21.svg
+- badgennet-icon.svg
 logohandle: badgennet
 sort: badgen
 title: Badgen

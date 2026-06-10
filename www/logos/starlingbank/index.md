@@ -1,6 +1,9 @@
 ---
 blog: https://starlingbank.com/blog
 facebook: https://facebook.com/starlingbank
+images:
+- starlingbank-icon.svg
+- starlingbank-ar21.svg
 instagram: http://instagram.com/starlingbank
 linkedin: https://linkedin.com/company/starling-bank
 logohandle: starlingbank

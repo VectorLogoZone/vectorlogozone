@@ -7,10 +7,10 @@ font:
   name: Axel Bold
   url: https://www.fontshop.com/fonts/downloads/fontshop_ag/axel_bold_ot/
 images:
-- fileformatinfo-tile.svg
 - fileformatinfo-horizontal.svg
-- fileformatinfo-ar21.svg
 - fileformatinfo-icon.svg
+- fileformatinfo-tile.svg
+- fileformatinfo-ar21.svg
 logohandle: fileformatinfo
 sort: fileformat.info
 tags:

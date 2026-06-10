@@ -1,8 +1,8 @@
 ---
 blog: https://blog.beanstalkapp.com/
 images:
-- beanstalkapp-ar21.svg
 - beanstalkapp-icon.svg
+- beanstalkapp-ar21.svg
 logohandle: beanstalkapp
 sort: beanstalkapp
 title: Beanstalk

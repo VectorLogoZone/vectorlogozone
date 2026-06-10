@@ -4,6 +4,9 @@ colors:
 - fffcf6
 facebook: http://facebook.com/zendesk
 guide: https://dam.zendesk.com/guidelines/guide/917681d4-0746-47a4-9e18-61729d8ee987
+images:
+- zendesk-icon.svg
+- zendesk-ar21.svg
 instagram: http://instagram.com/zendesk
 linkedin: http://linkedin.com/company/zendesk
 logohandle: zendesk

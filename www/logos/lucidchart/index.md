@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/lucidchart
+images:
+- lucidchart-ar21.svg
+- lucidchart-icon.svg
 linkedin: https://linkedin.com/company/lucidchart
 logohandle: lucidchart
 sort: lucidchart

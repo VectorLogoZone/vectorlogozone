@@ -4,9 +4,9 @@ colors:
 - '#FF9900'
 facebook: https://www.facebook.com/amazon
 images:
+- amazon-ar21.svg
 - amazon-icon.svg
 - amazon-tile.svg
-- amazon-ar21.svg
 logohandle: amazon
 pinterest: https://www.pinterest.com/amazon
 sort: amazon

@@ -2,6 +2,9 @@
 blog: https://coinranking.com/blog
 codehost: https://github.com/coinranking
 facebook: https://facebook.com/CoinrankingOfficial
+images:
+- coinranking-ar21.svg
+- coinranking-icon.svg
 instagram: https://instagram.com/coinrankingofficial
 linkedin: https://linkedin.com/company/coinranking
 logohandle: coinranking

@@ -2,8 +2,8 @@
 blog: https://facebook.github.io/react/blog/
 codehost: https://github.com/facebook/react
 images:
-- reactjs-icon.svg
 - reactjs-ar21.svg
+- reactjs-icon.svg
 logohandle: reactjs
 sort: react
 title: React

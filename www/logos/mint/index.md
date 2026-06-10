@@ -1,6 +1,9 @@
 ---
 blog: http://blog.mint.com/
 facebook: http://facebook.com/mint
+images:
+- mint-ar21.svg
+- mint-icon.svg
 instagram: https://instagram.com/mintapp
 logohandle: mint
 sort: mint

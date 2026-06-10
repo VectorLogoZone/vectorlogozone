@@ -1,6 +1,9 @@
 ---
 blog: https://ringcentral.com/blog
 facebook: https://facebook.com/ringcentral
+images:
+- ringcentral-ar21.svg
+- ringcentral-icon.svg
 linkedin: https://linkedin.com/company/ringcentral
 logohandle: ringcentral
 sort: ringcentral

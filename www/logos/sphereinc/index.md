@@ -1,6 +1,9 @@
 ---
 blog: https://sphereinc.com/blog
 facebook: https://facebook.com/pages/Sphere-Consulting/117317111623107
+images:
+- sphereinc-icon.svg
+- sphereinc-ar21.svg
 linkedin: https://linkedin.com/company/sphere-consulting-inc
 logohandle: sphereinc
 sort: sphereinc

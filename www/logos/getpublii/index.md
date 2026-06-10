@@ -2,6 +2,9 @@
 blog: https://getpublii.com/blog
 codehost: https://github.com/GetPublii/Publii
 facebook: https://facebook.com/publii
+images:
+- getpublii-icon.svg
+- getpublii-ar21.svg
 instagram: https://instagram.com/getpublii
 logohandle: getpublii
 sort: publii

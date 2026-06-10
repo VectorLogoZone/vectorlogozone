@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/3M
+images:
+- 3m-icon.svg
+- 3m-ar21.svg
 instagram: https://instagram.com/3M
 linkedin: https://linkedin.com/company/3m
 logohandle: 3m

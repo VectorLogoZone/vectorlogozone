@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/hitachi.global
+images:
+- hitachi-icon.svg
+- hitachi-ar21.svg
 linkedin: https://linkedin.com/company/3843
 logohandle: hitachi
 sort: hitachi

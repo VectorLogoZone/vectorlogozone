@@ -2,8 +2,8 @@
 blog: https://blog.mozilla.org/firefox/
 facebook: https://www.facebook.com/Firefox
 images:
-- firefox-icon.svg
 - firefox-ar21.svg
+- firefox-icon.svg
 logohandle: firefox
 sort: firefox
 tags:

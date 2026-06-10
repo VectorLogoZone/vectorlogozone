@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/Kantega
+images:
+- kantegano-icon.svg
+- kantegano-ar21.svg
 logohandle: kantegano
 sort: kantega
 title: Kantega

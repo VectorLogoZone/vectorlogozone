@@ -1,10 +1,10 @@
 ---
 guide: http://svn.apache.org/repos/asf/kafka/site/logos/originals/eps/
 images:
-- apache_kafka-wordmark.svg
-- apache_kafka-vertical.svg
-- apache_kafka-ar21.svg
 - apache_kafka-icon.svg
+- apache_kafka-ar21.svg
+- apache_kafka-vertical.svg
+- apache_kafka-wordmark.svg
 logohandle: apache_kafka
 sort: kafka
 tags:

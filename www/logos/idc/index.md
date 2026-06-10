@@ -1,4 +1,7 @@
 ---
+images:
+- idc-ar21.svg
+- idc-icon.svg
 linkedin: https://linkedin.com/company-beta/3386
 logohandle: idc
 sort: idc

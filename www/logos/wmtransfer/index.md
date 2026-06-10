@@ -1,6 +1,9 @@
 ---
 blog: http://blog.wmtransfer.com/en
 facebook: http://facebook.com/webmoneyofficial
+images:
+- wmtransfer-ar21.svg
+- wmtransfer-icon.svg
 logohandle: wmtransfer
 sort: wmtransfer
 title: WebMoney

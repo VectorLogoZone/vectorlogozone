@@ -1,6 +1,9 @@
 ---
 blog: https://blog.couchbase.com/
 facebook: https://facebook.com/Couchbase
+images:
+- couchbase-ar21.svg
+- couchbase-icon.svg
 linkedin: https://linkedin.com/company/couchbase
 logohandle: couchbase
 sort: couchbase

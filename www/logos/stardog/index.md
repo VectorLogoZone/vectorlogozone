@@ -1,6 +1,9 @@
 ---
 blog: http://stardog.com/blog
 facebook: https://facebook.com/StardogUnion
+images:
+- stardog-icon.svg
+- stardog-ar21.svg
 linkedin: https://linkedin.com/company/10917244
 logohandle: stardog
 sort: stardog

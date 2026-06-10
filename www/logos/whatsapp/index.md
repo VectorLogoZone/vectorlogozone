@@ -3,8 +3,8 @@ codehost: https://github.com/WhatsApp
 facebook: https://www.facebook.com/WhatsApp
 guide: https://www.whatsappbrand.com/
 images:
-- whatsapp-icon.svg
 - whatsapp-tile.svg
+- whatsapp-icon.svg
 - whatsapp-ar21.svg
 logohandle: whatsapp
 sort: whatsapp

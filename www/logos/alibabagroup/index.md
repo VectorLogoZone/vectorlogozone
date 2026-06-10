@@ -1,6 +1,9 @@
 ---
 facebook: https://www.facebook.com/AlibabaUS
 guide: https://www.alibabagroup.com/en/news/library
+images:
+- alibabagroup-ar21.svg
+- alibabagroup-icon.svg
 linkedin: https://www.linkedin.com/company/3839570
 logohandle: alibabagroup
 sort: alibabagroup

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/splunk
+images:
+- splunk-ar21.svg
+- splunk-icon.svg
 instagram: https://instagram.com/splunk
 linkedin: https://linkedin.com/company/splunk
 logohandle: splunk

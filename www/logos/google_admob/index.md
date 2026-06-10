@@ -1,4 +1,7 @@
 ---
+images:
+- google_admob-ar21.svg
+- google_admob-icon.svg
 logohandle: google_admob
 sort: admob
 title: Google AdMob

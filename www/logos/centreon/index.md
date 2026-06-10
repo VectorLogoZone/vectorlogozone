@@ -2,6 +2,9 @@
 blog: https://centreon.com/blog
 codehost: https://github.com/centreon
 facebook: https://facebook.com/CentreonMonitoring
+images:
+- centreon-ar21.svg
+- centreon-icon.svg
 logohandle: centreon
 sort: centreon
 title: Centreon

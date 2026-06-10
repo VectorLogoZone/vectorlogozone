@@ -1,6 +1,9 @@
 ---
 blog: https://webflow.com/blog
 facebook: https://facebook.com/webflow
+images:
+- webflow-icon.svg
+- webflow-ar21.svg
 instagram: https://instagram.com/webflowapp
 linkedin: https://linkedin.com/company/webflow-inc-
 logohandle: webflow

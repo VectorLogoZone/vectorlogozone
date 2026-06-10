@@ -1,6 +1,9 @@
 ---
 blog: https://blog.ballerina.io/
 codehost: https://github.com/ballerina-platform
+images:
+- ballerinaio-ar21.svg
+- ballerinaio-icon.svg
 logohandle: ballerinaio
 slack: https://ballerina.io/open-source/slack/
 sort: ballerina

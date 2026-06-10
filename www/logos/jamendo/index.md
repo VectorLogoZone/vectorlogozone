@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/jamendo
+images:
+- jamendo-icon.svg
+- jamendo-ar21.svg
 instagram: https://instagram.com/jamendo
 logohandle: jamendo
 sort: jamendo

@@ -1,5 +1,8 @@
 ---
 facebook: https://facebook.com/UBSglobal
+images:
+- ubs-ar21.svg
+- ubs-icon.svg
 linkedin: http://linkedin.com/company/ubs
 logohandle: ubs
 sort: ubs

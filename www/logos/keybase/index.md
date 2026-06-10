@@ -6,8 +6,8 @@ font:
   name: Open Sans
   url: https://en.wikipedia.org/wiki/Open_Sans
 images:
-- keybase-tile.svg
 - keybase-official.svg
+- keybase-tile.svg
 - keybase-icon.svg
 logohandle: keybase
 sort: keybase

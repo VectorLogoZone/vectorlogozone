@@ -3,8 +3,8 @@ blog: https://www.mongodb.com/blog
 codehost: https://github.com/mongodb
 facebook: https://facebook.com/mongodb
 images:
-- mongodb-icon.svg
 - mongodb-ar21.svg
+- mongodb-icon.svg
 logohandle: mongodb
 sort: mongodb
 tags:
