@@ -3,10 +3,10 @@ name: ar21dimensions
 on:
   pull_request:
     paths:
-      - www/logos/**/*-ar21*.svg
+      - src/content/logos/**/*-ar21*.svg
   push:
     paths:
-      - www/logos/**/*-ar21*.svg
+      - src/content/logos/**/*-ar21*.svg
   workflow_dispatch:
 
 jobs:
@@ -35,4 +35,4 @@ jobs:
           --progress=false \
           --text=true \
           --width=120 \
-          "www/logos/**/*-ar21*.svg"
+          "src/content/logos/**/*-ar21*.svg"

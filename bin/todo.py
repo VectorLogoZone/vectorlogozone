@@ -10,8 +10,9 @@ import sys
 import tarfile
 import time
 
+script_dir = os.path.dirname(os.path.abspath(__file__))
 default_input = "./vlz-todo.tgz"
-default_output = "/home/amarcuse/site/vectorlogozone/www/logos"
+default_output = os.path.abspath(os.path.join(script_dir, "..", "src", "content", "logos"))
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-q", "--quiet", help="hide status messages", default=True, dest='verbose', action="store_false")

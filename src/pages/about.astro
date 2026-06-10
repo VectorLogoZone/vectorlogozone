@@ -3,7 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import { getAllLogoRecords } from "../lib/logos";
 import { siteConfig } from "../lib/site";
 
-const records = getAllLogoRecords();
+const records = (await getAllLogoRecords());
 let imageCount = 0;
 let pageCount = 0;
 

@@ -3,7 +3,7 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import { getVisibleLogoRecords } from "../lib/logos";
 import { siteConfig } from "../lib/site";
 
-const withAr21 = getVisibleLogoRecords()
+const withAr21 = (await getVisibleLogoRecords())
   .filter((record) => record.data.images.includes(`${record.data.logohandle}-ar21.svg`))
   .map((record) => record.data.logohandle);
 

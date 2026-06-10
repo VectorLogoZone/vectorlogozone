@@ -4,7 +4,7 @@ import { getImageTypes, getVisibleLogoRecords } from "../../lib/logos";
 import { siteConfig } from "../../lib/site";
 
 const imageTypes = getImageTypes().filter((type) => type.inventory);
-const records = getVisibleLogoRecords();
+const records = (await getVisibleLogoRecords());
 const checkOn = '<i class="fa fa-check"></i>';
 const checkOff = '<i class="fa fa-fw"></i>';
 

@@ -78,7 +78,7 @@ def process(data, logohandle, logodir):
     data[logohandle] = favicon(fmsrc["website"])
 
 
-logoroot = "../www/logos"
+logoroot = "../src/content/logos"
 datafile = "../www/_data/favicons.json"
 
 f = open(datafile, "r")

@@ -6,7 +6,7 @@ import { siteConfig } from "../../lib/site";
 const socialMedia = getSocialMedia();
 const rows = [];
 
-for (const record of getAllLogoRecords()) {
+for (const record of (await getAllLogoRecords())) {
   const data = record.data;
   if (!data.logohandle) continue;
 
@@ -36,7 +36,7 @@ for (const record of getAllLogoRecords()) {
             | <a href={`https://twitter.com/search?q=${encodeURIComponent(data.title)}&src=typd`} rel="nofollow">Twitter</a>
             {data.website && <Fragment> | <a href={data.website}>Website</a></Fragment>}
           </td>
-          <td><a href={`https://github.com/VectorLogoZone/vectorlogozone/blob/main/www/logos/${encodeURIComponent(data.logohandle)}/index.md`} rel="nofollow">edit</a></td>
+          <td><a href={`https://github.com/VectorLogoZone/vectorlogozone/blob/main/src/content/logos/${encodeURIComponent(data.logohandle)}/index.md`} rel="nofollow">edit</a></td>
         </tr>
       ))}
     </tbody>

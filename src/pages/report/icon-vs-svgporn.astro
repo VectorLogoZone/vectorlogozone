@@ -4,7 +4,7 @@ import { getAllLogoRecords, getSvgporn } from "../../lib/logos";
 import { siteConfig } from "../../lib/site";
 
 const svgporn = getSvgporn();
-const rows = getAllLogoRecords().filter((record) => {
+const rows = ((await getAllLogoRecords())).filter((record) => {
   const data = record.data;
   const iconFile = `${data.logohandle}-icon.svg`;
   return data.images.includes(iconFile) && Array.isArray(svgporn[data.logohandle]) && svgporn[data.logohandle].length > 0;

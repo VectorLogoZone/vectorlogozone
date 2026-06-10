@@ -51,7 +51,7 @@ for sm in sm_yaml:
 if args.verbose:
     sys.stdout.write("INFO: loaded %d patterns and %d antipatterns for %d social media sites from %s\n" % (len(metamap), len(antimap), len(sm_yaml), sm_file))
 
-found_files = list(pathlib.Path(os.path.join(args.directory, "logos")).glob('**/index.md'))
+found_files = list(pathlib.Path(os.path.join(args.directory, "src", "content", "logos")).glob('**/index.md'))
 found_files.sort()   # only so debug output is consistent
 
 idxCount = 0

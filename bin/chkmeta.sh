@@ -17,7 +17,7 @@ fi
 
 SCRIPT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 REPO_DIR="$( cd "${SCRIPT_DIR}/.." && pwd )"
-DEFAULT_LOGODIR="${REPO_DIR}/www/logos"
+DEFAULT_LOGODIR="${REPO_DIR}/src/content/logos"
 
 LOGODIR="${1:-${DEFAULT_LOGODIR}}"
 if [ ! -d "${LOGODIR}" ]; then
@@ -25,7 +25,7 @@ if [ ! -d "${LOGODIR}" ]; then
     exit 1
 fi
 
-SCHEMA=$(realpath "${LOGODIR}/../schemas/metadata.schema.json")
+SCHEMA=$(realpath "${REPO_DIR}/schemas/metadata.schema.json")
 if [ ! -f "${SCHEMA}" ]; then
     echo "ERROR: schema not found: ${SCHEMA}"
     exit 1

@@ -17,7 +17,7 @@ import urllib.parse
 USER_AGENT="VectorLogoZone Icon Fetcher/1.0"
 TIMEOUT=15
 SIMPLE_JSON_URL="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/_data/simple-icons.json"
-LOGODIR = "../www/logos"
+LOGODIR = "../src/content/logos"
 DATAFILE = "../www/_data/simple.json"
 
 parser = argparse.ArgumentParser()

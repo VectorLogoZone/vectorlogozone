@@ -1,13 +1,11 @@
-import { readFileSync, readdirSync, statSync } from "node:fs";
-import path from "node:path";
-import matter from "gray-matter";
+import { readFileSync } from "node:fs";
 import { parse as parseYaml } from "yaml";
+import { getCollection } from "astro:content";
 
 const repoRoot = process.cwd();
-const logosRoot = path.join(repoRoot, "www", "logos");
-const dataRoot = path.join(repoRoot, "www", "_data");
+const dataRoot = `${repoRoot}/www/_data`;
 
-let logoRecordsCache;
+let logoRecordsPromise;
 let imageTypesCache;
 let socialMediaCache;
 let tagsCache;
@@ -18,72 +16,58 @@ let supertinyIconsCache;
 let rasterSizesCache;
 
 const readYaml = (filename) => {
-  const source = readFileSync(path.join(dataRoot, filename), "utf8");
+  const source = readFileSync(`${dataRoot}/${filename}`, "utf8");
   return parseYaml(source);
 };
 
 const readJson = (filename) => {
-  const source = readFileSync(path.join(dataRoot, filename), "utf8");
+  const source = readFileSync(`${dataRoot}/${filename}`, "utf8");
   return JSON.parse(source);
 };
 
-const loadLogoRecords = () => {
-  if (logoRecordsCache) {
-    return logoRecordsCache;
+const loadLogoRecords = async () => {
+  if (logoRecordsPromise) {
+    return logoRecordsPromise;
   }
 
-  const handles = readdirSync(logosRoot)
-    .filter((entry) => statSync(path.join(logosRoot, entry)).isDirectory())
-    .sort();
+  logoRecordsPromise = (async () => {
+    const entries = await getCollection("logos");
 
-  const records = [];
+    const records = entries.map((entry) => {
+      const defaultHandle = entry.id.split("/")[0];
+      const data = entry.data || {};
+      const handle = data.logohandle || defaultHandle;
 
-  for (const handle of handles) {
-    const indexFile = path.join(logosRoot, handle, "index.md");
-    try {
-      const parsed = matter(readFileSync(indexFile, "utf8"));
-      const data = parsed.data || {};
-      records.push({
+      return {
         handle,
         data: {
           ...data,
-          logohandle: data.logohandle || handle,
+          logohandle: handle,
           title: data.title || handle,
           sort: (data.sort || data.title || handle).toString().toLowerCase(),
           images: Array.isArray(data.images) ? data.images : []
         },
-        content: parsed.content || ""
-      });
-    } catch {
-      records.push({
-        handle,
-        data: {
-          logohandle: handle,
-          title: handle,
-          sort: handle.toLowerCase(),
-          images: []
-        },
-        content: ""
-      });
-    }
-  }
+        content: entry.body || ""
+      };
+    });
 
-  records.sort((a, b) => a.data.sort.localeCompare(b.data.sort));
+    records.sort((a, b) => a.data.sort.localeCompare(b.data.sort));
+    return records;
+  })();
 
-  logoRecordsCache = records;
-  return records;
+  return logoRecordsPromise;
 };
 
-export const getLogoHandles = () => loadLogoRecords().map((record) => record.handle);
+export const getLogoHandles = async () => (await loadLogoRecords()).map((record) => record.handle);
 
-export const getLogoRecord = (handle) => loadLogoRecords().find((record) => record.handle === handle);
+export const getLogoRecord = async (handle) => (await loadLogoRecords()).find((record) => record.handle === handle);
 
-export const getAllLogoRecords = () => loadLogoRecords();
+export const getAllLogoRecords = async () => loadLogoRecords();
 
-export const getVisibleLogoRecords = () => loadLogoRecords().filter((record) => !record.data.noindex);
+export const getVisibleLogoRecords = async () => (await loadLogoRecords()).filter((record) => !record.data.noindex);
 
-export const getLogoNeighbors = (handle) => {
-  const visible = getVisibleLogoRecords();
+export const getLogoNeighbors = async (handle) => {
+  const visible = await getVisibleLogoRecords();
   const index = visible.findIndex((record) => record.handle === handle);
   if (index < 0) {
     return { prev: null, next: null };
@@ -112,12 +96,13 @@ const parseLogoAlias = (value) => {
   return match ? match[1] : null;
 };
 
-export const getLogoRedirectAliases = () => {
-  const canonicalHandles = new Set(loadLogoRecords().map((record) => record.handle));
+export const getLogoRedirectAliases = async () => {
+  const records = await loadLogoRecords();
+  const canonicalHandles = new Set(records.map((record) => record.handle));
   const seenAliases = new Set();
   const aliases = [];
 
-  for (const record of loadLogoRecords()) {
+  for (const record of records) {
     for (const redirectValue of toArray(record.data.redirect_from)) {
       const aliasHandle = parseLogoAlias(redirectValue);
       if (!aliasHandle || aliasHandle === record.handle || canonicalHandles.has(aliasHandle) || seenAliases.has(aliasHandle)) {

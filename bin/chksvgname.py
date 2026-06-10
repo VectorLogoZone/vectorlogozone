@@ -11,7 +11,7 @@ import re
 import sys
 import time
 
-default_path = os.path.join(os.path.dirname(__file__), "..", "www", "logos")
+default_path = os.path.join(os.path.dirname(__file__), "..", "src", "content", "logos")
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-q", "--quiet", help="hide status messages", default=True, dest='verbose', action="store_false")
@@ -25,7 +25,7 @@ args = parser.parse_args()
 if args.verbose:
     sys.stdout.write("INFO: svg filename check starting at %s\n" % datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S'))
 
-found_svgs = list(pathlib.Path(default_path).glob('**/*.svg'))
+found_svgs = list(pathlib.Path(args.directory).glob('**/*.svg'))
 found_svgs.sort()   # only so debug output is consistent
 
 imgCount = 0

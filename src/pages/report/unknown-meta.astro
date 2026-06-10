@@ -54,7 +54,7 @@ for (const id of todoMeta) stdMeta.add(id);
 for (const sm of getSocialMedia()) stdMeta.add(sm.id);
 
 const rows = [];
-for (const record of getAllLogoRecords()) {
+for (const record of (await getAllLogoRecords())) {
   const data = record.data;
   if (!data.logohandle) continue;
 

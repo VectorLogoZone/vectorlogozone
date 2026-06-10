@@ -6,7 +6,7 @@ import { siteConfig } from "../../lib/site";
 const pageSize = 100;
 const imageTypes = getImageTypes().filter((type) => type.visualinventory);
 
-const rows = getAllLogoRecords().filter((record) => record.data.logohandle && record.data.images.length > 0);
+const rows = ((await getAllLogoRecords())).filter((record) => record.data.logohandle && record.data.images.length > 0);
 const maxPage = Math.max(1, Math.ceil(rows.length / pageSize));
 const imgCount = rows.reduce((sum, row) => sum + row.data.images.length, 0);
 ---

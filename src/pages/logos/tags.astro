@@ -3,7 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getAllLogoRecords, getTags } from "../../lib/logos";
 import { siteConfig } from "../../lib/site";
 
-const records = getAllLogoRecords();
+const records = (await getAllLogoRecords());
 const tags = getTags();
 ---
 <BaseLayout pageTitle={`Logos by Tag - ${siteConfig.title}`}>

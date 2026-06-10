@@ -18,12 +18,12 @@ import {
 import { siteConfig } from "../../../lib/site";
 
 export const getStaticPaths = async () => {
-  const primaryPaths = getLogoHandles().map((logohandle) => ({
+  const primaryPaths = ((await getLogoHandles())).map((logohandle) => ({
     params: { logohandle },
     props: { canonicalHandle: logohandle, isAliasRedirect: false }
   }));
 
-  const aliasPaths = getLogoRedirectAliases().map(({ aliasHandle, canonicalHandle }) => ({
+  const aliasPaths = ((await getLogoRedirectAliases())).map(({ aliasHandle, canonicalHandle }) => ({
     params: { logohandle: aliasHandle },
     props: { canonicalHandle, isAliasRedirect: true }
   }));
@@ -41,7 +41,7 @@ if (isAliasRedirect) {
   Astro.response.status = 302;
 }
 
-const logo = getLogoRecord(canonicalHandle);
+const logo = await getLogoRecord(canonicalHandle);
 
 if (!logo) {
   throw new Error(`Unknown logo handle: ${canonicalHandle}`);
@@ -51,7 +51,7 @@ const { data, content } = logo;
 const imageTypes = getImageTypes();
 const socialMedia = getSocialMedia();
 const tags = getTags();
-const neighbors = getLogoNeighbors(canonicalHandle);
+const neighbors = await getLogoNeighbors(canonicalHandle);
 const hasImages = Array.isArray(data.images) && data.images.length > 0;
 const socialLinks = socialMedia
   .filter((entry) => typeof data[entry.id] === "string" && data[entry.id].length > 0)

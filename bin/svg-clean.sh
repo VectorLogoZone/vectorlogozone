@@ -14,7 +14,7 @@ set -o nounset
 # svgcleaner - https://github.com/RazrFalcon/svgcleaner
 # end result: 28MB
 # 
-for filename in ../www/logos/**/*.svg; do
+for filename in ../src/content/logos/**/*.svg; do
 	echo -n "INFO: processing ${filename}: "
 	./svgcleaner --copy-on-error "${filename}" "${filename}_tmp.svg"
 
@@ -26,7 +26,7 @@ exit 0
 #
 # svgo - fails on gruntjs, doesn't compress especially well
 #
-for filename in ../www/logos/**/[g]*.svg; do
+for filename in ../src/content/logos/**/[g]*.svg; do
     svgo $filename
 done
 exit 1
@@ -34,7 +34,7 @@ exit 1
 #
 # scour version: 69MB, but a bunch of logos come out blank
 #
-for filename in ../www/logos/**/*.svg; do
+for filename in ../src/content/logos/**/*.svg; do
 	python3 -m scour.scour \
 		--enable-comment-stripping \
 		--remove-metadata \

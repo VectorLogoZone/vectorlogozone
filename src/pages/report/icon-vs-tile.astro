@@ -3,7 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getAllLogoRecords } from "../../lib/logos";
 import { siteConfig } from "../../lib/site";
 
-const rows = getAllLogoRecords().filter((record) => {
+const rows = ((await getAllLogoRecords())).filter((record) => {
   const data = record.data;
   return data.images.includes(`${data.logohandle}-icon.svg`) && data.images.includes(`${data.logohandle}-tile.svg`);
 });

@@ -17,7 +17,7 @@ fi
 
 SCRIPT_HOME="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 REPO_HOME="$(basename $SCRIPT_HOME)"
-DEFAULT_LOGODIR="$(realpath $SCRIPT_HOME/../www/logos)"
+DEFAULT_LOGODIR="$(realpath $SCRIPT_HOME/../src/content/logos)"
 
 LOGODIR="${1:-${DEFAULT_LOGODIR}}"
 if [ ! -d "${LOGODIR}" ]; then

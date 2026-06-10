@@ -11,7 +11,7 @@ let svgporncount = 0;
 let guidecount = 0;
 let othertotal = 0;
 
-for (const record of getVisibleLogoRecords()) {
+for (const record of (await getVisibleLogoRecords())) {
   const data = record.data;
   const logoar21 = `${data.logohandle}-ar21.svg`;
   const logoicon = `${data.logohandle}-icon.svg`;

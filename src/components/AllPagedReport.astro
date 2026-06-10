@@ -7,7 +7,7 @@ const {
   pageSize = 144
 } = Astro.props;
 
-const records = getVisibleLogoRecords();
+const records = (await getVisibleLogoRecords());
 const rows = records.filter((record) => record.data.images.includes(`${record.data.logohandle}${targetSuffix}.svg`));
 const maxPage = Math.max(1, Math.ceil(rows.length / pageSize));
 ---

@@ -8,7 +8,7 @@ import os
 import yaml
 
 default_tagfn = '../www/_data/tags.yaml'
-default_path = "../www/logos"
+default_path = "../src/content/logos"
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--directory", help="directory with logo subdirectories", action="store", default=default_path)

@@ -3,12 +3,12 @@ name: namecheck
 on:
   pull_request:
     paths:
-      - www/logos/**/*.svg
+      - src/content/logos/**/*.svg
   push:
     branches:
       - main
     paths:
-      - www/logos/**/*.svg
+      - src/content/logos/**/*.svg
   workflow_dispatch:
 
 jobs:

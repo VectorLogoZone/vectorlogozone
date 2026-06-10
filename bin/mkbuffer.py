@@ -13,7 +13,7 @@ import requests
 import sys
 import time
 
-default_path = "../www/logos"
+default_path = "../src/content/logos"
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-q", "--quiet", help="hide debug messages", default=True, dest='verbose', action="store_false")

@@ -3,7 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getAllLogoRecords } from "../../lib/logos";
 import { siteConfig } from "../../lib/site";
 
-const rows = getAllLogoRecords().filter((record) => record.data.logohandle && record.data.notes);
+const rows = ((await getAllLogoRecords())).filter((record) => record.data.logohandle && record.data.notes);
 ---
 <BaseLayout pageTitle={`Notes - ${siteConfig.title}`} noindex={true}>
   <p>Normally notes should get processed and removed before publishing, but sometimes they are missed.</p>

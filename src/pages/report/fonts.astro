@@ -3,7 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getAllLogoRecords } from "../../lib/logos";
 import { siteConfig } from "../../lib/site";
 
-const records = getAllLogoRecords().filter((record) => record.data.logohandle);
+const records = ((await getAllLogoRecords())).filter((record) => record.data.logohandle);
 const logocount = records.length;
 const withFont = records.filter((record) => record.data.font);
 

@@ -33,7 +33,7 @@ def process(logohandle, logodir):
     f.write('\n')
     f.close()
 
-logoroot = '../www/logos'
+logoroot = '../src/content/logos'
 dirs = [f for f in os.listdir(logoroot) if os.path.isdir(os.path.join(logoroot, f))]
 dirs.sort()
 for logohandle in dirs:

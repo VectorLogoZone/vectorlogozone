@@ -6,7 +6,7 @@ import { siteConfig } from "../../lib/site";
 const socialMedia = getSocialMedia();
 const rows = [];
 
-for (const record of getAllLogoRecords()) {
+for (const record of (await getAllLogoRecords())) {
   const data = record.data;
   if (!data.logohandle) continue;
 

@@ -7,7 +7,7 @@ set -o errexit
 set -o pipefail
 set -o nounset
 
-ROOT=../www/logos
+ROOT=../src/content/logos
 
 find ${ROOT} -name '*-tile.svg' -print0 |
     while IFS= read -r -d $'\0' SVG; do

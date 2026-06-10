@@ -3,7 +3,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getAllLogoRecords } from "../../lib/logos";
 import { siteConfig } from "../../lib/site";
 
-const rows = getAllLogoRecords().filter((record) => record.data.logohandle && record.data.noindex);
+const rows = ((await getAllLogoRecords())).filter((record) => record.data.logohandle && record.data.noindex);
 ---
 <BaseLayout pageTitle={`Takedown Requests - ${siteConfig.title}`} noindex={true}>
   <p>The following logos have been removed at their owners' request.</p>

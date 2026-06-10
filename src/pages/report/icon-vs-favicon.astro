@@ -4,7 +4,7 @@ import { getFavicons, getAllLogoRecords } from "../../lib/logos";
 import { siteConfig } from "../../lib/site";
 
 const favicons = getFavicons();
-const rows = getAllLogoRecords().filter((record) => {
+const rows = ((await getAllLogoRecords())).filter((record) => {
   const data = record.data;
   const iconFile = `${data.logohandle}-icon.svg`;
   return data.images.includes(iconFile) && favicons[data.logohandle] && favicons[data.logohandle] !== "-";

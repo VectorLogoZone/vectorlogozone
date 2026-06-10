@@ -4,7 +4,7 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 import { getVisibleLogoRecords } from "../../lib/logos";
 import { siteConfig } from "../../lib/site";
 
-const records = getVisibleLogoRecords();
+const records = (await getVisibleLogoRecords());
 ---
 <BaseLayout pageTitle={`Available Metadata - ${siteConfig.title}`} noindex={true}>
   <p>I try to include links to the various websites for each logo. This is a report of those links.</p>

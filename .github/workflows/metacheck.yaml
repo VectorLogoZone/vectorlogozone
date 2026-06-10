@@ -3,10 +3,10 @@ name: metacheck
 on:
   pull_request:
     paths:
-      - www/logos/*/index.md
+      - src/content/logos/*/index.md
   push:
     paths:
-      - www/logos/*/index.md
+      - src/content/logos/*/index.md
   workflow_dispatch:
 
 jobs:
