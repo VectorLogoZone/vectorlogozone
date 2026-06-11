@@ -46,16 +46,12 @@ const defaultLogos = shuffled.slice(0, 72);
     </div>
   </div>
 
-  <form action="" method="get" class="form-inline justify-content-center noscript" id="site_search" style="display:none;">
-    <div class="form-row align-items-center" style="padding-bottom:20px;">
-      <div class="col-auto">
-        <label class="sr-only" for="q">Search query</label>
-        <div class="input-group">
-          <input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search terms" type="text" />
-          <div class="input-group-append">
-            <button type="submit" class="btn" style="background-color:#1d8286;color:white;font-weight:bold;">Search</button>
-          </div>
-        </div>
+  <form action="" method="get" class="d-flex justify-content-center noscript" id="site_search" style="display:none;">
+    <div class="d-flex align-items-center" style="padding-bottom:20px;max-width:500px;">
+      <label class="sr-only" for="q">Search query</label>
+      <div class="input-group w-100">
+        <input autocomplete="off" autofocus="autofocus" class="form-control" id="q" name="q" placeholder="Search terms" type="text" />
+        <button type="submit" class="btn" style="background-color:#1d8286;color:white;font-weight:bold;">Search</button>
       </div>
     </div>
   </form>

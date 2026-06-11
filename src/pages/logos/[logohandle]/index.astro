@@ -79,6 +79,7 @@ const markdownHtml = marked.parse(content || "");
   ) : (
 <BaseLayout
   pageTitle={pageTitle}
+  no_h1={true}
   noindex={!!data.noindex}
   hasImages={hasImages}
   canonical={canonical}
@@ -103,30 +104,32 @@ const markdownHtml = marked.parse(content || "");
   }
   <div class="row">
     <div class="col">
-      <div class="float-right icon-link-header" style="padding-top:20px;">
-        {data.guide && <a title="Official Guidelines" href={data.guide}><i class="fa fa-certificate icon-link"></i></a>}
-        {data.website && <a title="Website" href={data.website}><i class="fal fa-globe icon-link"></i></a>}
-        {
-          socialLinks.map((item) => (
-            <a title={item.id} href={item.href} set:html={item.iconhtml}></a>
-          ))
-        }
-        {
-          neighbors.prev && (
-            <a class="btn btn-secondary btn-xs" href={`/logos/${neighbors.prev.logohandle}/index.html`} title={`${neighbors.prev.title} Logos`}>
-              <i class="fa fa-caret-left"></i><span class="d-none d-md-inline pl-2">{neighbors.prev.title}</span>
-            </a>
-          )
-        }
-        {
-          neighbors.next && (
-            <a class="btn btn-secondary btn-xs ml-1" href={`/logos/${neighbors.next.logohandle}/index.html`} title={`${neighbors.next.title} Logos`}>
-              <span class="d-none d-md-inline pr-2">{neighbors.next.title}</span><i class="fa fa-caret-right"></i>
-            </a>
-          )
-        }
+      <div class="d-flex justify-content-between align-items-start" style="gap:1rem;">
+        {!data.no_h1 && <h1 style="margin-bottom:0;">{h1}{data.subtitle && <small> - {data.subtitle}</small>}</h1>}
+        <div class="icon-link-header" style="padding-top:20px;flex-shrink:0;">
+          {data.guide && <a title="Official Guidelines" href={data.guide}><i class="fa fa-certificate icon-link"></i></a>}
+          {data.website && <a title="Website" href={data.website}><i class="fal fa-globe icon-link"></i></a>}
+          {
+            socialLinks.map((item) => (
+              <a title={item.id} href={item.href} set:html={item.iconhtml}></a>
+            ))
+          }
+          {
+            neighbors.prev && (
+              <a class="btn btn-secondary btn-xs" href={`/logos/${neighbors.prev.logohandle}/index.html`} title={`${neighbors.prev.title} Logos`}>
+                <i class="fa fa-caret-left"></i><span class="d-none d-md-inline ps-2">{neighbors.prev.title}</span>
+              </a>
+            )
+          }
+          {
+            neighbors.next && (
+              <a class="btn btn-secondary btn-xs ms-1" href={`/logos/${neighbors.next.logohandle}/index.html`} title={`${neighbors.next.title} Logos`}>
+                <span class="d-none d-md-inline pe-2">{neighbors.next.title}</span><i class="fa fa-caret-right"></i>
+              </a>
+            )
+          }
+        </div>
       </div>
-      {!data.no_h1 && <h1>{h1}{data.subtitle && <small> - {data.subtitle}</small>}</h1>}
       <div set:html={markdownHtml}></div>
     </div>
   </div>
