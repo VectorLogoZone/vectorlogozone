@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "predev": "node bin/copy-logos.mjs",
     "dev": "astro dev --port 4000",
     "prebuild": "node bin/copy-logos.mjs",
     "build": "astro build",
