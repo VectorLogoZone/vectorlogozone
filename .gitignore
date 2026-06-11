@@ -6,6 +6,7 @@ foo
 Gemfile.lock
 .idea/
 .jekyll-metadata
+public/logos
 __pycache__
 _site/
 *.swp
