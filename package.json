@@ -8,8 +8,8 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^5.10.0",
-    "marked": "^13.0.2",
+    "astro": "^6.4.6",
+    "marked": "^18.0.5",
     "yaml": "^2.8.1"
   }
 }

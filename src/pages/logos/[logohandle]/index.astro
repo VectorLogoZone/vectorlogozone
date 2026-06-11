@@ -114,14 +114,14 @@ const markdownHtml = marked.parse(content || "");
         {
           neighbors.prev && (
             <a class="btn btn-secondary btn-xs" href={`/logos/${neighbors.prev.logohandle}/index.html`} title={`${neighbors.prev.title} Logos`}>
-              <i class="fa fa-caret-left"></i><span class="d-none d-md-inline"> {neighbors.prev.title}</span>
+              <i class="fa fa-caret-left"></i><span class="d-none d-md-inline pl-2">{neighbors.prev.title}</span>
             </a>
           )
         }
         {
           neighbors.next && (
-            <a class="btn btn-secondary btn-xs" href={`/logos/${neighbors.next.logohandle}/index.html`} title={`${neighbors.next.title} Logos`}>
-              <span class="d-none d-md-inline">{neighbors.next.title} </span><i class="fa fa-caret-right"></i>
+            <a class="btn btn-secondary btn-xs ml-1" href={`/logos/${neighbors.next.logohandle}/index.html`} title={`${neighbors.next.title} Logos`}>
+              <span class="d-none d-md-inline pr-2">{neighbors.next.title}</span><i class="fa fa-caret-right"></i>
             </a>
           )
         }
