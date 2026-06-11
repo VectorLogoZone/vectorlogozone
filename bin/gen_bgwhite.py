@@ -1,14 +1,19 @@
-#!/usr/bin/env python3
+#!/usr/bin/env -S uv run --script
+# /// script
+# dependencies = ["argparse", "python-frontmatter", "pyyaml"]
+# ///
 #
 # copy from archive into proper directories
 #
 
 import argparse
+from datetime import datetime, timezone
 import os
+import sys
 import xml.etree.ElementTree as ET
 import xml.dom.minidom
 
-default_path = os.path.join(os.path.dirname(__file__), "..", "www", "logos")
+default_path = os.path.join(os.path.dirname(__file__), "..", "src", "content", "logos")
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-q", "--quiet", help="hide status messages", default=True, dest='verbose', action="store_false")
@@ -20,7 +25,7 @@ args = parser.parse_args()
 def process(options, dirparam):
     logodir = os.path.abspath(dirparam)
     logohandle = os.path.basename(logodir)
-      
+
     ar21 = os.path.join(logodir, logohandle + "-ar21.svg")
     bgwhite = os.path.join(logodir, logohandle + "-ar21~bgwhite.svg")
 
@@ -28,7 +33,7 @@ def process(options, dirparam):
         if args.debug:
             print("WARNING: no ar21 for %s" % logohandle)
         return
-    
+
     ET.register_namespace('', "http://www.w3.org/2000/svg")
     tree = ET.parse(ar21)
     root = tree.getroot()
@@ -40,7 +45,7 @@ def process(options, dirparam):
     new_element.set("fill", "white")
 
     root.insert(0, new_element)
- 
+
     # Convert the ElementTree to a string
     xml_str = ET.tostring(root, encoding='utf-8', method='xml')
 
@@ -53,11 +58,20 @@ def process(options, dirparam):
     f.write(pretty_xml_str)
     f.close()
 
-    print("INFO: created %s (%s)" % (logohandle, bgwhite))
+    sys.stdout.write("INFO: created %s (%s)\n" % (logohandle, bgwhite))
+
+
+sys.stdout.write("INFO: white background logos generation started at %s\n" % datetime.now(timezone.utc).isoformat())
 
 logoroot = args.directory
+sys.stdout.write("INFO: processing directory %s\n" % logoroot)
+
 dirs = [f for f in os.listdir(logoroot) if os.path.isdir(os.path.join(logoroot, f))]
 dirs.sort()
+sys.stdout.write("INFO: %d directories found\n" % len(dirs))
+
 for logodir in dirs:
 	#print("INFO: procssing %s" % logodir)
 	process('', os.path.join(logoroot, logodir))
+
+sys.stdout.write("INFO: white background logos generation completed at %s\n" % datetime.now(timezone.utc).isoformat())

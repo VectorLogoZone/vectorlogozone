@@ -7,10 +7,12 @@
 #
 
 import argparse
+from datetime import datetime, timezone
+import sys
 import frontmatter
 import os
 
-default_path = os.path.join(os.path.dirname(__file__), "..", "www", "logos")
+default_path = os.path.join(os.path.dirname(__file__), "..", "src", "content", "logos")
 
 parser = argparse.ArgumentParser()
 parser.add_argument("--directory", help="directory with logo subdirectories", action="store", default=default_path)
@@ -75,11 +77,18 @@ def process(options, dirparam):
 	f.write(frontmatter.dumps(indexmd))
 	f.write('\n')
 	f.close()
-	#print("%s" % frontmatter.dumps(indexmd))
+
+sys.stdout.write("INFO: frontmatter cleanup started at %s\n" % datetime.now(timezone.utc).isoformat())
 
 logoroot = args.directory
+sys.stdout.write("INFO: processing directory %s\n" % logoroot)
+
 dirs = [f for f in os.listdir(logoroot) if os.path.isdir(os.path.join(logoroot, f))]
 dirs.sort()
+sys.stdout.write("INFO: %d directories found\n" % len(dirs))
+
 for logodir in dirs:
 	#print("INFO: procssing %s" % logodir)
 	process('', os.path.join(logoroot, logodir))
+
+sys.stdout.write("INFO: frontmatter cleanup completed at %s\n" % datetime.now(timezone.utc).isoformat())

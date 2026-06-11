@@ -2,8 +2,11 @@
 blog: https://www.ynab.com/blog/
 facebook: https://www.facebook.com/ynabofficial
 guide: https://www.ynab.com/press#brand-materials
+images:
+- ynab-icon.svg
+- ynab-ar21.svg
 instagram: https://www.instagram.com/ynab.official/
-logohandle: youneedabudget
+logohandle: ynab
 pinterest: https://www.pinterest.com/ynabofficial/
 redirect_from:
 - /logos/youneedabudget/index.html

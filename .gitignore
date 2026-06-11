@@ -13,6 +13,7 @@ _site/
 tmp*
 work-in-progress/
 src/data/nextprev.yaml
+src/content/logos/*/*~bgwhite.svg
 node_modules/
 dist/
 .astro/
