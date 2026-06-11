@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   viewBox="0 0 25.6 25.6"
+   width="64"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="qgis-icon.svg"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14">
+  <metadata
+     id="metadata38">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs36">
+    <style
+       id="style610">
+      .cls-1 {
+        fill: #119dff;
+      }
+
+      .cls-2 {
+        fill: #25fefd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient
+       id="SVGID_2_"
+       gradientUnits="userSpaceOnUse"
+       x1="365.46191"
+       y1="-221.14549"
+       x2="363.59229"
+       y2="-98.226997"
+       gradientTransform="matrix(0.20021116,0,0,-0.20021116,-60.167355,-18.625782)">
+      <stop
+         offset="0"
+         style="stop-color:#589632"
+         id="stop13" />
+      <stop
+         offset="1"
+         style="stop-color:#93B023"
+         id="stop15" />
+    </linearGradient>
+    <linearGradient
+       id="SVGID_1_"
+       gradientUnits="userSpaceOnUse"
+       x1="402.52441"
+       y1="-220.87061"
+       x2="400.64789"
+       y2="-97.502296"
+       gradientTransform="matrix(1,0,0,-1,-300.5195,-92.5547)">
+      <stop
+         offset="0"
+         style="stop-color:#589632"
+         id="stop4" />
+      <stop
+         offset="1"
+         style="stop-color:#93B023"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="958"
+     inkscape:window-height="1045"
+     id="namedview34"
+     showgrid="false"
+     inkscape:zoom="3.6875"
+     inkscape:cx="23.095836"
+     inkscape:cy="21.621233"
+     inkscape:window-x="960"
+     inkscape:window-y="33"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg32"
+     inkscape:pagecheckerboard="false" />
+  <style
+     id="style2"><![CDATA[.B{stroke-linecap:round}.C{stroke-linejoin:round}.D{stroke-linejoin:miter}.E{stroke-width:.716}]]></style>
+  <polygon
+     transform="matrix(0.20021116,0,0,0.20021116,1.1787387e-7,-0.09530047)"
+     style="fill:#ee7913"
+     points="52.613,72.746 68.613,88.548 68.613,69.625 86.891,69.625 71.697,54.625 52.613,54.625 "
+     id="polygon2" />
+  <polygon
+     transform="matrix(0.20021116,0,0,0.20021116,1.1787387e-7,-0.09530047)"
+     style="fill:url(#SVGID_1_)"
+     points="107.143,126.625 126.613,126.625 126.613,109.057 94.488,77.625 76.613,77.625 76.613,96.033 "
+     id="polygon9" />
+  <polygon
+     transform="matrix(0.20021116,0,0,0.20021116,1.1787387e-7,-0.09530047)"
+     style="fill:#f0e64a"
+     points="68.613,88.548 76.613,96.033 76.613,77.625 94.488,77.625 86.891,69.625 68.613,69.625 "
+     id="polygon11" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#SVGID_2_);stroke-width:0.20021117"
+     d="m 13.799154,20.236543 c -0.233246,0.04845 -0.354174,0.03143 -0.93799,0.03143 -4.1776056,0 -7.7305528,-3.435223 -7.7305528,-7.889521 0,-4.4542975 3.513906,-7.8136405 7.7305528,-7.8136405 4.216648,0 7.574589,3.3595433 7.574589,7.8136405 0,0.724565 -0.09029,1.421299 -0.257071,2.081796 l 3.866678,3.866278 C 25.042212,16.579486 25.6,14.548744 25.6,12.348824 25.6,5.4837837 20.121622,0.34356239 12.783282,0.34356239 5.4783779,0.34336218 1.1787387e-7,5.4497478 1.1787387e-7,12.348624 1.1787387e-7,19.280935 5.4783779,24.489028 12.783082,24.489028 c 1.885389,0 3.217193,-0.29411 4.613266,-0.752994 z"
+     id="path18" />
+  <polygon
+     transform="matrix(0.20021116,0,0,0.20021116,1.1787387e-7,-0.09530047)"
+     style="opacity:0.15;fill:#ffffff"
+     enable-background="new    "
+     points="126.613,109.057 126.613,126.625 53.083,54.625 71.697,54.625 "
+     id="polygon20" />
+</svg>

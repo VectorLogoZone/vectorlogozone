@@ -33,7 +33,7 @@ fi
 
 echo "INFO: starting at $(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
-SOCIALKEYS=$(cat "${REPO_DIR}/www/_data/socialmedia.yaml" | yq '[.[].id] | join(",")')
+SOCIALKEYS=$(cat "${REPO_DIR}/src/data/socialmedia.yaml" | yq '[.[].id] | join(",")')
 OPTIONALKEYS="colors,font,guide,images,keywords,noindex,other,redirect_from,tags"
 REQUIREDKEYS="logohandle,sort,title,website"
 

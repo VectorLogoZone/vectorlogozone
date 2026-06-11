@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" preserveAspectRatio="xMidYMid">
+    <defs>
+        <mask id="a">
+            <path fill="#fff" d="M0 0h190v35H0Zm29.062-3H14.753v32.817h14.309z"/>
+        </mask>
+    </defs>
+    <g mask="url(#a)" style="display:block" transform="matrix(2.1333 0 0 2.1333 -.533 6.967)">
+        <path fill="#fbbc04" d="m.25 23.25 14.5-23h9c-.024 1.082.047 2.19-.035 3.256L11.25 23.25"/>
+    </g>
+    <path fill="#1a73e8" d="M9.25 23.25h-9v-23h9z" style="display:block" transform="matrix(2.1333 0 0 2.1333 30.4 6.967)"/>
+    <path fill="#34a853" d="M6.75 6.75c.129 3.457-3.14 6.698-6.5 6.442V.25C3.14.201 5.874 2.323 6.546 5.134c.135.527.204 1.071.204 1.616" style="display:block" transform="matrix(2.1333 0 0 2.1333 49.6 28.3)"/>
+    <path fill="#0d652d" d="M6.75 13.25C2.595 13.403-.786 8.926.498 4.971 1.197 2.253 4.033.104 6.75.308z" style="display:block" transform="matrix(2.1333 0 0 2.1333 35.734 28.3)"/>
+    <path fill="#1a73e8" d="M5.25 5.25c.099 2.66-2.415 5.152-5 4.955V.25C2.472.213 4.576 1.845 5.093 4.007A5 5 0 0 1 5.25 5.25" style="display:block" transform="matrix(2.1333 0 0 2.1333 49.6 6.967)"/>
+    <path fill="#174ea6" d="M5.25 10.25C2.054 10.368-.547 6.924.44 3.882.979 1.79 3.16.138 5.25.295z" style="display:block" transform="matrix(2.1333 0 0 2.1333 38.933 6.967)"/>
+    <path fill="#ea4335" d="M.25 4.75C.137 1.808 3.377-.546 6.14.47c2.832.802 4.074 4.611 2.25 6.925-1.638 2.446-5.642 2.446-7.28 0A4.5 4.5 0 0 1 .25 4.75" style="display:block" transform="matrix(2.1333 0 0 2.1333 .534 6.967)"/>
+</svg>

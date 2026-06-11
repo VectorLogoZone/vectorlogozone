@@ -79,7 +79,7 @@ def process(data, logohandle, logodir):
 
 
 logoroot = "../src/content/logos"
-datafile = "../www/_data/favicons.json"
+datafile = "../src/data/favicons.json"
 
 f = open(datafile, "r")
 data = json.load(f)

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 64 64"
+   enable-background="new 0 0 240 90"
+   xml:space="preserve"
+   sodipodi:docname="particle-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata43"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs41">
+	
+	
+	
+	
+	
+	
+	
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview39"
+   showgrid="false"
+   inkscape:zoom="5.65"
+   inkscape:cx="50.854806"
+   inkscape:cy="33.390265"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1" />
+<g
+   id="g34"
+   transform="matrix(1.6243655,0,0,1.6243655,-56.771575,-41.096448)">
+		<g
+   id="g30">
+			<polygon
+   style="fill:#00aeef"
+   id="polygon22"
+   points="62.4,45 63.8,42.8 74.3,45 63.8,47.2 " />
+			<polygon
+   style="fill:#00aeef"
+   id="polygon24"
+   points="54.7,64.7 52.4,54.2 54.7,52.7 56.9,54.2 " />
+			<polygon
+   style="fill:#00aeef"
+   id="polygon26"
+   points="54.7,37.3 52.4,35.8 54.7,25.3 56.9,35.8 " />
+			<polygon
+   style="fill:#00aeef"
+   id="polygon28"
+   points="45.5,47.2 35,45 45.5,42.8 46.9,45 " />
+		</g>
+		<polygon
+   style="fill:#00aeef"
+   id="polygon32"
+   points="40.8,31.1 54.7,40.1 68.5,31.1 59.6,45 68.5,58.9 54.7,49.9 40.8,58.9 49.7,45 " />
+	</g>
+</svg>

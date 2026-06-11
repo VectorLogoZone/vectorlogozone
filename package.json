@@ -3,9 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "predev": "node scripts/sync-public.mjs",
     "dev": "astro dev --port 4000",
-    "prebuild": "node scripts/sync-public.mjs",
     "build": "astro build",
     "preview": "astro preview"
   },

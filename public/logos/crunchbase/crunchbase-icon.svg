@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 64 64.000002"
+   version="1.1"
+   sodipodi:docname="crunchbase-icon.svg"
+   width="64"
+   height="64"
+   style="fill:#ffffff"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata29">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>logo_crunchbase</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs27" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="5.1061711"
+     inkscape:cx="93.889999"
+     inkscape:cy="13.19"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <title
+     id="title2">logo_crunchbase</title>
+  <path
+     inkscape:connector-curvature="0"
+     style="clip-rule:evenodd;fill:#0a4063;fill-opacity:1;fill-rule:evenodd;stroke-width:0.10474632;stroke-linejoin:round;stroke-miterlimit:1.41400003"
+     d="m 64.000001,8.0000025 c 0,-4.41736 -3.58264,-8 -8,-8 H 7.9999985 c -4.41736,0 -8,3.58264 -8,8 V 55.999997 c 0,4.41736 3.58264,8 8,8 H 56.000001 c 4.41736,0 8,-3.58264 8,-8 z"
+     id="path7" />
+  <g
+     id="g871"
+     transform="matrix(2.3849106,0,0,2.3849106,-9.5449499,-43.547318)"
+     style="fill:#ffffff">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.57408553"
+       id="path6"
+       d="m 13.939838,33.65836 a 2.9622812,2.9622812 0 1 1 0.03444,-2.439863 h 2.296342 a 5.1667696,5.1667696 0 1 0 0,2.439863 h -2.296342 z" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.57408553"
+       id="path18"
+       d="m 23.510509,27.257306 h -0.378897 a 5.0978793,5.0978793 0 0 0 -2.525976,0.889833 v -5.752337 h -2.095412 v 14.794184 h 2.106894 v -0.539641 a 5.1667696,5.1667696 0 1 0 2.893391,-9.392039 z m 2.962281,5.534185 v 0.09185 a 2.9393178,2.9393178 0 0 1 -0.08037,0.361674 v 0 a 2.933577,2.933577 0 0 1 -0.143521,0.373156 v 0.04593 a 2.9795038,2.9795038 0 0 1 -2.072449,1.624662 v 0 l -0.281302,0.04593 h -0.06315 a 2.9163544,2.9163544 0 0 1 -0.321488,0 v 0 a 2.9622812,2.9622812 0 0 1 -0.40186,-0.02871 H 23.0168 a 2.933577,2.933577 0 0 1 -0.752052,-0.229634 h -0.05741 a 2.9737629,2.9737629 0 0 1 -0.66594,-0.447787 v 0 a 2.9909855,2.9909855 0 0 1 -0.522417,-0.625753 v 0 a 2.9622812,2.9622812 0 0 1 -0.189449,-0.367414 v 0 a 2.9450587,2.9450587 0 0 1 0.03445,-2.439864 v 0 a 2.9680221,2.9680221 0 0 1 2.376714,-1.68207 2.933577,2.933577 0 0 1 0.304265,0 v 0 a 2.9680221,2.9680221 0 0 1 2.927836,2.881909 v 0 a 2.9565404,2.9565404 0 0 1 0,0.396119 z" />
+  </g>
+</svg>

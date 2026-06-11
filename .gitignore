@@ -12,9 +12,7 @@ _site/
 *.tgz
 tmp*
 work-in-progress/
-www/_data/nextprev.yaml
-www/util/fulldata.json
+src/data/nextprev.yaml
 node_modules/
 dist/
-public/
 .astro/

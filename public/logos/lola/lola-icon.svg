@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="background"
+   viewBox="0 0 64 64"
+   version="1.1"
+   sodipodi:docname="lola-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata27">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>small-white</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview25"
+     showgrid="false"
+     inkscape:zoom="1.9316239"
+     inkscape:cx="24.590708"
+     inkscape:cy="33.75"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="background" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#fff;}</style>
+  </defs>
+  <title
+     id="title6">small-white</title>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:#7c2a8b;fill-opacity:1;stroke-width:1.03553534"
+     d="M 8.42687,0 H 55.57313 C 60.21306,0 64,3.76824 64,8.42653 V 55.57562 C 64,60.21568 60.23206,64 55.57313,64 H 8.42687 C 3.78694,63.998 0,60.23391 0,55.57455 V 8.40401 C 0,3.76717 3.76494,0 8.42687,0"
+     id="path2" />
+  <path
+     class="cls-1"
+     d="M 30.793378,13.068595 H 29.861695 V 50.931546 H 34.13827 V 16.398214 a 3.3143446,3.3143446 0 0 0 -3.344892,-3.329619 z"
+     id="path14"
+     style="fill:#ffffff;fill-opacity:1;stroke-width:1.52734768"
+     inkscape:connector-curvature="0" />
+</svg>

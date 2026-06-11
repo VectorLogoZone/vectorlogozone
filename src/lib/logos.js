@@ -3,7 +3,7 @@ import { parse as parseYaml } from "yaml";
 import { getCollection } from "astro:content";
 
 const repoRoot = process.cwd();
-const dataRoot = `${repoRoot}/www/_data`;
+const dataRoot = `${repoRoot}/src/data`;
 
 let logoRecordsPromise;
 let imageTypesCache;

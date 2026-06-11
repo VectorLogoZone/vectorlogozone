@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 32 32"
+   width="64"
+   height="64"
+   version="1.1"
+   id="svg13"
+   sodipodi:docname="google_analytics-icon~old.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview13"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="248.40517"
+     inkscape:cx="21.758806"
+     inkscape:cy="22.040604"
+     inkscape:window-width="1392"
+     inkscape:window-height="997"
+     inkscape:window-x="1859"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg13" />
+  <defs
+     id="defs8">
+    <clipPath
+       id="A">
+      <path
+         d="M16.85 8.53h-3.27A1.44 1.44 0 0 0 12.15 10v4.23H7.42A1.41 1.41 0 0 0 6 15.6v4.73H1.75a1.41 1.41 0 0 0-1.41 1.41V25a1.44 1.44 0 0 0 1.41 1.43h15.1A1.44 1.44 0 0 0 18.29 25V10a1.44 1.44 0 0 0-1.44-1.47z"
+         fill="none"
+         id="path1" />
+    </clipPath>
+    <linearGradient
+       id="B"
+       x1="9.11"
+       y1="17.29"
+       x2="17.86"
+       y2="26.04"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#bf360c"
+         stop-opacity=".2"
+         id="stop1" />
+      <stop
+         offset=".28"
+         stop-color="#bf360c"
+         stop-opacity=".12"
+         id="stop2" />
+      <stop
+         offset=".67"
+         stop-color="#bf360c"
+         stop-opacity=".05"
+         id="stop3" />
+      <stop
+         offset="1"
+         stop-color="#bf360c"
+         stop-opacity=".02"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="C"
+       x1="0"
+       y1="23.07"
+       x2="17.95"
+       y2="23.07"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#fff"
+         stop-opacity=".1"
+         id="stop5" />
+      <stop
+         offset=".14"
+         stop-color="#fff"
+         stop-opacity=".08"
+         id="stop6" />
+      <stop
+         offset=".61"
+         stop-color="#fff"
+         stop-opacity=".02"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#fff"
+         stop-opacity="0"
+         id="stop8" />
+    </linearGradient>
+  </defs>
+  <g
+     clip-path="url(#A)"
+     transform="matrix(1.782699 0 0 1.78771 -.606118 -15.249162)"
+     id="g12">
+    <path
+       d="M16.85 8.53h-3.27A1.44 1.44 0 0 0 12.15 10v16.47h4.7A1.44 1.44 0 0 0 18.29 25V10a1.44 1.44 0 0 0-1.44-1.47z"
+       fill="#f57c00"
+       id="path8" />
+    <path
+       d="M6 15.6v4.73H1.75a1.41 1.41 0 0 0-1.41 1.41V25a1.44 1.44 0 0 0 1.41 1.43h10.4V14.2H7.42A1.41 1.41 0 0 0 6 15.6z"
+       fill="#ffc107"
+       id="path9" />
+    <path
+       d="M13.57 26.47h3.28A1.44 1.44 0 0 0 18.29 25v-4.65l-6.14-6.15v12.27h1.42z"
+       fill="url(#B)"
+       id="path10" />
+    <path
+       d="M7.43 14.3h4.7v-.12h-4.7A1.41 1.41 0 0 0 6 15.6v.12a1.41 1.41 0 0 1 1.43-1.41zm-5.68 6.15H6v-.12H1.75a1.41 1.41 0 0 0-1.41 1.41v.12a1.41 1.41 0 0 1 1.41-1.41zm15.1-11.92h-3.27A1.44 1.44 0 0 0 12.15 10v.12a1.44 1.44 0 0 1 1.44-1.44h3.26a1.44 1.44 0 0 1 1.44 1.44V10a1.44 1.44 0 0 0-1.44-1.47z"
+       opacity=".2"
+       fill="#fff"
+       id="path11" />
+    <path
+       d="M16.86 26.35H1.76a1.41 1.41 0 0 1-1.41-1.4v.12a1.41 1.41 0 0 0 1.41 1.41h15.1A1.44 1.44 0 0 0 18.29 25v-.08a1.44 1.44 0 0 1-1.43 1.43z"
+       opacity=".2"
+       fill="#bf360c"
+       id="path12" />
+  </g>
+  <path
+     d="M16.5 14.1h-3.27a1.44 1.44 0 0 0-1.43 1.47v4.23H7.08a1.41 1.41 0 0 0-1.42 1.37v4.73H1.4A1.41 1.41 0 0 0 0 27.31v3.26A1.44 1.44 0 0 0 1.41 32h15.1a1.44 1.44 0 0 0 1.44-1.43v-15a1.44 1.44 0 0 0-1.44-1.47z"
+     fill="url(#C)"
+     id="path13" />
+</svg>

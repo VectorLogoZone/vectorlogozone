@@ -30,7 +30,7 @@ echo "INFO: generated full metadata export"
 python3 bin/gen_fulldata.py
 
 echo "INFO: updating tags"
-python3 bin/fm2tag.py --directory=src/content/logos --tagfile=www/_data/tags.yaml
+python3 bin/fm2tag.py --directory=src/content/logos --tagfile=src/data/tags.yaml
 
 echo "INFO: generating next/previous links"
 python3 bin/gen_next_prev.py

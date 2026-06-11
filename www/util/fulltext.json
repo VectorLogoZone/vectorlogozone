@@ -1,8 +1,0 @@
----
-layout: none
-noindex: true
----
-{% assign sorted_pages = site.pages | sort:'sort' %}
-{
-{% for logopage in sorted_pages %}{% if logopage.logohandle %}{% unless logopage.noindex %}{% capture logofile %}{{ logopage.logohandle }}{{ '-ar21.svg' }}{% endcapture %}    "{{ logopage.logohandle }}": { "title": {{ logopage.title | jsonify }}, "haslogo": {% if logopage.images contains logofile %}true{% else %}false{% endif %}, {% if logopage.keywords %}"keywords": {{ logopage.keywords | jsonify }}, {% endif %} "website": {{ logopage.website | jsonify }}}{% unless forloop.last %},{% endunless %}
-{% endunless %}{% endif %}{% endfor %}}

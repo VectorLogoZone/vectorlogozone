@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Cognitect_Logo_Horizontal_Black"
+   x="0px"
+   y="0px"
+   width="64"
+   height="64"
+   viewBox="0 0 64 63.999999"
+   enable-background="new 0 0 804.081 230.49"
+   xml:space="preserve"
+   sodipodi:docname="cognitect-icon.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata29"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs27">
+	
+	
+</defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview25"
+   showgrid="false"
+   inkscape:zoom="4.7698518"
+   inkscape:cx="76.697819"
+   inkscape:cy="23.820183"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Cognitect_Logo_Horizontal_Black" />
+<path
+   inkscape:connector-curvature="0"
+   d="m 48.388423,38.351472 -25.83485,9.402972 V 16.246543 l 25.83485,9.402975 V 2.6782628 c 0,-0.23352 -0.145771,-0.442048 -0.365133,-0.521738 L 42.192246,0.03374676 c -0.170485,-0.06219 -0.360137,-0.03748 -0.508689,0.06636 -0.148277,0.104123 -0.23685,0.273782 -0.23685,0.455379 V 15.735634 L 16.35684,6.6039438 c -0.169934,-0.06137 -0.360137,-0.03666 -0.508412,0.06692 -0.148275,0.104122 -0.236851,0.273782 -0.236851,0.455376 V 56.875031 c 0,0.180767 0.0883,0.350973 0.236851,0.4551 0.148275,0.103842 0.338478,0.129116 0.508412,0.06664 L 41.446428,48.2648 v 15.179871 c 0,0.181048 0.08829,0.35125 0.236851,0.455377 0.09468,0.0658 0.206041,0.09995 0.318487,0.09995 0.06386,0 0.128274,-0.01102 0.189927,-0.03331 l 5.831042,-2.122222 c 0.219359,-0.07997 0.365414,-0.288498 0.365414,-0.522017 z"
+   id="Cognitect_Icon"
+   style="stroke-width:0.27766868" />
+<g
+   id="Cognitect_Logo_Guides"
+   transform="translate(0,-166.49001)">
+</g>
+</svg>

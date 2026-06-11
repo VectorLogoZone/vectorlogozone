@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 64 64.000003"
+   version="1.1"
+   sodipodi:docname="forgerock-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata39">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>1Cblackmain</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview37"
+     showgrid="false"
+     inkscape:zoom="5.0994697"
+     inkscape:cx="95.336633"
+     inkscape:cy="28.491404"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#231f20;}</style>
+  </defs>
+  <title
+     id="title6">1Cblackmain</title>
+  <g
+     id="g861"
+     transform="matrix(0.18538366,0,0,0.18538366,-64.077863,86.24418)">
+    <polygon
+       transform="translate(0,-465.21997)"
+       style="fill:#231f20"
+       id="polygon8"
+       points="603.99,87.77 571.17,29.85 469.15,209.14 502.22,267.59 "
+       class="cls-1" />
+    <polygon
+       transform="translate(0,-465.21997)"
+       style="fill:#231f20"
+       id="polygon10"
+       points="673.05,209.61 621.45,118.47 519.7,298.1 546.04,345.23 596.04,345.23 672.95,209.78 "
+       class="cls-1" />
+    <polygon
+       transform="translate(0,-465.21997)"
+       style="fill:#231f20"
+       id="polygon12"
+       points="554.19,0 455.85,32.41 363.87,194.61 443.62,194.55 "
+       class="cls-1" />
+    <polygon
+       transform="translate(0,-465.21997)"
+       style="fill:#231f20"
+       id="polygon14"
+       points="431.64,345.23 511.42,345.23 443.1,224.89 363.48,224.78 "
+       class="cls-1" />
+  </g>
+</svg>

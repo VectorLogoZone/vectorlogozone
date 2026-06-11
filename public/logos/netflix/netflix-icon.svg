@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="-49.6 0 17.76 17.76"
+   id="svg2"
+   version="1.1"
+   sodipodi:docname="netflix-icon.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="12.90625"
+     inkscape:cx="32.619856"
+     inkscape:cy="33.239711"
+     inkscape:window-width="1392"
+     inkscape:window-height="997"
+     inkscape:window-x="1850"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <style
+     id="style1">.st0{fill:#b1060f;stroke:#000}.st1{fill:url(#path5719_1_)}.st2{fill:#e50914}</style>
+  <g
+     id="layer1"
+     transform="matrix(0.08024439,0,0,0.08024439,-44.463923,0.51524249)">
+    <g
+       id="g4182">
+      <g
+         id="g5747"
+         transform="matrix(0.29074,0,0,0.29074,81.631,113.771)">
+        <path
+           id="path4155"
+           class="st0"
+           d="m -52.5,-412.3 -0.3,168 -0.3,168 -13.8,-39 v -0.1 l -17.9,374 c 17.6,49.6 27,76.1 27.1,76.2 0.1,0.1 10.1,0.7 22.2,1.3 36.6,1.8 82,5.7 116.5,10 8,1 14.8,1.5 15.3,1.1 0.5,-0.4 0.6,-171.4 0.5,-380.1 l -0.3,-379.4 z" />
+        <path
+           id="path4157"
+           class="st0"
+           d="M -322,-412.8 V -33 c 0,208.9 0.2,380 0.5,380.3 0.3,0.3 13.2,-1 28.8,-2.7 15.6,-1.7 37.1,-3.9 47.8,-4.8 16.4,-1.4 65.6,-4.5 71.2,-4.6 1.7,0 1.8,-8.5 2,-160.9 l 0.3,-160.9 11.9,33.6 c 1.8,5.2 2.4,6.8 4.2,11.9 l 17.9,-373.9 c -3.8,-10.7 -1.8,-5.1 -6.1,-17.3 -14.6,-41.3 -27,-76.2 -27.5,-77.8 l -1,-2.8 h -150 z" />
+        <path
+           id="path5715"
+           class="st0"
+           d="m -52.5,-412.3 -0.3,168 -0.3,168 -13.8,-39 v -0.1 l -17.9,374 c 17.6,49.6 27,76.1 27.1,76.2 0.1,0.1 10.1,0.7 22.2,1.3 36.6,1.8 82,5.7 116.5,10 8,1 14.8,1.5 15.3,1.1 0.5,-0.4 0.6,-171.4 0.5,-380.1 l -0.3,-379.4 z" />
+        <path
+           id="path5717"
+           class="st0"
+           d="M -322,-412.8 V -33 c 0,208.9 0.2,380 0.5,380.3 0.3,0.3 13.2,-1 28.8,-2.7 15.6,-1.7 37.1,-3.9 47.8,-4.8 16.4,-1.4 65.6,-4.5 71.2,-4.6 1.7,0 1.8,-8.5 2,-160.9 l 0.3,-160.9 11.9,33.6 c 1.8,5.2 2.4,6.8 4.2,11.9 l 17.9,-373.9 c -3.8,-10.7 -1.8,-5.1 -6.1,-17.3 -14.6,-41.3 -27,-76.2 -27.5,-77.8 l -1,-2.8 h -150 z" />
+        <radialGradient
+           id="path5719_1_"
+           cx="18038.016"
+           cy="-146.44"
+           r="368.71701"
+           gradientTransform="matrix(0.07072,-0.02449,-0.897,-2.5906,-1526.665,25.194)"
+           gradientUnits="userSpaceOnUse">
+          <stop
+             offset="0"
+             id="stop1" />
+          <stop
+             offset="1"
+             stop-opacity="0"
+             id="stop2" />
+        </radialGradient>
+        <path
+           id="path5719"
+           class="st1"
+           d="m -322,-412.8 v 213.2 l 150.2,398.4 c 0,-9.1 0,-14.1 0.1,-24.5 l 0.3,-160.9 11.9,33.6 c 66,187.2 101.5,287.6 101.7,287.8 0.1,0.1 10.1,0.7 22.2,1.3 36.6,1.8 82,5.7 116.5,10 8,1 14.8,1.5 15.3,1.1 0.3,-0.3 0.5,-84.1 0.5,-202.4 L -52.7,-285 l -0.1,40.7 -0.3,168 -13.8,-39 c -13.5,-38.1 -22.5,-63.6 -76.8,-217 -14.6,-41.3 -27,-76.2 -27.5,-77.8 l -1,-2.8 H -322 Z"
+           style="fill:url(#path5719_1_)" />
+        <path
+           id="path5721"
+           class="st2"
+           d="m -322,-412.8 150.5,426.5 v -0.2 l 11.9,33.6 c 66.1,187.1 101.6,287.5 101.8,287.7 0.1,0.1 10.1,0.7 22.2,1.3 36.6,1.8 82,5.7 116.5,10 7.9,1 14.8,1.5 15.2,1.1 L -53.1,-76.4 v 0.1 l -13.8,-39 c -13.5,-38.1 -22.5,-63.6 -76.8,-217 -14.6,-41.3 -27,-76.2 -27.5,-77.8 l -1,-2.8 h -74.9 z" />
+      </g>
+    </g>
+  </g>
+</svg>

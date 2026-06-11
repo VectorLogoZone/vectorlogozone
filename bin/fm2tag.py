@@ -7,7 +7,7 @@ import frontmatter
 import os
 import yaml
 
-default_tagfn = '../www/_data/tags.yaml'
+default_tagfn = '../src/data/tags.yaml'
 default_path = "../src/content/logos"
 
 parser = argparse.ArgumentParser()

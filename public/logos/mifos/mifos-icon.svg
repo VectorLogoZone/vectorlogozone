@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64.000001"
+   version="1.1"
+   id="svg37"
+   sodipodi:docname="mifos-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata41">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>mifos</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview39"
+     showgrid="false"
+     inkscape:zoom="1.9833841"
+     inkscape:cx="23.948967"
+     inkscape:cy="22.65"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg37" />
+  <defs
+     id="defs11">
+    <style
+       id="style2">.cls-1{fill:#00b441;}.cls-2{fill:url(#linear-gradient);}.cls-3{fill:#7dd432;}.cls-4{fill:#0070c6;}.cls-5{fill:#141915;}</style>
+    <linearGradient
+       id="linear-gradient"
+       x1="160.22"
+       y1="34.52"
+       x2="175.86"
+       y2="7.4299998"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.5851145,0,0,0.5851145,9.9922301,16.747157)">
+      <stop
+         offset="0"
+         stop-color="#00aaf2"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#1d81d6"
+         id="stop6" />
+      <stop
+         offset="1"
+         id="stop8" />
+    </linearGradient>
+  </defs>
+  <title
+     id="title13">mifos</title>
+  <g
+     id="g873"
+     transform="matrix(2.4140433,0,0,2.4140433,-201.54476,-40.4213)">
+    <path
+       style="fill:#00b441;stroke-width:0.58511448"
+       inkscape:connector-curvature="0"
+       id="path15"
+       d="m 86.168287,43.252844 c 0.497347,-0.520752 0.982992,-1.053206 1.486191,-1.562256 q 4.288889,-4.29474 8.583629,-8.577778 c 0.222344,-0.222344 0.386176,-0.585115 0.81331,-0.157981 q 5.108053,5.166561 10.245353,10.298015 z"
+       class="cls-1" />
+    <path
+       style="fill:url(#linear-gradient);stroke-width:0.58511448"
+       inkscape:connector-curvature="0"
+       id="path17"
+       d="m 103.18927,26.21431 c -1.17023,1.170229 -2.37557,2.340458 -3.580903,3.510687 -0.263302,0.251599 -0.175534,0.368622 0.02926,0.585114 0.895223,0.86597 1.755343,1.755344 2.662263,2.627164 L 110,40.578871 v -21.15189 z"
+       class="cls-2" />
+    <path
+       style="fill:#7dd432;stroke-width:0.58511448"
+       inkscape:connector-curvature="0"
+       id="path19"
+       d="m 86.209245,16.747157 h 20.947095 c 0.0468,0.239897 -0.15213,0.315962 -0.2633,0.421282 l -9.683643,9.689497 c -0.269152,0.269152 -0.450538,0.544156 -0.883522,0.111171 -3.3176,-3.346855 -6.664455,-6.676156 -9.999607,-10.011309 a 1.3574656,1.3574656 0 0 1 -0.117023,-0.210641 z"
+       class="cls-3" />
+    <path
+       style="fill:#0070c6;stroke-width:0.58511448"
+       inkscape:connector-curvature="0"
+       id="path21"
+       d="M 83.488462,40.491103 V 19.596665 c 0.275004,0 0.368623,0.198939 0.497348,0.327664 l 9.601729,9.578324 c 0.269152,0.263302 0.555858,0.438836 0.111171,0.871821 -3.32345,3.276641 -6.623496,6.588389 -9.946946,9.888435 -0.03511,0.05851 -0.09947,0.09947 -0.263302,0.228194 z"
+       class="cls-4" />
+  </g>
+</svg>

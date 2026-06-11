@@ -1,9 +1,0 @@
----
-layout: none
-noindex: true
----
-{
-  "success": true,
-  "data" : { "sites": {{ site.data.socialmedia | jsonify }} }
-}
-

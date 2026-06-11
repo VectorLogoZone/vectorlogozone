@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="120"
+   height="60"
+   viewBox="0 0 120 60"
+   version="1.1"
+   id="svg9"
+   sodipodi:docname="ludwig-ar21.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata15">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Ludwig full neg</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview11"
+     showgrid="false"
+     inkscape:zoom="1.473913"
+     inkscape:cx="64.454277"
+     inkscape:cy="70"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+  <title
+     id="title2">Ludwig full neg</title>
+  <desc
+     id="desc4">Created with Sketch.</desc>
+  <g
+     id="Page-3"
+     style="fill:#000000;fill-rule:evenodd;stroke:none;stroke-width:1"
+     transform="matrix(0.23809524,0,0,0.23809524,4.915016,16.241045)">
+    <g
+       id="Ludwig-full-neg"
+       style="fill:#000000;fill-rule:nonzero">
+      <path
+         d="m 61.356932,47.787611 v 20 h 59.999998 v -20 z m -40,-40.0000004 V 87.787611 h 20 V 7.7876106 Z m 0,80.0000004 V 107.78761 H 121.35693 V 87.787611 Z m 139.999998,0 v 19.999999 h 20 V 87.787611 Z m 0,-80.0000004 V 27.787611 h 20 V 7.7876106 Z m -99.999998,0 V 47.787611 h 20 V 7.7876106 Z m 39.999998,0 V 47.787611 h 20 V 7.7876106 Z m 40,0 V 107.78761 h 20 V 7.7876106 Z m 40,20.0000004 v 60 h 20 v -60 z m 40,-20.0000004 V 87.787611 h 20 V 7.7876106 Z m 40,0 V 87.787611 h 20 V 7.7876106 Z m 40,0 V 87.787611 h 20 V 7.7876106 Z m 40,0 V 107.78761 h 20 V 7.7876106 Z m 40,0 V 107.78761 h 20 V 7.7876106 Z m 20,80.0000004 v 19.999999 h 40 V 87.787611 Z m 10,-40 v 20 h 30 v -20 z m 10,20 v 20 h 20 v -20 z m -20,-60.0000004 V 27.787611 h 40 V 7.7876106 Z m -180,80.0000004 v 19.999999 h 100 V 87.787611 Z m -40,19.999999 8.69336,-0.14356 11.30664,-11.646479 v -8.20996 h -20 z m 0,-99.9999994 V 27.787611 h 20 V 19.57765 L 190.05029,7.9311656 Z"
+         id="Combined-Shape"
+         style="fill:#000000"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+    </g>
+  </g>
+</svg>

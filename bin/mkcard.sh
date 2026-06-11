@@ -19,15 +19,15 @@ if ! [ -x "$(command -v mogrify)" ]; then
 fi
 
 SCRIPT_HOME="$( cd "$( dirname "$0" )" && pwd )"
-WWW_HOME=$(realpath "${SCRIPT_HOME}/../www")
+LOGO_HOME=$(realpath "${SCRIPT_HOME}/../src/content/logos")
 
-find ${WWW_HOME} -name '*-ar21.svg' -print0 |
+find ${LOGO_HOME} -name '*-ar21.svg' -print0 |
     sort -z |
     while IFS= read -r -d $'\0' SVG; do
 
         CARD=${SVG%.svg}.png
         #echo "DEBUG: processing ${SVG} to ${CARD}"
-        URLPATH=${SVG#"${WWW_HOME}"}
+        URLPATH=${SVG#"${LOGO_HOME}"}
 
         if [ -e "${CARD}" ] ; then
             echo "DEBUG: existing card found (${CARD})"

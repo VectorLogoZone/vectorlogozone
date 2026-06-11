@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 64 64.000002"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="hootsuite-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata23">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Hootsuite</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview21"
+     showgrid="false"
+     inkscape:zoom="1.3836735"
+     inkscape:cx="122.5"
+     inkscape:cy="26.594999"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg19" />
+  <defs
+     id="defs5">
+    <mask
+       id="a"
+       width="244.96"
+       height="53.19"
+       x=".04"
+       y="0"
+       maskUnits="userSpaceOnUse">
+      <path
+         d="M 0,0.11 H 245 V 53.3 H 0 Z"
+         transform="translate(0,-0.11)"
+         id="path2"
+         inkscape:connector-curvature="0"
+         style="fill:#ffffff" />
+    </mask>
+  </defs>
+  <title
+     id="title7">Hootsuite</title>
+  <g
+     id="g840"
+     transform="matrix(2.8112682,0,0,2.8112682,-17.380099,-52.338046)">
+    <path
+       style="fill:currentColor;stroke-width:0.42800885"
+       inkscape:connector-curvature="0"
+       id="path15"
+       d="m 20.182341,22.558933 a 1.0828624,1.0828624 0 1 1 -1.42955,1.42527 2.1400443,2.1400443 0 0 0 -0.09844,0.642013 2.1657248,2.1657248 0 1 0 4.32717,0 2.0202018,2.0202018 0 0 0 -0.09416,-0.637733 2.1400443,2.1400443 0 0 0 -2.705016,-1.42955 z m -4.776579,2.058723 a 1.0871425,1.0871425 0 0 1 -0.428009,-2.075843 2.1400443,2.1400443 0 0 0 -0.637733,-0.09416 2.165725,2.165725 0 0 0 0,4.33145 2.1400443,2.1400443 0 0 0 2.170005,-2.140045 2.2855673,2.2855673 0 0 0 -0.09416,-0.642013 1.0828624,1.0828624 0 0 1 -1.010101,0.620613 z" />
+    <path
+       style="fill:currentColor;stroke-width:0.42800885"
+       inkscape:connector-curvature="0"
+       id="path17"
+       d="m 21.359365,19.639913 a 7.5500763,7.5500763 0 0 0 -7.588597,0 7.5243958,7.5243958 0 0 0 -3.770758,-1.001541 v 7.580037 A 15.147234,15.147234 0 0 0 25.130123,41.382763 V 18.638372 a 7.5243958,7.5243958 0 0 0 -3.770758,1.001541 z m -0.552131,8.243451 a 3.2657076,3.2657076 0 0 1 -1.733436,-0.509331 l -1.515152,1.506591 -1.510871,-1.519431 a 3.1801058,3.1801058 0 0 1 -1.712035,0.50077 3.2528673,3.2528673 0 1 1 3.240027,-3.531073 3.2443072,3.2443072 0 1 1 3.222907,3.552474 z" />
+  </g>
+</svg>

@@ -18,7 +18,7 @@ USER_AGENT="VectorLogoZone Icon Fetcher/1.0"
 TIMEOUT=15
 SVGPORN_JSON_URL="https://raw.githubusercontent.com/gilbarbara/logos/master/logos.json"
 LOGODIR = "../src/content/logos"
-DATAFILE = "../www/_data/svgporn.json"
+DATAFILE = "../src/data/svgporn.json"
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-q", "--quiet", help="hide status messages", default=True, dest='verbose', action="store_false")

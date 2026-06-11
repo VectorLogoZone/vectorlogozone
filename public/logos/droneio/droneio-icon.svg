@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   role="img"
+   viewBox="-0.21 0.79 63.999995 63.999997"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="drone-icon.svg"
+   width="64"
+   height="64"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata22">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Drone logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs20" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     id="namedview18"
+     showgrid="false"
+     inkscape:zoom="4.4962197"
+     inkscape:cx="26.634891"
+     inkscape:cy="15.014569"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16" />
+  <title
+     id="title2">Drone logo</title>
+  <style
+     id="style4">svg {enable-background:new 0 0 282 302}</style>
+  <style
+     id="style6">.st8{fill:#252728}</style>
+  <g
+     id="g3729"
+     transform="matrix(1.4130072,0,0,1.4130072,-7.9815392,-5.1296314)">
+    <path
+       style="fill:#252728;stroke-width:0.16682677"
+       inkscape:connector-curvature="0"
+       id="path8"
+       class="st8"
+       d="M 28.188442,7.5676279 C 11.122062,7.5676279 5.5,22.448576 5.5,27.887129 h 13.82994 c 0,0 1.951873,-7.090138 8.858502,-7.090138 6.906628,0 8.858502,7.090138 8.858502,7.090138 H 50.79347 c 0,-5.455235 -5.555332,-20.3195011 -22.605028,-20.3195011 M 45.721936,31.423856 h -8.674992 c 0,0 -1.518124,7.090138 -8.858502,7.090138 -7.340379,0 -8.858502,-7.090138 -8.858502,-7.090138 h -8.524848 c 0,1.818412 6.689753,14.680757 17.466763,14.680757 10.77701,0 17.450081,-10.576818 17.450081,-14.680757" />
+    <circle
+       style="fill:#252728;stroke-width:0.16682677"
+       id="circle10"
+       class="st8"
+       r="5.8222547"
+       cy="29.805637"
+       cx="28.155077" />
+  </g>
+</svg>
