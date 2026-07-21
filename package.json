@@ -10,7 +10,7 @@
     "preview": "astro preview"
   },
   "dependencies": {
-    "astro": "^7.0.7",
+    "astro": "^7.1.0",
     "bootstrap": "^5.3.8",
     "marked": "^18.0.6",
     "yaml": "^2.8.1"
