@@ -16,7 +16,7 @@ import sys
 import time
 import yaml
 
-default_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "www"))
+default_path = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
 parser = argparse.ArgumentParser()
 parser.add_argument("-q", "--quiet", help="hide status messages", default=True, dest='verbose', action="store_false")
@@ -29,7 +29,7 @@ args = parser.parse_args()
 if args.verbose:
     sys.stdout.write("INFO: meta link check starting at %s\n" % datetime.datetime.fromtimestamp(time.time()).strftime('%Y-%m-%d %H:%M:%S'))
 
-sm_file = os.path.join(args.directory, "_data", "socialmedia.yaml")
+sm_file = os.path.join(args.directory, "src", "data", "socialmedia.yaml")
 if not os.path.exists(sm_file):
     sys.stdout.write("ERROR: unable to find %s\n" % sm_file)
     sys.exit(1)
