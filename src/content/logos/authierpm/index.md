@@ -10,10 +10,10 @@ font:
   name: Inter
 guide: https://github.com/authier-pm/authier/blob/main/shared/imgs/logo.svg
 images:
-- authier-ar21.svg
-- authier-icon.svg
-- authier-official.svg
-logohandle: authier
+- authierpm-ar21.svg
+- authierpm-icon.svg
+- authierpm-official.svg
+logohandle: authierpm
 sort: authier
 title: Authier
 twitter: https://x.com/authierpm
