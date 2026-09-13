@@ -1,7 +1,7 @@
 ---
-guide: Terminator
-logohandle: blogspot_gnometerminator
-sort: gnometerminator
-title: Terminator
-website: 'https://gnometerminator.blogspot.com/p/introduction.html'
+codehost: 'https://github.com/gnome-terminator/terminator'
+logohandle: gnome_terminator
+sort: terminator
+title: Gnome Terminator
+website: 'https://gnome-terminator.org/'
 ---
