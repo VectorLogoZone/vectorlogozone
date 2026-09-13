@@ -1,5 +1,5 @@
 ---
-discord: https://discord.paper.design/
+discord: https://discord.gg/xqBrwhuh2J
 instagram: https://www.instagram.com/paper.design
 logohandle: paperdesign
 reddit: https://www.reddit.com/r/paperdesign/

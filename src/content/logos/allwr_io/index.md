@@ -1,4 +1,8 @@
 ---
+colors:
+- "#001935"
+- "#e0ab3a"
+guide: https://www.allwr.io/assets/img/logo-horizontal.svg
 images:
 - allwr_io-ar21.svg
 - allwr_io-icon.svg
@@ -12,8 +16,4 @@ tags:
 title: ALL WR
 type: Logo
 website: https://www.allwr.io
-colors:
-- "#001935"
-- "#e0ab3a"
-guidelines: https://www.allwr.io/assets/img/logo-horizontal.svg
 ---
