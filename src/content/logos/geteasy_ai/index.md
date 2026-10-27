@@ -12,7 +12,6 @@ images:
 - geteasy_ai-icon.svg
 - geteasy_ai-official.svg
 - geteasy_ai-tile.svg
-- geteasy_ai-wordmark.svg
 logohandle: geteasy_ai
 sort: easyai
 title: Easy AI
