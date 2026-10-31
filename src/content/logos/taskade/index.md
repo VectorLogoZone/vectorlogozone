@@ -1,5 +1,5 @@
 ---
-guidelines: https://www.taskade.com/press
+guide: https://www.taskade.com/press
 images:
 - taskade-ar21.svg
 - taskade-icon.svg
