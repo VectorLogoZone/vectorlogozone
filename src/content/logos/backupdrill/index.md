@@ -1,4 +1,5 @@
 ---
+codehost: https://github.com/backupdrill/cli
 colors:
 - '#16263F'
 - '#22D3EE'
@@ -6,7 +7,6 @@ colors:
 font:
   google: https://fonts.google.com/specimen/Inter
   name: Inter
-github: https://github.com/backupdrill
 images:
 - backupdrill-ar21.svg
 - backupdrill-icon.svg
